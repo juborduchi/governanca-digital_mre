@@ -37,5 +37,34 @@ O maior "chefão" que enfrentamos foi descobrir quais modelos do Google não imp
 Com o modelo final definido, o Google nos apresentou um último desafio: o **Erro 503 (Serviço Indisponível)**. Isso indicava que o modelo Lite gratuito que escolhemos estava com demanda altíssima nos servidores mundiais.
 - **Modificação Final:** Ajustei o código na mosca para tratar o Erro 503 com a mesma paciência do erro de cota. Em vez de abortar o programa por conta de congestionamento do servidor, o script passou a cruzar os braços, esperar 65 segundos na fila, e refazer o pedido até ser aceito.
 
-## 7. Conclusão Final
-Após essas dezenas de modificações estruturais para lidar com a imprevisibilidade da API gratuita, o script tornou-se extremamente robusto. Ele fluiu de forma orgânica, driblou as panes de rede, contornou os limites de cota impeditivos e leu as **143 notas do ano de 2026 sem intervenção humana**, separando impecavelmente as 20 relevantes e ignorando o ruído das 123 inúteis para o seu TCC/Pesquisa.
+## 7. Refinamento da Análise e da Planilha
+Após a primeira rodada bem-sucedida, identificamos oportunidades de melhoria na qualidade da análise e na estrutura dos dados exportados. Foram implementadas três mudanças:
+
+### 7.1. Ampliação dos Temas Filtrados — Governança de Dados
+O escopo temático foi expandido. Originalmente, a IA filtrava notas relacionadas a três governanças: **Global Digital**, **da Inteligência Artificial** e **da Internet**. Com o refinamento, adicionamos a **Governança de Dados** como quarto eixo temático, cobrindo questões como fluxos transfronteiriços de dados, privacidade, soberania sobre dados e regulamentações como a LGPD.
+
+### 7.2. Nova Coluna "Ano" na Planilha
+Para facilitar a análise temporal e a criação de gráficos por ano, adicionamos uma coluna **"Ano"** extraída automaticamente da data de cada nota. A coluna "Data" original foi mantida para preservar a informação completa.
+
+### 7.3. Separação das Justificativas em Duas Colunas
+Na versão original, havia uma única coluna "Justificativa" que misturava a explicação da relevância com a fundamentação da nota. No refinamento, essa coluna foi desmembrada em:
+- **Justificativa da Relevância**: Explica por que a IA considerou a nota relevante aos temas de governança digital.
+- **Justificativa da Nota (Evidências)**: Identifica e cita **passagens específicas e trechos literais** do texto original da nota que comprovam e fundamentam a pontuação de 1 a 5 atribuída.
+
+Essa separação foi motivada pela necessidade acadêmica de distinguir a decisão de filtragem (é ou não relevante?) da decisão de classificação (qual nota de 1 a 5?), garantindo que cada uma tenha sua fundamentação própria rastreável.
+
+### 7.4. Impacto nos Resultados
+Ao reprocessar as 143 notas de 2026 com as mudanças, o total de notas relevantes permaneceu em **20**, mas a distribuição das notas se alterou ligeiramente (de 8 notas com pontuação 1 para 10, e a única nota 4 foi reclassificada). Isso ocorre porque a mudança na estrutura do prompt (obrigando a IA a citar trechos literais) faz o modelo refletir de forma mais aprofundada, podendo alterar classificações de notas que estavam "na fronteira" entre duas pontuações.
+
+## 8. Criação do Plano de Implementação Online
+Além do script local que automatiza a análise em massa via API, foi criado um documento chamado **`implementacao_online.md`**. Esse arquivo é um plano autossuficiente que pode ser colado diretamente em qualquer chat de IA (ChatGPT, Gemini, Claude, etc.) para que a IA execute a mesma análise manualmente, sem necessidade de rodar código. O documento contém:
+- A persona do analista (pesquisador sênior de Relações Internacionais).
+- As definições conceituais dos quatro eixos de governança.
+- A escala completa de 1 a 5.
+- O formato de saída esperado (tabela padronizada).
+- As regras de rigor analítico (citar trechos literais, não forçar relevância, etc.).
+
+Isso permite que a pesquisadora replique ou valide a análise em outros ambientes sem depender do script Python.
+
+## 9. Conclusão Final
+Após essas dezenas de modificações estruturais para lidar com a imprevisibilidade da API gratuita, e os refinamentos de qualidade analítica e de dados, o script tornou-se extremamente robusto. Ele fluiu de forma orgânica, driblou as panes de rede, contornou os limites de cota impeditivos e leu as **143 notas do ano de 2026 sem intervenção humana**, separando impecavelmente as 20 relevantes e ignorando o ruído das 123 inúteis para a pesquisa. A planilha final agora conta com 8 colunas estruturadas (Ano, Data, Título, Link, Parágrafos, Nota Atribuída, Justificativa da Relevância e Justificativa da Nota com Evidências), prontas para análise acadêmica.

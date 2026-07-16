@@ -43,11 +43,18 @@ class AnaliseNota(BaseModel):
     relevante: bool = Field(
         description=(
             "PRIMEIRO, analise se a nota aborda diretamente os conceitos de "
-            "Governança Global Digital, Governança da Inteligência Artificial "
-            "ou Governança da Internet. Retorne true APENAS se o tema central "
+            "Governança Global Digital, Governança da Inteligência Artificial, "
+            "Governança da Internet ou Governança de Dados. Retorne true APENAS se o tema central "
             "ou um dos temas principais da nota estiver relacionado a esses conceitos. "
             "Notas que apenas mencionam tecnologia de passagem, calendários de eventos "
             "ou temas genéricos de cooperação internacional NÃO devem ser consideradas relevantes."
+        )
+    )
+    justificativa_relevancia: str = Field(
+        description=(
+            "Explique por que a nota foi considerada relevante (ou não) aos temas de "
+            "Governança Global Digital, Governança da IA, Governança da Internet ou Governança de Dados. "
+            "Se não relevante, explique brevemente por que a nota não se enquadra."
         )
     )
     nota: Optional[int] = Field(
@@ -65,11 +72,13 @@ class AnaliseNota(BaseModel):
             "Se 'relevante' for false, deixe como null."
         )
     )
-    justificativa: str = Field(
+    justificativa_nota: Optional[str] = Field(
+        default=None,
         description=(
-            "Se relevante: explique detalhadamente o posicionamento identificado "
-            "nos parágrafos da nota à imprensa, citando evidências do texto. "
-            "Se não relevante: explique brevemente por que a nota não se enquadra."
+            "SOMENTE se 'relevante' for true: justifique a nota atribuída identificando "
+            "e citando passagens específicas e trechos literais do texto da nota à imprensa "
+            "que comprovam e fundamentam a pontuação escolhida. "
+            "Se 'relevante' for false, deixe como null."
         )
     )
 
@@ -107,7 +116,7 @@ Existem dois extremos de como a governança digital pode ser encarada:
 ## INSTRUÇÕES DE ANÁLISE:
 
 1. Leia atentamente o texto dos parágrafos da nota à imprensa.
-2. PRIMEIRO, determine se a nota é RELEVANTE para os temas de Governança Global Digital, Governança da IA ou Governança da Internet. Uma nota que fala apenas de comércio, visitas diplomáticas genéricas, questões humanitárias sem conexão digital, ou calendários de eventos NÃO é relevante.
+2. PRIMEIRO, determine se a nota é RELEVANTE para os temas de Governança Global Digital, Governança da IA, Governança da Internet ou Governança de Dados. Uma nota que fala apenas de comércio, visitas diplomáticas genéricas, questões humanitárias sem conexão digital, ou calendários de eventos NÃO é relevante.
 3. SOMENTE SE a nota for relevante, analise o posicionamento do MRE e atribua uma nota de 1 a 5 na escala acima.
 4. Forneça uma justificativa detalhada baseada estritamente no conteúdo dos parágrafos."""
 
@@ -362,13 +371,23 @@ def main():
             analise = chamar_gemini(texto_consolidado)
 
             if analise and analise.relevante:
+                data_nota = nota.get("data", "Não informada")
+                # Extrai o ano da data (formato esperado: DD/MM/YYYY ou similar)
+                ano_nota = ""
+                if data_nota and data_nota != "Não informada":
+                    match_ano = re.search(r'(\d{4})', data_nota)
+                    if match_ano:
+                        ano_nota = match_ano.group(1)
+
                 dados_relatorio = {
-                    "Data": nota.get("data", "Não informada"),
+                    "Ano": ano_nota,
+                    "Data": data_nota,
                     "Título": nota.get("titulo", "Sem título"),
                     "Link": nota.get("link", ""),
                     "Parágrafos": texto_consolidado,
                     "Nota Atribuída": analise.nota,
-                    "Justificativa": analise.justificativa
+                    "Justificativa da Relevância": analise.justificativa_relevancia,
+                    "Justificativa da Nota (Evidências)": analise.justificativa_nota or ""
                 }
                 resultados_finais.append(dados_relatorio)
                 notas_relevantes_encontradas += 1
@@ -398,7 +417,7 @@ def main():
         print(f"  Notas descartadas (irrelevantes): {len(ids_processados) - len(resultados_finais)}")
 
         df = pd.DataFrame(resultados_finais)
-        colunas_ordem = ["Data", "Título", "Link", "Parágrafos", "Nota Atribuída", "Justificativa"]
+        colunas_ordem = ["Ano", "Data", "Título", "Link", "Parágrafos", "Nota Atribuída", "Justificativa da Relevância", "Justificativa da Nota (Evidências)"]
         df = df[colunas_ordem]
 
         df.to_excel(ARQUIVO_FINAL, index=False, engine='openpyxl')
