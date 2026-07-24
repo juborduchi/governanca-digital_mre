@@ -1,0 +1,4 @@
+-verifique o contexto da pesquisa em andamento no arquivo contexto01.md
+-exponha sempre para o usuário o que você entendeu pelo contexto da pesquisa.
+-em seguida, a partir do contexto que você obteve do prompts02.md das notícias e considerando o contexto da pesquisa que foi passado no contexto01.md, construa uma tabela com as notícias que você acha relevantes para ajudar na argumentação da pesquisa, você deve sempre levar em consideração que a notícia deve ter relação com o conteúdo passado no contexto, não fugindo deste contexto (mesmo que você ache importante)  com justificativas para suas sugestões, aponte a passagem do texto que justifique sua sugestão, alem disso insira o título e a data da notícia que voce achar relevantes
+-salve as sugestoes em um arquivo de tabela02.md na pasta resultados
