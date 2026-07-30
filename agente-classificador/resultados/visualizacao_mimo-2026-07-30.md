@@ -1,190 +1,251 @@
-# Relatório de Análise - Escala Ordinal
-## Posicionamento do MRE sobre Governança Global Digital
+# Relatório de Análise com Gráficos
+## Escala Ordinal - Posicionamento do MRE
 
-**Arquivo analisado**: escala-ordinal_mimo-2026-07-30.csv  
-**Data da geração**: 2026-07-30  
-**Total de registros**: 7  
-**Período**: Janeiro - Dezembro 2025
+**Arquivo**: escala-ordinal_mimo-2026-07-30.csv  
+**Total**: 7 registros | **Período**: 2025
 
 ---
 
 ## 1. Resumo Executivo
 
-| Métrica Principal | Valor |
-|-------------------|-------|
-| Total de notas avaliadas | 7 |
-| Média da escala (1-5) | 2.43 |
-| Tendência predominante | Soberanista |
-| Notas soberanistas (1-2) | 4 (57.1%) |
-| Notas mistas (3) | 3 (42.9%) |
-| Notas liberais (4-5) | 0 (0.0%) |
-
-**Conclusão rápida**: O posicionamento do MRE é **predominantemente soberanista** (média 2.43), com foco em soberania digital, multilateralismo e proteção de direitos.
-
----
-
-## 2. Estatísticas Descritivas
-
-### Métricas Gerais
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  TOTAL: 7 notas  │  MÉDIA: 2.43  │  MODA: 2           ║
+║  TENDÊNCIA: SOBERANISTA                                      ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 | Métrica | Valor |
 |---------|-------|
-| Total de registros | 7 |
+| Total | 7 |
 | Média | 2.43 |
-| Mediana | 2 |
 | Moda | 2 |
-| Desvio padrão | 0.49 |
-| Mínimo | 2 |
-| Máximo | 3 |
-| Amplitude | 1 |
-| Coef. variação | 20.4% |
-
-### Distribuição por Categoria
-
-| Nota | Descrição | Qtd | % | Visual |
-|------|-----------|-----|---|--------|
-| 1 | Soberania Digital (extremo) | 0 | 0.0% | ░░░░░░░░░░ |
-| 2 | Predominantemente Soberanista | 4 | 57.1% | █████░░░░░ |
-| 3 | Modelo Misto | 3 | 42.9% | ████░░░░░░ |
-| 4 | Predominantemente Liberal | 0 | 0.0% | ░░░░░░░░░░ |
-| 5 | Baixa Intervenção Estatal | 0 | 0.0% | ░░░░░░░░░░ |
-
-### Distribuição por Categoria Agregada
-
-| Categoria | Qtd | % | Visual |
-|-----------|-----|---|--------|
-| Soberanista (1-2) | 4 | 57.1% | █████░░░░░ |
-| Misto (3) | 3 | 42.9% | ████░░░░░░ |
-| Liberal (4-5) | 0 | 0.0% | ░░░░░░░░░░ |
+| Mín-Máx | 2-3 |
 
 ---
 
-## 3. Análise Temporal
+## 2. Gráfico de Barras Horizontais
 
-### Distribuição por Mês
-
-| Mês | Qtd | % | Tendência |
-|-----|-----|---|-----------|
-| Janeiro | 0 | 0.0% | ↓ |
-| Fevereiro | 2 | 28.6% | ↑ |
-| Março | 1 | 14.3% | ↑ |
-| Abril | 0 | 0.0% | ↓ |
-| Maio | 0 | 0.0% | ↓ |
-| Junho | 0 | 0.0% | ↓ |
-| Julho | 1 | 14.3% | ↑ |
-| Agosto | 0 | 0.0% | ↓ |
-| Setembro | 0 | 0.0% | ↓ |
-| Outubro | 1 | 14.3% | ↑ |
-| Novembro | 2 | 28.6% | ↑ |
-| Dezembro | 0 | 0.0% | ↓ |
-
-### Evolução Mensal (Gráfico)
+### Distribuição por Nota
 
 ```
-Jan  0
-Fev ██ 2
-Mar █ 1
-Abr  0
-Mai  0
-Jun  0
-Jul █ 1
-Ago  0
-Set  0
-Out █ 1
-Nov ██ 2
-Dez  0
+Nota 1 (Extremo Soberanista)  ░░░░░░░░░░░░░░░░░░░░  0.0% (0)
+Nota 2 (Soberanista)         ████████████████████  57.1% (4)
+Nota 3 (Misto)               ██████████████░░░░░░  42.9% (3)
+Nota 4 (Liberal)             ░░░░░░░░░░░░░░░░░░░░  0.0% (0)
+Nota 5 (Extremo Liberal)     ░░░░░░░░░░░░░░░░░░░░  0.0% (0)
+
+                             0%       25%       50%       75%      100%
 ```
 
-### Análise por Trimestre
+### Categorias Agregadas
 
-| Trimestre | Qtd | % | Período |
+```
+Soberanista (1-2)  ████████████████████  57.1%
+Misto (3)          ██████████████░░░░░░  42.9%
+Liberal (4-5)      ░░░░░░░░░░░░░░░░░░░░   0.0%
+```
+
+---
+
+## 3. Gráfico de Barras Verticais (Temporal)
+
+### Notas por Mês
+
+```
+     |
+  2  |     ██          ██
+  1  |     ██    ██    ██    ██    ██    ██
+  0  |_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____
+       Jan   Fev   Mar   Abr   Mai   Jun   Jul   Ago   Set   Out   Nov   Dez
+         0     2     1     0     0     0     1     0     0     1     2     0
+```
+
+### Por Trimestre
+
+```
+Q1 (Jan-Mar)  ████████████████  3 notas
+Q2 (Abr-Jun)  ████████████░░░░  0 notas
+Q3 (Jul-Set)  ████████████████  1 notas
+Q4 (Out-Dez)  ████████████░░░░  3 notas
+```
+
+---
+
+## 4. Histograma de Frequências
+
+### Distribuição das Notas
+
+```
+Frequência
+    │
+  4  │         ██████████████████████████
+  3  │         ██████████████████████████
+  2  │         ██████████████████████████
+  1  │         ██████████████████████████
+  0  │_____|_________|_________|_________|_________|_____
+           1         2         3         4         5
+                        Nota
+```
+
+**Moda**: Nota 2 (4 ocorrências)
+
+---
+
+## 5. Gráfico de Pizza (ASCII)
+
+### Composição por Categoria
+
+```
+                  ┌─────────────────────────────┐
+                 ╱                               ╲
+                ╱                                 ╲
+               ╱         SOBERANISTA               ╲
+              ╱            (57.1%)                  ╲
+             ╱                 ▲                     ╲
+            │                 ╱ ╲                     │
+            │                ╱   ╲                    │
+            │               ╱     ╲                   │
+             ╲             ╱       ╲                 ╱
+              ╲           ╱    MISTO╲               ╱
+               ╲         ╱   (42.9%) ╲             ╱
+                ╲       ╱             ╲           ╱
+                 ╲     ╱               ╲         ╱
+                  ╲   ╱                 ╲       ╱
+                   ╲ ╱                   ╲     ╱
+                    ╲                     ╲   ╱
+                     └─────────────────────┘
+```
+
+**Legenda**:
+- `████` Soberanista: 4 notas (57.1%)
+- `░░░░` Misto: 3 notas (42.9%)
+- `    ` Liberal: 0 notas (0.0%)
+
+---
+
+## 6. Indicador de Posição na Escala
+
+### Onde o MRE se Posiciona
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   SOBERANISTA                                              LIBERAL          │
+│        1            2            3            4            5                │
+│        │            │            │            │            │                │
+│        ├────────────┼────────────┼────────────┼────────────┤                │
+│                     ▲                                                 │
+│                    ╱│╲                                                │
+│                   ╱ │ ╲                                               │
+│                  ╱  │  ╲                                              │
+│                     │                                                 │
+│                MÉDIA: 2.43                                              │
+│                                                                             │
+│   [████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   │
+│   1                        2.43                                 5          │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+**Posicionamento**: Tendência **Soberanista** (média 2.43)
+
+---
+
+## 7. Mapa de Calor (ASCII)
+
+### Distribuição por Mês e Nota
+
+```
+┌────────────────────────────────────────────────────────────────────────────┐
+│          Jan   Fev   Mar   Abr   Mai   Jun   Jul   Ago   Set   Out   Nov   Dez  │
+├────────────────────────────────────────────────────────────────────────────┤
+│ Nota 1  │  ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░ │
+├────────────────────────────────────────────────────────────────────────────┤
+│ Nota 2  │  ░░   ██   ░░   ░░   ░░   ░░   ██   ░░   ░░   ██   ░░   ░░ │
+├────────────────────────────────────────────────────────────────────────────┤
+│ Nota 3  │  ░░   ░░   ██   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ██   ░░ │
+├────────────────────────────────────────────────────────────────────────────┤
+│ Nota 4  │  ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░ │
+├────────────────────────────────────────────────────────────────────────────┤
+│ Nota 5  │  ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░   ░░ │
+└────────────────────────────────────────────────────────────────────────────┘
+
+LEGENDA: ░░ = 0 registros  │  ██ = 1+ registros
+```
+
+---
+
+## 8. Tabela de Distribuição Completa
+
+| Nota | Descrição | Qtd | % | Gráfico |
+|------|-----------|-----|---|---------|
+| 1 | Extremo Soberanista | 0 | 0.0% | `░░░░░░░░░░░░░░░░░░░░` |
+| 2 | Soberanista | 4 | 57.1% | `████████████████████` |
+| 3 | Misto | 3 | 42.9% | `██████████████░░░░░░` |
+| 4 | Liberal | 0 | 0.0% | `░░░░░░░░░░░░░░░░░░░░` |
+| 5 | Extremo Liberal | 0 | 0.0% | `░░░░░░░░░░░░░░░░░░░░` |
+
+---
+
+## 9. Análise Temporal Detalhada
+
+### Evolução Mensal (Gráfico de Linha)
+
+```
+Notas
+  2 ┤                    ●
+    │                    │
+  1 ┤     ●────●────●───●────●────●────●────●────●────●
+    │     │    │    │    │    │    │    │    │    │    │
+  0 ┼─────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────
+        Jan  Fev  Mar  Abr  Mai  Jun  Jul  Ago  Set  Out  Nov  Dez
+         0    2    1    0    0    0    1    0    0    1    2    0
+```
+
+### Resumo Trimestral
+
+| Trimestre | Qtd | % | Gráfico |
 |-----------|-----|---|---------|
-| Q1 | 3 | 42.9% | Jan-Mar |
-| Q2 | 0 | 0.0% | Abr-Jun |
-| Q3 | 1 | 14.3% | Jul-Set |
-| Q4 | 3 | 42.9% | Out-Dez |
+| Q1 | 3 | 42.9% | `████████████████` |
+| Q2 | 0 | 0.0% | `██████████░░░░░░` |
+| Q3 | 1 | 14.3% | `████████████████` |
+| Q4 | 3 | 42.9% | `██████████░░░░░░` |
 
 ---
 
-## 4. Rankings
-
-### Notas Mais Comuns
-
-| Nota | Descrição | Qtd | % |
-|------|-----------|-----|---|
-| 2 | Pred. Soberanista | 4 | 57.1% |
-
-### Notas Menos Comuns
-
-| Nota | Descrição | Qtd | % |
-|------|-----------|-----|---|
-| 1 | Soberania Digital | 0 | 0.0% |
-| 4 | Pred. Liberal | 0 | 0.0% |
-| 5 | Baixa Intervenção | 0 | 0.0% |
-
----
-
-## 5. Indicador de Tendência
-
-```
-Soberanista ←————————●————————→ Liberal
-    1    2    3    4    5
-              ↑
-          Média: 2.43
-```
-
-**Posicionamento**: O MRE apresenta tendência **predominantemente soberanista** (média 2.43).
-
----
-
-## 6. Padrões e Insights
+## 10. Padrões e Insights
 
 ### Padrões Identificados
 
-1. **Concentração em Notas Intermediárias**: 7 de 7 notas (100.0%) estão nas notas 2 e 3
-2. **Ausência de Extremos**: Nenhuma nota 1 ou 5, indicando abordagem moderada
-3. **Predominância Soberanista**: 4 notas (57.1%) com tendência soberanista
+1. **Concentração em Notas 2 e 3**: 100.0% dos dados
+2. **Ausência de Extremos**: Nenhuma nota 1 ou 5
+3. **Tendência Soberanista**: 57.1% na nota 2
 
-### Observações Relevantes
+### Observações
 
-- O MRE adota posição **consistente** em temas de governança digital
-- Há equilíbrio entre **regulação** e **inovação**
-- Predomínio de **multilateralismo** e **proteção de direitos**
-
-### Anomalias ou Destaques
-
-- **Média 2.43**: posicionamento claramente definido
-- **Desvio padrão 0.49**: baixa dispersão, indica coerência
+- Posicionamento **consistente** do MRE
+- Equilíbrio entre **regulação** e **inovação**
+- Foco em **multilateralismo**
 
 ---
 
-## 7. Conclusão
+## 11. Conclusão
 
-### Síntese
-O posicionamento do Ministério das Relações Exteriores do Brasil em relação à Governança Global Digital em 2025 apresenta **característica predominantemente soberanista**, com média de 2.43 na escala de 1 a 5.
-
-### Tendências
-
-- **Soberania Digital**: Foco em soberania tecnológica e proteção de dados
-- **Multilateralismo**: Papel central da ONU nas decisões sobre IA
-- **Proteção de Direitos**: ênfase em direitos humanos e garantias democráticas
-- **Regulação Ativa**: abordagem regulatória em detrimento de autorregulação
-
-### Recomendações
-
-- Manter coerência no posicionamento em fóruns internacionais
-- Aprofundar articulação com países do Sul Global
-- Fortalecer narrativa sobre soberania digital
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                           SÍNTESE DOS RESULTADOS                              ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║  • Posicionamento: PREDOMINANTEMENTE SOBERANISTA                              ║
+║  • Média: 2.43 (escala 1-5)                                                 ║
+║  • Tendência: Soberania digital + Multilateralismo + Proteção de direitos     ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
-
-## Metodologia
 
 **Fonte**: escala-ordinal_mimo-2026-07-30.csv  
-**Tipo de análise**: Escala Ordinal (1-5)  
-**Modelo de IA**: mimo  
-**Data de geração**: 2026-07-30 17:51
-
----
-
-*Relatório gerado automaticamente pela skill de visualização*
+**Gerado em**: 30/07/2026 17:55  
+**Modelo**: mimo
