@@ -1,0 +1,902 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Retirada de cidadãos brasileiros do Afeganistão",
+            "subtitulo": "",
+            "data": "30/08/2021",
+            "horario": "20h13",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/retirada-de-cidadaos-brasileiros-do-afeganistao",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro concluiu, com êxito, a retirada do Afeganistão de dois nacionais brasileiros, bem como de suas famílias, que haviam solicitado auxílio do Itamaraty para deixar aquele país.",
+                "Na última quinta-feira, um dos brasileiros, acompanhado de cinco familiares afegãos, foi evacuado para a Espanha, após gestões realizadas pelo Itamaraty junto aos governos da Alemanha e da Espanha. Em 29 de agosto, foi possível transportar o segundo nacional e seus seis familiares afegãos até o Paquistão, em operação terrestre conduzida pela Embaixada do Brasil em Islamabad em coordenação com o governo paquistanês. Todos se encontram em boas condições de saúde e em segurança.",
+                "O Itamaraty segue monitorando a situação dos cidadãos brasileiros que manifestaram interesse em permanecer no Afeganistão. Está também atento aos pedidos de afegãos com visto de residência no Brasil, dentro das possibilidades legais de apoio a estrangeiros."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-08-30-20h13-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-retirada_de_cidadaos_brasileiros_do_afeganistao.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/08/30"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "108"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita a Brasília do Ministro das Relações Exteriores do Chile, Andrés Allamand - 30 e 31 de agosto de 2021",
+            "subtitulo": "",
+            "data": "29/08/2021",
+            "horario": "12h13",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-a-brasilia-do-ministro-das-relacoes-exteriores-do-chile-andres-allamand-30-e-31-de-agosto-de-2021",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministro das Relações Exteriores do Chile, Andrés Allamand, visitará Brasília nos dias 30 e 31 de agosto. Trata-se de sua primeira visita oficial ao Brasil desde que assumiu o cargo, em julho de 2020.",
+                "No dia 31, o chanceler chileno será recebido no Itamaraty pelo Ministro das Relações Exteriores, Embaixador Carlos Alberto Franco França. Durante o encontro, os dois chanceleres repassarão as agendas bilateral, regional e internacional.",
+                "As relações entre Brasil e Chile caracterizam-se pela intensidade e pelo dinamismo do intercâmbio comercial e de investimentos. Sobressai, ainda, a cooperação em setores como ciência e tecnologia, infraestrutura física e digital, energia, segurança e defesa.",
+                "Os dois países têm atuado nos foros regionais e multilaterais com base em ampla convergência de posições, ao compartilhar valores como a defesa da democracia e do Estado de Direito e a promoção das liberdades políticas e econômicas."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-08-29-12h13-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_a_brasilia_do_ministro_das_relacoes_exteriores_do_chile,_andres_allamand_-_30_e_31_de_agosto_de_2021.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/08/29"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "107"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Atentados no Afeganistão",
+            "subtitulo": "",
+            "data": "26/08/2021",
+            "horario": "19h08",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentados-no-afeganistao-1",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro condena, nos mais fortes termos, os atentados registrados nas imediações do Aeroporto Internacional Hamid Karzai, em Cabul, em 26 agosto, que resultaram em feridos e mortos e põem em risco as operações de evacuação e de ajuda humanitária em curso.",
+                "Ao transmitir condolências às famílias atingidas e ao povo afegão, o governo brasileiro exorta todos os atores envolvidos a garantir a proteção dos civis, o respeito ao Direito Internacional Humanitário, inclusive o acesso desimpedido da ajuda humanitária, e o respeito aos direitos humanos, em especial de mulheres e meninas."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-08-26-19h08-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentados_no_afeganistao.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/08/26"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "106"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Reunião do Presidente da República, Jair Bolsonaro, com o Presidente da Guiné-Bissau, Umaro Sissoco Embaló",
+            "subtitulo": "",
+            "data": "24/08/2021",
+            "horario": "15h08",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reuniao-do-presidente-da-republica-jair-bolsonaro-com-o-presidente-da-guine-bissau-umaro-sissoco-embalo",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Presidente da República, Jair Bolsonaro, recebeu, hoje, o Presidente da República da Guiné-Bissau, General Umaro Sissoco Embaló, em audiência no Palácio do Planalto. O Ministro das Relações Exteriores, Embaixador Carlos Alberto Franco França, e a Ministra de Estado dos Negócios Estrangeiros, da Cooperação Internacional e das Comunidades da Guiné-Bissau, Suzi Carla Barbosa, participaram da reunião.",
+                "Os Presidentes Bolsonaro e Sissoco Embaló passaram em revista a agenda bilateral, com vistas a aprofundar o diálogo político e a cooperação técnica entre os dois países.",
+                "A Guiné-Bissau é importante parceiro na cooperação Sul-Sul brasileira. Atualmente, encontram-se em execução projetos nas áreas de agricultura; saúde; capacitação de diplomatas, militares e forças de segurança; alimentação escolar; ensino superior; e gestão de recursos hídricos. Desde o ano 2000, cerca de 1500 jovens universitários bissau-guineenses foram selecionados pelo Programa Estudante Convênio do Ministério da Educação do Brasil.",
+                "O Brasil e a Guiné-Bissau integram a Comunidade dos Países de Língua Portuguesa (CPLP). A Guiné-Bissau faz parte, também, da Comunidade Econômica dos Estados da África Ocidental (CEDEAO), importante mecanismo de integração regional africana."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-08-24-15h08-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_do_presidente_da_republica,_jair_bolsonaro,_com_o_presidente_da_guine-bissau,_umaro_sissoco_embalo.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/08/24"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "105"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Envio de Missão Humanitária ao Haiti – Nota Conjunta do Ministério das Relações Exteriores, do Ministério da Justiça e Segurança Pública, do Ministério da Defesa, do Ministério da Saúde e do Ministério do Desenvolvimento Regional",
+            "subtitulo": "",
+            "data": "19/08/2021",
+            "horario": "20h34",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/envio-de-missao-humanitaria-ao-haiti-2013-nota-conjunta-do-ministerio-das-relacoes-exteriores-do-ministerio-da-justica-e-seguranca-publica-do-ministerio-da-defesa-do-ministerio-da-saude-e-do-ministerio-do-desenvolvimento-regional",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro, por intermédio de ação interministerial envolvendo a Justiça e Segurança Pública (MJSP), a Defesa (MD), as Relações Exteriores (MRE), a Saúde (MS) e o Desenvolvimento Regional (MDR), definida no âmbito do Grupo de Trabalho Interministerial sobre Cooperação Humanitária Internacional, tomou a decisão, em 18 de agosto, de enviar ao Haiti Missão Humanitária Multidisciplinar, em resposta emergencial à tragédia causada por terremoto em 14 de agosto.",
+                "A missão contará com a participação de uma aeronave de transporte KC-390 Millennium, da Força Aérea Brasileira, prevista para partir em direção a Porto Príncipe no próximo final de semana, com o propósito de levar pessoal e material de apoio à emergência humanitária.",
+                "A missão deverá ter equipes de especialistas e peritos em busca e resgate em estruturas urbanas colapsadas, além de contar com \"kits\" de medicamentos e insumos estratégicos para assistência farmacêutica emergencial, doados pelo Ministério da Saúde.",
+                "A configuração da missão poderá ser ajustada em função das necessidades e dos entendimentos que estão sendo mantidos com o governo haitiano.",
+                "Por ocasião do Dia Internacional Humanitário, celebrado hoje, 19/08, o Governo do Brasil reitera a sua manifestação de solidariedade ao povo haitiano e reafirma seu compromisso com o bem-estar e a estabilidade do Haiti."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-08-19-20h34-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-envio_de_missao_humanitaria_ao_haiti_-_nota_conjunta_do_ministerio_das_relacoes_exteriores,_do_ministerio_da_justica_e_segura....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/08/19"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "104"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Situação no Afeganistão",
+            "subtitulo": "",
+            "data": "16/08/2021",
+            "horario": "19h20",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/situacao-no-afeganistao",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro expressa sua profunda preocupação com a deterioração da situação no Afeganistão e as graves violações dos direitos humanos.",
+                "Manifesta, igualmente, apreensão com o aumento da instabilidade na Ásia Central e seu potencial impacto em outras regiões.",
+                "O Brasil espera o rápido engajamento das Nações Unidas para o estabelecimento de canais de diálogo e espera que o Conselho de Segurança possa atuar para assegurar a paz na região. É essencial assegurar a atuação plena da Missão de Assistência das Nações Unidas no Afeganistão (UNAMA).",
+                "O Governo brasileiro conclama os atores envolvidos a proteger os civis, respeitar o Direito Internacional Humanitário, garantir o acesso desimpedido da ajuda humanitária e respeitar os direitos fundamentais do povo afegão, em especial de mulheres e meninas.",
+                "É necessário preservar os ganhos obtidos nas últimas décadas em matéria de proteção de direitos humanos, fortalecimento da democracia e desenvolvimento socioeconômico no Afeganistão.",
+                "Não há registro de brasileiros atualmente residindo ou em trânsito no Afeganistão. Os telefones de plantão da Embaixada do Brasil no Paquistão (+92 300 8525941), que tem a jurisdição consular sobre o território afegão, e da Divisão de Assistência Consular do MRE (+55 61 98197-2284) estão disponíveis para qualquer nacional que se encontre no país e necessite urgentemente de auxílio."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-08-16-19h20-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-situacao_no_afeganistao.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/08/16"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "103"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Terremoto no Haiti",
+            "subtitulo": "",
+            "data": "14/08/2021",
+            "horario": "20h04",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/terremoto-no-haiti-1",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Ao tomar conhecimento com consternação do terremoto que atingiu o Haiti na manhã deste sábado, 14 de agosto, o governo brasileiro manifesta sua solidariedade ao povo haitiano e reafirma seu firme compromisso com a continuidade da ajuda humanitária prestada àquele país.",
+                "Até o momento, não há registro de brasileiros vitimados pelo abalo sísmico. A comunidade brasileira no Haiti é estimada em 50 pessoas, a maioria de religiosos.",
+                "O Itamaraty seguirá acompanhando a situação por meio da Embaixada em Porto Príncipe. Os telefones de plantão daquela Embaixada (+509 31629513) e, no Brasil, da Divisão de Assistência Consular do MRE (+55 61 8197-2284) estão abertos para informações e esclarecimentos a familiares de brasileiros no Haiti.",
+                "O atendimento à imprensa será feito pelo e-mail imprensa@itamaraty.gov.br e pelo telefone +55 61 98197-2229."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-08-14-20h04-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-terremoto_no_haiti.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/08/14"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "102"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita ao Brasil do Ministro de Relações Exteriores, Negócios Internacionais e Cooperação Internacional do Suriname, Albert Ramdin",
+            "subtitulo": "",
+            "data": "12/08/2021",
+            "horario": "19h51",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-do-ministro-de-relacoes-exteriores-negocios-internacionais-e-cooperacao-internacional-do-suriname-albert-ramdin",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministro de Relações Exteriores, Negócios Internacionais e Cooperação Internacional do Suriname, Albert Ramdin, realizará visita de trabalho a Brasília amanhã, dia 13 de agosto. Trata-se de sua primeira visita ao Brasil desde que assumiu o cargo de chanceler.",
+                "A autoridade surinamesa será recebida no Itamaraty pelo Ministro das Relações Exteriores, Embaixador Carlos Alberto Franco França. O encontro será a primeira oportunidade que os chanceleres terão para discutir, presencialmente, temas das agendas bilateral, regional e interamericana, inclusive a estabilidade e a democracia na região, e as próximas eleições para a Corte Interamericana de Direitos Humanos.",
+                "Nas relações com o Suriname, destacam-se iniciativas relacionadas à cooperação técnica e energética. Este último campo apresenta grande potencial, em função da experiência brasileira no setor e das recentes descobertas de petróleo e gás no Suriname."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-08-12-19h51-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_ministro_de_relacoes_exteriores,_negocios_internacionais_e_cooperacao_internacional_do_suriname,_albert_r....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/08/12"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "101"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita da Vice-Presidente e Chanceler da Colômbia,  Marta Lucía Ramírez, ao Brasil",
+            "subtitulo": "",
+            "data": "11/08/2021",
+            "horario": "17h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-da-vice-presidente-e-chanceler-da-colombia-marta-lucia-ramirez-ao-brasil",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "A Vice-Presidente e Chanceler da República da Colômbia, Marta Lucía Ramírez, realizará visita de trabalho a Brasília amanhã, dia 12 de agosto. Trata-se de sua primeira visita ao Brasil desde que passou a acumular o cargo de chanceler com seu mandato de vice-presidente.",
+                "A autoridade colombiana será recebida pelo Vice-Presidente da República, General Hamilton Mourão, e pelo Ministro das Relações Exteriores, Embaixador Carlos Alberto Franco França. Durante a visita, será repassada a agenda bilateral, com destaque para temas relacionados a comércio, investimentos, saúde, segurança e meio ambiente, assim como temas regionais e multilaterais de interesse compartilhado.",
+                "A Colômbia constitui importante parceiro do Brasil na defesa de uma América do Sul democrática, próspera e segura. A visita da Vice-Presidente e Chanceler da Colômbia atesta o bom momento das relações diplomáticas entre duas das maiores economias sul-americanas e o dinamismo da agenda bilateral."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-08-11-17h45-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_da_vice-presidente_e_chanceler_da_colombia,_marta_lucia_ramirez,_ao_brasil.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/08/11"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "100"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita do Presidente designado da 26ª. Conferência das Nações Unidas sobre Mudança do Clima (COP-26) ao Brasil",
+            "subtitulo": "",
+            "data": "04/08/2021",
+            "horario": "20h09",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-do-presidente-designado-da-26a-conferencia-das-nacoes-unidas-sobre-mudanca-do-clima-cop-26-ao-brasil",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Vice-Presidente da República, Hamilton Mourão, recebeu, hoje, o Presidente designado da 26a. Conferência das Nações Unidas sobre Mudança do Clima (COP-26), Alok Sharma, em reunião de trabalho no Itamaraty. Os Ministros das Relações Exteriores, Embaixador Carlos Alberto Franco França; da Agricultura, Pecuária e Abastecimento, Tereza Cristina; e do Meio Ambiente, Joaquim Leite; e o Secretário Especial de Assuntos Estratégicos da Presidência da República, Almirante Flávio Rocha, participaram do encontro.",
+                "Foram discutidos os preparativos e as perspectivas para a COP-26, que se realizará em Glasgow, na Escócia, de 31 de outubro a 12 de novembro próximos. Em continuidade ao diálogo que Brasil e Reino Unido mantêm sobre o tema, as autoridades brasileiras e britânicas intercambiaram pontos de vista sobre as metas do Acordo de Paris, estabelecido sob a égide da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC).",
+                "As autoridades brasileiras reiteraram o compromisso do País com a implementação do Acordo de Paris e o interesse em manter e em aprofundar o diálogo e a cooperação internacional para fortalecer o regime multilateral de mudança do clima sob a UNFCCC.",
+                "Foram discutidos, ainda, o combate ao desmatamento, em particular na Amazônia, a regulamentação dos mercados de carbono, os compromissos de maior transparência e a abertura ao maior engajamento do setor privado. Temas caros aos países em desenvolvimento, tais como adaptação, financiamento climático e perdas e danos, foram apontados como prioritários pelo Brasil."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-08-04-20h09-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_do_presidente_designado_da_26a._conferencia_das_nacoes_unidas_sobre_mudanca_do_clima_(cop-26)_ao_brasil.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/08/04"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "99"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita do Conselheiro de Segurança Nacional dos EUA, Jake Sullivan, ao Brasil",
+            "subtitulo": "",
+            "data": "04/08/2021",
+            "horario": "13h08",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-do-conselheiro-de-seguranca-nacional-dos-eua-jake-sullivan-ao-brasil",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Conselheiro de Segurança Nacional (CSN) dos EUA, Jake Sullivan, realizará visita de trabalho ao Brasil no dia 5 de agosto, acompanhado de delegação de alto nível, ocasião em que será recebido pelo Presidente da República, Jair Bolsonaro.",
+                "Principal assessor do Presidente dos EUA para temas de segurança nacional e de política externa, Jake Sullivan é responsável por coordenar a execução de iniciativas internacionais entre as diversas agências norte-americanas. O CSN é órgão colegiado, presidido pelo chefe do Poder Executivo, e integrado pelos secretários de Estado, do Tesouro e de Defesa, entre outras altas lideranças do governo norte-americano.",
+                "O Ministro das Relações Exteriores, Embaixador Carlos Alberto Franco França, receberá Jake Sullivan no Itamaraty. A visita ilustra o fortalecimento da parceria entre as duas maiores economias e democracias do continente americano. Além de diversificada e densa pauta bilateral, os governos do Brasil e dos EUA compartilham interesses na promoção de um hemisfério próspero, seguro e democrático.",
+                "O Conselheiro de Segurança Nacional será recebido pela sua contraparte, o Secretário Especial de Assuntos Estratégicos da Presidência da República, Almirante Flávio Rocha. Deverá reunir-se, ainda, com o Ministro da Defesa, General Walter Braga Netto, o Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, General Augusto Heleno, e o Ministro das Comunicações, Fábio Faria."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-08-04-13h08-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_do_conselheiro_de_seguranca_nacional_dos_eua,_jake_sullivan,_ao_brasil.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/08/04"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "98"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Reunião do Presidente da República, Jair Bolsonaro, com o Presidente da República Portuguesa, Marcelo Rebelo de Sousa",
+            "subtitulo": "",
+            "data": "02/08/2021",
+            "horario": "13h18",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reuniao-do-presidente-da-republica-jair-bolsonaro-com-o-presidente-da-republica-portuguesa-marcelo-rebelo-de-sousa",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Presidente da República, Jair Bolsonaro, recebeu, hoje, o Presidente da República Portuguesa, Marcelo Rebelo de Sousa, em encontro no Palácio da Alvorada. O Ministro das Relações Exteriores, Embaixador Carlos Alberto Franco França, e o Ministro dos Negócios Estrangeiros de Portugal, Augusto Santos Silva, participaram da reunião.",
+                "O encontro permitiu examinar a reativação dos mecanismos de diálogo bilateral, em preparação para a próxima Cimeira Brasil-Portugal e as celebrações do bicentenário da Independência em 2022. Nesse contexto, avaliaram positivamente a recente visita do Ministro Carlos França a Lisboa, de 30 de junho a 2 de julho, e encontros à margem da Cúpula da Comunidade do Países de Língua Portuguesa (CPLP), em Luanda, de 15 a 17 de julho.",
+                "Os Presidentes Bolsonaro e Rebelo de Sousa reafirmaram na ocasião a convergência entre Brasil e Portugal nos campos cultural, econômico, comercial e multilateral e reiteraram o compromisso mútuo de promover a recuperação econômica no contexto pós-pandemia.",
+                "O relacionamento entre Brasil e Portugal beneficia-se de laços históricos e afetivos, consubstanciados no Tratado de Amizade, Cooperação e Consulta, celebrado em Porto Seguro em 22 de abril de 2000. Ambos os países mantêm tradicional e densa parceria política, econômica e cultural, além de contínua coordenação em foros internacionais."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-08-02-13h18-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_do_presidente_da_republica,_jair_bolsonaro,_com_o_presidente_da_republica_portuguesa,_marcelo_rebelo_de_sousa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/08/02"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "97"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        }
+    }
+}

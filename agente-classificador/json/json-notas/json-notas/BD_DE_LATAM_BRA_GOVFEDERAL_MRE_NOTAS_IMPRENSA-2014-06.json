@@ -1,0 +1,1181 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 28 de junho e 6 de julho de 2014",
+            "subtitulo": "",
+            "data": "26/06/2014",
+            "horario": "17h10",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-28-de-junho-e-6-de-julho-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "30/JUN a 9/JUL – Nova York, EUA. Foro Político de Alto Nível sobre Desenvolvimento Sustentável. (Fonte: CGDES)",
+                "30/JUN a 4/JUL – Ierevan, Armênia. 1º Encontro Científico da ICRANet (Rede Internacional de Centros para Astrofísica Relativística) na Armênia. (Fonte: DCTEC)",
+                "30/JUN a 1/JUL – Oslo, Noruega. Primeira reunião de potenciais contribuintes ao processo inicial de mobilização de recursos para o Fundo Verde para o Clima (Green Climate Fund, GCF). (Fonte: DCLIMA)",
+                "30/JUN a 4/JUL – Genebra, Suíça. 2ª Sessão do Grupo de Trabalho Intergovernamental sobre um projeto de Declaração das Nações Unidas sobre o Direito à Paz. (Fonte: DDH)",
+                "30/JUN – UNESCO, Paris. Reunião anual dos Embaixadores honorários e de Boa Vontade da UNESCO. (Fonte: BRASUNESCO).",
+                "30/JUN a 2/JUL – UNESCO, Paris. Segunda sessão do Comitê Subsidiário da Reunião de Estados Partes da Convenção de 1970 relativa às medidas a serem adotadas para proibir e impedir a importação, exportação e transferência de propriedade ilícitas dos bens culturais (Fonte: BRASUNESCO).",
+                "30/JUN a 4/JUL – Genebra, Suíça. 2ª Sessão do Grupo de Trabalho sobre o Direito à Paz. (Fonte: Delbrasgen)",
+                "30/JUN a 1/JUL – Genebra, Suíça. III Reunião dos Estados sobre o Fortalecimento do Cumprimento do Direito Internacional Humanitário. (Fonte: Delbrasgen)",
+                "1 a 4/JUL – UNESCO, Paris. 47a sessão do Conselho Executivo da Comissão Oceanográfica Intergovernamental (COI). (Fonte: BRASUNESCO).",
+                "1 a 3/JUL – Genebra, Suíça. 60ª. Reunião do Comitê Permanente do ACNUR. (Fonte: Delbrasgen)",
+                "1 a 3/JUL – Genebra. 34a sessão do Conselho Coordenador de Programa da UNAIDS. (Fonte: Delbrasgen)",
+                "2/JUL – Roma, Itália. Fundo Internacional para o Desenvolvimento Agrícola (FIDA). 84ª Sessão do Comitê de Avaliação. (Fonte: Rebrasfao)",
+                "3/JUL – UNESCO, Paris. Reunião de informação do Conselho Executivo com a Diretora-Geral.",
+                "3/JUL – Roma, Itália. Fundo Internacional para o Desenvolvimento Agrícola (FIDA). 132ª Sessão do Comitê de Auditoria. (Fonte: Rebrasfao)",
+                "3 a 4/JUL – Bremen, Alemanha. Seminário sobre Logística Portuária. (Fonte: DINV)",
+                "4 a 27/JUL – Avignon, França. Mostra de Teatro Brasileiro no Festival de Avignon, com a participação das companhias teatrais Armazém Cia. De Teatro, Cia. Mundana, Cia. do Meu Tio, Proscenium e Caixa do Elefante. (Fonte: DODC)"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-26-17h10-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_28_de_junho_e_6_de_julho_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/26"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Remoção das armas químicas da Síria",
+            "subtitulo": "",
+            "data": "24/06/2014",
+            "horario": "17h05",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/remocao-das-armas-quimicas-da-siria",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro congratula-se com a Organização para a Proibição de Armas Químicas (OPAQ) pela remoção do último carregamento de armas químicas declaradas pela República Árabe da Síria de seu território.",
+                "O Governo brasileiro reitera a expectativa de que a implementação exitosa das medidas relacionadas à eliminação das armas químicas sírias contribua para emprestar novo vigor à busca de uma solução negociada para o conflito naquele país e para atender às legítimas aspirações da sociedade síria."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-24-17h05-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-remocao_das_armas_quimicas_da_siria.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/24"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "X Conferência dos Chefes de Estado e de Governo da Comunidade dos Países de Língua Portuguesa (CPLP) - Díli, 23 de julho de 2014 - Credenciamento de imprensa",
+            "subtitulo": "",
+            "data": "20/06/2014",
+            "horario": "17h04",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/x-conferencia-dos-chefes-de-estado-e-de-governo-da-comunidade-dos-paises-de-lingua-portuguesa-cplp-dili-23-de-julho-de-2014-credenciamento-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os profissionais de imprensa interessados em cobrir a X Conferência dos Chefes de Estado e de Governo da Comunidade dos Países de Língua Portuguesa (CPLP), a realizar-se em 23 de julho próximo em Díli, Timor-Leste, deverão encaminhar, por e-mail, até 30 de junho, solicitação de credenciamento ao Gabinete de Apoio para a Presidência da CPLP do Ministério dos Negócios Estrangeiros e Cooperação de Timor-Leste, mediante apresentação dos seguintes elementos:",
+                "• Formulário devidamente preenchido, disponível no seguinte link: http://www.itamaraty.gov.br/sala-de-imprensa/credenciamento/ficha-de-acreditacao-x-ccge-cplp;• Cópia do passaporte;• Foto (modelo passaporte);• Carta, em papel timbrado, assinada pelo editor, editor-chefe ou supervisor direto do veículo de comunicação, solicitando o credenciamento.",
+                "O endereço de e-mail para envio do formulário de credenciamento e dos demais elementos relacionados é o seguinte: cdgasean@gmail.com, com cópia para credenciamento@itamaraty.gov.br.",
+                "O Ministério dos Negócios Estrangeiros e Cooperação de Timor-Leste salienta que não serão aceitos pedidos de credenciamento transmitidos uma vez esgotado o prazo supracitado.",
+                "Profissionais de imprensa interessados em informações sobre formalidades de entrada em Timor-Leste devem consultar a Embaixada timorense em Brasília."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-20-17h04-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-x_conferencia_dos_chefes_de_estado_e_de_governo_da_comunidade_dos_paises_de_lingua_portuguesa_(cplp)_-_dili,_23_de_julho_de_2....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/20"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 21 de junho e 29 de junho de 2014",
+            "subtitulo": "",
+            "data": "20/06/2014",
+            "horario": "17h03",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-21-de-junho-e-29-de-junho-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "22 a 24/JUN – Hyderabad, Índia. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 33ª Sessão da Comissão de Pesca do Pacífico. (Fonte: Rebrasfao)",
+                "22 a 24/JUN – Joanesburgo, África do Sul. \"Saitex/Big Seven 2014 (Southern African International Trade Exhibition)\". (Fonte: DOC).",
+                "22 a 24/JUN – Cidade do México, México. 10ª Cúpula Global de Comitês Nacionais sobre Ética/Biomédica da Organização Mundial de Saúde – OMS. (Fonte: DTS)",
+                "22 a 26/JUN – Nouakchott, Mauritânia. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 7ª Sessão da Comissão para o Controle de Gafanhotos do Deserto na Região Oeste (CLCPRO) e 9ª Reunião do Comitê Executivo . (Fonte: Rebrasfao)",
+                "22 a 26/JUN – Londres, Reino Unido. 50º Reunião da Corporação da Internet para Designação de Nomes e Números (ICANN 50). (Fonte: DCT/DI)",
+                "23 e 24/JUN – Viena, Áustria. I Fórum sobre Estratégias e Instrumentos para o Desenvolvimento Industrial Inclusivo e Sustentável, organizado pela UNIDO (Organização das Nações Unidas para o Desenvolvimento Industrial). (Fonte: DCTEC)",
+                "23 a 27/JUN – Genebra, Suíça. 26ª Sessão do Conselho de Direitos Humanos (continuação). (Fonte: Delbrasgen)",
+                "23 a 27/JUN – Genebra, Suíça. Sessão Anual de 2014 da Junta Executiva PNUD/UNPF (United Nations Population Fund)/UNOPS (United Nations Office for Project Services). (Fonte: Delbrasgen)",
+                "23 a 27/JUN – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 22ª Sessão da Comissão do Comitê de Florestas (COFO) e Semana Mundial de Florestas. (Fonte: Rebrasfao)",
+                "23 a 27/JUN – Montreal, Canadá. 18ª Reunião do Órgão de Assessoramento Técnico, Científico e Tecnológico da Convenção sobre Biodiversidade (SBSTTA-18). (Fonte: DEMA)",
+                "23 a 27/JUN – Nairobi, Quênia. I Assembléia Ambiental das Nações Unidas do PNUMA (UNEA). (Fonte: CGDES)",
+                "23 a 30/JUN – Moscou, Rússia. Dias da Cultura Brasileira na Rússia. Exposição de ilustradores infantis \"Brazil: Countless Threads, Countless Tales\", na Biblioteca Estatal Infantil de Moscou. (Fonte: DODC)",
+                "24/JUN – Nova York, Estados Unidos. 34ª Reunião dos Estados Partes do Comitê de Direitos Humanos. Eleição de novos membros do Comitê de Direitos Humanos. (Fonte: DDH).",
+                "24 e 25/JUN – Imbabura, Equador. I Fórum Internacional sobre Gestão do Conhecimento da UNASUL (União de Nações Sul-Americanas). (Fonte: DCTEC)",
+                "24 a 26/JUN – Genebra, Suíça. Annual Tripartite Consultations on Resettlement. (Fonte: Delbrasgen)",
+                "24/JUN a 4/JUL – Berlim, Hamburgo, Bonn e Colônia, Alemanha. Missão de Inteligência Comercial da ApexBrasil, com o apoio da Embaixada do Brasil em Berlim. (Fonte: DIC).",
+                "25/JUN – Nova York, Estados Unidos. 15ª Reunião dos Estados Partes do Comitê dos Direitos da Criança. Eleição de novos membros do Comitê dos Direitos da Criança. (Fonte: DDH).",
+                "25 e 26/JUN – Paris, França. UNESCO. Preparação para a Implementação do Programa de Ação Global (GAP): Reunião para os Coordenadores de oficinas da Conferência da UNESCO sobre Educação para o Desenvolvimento Sustentável. (Fonte: BRASUNESCO)",
+                "25 e 26/JUN – Taipé, Taiwan. \"International Food Show\". (Fonte: DOC).",
+                "25 e 26/JUN – Haia, Países Baixos. Conferência Ministerial sobre Resistência Antimicrobiana. (Fonte: DTS)",
+                "25 e 26/JUN – Viena, Áustria. XXX Sessão do Comitê de Programas e Orçamento (PBC) da UNIDO (United Nations Industrial Development Organization). (Fonte: DCTEC)",
+                "26/JUN – Genebra, Suíça. Eleições para o Comitê da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher – CEDAW. (Fonte: DTS)",
+                "26 e 27/JUN – Varsóvia, Polônia. Reunião internacional de peritos do programa Memória do Mundo para elaborar projeto de recomendação sobre preservação e acesso ao patrimônio documental. (Fonte: BRASUNESCO)",
+                "26 e 27/JUN – Imbabura, Equador. I Fórum Internacional sobre Biodiversidade da UNASUL (União de Nações Sul-Americanas) – Perspectivas Regionais. (Fonte: DCTEC)",
+                "27/JUN – Paris, França. Seminário de orientação para novos Delegados Permanentes à UNESCO. (Fonte: BRASUNESCO)",
+                "27/JUN – Genebra, Suíça. High-Level Meeting on Resettlement and Other Forms of Admission for Syrian Refugees. (Fonte: Delbrasgen)",
+                "28/JUN a 6/JUL – Lisboa, Portugal. Feira Internacional do Artesanato. (Fonte: DOC).",
+                "29 e 30/JUN – Nova York, EUA. \"Summer Fancy Food and Confection Show\". (Fonte: DOC)."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-20-17h03-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_21_de_junho_e_29_de_junho_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/20"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil do Presidente da Colômbia, Juan Manuel Santos – Brasília, 19 de junho de 2014",
+            "subtitulo": "",
+            "data": "18/06/2014",
+            "horario": "16h58",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-do-presidente-da-colombia-juan-manuel-santos-brasilia-19-de-junho-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Presidente da República da Colômbia, Juan Manuel Santos, visitará o Brasil, em 19 de junho corrente, ocasião em que será recebido pela Presidenta da República, Dilma Rousseff. A visita se realiza poucos dias após a conclusão do processo eleitoral na Colômbia, em que o Presidente Santos recebeu novo mandato presidencial, para o período 2014-2018.",
+                "Os mandatários conversarão sobre temas bilaterais e regionais, com vistas ao estreitamento da relação entre Brasil e Colômbia e ao fortalecimento da integração da América do Sul. No plano bilateral, merecerão atenção a cooperação em desenvolvimento rural e agronegócio, bem como a expansão do comércio bilateral que, em 2013, atingiu US$ 4,2 bilhões.",
+                "Mais sobre as relações bilaterais Brasil-Colômbia"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-18-16h58-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_presidente_da_colombia,_juan_manuel_santos_-_brasilia,_19_de_junho_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/18"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Ato assinado por ocasião da Visita ao Brasil do Presidente da República de Angola, José Eduardo dos Santos - Brasília, 16 de junho de 2014",
+            "subtitulo": "",
+            "data": "16/06/2014",
+            "horario": "16h55",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/ato-assinado-por-ocasiao-da-visita-ao-brasil-do-presidente-da-republica-de-angola-jose-eduardo-dos-santos-brasilia-16-de-junho-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "PROTOCOLO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DE ANGOLA SOBRE FACILITAÇÃO DE VISTOS",
+                "O Governo da República Federativa do Brasil",
+                "e",
+                "O Governo da República de Angola\n  \n  (adiante designados por “Partes”),",
+                "Desejosos de desenvolver e aprofundar os laços especiais de amizade e de cooperação estratégica, reconhecidos ao mais alto nível político, que caracterizam o relacionamento entre a República Federativa do Brasil e a República de Angola;",
+                "Reconhecendo a necessidade de se promover e facilitar a circulação dos respectivos nacionais nos territórios de ambos os Estados, no respeito da legislação aplicável em cada um deles;",
+                "Empenhados em promover o desenvolvimento dos laços sociais, económicos, culturais e de intercâmbio nos diversos domínios;",
+                "Animados pelo desejo de consolidar e fortalecer as relações de amizade e de cooperação em matéria de circulação de pessoas, entre os dois países;",
+                "Decididos a promover a facilitação da concessão de certos tipos de visto com o objectivo de beneficiar cidadãos e empresas dos dois países,",
+                "Por este meio acordam o seguinte:",
+                "ARTIGO 1º\n  \n  Objeto",
+                "O presente Protocolo tem por objecto a criação de um mecanismo de facilitação na concessão de vistos ordinários, no caso angolano, e de negócios, no caso brasileiro.",
+                "ARTIGO 2º.\n  \n  Âmbito de Aplicação",
+                "1. Nos termos do presente Protocolo e da legislação em vigor em cada um dos Estados, as autoridades competentes das Partes facilitarão a concessão de vistos ordinários, no caso angolano, e de negócios, no caso brasileiro.",
+                "2. Os vistos enunciados no Artigo 3º são válidos para múltiplas entradas num período de 24 meses, permitindo ao seu titular uma permanência de até noventa (90) dias não prorrogáveis, em cada período de doze (12) meses.",
+                "ARTIGO 3º\n  \n  Categorias de Beneficiários",
+                "Nos termos do presente Protocolo são beneficiários dos vistos constantes do artigo anterior os cidadãos dos respectivos Estados que tencionem deslocar-se ao território da outra Parte, designadamente em uma das seguintes situações:",
+                "a) prospecção de mercado, participação em reuniões de negócios, assinatura de contratos e actividades financeiras, de gestão e administrativas;",
+                "b) negociação de projectos de investimento;",
+                "c) empresários e investidores, excepto aquelas situações às quais se aplicam vistos de trabalho ou permanentes, que requerem autorização específica;",
+                "d) quadros dirigentes de empresas, excepto aquelas situações às quais se aplicam vistos de trabalho ou permanentes, que requerem autorização específica.",
+                "ARTIGO 4º\n  \n  Prazo para Concessão de Vistos",
+                "As Partes concederão os vistos referidos no Artigo 3º do presente Protocolo no prazo máximo de 10 dias a contar da data de recepção da solicitação.",
+                "ARTIGO 5º\n  \n  Exercício de Atividade Remunerada",
+                "Os vistos concedidos nos termos do presente Protocolo não permitem o exercício de qualquer atividade remunerada.",
+                "ARTIGO 6º\n  \n  Garantia de Permanência",
+                "Para efeitos dos Artigos 2º e 3º do presente Protocolo, as Partes devem garantir as condições necessárias para assegurar a permanência dos beneficiários no respectivo território, durante o período de validade do visto, em conformidade com as suas respectivas legislações nacionais.",
+                "ARTIGO 7º\n  \n  Autoridades Competentes",
+                "1. Para a implementação do presente Protocolo são autoridades competentes o Ministério das Relações Exteriores, pela República Federativa do Brasil, e os Ministérios das Relações Exteriores e do Interior, pela República de Angola.",
+                "2. O acompanhamento da aplicação do presente Protocolo será feito no âmbito do Mecanismo Bilateral Brasil-Angola sobre Questões Migratórias e Consulares, coordenado pelas autoridades competentes das Partes, sempre que estas julgarem necessário.",
+                "ARTIGO 8º\n  \n  Respeito às Normas Internas e Internacionais",
+                "1. O presente Protocolo será implementado em estrita observância às respectivas legislações internas e não afetará os compromissos internacionais assumidos pelas Partes.",
+                "2. O disposto no presente Protocolo não exime os nacionais da República Federativa do Brasil e da República de Angola que ingressem no território da outra Parte da necessidade de respeitar as leis e regulamentos no que se refere à entrada, permanência, saída, bem como as demais regras aplicáveis aos estrangeiros.",
+                "ARTIGO 9º\n  \n  Solução de Divergências",
+                "Qualquer divergência que emergir da interpretação e aplicação do presente Protocolo será resolvida amigavelmente através de negociações por via diplomática.",
+                "ARTIGO 10º\n  \n  Emendas",
+                "1. O presente Protocolo só poderá ser emendado por consentimento mútuo das Partes mediante a troca de Notas, através dos canais diplomáticos.",
+                "2. As emendas enunciadas no número anterior obedecerão o disposto no artigo 13º do presente Protocolo.",
+                "ARTIGO 11º\n  \n  Suspensão",
+                "A aplicação do presente Protocolo poderá ser suspensa por qualquer uma das Partes, mediante comunicação por escrito à outra Parte, por via diplomática. O efeito suspensivo ocorrerá trinta (30) dias após a recepção da referida comunicação.",
+                "ARTIGO 12º\n  \n  Denúncia",
+                "1. O presente Protocolo deixará de produzir efeitos quando uma das Partes manifestar essa vontade, notificando a outra por escrito e através dos canais diplomáticos.",
+                "2. A denúncia produzirá efeitos no prazo de 60 dias após a recepção da referida notificação.",
+                "ARTIGO 13º\n  \n  Entrada em Vigor",
+                "O presente Protocolo entrará em vigor 30 dias após a recepção da última notificação sobre o cumprimento das formalidades internas requeridas nos respectivos países.",
+                "Em testemunho do que, os plenipotenciários, devidamente autorizados pelos respectivos Governos, assinam o presente Protocolo."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-16-16h55-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-ato_assinado_por_ocasiao_da_visita_ao_brasil_do_presidente_da_republica_de_angola,_jose_eduardo_dos_santos_-_brasilia,_16_de_....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/16"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 14 de junho e 22 de junho de 2014",
+            "subtitulo": "",
+            "data": "13/06/2014",
+            "horario": "16h55",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-14-de-junho-e-22-de-junho-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "10 a 26/JUN – Genebra, Suíça. 26ª Sessão do Conselho de Direitos Humanos (CDH) das Nações Unidas. (Fonte: DDH)",
+                "15 a 21/JUN – Istambul, Turquia. \"Ponte de Comércio Turquia-Mundo\", o evento, organizado pela Confederação de Empresários e Industriais da Turquia (TUSKON) e pela Câmara de Comércio e Indústria Turco-Brasileira (CCITB), contará com participação de 11 empresários brasileiros. (Fonte: CG Istambul)",
+                "15 a 25/JUN - Doha, Catar. 38ª Sessão do Comitê do Patrimônio Mundial da UNESCO. (Fonte: DAMC)",
+                "16/JUN – Genebra, Suíça. Diálogos Interativos com i) Grupo de Trabalho Sobre Discriminação Contra as Mulheres, e ii) Relator Especial Sobre o Direito à Educação, no âmbito da 26ª Sessão do Conselho de Direitos Humanos (CDH) das Nações Unidas. (Fonte: DDH)",
+                "16/JUN – Nova York, EUA. Reunião de informação sobre os desdobramentos da Agenda Global de Educação. (Fonte: DCE)",
+                "16/JUN – Bonn, Alemanha. Reunião do Comitê Comum Brasil-Alemanha sobre Mudança do Clima. (Fonte: DCLIMA)",
+                "16 e 17/JUN – Paris, França. UNESCO. 11º Colóquio Kovacs: “Ciências hidrológicas e segurança hídrica: passado, presente e futuro”, organizado conjuntamente pelo Programa Hidrológico Internacional (PHI) e pela Associação Internacional de Ciências Hidrológicas (IAHS). (Fonte: BRASUNESCO)",
+                "16 a 18/JUN – Xangai, China. II Simpósio do BRICS sobre Sistema de Resposta e Vigilância para Eliminação de Doenças Tropicais. (Fonte: DIB/DTS)",
+                "16 a 19/JUN – Nova York, EUA. Reunião do Grupo de Trabalho Ad-hoc Informal Aberto sobre Biodiversidade Marinha além das jurisdições nacionais (GTAH-BBNJ). (Fonte: DMAE)",
+                "16 a 20/JUN – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 149ª Sessão do Conselho da FAO. (Fonte: Rebrasfao)",
+                "16 a 20/JUN – Moscou, Rússia. Dias da Cultura Brasileira na Rússia. Pinturas, em local público de Moscou, de representantes do grafite brasileiro, em parceria com a Prefeitura de Moscou. (Fonte: DODC).",
+                "16 a 20/JUN – Washington, Estados Unidos. 53º Conselho Diretor da Organização Pan-Americana de Saúde – OPAS. (Fonte: DTS)",
+                "16 a 20/JUN – Nova York, EUA. 12ª reunião do Grupo de Trabalho Aberto sobre os Objetivos de Desenvolvimento Sustentável (GTA-ODS). (Fonte: CGDES)",
+                "16 a 20/JUN – Montreal, Canadá. 5ª Reunião do Grupo de Trabalho sobre a Revisão da Implementação da Convenção de Diversidade Biológica (WGRI-5). (Fonte: DEMA)",
+                "17/JUN – Genebra, Suíça. Discussão anual sobre os direitos das mulheres, e Diálogo Interativo Individual com a Comissão de Inquérito sobre a Síria (atualização oral), no âmbito da 26ª Sessão do Conselho de Direitos Humanos (CDH) das Nações Unidas. (Fonte: DDH)",
+                "17 a 19/JUN – Paris, França. \"Mesa-redonda sobre o financiamento do desenvolvimento do Benin\". (Fonte: DINV).",
+                "17 a 19/JUN – Nova York, Estados Unidos. Sessão Anual da Junta Executiva da ONU-Mulheres. (Fonte: DTS)",
+                "18/JUN – Moscou, Rússia. Dias da Cultura Brasileira na Rússia. Exibição do documentário \"Cidade Cinza\", no Centro de Documentários de Moscou, com a presença de artistas brasileiros do grafite. (Fonte: DODC).",
+                "18/JUN – Genebra, Suíça. Diálogo Interativo Individual com o Relator Especial sobre a República Popular Democrática da Coreia; apresentação do Relatório do Grupo de Peritos Eminentes e o Grupo de Trabalho Intergovernamental sobre a Implementação de Durban, seguido de Debate Geral, no âmbito da 26ª Sessão do Conselho de Direitos Humanos (CDH) das Nações Unidas. (Fonte: DDH)",
+                "18 a 20/JUN – Paris, França. UNESCO. 21ª Sessão do Comitê Intergovernamental do Programa Hidrológico Internacional (PHI) da UNESCO. (Fonte: BRASUNESCO)",
+                "19 e 20/JUN – Paris, França. Reunião do Comitê sobre Políticas para Economia Digital da Organização para a Cooperação e Desenvolvimento Econômico (OCDE). (Fonte: DI)",
+                "19 e 20/JUN – Genebra, Suíça. Reunião do Conselho da Organização Europeia para Pesquisa Nuclear (CERN). (Fonte: DCTEC)",
+                "19 e 20/JUN – Paris, França. UNESCO. Reunião internacional de peritos: \"Adotando abordagens inclusivas do conhecimento: dirigir-se às expectativas e necessidades diversas do estudante\". (Fonte: BRASUNESCO)",
+                "22 a 24/JUN – México, capital. UNESCO. 10ª Cúpula Mundial de Comitês Nacionais de Ética e Bioética. (Fonte: BRASUNESCO)",
+                "22 a 26/JUN – Londres, Reino Unido. 50º Reunião da Corporação da Internet para Designação de Nomes e Números (ICANN 50). (Fonte: DCT/DI)"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-13-16h55-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_14_de_junho_e_22_de_junho_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/13"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil do Presidente da República de Angola, José Eduardo dos Santos – Brasília, 16 de junho de 2014",
+            "subtitulo": "",
+            "data": "13/06/2014",
+            "horario": "16h49",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-do-presidente-da-republica-de-angola-jose-eduardo-dos-santos-brasilia-16-de-junho-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "A Presidenta da República receberá, em 16 de junho, o Presidente da República de Angola, José Eduardo dos Santos, em visita oficial ao Brasil. O encontro em Brasília constituirá oportunidade para passar em revista os principais temas da agenda bilateral, como promoção de investimentos e cooperação técnica, além de temas regionais e internacionais de interesse mútuo.",
+                "Brasil e Angola estabeleceram uma parceria estratégica em 2010. Entre 2009 e 2013, o intercâmbio comercial brasileiro com o país cresceu 35,9%, de US$ 1,47 bilhão para US$ 1,99 bilhão. O Brasil foi, em 2013, o quarto principal abastecedor do mercado angolano. Em 2014, até o mês de abril, o intercâmbio comercial já soma US$ 404 milhões.",
+                "Mais sobre as relações bilaterais Brasil-Angola"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-13-16h49-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_presidente_da_republica_de_angola,_jose_eduardo_dos_santos_-_brasilia,_16_de_junho_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/13"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil da Chanceler da República Federal da Alemanha, Angela Merkel – Brasília, 15 de junho de 2014",
+            "subtitulo": "",
+            "data": "13/06/2014",
+            "horario": "16h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-da-chanceler-da-republica-federal-da-alemanha-angela-merkel-brasilia-15-de-junho-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "A Chanceler da República Federal da Alemanha, Angela Merkel, realizará visita ao Brasil, ocasião em que será recebida pela Senhora Presidente da República, Dilma Rousseff, em Brasília, no dia 15.",
+                "As duas mandatárias examinarão o aprofundamento da Parceria Estratégica Brasil-Alemanha. Tratarão da ampliação do fluxo bilateral de comércio e investimentos, bem como examinarão os principais temas da agenda bilateral, inclusive cooperação em inovação, educação e energia.",
+                "As Chefes de Governo discutirão, igualmente, a reforma das instituições de governança global e temas da agenda de paz e segurança internacionais, bem como temas relacionados à segurança das comunicações eletrônicas.",
+                "Em 2013, o intercâmbio comercial entre o Brasil e a Alemanha atingiu US$ 21,7 bilhões. A Alemanha é o principal parceiro comercial do Brasil na Europa – e o quarto parceiro comercial brasileiro no mundo, após China, Estados Unidos e Argentina.",
+                "Mais sobre as relações bilaterais Brasil-Alemanha"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-13-16h46-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_da_chanceler_da_republica_federal_da_alemanha,_angela_merkel_-_brasilia,_15_de_junho_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/13"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Ato assinado por ocasião da visita ao Brasil da presidenta da República do Chile, Michelle Bachelet – Brasília, 12 de junho de 2014",
+            "subtitulo": "",
+            "data": "12/06/2014",
+            "horario": "16h42",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/ato-assinado-por-ocasiao-da-visita-ao-brasil-da-presidenta-da-republica-do-chile-michelle-bachelet-brasilia-12-de-junho-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "MEMORANDO DE ENTENDIMENTO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA DO CHILE PARA O INTERCÂMBIO DE DOCUMENTAÇÃO PARA O ESCLARECIMENTO DE GRAVES VIOLAÇÕES AOS DIREITOS HUMANOS",
+                "A República Federativa do Brasil",
+                "e",
+                "A República do Chile(doravante denominadas \"as Partes\"),",
+                "Com o desejo de criar um marco para a cooperação e o intercâmbio de documentação para pesquisas que permitam o esclarecimento de graves violações aos direitos humanos, ocorridas durante as ditaduras que assolaram ambos os países no passado recente;  Considerando:  A importância que ambas as Partes atribuem à obtenção de documentos que permitam o esclarecimento de atos de violação de direitos humanos no passado recente, bem como a cooperação histórica em matéria de esclarecimento de casos de desaparecimento forçado de pessoas e outras violações graves dos direitos humanos;  Que o presente Memorando de Entendimento se articula com os trabalhos que ambas as Partes desenvolvem no âmbito da Reunião de Altas Autoridades de Direitos Humanos e Chancelarias do MERCOSUL, especificamente nos trabalhos que já estão sendo realizados no marco do Grupo Técnico para a obtenção de dados e pesquisa de arquivos das coordenações repressivas do Cone Sul;",
+                "Chegaram ao seguinte entendimento: Artigo 1Definições gerais 1. No marco do presente Memorando de Entendimento: a) por \"Autoridade Competente\" entende-se: i) no caso da República Federativa do Brasil, a Secretaria de Direitos Humanos da Presidência da República, em coordenação com o Ministério da Justiça e com o Ministério das Relações Exteriores; ii) no caso da República do Chile, o Programa Continuação Lei nº 19.123 do Ministério do Interior e Segurança Pública, também conhecido como \"Programa de Direitos Humanos\";  b) por \"documentação\" entende-se toda informação contida em qualquer meio ou tipo documental, produzida, recebida e conservada por qualquer organização ou pessoa no exercício de suas competências ou no desempenho de sua atividade;  c) por \"Parte Requerida\" entende-se a Parte do presente Memorando de Entendimento à qual se solicitará a documentação;  d) por \"Parte Requerente\" entende-se a Parte do presente Memorando de Entendimento que enviará um pedido de informação. 2. No que se refere à aplicação do presente Memorando de Entendimento, qualquer termo não definido nele terá, a menos que o contexto exija interpretação diferente, o significado que lhe atribuir a legislação vigente da Parte. 3. As Autoridades Competentes poderão delegar a outros organismos do Estado a gestão de ações vinculadas à implementação do presente Memorando de Entendimento. Artigo 2Objeto  As Partes, por intermédio das Autoridades Competentes, prestarão assistência e cooperação mútua mediante o intercâmbio de documentação relevante para a investigação e esclarecimento das graves violações às quais se refere o presente Memorando de Entendimento, promovendo e fomentando a cooperação entre as instituições de ambos os países que conservem arquivos relativos ao objeto do presente Memorando de Entendimento, com o propósito de contribuir para o processo de reconstrução histórica da memória, verdade e justiça. Artigo 3Formalização dos pedidos 1. A formulação dos pedidos deve obedecer aos requisitos estabelecidos de comum acordo pela Comissão Técnica Mista a que se refere o artigo 6 do presente Memorando de Entendimento. 2. A Autoridade Competente da Parte Requerida será a única responsável em determinar os meios para reunir a informação e coordenar a atividade administrativa necessária a esse fim, sendo necessário pedido prévio, por escrito, da Autoridade Competente da Parte Requerente. 3. O pedido transmitido por fax, correio eletrônico ou similar deverá ser confirmado por documento original assinado pela Autoridade Competente da Parte Requerente no decorrer dos quinze dias seguintes a sua formulação, de acordo com o estabelecido por este Memorando de Entendimento. 4. Se a Autoridade Competente da Parte Requerida não puder obter ou tiver impedimento formal para fornecer a documentação solicitada, informará imediatamente à Parte Requerente, explicitando as razões dessa impossibilidade. Artigo 4Exceção para a tramitação de pedidos 1. A Parte Requerida estará isenta de sua obrigação de fornecer documentação quando:  a) a documentação não estiver em poder de suas autoridades;  b) o pedido não se realizar conforme o estipulado no Artigo 3 do presente Memorando de Entendimento;  c) a entrega da documentação for contrária à legislação interna da Parte Requerida, em particular por razões de segurança, ordem pública ou interesse nacional, conforme determine o Estado requerido. 2. Sem prejuízo do estipulado no inciso anterior, as autoridades competentes comprometem-se pelo presente Memorando de Entendimento a realizar todas as ações possíveis com vistas a prover informação útil para o esclarecimento de graves violações aos direitos humanos, por intermédio das vias administrativas, judiciais e/ou legislativas disponíveis. Artigo 5Sigilo  A Autoridade Competente da Parte Requerida poderá solicitar que a documentação que se produza e/ou se troque em virtude do cumprimento do presente Memorando de Entendimento tenha caráter sigiloso, pelo prazo determinado de comum acordo entre as Partes para cada caso, observada a legislação de cada uma das Partes. Artigo 6Comissão Técnica Mista 1. Com o objetivo de estabelecer um canal permanente e fluido de comunicação que facilite o intercâmbio da documentação objeto do presente Memorando de Entendimento, será formada uma Comissão Técnica Mista, que ficará encarregada da interpretação, do acompanhamento, da avaliação e da administração de todas as gestões efetuadas entre as Partes. 2. A referida Comissão Técnica Mista será integrada por representantes designados pelas Autoridades Competentes e seu funcionamento será regulado de comum acordo pelos procedimentos definidos pelas autoridades competentes para tal fim. Artigo 7Custos administrativos 1. A Parte Requerida assumirá os gastos de execução do pedido. A Parte Requerente pagará os gastos extraordinários que venham a decorrer da assistência prestada. Este Memorando de Entendimento não ocasionará qualquer transferência de fundos de uma das Partes à outra nem qualquer atividade que possa representar encargo para além das atividades regularmente desenvolvidas pelas autoridades competentes. 2. As Partes deverão estabelecer um procedimento prévio de consulta referente aos custos operacionais para o cumprimento de cada pedido, com o objetivo de acordar antecipadamente a forma de cobertura dos gastos demandados. Artigo 8Memorandos complementares  Quando for necessário, as Partes poderão aprofundar e ampliar os compromissos assumidos no presente Memorando de Entendimento por meio de memorandos complementares. Artigo 9Solução de controvérsias  As controvérsias que surgirem entre as Partes em razão da aplicação ou interpretação das disposições contidas no presente Memorando de Entendimento serão resolvidas mediante negociações diplomáticas diretas, podendo requerer-se, para tanto, a colaboração da Comissão Técnica Mista estabelecida no marco do presente Memorando de Entendimento. Artigo 10Entrada em Vigor e Denúncia  O presente Memorando de Entendimento entrará em vigor na data de sua assinatura.  Este Memorando de Entendimento poderá ser denunciado por qualquer das Partes por meio de uma notificação escrita dirigida à outra Parte por via diplomática em que se manifeste a intenção de denunciá-lo. A denúncia terá efeito 90 dias após o recebimento da referida notificação.  Não obstante, a denúncia do presente Memorando de Entendimento não implicará a interrupção das atividades que se encontram em andamento ao seu amparo, salvo se as Partes assim decidirem expressamente, por escrito e de comum acordo. Artigo 11Execução do Memorando  Na execução do presente Memorando de Entendimento, as Partes se sujeitarão ao disposto em seus respectivos ordenamentos jurídicos internos.  Feito em Brasília, no dia 12 de junho de 2014, em duas vias originais, em português e em espanhol, sendo ambas igualmente autênticas."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-12-16h42-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-ato_assinado_por_ocasiao_da_visita_ao_brasil_da_presidenta_da_republica_do_chile,_michelle_bachelet_-_brasilia,_12_de_junho_d....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/12"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita da Chanceler da República Federal da Alemanha, Angela Merkel, a Brasília, 15 de junho de 2014 - Credenciamento de imprensa",
+            "subtitulo": "",
+            "data": "12/06/2014",
+            "horario": "16h39",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-da-chanceler-da-republica-federal-da-alemanha-angela-merkel-a-brasilia-15-de-junho-de-2014-credenciamento-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os profissionais de imprensa interessados em participar da cobertura do encontro da Senhora Presidenta da República, em Brasília, com a Chanceler da República Federal da Alemanha, Angela Merkel, em 15 de junho de 2014, deverão enviar para credenciamento@itamaraty.gov.br, impreterivelmente até as 12h00 do dia 13 de junho, os seguintes dados:",
+                "No corpo do e-mail:",
+                "a) nome completo;b) número do documento de identidade (ou passaporte, em caso de profissional estrangeiro);c) veículo de imprensa;d) função;e) telefone celular e e-mail de contato.",
+                "Em anexo ao e-mail (formato .jpg e .pdf):",
+                "a) Carta em papel timbrado, assinada pela chefia imediata, com a solicitação de credenciamento.",
+                "Profissionais de imprensa portadores de credenciais permanentes emitidas pela Presidência da República ou pelo Ministério das Relações Exteriores estão dispensados desse procedimento, desde que informem, previamente, o nome e nº de registro da credencial pelo e-mail supracitado e apresentem a respectiva credencial no dia do evento.",
+                "O credenciamento é limitado a uma equipe por veículo."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-12-16h39-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_da_chanceler_da_republica_federal_da_alemanha,_angela_merkel,_a_brasilia,_15_de_junho_de_2014_-_credenciamento_de_impr....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/12"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil da Presidenta da República do Chile, Michelle Bachelet – Brasília, 12 de junho de 2014",
+            "subtitulo": "",
+            "data": "11/06/2014",
+            "horario": "16h33",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-da-presidenta-da-republica-do-chile-michelle-bachelet-brasilia-12-de-junho-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Foto: Roberto Stuckert Filho - PR",
+                "A Presidenta da República do Chile, Michelle Bachelet, realizará visita oficial ao Brasil no dia 12 de junho, ocasião em que será recebida pela Presidenta Dilma Rousseff. Esta será a primeira visita que a Presidenta chilena fará ao Brasil desde que assumiu o cargo para o atual mandato, em 11 de março passado.",
+                "As mandatárias tratarão dos principais temas da agenda bilateral, em especial as questões relacionadas à cooperação energética, à integração física, ao comércio e aos investimentos. Também serão examinados temas regionais e multilaterais.",
+                "Por ocasião da visita, será assinado Memorando de Entendimento para intercâmbio de informações sobre violações aos direitos humanos durante os regimes militares nos dois países. No Brasil, o acordo auxiliará as atividades da Comissão Nacional da Verdade.",
+                "O Brasil é o principal destino de investimentos chilenos no mundo, com estoque de US$ 24,6 bilhões. Os investimentos brasileiros também têm aumentado sua presença no Chile, especialmente nos setores de energia, serviços financeiros, alimentos, mineração, siderurgia e construção civil.",
+                "A corrente de comércio com o Chile, que alcançou US$ 8,8 bilhões em 2013, é a terceira maior do Brasil com país da América Latina. Nos últimos quatro anos, o intercâmbio entre os dois países observou aumento de 65,3%.",
+                "Ato assinado por ocasião da Visita ao Brasil da Presidenta da República do Chile, Michelle Bachelet Brasília",
+                "Mais sobre as relações bilaterais Brasil-Chile"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-11-16h33-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_da_presidenta_da_republica_do_chile,_michelle_bachelet_-_brasilia,_12_de_junho_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/11"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "VI Cúpula de Chefes de Estado e de Governo do BRICS - Fortaleza, 15 de julho, e Brasília, 16 de julho de 2014 - Credenciamento de imprensa",
+            "subtitulo": "",
+            "data": "10/06/2014",
+            "horario": "16h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/vi-cupula-de-chefes-de-estado-e-de-governo-do-brics-fortaleza-15-de-julho-e-brasilia-16-de-julho-de-2014-credenciamento-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os profissionais de imprensa interessados em cobrir a VI Cúpula do BRICS, que ocorrerá nos dias 15 de julho, em Fortaleza, e 16 de julho, em Brasília, deverão solicitar credenciamento diretamente pelo formulário online disponível no site oficial do evento:",
+                "http://brics6.itamaraty.gov.br/pt_br/credenciamento/imprensa",
+                "No dia 14, serão realizadas, em Fortaleza, no contexto da Cúpula do BRICS, reunião dos Ministros das Finanças e Presidentes dos Bancos Centrais, reunião dos Ministros do Comércio, reunião dos Bancos Nacionais de Desenvolvimento, Foro Empresarial e encontro do Conselho Empresarial do BRICS. O credenciamento de imprensa será válido também para os eventos que ocorrem neste dia.",
+                "O prazo para solicitação de credenciamento encerra-se no dia 2 de julho de 2014.",
+                "Os profissionais de imprensa deverão preencher os campos de nome, data e local de nascimento, nacionalidade, passaporte (número, data de expedição e data de validade) ou número de documento de identidade brasileiro, veículo de comunicação, ocupação (operador de câmera, diretor, fotógrafo, repórter, correspondente, editor, produtor ou técnico), número de telefone, endereço de email e lista de equipamentos.",
+                "Deverá ser anexado arquivo eletrônico de carta, em papel timbrado, assinada pelo editor, editor-chefe ou supervisor direto do veículo de comunicação, solicitando o credenciamento; arquivo de imagem do documento de identidade brasileiro ou do passaporte (páginas contendo o número do documento, a foto e as informações pessoais do titular) e foto em tamanho padrão para documento."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-10-16h27-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-vi_cupula_de_chefes_de_estado_e_de_governo_do_brics_-_fortaleza,_15_de_julho,_e_brasilia,_16_de_julho_de_2014_-_credenciament....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/10"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "14": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 7 de junho e 15 de junho de 2014",
+            "subtitulo": "",
+            "data": "06/06/2014",
+            "horario": "16h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-7-de-junho-e-15-de-junho-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "08/MAI a 12/JUN – Genebra, Suíça. Conferência Internacional do Trabalho (CIT). (Fonte: DTS)",
+                "09/JUN – Genebra, Suíça. Reunião Anual de Revisão da Cooperação Sul-Sul Brasil-OIT. (Fonte: Delbrasgen)",
+                "09/JUN – Buenos Aires, Argentina. Evento com importadores argentinos para a divulgação de linhas de crédito do BNDES. (Fonte: DOC)",
+                "09/JUN – Salamanca, Espanha. Cerimônia de Formatura da primeira turma do Programa ProUni Salamanca. (Fonte: DCE).",
+                "09/JUN – Brasília. 2ª Reunião do Grupo de Trabalho Interministerial sobre Agenda de Desenvolvimento Pós-2015. (Fonte: CGDES)",
+                "09 e 10/JUN – Santiago, Chile. I Conferência de Ciência, Inovação e Tecnologias da Informação e das Comunicações da América Latina e do Caribe, organizada pela Comissão Econômica para a América Latina e o Caribe (CEPAL). (Fonte: DCT/DCTEC)",
+                "09 e 10/JUN – Roma, Itália. Fundo Internacional para o Desenvolvimento Agrícola (FIDA). 2ª Sessão da Consulta sobre a 10ª Reposição de Recursos do FIDA. (Fonte: Rebrasfao)",
+                "09 a 11/JUN – Yokohama. Reunião do Painel de Avaliação das candidaturas para o cargo de Diretor-Executivo da Organização Internacional de Madeiras Tropicais (OIMT). (Fonte: DEMA)",
+                "09 a 12/JUN (continuação) – Genebra, Suíça. 103ª Sessão da Conferência Internacional do Trabalho. (Fonte: Delbrasgen)",
+                "09 a 13/JUN – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 31ª Sessão do Comitê de Pesca. (Fonte: Rebrasfao)",
+                "09 a 13/JUN – Lima, Peru. \"XV Encontro Internacional Virtual Educa\". (Fonte: DCE).",
+                "09 a 13/JUN – Genebra, Suíça. Evento de Alto Nível da União Internacional de Telecomunicações (UIT) sobre a Revisão de 10 Anos dos Resultados da Cúpula Mundial sobre a Sociedade da Informação (\"WSIS+10 High Level Event\"). (Fonte: DCT/DI)",
+                "09 a 15/JUN – Bonn, Alemanha. Reuniões dos órgãos subsidiários da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC): 40ª Sessão do Órgão Subsidiário de Assessoramento Científico e Tecnológico (SBSTA 40), 40ª Sessão do Órgão Subsidiário de Implementação (SBI 40) e quinta reunião da 2ª Sessão do Grupo Ad-Hoc da Plataforma de Durban sobre Ação Fortalecida (ADP 2.5). (Fonte: DCLIMA)",
+                "10/JUN – França. UNESCO. Dia Mundial do Oceano 2014: \"Juntos temos o poder de proteger o oceano\". (Fonte: BRASUNESCO)",
+                "10/JUN – Genebra, Suíça. Reunião dos Ministros do Trabalho e Assuntos Sociais da CPLP. (Fonte: Delbrasgen)",
+                "10/JUN – Genebra, Suíça. Reunião do Comitê Diretivo do Programa Internacional para a Erradicação do Trabalho Infantil (IPEC). (Fonte: Delbrasgen)",
+                "10 e 11/JUN – França. UNESCO. Reunião conjunta do Bureau e do Comitê Consultivo Científico do Conselho Intergovernamental do Programa MOST. (Fonte: BRASUNESCO)",
+                "10 e 11/JUN. Panamá. Reunião preparatória para a Primeira Assembleia Ambiental das Nações Unidas do PNUMA. (Fonte: SGAET)",
+                "10 a 12/JUN – Nova Iorque, Estados Unidos. VII Conferência das Partes (COP) na Convenção da ONU sobre Direitos das Pessoas com Deficiência (CPRD). (Fonte: DTS)",
+                "10 a 13/JUN – Jönkoping, Suécia. UNESCO. Conselho Internacional de Coordenação do programa \"O Homem e a Biosfera\" (MAB). (Fonte: BRASUNESCO)",
+                "10 a 27/JUN – Genebra, Suíça. 26ª Sessão do Conselho de Direitos Humanos (CDH) das Nações Unidas. (Fonte: DDH)",
+                "11/JUN – Porto Príncipe, Haiti. Inauguração do Hospital Comunitário de Referência Dr Raoul Pierre Louis, no âmbito do Projeto Tripartite Brasil-Cuba-Haiti para o Fortalecimento da Autoridade Sanitária do Haiti. (Fonte: Brasemb Porto Príncipe)",
+                "11/JUN – França. UNESCO. 5a Reunião do Órgão Consultivo Científico e Técnico da Convenção de 2001 sobre a Proteção do Patrimônio Cultural Subaquático. (Fonte: BRASUNESCO)",
+                "11 a 13/JUN – Madison, WI, EUA. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 27ª Sessão da Comissão de Florestas da América do Norte. (Fonte: Rebrasfao)",
+                "12/JUN – Londres, Reino Unido – Dia do Brasil na Trafalgar Square (Fonte: Brasemb Londres)",
+                "12/JUN – Genebra, Suíça. \"The Power of Empowered Women 2014\" – Diálogo interativo sobre Empoderamento das Mulheres. (Fonte: DTS)",
+                "12/JUN – Madri, Espanha. Show \"Funk como le Gusta\", na Casa do Brasil (Fonte: DODC)",
+                "12 e 13/JUN – Paramaribo, Suriname. II Reunião de Ministros da Cultura da UNASUL. (Fonte: DAMC)",
+                "12 e 13/JUN – Genebra, Suíça. Conselho Executivo da UNITAID. (Fonte: Delbrasgen)",
+                "12/JUN a 12/JUL – Londres, Reino Unido. \"Brazil Festival\". (Fonte: DODC)",
+                "13/JUN – Genebra, Suíça. 321ª Sessão do Conselho de Administração da OIT (Organização Internacional do Trabalho). (Fonte: Delbrasgen)",
+                "14/JUN – Moscou, Rússia. Dias da Cultura Brasileira na Rússia. No âmbito do programa \"Novas Vozes do Brasil\", apresentação de Márcia Castro e banda no \"Usadba Jazz Festival\", o maior e mais tradicional festival do gênero na Rússia. (Fonte: DODC)",
+                "14 e 15/JUN – Santa Cruz de la Sierra, Bolívia. Cúpula Extraordinária de Chefes de Estado e de Governo do G-77/China. (Fonte: CORG)",
+                "14 e 15/JUN – Genebra, Suíça. Reunião do Comitê Preparatório Intergovernamental para a III Conferência Global sobre Prevenção de Riscos de Desastres. (Fonte: Delbrasgen)",
+                "14 a 16/JUN – Genebra, Suíça. 1ª Reunião do Grupo de Trabalho Ad Hoc sobre o Aperfeiçoamento do sistema Multilateral de Acesso e Repartição de Benefícios, no âmbito do Tratado Internacional sobre Recursos Fitogenéticos para a Alimentação e a Agricultura (TIRFAA). (Fonte: Delbrasgen)",
+                "15 a 25/JUN – Doha, Catar. 38ª sessão do Comitê do Patrimônio Mundial da UNESCO. (Fonte: BRASUNESCO)"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-06-16h27-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_7_de_junho_e_15_de_junho_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/06"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "15": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil do Ministro dos Negócios Estrangeiros e do Comércio Internacional de Granada, Nickolas Steele – Brasília, 9 de junho de 2014",
+            "subtitulo": "",
+            "data": "06/06/2014",
+            "horario": "16h24",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-do-ministro-dos-negocios-estrangeiros-e-do-comercio-internacional-de-granada-nickolas-steele-brasilia-9-de-junho-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "(Foto: Ana de Oliveira - AIG/MRE)",
+                "O Ministro das Relações Exteriores, Embaixador Luiz Alberto Figueiredo Machado, receberá, em 9 de junho, o Ministro dos Negócios Estrangeiros e do Comércio Internacional de Granada, Nickolas Tang Conway Steele, em visita oficial ao Brasil.",
+                "No encontro, serão revistos os principais temas da agenda bilateral, em especial aqueles relativos a promoção de investimentos e turismo, cooperação na área da saúde e cooperação técnica, isenção de vistos, além de temas regionais de interesse mútuo.",
+                "A visita incluirá palestra do Ministro Nickolas Steele no Instituto Rio Branco, ocasião em que discorrerá sobre o processo de integração no Caribe e as visões dos países caribenhos sobre temas da agenda internacional.",
+                "Mais sobre as relações bilaterais Brasil-Granada"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-06-16h24-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_ministro_dos_negocios_estrangeiros_e_do_comercio_internacional_de_granada,_nickolas_steele_-_brasilia,_9_....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/06"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "16": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Posse do Governo de união nacional palestino",
+            "subtitulo": "",
+            "data": "06/06/2014",
+            "horario": "16h22",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/posse-do-governo-de-uniao-nacional-palestino",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro congratula o Estado da Palestina pela posse, em 2 de junho, do Governo de união nacional, cuja formação representa passo significativo no processo de reconciliação palestina e de construção de uma Palestina próspera e democrática.",
+                "A união intrapalestina é central para o progresso das negociações de paz com Israel e para a solução de convivência de dois Estados, Israel e Palestina. Nesse sentido, o Governo brasileiro tem confiança em que o novo Governo palestino honrará os compromissos previamente assumidos pela Palestina, de modo a possibilitar a retomada das negociações de paz."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-06-16h22-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-posse_do_governo_de_uniao_nacional_palestino.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/06"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "17": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil do Ministro dos Negócios Estrangeiros e Culto do Haiti, Embaixador Duly Brutus - Brasília, 2 de junho de 2014",
+            "subtitulo": "",
+            "data": "02/06/2014",
+            "horario": "16h10",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-do-ministro-dos-negocios-estrangeiros-e-culto-do-haiti-embaixador-duly-brutus-brasilia-2-de-junho-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Foto: Ana de Oliveira, AIG/MRE",
+                "O Ministro das Relações Exteriores, Embaixador Luiz Alberto Figueiredo Machado, receberá, em 2 de junho, o Ministro dos Negócios Estrangeiros e Culto do Haiti, Embaixador Duly Brutus, em sua primeira visita oficial ao Brasil.",
+                "Durante o encontro, serão abordados os principais temas da agenda bilateral, em especial a cooperação nas áreas de segurança alimentar, desenvolvimento social, saúde e educação, além de assuntos migratórios e de segurança.",
+                "A Missão das Nações Unidas para a Estabilização no Haiti (MINUSTAH) completou dez anos em 2014. Desde sua criação, o comando militar da Missão é exercido pelo Brasil, que é também o maior contribuinte de tropas, com 1.433 militares e 18 policiais.",
+                "Mais sobre as relações bilaterais Brasil-Haiti"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-06-02-16h10-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_ministro_dos_negocios_estrangeiros_e_culto_do_haiti,_embaixador_duly_brutus_-_brasilia,_2_de_junho_de_201....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/06/02"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

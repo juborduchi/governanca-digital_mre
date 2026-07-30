@@ -1,0 +1,1856 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 11 e 19 de janeiro de 2014",
+            "subtitulo": "",
+            "data": "10/01/2014",
+            "horario": "17h59",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-11-e-19-de-janeiro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "9 a 18/JAN – Nova York, EUA. Convenção Anual da Federação Nacional do Varejo dos Estados Unidos, com participação de representantes do SEBRAE/RJ. (Fonte: DINV) 10 a 12/JAN – Oslo, Noruega. Feira Internacional de Turismo \"Reiseliv\". (Fonte: DOC)",
+                "12/JAN – Porto Príncipe, Haiti. Cerimônia oficial por ocasião do aniversário de quatro anos do terremoto de 2010. (Fonte: Brasemb Porto Príncipe) 12/JAN – Paris, França. Reunião do \"Grupo de Amigos da Síria\", com participação dos 11 países do \"core group\". (Fonte: SGAP-III)",
+                "13 a 15/JAN – Lisboa, Portugal. Reunião dos Pontos Focais para o Programa CPLP nas Escolas, com participação de representante do MEC. (Fonte: ABC)",
+                "13 a 17/JAN – Dacar, Senegal. 4ª Cúpula Panafricana dos Jovens Líderes das Nações Unidas. (Fonte: DTS) 14 a 19/JAN – Haia, Países Baixos. Feira de Turismo de Utrecht (VAKANTIEBEURS), com participação da EMBRATUR. (Fonte: DOC) 15/JAN – Cidade do Kuwait. II Conferência Humanitária Internacional de Alto Nível sobre Contribuições para a Crise na Síria. (Fonte: SGAP-III)",
+                "16/JAN – Porto Príncipe, Haiti. Reunião do Comitê de Eficácia da Ajuda (CEA) do mecanismo de Coordenação da Ajuda Externa (CAED). (Fonte: Brasemb Porto Príncipe)",
+                "16 e 17/JAN – Genebra, Suíça. 19ª Sessão do Comitê de Planejamento, Orçamento e Administração (PBAC) do Conselho Executivo da Organização Mundial da Saúde (OMS). (Fontes: DTS e Delbrasgen)",
+                "16 a 19/JAN – Helsinque, Finlândia. Feira Matka 2014. (Fonte: DOC)",
+                "17/JAN – Genebra, Suíça. III Cúpula Ministerial do Grupo de Observação da Terra (GEO). (Fonte: Delbrasgen)"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-10-17h59-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_11_e_19_de_janeiro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/10"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Conferência Internacional sobre Síria (Genebra II) - Montreux, Suíça, 22 de janeiro de 2014 - Credenciamento de imprensa",
+            "subtitulo": "",
+            "data": "08/01/2014",
+            "horario": "17h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/conferencia-internacional-sobre-siria-genebra-ii-montreux-suica-22-de-janeiro-de-2014-credenciamento-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os profissionais de imprensa interessados em participar da cobertura da Conferência Internacional sobre Síria (Genebra II), deverão:",
+                "1) Preencher formulário de credenciamento disponível na página de Internet da Representação das Nações Unidas em Genebra (www.unog.ch/news), no link \"International Conference on Syria\";",
+                "2) Enviar o formulário ao Serviço de Informações das Nações Unidas ao endereço eletrônico accreditation-media-syria@unog.ch, junto com a documentação relacionada abaixo, com cópia para credenciamento@itamaraty.gov.br:",
+                "a. Carta em papel timbrado do veículo de imprensa responsável;b. Cópia eletrônica da credencial de profissional de imprensa;c. Cópia eletrônica do Passaporte;d. Foto para Passaporte em formato jpg;",
+                "3) Portadores de credencial de imprensa da Representação das Nações Unidas em Genebra ou da ONU em Nova York não precisam enviar formulário de credenciamento. Devem, porém, encaminhar mensagem aos endereços eletrônicos supracitados com solicitação de credencial para acesso ao Centro de Imprensa em Montreux. Profissionais de imprensa registrados junto à ONU em Nova York devem transmitir àquele endereço eletrônico, adicionalmente, cópia eletrônica de sua credencial da ONU e foto para Passaporte em formato jpg.",
+                "O envio de toda a documentação é indispensável para o processamento do pedido de credenciamento pelo Serviço de Informações das Nações Unidas. O prazo encerra-se em 17 de janeiro próximo.",
+                "Informações adicionais sobre cobertura de imprensa do evento encontram-se disponíveis na página www.unog.ch/news."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-08-17h45-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-conferencia_internacional_sobre_siria_(genebra_ii)_-_montreux,_suica,_22_de_janeiro_de_2014_-_credenciamento_de_imprensa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/08"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 4 de janeiro e 12 de janeiro de 2014",
+            "subtitulo": "",
+            "data": "03/01/2014",
+            "horario": "18h14",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-4-de-janeiro-e-12-de-janeiro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "4 a 11/JAN – Singapura. Visita a Singapura do Presidente da Comissão de Relações Exteriores e Defesa Nacional do Senado Federal, Senador Ricardo Ferraço, que participará de programa do Governo singapuriano intitulado \"S.R. Nathan Fellowship\" e manterá encontro com autoridades políticas locais. (Fonte: DASEAN)",
+                "7 a 9/JAN – Catia La Mar, Venezuela. I Reunião de Ministros e Altas Autoridades em Esportes do MERCOSUL. (Fonte: CGCE)",
+                "8/JAN – Lisboa, Portugal. Reunião Extraordinária do Comitê de Concertação Permanente da CPLP, para apresentação aos Estados membros do Representante Especial da CPLP para a Guiné-Bissau, o brasileiro Carlos Moura. (Fonte: SGAP-III)",
+                "10 a 12/JAN – Oslo, Noruega. REISELIV – Salão Internacional do Turismo. (Fonte: DOC/SECOM Oslo)"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-03-18h14-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_4_de_janeiro_e_12_de_janeiro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/03"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentados no Líbano",
+            "subtitulo": "",
+            "data": "02/01/2014",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentados-no-libano",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro condena a série recente de atentados terroristas no Líbano.",
+                "Ao expressar suas condolências às vítimas desses atos de violência e suas famílias, o Governo brasileiro reitera, ao Governo e ao povo do Líbano, seu irrestrito apoio aos esforços pela manutenção da estabilidade política do país."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-02-10h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentados_no_libano.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/02"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 1º e 9 de fevereiro de 2014",
+            "subtitulo": "",
+            "data": "31/01/2014",
+            "horario": "18h15",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-1-e-9-de-fevereiro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "1º e 2/FEV – Melbourne, Austrália. Festival Multicultural de Melbourne. (Fonte: DODC)",
+                "2 e 3/FEV – Sochi, Rússia. Reunião do Comitê-Executivo do Comitê Olímpico Internacional. (Fonte: CGCE)",
+                "3/FEV – Roma, Itália. Encontro de Alto Nível sobre Desafios Humanitários na Síria. (Fonte: Brasemb Roma)",
+                "3 a 6/FEV – Brasília, Rio de Janeiro e São Paulo. Visita ao Brasil de Mario Giro, Subsecretário de Estado do Ministério dos Negócios Estrangeiros da Itália. (Fonte: Brasemb Roma)",
+                "3 a 6/FEV – Cidade do Cabo, África do Sul. Feira Internacional ’’Investing in African Mining Indaba’’. (Fonte: DOC)",
+                "3 a 7/FEV – Genebra, Suíça. 18ª Sessão do Grupo de Trabalho do Mecanismo de Revisão Periódica Universal-RPU (continuação). (Fonte: Delbrasgen)",
+                "3 a 7/FEV – Genebra, Suíça. 102ª Sessão do Grupo de Trabalho sobre Desaparecimentos Forçados ou Involuntários. (Fonte: Delbrasgen)",
+                "3 a 7/FEV – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 2ª Sessão da Consulta Técnica sobre as Diretrizes Internacionais para a Pesca Artesanal Sustentável. (Fonte: Rebrasfao)",
+                "3 a 21/FEV – Genebra, Suíça. 84ª Sessão do Comitê para a Eliminação da Discriminação Racial. (Fonte: Delbrasgen)",
+                "4/FEV – Brasília. Reunião do Grupo Técnico do Trabalho Estrangeiro (GTTE), da Comissão Nacional para Erradicação do Trabalho Escravo (CONATRAE), sobre Trabalho Escravo em Navios de Cruzeiros. (Fonte: DTS)",
+                "5 a 7/FEV – Brasília. Reunião do Diálogo Comercial MDIC-DoC - Departamento de Comércio dos Estados Unidos. (Fonte: DINV)",
+                "6 e 7/FEV – Kingston, Jamaica. \"International Trade Expo 2014\". (Fonte: DOC)",
+                "6 a 11/FEV – Luanda, Angola e Maputo, Moçambique. Missão empresarial brasileira da indústria de transformação. (Fonte: DINV)",
+                "7 e 8/FEV – Vancouver, Canadá. O Grupo Corpo apresenta os espetáculos \"Sem Mim\" e \"Ímã\" no Vancouver Playhouse Theatre. (Fonte: DODC)",
+                "7 a 9/FEV – Nova Délhi, Índia. Festival Literário de Delhi. (Fonte: DODC)",
+                "7 a 9/FEV – Karachi, Paquistão. Festival Literário de Karachi. (Fonte: DODC)",
+                "7 a 9/FEV – Colombo, Sri Lanka. VI Feira de Calçados e Couro. (Fonte: DOC)"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-31-18h15-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_1o_e_9_de_fevereiro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/31"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "II Cúpula da CELAC – Declaração de Havana – 29 de janeiro de 2014",
+            "subtitulo": "",
+            "data": "30/01/2014",
+            "horario": "10h12",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/ii-cupula-da-celac-declaracao-de-havana-29-de-janeiro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Leia a íntegra da declaração política final da II Cúpula da Comunidade de Estados Latino-Americanos e Caribenhos:",
+                "(versão em português a ser divulgada oportunamente)",
+                "II Cúpula da Comunidade de Estados Latino-Americanos e Caribenhos (CELAC) – 28 e 29 de janeiro de 2014 – Declaração de Havana",
+                "Las Jefas y los Jefes de Estado y de Gobierno de América Latina y el Caribe, reunidos en La Habana, Cuba, en ocasión de la II Cumbre de la Comunidad de Estados Latinoamericanos y Caribeños (CELAC), celebrada los días 28 y 29 de enero de 2014,",
+                "Reafirmando la vigencia del acervo histórico de la Comunidad, integrado, a su vez, por el acervo histórico del Grupo de Río y la Cumbre de América Latina y el Caribe sobre desarrollo e integración y por las Declaraciones, Comunicados Especiales y decisiones aprobados en la I Cumbre de la CELAC, celebrada en Santiago de Chile, los días 27 y 28 de enero de 2013; en la Cumbre Fundacional de Caracas, el 3 de diciembre de 2011; en la Cumbre de la Unidad de América Latina y el Caribe, realizada en la Riviera Maya, Cancún, México, el 23 de febrero de 2010; en las Cumbres de América Latina y el Caribe sobre Integración y Desarrollo, iniciadas en Salvador de Bahía, Brasil, los días 16 y 17 de diciembre de 2008; y en el proceso de convergencia que dio paso a la CELAC.",
+                "Destacando que a dos años de la puesta en funcionamiento de la Comunidad de Estados Latinoamericanos y Caribeños hemos logrado construir un espacio de diálogo y concertación política que nos une y hace posible la aspiración de trabajar juntos por el bienestar de nuestros pueblos; que permite, a su vez, una mejor inserción y la proyección de nuestra región en el ámbito internacional.",
+                "Ratificando hoy nuestra voluntad irrevocable de fortalecer este espacio de diálogo político efectivo. Hemos sido, somos y seremos diversos, y a partir de esta diversidad es que tenemos que identificar los desafíos y objetivos comunes y los pisos de convergencia que nos permitirán avanzar en el proceso de integración de nuestra región. Fortalezcamos nuestras democracias y todos los derechos humanos para todos; demos mayores oportunidades a nuestra gente; construyamos sociedades más inclusivas; mejoremos nuestra productividad; estrechemos nuestro comercio; mejoremos nuestra infraestructura y conectividad y las redes necesarias que unan cada vez más a nuestros pueblos; trabajemos por el desarrollo sostenible, por superar las desigualdades y por una más equitativa distribución de la riqueza, para que todas y todos sientan que la democracia les da sentido a sus vidas. Esa es la misión de la CELAC, esa es la tarea a la que hemos sido convocados y esa es la responsabilidad política que tenemos por delante y de la cual deberemos dar cuenta a nuestros pueblos.",
+                "1. Reiteramos que la unidad y la integración de nuestra región debe construirse gradualmente, con flexibilidad, con respeto al pluralismo, a la diversidad y al derecho soberano de cada uno de nuestros pueblos para escoger su forma de organización política y económica. Reiteramos que nuestra Comunidad se asienta en el respeto irrestricto a los Propósitos y Principios de la Carta de las Naciones Unidas y el Derecho Internacional, la solución pacífica de controversias, la prohibición del uso y de la amenaza del uso de la fuerza, el respeto a la autodeterminación, a la soberanía, la integridad territorial, la no injerencia en los asuntos internos de cada país, la protección y promoción de todos los derechos humanos, el Estado de Derecho en los planos nacional e internacional, el fomento de la participación ciudadana y la democracia. Asimismo, nos comprometemos a trabajar conjuntamente en aras de la prosperidad para todos, de forma tal que se erradiquen la discriminación, las desigualdades y la marginación, las violaciones de los derechos humanos y las transgresiones al Estado de Derecho.",
+                "2. Reafirmamos como principio general, que el fortalecimiento de la CELAC como foro y actor político internacional es una de nuestras prioridades. En ese contexto, consideramos fundamental buscar el perfeccionamiento de la coordinación y la cooperación entre los miembros de la CELAC, en el marco de los organismos internacionales, siempre que eso sea posible y viable.",
+                "3. Expresamos nuestro más profundo pesar por el fallecimiento del Comandante Presidente de la República Bolivariana de Venezuela, Hugo Rafael Chávez Frías, ocurrida el 5 de marzo de 2013, uno de los principales fundadores e impulsores de la CELAC, humanista incansable e impulsor de la unión latinoamericana y caribeña, que luchó contra la exclusión social, la pobreza e impulsó el desarrollo integral de la región.",
+                "4. Subrayamos nuestro propósito de continuar avanzando unidos en la concertación y la integración latinoamericana y caribeña, y la consolidación de nuestra Comunidad, conforme los ideales y sueños de nuestros libertadores y próceres. Ratificamos nuestra decisión de establecer acciones que nos permitan prevenir, y en su caso, afrontar coordinadamente, los efectos de la actual crisis internacional de múltiples interrelaciones, que sigue impactando negativamente en los esfuerzos de nuestros países para fomentar el crecimiento y el desarrollo sostenible e integral de la región.",
+                "5. Promovemos una visión de desarrollo integral e inclusivo, que garantice el desarrollo sostenible y productivo, en armonía con la naturaleza, en aquellos ámbitos en los que podemos construir sinergias, particularmente en áreas como la energía, infraestructura, el comercio intrarregional, la producción de alimentos, las industrias intermedias, las inversiones y el financiamiento, con el propósito de alcanzar el mayor desarrollo social para nuestros pueblos.",
+                "6. Asumimos nuestro compromiso con el desarrollo regional integrado, no excluyente y equitativo, tomando en cuenta la importancia de asegurar un tratamiento favorable a las economías pequeñas y vulnerables, a los países en desarrollo sin litoral y Estados insulares.",
+                "7. Saludamos los importantes resultados alcanzados en las Reuniones de Coordinadores Nacionales y de Ministros de Relaciones Exteriores celebradas hasta el momento, y llamamos a la aplicación de las decisiones y mandatos contenidos en los acuerdos alcanzados, sobre la base de los principios de flexibilidad y participación voluntaria.",
+                "8. Reconocemos que la experiencia de los dos años de existencia de la CELAC, demuestra la importancia del diálogo permanente para fortalecer el consenso en temas de interés regional, sobre la base de los principios de la solidaridad, complementariedad con otras experiencias o instituciones regionales y subregionales, y cooperación, y orientado a alcanzar resultados efectivos para lograr el desarrollo sostenible, solidario e inclusivo de los Estados latinoamericanos y caribeños. Destacamos los avances en el diálogo con los Mecanismos regionales y subregionales de integración.",
+                "9. Llamamos a la comunidad internacional a tomar medidas urgentes para hacer frente a las fragilidades y desequilibrios sistémicos. Expresamos nuestro deseo de trabajar conjuntamente para superar los desafíos que nos presenta el actual escenario internacional, y a realizar esfuerzos para impulsar ritmos de crecimiento económico sostenido, dinámico y de largo plazo para la región, que propicien una equidad e inclusión social crecientes y la integración de la América Latina y el Caribe, tomando en cuenta el valor del emprendimiento y las PYMES como instrumentos para fortalecer las economías nacionales.",
+                "10. Reafirmamos que para la erradicación de la pobreza y el hambre es necesario impulsar políticas económicas que favorezcan la productividad y el desarrollo sostenible de nuestras naciones, trabajar para fortalecer el orden económico mundial en beneficio de nuestros países, fomentar la complementariedad, la solidaridad y la cooperación, y exigir el cumplimiento de los compromisos de ayuda al desarrollo, por parte de los países desarrollados.",
+                "11. Ratificamos nuestra voluntad de promover el crecimiento, el progreso, la inclusión social y el desarrollo sostenible de nuestros Estados, formulando y desarrollando planes, políticas y programas nacionales con metas cuantificables y calendarios, dirigidos a la universalización del disfrute y ejercicio de los derechos económicos, sociales y culturales, con atención prioritaria a las personas en condición de pobreza extrema y sectores en situación de vulnerabilidad como las poblaciones indígenas, afrodescendientes, mujeres, niños, personas con discapacidad, adultos mayores, jóvenes y migrantes.",
+                "12. Saludamos el éxito de la III Conferencia Global sobre el Trabajo Infantil, y reiteramos nuestro compromiso con la eliminación de las peores formas del trabajo infantil antes de 2016, así como con la erradicación del trabajo infantil en el más corto plazo posible.",
+                "13. Saludamos la adopción de la Declaración y Plan de Acción de Caracas de las autoridades de Desarrollo Social para la Erradicación del Hambre y la Pobreza. Seguiremos trabajando en planes, políticas y programas nacionales para reducir progresivamente las desigualdades de ingreso que están en la base misma del hambre, la pobreza y la exclusión social mediante, entre otras, políticas fiscales progresivas, de creación de empleos formales permanentes, de protección, de asistencia y seguridad social, de establecimiento de salarios mínimos y su elevación progresiva, las cuales se concretarían según las capacidades de cada miembro de la CELAC, aumentando gradualmente la inversión social.",
+                "14. Otorgamos la más alta prioridad a fortalecer la seguridad alimentaria y nutricional, la alfabetización y post-alfabetización, la educación general pública gratuita, la educación técnica, profesional y superior de calidad y pertinencia social, la tenencia de la tierra, el desarrollo de la agricultura, incluyendo la familiar y campesina y del trabajo decente y duradero, del apoyo a los pequeños productores agrícolas, el seguro al desempleo, la salud pública universal, el derecho a la vivienda adecuada para todos y todas, y el desarrollo productivo e industrial como factores decisivos para la erradicación del hambre, la pobreza, y la exclusión social.",
+                "15. Reiteramos nuestro compromiso para trabajar mancomunadamente en el fortalecimiento de los mecanismos nacionales, regionales y multilaterales en la lucha contra el tráfico ilícito de bienes culturales y asegurar la integración cultural de nuestros pueblos a través de la promoción del intercambio de saberes culturales, tradicionales y modernos.",
+                "16. Reconocemos que los pueblos indígenas y comunidades locales desempeñan un papel importante en el desarrollo económico, social y ambiental, así como la importancia de las prácticas agrícolas tradicionales sostenibles, asociadas a la biodiversidad y el aprovechamiento de sus recursos, su derecho de acceso al agua adecuada para el riego, de conformidad con la legislación de cada país, y los sistemas comunales de tenencia de la tierra, y los tradicionales de suministro de semillas, y el acceso al financiamiento y los mercados.",
+                "17. Decidimos fortalecer, de manera integral, la base productiva con énfasis en las prácticas locales y culturales sostenibles de las pueblos indígenas y comunidades locales, para una gestión integral que optimice el uso y acceso al agua para riego, desde una visión de manejo de cuencas, la recuperación de la fertilidad del suelo mediante la reposición de cobertura vegetal, abonos orgánicos, terrazas y la conservación e incremento de la biodiversidad, a través de la recuperación y crianza de semillas nativas y producción de semillas mejoradas.",
+                "18. Subrayamos el papel fundamental de las políticas públicas y reconocemos la valiosa contribución del sector privado, de la sociedad civil, de los movimientos sociales y la sociedad en su conjunto. Tomamos nota de los progresos logrados y nos comprometemos a continuar impulsándolas activamente, con apego a las prioridades y estrategias nacionales de desarrollo de cada Estado para alcanzar las metas de erradicación del hambre, la pobreza y la exclusión social. Reconocemos la importancia de la cooperación internacional, regional y bilateral para tal fin.",
+                "19. Reconocemos las iniciativas nacionales, subregionales y regionales dirigidas a garantizar el derecho humano a la alimentación y promover la seguridad alimentaria y nutricional, reducir los niveles de pobreza e impulsar la inclusión plena, y saludamos los progresos logrados en esos empeños, a la par que subrayamos que para garantizar éxitos ulteriores deben privilegiarse la complementariedad y la solidaridad entre nuestras naciones.",
+                "20. Reiteramos el compromiso de fortalecer los mecanismos de seguimiento en cada país para los programas y proyectos sociales que se implementen en distintos sectores, con especial atención a los grupos poblacionales en situación de mayor vulnerabilidad, a fin de evaluar con una perspectiva multidimensional su impacto y compartir las mejores prácticas con el resto de los países de la región.",
+                "21. Apoyamos la Iniciativa América Latina y el Caribe Sin Hambre 2025.",
+                "22. Reafirmamos nuestra voluntad de impulsar programas regionales, subregionales bilaterales y triangulares de cooperación para el desarrollo, así como una política regional de Cooperación Sur-Sur y Triangular, que tengan en cuenta las características y necesidades específicas de las diversas áreas y subregiones, así como de cada uno de los países que las conforman.",
+                "23. Reconocemos, en ese sentido, al Caribe insular y Centroamérica, así como los países en la costa norte de América del Sur con áreas costeras bajas, como las subregiones de mayor vulnerabilidad desde el punto de vista económico, social y medioambiental, y abogamos por promover el comercio solidario y complementario, las inversiones y proyectos, y las acciones de cooperación encaminadas a superar los disímiles retos y dificultades asociados a su vulnerabilidad.",
+                "24. Nos comprometemos a continuar contribuyendo al esfuerzo de reconstrucción y desarrollo de Haití, de conformidad con los ámbitos prioritarios definidos por su gobierno, y con pleno respeto a su autoridad y soberanía, así como al principio de no intervención en los asuntos internos, en conformidad con la resolución sobre cooperación especial con Haití aprobada por las Ministras y Ministros de Relaciones Exteriores, y ratificada por las Jefas y Jefes de Estado y/o de Gobierno en la I Cumbre de la CELAC. Instamos a los Gobiernos, a los donantes tradicionales y a las instituciones financieras internacionales para que apoyen con mayor amplitud y rapidez, la ejecución del Plan de Desarrollo Estratégico Nacional (NSDH) del Gobierno de Haití, en especial en el ámbito de la agricultura. Los instamos, asimismo, a apoyar el Plan Nacional para la Eliminación del Cólera, que requiere de medidas urgentes de prevención y control, así como de inversiones en infraestructura de agua, saneamiento, y fortalecimiento de la capacidad de las instituciones del país.",
+                "25. Afirmamos, que para la elaboración de una Agenda Estratégica Regional sobre la Gestión Integral del Riesgo de Desastres, es necesario que la temática sea reconocida como un proceso integrado por acciones relativas a la estimación y reducción del riesgo, la preparación, la asistencia humanitaria y la reconstrucción, las que deberán ser parte de un Plan de Acción coordinado y articulado entre los entes locales, nacionales, subregionales y regionales.",
+                "26. Nos comprometemos a continuar consolidando sólidos principios regionales en materia de reconocimiento de los derechos de los migrantes, así como a profundizar la coordinación de políticas migratorias regionales y de posiciones comunes en las negociaciones globales e interregionales sobre migraciones, y en especial, en la promoción del debate internacional sobre el nexo entre la migración, el desarrollo y los derechos humanos.",
+                "27. Reafirmamos nuestra voluntad y compromiso para seguir avanzando en la consecución de los Objetivos de Desarrollo del Milenio.",
+                "28. Ratificamos la importancia crucial del proceso intergubernamental de formulación de la Agenda de Desarrollo Post 2015, que deberá ser abierto, transparente e inclusivo. Subrayamos que la nueva agenda de desarrollo deberá formularse sobre la base del respeto irrestricto de los principios consagrados en la Carta de las Naciones Unidas, y a la luz de los principios consagrados en el Documento Final de Rio+20, “El Futuro que Queremos”; así como los diferentes enfoques, visiones, modelos e instrumentos que los países han determinado para alcanzar el desarrollo sostenible, en función de sus circunstancias y prioridades nacionales. Debiendo cuidar que el proceso sea universal y lo suficientemente flexible para responder a las prioridades, condiciones y necesidades de los países en desarrollo y tomando en cuenta las necesidades especiales de los diferentes países, incluyendo los países menos desarrollados, los países sin litoral, los pequeños Estados insulares en desarrollo y los llamados países de renta media.",
+                "29. Reconocemos la urgente necesidad de que la nueva Agenda de Desarrollo incluya explícitamente como un objetivo, con indicadores y plazos de cumplimiento específicos, los medios de implementación que garanticen su cumplimiento, entre los que figuran recursos financieros nuevos, adicionales y previsibles, el desarrollo y la transferencia de tecnología, la creación de capacidades en los países en desarrollo.",
+                "30. La nueva Agenda debe partir de la experiencia en la consecución de los Objetivos de Desarrollo del Milenio, para definir armónicamente los Objetivos de Desarrollo Sostenible; excluir cualquier condicionalidad; y eliminar las brechas al interior de las sociedades, entre regiones y a escala global. Asimismo, deberá reforzar el compromiso de la comunidad internacional, de que las personas sean el centro de sus preocupaciones, que promueva el crecimiento económico sostenido e inclusivo, el desarrollo social participativo y la protección del medio ambiente.",
+                "31. Reafirmamos la Resolución de la Asamblea General de las Naciones Unidas A/RES/64/292, de 28 de julio de 2010, en la que la Asamblea General reconoce el derecho al agua potable y el saneamiento como un derecho humano esencial para el pleno disfrute de la vida y de todos los derechos humanos.",
+                "32. Convencidos que el cambio climático es uno de los más graves problemas de nuestro tiempo, expresamos profunda preocupación por su creciente impacto negativo en los países en desarrollo y los pequeños Estados insulares en particular, que compromete los esfuerzos por la erradicación de la pobreza y alcanzar el desarrollo sostenible. En ese contexto, y en el marco del principio de las responsabilidades comunes pero diferenciadas y las respectivas capacidades, reconocemos que la naturaleza global del cambio climático requiere de la cooperación de todos los países y su participación en una respuesta internacional efectiva y apropiada, en conformidad con la responsabilidad histórica de cada cual por este fenómeno, para acelerar la reducción global de las emisiones mundiales de gases de efecto invernadero y la adopción de medidas de adaptación, de conformidad con las disposiciones y principios de la Convención Marco de las Naciones Unidas sobre Cambio Climático y las decisiones adoptadas en las Conferencias de las Partes.",
+                "33. Recibimos con beneplácito la realización del Diálogo Interactivo de la Asamblea General sobre Armonía con la Naturaleza, que se celebró en Nueva York, el 22 de abril de 2013, en el marco de la conmemoración del Día Internacional de la Madre Tierra, evento que discutió los diferentes enfoques económicos, en el contexto del desarrollo sostenible, para promover de manera más ética la relación entre la humanidad y la Tierra.",
+                "34. Celebramos la reciente suscripción de la nueva Convención de Minamata sobre Mercurio, como el primer instrumento vinculante negociado en el ámbito de Naciones Unidas en los últimos doce años, y el primero de la agenda post Río+20 sobre desarrollo sostenible, destacando que la misma supone un gran paso en el desarrollo del derecho ambiental internacional, al tener como objetivo la protección de la salud humana y el medio ambiente ante los riesgos del mercurio, instando muy especialmente a los países miembros a tomar medidas que hagan posible la pronta entrada en vigor y su efectiva implementación. Asimismo, instamos a la participación en la reunión regional de GRULAC, preparatoria de la Sexta sesión del Comité Negociador Intergubernamental de Mercurio (INC-6).",
+                "35. Los países de América Latina y el Caribe expresamos nuestro apoyo a la Presidencia peruana de la 20 Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre Cambio Climático y de la 10 Reunión de las Partes del Protocolo de Kyoto, que tendrán lugar en Lima, Perú, del 1ro. al 12 de diciembre de 2014 y nos sentimos comprometidos con procurar su éxito y el de su fase preparatoria, pasos que resultan esenciales en el proceso de desarrollo de un instrumento legal fortalecido bajo la Convención que debe presentarse el 2015. Subrayamos la importancia de que dicho instrumento, para ser efectivo y facilitar la participación de todos los países, debe respetar los principios y disposiciones de la Convención.",
+                "36. Animamos la participación de representantes de los países de la Comunidad en la primera Pre-COP Social de Cambio Climático que tendrá lugar entre los días 13 al 16 de octubre de 2014, en Caracas, Venezuela, que representa una iniciativa importante en el proceso de negociaciones en el marco de la Convención de las Naciones Unidas sobre Cambio Climático para afianzar la alianza pueblos-gobiernos en la construcción del futuro régimen que se requiere para hacer frente al cambio climático.",
+                "37. Nos comprometemos, de conformidad con nuestras capacidades y legislaciones internas, a apoyar la investigación científica sobre la drogadicción en los países de CELAC, en aras de avanzar en el desarrollo de tratamientos, incluidas vacunas y antídotos.",
+                "38. Reiteramos el carácter latinoamericano y caribeño de Puerto Rico y, al tomar nota de las resoluciones sobre Puerto Rico adoptadas por el Comité Especial de Descolonización de las Naciones Unidas, reiteramos que es asunto de interés de CELAC.",
+                "39. Los países miembros de la CELAC nos comprometemos a seguir trabajando en el marco del Derecho Internacional, y en particular, de la Resolución 1514 (XV) de la Asamblea General de las Naciones Unidas, del 14 de diciembre de 1960, para lograr que la región de América Latina y el Caribe sea un territorio libre de colonialismo y colonias.",
+                "40. Encomendamos al Cuarteto de la CELAC para que, con la participación de otros Estados miembros que deseen sumarse a este mandato, presenten propuestas para avanzar en lo señalado en el párrafo 38 de esta Declaración.",
+                "41. Reiteramos nuestro rechazo a las listas y certificaciones unilaterales por parte de países desarrollados que afectan a países de la América Latina y el Caribe, en particular las referidas a terrorismo, narcotráfico, trata de personas y otras de similar carácter, y ratificamos el Comunicado Especial aprobado por las CELAC el pasado 5 de junio, que rechaza la inclusión de Cuba en la denominada Lista de Estados que promueven el terrorismo Internacional del Departamento de Estado de los Estados Unidos.",
+                "42. Reafirmamos la Declaración de Santa Cruz, denominada “Ama Qhilla, Ama Llulla y Ama Suwa” (no robar, no mentir y no ser flojo), de la Primera Reunión Especializada de las Ministras, Ministros y Altas Autoridades de Prevención y Lucha contra la Corrupción de la Comunidad de Estados Latinoamericanos y Caribeños (CELAC), adoptada en Santa Cruz de la Sierra, Bolivia, el 8 de noviembre de 2013, en la cual se establece, entre otros temas, que los delitos de corrupción deben combatirse de forma rigurosa y sin impedimentos para su investigación, enjuiciamiento y sanción con respecto a las legislaciones nacionales y a los acuerdos internacionales vigentes; asimismo, celebramos la creación de un Grupo de Trabajo especializado en la Prevención y Lucha contra la Corrupción, que elaborará un Plan de Trabajo con el fin de promover e impulsar las líneas de acción según las bases y prioridades establecidas en la Declaración y en el Plan de Acción de CELAC para 2014, optimizando recursos, complementando los trabajos desarrollados en otros mecanismos y foros multilaterales y evitando la duplicación de esfuerzos.",
+                "43. Subrayamos la importancia de que nuestros países fortalezcan su preparación en materia de atención a controversias internacionales, y consideramos que se debe evaluar la posibilidad de que nuestra región se dote de mecanismos apropiados para la solución de controversias con inversionistas extranjeros. Manifestamos nuestra solidaridad con los países de la América Latina y el Caribe que están siendo afectados por reclamaciones ilegítimas y campañas de desprestigio en su contra, que ponen en riesgo el desarrollo de sus pueblos, y solicitamos a las empresas y grupos trasnacionales que mantengan una conducta responsable y consistente con las políticas públicas adoptadas por los Estados receptores de la inversión.",
+                "44. Reafirmamos la importancia de desarrollar herramientas que permitan fortalecer el sistema financiero internacional, lo cual debería contemplar una regulación más estricta y efectiva de las grandes entidades financieras, y la adopción de medidas concretas para lograr mejores prácticas internacionales en flujos financieros internacionales. En línea con esto, resulta de gran relevancia la reducción de la dependencia excesiva de las evaluaciones de las agencias calificadoras de riesgo crediticio.",
+                "45. Consideramos indispensable para la estabilidad y predictibilidad de la arquitectura financiera internacional, garantizar que los acuerdos alcanzados entre deudores y acreedores en el marco de los procesos de reestructuración de las deudas soberanas sean respetados, permitiendo que los flujos de pago sean distribuidos a los acreedores cooperativos según acordado con los mismos en el proceso de readecuación consensual de la deuda. Es necesario contar con instrumentos que posibiliten acuerdos razonables y definitivos entre acreedores y deudores soberanos, permitiendo hacer frente a problemas de sustentabilidad de deuda de forma ordenada.",
+                "46. Expresamos nuestra convicción acerca de la importancia que han adquirido los flujos de inversión extranjera directa en nuestra región y la necesidad que los mismos contribuyan efectivamente a los procesos de desarrollo de nuestros países, y redunden en un aumento de los niveles de bienestar de nuestras sociedades, sin imposición de condicionalidades, con respeto de su soberanía y en concordancia con sus planes y programas nacionales de desarrollo.",
+                "47. Consideramos necesario contar con una herramienta de planificación latinoamericana y caribeña ante los nuevos desafíos que enfrenta la CELAC, razón por la que resultan imperativos los esfuerzos colectivos de integración, solidaridad y cooperación, mutuamente ventajosa en particular con aquellos países vulnerables y de menor desarrollo relativo que servirán para la obtención de objetivos claros, medibles y adaptables a las distintas realidades nacionales, con vistas a la erradicación de la pobreza y a la promoción del desarrollo sostenible.",
+                "48. Ratificamos la importancia de la cooperación e integración financiera regional. En ese sentido, respaldamos las resoluciones adoptadas por las Ministros y Ministras de la CELAC en sus reuniones del año 2013.",
+                "49. Saludamos con beneplácito al Gobierno del Estado Plurinacional de Bolivia y al pueblo boliviano, por el lanzamiento exitoso al espacio ultraterrestre del primer satélite boliviano de comunicaciones denominado “Túpac Katari” (TKSAT-1), realizado el 20 de diciembre de 2013 en el centro espacial Xichang, de la República Popular China, reconociendo que los beneficios del Satélite llegarán a millones de bolivianos, facilitando el acceso a la educación e información y garantizará el ejercicio de los derechos humanos y facilitará el intercambio de conocimientos científicos entre los diferentes pueblos de América Latina y el Caribe.",
+                "50. Reiteramos nuestro más firme respaldo a los legítimos derechos de la República Argentina en la disputa de soberanía por las Islas Malvinas, Georgias del Sur y Sandwich del Sur y los espacios marítimos circundantes, así como el permanente interés en que dicha disputa se resuelva por la vía pacífica y de la negociación, conforme lo dispuesto por la Resolución 31/49 de la Asamblea General de las Naciones Unidas.",
+                "51. Reiteramos nuestro compromiso con el principio del derecho soberano de los Estados de disponer de sus recursos naturales y de gestionarlos y regularlos. Manifestamos, asimismo, el derecho de nuestros pueblos de aprovechar, de manera sustentable, los recursos naturales, los cuales cuentan con el potencial de ser utilizados como una importante fuente para financiar el desarrollo económico, la justicia social y el bienestar de nuestros pueblos.",
+                "52. Reiteramos nuestro más profundo rechazo a la aplicación de medidas coercitivas unilaterales y reiteramos, una vez más, nuestra solidaridad con la República de Cuba a la par que reafirmamos nuestro llamado al gobierno de los Estados Unidos de América a que ponga fin al bloqueo económico, comercial y financiero que impone a dicha nación hermana desde hace más de cinco décadas.",
+                "53. Nos comprometemos a seguir trabajando para consolidar a América Latina y el Caribe como Zona de Paz, en la cual las diferencias entre las naciones se resuelvan a través del diálogo y la negociación u otras formas de solución pacífica establecidas en el Derecho Internacional.",
+                "54. Tomando en cuenta los objetivos esbozados en la Declaración de Surinam, aprobados en la Primera Reunión de Ministros de Cultura de la CELAC celebrada los días 14 y 15 de marzo en Paramaribo, Surinam, enfatizamos la importancia de la cultura en Latinoamérica y el Caribe como el fundamento de la identidad de cada país y como catalizador de los procesos de integración regional. Subrayamos la importancia de la cultura y de las industrias culturales para las economías nacionales y asumimos el compromiso de promover el emprendimiento cultural, como una herramienta de conservación de nuestro patrimonio cultural y la generación de oportunidades de empleo y riqueza para nuestros pueblos, de tal forma que contribuya al bienestar de nuestros ciudadanos y al progreso de la sociedad en su conjunto.",
+                "55. Expresamos nuestra satisfacción por la realización de la VI Cumbre Mundial de las Artes y la Cultura, realizada en Santiago de Chile entre el 13 y 16 de enero pasados, lo que ha contribuido a proyectar a la región como un escenario privilegiado para viabilizar encuentros y diálogos de vocación universal en el ámbito de la cultura.",
+                "56. Reiteramos nuestro apoyo al proceso de diálogo que se lleva a cabo en La Habana, Cuba, entre el Gobierno de Colombia y las FARC, y saludamos los avances logrados mediante la consecución de acuerdos en dos importantes puntos de la agenda. Instamos a las partes a continuar el proceso dirigido a poner fin a un conflicto interno que por más de 50 años ha afectado el desarrollo político, social y económico de esa nación hermana. Saludamos y agradecemos el papel de los países garantes, Cuba y Noruega, y de los países acompañantes, Chile y Venezuela, en los logros alcanzados.",
+                "57. Reiteramos nuestro apoyo a la proclamación por la Asamblea General de las Naciones Unidas en diciembre de 2013 del Decenio Internacional de los Afrodescendientes, que se iniciará el 1º de enero de 2015, bajo el tema “Afrodescendientes justicia y desarrollo”; así como al Comunicado aprobado por los Ministros de Relaciones Exteriores de la CELAC, en su tercera reunión, que proclama el Decenio de los Afrodescendientes Latinoamericanos y Caribeños, iniciado el 1º de enero del presente año.",
+                "58. Reconocemos la importancia de considerar el rol esencial de la acción colectiva de los pueblos indígenas y de las poblaciones locales en la conservación y uso sustentable de la diversidad biológica, como un aporte significativo al Planeta. Apoyamos las acciones que están desarrollándose para impulsar su reconocimiento oficial.",
+                "59. Reiteramos la necesidad de tomar medidas para proteger los derechos sobre los conocimientos tradicionales y ancestrales de los pueblos indígenas y tribales y comunidades locales, evitando su vulneración por parte de terceros a través de registros que no reconozcan su titularidad, así como de promover la participación justa y equitativa en los beneficios que se deriven de su utilización. Apoyamos la negociación que se está llevando a cabo al respecto en los foros multilaterales competentes.",
+                "60. Destacamos que las negociaciones del Documento Final conciso y orientado a la acción de la Conferencia Mundial sobre los Pueblos Indígenas, de la Reunión Plenaria de Alto Nivel del sexagésimo noveno período de sesiones de la Asamblea, que se conocerá como la Conferencia Mundial sobre los Pueblos Indígenas, a celebrarse el 22 y 23 de septiembre de 2014 en Nueva York, estarán dirigidas a compartir puntos de vista y las mejores prácticas sobre la realización de los derechos de los pueblos indígenas, incluyendo la realización de los objetivos de la Declaración de las Naciones Unidas sobre los derechos de los Pueblos Indígenas, y tomamos nota de las recomendaciones de los principales temas de la Conferencia Preparatoria Mundial de los Pueblos Indígenas para la Conferencia Mundial sobre los Pueblos Indígenas, celebrada del 10 a 12 de junio de 2013, en Alta, Noruega. Tomamos nota de la iniciativa del Gobierno de México de llevar a cabo una reunión preparatoria de la Conferencia Mundial en abril del 2014.",
+                "61. Apoyamos el Año Internacional de la Agricultura Familiar declarado por la Asamblea General de Naciones Unidas.",
+                "62. Saludamos la elección del Estado Plurinacional de Bolivia a la Presidencia del Grupo de los 77 y China durante el año 2014, y nos comprometemos a brindarle todo nuestro apoyo en el ejercicio de dicha responsabilidad a fin de que redunde a favor de los intereses de la América Latina y el Caribe. Asimismo, celebramos la organización de una Cumbre de Jefas y Jefes de Estado y de Gobierno del Grupo de los 77 más China, a llevarse a cabo en Santa Cruz de la Sierra, Bolivia, los días 14 y 15 de junio de 2014, en conmemoración del 50° aniversario de fundación del G77.",
+                "63. Consideramos la necesidad de una distribución geográfica equitativa en el sistema de Naciones Unidas y enfatizamos la necesidad de que América Latina y el Caribe incremente cuantitativa y cualitativamente su presencia en puestos clave de las Naciones Unidas y otros organismos internacionales, objetivo al cual dedicaremos nuestros mejores esfuerzos.",
+                "64. Reiteramos nuestras posiciones en torno a una reforma integral del sistema de las Naciones Unidas, muy particularmente, a la democratización de las instancias decisorias internacionales, en particular el Consejo de Seguridad. La democratización que se requiere debe incluir la representatividad, la transparencia, la eficiencia la democracia, el respeto por los mandatos de otros órganos de las Naciones Unidas y rendir debidamente cuenta a toda la membresía de la ONU.",
+                "65. Considerando que la migración internacional es un fenómeno global que involucra a más de 220 millones de personas entre los que se encuentran mujeres, niños, niñas, adolescentes e indígenas, reconocemos el valor del contenido de resolución adoptada durante el II Diálogo de Alto Nivel de Naciones Unidas sobre Migración y Desarrollo (DAN2013), la cual privilegia el enfoque de derechos humanos, destaca la urgencia de proteger a los grupos más vulnerables en los flujos migratorios e insiste en la necesidad de un mayor involucramiento de las Naciones Unidas, sus agencias, fondos y programas en la materia, así como el interés de incluir el tema de la migración internacional en la Agenda de Desarrollo Post 2015, entre otros asuntos, y nos comprometemos en fortalecer las acciones de cooperación en el marco de la responsabilidad compartida, para avanzar en la atención de los múltiples retos que la migración internacional nos plantea.",
+                "66. Ratificamos, el compromiso para fortalecer la lucha contra la delincuencia organizada transnacional, de conformidad con el Derecho Internacional. En ese contexto, estamos conscientes de que el delito y la violencia constituyen un obstáculo para el desarrollo pleno de la América Latina y el Caribe, y enfatizamos la necesidad de contar con una visión de consenso regional de seguridad ciudadana con un enfoque de desarrollo humano, y respeto a los derechos humanos y a los principios de soberanía nacional y no injerencia en los asuntos internos. Con esta perspectiva, debemos reforzar los mecanismos de diálogo y coordinación, según proceda, para mejorar las estrategias regionales sobre seguridad ciudadana y desarrollo sostenible.",
+                "67. Expresamos nuestra más seria preocupación por la grave situación humanitaria y de seguridad en la República Árabe Siria, y por la amenaza que representa para el Oriente Medio y para la paz y la seguridad internacionales. Encomiamos a las partes sirias por haber aceptado sostener negociaciones directas en la Conferencia Internacional sobre la situación en Siria (Ginebra II), bajo los auspicios del Enviado Especial Conjunto de las Naciones Unidas y la Liga de Estados Árabes. Felicitamos al Secretario General de las Naciones Unidas por la organización de dicha Conferencia. El diálogo y la negociación son urgentes y esenciales para avanzar en los esfuerzos de reconciliación nacional y para garantizar la plena aplicación de los Convenios de Ginebra en Siria. Reiteramos que sólo un proceso político inclusivo liderado por los sirios podrá conducir a la paz y a la realización de las legítimas aspiraciones del pueblo sirio, sobre la base de la estricta aplicación de los principios de soberanía, independencia, autodeterminación, integridad territorial y no injerencia en los asuntos internos.",
+                "68. Destacamos la celebración, por primera vez en las Naciones Unidas, de una Reunión de Alto Nivel sobre Desarme Nuclear, el 26 de septiembre del 2013, en la que la CELAC reafirmó la necesidad urgente de avanzar hacia el desarme nuclear y lograr la eliminación total y general de las armas nucleares de forma transparente, irreversible y verificable, e instó a trabajar para avanzar hacia la negociación de un instrumento universal jurídicamente vinculante, que prohíba las armas nucleares con un cronograma multilateralmente acordado. Nos comprometemos a darle continuidad a dichas posiciones.",
+                "69. Expresamos nuestra más alta preocupación por las consecuencias humanitarias de enormes proporciones y los efectos globales de cualquier detonación nuclear accidental o intencional. Exhortamos a la comunidad internacional a reiterar su preocupación sobre las consecuencias humanitarias de las armas nucleares, donde sea que se lleve a cabo el debate sobre este tipo de armas. Damos la bienvenida a los resultados de la Conferencia de Oslo sobre el Impacto Humanitario de las Armas Nucleares, celebrada en marzo de 2013 y, en este sentido, hacemos un llamado a todos los Estados a participar en la segunda Conferencia Internacional sobre el Impacto Humanitario de las Armas Nucleares, que se celebrará en México, los días 13 y 14 de febrero de 2014.",
+                "70. Tomamos nota con satisfacción, del acuerdo preliminar entre la República Islámica de Irán y el Grupo 5+1 en Ginebra sobre el programa nuclear iraní, lo cual demuestra que el diálogo y la negociación son la vía para dirimir las diferencias entre los Estados, y manifestamos nuestra expectativa de que pronto se alcance una solución amplia y duradera para la cuestión. Ratificamos el derecho inalienable de todos los Estados, de conformidad con lo dispuesto en el TNP, de desarrollar la investigación, la producción y la utilización de la energía nuclear con fines pacíficos sin discriminación, que, junto con el desarme y la no proliferación, constituyen los pilares del Tratado sobre la No Proliferación de las Armas Nucleares, del que todos los miembros de la CELAC somos parte.",
+                "71. Reiteramos nuestro llamado para que la Conferencia para el establecimiento de una zona libre de armas nucleares y otras armas de destrucción en masa en Medio Oriente, se celebre lo más pronto posible, de conformidad con lo acordado por las Partes del Tratado sobre la No Proliferación de las Armas Nucleares en 1995, 2000 y 2010, ya que contribuiría de forma valiosa al fortalecimiento de la paz y la seguridad internacionales.",
+                "72. Destacamos el valor y contribución a la paz y la seguridad internacionales del Tratado para la Proscripción de las Armas Nucleares en América Latina y el Caribe y sus Protocolos (Tratado de Tlatelolco), el cual estableció la primera zona más densamente poblada, libre de armas nucleares en el planeta. Subrayamos nuestro pleno apoyo a los trabajos del Organismo para la Proscripción de las Armas Nucleares en la América Latina y el Caribe y en este sentido, reafirmamos la importancia de la colaboración y cooperación entre la CELAC y la OPANAL, órgano especializado de la región, para articular posiciones comunes y trabajos conjuntos en materia de desarme nuclear.",
+                "73. Tomamos nota de la adopción del Tratado sobre Comercio de Armas por la Asamblea General de Naciones Unidas, en abril de 2013.",
+                "74. Tomamos nota de las actividades internacionales de la CELAC, especialmente la visita de la Troika Ministerial ampliada a la Federación de Rusia, las reuniones de la Troika Ministerial abierta de la CELAC con los Ministros de Relaciones Exteriores de la República de Corea, la República Popular China, el Consejo de Cooperación para los Estados Árabes del Golfo, Turquía y Japón realizadas en Nueva York con motivo del inicio del 68° Período de Sesiones de la Asamblea General de Naciones Unidas, así como la labor para concertar, con cada uno de estos interlocutores, una Hoja de Ruta para el diálogo y la cooperación.",
+                "75. Nos congratulamos del establecimiento del Foro CELAC-China y del Mecanismo de Diálogo con la Federación de Rusia, elementos que pueden redundar positivamente en las actividades de la Comunidad.",
+                "76. Estamos convencidos de que es necesario proseguir la búsqueda de nuevas sinergias de la CELAC a nivel internacional, para lo cual es preciso retomar aquellos que ya se iniciaron en 2012 y establecer modalidades adicionales de convergencia y relacionamientos.",
+                "77. Saludamos la coordinación entre los Estados miembros de la CELAC en las Naciones Unidas, y expresamos nuestra disposición a seguir trabajando en forma gradual en la materia, y a ampliar el trabajo a otras sedes en los casos que resulte posible y necesario.",
+                "78. Expresamos además nuestro apoyo al proceso preparatorio de la II Cumbre CELAC-UE, a celebrarse en Bruselas en el año 2015. Encargamos a los Coordinadores Nacionales y los Altos Funcionarios del Diálogo CELAC-UE, según corresponda que finalicen la negociación del acuerdo internacional para el establecimiento de la Fundación EULAC, con vistas a la II Cumbre CELAC-UE.",
+                "79. Agradecemos al Presidente de la República de Chile, Excelentísimo Señor Sebastián Piñera Echenique, quien este año finaliza su mandato, por la excelente labor y liderazgo desarrollado durante el proceso de convergencia y puesta en funcionamiento de la Comunidad de Estados Latinoamericanos y Caribeños, que culminó con la realización de la exitosa I Cumbre de la CELAC, celebrada en Santiago, Chile, los días 27 y 28 de enero de 2013.",
+                "80. Agradecemos a la República de Costa Rica por acoger la Presidencia Pro Tempore de CELAC en el año 2014 y la III Cumbre de la CELAC en el 2015. Reconocemos a la Excelentísima Señora Laura Chinchilla Miranda, Presidenta de la República de Costa Rica, quién culminará su mandato en mayo 2014, su firme y valioso apoyo a la CELAC desde su origen.",
+                "81. Agradecemos a la República del Ecuador por acoger la Presidencia Pro Tempore de CELAC en el año 2015 y la celebración de la IV Cumbre de CELAC.",
+                "82. Tomamos nota del ofrecimiento reiterado por la República Dominicana para ser sede de la CELAC en el 2016, presentado en febrero de 2013.",
+                "83. Expresamos nuestro agradecimiento al Presidente de los Consejos de Estado y de Ministros de la República de Cuba por el liderazgo y trabajo realizado durante el ejercicio de la Presidencia Pro Tempore del foro y el reconocimiento al pueblo y Gobierno de Cuba por la organización de la II Cumbre de la CELAC en La Habana, los días 28 y 29 de enero de 2014.",
+                "La Habana, 29 de enero del 2014",
+                "*****\n  \n  Os comunicados aprovados na Cúpula estão disponíveis na página da organização do evento:",
+                "http://celac.cubaminrex.cu/es/categoria/documentos-oficiales"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-30-10h12-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-ii_cupula_da_celac_-_declaracao_de_havana_-_29_de_janeiro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/30"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Assinatura de Memorandos de Entendimento bilaterais para o Intercâmbio de Documentação para o Esclarecimento de Graves Violações aos Direitos Humanos",
+            "subtitulo": "",
+            "data": "29/01/2014",
+            "horario": "19h12",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/assinatura-de-memorandos-de-entendimento-bilaterais-para-o-intercambio-de-documentacao-para-o-esclarecimento-de-graves-violacoes-aos-direitos-humanos",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os ministros de Estado das Relações Exteriores, Luiz Alberto Figueiredo, da Justiça, José Eduardo Cardozo, e da Secretaria de Direitos Humanos da Presidência da República, Maria do Rosário, avaliam como extremamente positiva assinatura pelo Brasil, Argentina e Uruguai dos Memorandos de Entendimento bilaterais para o Intercâmbio de Documentação para o Esclarecimento de Graves Violações aos Direitos Humanos assinados nesta quarta-feira (29), em Havana (Cuba), durante a reunião de cúpula da Comunidade de Estados Latino-Americanos e Caribenhos – CELAC. Os Memorandos estabelecem um marco jurídico e institucional para a cooperação do Brasil com Argentina e Uruguai, com vistas ao resgate da memória e da verdade sobre Direitos Humanos. No Brasil, o acordo deverá auxiliar as atividades da Comissão Nacional da Verdade. Toda informação contida em qualquer meio ou tipo documental, produzida, recebida e conservada por qualquer organização estará à disposição. Na avaliação do Governo brasileiro, esse acordo representa um fundamental avanço para elucidação de períodos históricos recentes desses três países, que permitirá o esclarecimento de fatos, contribuindo decisivamente para o fortalecimento da democracia.  MEMORANDO DE ENTENDIMENTO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ARGENTINA PARA O INTERCÂMBIO DE DOCUMENTAÇÃO PARA O ESCLARECIMENTO DE GRAVES VIOLAÇÕES AOS DIREITOS HUMANOS A República Federativa do Brasil e a República Argentina (doravante denominadas \"as Partes\"), Com o desejo de criar um marco para a cooperação e o intercâmbio de documentação para pesquisas que permitam o esclarecimento de graves violações aos direitos humanos, ocorridas durante as ditaduras que assolaram ambos os países no passado recente. Considerando: A importância que ambas as Partes atribuem à obtenção de documentos que permitam o esclarecimento de atos de violação de direitos humanos no passado recente, bem como a cooperação histórica em matéria de esclarecimento de casos de desaparecimento forçado de pessoas e outras violações graves dos direitos humanos; Que o presente Memorando de Entendimento se articula com os trabalhos que ambos os países desenvolvem no âmbito da Reunião de Altas Autoridades de Direitos Humanos e Chancelarias do MERCOSUL, especificamente nos trabalhos que já estão sendo realizados no marco do Grupo Técnico para a obtenção de dados e pesquisa de arquivos das coordenações repressivas do Cone Sul; Chegaram ao seguinte entendimento: Artigo 1Definições gerais1. No marco do presente Memorando de Entendimento:a) Por \"Autoridade Competente\" entende-se: - No caso da República Federativa do Brasil, a Secretaria de Direitos Humanos da Presidência da República, em coordenação com o Ministério da Justiça e com o Ministério das Relações Exteriores;- No caso da República Argentina, o Ministério das Relações Exteriores e Culto da Nação, em coordenação com a Secretaria de Direitos Humanos da Nação.b) Por \"documentação\" entende-se toda informação contida em qualquer meio ou tipo documental, produzida, recebida e conservada por qualquer organização ou pessoa no exercício de suas competências ou no desempenho de sua atividade;c) Por \"Parte Requerida\" entende-se a Parte do presente Memorando de Entendimento à qual se solicitará a documentação;d) Por \"Parte Requerente\" entende-se a Parte do presente Memorando de Entendimento que enviará um pedido de informação.2. No que se refere à aplicação do presente Memorando de Entendimento, qualquer termo não definido no mesmo terá, a menos que o contexto exija interpretação diferente, o significado que lhe atribuir a legislação vigente do Estado Parte.3. As Autoridades Competentes poderão delegar a outros organismos do Estado a gestão de ações vinculadas à implementação do presente Memorando de Entendimento. Artigo 2Objeto1. As Partes, por intermédio das Autoridades Competentes, prestarão assistência e cooperação mútua mediante o intercâmbio de documentação relevante para a investigação e esclarecimento das graves violações às quais se refere o presente Memorando de Entendimento, promovendo e fomentando a cooperação entre as instituições de ambos os países que conservem arquivos relativos ao objeto do presente Memorando de Entendimento, com o propósito de contribuir para o processo de reconstrução histórica da memória, verdade e justiça.2. Exclui-se do presente Memorando de Entendimento toda informação que as Partes puderem solicitar dentro dos parâmetros estabelecidos pelos Convênios entre a República Argentina e a República Federativa do Brasil sobre assistência penal. Artigo 3Formalização dos pedidos1. A formulação dos pedidos deve obedecer aos requisitos estabelecidos de comum acordo pela Comissão Técnica Mista a que se refere o artigo 6 do presente Memorando de Entendimento.2. A Autoridade Competente da Parte Requerida será a única responsável em determinar os meios para reunir a informação e coordenar a atividade administrativa necessária a esse fim, sendo necessário pedido prévio, por escrito, da Autoridade Competente da Parte Requerente.3. O pedido transmitido por fax, correio eletrônico ou similar deverá ser confirmado por documento original assinado pela Autoridade Competente da Parte Requerente no decorrer dos quinze dias seguintes a sua formulação, de acordo com o estabelecido por este Memorando de Entendimento.4 Se a Autoridade Competente da Parte Requerida não puder obter ou tiver impedimento formal para fornecer a documentação solicitada, informará imediatamente à Parte Requerente, explicitando as razões dessa impossibilidade. Artigo 4Exceção para a tramitação de pedidos1. A Parte Requerida estará isenta de sua obrigação de fornecer documentação quando:a) A documentação não estiver em poder de suas autoridades;b) O pedido não se realizar conforme o estipulado no Artigo 3 do presente Memorando de Entendimento;c) A entrega da documentação for contrária à legislação interna da Parte Requerida, em particular por razões de segurança, ordem pública ou interesse nacional, conforme determine o Estado requerido.2. Sem prejuízo do estipulado no inciso anterior, as autoridades competentes comprometem-se pelo presente Memorando de Entendimento a realizar todas as ações possíveis com vistas a prover informação útil para o esclarecimento de graves violações aos direitos humanos, por intermédio das vias administrativas, judiciais e/ou legislativas disponíveis. Artigo 5SigiloA Autoridade Competente da Parte Requerida poderá solicitar que a documentação que se produza e/ou se troque em virtude do cumprimento do presente Memorando de Entendimento tenha caráter sigiloso, pelo prazo determinado de comum acordo entre as Partes para cada caso, observada a legislação de cada uma das Partes. Artigo 6Comissão Técnica Mista1. Com o objetivo de estabelecer um canal permanente e fluido de comunicação que facilite o intercâmbio da documentação objeto do presente Memorando de Entendimento, será formada uma Comissão Técnica Mista, que ficará encarregada da interpretação, do acompanhamento, da avaliação e da administração de todas as gestões efetuadas entre as Partes.2. A referida Comissão Técnica Mista será integrada por representantes designados pelas Autoridades Competentes e seu funcionamento será regulado de comum acordo pelos procedimentos definidos pelas autoridades competentes para tal fim. Artigo 7Custos administrativos1. A Parte requerida assumirá os gastos de execução do pedido. A Parte requerente pagará os gastos extraordinários que venham a decorrer da assistência prestada. Este Memorando de Entendimento não ocasionará qualquer transferência de fundos de uma das Partes à outra nem qualquer atividade que possa representar encargo para além das atividades regularmente desenvolvidas pelas autoridades competentes.2. As Partes deverão estabelecer um procedimento prévio de consulta referente aos custos operacionais para o cumprimento de cada pedido, com o objetivo de acordar antecipadamente a forma de cobertura dos gastos demandados. Artigo 8Memorandos complementaresQuando for necessário, as Partes poderão aprofundar e ampliar os compromissos assumidos no presente Memorando de Entendimento por meio de memorandos complementares. Artigo 9Solução de controvérsiasAs controvérsias que surgirem entre as Partes em razão da aplicação ou interpretação das disposições contidas no presente Memorando de Entendimento serão resolvidas mediante negociações diplomáticas diretas, podendo requerer-se, para tanto, a colaboração da Comissão TécnicaMista estabelecida no marco do presente Memorando de Entendimento. Artigo 10Entrada em VigorO presente Memorando de Entendimento entrará em vigor na data de sua assinatura.Este Memorando de Entendimento poderá ser denunciado por qualquer das Partes por meio de uma notificação escrita dirigida à outra Parte por via diplomática em que se manifeste a intenção de denunciá-lo. A denúncia terá efeito 90 dias após o recebimento da referida notificação.Não obstante, a denúncia do presente Memorando de Entendimento não implicará na interrupção das atividades que se encontram em andamento em virtude do mesmo, salvo se as Partes assim decidirem expressamente por escrito de comum acordo.  MEMORANDO DE ENTENDIMENTO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ORIENTAL DO URUGUAI PARA O INTERCÂMBIO DE DOCUMENTAÇÃO PARA O ESCLARECIMENTO DE GRAVES VIOLAÇÕES AOS DIREITOS HUMANOS A República Federativa do Brasil e a República Oriental do Uruguai (doravante denominadas \"as Partes\"),",
+                "Com o desejo de criar um marco para a cooperação e o intercâmbio de documentação para pesquisas que permitam o esclarecimento de graves violações aos direitos humanos, ocorridas durante as ditaduras que assolaram ambos os países no passado recente. Considerando: A importância que ambas as Partes atribuem à obtenção de documentos que permitam o esclarecimento de atos de violação de direitos humanos no passado recente, bem como a cooperação histórica em matéria de esclarecimento de casos de desaparecimento forçado de pessoas e outras violações graves dos direitos humanos; Que o presente Memorando de Entendimento se articula com os trabalhos que ambos os países desenvolvem no âmbito da Reunião de Altas Autoridades de Direitos Humanos e Chancelarias do MERCOSUL, especificamente nos trabalhos que já estão sendo realizados no marco do Grupo Técnico para a obtenção de dados e pesquisa de arquivos das coordenações repressivas do Cone Sul; Chegaram ao seguinte entendimento: Artigo 1Definições gerais1. No marco do presente Memorando de Entendimento:a) Por \"Autoridade Competente\" entende-se:- No caso da República Federativa do Brasil, a Secretaria de Direitos Humanos da Presidência da República, em coordenação com o Ministério da Justiça e com o Ministério das Relações Exteriores;- No caso da República Oriental do Uruguai, o Ministério das Relações Exteriores, em coordenação com a Secretaria de Direitos Humanos para o Passado Recente da Presidência da República.b) Por \"documentação\" entende-se toda informação contida em qualquer meio ou tipo documental, produzida, recebida e conservada por qualquer organização ou pessoa no exercício de suas competências ou no desempenho de sua atividade;c) Por \"Parte Requerida\" entende-se a Parte do presente Memorando de Entendimento à qual se solicitará a documentação;d) Por \"Parte Requerente\" entende-se a Parte do presente Memorando de Entendimento que enviará um pedido de informação.2. No que se refere à aplicação do presente Memorando de Entendimento, qualquer termo não definido no mesmo terá, a menos que o contexto exija interpretação diferente, o significado que lhe atribuir a legislação vigente do país Parte.3. As Autoridades Competentes poderão delegar a outros organismos do Estado a gestão de ações vinculadas à implementação do presente Memorando de Entendimento. Artigo 2Objeto1. As Partes, por intermédio das Autoridades Competentes, prestarão assistência e cooperação mútua mediante o intercâmbio de documentação relevante para a investigação e esclarecimento das graves violações às quais se refere o presente Memorando de Entendimento, promovendo e fomentando a cooperação entre as instituições de ambos os países que conservem arquivos relativos ao objeto do presente Memorando de Entendimento, com o propósito de contribuir para o processo de reconstrução histórica da memória, verdade e justiça.2. Exclui-se do presente Memorando de Entendimento toda informação que as Partes puderem solicitar dentro dos parâmetros estabelecidos pelos Convênios entre a República Oriental do Uruguai e a República Federativa do Brasil sobre assistência penal. Artigo 3Formalização dos pedidos1. A formulação dos pedidos deve obedecer aos requisitos estabelecidos de comum acordo pela Comissão Técnica Mista a que se refere o artigo 6 do presente Memorando de Entendimento.2. A Autoridade Competente da Parte Requerida será a única responsável em determinar os meios para reunir a informação e coordenar a atividade administrativa necessária a esse fim, sendo necessário pedido prévio, por escrito, da Autoridade Competente da Parte Requerente.3. O pedido transmitido por fax, correio eletrônico ou similar deverá ser confirmado por documento original assinado pela Autoridade Competente da Parte Requerente no decorrer dos quinze dias seguintes a sua formulação, de acordo com o estabelecido por este Memorando de Entendimento.4. Se a Autoridade Competente da Parte Requerida não puder obter ou tiver impedimento formal para fornecer a documentação solicitada, informará imediatamente à Parte Requerente, explicitando as razões dessa impossibilidade. Artigo 4Exceção para a tramitação de pedidos1. A Parte Requerida estará isenta de sua obrigação de fornecer documentação quando:a) A documentação não estiver em poder de suas autoridades;b) O pedido não se realizar conforme o estipulado no Artigo 3 do presente Memorando de Entendimento;c) A entrega da documentação for contrária à legislação interna da Parte Requerida, em particular por razões de segurança, ordem pública ou interesse nacional, conforme determine o Estado requerido.2. Sem prejuízo do estipulado no inciso anterior, as autoridades competentes comprometem-se pelo presente Memorando de Entendimento a realizar todas as ações possíveis com vistas a prover informação útil para o esclarecimento de graves violações aos direitos humanos, por intermédio das vias administrativas, judiciais e/ou legislativas disponíveis. Artigo 5SigiloA Autoridade Competente da Parte Requerida poderá solicitar que a documentação que se produza e/ou se troque em virtude do cumprimento do presente Memorando de Entendimento tenha caráter sigiloso, pelo prazo determinado de comum acordo entre as Partes para cada caso, observada a legislação de cada uma das Partes. Artigo 6Comissão Técnica Mista1. Com o objetivo de estabelecer um canal permanente e fluido de comunicação que facilite o intercâmbio da documentação objeto do presente Memorando de Entendimento, será formada uma Comissão Técnica Mista, que ficará encarregada da interpretação, do acompanhamento, da avaliação e da administração de todas as gestões efetuadas entre as Partes.2. A referida Comissão Técnica Mista será integrada por representantes designados pelas Autoridades Competentes e seu funcionamento será regulado de comum acordo pelos procedimentos definidos pelas autoridades competentes para tal fim. Artigo 7Custos administrativos1. A Parte requerida assumirá os gastos de execução do pedido. A Parte requerente pagará os gastos extraordinários que venham a decorrer da assistência prestada. Este Memorando de Entendimento não ocasionará qualquer transferência de fundos de uma das Partes à outra nem qualquer atividade que possa representar encargo para além das atividades regularmente desenvolvidas pelas autoridades competentes.2. As Partes deverão estabelecer um procedimento prévio de consulta referente aos custos operacionais para o cumprimento de cada pedido, com o objetivo de acordar antecipadamente a forma de cobertura dos gastos demandados. Artigo 8Memorandos complementaresQuando for necessário, as Partes poderão aprofundar e ampliar os compromissos assumidos no presente Memorando de Entendimento por meio de memorandos complementares. Artigo 9Solução de controvérsiasAs controvérsias que surgirem entre as Partes em razão da aplicação ou interpretação das disposições contidas no presente Memorando de Entendimento serão resolvidas mediante negociações diplomáticas diretas, podendo requerer-se, para tanto, a colaboração da Comissão Técnica Mista estabelecida no marco do presente Memorando de Entendimento. Artigo 10Entrada em VigorO presente Memorando de Entendimento entrará em vigor na data de sua assinatura.Este Memorando de Entendimento poderá ser denunciado por qualquer das Partes por meio de uma notificação escrita dirigida à outra Parte por via diplomática em que se manifeste a intenção de denunciá-lo. A denúncia terá efeito 90 dias após o recebimento da referida notificação.Não obstante, a denúncia do presente Memorando de Entendimento não implicará na interrupção das atividades que se encontram em andamento em virtude do mesmo, salvo se as Partes assim decidirem expressamente por escrito de comum acordo."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-29-19h12-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-assinatura_de_memorandos_de_entendimento_bilaterais_para_o_intercambio_de_documentacao_para_o_esclarecimento_de_graves_violac....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/29"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Eleição do Brasil para a Presidência da Comissão de Construção da Paz da ONU",
+            "subtitulo": "",
+            "data": "29/01/2014",
+            "horario": "17h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/eleicao-do-brasil-para-a-presidencia-da-comissao-de-construcao-da-paz-da-onu",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Foto: Stenio Ribeiro - Agência BR"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-29-17h40-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-eleicao_do_brasil_para_a_presidencia_da_comissao_de_construcao_da_paz_da_onu.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/29"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Participação da Presidenta Dilma Rousseff na II Cúpula da Comunidade de Estados Latino-Americanos e Caribenhos (CELAC) – Havana, 28 de janeiro de 2014",
+            "subtitulo": "",
+            "data": "28/01/2014",
+            "horario": "08h02",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-da-presidenta-dilma-rousseff-na-ii-cupula-da-comunidade-de-estados-latino-americanos-e-caribenhos-celac-havana-28-de-janeiro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Programa de Imprensa",
+                "Fuso horário em relação a Brasília: -3h",
+                "TERÇA-FEIRA, 28 DE JANEIRO",
+                "08h30 Chegada da Presidenta da República ao PABEXPOLocal: Entrada Presidencial, Calle 17-A, PlayaCobertura: fotógrafo oficial",
+                "09h00 Sessão Inaugural da II Cúpula CELACLocal: PABEXPO, Sala PlenáriaCobertura: imprensa oficial; demais profissionais de imprensa acompanham a cerimônia por transmissão para o Centro de Prensa Internacional",
+                "10h00 Sessão Privada dos Chefes de Estado e de Governo e ChanceleresLocal: PABEXPO, Sala de RetiroSem cobertura de imprensa",
+                "15h30 I Sessão de Trabalho da II Cúpula CELACLocal: PABEXPO, Sala PlenáriaCobertura: imprensa oficial; demais profissionais de imprensa acompanham as sessões por transmissão para o Centro de Prensa Internacional",
+                "19h15 Partida para BrasíliaLocal: Aeroporto Internacional José Martí, Terminal 1Sem cobertura de imprensa"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-28-08h02-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-participacao_da_presidenta_dilma_rousseff_na_ii_cupula_da_comunidade_de_estados_latino-americanos_e_caribenhos_(celac)_-_hava....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/28"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 25 de janeiro e 2 de fevereiro de 2014",
+            "subtitulo": "",
+            "data": "24/01/2014",
+            "horario": "18h55",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-25-de-janeiro-e-2-de-fevereiro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "20 a 25/JAN – Genebra, Suíça. 134ª Reunião do conselho Executivo da Organização Mundial da Saúde (OMS). (Fonte: DTS)",
+                "26 a 29/JAN – Colônia, Alemanha. Feira Internacional da Indústria da Confeitaria (ISM). (Fonte: DOC)",
+                "27/JAN – Brasília. X Reunião do Comitê Executivo do Programa Ciência sem Fronteiras. (Fonte: DCE)",
+                "27 a 30/JAN – Genebra, Suíça. Discussão da situação de direitos no Afeganistão, Camboja, Chile, Iêmen, Macedônia, Nova Zelândia, Uruguai e Vanuatu no âmbito do Mecanismo de Revisão Periódica Universal do Conselho de Direitos Humanos da ONU. (Fonte: DDH)",
+                "27/JAN a 7/FEV – Genebra, Suíça. 18ª Sessão do Grupo de Trabalho do Mecanismo de Revisão Periódica Universal (RPU). (Fonte: Delbrasgen)",
+                "28 a 31/JAN – Washington, Estados Unidos. Reunião Bilateral sobre a Implementação da Convenção da Haia de 1980 sobre os Aspectos Civis da Subtração Internacional de Crianças. (Fonte: DCJI)",
+                "28 a 31/JAN – São Domingos, República Dominicana. Reunião do Conselho Diretor da Organização Interamericana da Juventude. (Fonte: DTS)",
+                "29/JAN – Adis Abeba, Etiópia. Lançamento pela UNESCO do Relatório Global de Monitoramento da Educação para Todos/2013, sobre o tema “Ensino e Aprendizagem: Alcançando qualidade para todos” (Teaching and Learning: achieving quality for all). (Fonte: BRASUNESCO)",
+                "29/JAN – Brasília. Lançamento do relatório UNESCO de Monitoramento Global Educação para Todos. Museu da República. (Fonte: DCE)",
+                "29 e 30/JAN – Brasília. Seminário: \"Cooperação em ensino superior Brasil - União Europeia: Lições e oportunidades do Programa Ciência sem Fronteiras\" (Fonte: DCE)",
+                "29/JAN a 4/FEV – Bruxelas, Bélgica. Varsóvia e Cracóvia, Polônia. Missão da Diretora de Cooperação Institucional do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). (Fonte: DCE)",
+                "30/JAN – Doha, Catar. Mostra de cinema brasileiro do Ano Catar-Brasil 2014. (Fonte: DAV)",
+                "30 e 31/JAN – Rio de Janeiro. Reunião Brasil-EU para Retomada de Negociações do Acordo Abrangente sobre Serviços Aéreos. (Fonte: DNS)",
+                "30/JAN a 2/FEV – Istambul, Turquia. Feira de Turismo do Mediterrâneo Oriental (EMITT 2014). (Fontes: DOC e Consulado-Geral em Istambul)",
+                "30/JAN a 2/FEV – Bratislava, Eslováquia. Feira Slovakiatur 2014. (Fonte: DOC)",
+                "1º/FEV – Tiradentes, Brasil. Anúncio do vencedor do IX Concurso Itamaraty para o Cinema Brasileiro, no encerramento da 17ª Mostra de Cinema de Tiradentes, que ocorre entre 24/JAN e 1º/FEV. (Fonte: DAV)",
+                "1º e 2/FEV – Melbourne, Austrália. Festival Multicultural de Melbourne. (Fonte: DODC)."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-24-18h55-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_25_de_janeiro_e_2_de_fevereiro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/24"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Assinatura de Tratado entre o Brasil e o Japão sobre Transferência de Pessoas Condenadas – 24 de janeiro de 2014",
+            "subtitulo": "",
+            "data": "24/01/2014",
+            "horario": "18h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/assinatura-de-tratado-entre-o-brasil-e-o-japao-sobre-transferencia-de-pessoas-condenadas-24-de-janeiro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Ministro dos Negócios Estrangeiros do Japão, Fumio Kishida, e o Embaixador do Brasil em Tóquio, André Aranha Corrêa do Lago, assinaram hoje, 24/01/2014, em Tóquio, tratado bilateral de transferência de pessoas condenadas.",
+                "Ao oferecer a oportunidade para que nacionais japoneses condenados no Brasil e nacionais brasileiros condenados no Japão possam cumprir pena em seus países de origem, o tratado, uma vez em vigor, contribuirá para facilitar a reabilitação e reintegração social de pessoas condenadas. O acordo também constitui avanço da cooperação bilateral no domínio do direito penal.",
+                "Mais sobre as relações bilaterais Brasil-Japão"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-24-18h30-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-assinatura_de_tratado_entre_o_brasil_e_o_japao_sobre_transferencia_de_pessoas_condenadas_-_24_de_janeiro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/24"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Cessar-fogo no Sudão do Sul",
+            "subtitulo": "",
+            "data": "24/01/2014",
+            "horario": "17h51",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/cessar-fogo-no-sudao-do-sul",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro recebeu com satisfação a assinatura de acordo, no dia 23 de janeiro, sobre cessar-fogo e estatuto dos prisioneiros políticos, entre o Governo do Sudão do Sul e forças de oposição.",
+                "O Governo brasileiro considera que a implementação do cessar-fogo constituirá passo fundamental para o processo de reconciliação no Sudão do Sul."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-24-17h51-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-cessar-fogo_no_sudao_do_sul.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/24"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Participação da Presidenta da República na II Cúpula da Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e visita à República de Cuba – Havana, 27 e 28 de janeiro de 2014",
+            "subtitulo": "",
+            "data": "24/01/2014",
+            "horario": "16h26",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-da-senhora-presidenta-da-republica-na-ii-cupula-da-comunidade-dos-estados-latino-americanos-e-caribenhos-celac-e-visita-a-republica-de-cuba-havana-27-e-28-de-janeiro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Foto: Roberto Stuckert Filho",
+                "A Presidenta Dilma Rousseff participará, no dia 28 de janeiro, em Havana, da II Cúpula da Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC). A Cúpula terá como tema a luta contra a fome, a pobreza e as desigualdades na América Latina e no Caribe. Ao final da Cúpula, Cuba transferirá a Presidência Pro Tempore da CELAC para a Costa Rica.",
+                "Em dezembro de 2013, a CELAC completou dois anos de funcionamento. O organismo é o único que congrega todos os trinta e três países da América Latina e do Caribe em torno de uma agenda de diálogo político e cooperação.",
+                "No dia 27, a Presidenta Dilma Rousseff inaugurará, juntamente com o Presidente Raúl Castro, a primeira fase do Porto de Mariel, obra que conta com financiamento do BNDES. Os Presidentes manterão, ainda, encontro de trabalho para examinar os principais temas da agenda bilateral e regional.",
+                "O comércio entre Brasil e Cuba aumentou em quase sete vezes entre 2003 e 2013, passando de US$ 91,99 milhões para US$ 624,79 milhões. Os principais produtos vendidos pelo Brasil a Cuba em 2013 foram óleo de soja, arroz e milho.",
+                "Mais sobre as relações bilaterais Brasil-Cuba"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-24-16h26-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-participacao_da_presidenta_da_republica_na_ii_cupula_da_comunidade_dos_estados_latino-americanos_e_caribenhos_(celac)_e_visit....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/24"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "14": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Discurso proferido pela Presidenta da República, Dilma Rousseff, durante Sessão Plenária do Fórum Econômico Mundial 2014 - Davos, Suíça, 24 de janeiro de 2014",
+            "subtitulo": "",
+            "data": "24/01/2014",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/discurso-proferido-pela-presidenta-da-republica-dilma-rousseff-durante-sessao-plenaria-do-forum-economico-mundial-2014-davos-suica-24-de-janeiro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "“São passados mais de cinco anos do início da crise financeira global, a mais profunda e mais complexa desde 1929. Aos governantes, empresários e trabalhadores colocou-se o difícil desafio de evitar o pior e, ao mesmo tempo, reconstituir o caminho da prosperidade, da retomada do crescimento, da produção, dos investimentos e, em especial, dos empregos.",
+                "Impôs-se a todas as economias a recuperação da confiança nos negócios, confiança que é indispensável para um bom desempenho econômico. A saída definitiva da crise requer um enfoque que privilegie não apenas o curto prazo. Ele é muito importante, mas é natural que, em um ambiente de crise e contaminado pelos seus efeitos adversos, muitas avaliações acabem privilegiando apenas essa dimensão temporal.",
+                "É imprescindível, entretanto, resgatar o horizonte de médio e longo prazos em nossas avaliações para dar suporte aos diagnósticos e às ações necessárias ao crescimento das diferentes economias. Nessa perspectiva, ainda que as economias desenvolvidas mostrem claros indícios de recuperação, as economias emergentes continuarão a desempenhar um papel estratégico. Estamos falando dos países com as maiores oportunidades de investimento e de ampliação do consumo.",
+                "Somos países que demandam infraestrutura logística diversificada, infraestrutura social, urbana, energia, petróleo, gás, minérios, investimentos industriais e agrícolas. Somos sociedades em processo de forte mobilidade social, nas quais se constituem novos e dinâmicos mercados. Mercados internos integrados por centenas de milhões, em alguns casos, por bilhões de consumidores.",
+                "Assim, é apressada a tese segundo a qual, depois da crise, as economias emergentes serão menos dinâmicas. Serão muito dinâmicas porque lá estão grandes oportunidades. Até porque os fluxos atuais de investimento e comércio e as elevadas taxas de emprego e o horizonte de oportunidades dessas economias apontam em outra direção, na direção – eu repito – das oportunidades. Como as economias desenvolvidas, aliás, foram as mais afetadas pela crise, ao dela saírem criarão um ambiente econômico global mais favorável para todo o mundo.",
+                "O Brasil, por sua vez, vem experimentando uma profunda transformação social nos últimos anos. Estamos nos tornando, por meio de um processo acelerado de ascensão social, uma nação dominantemente de classe média. Alguns números ilustram essa realidade: os 36 milhões de homens e mulheres que foram tirados da extrema pobreza recentemente; os 42 milhões que ascenderam à classe média, que passou de 37% da população para 55% da população, apenas entre os anos a partir de 2003 até hoje. A renda per capita mediana das famílias brasileiras cresceu 78% no mesmo período. Nos últimos três anos, nós geramos 4,5 milhões de novos empregos.",
+                "Criamos um grande mercado interno de consumo de massas. Somos hoje um dos maiores mercados para automóveis, computadores, celulares, refrigeradores, fármacos e cosméticos. Mas apenas 47% dos domicílios têm computador; 55% apenas possuem máquinas de lavar roupa automática; 17%, freezer; 8% TV plana, evidenciando o tamanho da demanda ainda a ser atendida e as oportunidades de negócios a ela associadas.",
+                "Criamos um imenso contingente de cidadãos com melhores condições de vida, maior acesso à informação e mais consciência de seus direitos. Um cidadão com novas esperanças, novos desejos e novas demandas. Esses cidadãos, uma parte deles, estiveram nas manifestações de junho do ano passado, e essas manifestações são partes indissociáveis do nosso processo de construção da democracia e do processo de mudança social.",
+                "O meu governo não reprimiu, pelo contrário, ouviu e compreendeu a voz das ruas. Os manifestantes não pediram a vida do passado, não pediram uma volta atrás. Pediram, sim, o avanço para um futuro de mais direitos, mais participação e mais conquistas sociais. Nós sabemos que democracia gera desejo de mais democracia. Inclusão social provoca expectativa de mais inclusão social. Qualidade de vida desperta anseio por mais qualidade de vida, por mais e melhores serviços.",
+                "Para nós, todos os avanços que conquistamos, e os já conquistados, são sempre, sempre só um começo. É necessário transformar essa extraordinária energia que o povo brasileiro manifesta nas ruas em realizações para todos.",
+                "Este novo Brasil, mesmo desigual, e mesmo ainda menos desigual, está sendo construído sem abdicar dos nossos compromissos com a solidez dos fundamentos macroeconômicos. O controle da inflação e o equilíbrio das contas públicas são requisitos essenciais para assegurar a estabilidade, base sólida para a expansão econômica e para o progresso social.",
+                "A inflação no Brasil permanece sob controle e, desde 1999, o Brasil segue o regime de metas. Nos últimos anos, perseguimos o centro da meta e, a cada ano, trabalhamos para lograr esse objetivo. Os resultados obtidos até aqui estão dentro do intervalo admitido por esse regime monetário. Reitero a vocês que buscamos, com determinação, a convergência para o centro da meta inflacionária.",
+                "A experiência que tivemos das elevadíssimas taxas de inflação dos anos de 80 e 90 nos ensinou o poder destrutivo do descontrole de preços sobre as rendas, os salários, os lucros das empresas e, obviamente, sobre o cálculo econômico. A estabilidade da moeda é, hoje, um valor central do nosso país, da nossa nação.",
+                "Quero enfatizar que nós não transigimos com a inflação. A responsabilidade fiscal, por sua vez, é um princípio basilar da nossa visão de desenvolvimento econômico e social. No Brasil, as despesas correntes do governo federal estão sob controle e houve uma melhora qualitativa das contas públicas nos últimos anos. Conseguimos acentuada redução da dívida líquida do setor público, que caiu de 42,1%, em 2009, no início da crise, para 34% do PIB, em 2013. Mesmo a dívida bruta declinou neste mesmo período, passando de 60,9% para 58,5% do PIB.",
+                "Em breve, meu governo definirá a meta de superávit primário para o ano, consistente com essa tendência de redução do endividamento público. Creio que temos um dos menores endividamentos públicos do mundo.",
+                "Olhando o futuro, duas outras iniciativas são estratégicas: a primeira é aprimorar o controle das contas dos entes federados, estaduais e municipais; fortalecer o preceito da responsabilidade fiscal, para tornar mais efetiva e transparente a geração de superávit primário de todos os entes federados, da União, dos estados e municípios.",
+                "A segunda alternativa é o reposicionamento dos bancos públicos na expansão do crédito ao investimento, possível, agora, graças ao aumento da participação do financiamento privado, do mercado de capitais e de outros novos instrumentos financeiros. Nós, no Brasil, possuímos um sistema financeiro sólido, com elevados níveis de capital, liquidez e de provisões, o que contribui para a expansão sustentável do crédito ao longo dos últimos anos. Esse sistema é também eficiente, com a participação harmônica de bancos privados e de instituições públicas, bancos privados nacionais e estrangeiros. Essas instituições desempenharam um papel importante nos últimos anos, em especial o sistema financeiro público nos períodos de turbulência dos mercados financeiros internacionais. Com a normalização dos mercados globais, a orientação estratégica do governo é para que essas instituições públicas retornem às suas vocações naturais.",
+                "A crise financeira global ganha novos contornos, neste momento, com a retirada dos estímulos monetários pelos países desenvolvidos. Mesmo reconhecendo que este movimento expressa uma tendência de recuperação da economia e do comércio mundiais, persistem desafios que geram volatilidade nos mercados financeiros.",
+                "Nossas reservas internacionais, hoje na casa dos US$ 376 bilhões, proporcionam um colchão seguro de absorção dessa volatilidade. Além disso, o programa de swap construído pelo Banco Central tem sido capaz de dar previsibilidade e estabilidade ao nosso mercado de câmbio.",
+                "O Brasil tem na flutuação cambial sua primeira linha de defesa. Ao lado disso, o amplo fluxo de investimento estrangeiro direto – Em 2003 [2013] de US$ 64 bilhões – que se mantém direcionado para o Brasil, reforça nossa resiliência ao quadro de transição das condições financeiras e monetárias.",
+                "Desde o início do governo, estamos conscientes da necessidade de avançarmos para uma nova etapa. Reiteramos nosso compromisso com a qualidade institucional, em especial com o respeito aos contratos existentes, juntamente com um ambiente econômico estável e atrativo aos investidores. O nosso objetivo é melhorar estruturalmente a economia brasileira, tornando-a cada vez mais competitiva. É imprescindível, para tanto, a gestão cada vez melhor dos recursos públicos, reformando o Estado e reduzindo a burocracia. Nesse sentido, medidas para a diminuição das exigências burocráticas são essenciais para o aumento da produtividade no Brasil. Cito um exemplo, que é o Portal Empresa Simples, a ser implantado este ano, com a meta de baixar o prazo de abertura de empresas para, no máximo, cinco dias.",
+                "Sobretudo, é necessário – e estamos determinados a promover – forte aumento de investimento em infraestrutura, em educação e inovação. Com isso, aumentaremos a taxa de investimento em relação ao Produto Interno Bruto, fundamental para sustentar o crescimento de longo prazo.",
+                "Esse é o sentido do nosso programa de infraestrutura. E este sentido é enfrentarmos os gargalos gerados por décadas de subinvestimento, agravados pelo forte aumento, o forte crescimento da demanda nos últimos anos.",
+                "Temos, em parceria com o setor privado, um programa de concessões em infraestrutura logística integrada, infraestrutura energética, social, infraestrutura urbana, que envolve centenas de bilhões de dólares. O objetivo é somar recursos, mas é também aumentar a eficiência e aperfeiçoar a gestão dos serviços associados a essas obras. Os consórcios privados, que vêm participando desse processo de concessões e licitações, são integrados por grandes empresas nacionais e internacionais.",
+                "Realizamos cinco leilões de rodovias, transferindo, já, mais de quatro mil quilômetros para a gestão privada. Fizemos concessões de seis grandes aeroportos para consórcios liderados por grandes operadoras internacionais, e obtivemos outorgas de US$ 20 bilhões, desses aeroportos, e obteremos, ao longo dos contratos.",
+                "Adotamos um novo marco regulatório para o sistema portuário, permitindo a ampliação da participação privada na oferta dos serviços portuários, com critérios de eficiência e aumento do volume de carga. Foram autorizados, já, oito portos privados, com investimentos de mais de US$ 1,5 bilhão. Em 2014, autorizaremos novos terminais privados e iniciaremos os arrendamentos em portos públicos.",
+                "O novo modelo de concessão de ferrovias está em andamento. O Brasil é um país continental e necessita de um sistema ferroviário, principalmente quando se trata de minérios e grãos, e também quando se trata de contêineres. Em 2014, faremos o primeiro leilão de um trecho no centro-oeste brasileiro. Os demais trechos serão implementados também a partir deste ano, com a redefinição de alguns projetos, devido ao diálogo estabelecido com os investidores.",
+                "Um dos maiores desafios do país é construir essa malha ferroviária, uma malha moderna, uma malha compatível, como eu disse, com o tamanho continental do país.",
+                "Fizemos três licitações de petróleo e gás neste ano que passou. O grande marco, nessa área, foi o leilão do mega campo de Libra, vencido por um consórcio entre a Petrobras e quatro grandes empresas petrolíferas que aliam competência técnica a recursos financeiros. O campo de Libra tem reservas estimadas entre oito a doze bilhões de barris de petróleo. Sua exploração deve mobilizar investimentos diretos de cerca US$ 80 bilhões nos próximos 35 anos. Seu efeito multiplicador incidirá sobre toda a cadeia produtiva de petróleo e gás. Com a exploração dos demais campos de potencial similar ao de Libra, o Brasil se tornará um significativo exportador de petróleo.",
+                "Na área de energia elétrica realizamos, também, muitos leilões, em torno de sete leilões, acrescentando, na área de geração, mais de nove mil MW à capacidade instalada. Priorizamos, sempre, fontes de energia alternativa, renováveis, aliás, na nossa matriz, uma das mais limpas do mundo. Na transmissão, foram em torno de dez leilões, agregando mais de 20 mil quilômetros à rede do país. Um dos nossos objetivos é a segurança energética. Os empresários sabem a importância de planejar, com antecedência, a expansão do sistema e que a certeza da oferta regular é fundamental para a decisão de investir.",
+                "A questão urbana está no centro das nossas preocupações. As cidades brasileiras demandam investimentos em transporte público, saneamento e habitação, mesmo porque nós estamos no período da Copa do Mundo e das Olimpíadas, e a infraestrutura urbana é, para isso, muito importante. Estamos investindo US$ 62 bilhões em metrôs, VLTs (Veículos Leves sobre Trilhos) e monotrilhos, por meio de parcerias público-privadas. São 600 quilômetros de sistemas de trilho para enfrentar o maior problema da vida urbana do meu país: transporte de massa, seguro e rápido.",
+                "Outro desafio importantíssimo para nós é o saneamento, tanto para a qualidade de vida quanto, também, do ponto de vista dos recursos que ele implica, principalmente para a construção dos sistemas tanto de esgoto quanto de água. Estamos investindo US$ 36 bilhões para ampliar os serviços de saneamento básico.",
+                "Possuímos, como os senhores sabem, a maior reserva de água doce do mundo, mas nós temos, também, regiões extremamente secas, como é o caso de regiões do Nordeste brasileiro. Para expandir a oferta de água, nós estamos investindo US$ 14 bilhões em barragens, adutoras, canais, sistemas de abastecimento e cisternas. São milhões de uns e milhares de outros.",
+                "Encerrando esse ponto, eu gostaria de falar aos senhores sobre um programa que eu tenho muito orgulho de ter sido feito no Brasil, que é o Minha Casa, Minha Vida, nosso programa de construção habitacional. Desde 2011, nós contratamos a construção de 2,24 milhões moradias; 1,5 milhão nós já entregamos. Com esse programa nós garantimos o acesso à moradia para as parcelas mais pobres da população, combinando recursos públicos e financiamento, no total de US$ 87 bilhões, e estabelecemos o que é importantíssimo: uma equação financeira que, considerando a renda da população, viabiliza o programa sem criar riscos para o sistema imobiliário.",
+                "Outro desafio de infraestrutura é a extensão – e este é, a partir deste ano – é a extensão para todo o território brasileiro, de uma rede de banda larga de alta capacidade. Essa rede servirá de alicerce, também, para a política educacional que desenvolvemos e que prioriza a inclusão e a qualidade.",
+                "A educação, cada vez mais, cumprirá no Brasil uma dupla função. Por um lado, moldar uma nação democrática, garantindo a perenidade da erradicação da miséria e da pobreza, garantindo que o Brasil não volte atrás em relação à desigualdade. Por outro, alicerçar o crescimento, na tecnologia e na inovação, forjando a economia do conhecimento. Esses dois papéis são estratégicos para o país.",
+                "Nosso objetivo é criar uma geração de jovens técnicos, pesquisadores e cientistas. Estamos promovendo a maior expansão da rede federal de educação superior e tecnológica de nossa história, da rede pública e, por isso, democratizamos o acesso a essas universidades públicas. Mas também ampliamos o programa de bolsas e o financiamento para os estudantes terem acesso à universidade privada. Beneficiamos, com isso, 2,4 milhões de jovens de famílias de baixa renda que não teriam como entrar em universidades privadas. Implantamos o concurso nacional de acesso ao ensino superior, adotando um modelo justo, eficiente e meritocrático.",
+                "Nosso programa Ciência sem Fronteiras está oferecendo aos jovens a oportunidade de estudar nas melhores universidades do mundo. O único critério é uma boa nota nesse concurso nacional que, aliás, é condição para entrar em todos os nossos programas. São, no Ciência sem Fronteiras, 101 mil bolsas em universidades, hoje, de 39 países, nas áreas de engenharia, nas ciências exatas e nas áreas tecnológicas. Em parceria com o setor privado, envolvendo todas as confederações empresariais, nós implantamos um amplo programa de ensino técnico. Em pouco mais de dois anos, para se ter uma ideia, nos ultrapassamos a marca de cinco milhões de matrículas.",
+                "Finalmente, eu queria dizer para os senhores que a decisão histórica de destinar 75% dos royalties do petróleo, no pré e no pós-sal, e 50% do fundo social do pré-sal, que é o excedente em óleo, para a educação, vai nos permitir fazer ainda mais. Nós vamos transformar a riqueza finita do petróleo em um patrimônio perene para a nossa população, a educação. Essa alquimia, que é transformar petróleo em conhecimento, beneficiará nossa estrutura produtiva. Trabalhadores bem formados, gerando maior produtividade na economia, conseguem aplicar conhecimento e inovação. E, repito, gera maior produtividade.",
+                "Além disso, nosso programa Inova-Empresa mobiliza US$ 14 bilhões de recursos públicos em pesquisa e desenvolvimento. Nossa agricultura é um exemplo de sucesso de uma parceria entre o setor privado e o setor público na questão da inovação e da absorção de conhecimento científico e tecnológico.",
+                "Foi graças à tecnologia desenvolvida pela Embrapa e pelo agronegócio do Brasil que nós pudemos aumentar a nossa produção de grãos em 221% nas últimas duas décadas, com incremento de apenas 41% na área plantada. Portanto, um crescimento de 180% na produtividade da agricultura e que permitiu safras de grãos recordes. Nesta safra atual, nós vamos colher mais de 195 milhões de toneladas de grãos, ao mesmo tempo diminuindo o desmatamento e disseminando práticas sustentáveis de cultivo.",
+                "Na Conferência de Copenhague, nós assumimos a redução voluntária, em 36%, no mínimo, da emissão de gás de efeito estufa. Nós quebramos um tabu. Mostramos que é possível produzir de forma sustentável e, ao mesmo tempo, eficiente.",
+                "Quero fazer uma observação final. É hora de superarmos posturas defensivas e reconhecer o papel do comércio mundial na recuperação das economias. O histórico acordo global alcançado na Organização Mundial do Comércio (OMC) renova as esperanças de uma conclusão equilibrada na Rodada de Doha. O Brasil está pronto, está empenhado, também, nas negociações do Mercosul com a União Européia para um acordo comercial.",
+                "Volto a dizer: um novo ciclo de crescimento econômico mundial está em fase de gestação. À medida que a crise vai se dissipando, um olhar mais atento sobre os países emergentes ganhará fôlego. Com uma estratégia de longo prazo focada na promoção dos investimentos, na educação e no aumento da produtividade, esperamos sair ainda melhor dessa crise internacional.",
+                "O Brasil é, hoje, uma das mais amplas fronteiras de oportunidades de negócios. Nosso sucesso nos próximos anos estará associado à parceria com os investidores do Brasil e de todo o mundo. Sempre recebemos bem um investimento externo. Meu governo adotou medidas para facilitar ainda mais essa relação. Aspectos da conjuntura recente não devem obscurecer essa realidade.",
+                "Como eu disse até aqui, o Brasil mais que precisa e mais que quer a parceria com o investimento privado nacional e externo. O Brasil convida todos a ela. E, antes de terminar, quero aproveitar e convidar todos vocês para a Copa do Mundo, a Copa das Copas, que nós realizaremos agora em junho no Brasil. E também aproveito e convido para as Olimpíadas em 2016. O Brasil é o país do futebol. Nós amamos futebol e temos certeza que junto com outros países do mundo – eu não ousarei dizer com todos, mas eu quero dizer com a ampla maioria dos países do mundo – nós temos no futebol uma das formas mais importantes de afirmação da paz, mais importantes de afirmação, também, da luta contra os preconceitos, sejam eles quais forem.",
+                "Quero dizer aos senhores que nós estamos preparados para essa Copa. Os investimentos que eu relatei aqui são também investimentos para essa Copa, para esse evento, mas são, sobretudo, investimentos, originados da necessidade do país. E quero dizer que estamos de braços abertos pra receber todos os visitantes, de norte a sul e de leste a oeste do meu país.",
+                "Muito obrigada.”"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-24-10h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-discurso_proferido_pela_presidenta_da_republica,_dilma_rousseff,_durante_sessao_plenaria_do_forum_economico_mundial_2014_-_da....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/24"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "15": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Participação da Presidenta da República no Fórum Econômico Mundial - Davos, 24 de janeiro de 2014 - Programa de Imprensa",
+            "subtitulo": "",
+            "data": "24/01/2014",
+            "horario": "08h17",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-da-presidenta-da-republica-no-forum-economico-mundial-davos-24-de-janeiro-de-2014-programa-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os horários indicados a seguir estão no horário de Zurique (GMT +1, +3h em relação a Brasília) 24 de janeiro, sexta-feira 11h20 – Chegada a DavosCobertura: imprensa oficial 11h45 – Audiência com o Presidente da Saab, Hakan BuskheCobertura: imprensa oficial 14h15 – Discurso da Presidenta da República na sessão plenária do Fórum Econômico MundialLocal: Sala Plenária, Centro de CongressosCobertura: repórteres credenciados 15h30 – Encontro da Presidenta da República com o Conselho Internacional de Mídia do Fórum Econômico MundialSem cobertura de imprensa 17h30 – Encontro da Presidenta da República com representantes do grupo de interação empresarial sobre o BrasilLocal: Centro de CongressosSem cobertura de imprensa 18h40 – Audiência com o CEO da AB InBev, Carlos BritoCobertura: imprensa oficial 19h30 – Audiência com o CEO do Bank of America Merrill Lynch, Thomas MontagCobertura: imprensa oficial 20h00 – Audiência com o Diretor-Executivo da Unilever, Paul PolmanCobertura: imprensa oficial 20h45 – Audiência com o CEO da Novartis, Joseph JimenezCobertura: imprensa oficial 21h30 – Deslocamento de Davos para ZuriqueSem cobertura de imprensa"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-24-08h17-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-participacao_da_presidenta_da_republica_no_forum_economico_mundial_-_davos,_24_de_janeiro_de_2014_-_programa_de_imprensa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/24"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "16": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Conferência Internacional sobre a Síria (Genebra II) - Montreux, Suíça, 22 de janeiro de 2014 - Intervenção do Secretário-Geral das Relações Exteriores, Embaixador Eduardo dos Santos",
+            "subtitulo": "",
+            "data": "22/01/2014",
+            "horario": "16h35",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/conferencia-internacional-sobre-a-siria-genebra-ii-montreux-suica-22-de-janeiro-de-2014-intervencao-do-secretario-geral-das-relacoes-exteriores-embaixador-eduardo-dos-santos",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Intervenção do Secretário-Geral das Relações Exteriores, Embaixador Eduardo dos Santos, na Conferência Internacional sobre a Síria:",
+                "\"Excelentíssimo Senhor Secretário-Geral,Permita-me transmitir a Vossa Excelência o apreço do meu Governo pela convocação desta reunião tão aguardada sobre a Síria. Estendo meus cumprimentos ao Representante Especial Conjunto Lakhdar Brahimi. Sempre apoiamos e continuamos a apoiar seu valioso trabalho. Também saúdo a presença do Secretário-Geral da Liga Árabe, Nabil al-Araby.",
+                "Estamos reunidos aqui hoje para tratar de uma das tragédias mais sangrentas do século XXI – o conflito que irrompeu na Síria três anos atrás e continua a assolar o país e ameaça envolver toda a região. Por um longo tempo a resolução desse conflito esteve comprometida pelo silêncio e a paralisia do Conselho de Segurança das Nações Unidas. Como membro do Conselho no mandato 2010-2011, o Brasil buscou minimizar essa percepção de fracasso que apenas reforçou o chamado para uma reforma urgente e abrangente do Conselho de Segurança.",
+                "Na qualidade de representantes de um país que valoriza sua diversidade cultural e abriga milhões de brasileiros descendentes do Oriente Médio, saúdo calorosamente a abertura desse diálogo entre o governo sírio e grupos de oposição, facilitado pelas Nações Unidas.",
+                "O diálogo é urgente e indispensável para fazer avançar esforços de reconciliação nacional, atingir a paz sustentável e colocar um fim tanto na violência quanto nos abusos de direitos humanos. Também é essencial para assegurar um processo politico liderado pelos sírios que respeite as aspirações legítimas do povo sírio de determinar seu próprio futuro ao mesmo tempo em que se preserva a independência, soberania, unidade e integridade territorial da Síria.",
+                "Senhor Secretário-Geral,",
+                "Acredito que todos nós presentes nessa Conferência afirmamos em um momento ou outro que não há solução militar para o conflito sírio. Somente a negociação pode nos levar a um acordo aceitável que nos conduza à paz sustentável. No entanto, a guerra ainda devasta e coloca em perigo o futuro da Síria.",
+                "Não haverá solução para o conflito na Síria enquanto ambos os lados continuarem a receber recursos financeiros e armas do exterior. Não desejo repassar os números trágicos de mortos, pessoas deslocadas e refugiados que foram assinalados durante a Conferência de Doadores sobre Síria no Kuwait alguns dias atrás. Mas nunca deveríamos perder de vista o fato de que atrás das estatísticas existem pessoas de verdade, milhões delas. Suas vidas têm sido profundamente afetadas - e, no caso de dezenas de milhares, destruídas - pelo conflito na Síria.",
+                "Os países e organizações reunidos aqui hoje deveriam apoiar fortemente o diálogo político liderado pelos sírios. Esta Conferência deveria mostrar seu apoio não tentando determinar as decisões que as partes sírias deveriam tomar, nem aceitando a militarização do conflito. O melhor cenário para essa Conferência é formar um compromisso amplo e sólido para ajudar os sírios a superar pacificamente suas diferenças mediante negociações. Essa Conferência precisa encorajar um processo sírio com o apoio da comunidade internacional e não um processo internacional com participação síria.",
+                "Senhor Secretário-Geral,",
+                "O Brasil entende plenamente as dificuldades que enfrentamos a frente. Ao mesmo tempo, devemos nos sentir encorajados pelo fato de que estarmos todos reunidos aqui é em si mesmo um grande logro da diplomacia. A diplomacia permitiu a adoção do Comunicado do Grupo de Ação de Genebra em 2012, rompendo um impasse longo e destrutivo. A diplomacia também tornou possível alcançar um acordo para eliminar estoques de armas químicas na Síria, conforme determinado pela Resolução 2118 do Conselho de Segurança. Hoje, é nosso dever ajudar a encontrar pontos de convergência e estimular um acordo entre as partes sírias que levará a uma transição politicamente negociada.",
+                "O conflito sírio não é somente nacional, mas também uma crise regional com impacto mundial. O Brasil continua extremamente preocupado com os efeitos do conflito nos países vizinhos, que estão recebendo centenas de milhares de refugiados, tais como Líbano, Jordânia, Iraque e Turquia.",
+                "Renovamos nosso compromisso de apoiar esforços internacionais por meio das agências das Nações Unidas. Desde setembro de 2013, o Brasil decidiu facilitar vistos de entrada para todos aqueles nacionais sírios que buscam asilo. Meu país acredita que os princípios da solidariedade internacional e da divisão de responsabilidades deveriam nos guiar no que se refere aos nacionais sírios que buscam asilo em áreas fora das fronteiras imediatas da Síria.",
+                "Além disso, fizemos importantes contribuições financeiras a esforços de assistência humanitária das Nações Unidas na Síria e na região. Acreditamos que a recuperação política precisará ser construída com base na ajuda humanitária sustentada e na assistência de longo prazo ao desenvolvimento.",
+                "Senhor Secretário-Geral,",
+                "Precisamos agir oportuna e efetivamente. Medidas concretas são necessárias neste momento. Permita-me listar alguns passos que, na opinião do Brasil, são essenciais para alcançar uma solução política:",
+                "- Implementação imediata do Comunicado Final do Grupo de Ação, em particular o estabelecimento de um órgão de transição neutro com plenos poderes executivos e de um diálogo nacional abrangente e significativo;",
+                "- Acesso seguro, pleno e desimpedido a agentes humanitários e à assistência a pessoas em necessidade;",
+                "- Compromisso de todas as partes sírias de assegurar o retorno seguro daquelas pessoas deslocadas e refugiadas que querem voltar para as suas casas na Síria;",
+                "- Implementação imediata de medidas contra a violência baseada no gênero e daquelas medidas destinadas a proteger mulheres e crianças da violência sexual e do tráfico humano;",
+                "- Assegurar que todos os responsáveis por violações de direitos humanos sejam trazidos à justiça;",
+                "- Suspensão de todas as sanções econômicas unilaterais regionais conforme ressaltado pela Comissão Independente de Inquérito do Conselho de Direitos Humanos;",
+                "- Compromisso de todas as partes sírias com o cessar-fogo, que poderia ser estabelecido de forma progressiva em diferentes áreas do país, a ser monitorado por um mecanismo acordado mutuamente pelas partes envolvidas e pelas Nações Unidas;",
+                "- Estabelecer um embargo de armas abrangente e efetivo;",
+                "- Apoio continuado a esforços em andamento para remover armas químicas da Síria e destruí-las com segurança, processo este que já começou a dar resultados. Os prazos estipulados na Resolução 2118 do Conselho de Segurança devem ser estritamente observados.",
+                "Senhor Secretário-Geral,",
+                "O Brasil assinala firmemente seu renovado compromisso com os esforços internacionais visando a uma solução política para o conflito sírio. Estamos prontos a considerar possíveis mecanismos de seguimento a esta Conferencia que possam facilitar o diálogo político e o entendimento entre os próprios sírios.",
+                "Devemos às milhões de pessoas afetadas pelo conflito um esforço sustentado para ajudar as partes a superar suas diferenças. Vamos trazer paz finalmente e colocar um fim ao sofrimento suportado por tantos por tanto tempo.",
+                "Muito obrigado.\""
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-22-16h35-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-conferencia_internacional_sobre_a_siria_(genebra_ii)_-_montreux,_suica,_22_de_janeiro_de_2014_-_intervencao_do_secretario-ger....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/22"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "17": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Cúpula da Comunidade de Estados Latino-americanos e Caribenhos (CELAC) - Havana, 25 a 29 de janeiro de 2014 - Celulares da AIG",
+            "subtitulo": "",
+            "data": "22/01/2014",
+            "horario": "16h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/cupula-da-comunidade-de-estados-latino-americanos-e-caribenhos-celac-havana-25-a-29-de-janeiro-de-2014-celulares-da-aig",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Informam-se os números dos telefones celulares dos coordenadores de imprensa, pelo Ministério das Relações Exteriores, por ocasião da participação da Senhora Presidenta da República na Cúpula da Comunidade de Estados Latino-americanos e Caribenhos:",
+                "Secretária Tatiana Carvalho Teixeira Chamadas a partir do Brasil: 00 XX 53 5279 8488Chamadas locais originadas de telefones fixos: 0 5279 8488Chamadas locais originadas de telefones celulares: 5279 8488 Oficial de Chancelaria Ana Emilia Leite Ribeiro Chamadas a partir do Brasil: 00 XX 53 5279 6576Chamadas locais originadas de telefones fixos: 0 5279 6576Chamadas locais originadas de telefones celulares: 5279 6576"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-22-16h27-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-cupula_da_comunidade_de_estados_latino-americanos_e_caribenhos_(celac)_-_havana,_25_a_29_de_janeiro_de_2014_-_celulares_da_ai....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/22"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "18": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Participação da Presidenta Dilma Rousseff no Fórum Econômico Mundial e visita à sede da FIFA",
+            "subtitulo": "",
+            "data": "22/01/2014",
+            "horario": "10h29",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-da-presidenta-dilma-rousseff-no-forum-economico-mundial-e-visita-a-sede-da-fifa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Foto: Roberto Stuckert Filho",
+                "A Presidenta da República, Dilma Rousseff, participará da Reunião Anual do Fórum Econômico Mundial, em Davos, Suíça, no dia 24 de janeiro.",
+                "Criado em 1971, o Fórum reúne lideranças governamentais, empresários e acadêmicos em discussões sobre os principais temas da agenda internacional.",
+                "A reunião de 2014 tem como tema “A reconfiguração do mundo: consequências para sociedade, política e negócios”, e tratará de tópicos como crescimento inclusivo, inovação, expectativas da sociedade e sustentabilidade.",
+                "A Presidenta Dilma Rousseff proferirá discurso especial no programa aberto do Fórum e participará de encontro com representantes do setor privado.",
+                "A convite do Presidente da FIFA, Joseph Blatter, a Presidenta Dilma Rousseff realizará visita à sede da FIFA, em Zurique, no dia 23."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-22-10h29-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-participacao_da_presidenta_dilma_rousseff_no_forum_economico_mundial_e_visita_a_sede_da_fifa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/22"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "19": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Participação do Brasil na Conferência Internacional sobre a Síria (Genebra II) - Montreux, Suíça, 22 de janeiro",
+            "subtitulo": "",
+            "data": "21/01/2014",
+            "horario": "15h18",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-do-brasil-na-conferencia-internacional-sobre-a-siria-genebra-ii-montreux-suica-22-de-janeiro",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Secretário-Geral das Relações Exteriores, Embaixador Eduardo dos Santos, chefiará a delegação do Brasil à reunião internacional de alto nível da Conferência Internacional sobre a Síria (Genebra II), a ocorrer em 22 de janeiro de 2014, em Montreux, Suíça.",
+                "A Conferência de Genebra II, convocada pelo Secretário-Geral das Nações Unidas, Ban Ki-Moon, tem por objetivo dar início a processo negociador entre as partes sírias, com vistas à obtenção de entendimento político abrangente que ponha fim à violência e ao conflito na Síria, consoante a Resolução 2118 (2013) do Conselho de Segurança da ONU.",
+                "O Brasil, convicto de que não há solução militar ao conflito sírio, acredita que Genebra II pode constituir oportunidade valiosa para que o Governo da Síria e representantes da oposição possam iniciar um diálogo necessário e construtivo e está pronto para colaborar para o êxito do evento e das negociações."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-21-15h18-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-participacao_do_brasil_na_conferencia_internacional_sobre_a_siria_(genebra_ii)_-_montreux,_suica,_22_de_janeiro.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/21"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "20": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 18 e 26 de janeiro de 2014",
+            "subtitulo": "",
+            "data": "17/01/2014",
+            "horario": "19h43",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-18-e-26-de-janeiro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "18 a 26/JAN – Rio de Janeiro, Salvador, Ouro Preto, Brumadinho, Belém e São Paulo. Projeto Humboldtforum. Visita ao Brasil do Presidente da Fundação do Patrimônio Cultural Prussiano, Hemann Parzinger. (Fonte: DODC)",
+                "20/JAN – São Petersburgo, Rússia. Seminário de Investimentos no Setor de Turismo Brasileiro. (Fonte: DOC)",
+                "20 e 21/JAN – Nova York, EUA. Primeira Sessão Regular de 2014 da Junta Executiva da ONU-Mulheres. (Fonte: DTS)",
+                "20 e 21/JAN – Paris, França. UNESCO. Abertura do Ano Internacional da Cristalografia. (Fonte: Brasunesco)",
+                "20 a 22/JAN – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião Consultiva de Especialistas em Gestão de Doenças em Pequenos Ruminantes. (Fonte: Rebrasfao)",
+                "20 a 25/JAN – Genebra, Suíça. 134ª Sessão do Conselho Executivo da Organização Mundial da Saúde (OMS). (Fontes: DTS e Delbrasgen)",
+                "21 e 22/JAN – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 152ª Sessão do Comitê de Finanças. (Fonte: Rebrasfao)",
+                "22/JAN – Montreux, Suíça. II Conferência Internacional sobre Síria (Genebra2). (Fonte: Delbrasgen)",
+                "22/JAN – Brasília. Visita de Armando Varricchio, Conselheiro Diplomático do Primeiro Ministro da Itália, Enrico Letta. (Fonte: Brasemb Roma e DE-I)",
+                "22/JAN – Rio de Janeiro. Encontros do Governador do Estado do Rio de Janeiro e do Prefeito do Município do Rio de Janeiro com o Senhor Thomas Bach, Presidente do Comitê Olímpico Internacional. (Fonte: CGCE)",
+                "22/JAN – Roma, Itália. Lançamento de livro de juristas brasileiros por ocasião do XI Encontro Internacional de Juristas. (Fonte: Brasemb Roma)",
+                "22/JAN – Assunção, Paraguai. Seminário \"Parcerias Público-Privadas: expectativas paraguaias e experiências brasileiras\". (Fonte: CGDECAS)",
+                "22 a 25/JAN – Brasília e Rio de Janeiro. Visita do Senhor Tonio Borg, Comissário da União Europeia para a Saúde. (Fonte: DE-III)",
+                "22 a 26/JAN – Madri, Espanha. Feira Internacional de Turismo na Espanha, com participação da EMBRATUR. (Fonte: DOC)",
+                "23 e 24/JAN – Paris, França. Reunião das Cátedras UNESCO de Educação Superior, TICs na Educação e professores. (Fonte: Brasunesco)",
+                "23 e 24/JAN – Paris, França. Primeira reunião do Grupo de Trabalho Aberto da UNESCO para a revisão das Regras de Procedimento da Assembleia Geral dos Estados Partes da Convenção do Patrimônio Mundial. (Fonte: Brasunesco)",
+                "23 a 26/JAN – Porto Alegre, RS, Brasil. 19ª Reunião Ordinária do Conselho Nacional de Combate à Discriminação e Promoção dos Direitos de LGBT. (Fonte: DDH)",
+                "24/JAN – Paris, França. Projeto \"Vamos falar Português\", na sede da UNESCO, organizado por BRASUNESCO. (Fonte: DAMC)"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-17-19h43-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_18_e_26_de_janeiro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/17"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "21": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Participação da Senhora Presidenta da República no Fórum Econômico Mundial – Davos, 23 e 24 de janeiro de 2014 - Celulares da AIG",
+            "subtitulo": "",
+            "data": "17/01/2014",
+            "horario": "09h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-da-senhora-presidenta-da-republica-no-forum-economico-mundial-davos-23-e-24-de-janeiro-de-2014-celulares-da-aig",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Fuso horário em Zurique: GMT+1 (+3h em relação ao horário de Brasília)",
+                "Informam-se os números dos telefones celulares dos coordenadores de imprensa, pelo Ministério das Relações Exteriores, por ocasião da participação da Senhora Presidenta da República no Fórum Econômico Mundial:",
+                "Secretário Bruno Pereira RezendeChamadas a partir da Suíça: 079 470 1612Chamadas a partir do Brasil: +41 79 470 1612",
+                "Oficial de Chancelaria Flávia Cristina Rezende SenaChamadas a partir da Suíça: 079 470 1613Chamadas a partir do Brasil: +41 79 470 1613"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-17-09h46-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-participacao_da_senhora_presidenta_da_republica_no_forum_economico_mundial_-_davos,_23_e_24_de_janeiro_de_2014_-_celulares_da....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/17"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "22": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Síria: contribuição humanitária do Brasil",
+            "subtitulo": "",
+            "data": "17/01/2014",
+            "horario": "09h19",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/siria-contribuicao-humanitaria-do-brasil",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro anunciou, por ocasião da II Conferência Internacional de Alto Nível para Contribuições Humanitárias à Síria, no Kuwait, contribuição de US$ 300 mil para apoiar iniciativa conjunta entre o Alto Comissariado das Nações Unidas para Refugiados (ACNUR) e o Fundo das Nações Unidas para a Infância (UNICEF), no âmbito de estratégia lançada pelo Secretário-Geral das Nações Unidas para evitar \"geração perdida na Síria\".",
+                "Os recursos deverão ser direcionados a programas de educação e proteção que contribuam para tirar mais de um milhão de crianças sírias da miséria, do isolamento e de situações traumáticas. Esse é o número estimado de crianças que hoje se encontram refugiadas como consequência do conflito na Síria, segundo as agências da ONU."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-17-09h19-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-siria_contribuicao_humanitaria_do_brasil.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/17"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "23": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Designação para a Chefia do Secretariado da Convenção-Quadro para o Controle do Tabaco",
+            "subtitulo": "",
+            "data": "16/01/2014",
+            "horario": "09h28",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/designacao-para-a-chefia-do-secretariado-da-convencao-quadro-para-o-controle-do-tabaco",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro recebeu com grande satisfação a indicação, pela Diretora-Geral da Organização Mundial da Saúde, da Doutora Vera Luiza da Costa e Silva como a próxima Chefe do Secretariado da Convenção-Quadro para o Controle do Tabaco, pelo período de junho de 2014 a junho de 2018.",
+                "O Governo brasileiro atribui grande importância à implementação da Convenção-Quadro para o Controle do Tabaco e está comprometido em apoiar o êxito da sua gestão."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-16-09h28-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-designacao_para_a_chefia_do_secretariado_da_convencao-quadro_para_o_controle_do_tabaco.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/16"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "24": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Nota de Esclarecimento nº 1",
+            "subtitulo": "",
+            "data": "14/01/2014",
+            "horario": "15h58",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/nota-de-esclarecimento-n-1",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Ministério das Relações Exteriores (MRE) refere-se à matéria veiculada no último dia 12 sobre o serviço consular brasileiro, em que figuram erros e imprecisões sobre a atuação do Ministério. O MRE reconhece que faz parte do exercício da imprensa livre apurar e fazer denúncias. Essa importante função da imprensa ajuda o setor público a se aperfeiçoar e a oferecer serviços públicos mais eficientes e de melhor qualidade.",
+                "Cabe ao Itamaraty, portanto, elucidar os casos mencionados.",
+                "1) É necessário esclarecer inicialmente que o Brasil não tem Consulado em Florença, diferentemente do que é afirmado na matéria. Como a revista não consultou o Itamaraty sobre o que teria ocorrido naquela cidade italiana, pode-se deduzir que os brasileiros tenham tentado recorrer ao Cônsul Honorário em Florença. Cônsules Honorários não são funcionários do Governo brasileiro. Não recebem remuneração ou ressarcimento de despesas. Trata-se de serviço voluntário para auxiliar em emergências, em lugares onde inexista repartição consular brasileira.",
+                "2) Sobre o caso dos doze cidadãos brasileiros detidos em Oruro, na Bolívia, que foram libertados em 2 de agosto de 2013 (sete já haviam sido soltos em 6 de junho): o MRE prestou-lhes, desde o primeiro momento, todo apoio consular e jurídico, com empenho em assegurar o respeito aos direitos dos brasileiros detidos, inclusive no que se refere à garantia de condições dignas de detenção e ao adequado seguimento dos trâmites legais pertinentes.",
+                "Até o momento da libertação, a Embaixada manteve contato contínuo com as autoridades bolivianas envolvidas (Poder Judiciário, Ministério Público, Autoridades Penitenciárias, Chancelaria e outros Ministérios). O Embaixador e diplomatas da Embaixada do Brasil em La Paz fizeram visitas regulares aos detidos, algumas das quais acompanhando missões de parlamentares brasileiros. Por meio das constantes visitas, os representantes brasileiros puderam, igualmente, verificar a necessidade de auxílios específicos (colchões, agasalhos, alimentos, material de higiene, medicação) e de encaminhamento de detentos com problemas de saúde para assistência médica.",
+                "3) Sobre o desaparecimento do nacional Artur Paschoali, em 21 de dezembro de 2012: no dia 2 de janeiro de 2013, dia em que o MRE foi notificado do desaparecimento, a Embaixada do Brasil em Lima foi imediatamente acionada. O Embaixador entrou em contato com o Ministério do Interior peruano, com vistas a solicitar as providências necessárias de autoridades policiais locais, e tratou pessoalmente do assunto com o então Presidente do Conselho de Ministros e com a autoridade máxima do Ministério Público peruano.A Polícia Nacional peruana enviou equipe multitécnica de resgate à região do desaparecimento. Funcionários da Embaixada também foram deslocados àquela região para acompanhar os trabalhos de busca, onde permaneceram vários dias, para manter-se informados dos resultados, em coordenação com as autoridades locais. A pedido da Embaixada, houve amplo apoio das unidades policiais para prestação de auxílio e proteção aos familiares do Sr. Artur Paschoali em seus deslocamentos em áreas do interior do Peru.",
+                "4) Sobre o caso da Senhora Jacy Raduan Berger: houve plena assistência consular e jurídica do Ministério das Relações Exteriores, tanto em Brasília como em Berlim (Embaixada, Consulado-Geral em Munique e mesmo do Cônsul Honorário em Stuttgart) nos procedimentos jurídicos necessários para ganho de sua causa. Foram feitas manifestações de apoio com relação ao pleito judicial da cidadã pelo Itamaraty junto ao Governo alemão. Entretanto, as autoridades alemãs sempre ressaltaram a impossibilidade de autoridades do Poder Executivo interferirem em decisões do Poder Judiciário, à luz do princípio da separação dos poderes.",
+                "5) Sobre o caso do acidente fatal envolvendo a psicóloga amazonense Jaqueline Lopes Marques, em 4 de janeiro último: o Consulado-Geral do Brasil em Los Angeles esteve em contato com a família desde o primeiro momento. A liberação do corpo é de exclusiva responsabilidade das autoridades norte-americanas, e o prazo pode estender-se além do desejável. O Consulado-Geral esclareceu devidamente à família da cidadã falecida os procedimentos para o retorno do corpo da senhora Marques ao Brasil.A família também fez solicitações de custeio, pelo MRE, do traslado do corpo ao Brasil, ao que lhes foi respondido não haver rubrica orçamentária para esse tipo de despesa; à luz da legislação vigente, não é permitido ao MRE custear transporte de corpo do exterior ao Brasil.",
+                "6) Em relação ao atendimento que presta o Setor Comercial (SECOM) da Embaixada em Roma, vale esclarecer que foram recebidas, em 2013, 1.005 consultas (em média, quatro por dia útil). Para encontros e reuniões com o Embaixador do Brasil e outros funcionários diplomáticos da Embaixada, é aconselhável pedir agendamento prévio por meio de procedimentos costumeiros a qualquer repartição pública. O SECOM está aberto a todos os brasileiros e italianos interessados em estreitar os laços econômicos bilaterais.",
+                "7) Acerca dos vencimentos de funcionários do MRE que estariam acima do teto constitucional, o Itamaraty esclarece que houve, no passado, casos isolados, causados em grande parte pela flutuação cambial, que foram devidamente equacionados junto ao TCU. Não há hoje vencimento acima do teto constitucional no MRE.O salário dos servidores do MRE no exterior obedece à legislação vigente e respeita os limites constitucionais, em consonância ao estabelecido pelos órgãos competentes de fiscalização e controle.No caso de pagamentos no exterior, feitos em moeda norte-americana, será sempre necessário observar a variável que é a flutuação da taxa de câmbio. O valor está informado, para cada servidor, no Portal da Transparência.",
+                "8) A exemplo de todos os Embaixadores e Cônsules-Gerais que moram em imóveis alugados, a moradia do Embaixador Alterno em Nova York é uma residência oficial e, portanto, não é custeada por verba indenizatória. A definição de valores baseia-se em estudos fornecidos pela Mercer Consulting (http://www.mercer.com), empresa norte-americana especializada em cálculos de custo de vida para governos de vários países e agências americanas de governo, e responsável pelas publicações “World Quality of Living” e “World Cost of Living”.",
+                "Com o objetivo de aperfeiçoar o atendimento consular, o MRE colocou, desde 2009, à disposição de qualquer cidadão brasileiro o serviço de Ouvidoria Consular, responsável pelo processamento de críticas e sugestões referentes a toda a atividade consular das repartições brasileiras no exterior, para a tomada das providências cabíveis. Esse serviço público é um importante instrumento de aperfeiçoamento de serviços, não citado pela reportagem.",
+                "Há que se registrar que, em muitos casos, a assistência consular não é suficiente para resolver uma questão, pois há limites jurídicos nos países onde os Consulados estão sediados que devem ser respeitados. De acordo com o artigo 41 da Convenção de Viena sobre Relações Diplomáticas, incorporada ao ordenamento jurídico brasileiro por meio do Decreto n.º 56.435, de 8 de junho de 1965, o Brasil compromete-se a não se imiscuir nos assuntos internos de outros Estados.",
+                "Vale, no entanto, registrar inúmeros casos bem-sucedidos, dentre os quais: em 2011, a libertação do jornalista Andrei Netto na Líbia, a assistência médica e jurídica para o traslado ao Brasil do Sr. Rondon Rodrigues Maia (que se encontrava em coma no Vietnã) e o retorno de jogadores de futebol brasileiros em situação de desvalimento no Irã; o caso do jornalista Klester Cavalcanti, detido na Síria, em 2012, cuja libertação resultou de gestão pessoal de diplomata brasileiro naquele país junto às autoridades locais; em 2013, a repatriação de menor brasileira sequestrada nas Filipinas e o apoio prestado à ativista brasileira Ana Paula Maciel, detida na Rússia, além de inúmeros casos diários de prestação de assistência consular que não receberam atenção da imprensa.",
+                "Cabe mencionar, ainda, que além das atribuições burocráticas consulares, os funcionários do Itamaraty, na prestação de serviços ao público, também atuam fora de seus escritórios, deslocando-se para regiões remotas para dar assistência pessoal, visitando brasileiros em prisões e hospitais, e prestando apoio a nacionais em portos, aeroportos e delegacias de polícia, muitas vezes em condições difíceis e fora do horário de expediente."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-14-15h58-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-nota_de_esclarecimento_no_1.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/14"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "25": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita do Ministro das Relações Exteriores ao Paraguai – Assunção, 16 de janeiro de 2014",
+            "subtitulo": "",
+            "data": "14/01/2014",
+            "horario": "13h05",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-do-ministro-das-relacoes-exteriores-ao-paraguai-assuncao-16-de-janeiro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Ministro de Estado das Relações Exteriores, Luiz Alberto Figueiredo Machado, realizará visita a Assunção em 16 de janeiro de 2014, em seguimento à visita realizada a Brasília pelo Chanceler do Paraguai, Embaixador Eladio Loizaga Caballero, em 11 de dezembro de 2013.",
+                "O Ministro Figueiredo manterá reunião de trabalho com o Ministro Loizaga, com quem examinará os principais temas da agenda bilateral, com ênfase em temas de infraestrutura, e regional, em particular os temas ligados à preparação da próxima reunião do Conselho do Mercado Comum e da XLVI Cúpula de Chefes de Estado do MERCOSUL e Estados Associados, que se realizará em Caracas.",
+                "O comércio bilateral entre o Brasil e o Paraguai superou a cifra de 4 bilhões de dólares em 2013, com aumento de aproximadamente 12% em relação ao ano anterior. Ao longo desse período, verificou-se também aumento de 14% nas exportações brasileiras e de 10% nas importações de produtos paraguaios, na comparação com o ano de 2012.",
+                "Mais sobre as relações bilaterais Brasil-Paraguai"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-14-13h05-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_do_ministro_das_relacoes_exteriores_ao_paraguai_-_assuncao,_16_de_janeiro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/14"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "26": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil do Chanceler do Equador, Ricardo Patiño – Brasília, 15 de janeiro de 2014",
+            "subtitulo": "",
+            "data": "14/01/2014",
+            "horario": "11h48",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-do-chanceler-do-equador-ricardo-patino-brasilia-15-de-janeiro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "(Foto: Gustavo Ferreira/AIG-MRE)",
+                "O Ministro de Estado das Relações Exteriores, Luiz Alberto Figueiredo Machado, receberá o Ministro de Relações Exteriores e Mobilidade Humana do Equador, Ricardo Patiño, no dia 15 de janeiro de 2014, em Brasília, ocasião em que examinarão temas da agenda bilateral e regional. O Equador é país-sede da Secretaria-Geral da União de Nações Sul-Americanas (UNASUL).",
+                "O intercâmbio comercial entre o Brasil e o Equador aumentou 156% entre 2003 e 2013, passando de US$ 375 milhões a US$ 961 milhões anuais no período.",
+                "Mais sobre as relações bilaterais Brasil-Equador"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-14-11h48-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_chanceler_do_equador,_ricardo_patino_-_brasilia,_15_de_janeiro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/14"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "27": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Participação da Senhora Presidenta da República no Fórum Econômico Mundial – Davos, 23 e 24 de janeiro de 2014 - Credenciamento de Imprensa",
+            "subtitulo": "",
+            "data": "10/01/2014",
+            "horario": "18h52",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-da-senhora-presidenta-da-republica-no-forum-economico-mundial-davos-23-e-24-de-janeiro-de-2014-credenciamento-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os profissionais de imprensa interessados em participar da cobertura dos eventos públicos da agenda da Senhora Presidenta da República no Fórum Econômico Mundial deverão encaminhar, impreterivelmente, até as 17h00 do dia 13 de janeiro, segunda-feira, à Assessoria de Imprensa do Ministério das Relações Exteriores, por meio do endereço eletrônico credenciamento@itamaraty.gov.br, as seguintes informações:",
+                "a) Nome completo;b) Função;c) Número do passaporte;d) Data de expedição e data de expiração do passaporte;e) Data e país de nascimento;f) Endereço pessoal com CEP;g) Meio de comunicação;h) Endereço do veículo de comunicação com CEP;i) Telefone pessoal para contato durante o evento;j) E-mail pessoal;k) Foto nítida em arquivo JPEG de até 45 KB.",
+                "O prazo de credenciamento extraordinário encerra-se às 17h00 do dia 13 de janeiro. Por determinação dos organizadores do evento, não serão aceitos pedidos de credenciamento recebidos fora do prazo. Pedidos de credenciamento que não atendam a todos os itens solicitados não serão aceitos.",
+                "O credenciamento extraordinário de imprensa permitirá acesso apenas aos eventos públicos da Senhora Presidenta da República no Fórum Econômico Mundial.",
+                "Informações sobre a cobertura de imprensa do evento podem ser buscadas em:http://www.weforum.org/press"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-01-10-18h52-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-participacao_da_senhora_presidenta_da_republica_no_forum_economico_mundial_-_davos,_23_e_24_de_janeiro_de_2014_-_credenciamen....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/01/10"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

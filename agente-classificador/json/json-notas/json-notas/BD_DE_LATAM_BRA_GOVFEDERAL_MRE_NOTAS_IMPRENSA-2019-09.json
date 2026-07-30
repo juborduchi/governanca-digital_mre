@@ -1,0 +1,1989 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Calendário de eventos entre 27 de setembro e 4 de outubro de 2019",
+            "subtitulo": "",
+            "data": "28/09/2019",
+            "horario": "00h10",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/calendario-de-eventos-entre-27-de-setembro-e-4-de-outubro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "9 a 27/SET – Genebra, Suíça. 42a sessão do Conselho de Direitos Humanos (continuação).",
+                "9 a 27/SET – Genebra, Suíça. 82a sessão do Comitê para os Direitos da Criança (continuação).",
+                "20/SET a 04/OUT – Tirana, Albânia. Mostra fotográfica \"Brasília - Modernism Yesterday and Today\", no âmbito da Tirana Design Week, Polis University.",
+                "21 a 29/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Visita de campo de Representantes Permanentes à Geórgia e Turquia (continuação).",
+                "23 a 28/SET – Moscou, Rússia. XXIII Congresso da Organização Internacional de Entidades Fiscalizadoras Superiores – INTOSAI (continuação).",
+                "23/SET a 2/OUT – Washington, DC. Estados Unidos. 173o Período Ordinário de Sessões da Comissão Interamericana de Direitos Humanos – CIDH (continuação).",
+                "25 a 29/SET – São Petersburgo, Rússia. XII Festival de Cinema Brasileiro na Rússia (continuação).",
+                "26/SET a 20/OUT – Londres, Inglaterra. Exposição Rhythmic Beats: Ivan Serpa and his legacy.",
+                "29/SET a 7/OUT – Tóquio, Japão. Missão da Coordenadoria de Defesa Civil de Minas Gerais ao Japão para encontros com entidades públicas e privadas japonesas.",
+                "30/SET – Paris, França. Reunião do Grupo de Trabalho sobre Governança, Procedimentos e Métodos de Trabalho da UNESCO.",
+                "30/SET – Lagos, Nigéria. Homenagem ao 250o aniversário de Alexander von Humboldt.",
+                "30/SET – Montevidéu, Uruguai. LXVII Sessão Ordinária do PARLASUL.",
+                "30/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião preparatória para a 178a Sessão do Comitê de Finanças.",
+                "30/SET – Genebra, Suíça. Reunião informal da Sessão Especial do Conselho de Comércio e Serviços da OMC (Organização Mundial do Comércio).",
+                "30/SET – Genebra, Suíça. Reunião do Órgão de Solução de Controvérsias - OMC (Organização Mundial do Comércio.",
+                "30/SET – Roma, Itália. Programa Mundial de Alimentos (PMA). Reunião da Mesa Diretora da Junta Executiva do PMA.",
+                "30/SET a 04/OUT – Busan, Coreia do Sul. IV Rodada de Negociações do Acordo de Livre Comércio Mercosul – Coreia do Sul.",
+                "30/SET a 4/OUT – Washington, DC. Estados Unidos. 71a Sessão do Conselho Diretivo da Organização Pan-Americana da Saúde (OPAS).",
+                "30/SET a 4/OUT – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 15a reunião do Comitê de Revisão de Poluentes Orgânicos Persistentes.",
+                "30/SET a 4/OUT – Genebra, Suíça. 24a sessão do Grupo de Trabalho sobre direitos humanos e corporações transnacionais e outras empresas.",
+                "30/SET a 4/OUT – Genebra, Suíça. 84a sessão do Grupo de Trabalho preparatório ao Comitê sobre os Direitos da Criança.",
+                "30/SET a 06/OUT – Genebra, Suíça. Assembleia Geral da OMPI (Organização Mundial da Propriedade Intelectual).",
+                "30/SET a 11/OUT – Genebra, Suíça. 17a sessão do Comitê contra Desaparecimentos Forçados.",
+                "30/SET a 18/OUT – Genebra, Suíça. 66a sessão do Comitê de Direitos Econômicos, Sociais e Culturais.",
+                "1/OUT – Seul, Coreia do Sul. Brazil Coffee Day. Dia internacional do café. Promoção do agronegócio. Evento de degustação e de divulgação do café brasileiro.",
+                "1/OUT – Tóquio, Japão. Evento em comemoração ao Dia Internacional do Café com degustação de cafés especiais e produtos alimentícios brasileiros para representantes de cafés, restaurantes, hotéis e imprensa especializada do Japão.",
+                "1/OUT – Moscou, Rússia. Evento “Brasil: país do café”, alusivo ao Dia Internacional do Café.",
+                "1/OUT – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Plenária do Grupo dos 77 e China.",
+                "1/OUT – Genebra, Suíça. Reunião ampliada do Programa de Trabalho sobre Comércio Eletrônico da OMC (Organização Mundial do Comércio).",
+                "1/OUT – Genebra, Suíça. Reunião da Declaração Conjunta de Regulamentação Doméstica da OMC (Organização Mundial do Comércio).",
+                "1 e 2/OUT – Genebra, Suíça. 11a sessão do Fórum Social (no âmbito do Conselho de Direitos Humanos).",
+                "2/OUT – Montreal, Canadá. Atelier de informação e integração para mulheres brasileiras, organizado pelo Consulado-Geral do Brasil em Montreal.",
+                "2/OUT – Lagos, Nigéria. Palestra pública intitulada “Além da Escravidão e Liberdade: A Ideologia da escravidão na América Latina desde o Período Colonial ao Século XXI.",
+                "2/OUT – Roma, Itália. Fundo Internacional de Desenvolvimento Agrícola (FIDA). Sessão de treinamento sobre a arquitetura financeira do FIDA.",
+                "2 a 5/OUT – Santiago, Chile. ExpoEdifica - Feira Internacional da Construção do Chile.",
+                "3/OUT – Seul, Coreia do Sul. Evento comemorativo do 4351o Aniversário do dia da fundação da nação coreana.",
+                "3/OUT – Montreal, Canadá. Discussão sobre filmes brasileiros incluídos nos programas das equipes do “Festival du nouveau cinema - FNC” e “Festival du Film Brésilien de Montréal – FFBM”, no Espaço Brasil do consulado.",
+                "3/OUT – Tóquio, Japão. Abertura da Exposição “Thomaz Farkas: um olhar Moderno sobre o Brasil”, na Embaixada.",
+                "3/OUT – Acra, Gana. Celebração da Festa Nacional do Brasil no Kempinski Gold Coast Hotel.",
+                "3/OUT – Montevidéu, Uruguai. Cúpula Empresarial Índia-ALADI.",
+                "3/OUT – Montevidéu, Uruguai. VIII Reunião da Comissão de Representantes Permanentes do Mercosul.",
+                "3/OUT – Montevidéu, Uruguai. Reunião do Grupo de Trabalho “ad hoc” sobre o Estatuto da Cidadania do Mercosul.",
+                "3/OUT – Roma, Itália. Programa Mundial de Alimentos (PMA). Mesa redonda sobre Relatórios de Avaliação.",
+                "3/OUT – Roma, Itália. Programa Mundial de Alimentos (PMA). Reunião trimestral sobre Ética.",
+                "3/OUT – Roma, Itália. Programa Mundial de Alimentos (PMA). Segunda consulta informal sobre a política local de compras de alimentos.",
+                "3/OUT – Genebra, Suíça. 17a reunião dos Estados Partes da Convenção Contra a Tortura e Outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes.",
+                "3 e 4/OUT – Cidade do Panamá, Panamá. UNESCO - Fórum dos Parceiros para a América Latina e o Caribe.",
+                "4/OUT – Lagos, Nigéria. Recepção ao Sr. Christine Akpa, da GANIC FOODS LIMITED (Comércio e Assuntos de Investimento), em busca de parceiros no Brasil para várias commodities, especialmente a aquicultura e o cacau.",
+                "4/OUT – Genebra, Suíça. Reunião de consultas informais sobre o funcionamento do Comitê de Agricultura da OMC (Organização Mundial do Comércio).",
+                "4/OUT – Genebra, Suíça. Reunião do Comitê de Licenciamento de Importações da OMC (Organização Mundial do Comércio).",
+                "Calendário de reuniões da Presidência Pro Tempore Brasileira do Mercosul 2019 – O calendário pode ser consultado neste link: http://www.mercosul.gov.br/presidencia-pro-tempore-brasileira"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-28-00h10-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_27_de_setembro_e_4_de_outubro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/28"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "249"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Brasil aprova na ONU resolução sobre direitos humanos na Venezuela",
+            "subtitulo": "",
+            "data": "27/09/2019",
+            "horario": "16h11",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/brasil-aprova-na-onu-resolucao-sobre-direitos-humanos-na-venezuela",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Conselho de Direitos Humanos das Nações Unidas aprovou hoje, em Genebra, resolução sobre a situação dos direitos humanos na Venezuela apresentada pelo Brasil, juntamente com parceiros do Grupo de Lima.",
+                "A resolução expressa profunda preocupação com a situação alarmante dos direitos humanos na Venezuela, que inclui violações contra todos os direitos humanos – civis, políticos, econômicos, sociais e culturais – no contexto da corrente crise política, econômica, política, social e humanitária provocada pelo regime Maduro.",
+                "A resolução cria uma missão internacional independente de averiguação de fatos com mandato amplo e robusto, para investigar execuções extrajudiciais, desaparecimentos forçados, detenções arbitrárias, tortura e outros tratamentos cruéis, desumanos ou degradantes ocorridos na Venezuela desde 2014, com o objetivo de garantir a responsabilização dos violadores e justiça para as vítimas.",
+                "O Brasil condena veementemente todas as violações e abusos dos direitos humanos praticados pelo regime de Nicolás Maduro. Reiteramos nossa convicção de que somente o pleno restabelecimento da democracia na Venezuela permitirá vencer a crise humanitária e de direitos humanos naquele país. A investigação e punição das violações de direitos humanos praticados pelo regime Maduro é passo decisivo e indispensável rumo a essa redemocratização."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-27-16h11-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-brasil_aprova_na_onu_resolucao_sobre_direitos_humanos_na_venezuela.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/27"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "248"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Protocolo de Madri sobre Registro Internacional de Marcas – Entrada em vigência internacional para o Brasil",
+            "subtitulo": "",
+            "data": "27/09/2019",
+            "horario": "13h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/protocolo-de-madri-sobre-registro-internacional-de-marcas-entrada-em-vigencia-internacional-para-o-brasil",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Protocolo de Madri entrará em vigência internacional para o Brasil em 2 de outubro próximo.",
+                "O senhor Presidente da República assinou, em 25 de junho, o instrumento de adesão do Brasil ao referido instrumento, que foi depositado, pelo Itamaraty, na Organização Mundial da Propriedade Intelectual (OMPI), em Genebra, em 2 de julho. Conforme as regras do acordo, o Protocolo de Madri passa a viger no plano internacional três meses após o depósito do termo de adesão.",
+                "O principal objetivo do Protocolo de Madri é simplificar o registro de marcas nos 104 países que dele participam, com redução de custos e de burocracia.",
+                "Incentiva, assim, a expansão da atividade de empresas brasileiras no exterior, além de melhorar o ambiente de negócios no Brasil."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-27-13h46-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-protocolo_de_madri_sobre_registro_internacional_de_marcas_-_entrada_em_vigencia_internacional_para_o_brasil.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/27"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "247"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Comunicado Conjunto do IBAS sobre a Reforma do Sistema Multilateral – New York, 26 de setembro de 2019",
+            "subtitulo": "",
+            "data": "26/09/2019",
+            "horario": "15h57",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/comunicado-conjunto-do-ibas-sobre-a-reforma-do-sistema-multilateral-new-york-26-de-setembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Nós, os Ministros das Relações Exteriores e dos Negócios Estrangeiros de Índia, Brasil e África do Sul nos encontramos no dia 26 de setembro de 2019, em Nova York, guiados pelo princípio da soberania e pelos nossos valores comuns de liberdade, estado de direito, respeito aos direitos humanos e à democracia, bem como por nosso firme compromisso de promover uma arquitetura de governança internacional mais inclusiva, capaz de responder aos desafios e participativa.",
+                "Em momento de desafios globais significativos e urgentes, Índia, Brasil e África do Sul reconhecem ter objetivos comuns e responsabilidade compartilhada em ajudar a construir um mundo pacífico, seguro e próspero. O direito ao desenvolvimento e a igualdade de oportunidades são meios fundamentais para se atingir tais objetivos.",
+                "Nesse contexto, nossos países continuam a engajar-se como forças positivas para a mudança. O sistema multilateral precisa ser reformado, de modo a garantir que funcione eficazmente para todos os Estados e povos. Como grandes democracias e nações vibrantes, acreditamos que as pessoas devam ser colocadas no centro de uma governança internacional inclusiva. Estamos comprometidos em reformar o sistema multilateral a fim de satisfazer as necessidades e expectativas dos nossos povos, bem como de responder aos crescentes desafios globais.",
+                "Reafirmamos o nosso compromisso de reforçar a voz e a representação de economias emergentes e em desenvolvimento, especialmente aquelas da África, nos órgãos de tomada de decisão das instituições multilaterais.",
+                "A ampla reforma do sistema das Nações Unidas (ONU), incluindo do Conselho de Segurança das ONU, continua a ser um compromisso internacional crucial. Ao saudarmos, entre outras, a cooperação entre as Nações Unidas e os países do IBAS, bem como entre organizações e instituições regionais, tais como o Conselho de Paz e Segurança da União Africana (CPSUA), na promoção da paz e segurança internacionais, continuamos comprometidos a trabalhar juntos para a expansão do número de membros nas categorias permanente e não-permanente, com vistas a alcançar um Conselho de Segurança mais representativo, inclusivo e equitativo.",
+                "Nesse sentido, os países do IBAS continuam preocupados com o ritmo lento das Negociações Intergovernamentais sobre a reforma do Conselho de Segurança da ONU, que não produziram progresso tangível na Assembleia Geral das Nações Unidas (AGNU). Com a aproximação do 75o aniversário da ONU em 2020 instamos que sejam redobrados esforços para alcançar progresso nesse tema, com vistas a uma pronta e abrangente reforma do Conselho de Segurança.",
+                "A reforma da arquitetura de governança econômica internacional, incluindo da Organização Mundial do Comércio (OMC) e das instituições financeiras internacionais, também deve ser uma prioridade. Os países do IBAS têm contribuído significativamente para tornar a arquitetura de governança econômica internacional mais representativa e democrática e continuarão a trabalhar em conjunto para favorecer agenda que promova o desenvolvimento sustentável e o crescimento inclusivo.",
+                "O processo de reforma da OMC deve manter o desenvolvimento em seu cerne, promover a inclusão e a não discriminação, construir confiança e enfrentar as desigualdades e assimetrias nos acordos existentes. Deve considerar a diversidade de interesses e de preocupações de todos os países membros, incluindo aqueles em desenvolvimento, em particular os países de menor desenvolvimento relativo (LDCs). Os países do IBAS reconhecem o papel central desempenhado pela OMC na promoção dos interesses dos países em desenvolvimento em questões como a agricultura.",
+                "O fortalecimento da rede de segurança financeira global, com um Fundo Monetário Internacional (FMI) forte, baseado em cotas e com recursos adequados em seu centro é essencial. Devemos trabalhar para a conclusão da 15a Revisão Geral de Cotas, inclusive nova fórmula de cálculo de cotas nas Reuniões Anuais de 2019.",
+                "Reiteramos nosso compromisso de trabalhar em conjunto pelo reforço da cooperação para processar pessoas procuradas por corrupção e outros crimes econômicos, incluindo por meio de organizações e instituições internacionais como o G20, o Grupo de Ação Financeira (GAFI) e outras.",
+                "Reafirmamos a necessidade de consultas continuadas e intercâmbios de posições entre os países do IBAS com o objetivo de construir parcerias em instâncias multilaterais.",
+                "A esse respeito, tomamos nota dos progressos alcançados pelo Fundo IBAS para Alívio da Pobreza e da Fome (Fundo IBAS), que provê apoio financeiro para projetos de iniciativa do Sul, liderados pelo Sul, orientados pela demanda desses países e que gerem transformações por todo o mundo em desenvolvimento, com foco em países de menor desenvolvimento relativo. Saudamos o impacto no desenvolvimento criado pelo Fundo no terreno.",
+                "Comprometemo-nos a promover a reforma do sistema multilateral através da cooperação e da coordenação em todos os foros multilaterais e organizações internacionais de relevo, incluindo a OMC e grupos como G20, BRICS, BASIC e G-77."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-26-15h57-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-comunicado_conjunto_do_ibas_sobre_a_reforma_do_sistema_multilateral_-_new_york,_26_de_setembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/26"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "246"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Reunião de Ministros dos Negócios Estrangeiros/Relações Exteriores do BRICS – Comunicado à Imprensa – New York, 26 de setembro de 2019",
+            "subtitulo": "",
+            "data": "26/09/2019",
+            "horario": "15h39",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/reuniao-de-ministros-dos-negocios-estrangeiros-relacoes-exteriores-do-brics-comunicado-a-imprensa-new-york-26-de-setembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Os Ministros dos Negócios Estrangeiros/Relações Exteriores do BRICS mantiveram sua reunião anual à margem da 74a sessão da Assembleia Geral das Nações Unidas (AGNU74) em 26 de setembro de 2019, presidida pela Federação Russa na qualidade de próximo presidente de turno do BRICS para 2020.",
+                "Os Ministros intercambiaram pontos de vista sobre as principais questões globais e regionais da agenda da ONU nas esferas política, de segurança, econômica, financeira e de desenvolvimento sustentável, bem como sobre as atividades intra-BRICS. Expressaram apoio à cooperação continuada dos membros do BRICS em áreas de interesse mútuo, inclusive por meio de intercâmbios regulares entre suas Missões Permanentes junto às Nações Unidas.",
+                "Os Ministros relembraram que 2020 é o 75o aniversário da fundação das Nações Unidas e do fim da Segunda Guerra Mundial. Reafirmaram apoio aos esforços para tornar a governança global mais inclusiva, representativa e participativa, com maior participação dos mercados emergentes e dos países em desenvolvimento na tomada de decisões globais.",
+                "Os Ministros reafirmaram seu compromisso com um mundo de paz e estabilidade. Enfatizaram o papel central das Nações Unidas e seu compromisso de sustentar os propósitos e princípios consagrados na Carta da ONU, de respeitar o direito internacional e de promover o desenvolvimento sustentável, a democracia, os direitos humanos e o Estado de Direito.",
+                "Os Ministros recordaram o Documento Final da Cúpula Mundial de 2005 e reafirmaram a necessidade de uma reforma abrangente das Nações Unidas, inclusive de seu Conselho de Segurança, com vistas a torná-lo mais representativo, eficaz e eficiente, e ao aumento da representatividade dos países em desenvolvimento, de modo que possa responder adequadamente aos desafios globais. China e Rússia reiteraram a importância que conferem ao status e ao papel de Brasil, Índia e África do Sul nas relações internacionais e apoiam sua aspiração de desempenharem papéis mais relevantes na ONU.",
+                "Os Ministros saudaram o enfoque especial do segmento de alto nível da 74a AGNU no desenvolvimento sustentável e a realização das Cúpulas sobre Clima e ODS e eventos de alto nível sobre Saúde e Financiamento para o Desenvolvimento. Os Ministros reafirmaram seu compromisso com a Agenda 2030 para o Desenvolvimento Sustentável e pediram esforços redobrados para sua implementação tempestiva.",
+                "Os Ministros também enfatizaram a necessidade de uma ação internacional mais efetiva sobre mudança do clima, reafirmaram o compromisso dos países do BRICS com a plena implementação do Acordo de Paris, adotado sob os princípios da Convenção-Quadro das Nações Unidas sobre Mudança do Clima, incluindo os princípios de responsabilidades comuns porém diferenciadas e respectivas capacidades, à luz de diferentes circunstâncias nacionais. Instaram os países desenvolvidos a apoiar os países em desenvolvimento, inclusive honrando seus compromissos financeiros e a transferência de tecnologia, que são os fatores mais críticos para possibilitar a ação contra a mudança do clima.",
+                "Os Ministros reafirmaram seu compromisso com o multilateralismo e com o sistema multilateral de comércio tendo a OMC em seu centro. Reiteraram a necessidade urgente de fortalecer e reformar o sistema multilateral, incluindo a ONU, a OMC o FMI e outras organizações internacionais. Os Ministros reiteraram ainda seu compromisso com um comércio internacional transparente, não discriminatório, aberto, livre e inclusivo e observaram que o protecionismo e o unilateralismo são contrários às regras e ao espírito da OMC. Conclamaram todos os Estados a abster-se de promulgar e aplicar quaisquer medidas econômicas, financeiras ou comerciais que não estejam em conformidade com as regras da OMC, com o direito internacional e com a Carta das Nações Unidas, e que impeçam a realização plena do desenvolvimento econômico e social, particularmente nos países em desenvolvimento.",
+                "Os Ministros ressaltaram a importância de esforços contínuos para tornar as Nações Unidas mais efetiva e eficiente na implementação de seus mandatos. Encorajaram a intensificação da colaboração entre os países do BRICS sobre a melhoria dos recursos disponíveis para a ONU, sua administração e orçamento, a preservação de sua natureza de Organização controlada pelos Estados Membros e para garantir uma melhor supervisão e fortalecimento da Organização.",
+                "Os Ministros expressaram sua preocupação com os contínuos conflitos em várias regiões do mundo, que comprometem a segurança e a estabilidade internacionais. Reafirmaram seu compromisso com soluções pacíficas por meios políticos e pelo engajamento diplomático. Os Ministros exaltaram a União Africana por seus esforços visando a resolver e gerenciar conflitos naquele continente e saudaram o fortalecimento da cooperação entre o Conselho de Segurança das Nações Unidas e o Conselho de Paz e Segurança da União Africana. Também enalteceram o compromisso da União Africana de \"Silenciar as armas até 2020” e reiteraram apoio aos esforços para fortalecer a Arquitetura Africana de Paz e Segurança.",
+                "Os Ministros reiteraram sua forte condenação ao terrorismo em todas as suas formas e manifestações em qualquer momento, em qualquer lugar e por quem quer que o tenha cometido. Expressaram sua convicção de que é necessária uma abordagem abrangente para garantir uma luta eficaz contra o terrorismo. Conclamaram esforços conjuntos para combater o terrorismo de acordo com o direito internacional e sob os auspícios da ONU, e enfatizaram a esse respeito a necessidade da pronta adoção de uma Convenção Abrangente sobre Terrorismo Internacional (CCIT).",
+                "Os Ministros ressaltaram que a participação dos países do BRICS nos trabalhos do Conselho de Segurança da ONU, incluindo a África do Sul como membro eleito para o período 2019-2020, é oportunidade valiosa para manter diálogo constante e facilitar a cooperação em questões de paz e segurança.",
+                "Os Ministros discutiram possibilidades de apoio mútuo às suas iniciativas na 74a sessão da Assembleia Geral da ONU.",
+                "Os Ministros também foram informados sobre os preparativos para a vindoura presidência de turno russa do BRICS em 2020. A Rússia enfatizou sua determinação de assegurar a continuidade e o avanço da parceria estratégica nos três pilares do BRICS.",
+                "Os Ministros expressaram seu reconhecimento à presidência de turno brasileira do BRICS em 2019 e saudaram, em particular, a discussão proveitosa dos Líderes do BRICS na Reunião Informal à margem da Cúpula do G20 em Osaka. Rússia, Índia, China e África do Sul estenderam total apoio ao Brasil e reiteraram o compromisso de garantir o sucesso da vindoura 11a Cúpula dos BRICS em Brasília em novembro de 2019. Os Ministros também esperam pela Reunião dos Ministros dos Negócios Estrangeiros/Relações Exteriores do BRICS na Federação Russa em 2020."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-26-15h39-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_de_ministros_dos_negocios_estrangeiros-relacoes_exteriores_do_brics_-_comunicado_a_imprensa_-_new_york,_26_de_setembr....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/26"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "245"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Acordo de Cooperação e Facilitação de Investimentos entre a República Federativa do Brasil e a República do Equador – 25 de setembro de 2019",
+            "subtitulo": "",
+            "data": "25/09/2019",
+            "horario": "19h09",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/acordo-de-cooperacao-e-facilitacao-de-investimentos-entre-a-republica-federativa-do-brasil-e-a-republica-do-equador-25-de-setembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Foi assinado, hoje, à margem da 74a Assembleia Geral da ONU, pelo Ministro das Relações Exteriores, Embaixador Ernesto Araújo, e pelo Ministro de Relações Exteriores e Mobilidade Humana do Equador, Embaixador José Valencia, o Acordo de Cooperação e Facilitação de Investimentos (ACFI) entre Brasil e Equador.",
+                "Trata-se do primeiro instrumento jurídico em matéria de investimentos assinado pelo país andino após a denúncia, em anos recentes, de todos os seus acordos similares.",
+                "A assinatura do ACFI com o Equador representa oportunidade para o melhor aproveitamento do potencial das relações econômicas bilaterais. Estima-se em US$ 129 milhões o estoque de investimentos brasileiros naquele país. Em 2018, o intercâmbio comercial ultrapassou a marca de US$ 2,5 bilhões, e entre janeiro e agosto de 2019 foi registrado saldo favorável ao Brasil de US$ 479,18 milhões.",
+                "O Brasil firmou, também neste ano, dois outros ACFIs, com os Emirados Árabes Unidos e o Marrocos, elevando a 13 o número de acordos de investimentos já assinados com os seguintes países: Angola, Chile, Colômbia, Equador, Emirados Árabes Unidos, Etiópia, Guiana, Maláui, Marrocos, México, Moçambique, Peru e Suriname. Além desses, somos parte do Protocolo de Cooperação e Facilitação de Investimentos (PCFI), juntamente com os demais sócios fundadores do MERCOSUL, Argentina, Paraguai e Uruguai.",
+                "Mais sobre as relações bilaterais Brasil-Equador"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-25-19h09-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-acordo_de_cooperacao_e_facilitacao_de_investimentos_entre_a_republica_federativa_do_brasil_e_a_republica_do_equador_-_25_de_s....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/25"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "244"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Reunião de Chanceleres para adoção das Diretrizes para o Funcionamento do Foro para o Progresso e Integração da América do Sul (PROSUL) – Nova York, 25 de setembro de 2019",
+            "subtitulo": "",
+            "data": "25/09/2019",
+            "horario": "18h59",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/reuniao-de-chanceleres-para-adocao-das-diretrizes-para-o-funcionamento-do-foro-para-o-progresso-e-integracao-da-america-do-sul-prosul-nova-york-25-de-setembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Os Ministros das Relações Exteriores de Argentina, Brasil, Chile, Colômbia, Equador, Guiana, Peru e Paraguai reuniram-se, em 25 de setembro de 2019, em Nova York, para dar seguimento à implementação do Foro para o Progresso e Integração da América do Sul (PROSUL).",
+                "Na reunião de Nova York, foi emitida a primeira declaração ministerial do Foro, por meio da qual adotaram as Diretrizes para o Funcionamento do Foro para o Progresso e Integração da América do Sul (PROSUL). Os Ministros também transmitiram convite para que Bolívia, Suriname e Uruguai juntem-se ao mecanismo.",
+                "O PROSUL foi idealizado como novo espaço de diálogo regional para o fortalecimento das relações e da cooperação entre os Estados sul-americanos. O PROSUL será constituído em torno do compromisso com valores fundamentais, como a defesa da democracia, do Estado de direito e dos direitos humanos.",
+                "Com uma estrutura leve e desburocratizada, o PROSUL realizará, uma vez ao ano, reuniões de Presidentes e de Ministros das Relações Exteriores. Contará com uma Presidência Pro Tempore, hoje a cargo do Chile, que coordenará as atividades de seis Grupos de Trabalho nas seguintes áreas: infraestrutura; energia; saúde; defesa; segurança e combate ao crime; e desastres. O PROSUL terá, ainda, o apoio do Instituto para a Integração da América Latina e do Caribe do Banco Interamericano de Desenvolvimento (BID-INTAL)."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-25-18h59-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_de_chanceleres_para_adocao_das_diretrizes_para_o_funcionamento_do_foro_para_o_progresso_e_integracao_da_america_do_su....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/25"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "243"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Sessão do Órgão de Consulta do Tratado Interamericano de Assistência Recíproca (TIAR) – Nova York, 23 de setembro de 2019",
+            "subtitulo": "",
+            "data": "23/09/2019",
+            "horario": "21h51",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/sessao-do-orgao-de-consulta-do-tratado-interamericano-de-assistencia-reciproca-tiar-nova-york-23-de-setembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Os Ministros das Relações Exteriores dos Estados Partes do Tratado Interamericano de Assistência Recíproca (TIAR) aprovaram, em sessão do Órgão de Consultas previsto no Tratado, resolução que reconhece a ameaça representada pelo regime ilegítimo de Nicolás Maduro à segurança e estabilidade do Hemisfério.",
+                "A resolução estabelece um mecanismo operacional coletivo para investigar e levar à justiça pessoas e entidades do regime Maduro vinculadas à narco-guerrilha e ao terrorismo, bem como os responsáveis pelo cometimento de graves violações de direitos humanos, corrupção e lavagem de dinheiro. O objetivo é evitar que a Venezuela continue sendo território livre para atividades ilícitas e criminosas, que constituem graves ameaças à segurança regional, além de castigo sistemático ao povo venezuelano.",
+                "O Ministro das Relações Exteriores, embaixador Ernesto Araújo, chefiou a delegação brasileira e foi eleito, por aclamação, primeiro vice-presidente do Órgão de Consulta, que deverá voltar a reunir-se nos próximos dois meses.",
+                "O TIAR é um tratado internacional de 1947. São 19 os Estados Partes do instrumento: Argentina, Bahamas, Brasil, Chile, Colômbia, Costa Rica, Cuba, El Salvador, Estados Unidos, Guatemala, Haiti, Honduras, Panamá, Paraguai, Peru, República Dominicana, Trinidad e Tobago, Uruguai e Venezuela."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-23-21h51-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-sessao_do_orgao_de_consulta_do_tratado_interamericano_de_assistencia_reciproca_(tiar)_-_nova_york,_23_de_setembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/23"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "242"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Declaração do Grupo de Lima – Nova York, 23 de setembro de 2019",
+            "subtitulo": "",
+            "data": "23/09/2019",
+            "horario": "18h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/declaracao-do-grupo-de-lima-nova-york-23-de-setembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Os Governos da Argentina, Brasil, Canadá, Chile, Colômbia, Costa Rica, Guatemala, Honduras, Panamá, Paraguai, Peru e Venezuela, membros do Grupo Lima, reunidos em Nova York, expressam o seguinte:",
+                "1. Rechaçam os repetidos e sucessivos obstáculos do regime ilegítimo e ditatorial de Nicolás Maduro aos processos de negociação com as forças democráticas e a Assembleia Nacional da Venezuela para lograr uma solução política para a grave crise de que sofre aquele país, por meio da realização de eleições gerais livres, justas e transparentes, com observadores internacionais.",
+                "2. Renovam seu apoio ao Presidente Encarregado Juan Guaidó e à Assembleia Nacional, como autoridades legítimas e democraticamente eleitas, e destacam sua vontade de alcançar uma saída pacífica conduzida pelos próprios venezuelanos. Seguem comprometidos a trabalhar em rigorosa colaboração com a comunidade internacional e instam os demais países a se unirem aos esforços com esse objetivo.",
+                "3. Expressam a disposição de adotar novas sanções ou outras medidas econômicas e políticas contra o regime de Maduro, orientadas a favorecer o reestabelecimento, sem uso da força, do Estado de Direito e da ordem constitucional e democrática na Venezuela.",
+                "4. Rechaçam os crescentes vínculos do regime Nicolás Maduro com grupos armados fora da lei e amparados pela presença de organizações terroristas e de grupos armados ilegais no território venezuelano, o que representa uma clara ameaça à paz, estabilidade e segurança da região.",
+                "5. Promovem, de acordo com os ordenamentos jurídicos nacionais aplicáveis, a investigação, captura e punição de funcionários e líderes do regime ilegítimo de Maduro envolvidos em atividades de apoio a grupos armados e organizações terroristas, bem como em atos de corrupção, narcotráfico, crime organizado e violações de direitos humanos.",
+                "6. Exortam o Conselho de Direitos Humanos das Nações Unidas a estabelecer um mecanismo independente de monitoramento e investigação sobre a violação sistemática dos direitos humanos na Venezuela, documentadas no último relatório do Alto Comissariado das Nações Unidas para os Direitos Humanos, conforme proposto pelos países do Grupo Lima junto a outros membros da comunidade internacional.",
+                "7. Rechaçam a candidatura do regime ilegítimo de Maduro ao referido Conselho, por ser absolutamente contrária à tarefa de proteção e defesa dos direitos humanos que compete àquele organismo intergovernamental, e instam a Assembleia Geral das Nações Unidas a não apoiar essa candidatura.",
+                "8. Reiteram sua profunda preocupação com a gravidade da crise humanitária na Venezuela e com as dimensões do êxodo migratório – mais de 4,3 milhões de pessoas, de acordo com o Escritório do Alto Comissariado das Nações Unidas para os Refugiados (ACNUR) – que ultrapassa as capacidades de reação, e sublinham a necessidade de aumentar o apoio internacional, especialmente financeiro, para ajudar os imigrantes venezuelanos e os países de acolhida a lidar com essa situação sem precedentes na região."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-23-18h40-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-declaracao_do_grupo_de_lima_-_nova_york,_23_de_setembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/23"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "241"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Cúpula de Ação Climática – 23 de setembro de 2019",
+            "subtitulo": "",
+            "data": "23/09/2019",
+            "horario": "12h12",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/cupula-de-acao-climatica-23-de-setembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Será realizada em Nova York, em 23 de setembro corrente, a “Cúpula de Ação Climática”, iniciativa do Secretário-Geral da ONU, António Guterres.",
+                "O governo brasileiro está plenamente comprometido com o cumprimento de seus compromissos internacionais na área ambiental. Nossa Contribuição Nacionalmente Determinada no marco do Acordo de Paris é uma das mais ambiciosas do mundo, prevendo redução de 37% das emissões de gases efeito estufa de nosso país em 2025, relativamente a 2005, com previsão indicativa de elevar esta meta para 43% em 2030.",
+                "O Brasil tomou parte de forma construtiva no processo preparatório da Cúpula de Ação Climática. Nos meses que antecederam o evento, foram formadas nove “coalizões temáticas”, entre as quais uma dedicada a “Infraestrutura, Cidades e Ação Local”, da qual o Brasil participou. Em parceria com o Quênia e o programa ONU-Habitat, o Brasil apresentou uma proposta de ações sobre aprimoramento da resiliência de grupos urbanos vulneráveis.",
+                "Além disto, na coalizão sobre “Transição Energética”, apresentamos proposta de promoção de biocombustíveis no setor de transportes baseada em nossa experiência com o Programa Renovabio. Finalmente, na coalizão sobre Soluções Baseadas na Natureza, apresentamos proposta baseada nos resultados exitosos do Plano Setorial de Mitigação e de Adaptação às Mudanças Climáticas para a Consolidação de uma Economia de Baixa Emissão de Carbono na Agricultura (Plano ABC).",
+                "Os organizadores da Cúpula de Ação Climática estabeleceram que apenas chefes de estado e de governo poderão fazer uso da palavra durante o evento."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-23-12h12-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-cupula_de_acao_climatica_-_23_de_setembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/23"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "240"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Calendário de eventos entre 20 e 27 de setembro de 2019",
+            "subtitulo": "",
+            "data": "20/09/2019",
+            "horario": "22h52",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/calendario-de-eventos-entre-20-e-27-de-setembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "9 a 27/SET – Genebra, Suíça. 42a sessão do Conselho de Direitos Humanos (continuação).",
+                "9 a 27/SET – Genebra, Suíça. 82a sessão do Comitê para os Direitos da Criança (continuação).",
+                "17 a 22/SET – Moscou, Rússia. XII Festival de Cinema Brasileiro na Rússia (continuação).",
+                "20/SET a 04/OUT – Tirana, Albânia. Mostra fotográfica \"Brasília - Modernism Yesterday and Today\", no âmbito da Tirana Design Week, Polis University.",
+                "21 a 29/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Visita de campo de Representantes Permanentes à Geórgia e Turquia (continuação).",
+                "23/SET – Montevidéu, Uruguai. Reunião do Grupo de Trabalho sobre Política Comunicacional do Mercosul.",
+                "23/SET – Nova York, EUA. Cúpula dos Impactos do Desenvolvimento Sustentável 2019.",
+                "23/SET – Nova York, EUA. Encontro de Cúpula de Ação Climática.",
+                "23/SET – Nova York, EUA. Reunião de Alto Nível sobre Cobertura Universal de Saúde.",
+                "23/SET – Genebra, Suíça. Reunião Organizacional sobre Facilitação de Investimentos para o Desenvolvimento.",
+                "23/SET – Genebra, Suíça. Demonstração e-TRIPS Gateway-OMPI.",
+                "23/SET – Genebra, Suíça. Reunião Informal sobre Aspectos Organizacionais da Quinquagésima Nona Série de Reuniões das Assembleias dos Estados Membros da OMPI.",
+                "23/SET – Nova York, EUA. Reunião do Órgão de Consulta do Tratado Interamericano de Assistência Recíproca (TIAR).",
+                "23/SET – Genebra, Suíça. Encontro de Preparação para o Dia do Algodão.",
+                "23/SET – Genebra, Suíça. Reunião sobre o Artigo XXVIII com União Europeia – Brexit.",
+                "23/SET – Lagos, Nigéria. Encontro do Encarregado do Consulado-Geral do Brasil em Lagos, Secretário Helges Bandeira, com o Vice-Alto Comissário Britânico, Sr. Harriet Thompson e com os demais Cônsules e Chefes de Missão na residência da missão britânica em Lagos.",
+                "23 e 24/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Seminário de especialistas sobre conhecimento tradicional e pesca dos povos indígenas na região ártica.",
+                "23 a 27/SET – Londres, Reino Unido. 125a Sessão do Conselho Internacional do Café e Orgãos Subsidiários da Organização Internacional do Café.",
+                "23 a 27/SET – Genebra, Suíça.  Reunião de peritos para adotar diretrizes sobre a promoção do trabalho decente e da segurança viária no setor de transporte.",
+                "23 a 27/SET – Genebra, Suíça. 12a sessão do Grupo de Trabalho prévio ao Comitê sobre os Direitos das Pessoas com Deficiência.",
+                "23 a 27/SET – Genebra, Suíça. Reunião do Grupo de Trabalho Tripartite do Mecanismo de Exame de Normas da OIT.",
+                "23 a 27/SET – Sikasso, Mali. Missão de capacitação de trinta (30) técnicos da CMDT (Companhia do Mali de Desenvolvimento Têxtil).",
+                "24/SET – Seul, Coreia do Sul. Organização Internacional das Cooperativas Agropecuárias (ICAO). Assembleia Geral. Reunião entre representantes da Embaixada do Brasil em Seul e representante.",
+                "24/SET – Genebra, Suíça. Reunião sobre o Artigo XXVIII com o Reino Unido – Brexit.",
+                "24/SET – Genebra, Suíça. Audiência Pública – Additional Duties (DS559).",
+                "24/SET - Genebra, Suíça. Reunião Informal do Comitê de Acesso ao Mercado.",
+                "24/SET – Genebra, Suíça. Reunião do Comitê de Orçamento, Finanças e Administração.",
+                "25/SET – Genebra, Suíça. Reunião Informal do Comitê de Medidas Sanitárias e Fitossanitárias.",
+                "24/SET – Lagos, Nigéria. Encontro do Encarregado do Consulado-Geral com a senhora Margaret Ngozi Ukegbu, chefe da zona sudoeste da Comissão Nacional de Refugiados, Migrantes e Pessoas Internamente Deslocadas.",
+                "24/SET – Montevidéu, Uruguai. Reunião do Grupo de Trabalho 'ad hoc' sobre a Cartilha da Cidadania do Mercosul.",
+                "24 e 25/SET – Nova York, EUA. Fórum Político de Alto Nível sobre os Objetivos de Desenvolvimento Sustentável.",
+                "24 e 25/SET – Montevidéu, Uruguai. CLXVIII Reunião Ordinária da Comissão de Comércio do Mercosul.",
+                "24 e 25/SET – Paris, França. Reunião do grupo preparatório do Conselho Executivo da UNESCO.",
+                "24 a 27/SET – Nova York, EUA. Debate geral da 74a sessão da Assembleia Geral das Nações Unidas.",
+                "24 a 27/SET – Genebra, Suíça. Abertura da Reunião Ampliada da Declaração Conjunta sobre Comércio Eletrônico.",
+                "24 a 27/SET – Helsinque, Finlândia. Conferência EAIE (European Association of International Education), com participação da FAUBAI (Associação Brasileira de Educação Internacional) e de delegação constituída por 36 membros de instituições acadêmicas brasileiras.",
+                "25/SET – Roma, Itália. Programa Mundial de Alimentos (PMA). Sessão de iniciação para novos membros e observadores da Junta Executiva do PMA.",
+                "25/SET – Lagos, Nigéria. Reunião de encontro com o Presidente executivo da empresa Strategy Relations Ltd., com a seção comercial SECOM do Consulado com o Encarregado do Consul Geral e a assistente técnica do setor presente.",
+                "25/SET – Montevidéu, Uruguai. Reunião entre o Grupo de Trabalho 'ad hoc' sobre o Estatuto da Cidadania do Mercosul e a Secretaria do PARLASUL.",
+                "25/SET – Montevidéu, Uruguai. Reunião do Grupo de Trabalho 'ad hoc' sobre o Instituto Mercosul de Formação.",
+                "25/SET – Sidney, Austrália. Brazil Showcase 2019 (terceira edição). Vitrine de produtos e serviços brasileiros, com vistas a reforçar, junto a formadores de opinião australianos, a percepção do Brasil como países de economia diversa e de grande vitalidade.",
+                "25/SET – Helsinque, Finlândia. Cerimônia de entrega da Insígnia da Ordem do Rio Branco à Universidade de Helsinque, a ser realizado no Museu de História Natural da Finlândia.",
+                "25/SET – Genebra, Suíça. Reunião do Grupo de Trabalho do Conselho sobre WSIS & SDGs.",
+                "25 e 26/SET – Genebra, Suíça. Audiência com o Painel no Contencioso Aeronáutico Brasil-Canadá.",
+                "26/SET – Montevidéu, Uruguai. Reunião da Comissão de Representantes Permanentes do Mercosul.",
+                "26/SET – Lagos, Nigéria. O Consulado brasileiro receberá 85 alunos do departamento de arquitetura da Universidade de Lagos (UNILAG) para a exposição do museu móvel iorubá, instalado desde 7 de setembro no consulado. A exposição ficará no consulado até a data nacional da Nigéria, 1 de outubro.",
+                "26/SET – Iaundê, Camarões. Seminário sobre Agronegócios Brasil-Camarões, organizado pela Embaixada do Brasil em Iaundê, em parceria com a Câmara de Agricultura, Pesca, Pecuária e Florestas do Cameroun e a empresa brasileira IBSS Agronomy.",
+                "26/SET – Nova York, EUA. Diálogo de Alto Nível sobre Financiamento para o Desenvolvimento.",
+                "26/SET a 20/OUT – Londres, Inglaterra. Exposição Rhythmic Beats: Ivan Serpa and his legacy.",
+                "26/SET – Chicago, EUA. Comemoração dos 100 anos da Câmara de Comércio do estado de Illinois. O evento contará com a presença de empresários de Illinois e adidos de comércio exterior de diversos países.",
+                "26/SET – Genebra, Suíça. Reunião Informal do Conselho Geral.",
+                "26/SET – Genebra, Suíça. Reunião Informal do Comitê de Barreiras Técnicas ao Comércio.",
+                "26/SET – Tóquio, Japão. Apresentação sobre oportunidades de investimentos no Brasil e o quadro regulatório brasileiro. Evento promovido pela Embaixada do Brasil, em parceria com o Escritório Pinheiro Neto Advogados.",
+                "26 e 27/SET – Genebra, Suíça. Reunião Informal da Sessão Especial do Comitê de Agricultura.",
+                "27/SET – Paris, França. Evento em comemoração do Dia Internacional do Café, com a participação de importadores locais.",
+                "27/SET – Genebra, Suíça. Reunião do Comitê de Salvaguardas.",
+                "27/SET – Tóquio, Japão. Apresentação pelo Comitê Olímpico do Brasil (COB) do Programa TRANSFORMA para promoção dos Valores Olímpicos para a Vida (VOV). Evento destinado a escolas brasileiras no Japão.",
+                "28/SET – Lagos, Nigéria. O Encarregado do Consulado-Geral assistirá à abertura de exposição sobre o templo de Oxum (UNESCO, patrimônio mundial), intitulada 'O Bosque de Osun-Osogbo: 60 anos de nova arte sagrada'.",
+                "27/SET – Genebra, Suíça. Reunião sobre Propriedade Intelectual e Inteligência Artificial.",
+                "Calendário de reuniões da Presidência Pro Tempore Brasileira do Mercosul 2019 – O calendário pode ser consultado neste link: http://www.mercosul.gov.br/presidencia-pro-tempore-brasileira"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-20-22h52-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_20_e_27_de_setembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/20"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "239"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Ataques a instalações da Saudi Aramco, na Arábia Saudita",
+            "subtitulo": "",
+            "data": "19/09/2019",
+            "horario": "21h23",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/ataques-a-instalacoes-da-saudi-aramco-na-arabia-saudita",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro deplora e condena os ataques perpetrados contra instalações da Saudi Aramco em Abqaiq e em Khurais, na Arábia Saudita, em 14/9, que comprometeram seriamente o fornecimento internacional de petróleo.",
+                "O Brasil se solidariza com a Arábia Saudita e manifesta confiança na capacidade das autoridades daquele país em controlar os danos causados pelos ataques, bem como no pronto reparo das instalações.",
+                "Ao saudar os esforços em curso para investigar a origem dos ataques, o Brasil congratula o governo saudita pela decisão de convidar peritos internacionais, ao amparo do Conselho de Segurança das Nações Unidas, para participar das investigações."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-19-21h23-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-ataques_a_instalacoes_da_saudi_aramco,_na_arabia_saudita.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/19"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "238"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Proibição de entrada da Comissão da OEA sobre a Nicarágua",
+            "subtitulo": "",
+            "data": "18/09/2019",
+            "horario": "00h11",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/proibicao-de-entrada-da-comissao-da-oea-sobre-a-nicaragua-2",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro lamenta profundamente a decisão do Governo nicaraguense, anunciada em 14/9, de impedir a entrada no país dos integrantes da Comissão sobre a Nicarágua, da Organização dos Estados Americanos (OEA).",
+                "Criada, com o apoio do Brasil, pela resolução 2.943 da Assembleia-Geral da OEA, a Comissão realizaria gestões diplomáticas de alto nível de modo a instaurar um processo de diálogo capaz de contribuir para a plena restauração da ordem democrática e das garantias individuais na Nicarágua.",
+                "O Governo brasileiro reafirma seu apoio ao trabalho da Comissão sobre a Nicarágua da OEA e seu compromisso em contribuir para a plena restauração da ordem democrática e das garantias individuais naquele país."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-18-00h11-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-proibicao_de_entrada_da_comissao_da_oea_sobre_a_nicaragua.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/18"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "237"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "14": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "20ª Reunião do Grupo de Trabalho Internacional sobre Créditos à Exportação – 17 a 19 de setembro de 2019",
+            "subtitulo": "",
+            "data": "17/09/2019",
+            "horario": "21h39",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/20-reuniao-do-grupo-de-trabalho-internacional-sobre-creditos-a-exportacao-17-a-19-de-setembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Está sendo realizada, de 17 a 19 de setembro, no Itamaraty, em Brasília, a 20a Reunião do Grupo de Trabalho Internacional sobre Créditos à Exportação (IWG, na sigla em inglês). Além do Brasil, que atualmente o preside, integram o IWG África do Sul, Austrália, Canadá, China, Coreia do Sul, Estados Unidos, Índia, Indonésia, Israel, Japão, Malásia, Noruega, Nova Zelândia, Rússia, Suíça, Turquia e a União Europeia.",
+                "O IWG vem negociando novo acordo internacional para fixar as regras que os países deverão seguir ao oferecer financiamento para as suas exportações. Algumas dessas regras envolvem, por exemplo, o percentual máximo que poderá ser financiado pelos governos em uma operação de exportação, o prazo máximo para a quitação do valor financiado ou as taxas de juros a serem aplicadas.",
+                "Regras comuns na área de créditos oficiais à exportação são essenciais: elas contribuem para que a competição entre as exportações dos diferentes países se dê com base no preço e na qualidade dos bens e serviços ofertados, em vez de ser determinada por condições mais vantajosas de financiamento."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-17-21h39-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-20a_reuniao_do_grupo_de_trabalho_internacional_sobre_creditos_a_exportacao_-_17_a_19_de_setembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/17"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "236"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "15": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Calendário de eventos entre 13 e 20 de setembro de 2019",
+            "subtitulo": "",
+            "data": "13/09/2019",
+            "horario": "20h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/calendario-de-eventos-entre-13-e-20-de-setembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "26/AGO a 20/SET – Genebra, Suíça. 22a sessão do Comitê sobre os Direitos das Pessoas com Deficiência (continuação).",
+                "9 a 27/SET – Genebra, Suíça. 42a sessão do Conselho de Direitos Humanos (continuação).",
+                "9 a 27/SET – Genebra, Suíça. 82a sessão do Comitê para os Direitos da Criança (continuação).",
+                "14/SET – Istambul, Turquia. Português: um presente para a vida toda: Oficina sobre Português como Língua de Herança e Educação Bilíngue.",
+                "15/SET – Houston, EUA. Realização das provas do Encceja Exterior 2019, pela primeira vez na jurisdição do Posto.",
+                "15 a 17/SET – Natal, Brasil. 37o. Encontro Econômico Brasil-Alemanha.",
+                "16/SET – Acra, Gana. Encontro de networking empresarial na residência do Brasil.",
+                "16 a 19/SET – Moscou, Rússia. VI Conferência dos BRICS sobre Concorrência.",
+                "16/SET – Paris, França. Reunião sobre o futuro do Bureau Internacional de Educação (BIE), presidida pela Diretora-Geral Adjunta para Educação da UNESCO, Senhora Stefania Giannini.",
+                "16/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião do Grupo Amigos da Biodiversidade.",
+                "16/SET – Genebra, Suíça. IGDC - Grupo Informal dos Países em Desenvolvimento da OMC (Organização Mundial do Comércio).",
+                "16 e 17/SET – San José, Costa Rica. \"I Jornada Migratoria: abordaje de población migrante en situaciones de vulnerabilidade”.",
+                "16 a 20/SET – Genebra, Suíça. 119a sessão do Grupo de Trabalho sobre desaparecimentos forçados e involuntários.",
+                "17/SET – Natal, Brasil. 46a Reunião da Comissão Mista de Cooperação Econômica Brasil-Alemanha (COMISTA).",
+                "17/SET – Seul, Coreia do Sul. Programa \"Open Campus\". Prefeitura Metropolitana de Seul e Ministério dos Negócios Estrangeiros da Coreia do Sul. Colóquio entre representantes da Embaixada do Brasil em Seul e quarenta cidadãos coreanos para a promoção da cultura brasileira.",
+                "17/SET – Damasco, Síria. Abertura da feira comercial \"Rebuild Syria Exhibition 2019\".",
+                "17/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião informativa sobre Afeganistão.",
+                "17/SET – Genebra, Suíça. Encontro de Vice-Ministros do Grupo de Ottawa da OMC (Organização Mundial do Comércio).",
+                "17/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião do Comitê de Segurança Alimentar Mundial (CSA) sobre silvicultura sustentável para a segurança alimentar e nutrição.",
+                "17/SET – Genebra, Suíça. “Brazilian Day” – Dia do Brasil organizado pela Delegação junto à OMC juntamente com a Missão do Brasil junto à ONU e o Consulado-Geral do Brasil em Genebra para celebração da Data Nacional na OMPI (Organização Mundial da Propriedade Intelectual).",
+                "17 e 18/SET – Genebra, Suíça. Reunião formal do Comitê de Acordos Regionais de Comércio da OMC (Organização Mundial do Comércio).",
+                "17 a 19/SET – Brasília, Brasil. 20a Reunião do Grupo de Trabalho Internacional sobre Créditos à Exportação.",
+                "17 a 20/SET – Genebra, Suíça. Comitê Consultivo Independente de Supervisão da Organização Mundial da Propriedade Intelectual. Quadragésima Quarta Reunião.",
+                "17 a 22/SET – Moscou, Rússia. XII Festival de Cinema Brasileiro na Rússia.",
+                "18/SET – Acra, Gana. Festa Nacional do Chile na residência do Chile.",
+                "18/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Conferência “Mais de 2000 anos de Dieta Mediterrânea - A dimensão cultural da alimentação”.",
+                "18/SET – Genebra, Suíça. Segunda reunião preparatória para a IV Conferência de Exame da Convenção sobre a proibição do uso, armazenamento, produção e transferência de minas antipessoais e sobre sua destruição (Convenção de Ottawa).",
+                "18/SET – Genebra, Suíça. Comitê informal de Licenciamento de Importação da OMC (Organização Mundial do Comércio).",
+                "18 e 19/SET – Genebra, Suíça. 76a sessão do Comitê Permanente do ACNUR.",
+                "18 e 19/SET – Genebra, Suíça. Seminário do Conselho Executivo da UNITAID.",
+                "18 e 20/SET – Genebra, Suíça. Revisão de Políticas Comerciais – Costa Rica - OMC (Organização Mundial do Comércio).",
+                "19/SET – Moscou, Rússia. “Sabores do Brasil”, evento de produtos brasileiros (carnes, frutas e queijos).",
+                "19/SET – Roma, Itália. Programa Mundial de Alimentos (PMA). Reuniões trimestrais sobre Supervisão e Ética.",
+                "19/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião do Mecanismo da Sociedade Civil e dos Povos Indígenas (CSA).",
+                "19/SET – Genebra, Suíça. Oficina sobre armas hipersônicas - Organizado pela UNIDIR - Instituto das Nações Unidas para Pesquisa sobre Desarmamento.",
+                "19 e 20/SET – Genebra, Suíça. Reunião técnica na OMS sobre desenvolvimento da “Global Benchmarking Tool” – GBT.",
+                "20/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião do Bureau do Comitê de Segurança Alimentar Mundial (CSA).",
+                "20/SET – Reunião de investidores canadenses com Secretário Executivo da Casa Civil da Presidência da República, Sr. José Vicente Santini, com a participação de cerca de 25 empresas e fundos de pensão.",
+                "20/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Comemoração do 50o aniversário da Associação das Mulheres das Nações Unidas (UNWG) com sede em Roma.",
+                "20/SET a 04/OUT – Tirana, Albânia. Mostra fotográfica \"Brasília- Modernism Yesterday and Today\", no âmbito da Tirana Design Week, Polis University.",
+                "Calendário de reuniões da Presidência Pro Tempore Brasileira do Mercosul 2019 – O calendário pode ser consultado neste link: http://www.mercosul.gov.br/presidencia-pro-tempore-brasileira"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-13-20h45-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_13_e_20_de_setembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/13"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "235"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "16": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Equador abre o mercado de bovinos vivos para o Brasil – Nota Conjunta dos Ministérios das Relações Exteriores, e da Agricultura, Pecuária e Abastecimento",
+            "subtitulo": "",
+            "data": "11/09/2019",
+            "horario": "22h17",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/equador-abre-o-mercado-de-bovinos-vivos-para-o-brasil-nota-conjunta-dos-ministerios-das-relacoes-exteriores-e-da-agricultura-pecuaria-e-abastecimento",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministério da Agricultura recebeu hoje comunicação das autoridades do Equador informando da aceitação do Certificado Zoosanitário Internacional proposto pelo Brasil para a exportação de bovinos vivos, concluindo, assim, negociações para a abertura daquele mercado, iniciadas em 2014.",
+                "O Brasil exportou, em 2018, 535 milhões de dólares em bovinos vivos, para todos os continentes, além de 6,5 bilhões de dólares em carne bovina. A exportação de animais vivos diversifica a pauta exportadora brasileira e oferece uma alternativa para os produtores rurais de todo o país.",
+                "O avanço do Brasil no mercado de bovinos vivos é um testemunho do alto padrão genético e da qualidade dos animais brasileiros e um reconhecimento da confiança internacional na defesa agropecuária brasileira.",
+                "Mais sobre as relações bilaterais Brasil-Equador"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-11-22h17-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-equador_abre_o_mercado_de_bovinos_vivos_para_o_brasil_-_nota_conjunta_dos_ministerios_das_relacoes_exteriores,_e_da_agricultu....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/11"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "234"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "17": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita ao Brasil do Ministro de Relações Exteriores do Paraguai, Antonio Rivas Palacios – Brasília, 9 de setembro de 2019",
+            "subtitulo": "",
+            "data": "06/09/2019",
+            "horario": "23h49",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/visita-ao-brasil-do-ministro-de-relacoes-exteriores-do-paraguai-antonio-rivas-palacios",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministro das Relações Exteriores, Ernesto Araújo, receberá o Ministro de Relações Exteriores da República do Paraguai, Antonio Rivas Palacios, em Brasília, no dia 9 de setembro. Trata-se da primeira visita bilateral do chanceler paraguaio após sua nomeação, em julho passado.",
+                "Na reunião, os Ministros examinarão os principais temas da agenda bilateral, com destaque para os projetos de integração física e a cooperação em segurança. Serão discutidos, igualmente, temas de interesse mútuo das agendas regional e multilateral.",
+                "O Brasil é o principal parceiro comercial do Paraguai. O Brasil absorve cerca de um terço das exportações paraguaias. Em 2018, o intercâmbio comercial foi de US$ 4,07 bilhões, o que representou incremento de 7,6 % em relação ao ano anterior, com superávit brasileiro de US$ 1,75 bilhão. O Brasil mantém, ainda, o segundo maior estoque de investimentos diretos no Paraguai, estimado em US$ 970 milhões.",
+                "Em 2019, Brasil e Paraguai celebram 175 anos do estabelecimento de relações diplomáticas.",
+                "Mais sobre as relações bilaterais Brasil-Paraguai"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-06-23h49-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_ministro_de_relacoes_exteriores_do_paraguai,_antonio_rivas_palacios_-_brasilia,_9_de_setembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/06"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "233"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "18": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Calendário de eventos entre 6 e 13 de setembro de 2019",
+            "subtitulo": "",
+            "data": "06/09/2019",
+            "horario": "22h01",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/calendario-de-eventos-entre-6-e-13-de-setembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "26/AGO a 20/SET – Genebra, Suíça. 22a sessão do Comitê sobre os Direitos das Pessoas com Deficiência (continuação).",
+                "9/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Seminário informal para Representantes Permanentes com o Diretor-Geral da FAO, Dr. Qu Dongyu.",
+                "9 e 10/SET – Nova York, EUA. 2a sessão Regular da Junta Executiva da Entidade das Nações Unidas para Igualdade de Gênero e o Empoderamento das Mulheres.",
+                "9 a 12/SET – Roma, Itália. Fundo Internacional de Desenvolvimento Agrícola (FIDA). 127a Sessão da Junta Executiva do FIDA.",
+                "09 a 13/SET – Genebra, Suíça. Grupo Negociador de Regras (Bloco de Reuniões sobre Subsídios à Pesca).",
+                "9 a 13/SET – Nova York, EUA. 1a sessão Substantiva sobre Informação e Telecomunicações no Contexto da Segurança Internacional.",
+                "9 a 13/SET – Londres, Reino Unido.  6a Sessão do Subcomitê de Transporte de Cargas e Contêineres (CCC) da Organização Marítima Internacional (IMO).",
+                "9 a 27/SET – Genebra, Suíça. 42a sessão do Conselho de Direitos Humanos.",
+                "9 a 27/SET – Genebra, Suíça. 82a sessão do Comitê para os Direitos da Criança.",
+                "10/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Plenária do Grupo dos 77 e China.",
+                "10/SET – Genebra, Suíça. Órgão de Solução de Controvérsias.",
+                "11/SET – Genebra, Suíça. Reunião do Grupo de Ottawa.",
+                "11/SET – Amã, Jordânia. Reunião da Subcomissão da UNRWA.",
+                "11 a 13/SET – Genebra, Suíça. Revisão de Política Comercial do Suriname.",
+                "11 a 13/SET – Nova York, EUA. 2a sessão Regular da Junta Executiva do Fundo das Nações Unidas para a Infância (UNICEF).",
+                "12/SET – Genebra, Suíça. Reunião Bilateral sobre Agricultura Brasil-EUA.",
+                "13/SET – Roma, Itália. Programa Mundial de Alimentos (PMA). Reunião conjunta das Juntas Executivas das Agências das Nações Unidas com sede em Roma.",
+                "11 a 15/SET – Bucareste, Romênia. \"Focus Brasil\" do Festival Película Latin American Experience de Bucareste, com exibição de filmes brasileiros e promoção da cultura nacional.",
+                "Calendário de reuniões da Presidência Pro Tempore Brasileira do Mercosul 2019 – O calendário pode ser consultado neste link: http://www.mercosul.gov.br/presidencia-pro-tempore-brasileira"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-06-22h01-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_6_e_13_de_setembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/06"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "232"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "19": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Bahamas – passagem do furacão Dorian",
+            "subtitulo": "",
+            "data": "06/09/2019",
+            "horario": "00h08",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/bahamas-passagem-do-furacao-dorian-2",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro manifesta seu profundo pesar ao povo e ao governo das Bahamas pela perda de vidas humanas e a destruição material causadas nos últimos dias pela passagem do furacão Dorian, sobretudo nas ilhas Ábaco e Grand Bahama.",
+                "Ao manifestar sua solidariedade com o povo bahamense, o governo brasileiro informa que, em resposta ao apelo recebido, decidiu fazer doação de 100 mil dólares para contribuir com o esforço de assistência humanitária emergencial àquela nação amiga.",
+                "A embaixada do Brasil em Nassau encontra-se em estado de alerta para atender qualquer emergência envolvendo cidadãos brasileiros."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-06-00h08-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-bahamas_-_passagem_do_furacao_dorian.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/06"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "231"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "20": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Ações de grupo dissidente das FARC contra o processo de paz na Colômbia",
+            "subtitulo": "",
+            "data": "05/09/2019",
+            "horario": "23h56",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/acoes-de-grupo-dissidente-das-farc-contra-o-processo-de-paz-na-colombia",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro repudia veementemente a ameaça de um grupo dissidente das Forças Armadas Revolucionárias da Colômbia - Exército do Povo (FARC-EP) de retomar a luta armada e condena o regime ilegítimo da Venezuela por oferecer respaldo aos dissidentes.",
+                "Ao reiterar seu compromisso permanente com a preservação da paz e a manutenção da estabilidade regional, o Brasil manifesta seu apoio ao governo colombiano e aos esforços para reincorporação de ex-combatentes à sociedade colombiana dentro de um marco de legalidade.",
+                "O Brasil reitera sua disposição de contribuir, na medida de suas possibilidades e de acordo com o que solicite o governo colombiano, com o processo de paz na Colômbia."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-05-23h56-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-acoes_de_grupo_dissidente_das_farc_contra_o_processo_de_paz_na_colombia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/05"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "230"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "21": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita oficial ao Brasil do Ministro da Justiça do Cameroun, Laurent Esso – Nota conjunta do Ministério das Relações Exteriores e do Ministério da Justiça e Segurança Pública",
+            "subtitulo": "",
+            "data": "05/09/2019",
+            "horario": "16h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/visita-oficial-ao-brasil-do-ministro-da-justica-do-cameroun-laurent-esso-nota-conjunta-do-ministerio-das-relacoes-exteriores-e-do-ministerio-da-justica-e-seguranca-publica",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministro de Estado da Justiça da República do Cameroun, Laurent Esso, realizou visita oficial ao Brasil nos dias 2 e 3 de setembro, quando manteve agenda de reuniões com o Ministro da Justiça e da Segurança Pública, Sérgio Moro, o Ministro das Relações Exteriores, Ernesto Araújo e o Presidente do Supremo Tribunal Federal, Ministro Dias Toffoli.",
+                "Durante a visita, foram assinados dois acordos de cooperação jurídica entre Brasil e Cameroun: o Acordo de Transferência de Pessoas Condenadas a Penas Privativas de Liberdade e o Tratado de Extradição.",
+                "Os dois países têm interesses e perspectivas compartilhados, notadamente na promoção da paz e da segurança internacional, no combate à criminalidade transnacional e na cooperação bilateral para promover o mútuo desenvolvimento.",
+                "Mais sobre as relações bilaterais Brasil-Cameroun"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-05-16h30-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_oficial_ao_brasil_do_ministro_da_justica_do_cameroun,_laurent_esso_-_nota_conjunta_do_ministerio_das_relacoes_exterior....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/05"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "229"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "22": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Declarações  da Alta Comissária das Nações Unidas para os Direitos Humanos",
+            "subtitulo": "",
+            "data": "04/09/2019",
+            "horario": "22h56",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/declaracoes-da-alta-comissaria-das-nacoes-unidas-para-os-direitos-humanos",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro recebeu com indignação as declarações à imprensa, na manhã de hoje, em Genebra, pela Alta Comissária das Nações Unidas para os Direitos Humanos. Ao rejeitar firmemente essas alegações, o Governo vem restabelecer os fatos sobre a real situação dos direitos humanos no Brasil.",
+                "Não é a primeira vez que a Alta Comissária trata o Brasil com descaso pela verdade factual: recentemente, antes que fossem concluídas as investigações sobre a causa da morte de indígena wajãpi, precipitou-se em afirmar que se tratava de assassinato, o que mais tarde se revelou inverídico.",
+                "O Brasil se orgulha da solidez e da resiliência de sua democracia. Nos mais de trinta anos passados desde a promulgação da Constituição Federal de 1988, o país demonstrou notável estabilidade institucional, que lhe permitiu atravessar, inclusive, graves julgamentos sobre corrupção, como o “mensalão” e a “lava jato”.",
+                "Democraticamente eleito com mais de 57 milhões de votos, o Governo do Presidente Jair Bolsonaro recebeu claro mandato da população para garantir seu pleno exercício do direito à vida, à segurança, à integridade física e à propriedade, entre outros.",
+                "A valorização da atividade das forças policiais constitui componente fundamental desse projeto, que já começa a mostrar bons resultados: apenas nos quatro primeiros meses de 2019, as taxas de homicídios dolosos e latrocínios no Brasil caíram 21,2%, segundo o Sistema Nacional de Segurança Pública. Medidas adicionais a respeito do porte e da posse de armas de fogo, em exame pelas instituições competentes, inserem-se nesse contexto de fortalecimento da capacidade dos brasileiros de se prevenirem e se defenderem da violência e da insegurança.",
+                "O claro compromisso do Governo brasileiro com o combate ao crime não significa o aumento do encarceramento de forma indiscriminada. Ao contrário, a Coordenação de Monitoração Eletrônica e Alternativas Penais busca o desencarceramento e a ressocialização daqueles que não necessitam ser segregados do convívio social.",
+                "Outra grave imprecisão da Alta Comissária diz respeito à suposta redução do espaço da sociedade civil no Brasil. Ao contrário do que foi inferido sem qualquer evidência concreta, o espaço cívico e democrático encontra-se vivo e em expansão no Brasil.",
+                "Da mesma forma, o Brasil lamenta os erros factuais das declarações da Alta Comissária acerca dos incêndios que afetam a região amazônica. Esses equívocos transmitem visão equivocada e ideologicamente contaminada sobre a política ambiental brasileira, além de desconhecimento da realidade amazônica.",
+                "Os incêndios florestais na Amazônia são fenômeno sazonal, frequentes durante a estação seca. Os índices atuais encontram-se muito próximos à média dos últimos 20 anos e estão muito abaixo dos números verificados entre 2002 e 2005, em 2007 e em 2010.",
+                "A Alta Comissária também parece desconsiderar as ações do Governo brasileiro, como a mobilização das Forças Armadas, para combater os focos de incêndio. Essas medidas evidenciam o engajamento do país em favor da Amazônia e do desenvolvimento sustentável da região. A Operação Verde Brasil conta, até o momento, com efetivo de mais de 4.500 pessoas, cerca de 250 viaturas e 11 aeronaves. Ao todo, as Forças Armadas mantêm contingente de 43 mil militares mobilizados para atuar na região amazônica, conforme a necessidade.",
+                "Causa surpresa a atenção desproporcional e injustificada dispensada ao Brasil no diálogo da Alta Comissária com a imprensa. No momento em que, por exemplo, a Venezuela vive crise humanitária em escala sem precedente, que afeta toda a região, o Alto Comissariado deveria concentrar seus esforços no encaminhamento de questões mais urgentes, evitando precipitações, falsidades e ilações indevidas ao comentar a política interna de um país democrático como o Brasil, onde os três poderes funcionam em absoluta independência e vigora o pleno Estado de Direito.",
+                "O Governo brasileiro coloca-se à disposição para fornecer as eventuais informações pertinentes, de forma a evitar equívocos desnecessários, sempre que a Alta Comissária desejar se pronunciar sobre a realidade do Brasil."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-04-22h56-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-declaracoes_da_alta_comissaria_das_nacoes_unidas_para_os_direitos_humanos.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/04"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "228"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "23": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita ao Brasil do ministro das Relações Exteriores da República do Chile, Teodoro Ribera – Brasília, 5 de setembro de 2019",
+            "subtitulo": "",
+            "data": "04/09/2019",
+            "horario": "12h36",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/visita-ao-brasil-do-ministro-das-relacoes-exteriores-da-republica-do-chile-teodoro-ribera-brasilia-5-de-setembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O ministro das Relações Exteriores do Chile, Teodoro Ribera, realizará visita a Brasília no dia 5 de setembro de 2019, ocasião em que manterá encontro de trabalho com o chanceler Ernesto Araújo.",
+                "Os ministros discutirão os principais temas da agenda bilateral, com ênfase em comércio e investimentos; combate a crimes transnacionais; cooperação científica e tecnológica; e cooperação antártica. Passarão em revista, igualmente, temas da agenda regional, em particular a aproximação entre o MERCOSUL e a Aliança do Pacífico; o panorama da integração sul-americana; o empenho regional pela restauração da democracia na Venezuela; cooperação no combate às queimadas na Amazônia; e o Corredor Bioceânico que conectará Porto Murtinho (MS) aos portos do Norte do Chile.",
+                "O Chile é o segundo maior parceiro comercial do Brasil na América do Sul. O Brasil, por sua vez, é o principal parceiro do Chile na região. Em 2018, o intercâmbio comercial entre os dois países foi de US$ 9,8 bilhões. O Brasil concentra o maior estoque de investimentos externos chilenos, o qual ultrapassa US$ 35 bilhões. No sentido inverso, o estoque de investimentos brasileiros no Chile alcança US$ 4,5 bilhões.",
+                "Mais sobre as relações bilaterais Brasil-Chile"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-04-12h36-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_ministro_das_relacoes_exteriores_da_republica_do_chile,_teodoro_ribera_-_brasilia,_5_de_setembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/04"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "227"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "24": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Não imposição, pelo Governo da Argentina, de direito antidumping às exportações brasileiras de placas de madeira – Nota conjunta do Ministério das Relações Exteriores e do Ministério da Economia",
+            "subtitulo": "",
+            "data": "02/09/2019",
+            "horario": "15h53",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/nao-imposicao-pelo-governo-da-argentina-de-direito-antidumping-as-exportacoes-brasileiras-de-placas-de-madeira-nota-conjunta-do-ministerio-das-relacoes-exteriores-e-do-ministerio-da-economia",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro tomou conhecimento, com satisfação, do encerramento da investigação antidumping da Argentina sobre placas de madeira exportadas pelo Brasil, sem a adoção de qualquer sobretaxa. A autoridade investigadora argentina concluiu que não houve dumping nas exportações brasileiras para aquele país.",
+                "Por meio de atuação coordenada entre o Ministério das Relações Exteriores e o Ministério da Economia, o Governo brasileiro acompanhou todas as etapas da investigação conduzida pela Argentina, buscando demonstrar que não havia justificativas para a imposição de direito antidumping.",
+                "Trata-se de resultado positivo para os exportadores brasileiros e para a relação econômico-comercial entre Brasil e Argentina."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-09-02-15h53-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-nao_imposicao,_pelo_governo_da_argentina,_de_direito_antidumping_as_exportacoes_brasileiras_de_placas_de_madeira_-_nota_conju....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/09/02"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "226"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        }
+    }
+}

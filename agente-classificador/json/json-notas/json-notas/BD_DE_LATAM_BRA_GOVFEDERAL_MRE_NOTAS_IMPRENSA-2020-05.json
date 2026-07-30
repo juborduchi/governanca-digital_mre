@@ -1,0 +1,253 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Declaração Conjunta dos Governos da República Federativa do Brasil e dos Estados Unidos da América relativa à Cooperação em Saúde",
+            "subtitulo": "",
+            "data": "31/05/2020",
+            "horario": "21h51",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2020/declaracao-conjunta-dos-governos-da-republica-federativa-do-brasil-e-dos-estados-unidos-da-america-relativa-a-cooperacao-em-saude-2",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O povo brasileiro e o povo norte-americano solidarizam-se na luta contra o coronavírus. Hoje, como demonstração dessa solidariedade, anunciamos que o governo dos EUA entregou dois milhões de doses de hidroxicloroquina (HCQ) para a população do Brasil. Os Estados Unidos também enviarão em breve 1000 ventiladores para o Brasil.",
+                "A HCQ será usada como profilático para ajudar a defender enfermeiros, médicos e profissionais de saúde do Brasil contra o vírus. Ela também será utilizada no tratamento de brasileiros infectados.",
+                "Além disso, como continuação da colaboração de longa data dos dois países em questões de saúde, também estamos anunciando um esforço de pesquisa conjunto Brasil-Estados Unidos, que incluirá testes clínicos controlados randomizados. Esses testes ajudarão em avaliações adicionais sobre a segurança e a eficácia da HCQ tanto para a profilaxia quanto para o tratamento precoce do coronavírus.",
+                "Seguindo adiante, o Brasil e os Estados Unidos continuarão em estreita coordenação na luta compartilhada contra a pandemia do coronavírus e na resposta regional em curso para salvaguardar a saúde pública, limitar ainda mais a disseminação do coronavírus, avançar no desenvolvimento inicial de uma vacina e salvar vidas. Tendo o Presidente Bolsonaro e o Presidente Trump conversado duas vezes desde março, os dois países estão bem posicionados para continuar seu trabalho conjunto no enfrentamento da pandemia do coronavírus, bem como em outros assuntos de importância estratégica.",
+                "[Texto em inglês]",
+                "Joint Statement from the Governments of the United States of America and the Federative Republic of Brazil regarding Health Cooperation",
+                "The American and Brazilian people stand in solidarity in the fight against the coronavirus. Today, as a demonstration of that solidarity, we are announcing the United States Government has delivered two million doses of hydroxychloroquine (HCQ) to the people of Brazil. The United States will also soon be sending 1,000 ventilators to Brazil.",
+                "HCQ will be used as a prophylactic to help defend Brazil’s nurses, doctors, and healthcare professionals against the virus. It will also be used as a therapeutic to treat Brazilians who become infected.",
+                "Further, in continuation of the two countries’ longstanding collaboration on health issues, we are also announcing a joint United States-Brazilian research effort that will include randomized controlled clinical trials. These trials will help further evaluate the safety and efficacy of HCQ for both prophylaxis and the early treatment of the coronavirus.",
+                "Going forward, the United States and Brazil will remain in close coordination in the shared fight against the coronavirus pandemic and the ongoing regional response to safeguard public health, further limit the spread of the coronavirus, advance the early development of a vaccine, and save lives. With President Donald J. Trump and President Jair Bolsonaro having spoken twice since March, the two countries are well-positioned to continue their work together to address the coronavirus pandemic, in addition to other matters of strategic importance."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2020-05-31-21h51-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-declaracao_conjunta_dos_governos_da_republica_federativa_do_brasil_e_dos_estados_unidos_da_america_relativa_a_cooperacao_em_s....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2020/05/31"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2020-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "62"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Centenário do estabelecimento das relações diplomáticas Brasil - Polônia",
+            "subtitulo": "",
+            "data": "27/05/2020",
+            "horario": "16h37",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2020/nota-conjunta-centenario-do-estabelecimento-das-relacoes-diplomaticas-brasil-polonia",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Mensagens do Ministro das Relações Exteriores Ernesto Araújo e do Ministro dos Negócios Estrangeiros Jacek Czaputowicz",
+                "Centenário do estabelecimento das relações diplomáticas Brasil - Polônia – Nota Conjunta",
+                "Os presidentes do Brasil e da Polônia, Jair Bolsonaro e Andrzej Duda, em conversa telefônica, congratularam-se pelo centenário do estabelecimento das relações diplomáticas entre os dois países. Na ocasião, confirmaram o desejo de aprofundar a cooperação bilateral em prol da prosperidade de seus povos e do fortalecimento da posição internacional de ambos os países.",
+                "Há 100 anos, a formalização do relacionamento bilateral reforçava os laços de amizade que uniam os povos das duas nações. A partir das últimas décadas do século XIX, fluxos sucessivos de imigrantes poloneses já chegavam ao Brasil, aportando significativa contribuição ao desenvolvimento do País e dando origem à segunda maior comunidade de descendentes de poloneses no mundo.",
+                "Recentemente, Brasil e Polônia têm estreitado, ainda mais, a colaboração em torno da comunhão de valores e da defesa da liberdade, da democracia e da economia de mercado. Os encontros de alto nível entre autoridades dos dois países têm sido cada vez mais frequentes, conferindo lastro político a iniciativas nos planos bilateral e multilateral. O diálogo entre os dois países tem-se intensificado em áreas como defesa, cultura, educação e esportes.",
+                "A conversa dos presidentes abrangeu também as consequências globais da pandemia, especialmente no contexto da coordenação econômica em foros como o G20 e a Iniciativa Três Mares, e à luz de novas conexões da economia global. Os líderes do Brasil e da Polônia enfatizaram que ambos os países estão abertos a intensificar as relações econômicas e de investimento bilaterais, o que contribuirá para a superação da crise.",
+                "No plano internacional, Brasil e Polônia colaboram estreitamente no âmbito do “Processo de Varsóvia” e no contexto das Nações Unidas promovem iniciativas como a \"Aliança para a Liberdade Religiosa\" e a \"Parceria para as Famílias\", que refletem o apreço mútuo pela liberdade e os valores que embasam a formação de nossas sociedades."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2020-05-27-16h37-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-centenario_do_estabelecimento_das_relacoes_diplomaticas_brasil_-_polonia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2020/05/27"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2020-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "61"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Intervenção do Ministro Ernesto Araújo por ocasião da reunião informal do Conselho de Segurança das Nações Unidas relativa aos 75 anos do fim da 2ª Guerra Mundial – 8 de maio de 2020",
+            "subtitulo": "",
+            "data": "08/05/2020",
+            "horario": "23h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2020/intervencao-do-ministro-ernesto-araujo-por-ocasiao-da-reuniao-informal-do-conselho-de-seguranca-das-nacoes-unidas-relativa-aos-75-anos-do-fim-da-2-guerra-mundial-8-de-maio-de-2020",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "[tradução para português]: Obrigado senhor presidente, prezados colegas e amigos, Começo congratulando o ministro Urmas Reinsalu da Estônia por organizar esta reunião, no dia que marca o 75o aniversário do fim da Segunda Guerra Mundial na Europa e no momento em que enfrentamos, talvez, o maior desafio à comunidade das nações desde aqueles dias trágicos. Por que se lutou a Segunda Guerra Mundial? As pessoas lutaram pela dignidade humana, contra o racismo e contra o antissemitismo. E as pessoas lutaram por liberdade. Não devemos nos esquecer disto. Liberdade não vem de graça. Liberdade requer disposição permanente para lutar, para protegê-la e promovê-la. Esperemos nunca mais precisar lutar pela liberdade em guerras totais como aquela, embora devamos lutar pela liberdade todos os dias. Aqui, hoje, celebramos a paz – a Paz que vem da luta, a luta justa e necessária. Muitos milhões de indivíduos derramaram seu sangue pela liberdade naquele momento, dentre os quais muitos brasileiros, visto que o Brasil teve importante participação no esforço de guerra, enviando 25.000 soldados para lutar na Itália com os Aliados contra as forças nazistas. Ter ajudado a liberar a Itália e, portanto, a Europa da tirania nazifascista talvez seja o maior orgulho do Brasil. Há setenta e cinco anos a liberdade e a democracia prevaleceram contra o totalitarismo graças ao sacrifício de pessoas reais: de americanos, russos, britânicos, poloneses, estonianos, canadenses, franceses, chineses, brasileiros e muitos outros. Mas outra forma de totalitarismo, depois da Guerra, lançou sua sombra por muito tempo sobre metade da humanidade. Essa forma de totalitarismo, durante as décadas seguintes, tentou manipular as Nações Unidas a seu favor. Essa forma de totalitarismo tentou sequestrar e perverter essa nobre iniciativa que é a Organização das Nações Unidas. Infelizmente, a ideologia no centro dessa forma de totalitarismo não está morta. Ao longo dos anos, essa ideologia sempre trabalhou com o mesmo princípio de sequestro e perversão. Tentaram sequestrar e perverter causas e conceitos nobres, como direitos humanos, justiça, proteção ambiental. Não permitamos que a saúde seja mais uma vítima a ser sequestrada por essa ideologia e pervertida para servir a objetivos totalitários. Vamos libertar todas essas boas e nobres causas, como direitos humanos, justiça e meio ambiente. Vamos libertá-las da manipulação e da escravização pelas ideologias totalitárias. Estamos comprometidos a trabalhar de maneira construtiva em fóruns internacionais. Mas creio que devemos evitar a palavra \"multilateralismo\" ao falar de instituições internacionais ou de multilaterais. Palavras terminadas em \"ismo\" normalmente designam ideologias: Fascismo, Nazismo e Comunismo. Não vamos fazer do \"multilateralismo\" uma ideologia. O oposto de todas as ideologias não é outra ideologia. O oposto de todas as ideologias é a liberdade. Note que não dizemos \"liberdadismo\". Dizemos liberdade. Portanto, não tornemos o multilateralismo outro sistema de pensamento que nega a realidade e que tenta impor-se à realidade. Vamos fazer das instituições multilaterais uma plataforma para trabalhar pela verdade e pela liberdade. A pandemia do COVID é provavelmente a maior crise desde a Segunda Guerra Mundial. Não vamos deixar outra forma de totalitarismo emergir agora, como a que emergiu após a Segunda Guerra Mundial. De fato, uma nova ordem certamente emergirá desta crise, só não sabemos ainda o formato que assumirá. Essa nova ordem a emergir terá mais liberdade ou menos liberdade. Terá mais dignidade humana ou menos dignidade humana. E a opção que todos preferimos, o caminho que todos desejamos percorrer, o caminho em direção a mais liberdade e mais dignidade humana, é o caminho das nações. Nações não são o problema. As nações são os bons moços nesta foto. Nações, agindo em coordenação, obviamente, por meio desta ONU e de outros foros. A Organização das Nações Unidas deve, portanto, ser um espaço de coordenação entre nações independentes, e não um instrumento para substituí-las. Os países aqui reunidos devem fazer uso deste espaço para identificar os desafios enfrentados atualmente pela humanidade. Se a Organização das Nações Unidas ignorar os desafios reais de hoje e, em vez disso, optar por jargões politicamente corretos, seu papel estará diminuído. A ONU não deve ser um esforço para encontrar uma base comum entre liberdade e totalitarismo, e muito menos para promover o totalitarismo sub-repticiamente. A liberdade e a democracia devem estar no centro das ações da ONU. E a fonte da democracia são as pessoas. Pessoas organizadas nos Estados-nação, com sua soberania, orgulhosas de si mesmas. O Brasil, hoje, coloca-se inequivocamente em favor da democracia e da soberania. A soberania do povo livre. Não caiamos no equívoco de vilipendiar aqueles que defendem a soberania, não desprezemos os que defendem o sentimento nacional. Sem nações soberanas, não há liberdade. Esse postulado não deriva da lógica abstrata, e sim da história, do sacrifício real de milhões de pessoas, da natureza das coisas, da essência do ser humano. Portanto, o sentimento nacional não é o problema do mundo atual. Ao contrário, o problema é a erosão da soberania, que deixa as nações sujeitas à perda de liberdade. No Brasil, estamos empenhados em colocar o “demos”, o povo, de volta à democracia, conforme o preceito de nossa Constituição de que todo poder emana do povo. Esse é o caminho para a liberdade. E o Brasil hoje, assim como fizemos na Segunda Guerra Mundial, defende a liberdade. Obrigado.",
+                "[Texto em inglês]:",
+                "Thank you Mr. President, dear colleagues and friends,",
+                "I wish to start by congratulating Minister Urmas Reinsalu of Estonia for organizing this meeting, on the day where we mark the 75th anniversary of the end of WW2 in Europe, at a moment when we face perhaps the gravest challenge to the community of nations since those tragic days.",
+                "Why was the Second World War fought? People fought for human dignity, against racism, against anti-semitism. And people fought for freedom. Let us not forget that. Freedom does not come for free. Freedom requires the permanent will to fight, to protect it and to foster it. Hopefully we will never have to fight for freedom in all-out wars like that one, but we must fight everyday.",
+                "So here, today, we celebrate peace – a Peace that came from a fight, a just and necessary fight. Many millions of people shed their blood for freedom back then, among them many Brazilians, since Brazil took an important part in the war effort, sending 25,000 troops to fight in Italy along with the Allies against Nazi forces. To have helped liberate Italy and thus Europe from Nazi-fascist tyranny is perhaps Brazil ́s greatest pride.",
+                "Seventy-five years ago, freedom and democracy prevailed against totalitarianism thanks to the sacrifice of real people: of Americans, Russians, British, Poles, Estonians, Canadians, French, Chinese, Brazilians and many others. But another form of totalitarianism, after the War, threw its shadow for a long time over half of mankind. That form of totalitarianism, during the following decades, tried to manipulate the United Nations in its favor. That form of totalitarianism tried to hijack and pervert this noble endeavor which is the Organization of the United Nations. The ideology at the core of that form of totalitarianism is unfortunately not dead. Along the years, that ideology always has worked by that same principle of hijack-and-pervert. They tried to hijack and pervert noble causes and concepts, such as human rights, justice, environmental protection. Let us not allow health to be one more victim to be hijacked by that ideology, and perverted to serve totalitarian goals.",
+                "Let us liberate all those good and noble causes, such as human rights, justice, and the environment. Let us free them from the manipulation and enslavement to totalitarian ideologies.",
+                "We are committed to working constructively in international fora. But I think we should avoid the word “multilateralism” to talk about international or multilateral institutions. Words ending in “ism” normally designate ideologies: Fascism, Nazism and Communism. Let’s not make “multilateralism” an ideology. The opposite of all ideologies is not another ideology. The opposite of all ideologies is freedom. You notice that we don ́t say “freedomism”. We say freedom. So let ́s make multilateralism not another system of thought that denies reality and tries to impose itself on reality. Let ́s make multilateral institutions a platform to work for truth and for freedom.",
+                "The COVID pandemic is probably the largest crisis since World War 2. Let us not leave another form of totalitarianism to emerge now, as the one that emerged after World War 2. Indeed a new order will certainly emerge from this crisis, we just don ́t know yet what shape it will take.",
+                "This new order to emerge will either have more freedom or it will have less freedom. It will either have more human dignity or less human dignity. And the option we all prefer, the road we all want to transit, the road towards more freedom and more human dignity, is the road of nations.",
+                "Nations are not the problem. Nations are the good guys in this picture. Nations, acting in coordination of course, through this UN and other fora. The Organization of the United Nations must be thus space for coordination among independent nations, not an instrument to replace them.",
+                "The countries gathered here must use this space to identify the challenges facing mankind today. If the Organization of the United Nations ignores the real challenges of today and instead opts for politically correct gibberish, its role will be diminished.",
+                "The UN must not be an effort to find common ground between freedom and totalitarianism, let alone to promote totalitarianism by stealth.",
+                "Freedom and democracy must be at the core of the UN endeavor. And the source of democracy are the people. People organized in Nation-States, with their sovereignty, proud of themselves.",
+                "Brazil today unequivocally stands for democracy and for sovereignty. The sovereignty of free people. Let us not fall in the error of bashing those who stand for sovereignty, let us not despise those who stand for the national sentiment. Without sovereign nations, there is no freedom. This postulate does not come from abstract logic, it comes from history, from the real sacrifice of millions of people, from the nature of things, from the essence of the human being.",
+                "So national sentiment is not the problem of the world today. Rather, the problem is the erosion of sovereignty, which leaves nations prone to the loss of freedom.",
+                "In Brazil, we are striving to put the “demos”, the people, back in democracy as our Constitution says that all power emanates from the people. That is the way to freedom. And Brazil today, just like we did in the Second World War, stands for freedom.",
+                "Thank you."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2020-05-08-23h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-intervencao_do_ministro_ernesto_araujo_por_ocasiao_da_reuniao_informal_do_conselho_de_seguranca_das_nacoes_unidas_relativa_ao....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2020/05/08"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2020-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "60"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        }
+    }
+}

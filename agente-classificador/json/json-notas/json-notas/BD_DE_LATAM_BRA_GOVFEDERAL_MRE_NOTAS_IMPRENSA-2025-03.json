@@ -1,0 +1,3254 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Esclarecimento sobre ação de inteligência",
+            "subtitulo": "",
+            "data": "31/03/2025",
+            "horario": "13h10",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/esclarecimento-sobre-acao-de-inteligencia",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo do Presidente Lula desmente categoricamente qualquer envolvimento em ação de inteligência, noticiada hoje, contra o Paraguai, país membro do Mercosul com o qual o Brasil mantém relações históricas e uma estreita parceria. A citada operação foi autorizada pelo governo anterior, em junho de 2022, e tornada sem efeito pelo diretor interino da ABIN em 27 de março de 2023, tão logo a atual gestão tomou conhecimento do fato.",
+                "O atual diretor-geral da ABIN encontrava-se, naquele momento, em processo de aprovação de seu nome no Senado Federal, e somente assumiu o cargo em 29 de maio de 2023.",
+                "O governo do Presidente Lula reitera seu compromisso com o respeito e o diálogo transparente como elementos fundamentais nas relações diplomáticas com o Paraguai e com todos seus parceiros na região e no mundo."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-31-13h10-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-esclarecimento_sobre_acao_de_inteligencia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/31"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "146"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Recentes ataques em violação ao acordo de cessar-fogo entre o Líbano e Israel",
+            "subtitulo": "",
+            "data": "29/03/2025",
+            "horario": "14h06",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/recentes-ataques-em-violacao-ao-acordo-de-cessar-fogo-entre-o-libano-e-israel",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro condena os bombardeios israelenses realizados ontem, dia 28, em Beirute e no Sul do Líbano, assim como o lançamento de foguetes a partir do Líbano contra o território israelense, ambos em violação ao acordo de cessar-fogo de 26 de novembro. Ao expressar forte preocupação com essa recente escalada de violência e com as violações sistemáticas do cessar-fogo, o Brasil conclama as partes envolvidas a exercer máxima contenção e a cumprir, integralmente, os termos do referido acordo e as obrigações previstas na Resolução 1701 do Conselho de Segurança, incluindo a plena retirada das tropas israelenses do Sul do Líbano."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-29-14h06-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-recentes_ataques_em_violacao_ao_acordo_de_cessar-fogo_entre_o_libano_e_israel.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/29"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "145"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Comunicado conjunto por ocasião da Visita de Estado do Presidente Luiz Inácio Lula da Silva ao Vietnã – Hanói, 29 de março de 2025",
+            "subtitulo": "",
+            "data": "29/03/2025",
+            "horario": "09h44",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/declaracao-conjunta-por-ocasiao-da-visita-de-estado-do-presidente-luiz-inacio-lula-da-silva-ao-vietna-2013-hanoi-29-de-marco-de-2025-1",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "A convite de Sua Excelência Luong Cuong , Presidente da República Socialista do Vietnã, Sua Excelência Luiz Inácio Lula da Silva, Presidente da República Federativa do Brasil, realizou Visita de Estado ao Vietnã de 27 a 29 de março de 2025.",
+                "Durante a visita, o Presidente Luiz Inácio Lula da Silva manteve conversações oficiais com o Presidente Luong Cuong e reuniu-se com o Secretário-Geral Tô Lâm , o Primeiro-Ministro Pham Minh Chinh e o Presidente da Assembleia Nacional Tran Thanh Man.",
+                "O Presidente Luiz Inácio Lula da Silva e o Presidente Luong Cuong trocaram pontos de vista sobre a evolução política e socioeconômica de seus países, exploraram formas de implementar efetivamente a Parceria Estratégica Vietnã-Brasil e discutiram assuntos regionais e globais de interesse mútuo.",
+                "O Presidente Luiz Inácio Lula da Silva felicitou o Vietnã por seus notáveis avanços sociais e econômicos, impulsionados pela política do “ Doi Moi”, e reconheceu seu crescente protagonismo no plano internacional. O Presidente Luong Cuong felicitou o Brasil por seus esforços em matéria de desenvolvimento sustentável com inclusão social e por sua importante contribuição para a paz, a estabilidade e a cooperação nos níveis regional e global.",
+                "Os líderes destacaram a importância da \"Declaração Conjunta entre Brasil e Vietnã sobre a Elevação das Relações Bilaterais a Parceria Estratégica\", emitida, no Rio de Janeiro, em 18 de novembro de 2024. Ressaltaram que a Parceria Estratégica está alicerçada em mais de 35 anos de relações diplomáticas amistosas e representa a aspiração comum de fortalecer os laços bilaterais por meio do diálogo e da cooperação mutuamente benéfica. Saudaram a Parceria Estratégica como símbolo da amizade duradoura entre Brasil e Vietnã, alicerçada nos valores e princípios que compartilham nas relações internacionais, em particular a busca da paz, o respeito ao direito internacional e a cooperação para o desenvolvimento.",
+                "Os líderes louvaram a adoção do Plano de Ação para implementar a Parceria Estratégica no período de 2025 a 2030, abrangendo seis áreas prioritárias: (i) política, defesa, segurança e desafios globais; ( ii ) economia, comércio e investimento; ( iii ) ciência, tecnologia e inovação; ( iv ) mudança do clima e meio ambiente; (v) educação, cultura, esportes, turismo e conexões entre os povos; (vi) assuntos consulares e apoio à comunidade. Concordaram em buscar os objetivos definidos no Plano de Ação, pois contribuirão para consolidar a Parceria Estratégica Brasil–Vietnã em todos os setores, para o desenvolvimento de ambas as nações e para a prosperidade de seus povos.",
+                "Os líderes testemunharam com satisfação a assinatura do Acordo sobre Troca e Proteção Mútua de Informações Classificadas; do Acordo sobre o Exercício de Atividade Remunerada por parte de Dependentes de Missões Diplomáticas, Repartições Consulares e Missões Permanentes junto a Organismos Internacionais; e do Memorando de Entendimento sobre o Estabelecimento do Grupo de Direção sobre Comércio e Cooperação Industrial entre os Ministérios do Desenvolvimento, Indústria, Comércio e Serviços do Brasil (MDIC) e da Indústria e Comércio do Vietnã ( MoIT ). Determinaram que os ministérios e agências competentes avancem nas negociações de acordos sobre facilitação de investimentos, cooperação jurídica e segurança cibernética, com a brevidade possível. Os líderes também registraram com satisfação a assinatura do Memorando de Entendimento entre a Confederação Brasileira de Futebol (CBF) e a Federação de Futebol do Vietnã (VFF).",
+                "As duas partes valorizaram altamente os resultados do Fórum Econômico Vietnã–Brasil, organizado por ocasião da visita e que contou com a participação do Presidente Lula da Silva e do Primeiro-Ministro Pham Minh Chinh , além de representantes governamentais e líderes empresariais de ambos os países.",
+                "Reconhecendo a colaboração econômica como um pilar essencial das relações bilaterais e cientes do potencial ainda não explorado para maior crescimento, os líderes concordaram em buscar a meta de comércio bilateral de US$ 15 bilhões até 2030. Também concordaram em continuar trabalhando para a diversificação das trocas comerciais entre Brasil e Vietnã. Nesse sentido, registraram com satisfação as excelentes perspectivas de negócios em setores como proteína animal e aeronaves.",
+                "O Presidente Luiz Inácio Lula da Silva expressou gratidão pela decisão do Governo vietnamita de abrir o mercado do país para a carne bovina brasileira. Informou a decisão brasileira de suspender a proibição de importação de peixe tilápia e de abrir o mercado para determinados tipos de camarão, em conformidade com os padrões internacionais. Com relação ao peixe pangasius , o governo brasileiro se compromete a realizar, tão logo seja possível, uma avaliação técnica. Os líderes saudaram as oportunidades de cooperação na indústria aeronáutica civil e militar e incentivaram a EMBRAER e seus parceiros vietnamitas a continuar cooperando na aquisição e investimentos em aeronaves. Concordaram em encarregar seus ministros de acompanhar o tema com vistas à obtenção de resultados em breve.",
+                "Considerando o progresso do Vietnã em suas reformas econômicas e integração internacional e tendo em vista o interesse de ambas as partes em aprimorar a colaboração econômica, o Presidente Luiz Inácio Lula da Silva anunciou a decisão do Brasil de reconhecer o status de economia de mercado do Vietnã.",
+                "Os líderes reiteraram o interesse de seus países em expandir os laços econômicos entre Vietnã e o Mercado Comum do Sul (MERCOSUL), do qual o Brasil é membro. Na qualidade de presidente pro tempore do MERCOSUL no segundo semestre de 2025, o Brasil se dispõe a discutir um arcabouço equilibrado e mutuamente benéfico para atingir esse objetivo, em conformidade com as políticas econômicas das partes.",
+                "Os líderes destacaram o potencial de cooperação científica e tecnológica entre Brasil e Vietnã, bem como a importância de ampliar essa parceria em pesquisa, desenvolvimento e inovação para promover o desenvolvimento sustentável e melhorar a qualidade de vida de seus povos. Saudaram a crescente interação entre os Ministérios de Ciência e Tecnologia de ambos os países e manifestaram expectativa de avanço dessa cooperação com a realização da primeira reunião do Comitê Conjunto de Cooperação em Ciência, Tecnologia e Inovação, prevista para o quarto trimestre de 2025, em Brasília. Entre os temas prioritários de interesse mútuo, enfatizaram transformação digital, inovação, biodiversidade, biotecnologia, nanotecnologia e fotônica.",
+                "Os líderes concordaram em manter o diálogo em energia renovável e bioenergia, bem como em outras iniciativas que possam apoiar a transição energética e reduzir desigualdades dentro e entre os países.",
+                "O Presidente Luong Cuong parabenizou o Brasil pelo resultado bem-sucedido da Cúpula do G20 realizada no Rio de Janeiro, em novembro de 2024, e reafirmou seu apoio à Aliança Global contra a Fome e a Pobreza, da qual é membro fundador, comprometendo-se a unir esforços para erradicar a fome em consonância com a Agenda 2030 para o Desenvolvimento Sustentável. O Vietnã também elogiou as prioridades da presidência brasileira do BRICS em 2025: saúde; comércio, investimento e finanças; mudança do clima; governança de inteligência artificial; reforma do sistema multilateral de paz e segurança; e desenvolvimento institucional do BRICS. O Brasil reconheceu a contribuição do Vietnã para os esforços globais de desenvolvimento sustentável ao sediar a 4a Cúpula do Parceria para o Crescimento Verde e Metas Globais (P4G), em abril de 2025.",
+                "Os líderes reafirmaram o compromisso de seus países com o multilateralismo, com pleno respeito à Carta d as Nações Unidas , ao direito internacional e à independência, soberania e integridade territorial dos Estados. Ressaltaram o valor do diálogo e da cooperação em mecanismos regionais, inter-regionais e globais e se comprometeram a intensificar a coordenação e o apoio mútuo em temas de interesse comum. Ambos manifestaram apoio ao papel central da ASEAN nos assuntos regionais e acordaram buscar formas de ampliar a interação entre o Sudeste Asiático e a América do Sul, bem como entre os respectivos organismos regionais, como a ASEAN e o MERCOSUL. Reiteraram ainda seu apoio ao fortalecimento da cooperação Sul-Sul.",
+                "Os líderes recordaram a premente necessidade de reformar as instituições de governança global para promover maior e mais efetiva participação dos países em desenvolvimento em seus órgãos de tomada de decisão, tornando-as mais adequadas às realidades geopolíticas contemporâneas. Em vista do 80o Aniversário das Nações Unidas em 2025, manifestaram seu apoio a uma revisão abrangente da Carta da ONU, com vistas a dotá-la dos instrumentos necessários para enfrentar os crescentes desafios do século XXI.",
+                "Ademais, enfatizaram a urgência de reformar o Conselho de Segurança das Nações Unidas, incluindo a ampliação tanto da categoria de membros permanentes quanto da categoria de membros não permanentes, de modo a aumentar a representação, no Conselho, de países em desenvolvimento de regiões não representadas e sub-representadas , como África, Ásia-Pacífico e América Latina, tornando-o mais representativo, mais legítimo e, assim , mais eficaz. O Presidente Luong Cuong reiterou o apoio do Vietnã à aspiração do Brasil de obter assento permanente em um Conselho de Segurança reformado. O Presidente Lula agradeceu ao Presidente Luong Cuong pelo contínuo apoio do Vietnã .",
+                "Os líderes reafirmaram seu compromisso com a Convenção das Nações Unidas sobre o Direito do Mar de 1982 (UNCLOS 1982), reconhecida como o instrumento internacional que fornece o arcabouço jurídico para atividades de cooperação marítima em níveis nacional, regional e global. Ressaltaram a importância de resolver controvérsias nas relações internacionais por meios pacíficos, em conformidade com o direito internacional, especialmente a Carta da s Nações Unidas e a UNCLOS de 1982.",
+                "Os líderes concordaram que a mudança do clima representa um dos maiores desafios do nosso tempo. Ressaltaram que enfrentar a crise climática requer avanços rumo ao desenvolvimento sustentável, maior ação climática por todos os atores da sociedade e mobilização de todos os recursos da humanidade para combater desigualdades estruturais dentro e entre os países, pavimentando o caminho para transições justas em direção a sociedades de baixo carbono e resilientes ao clima. Reafirmaram seu compromisso com a Convenção-Quadro das Nações Unidas sobre Mudança do Clima e concordaram quanto à necessidade de cooperar na busca dos esforços para alcançar o propósito e os objetivos de longo prazo do Acordo de Paris. O Vietnã elogiou o Brasil pela decisão de sediar a Conferência das Nações Unidas sobre Mudança do Clima de 2025 (COP30) em Belém.",
+                "Os líderes saudaram a adoção, por consenso, da Convenção das Nações Unidas contra Crimes Cibernéticos pela Assembleia Geral das Nações Unidas. O Presidente Luiz Inácio Lula da Silva felicitou o Vietnã pela decisão de sediar a cerimônia de assinatura da Convenção ainda este ano.",
+                "O Presidente Luiz Inácio Lula da Silva agradeceu ao Presidente Luong Cuong e aos demais líderes de alto nível do Vietnã pela recepção hospitaleira e cordial, que reflete a importância da Parceria Estratégica Brasil-Vietnã e a amizade especial que une os líderes e povos de ambas as nações. O Presidente Luiz Inácio Lula da Silva estendeu convite ao Presidente Luong Cuong e a outros líderes de alto nível do Vietnã para visitarem o Brasil em datas mutuamente convenientes, o que foi aceito com satisfação."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-29-09h44-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-comunicado_conjunto_por_ocasiao_da_visita_de_estado_do_presidente_luiz_inacio_lula_da_silva_ao_vietna_-_hanoi,_29_de_marco_de....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/29"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "144"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Incêndios na Coreia do Sul",
+            "subtitulo": "",
+            "data": "28/03/2025",
+            "horario": "17h47",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/incendios-na-coreia-do-sul",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro une-se ao povo da Coreia do Sul para lamentar os trágicos incêndios ocorridos nos últimos dias na província de Gyeongsang e faz votos para que possam ser rapidamente debelados.",
+                "Ao expressar suas sentidas condolências às famílias das vítimas, o Brasil deseja que todas as comunidades atingidas possam recuperar-se rapidamente.",
+                "O plantão consular da Embaixada em Seul +82-10-9519-8700 (Whatsapp) permanece em funcionamento para atender nacionais em situação de emergência. Não há, até o momento, notícia de brasileiros mortos ou feridos."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-28-17h47-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-incendios_na_coreia_do_sul.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/28"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "143"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Terremoto em Myanmar, Tailândia e região",
+            "subtitulo": "",
+            "data": "28/03/2025",
+            "horario": "17h13",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/terremoto-em-myanmar-tailandia-e-regiao",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com pesar, do terremoto de magnitude de 7,7 graus na escala Richter que atingiu a região central de Myanmar e partes de Tailândia, Laos, China e Índia.",
+                "Ao expressar condolências às famílias das vítimas e votos de plena recuperação aos feridos, o governo brasileiro solidariza-se com os governos e os povos atingidos.",
+                "Os plantões consulares das Embaixadas em Bangkok (+66 92 260-7678), Nova Delhi (+91 98106 97829) e Yangon (+95 9541 9317) e do Consulado-Geral em Chengdu (+86 178 2819 5422) estão em contato com as comunidades brasileiras e em funcionamento para atender nacionais em situação de emergência. Não há, até o momento, notícia de brasileiros mortos ou feridos."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-28-17h13-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-terremoto_em_myanmar,_tailandia_e_regiao.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/28"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "142"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Atos adotados por ocasião da visita de Estado do Presidente Luiz Inácio Lula da Silva a Hanói - Vietnã, 27 a 29 de março de 2025",
+            "subtitulo": "",
+            "data": "28/03/2025",
+            "horario": "10h36",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atos-adotados-por-ocasiao-da-visita-de-estado-do-presidente-luiz-inacio-lula-da-silva-a-hanoi-vietna-27-a-29-de-marco-de-2025",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Foram adotados os seguintes atos por ocasião da visita de Estado do Presidente Luiz Inácio Lula da Silva a Hanói, Vietnã, entre os dias 27 a 29 de março de 2025:",
+                "1. Plano de Ação para Implementação da Parceria Estratégica entre a República Federativa do Brasil e a República Socialista do Vietnã para o período de 2025-2030 ( EN );",
+                "2. Acordo entre o Governo da República Federativa do Brasil e o Governo da República Socialista do Vietnã sobre o Exercício de Atividade Remunerada por parte de Dependentes de Missões Diplomáticas, Repartições Consulares e Missões Permanentes junto a Organismos Internacionais ( PT ) ( EN );",
+                "3. Acordo entre o Governo da República Federativa do Brasil e o Governo da República Socialista do Vietnã sobre Troca e Proteção Mútua de Informações Classificadas ( PT ) ( EN );",
+                "4. Memorando de Entendimento entre o Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) e o Ministério da Indústria e Comércio do Vietnã (MoIT) para o Estabelecimento de Grupo de Direção sobre Cooperação Comercial e Industrial ( PT ) ( EN );",
+                "5. Memorando de Cooperação entre a Confederação Brasileira de Futebol (CBF) e a Federação Vietnamita de Futebol (VFF) ( PT ) ( EN )."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-28-10h36-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atos_adotados_por_ocasiao_da_visita_de_estado_do_presidente_luiz_inacio_lula_da_silva_a_hanoi_-_vietna,_27_a_29_de_marco_de_2....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/28"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "141"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "50 Anos da Convenção para a Proibição das Armas Biológicas e Toxínicas",
+            "subtitulo": "",
+            "data": "26/03/2025",
+            "horario": "19h01",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/50-anos-da-convencao-para-a-proibicao-das-armas-biologicas-e-toxinicas",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Celebra-se hoje, 26 de março, meio século da entrada em vigor da Convenção para a Proibição das Armas Biológicas e Toxínicas.",
+                "Em seus primeiros cinquenta anos, a Convenção contribuiu de forma decisiva para evitar que armas biológicas fossem integradas a doutrinas militares ou utilizadas em teatros de guerra. Embora não conte ainda com mecanismos de verificação, a Convenção sustenta-se pela força da norma, do mais alto padrão moral e da vontade política da comunidade internacional. Novos riscos exigem que as instâncias nacionais e internacional mantenham-se à altura da transformação científica em curso.",
+                "Sob presidência brasileira, o Grupo de Trabalho sobre o Fortalecimento da Convenção avança na negociação de recomendações para consolidação daquele instrumento, inclusive com mecanismos voltados à cooperação e assistência internacionais e ao acompanhamento dos desenvolvimentos científicos e tecnológicos.",
+                "Em tempos de riscos biológicos crescentes, o Brasil seguirá trabalhando para fortalecer a Convenção para a Proibição das Armas Biológicas e Toxínicas."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-26-19h01-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-50_anos_da_convencao_para_a_proibicao_das_armas_biologicas_e_toxinicas.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/26"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "140"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Participação do Brasil na Cúpula Nutrição para o Crescimento (N4G) em Paris",
+            "subtitulo": "",
+            "data": "26/03/2025",
+            "horario": "17h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-do-brasil-na-cupula-nutricao-para-o-crescimento-n4g-em-paris",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro participará da Cúpula Nutrição para o Crescimento (Nutrition for Growth - N4G), que será realizada nos dias 27 e 28 de março de 2025, em Paris.",
+                "A delegação brasileira será composta pela primeira-dama Janja Lula da Silva e por representantes do Ministério das Relações Exteriores (MRE), do Ministério do Desenvolvimento Social, Assistência, Família e Combate à Fome (MDS), do Ministério da Saúde (MS) e do Fundo Nacional para o Desenvolvimento da Educação (FNDE), vinculado ao Ministério da Educação (MEC).",
+                "A Cúpula N4G tem como meta aumentar a segurança alimentar e nutricional no mundo, por meio de alimentos de qualidade e dietas saudáveis, diversificadas e balanceadas.",
+                "Além da participação oficial na Cúpula, o Brasil organizará e participará de eventos paralelos que discutirão estratégias globais para a ampliação de programas de alimentação escolar sustentável e o combate à fome e à pobreza, no contexto de iniciativas nas quais o Brasil desempenha papel de liderança, como a Aliança Global contra a Fome e a Pobreza, a Coalização Global de Alimentação Escolar e a Rede de Alimentação Escolar Sustentável (RAES).",
+                "O Brasil reforça seu compromisso global com a segurança alimentar e nutricional, destacando a importância da cooperação Sul-Sul como ferramenta estratégica para o fortalecimento de políticas públicas eficazes no combate à fome e à má-nutrição."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-26-17h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-participacao_do_brasil_na_cupula_nutricao_para_o_crescimento_(n4g)_em_paris.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/26"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "139"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Campo Grande sediará a COP15 da Convenção sobre Espécies Migratórias – Nota Conjunta MRE/MMA",
+            "subtitulo": "",
+            "data": "26/03/2025",
+            "horario": "12h41",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/campo-grande-sediara-a-cop15-da-convencao-sobre-especies-migratorias-2013-nota-conjunta-mre-mma",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "A cidade de Campo Grande, no estado de Mato Grosso do Sul, sediará a 15a Reunião da Conferência das Partes (COP15) da Convenção sobre Espécies Migratórias (CMS). O evento ocorrerá entre 23 e 29 de março de 2026.",
+                "O anúncio foi realizado hoje, durante a 56a Reunião do Comitê Permanente da CMS, em Bonn. Será a primeira COP da CMS realizada na América Latina desde 2014.",
+                "A escolha de realizar a COP15 da CMS em Campo Grande reflete a prioridade conferida pelo governo brasileiro à conservação do Pantanal, uma das maiores extensões úmidas contínuas do mundo e bioma reconhecido por sua rica biodiversidade.",
+                "A decisão de sediar a conferência no Brasil também reforça o compromisso do país com o multilateralismo e com a promoção da agenda ambiental internacional, com ênfase no desenvolvimento sustentável.",
+                "A CMS tem como objetivo a conservação e o manejo das espécies migratórias terrestres, aquáticas e aéreas, promovendo a cooperação internacional, a proteção de habitats críticos, o fomento à pesquisa, a conscientização pública e a integração entre conservação e desenvolvimento sustentável.",
+                "A CMS está em vigor desde 1983 e conta com 133 Estados-Partes. O Brasil depositou seu instrumento de ratificação da Convenção em 2015."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-26-12h41-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-campo_grande_sediara_a_cop15_da_convencao_sobre_especies_migratorias_-_nota_conjunta_mre-mma.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/26"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "138"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Atos adotados por ocasião da visita de Estado do Presidente Luiz Inácio Lula da Silva ao Japão - Tóquio, 24 a 27 de março de 2025",
+            "subtitulo": "",
+            "data": "26/03/2025",
+            "horario": "10h03",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atos-adotados-por-ocasiao-da-visita-do-presidente-luiz-inacio-lula-da-silva-ao-japao-toquio-de-25-a-27-de-marco-de-2025",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Foram adotados os seguintes atos por ocasião da visita de Estado do Presidente Luiz Inácio Lula da Silva ao Japão - Tóquio, entre os dias 24 a 27 de março de 2025:",
+                "1. Plano de Ação para a Parceria Estratégica e Global Brasil-Japão (2025-2030) [ PT | EN ]",
+                "2. Memorando de Cooperação entre o Ministério do Meio Ambiente e Mudança do Clima da República Federativa do Brasil e o Ministério do Meio Ambiente do Japão [ PT ]  [ EN ]",
+                "3. Memorando de Cooperação entre o Ministério do Desenvolvimento, Indústria, Comércio e Serviços da República Federativa do Brasil e o Ministério da Economia, Comércio e Indústria do Japão sobre a Iniciativa de Integração Industrial Brasil-Japão",
+                "4. Memorando de Cooperação entre o Ministério do Desenvolvimento, Indústria, Comércio e Serviços, o Ministério de Minas e Energia, o Ministério das Relações Exteriores e o Ministério de Portos e Aeroportos da República Federativa do Brasil e o Ministério da Economia, Comércio e Indústria do Japão sobre a Iniciativa para Combustíveis Sustentáveis e Mobilidade (ISFM) [ EN ]",
+                "5. Memorando de Cooperação em Educação entre o Ministério da Educação da República Federativa do Brasil e o Ministério da Educação, Cultura, Esportes, Ciência e Tecnologia do Japão [ PT | EN ]",
+                "6. Memorando de Cooperação na área de Tecnologias da Informação e Comunicação e inclusão digital entre o Ministério das Comunicações da República Federativa do Brasil e o Ministério de Assuntos Internos e Comunicações do Japão [ PT | EN | JP ]",
+                "7. Carta de Intenções entre o Ministério da Agricultura e Pecuária e o Ministério do Desenvolvimento Agrário e Agricultura Familiar da República Federativa do Brasil, e o Ministério dos Negócios Estrangeiros e o Ministério da Agricultura, Silvicultura e Pesca do Japão para Reforçar a Cooperação nos Domínios da Recuperação de Pastagens e Terras Agrícolas Degradadas no Brasil",
+                "8. Memorando de Cooperação entre o Ministério da Ciência, Tecnologia e Inovação da República Federativa do Brasil e o Governo do Japão na Área de Ciência, Tecnologia e Inovação",
+                "9. Memorando de Cooperação entre o Ministério da Saúde da República Federativa do Brasil e o Ministério da Saúde, Trabalho e Bem-Estar do Japão",
+                "10. Memorando de Cooperação entre o Ministério da Integração e do Desenvolvimento Regional da República Federativa do Brasil e o Ministério da Terra, Infraestrutura, Transporte e Turismo do Japão e o Gabinete de Governo em Redução de Riscos de Desastres Relacionados a Água [ EN| JP ]",
+                "Ainda no contexto da visita, foram celebrados atos entre entes públicos e privados brasileiros e japoneses."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-26-10h03-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atos_adotados_por_ocasiao_da_visita_de_estado_do_presidente_luiz_inacio_lula_da_silva_ao_japao_-_toquio,_24_a_27_de_marco_de_....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/26"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "137"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Década das Nações Unidas sobre Nutrição – comunicado conjunto Brasil-França",
+            "subtitulo": "",
+            "data": "25/03/2025",
+            "horario": "17h36",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/decada-das-nacoes-unidas-sobre-nutricao-2013-comunicado-conjunto-brasil-franca",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                ".",
+                "Década das Nações Unidas sobre Nutrição",
+                "França e Brasil saúdam a adoção com mais de 100 copatrocínios, pela Assembleia Geral das Nações Unidas, de uma resolução que prorroga até 2030 a Década de Ação das Nações Unidas sobre Nutrição. Essa resolução, de iniciativa conjunta, reforça o impulso político em todos os níveis para erradicar todas as formas de má nutrição, em consonância com os Objetivos de Desenvolvimento Sustentável da Agenda 2030 das Nações Unidas.",
+                "Nos dias 27 e 28 de março, a França sediará a Cúpula “Nutrição para o Crescimento”, que promove uma abordagem transversal do desenvolvimento nos setores da saúde, agricultura, água, higiene e saneamento. A má nutrição é um flagelo que atinge todos os países do mundo, com consequências graves que afetam o capital humano e o potencial de desenvolvimento das nações: 45 milhões de crianças sofrem de má nutrição aguda e 150 milhões enfrentam má nutrição crônica. O sobrepeso, a obesidade e a desnutrição de pessoas idosas são fenômenos em expansão.",
+                "França e Brasil reafirmam seu compromisso com a segurança alimentar e nutricional por meio de iniciativas concretas, como a Coalizão para Alimentação Escolar, a Aliança Global contra a Fome e a Pobreza, e a dinâmica gerada pela Cúpula Nutrição para o Crescimento, voltada à identificação de novas fontes de financiamento e à mobilização da comunidade internacional.",
+                "**********",
+                "Versão em francês",
+                "Décennie des Nations Unies pour la Nutrition",
+                "La France et le Brésil saluent l’adoption suite à plus de 100 coparrainages, par l’Assemblée générale des Nations Unies, d’une résolution prolongeant la Décennie d'action des Nations Unies sur la nutrition jusqu'en 2030. Cette résolution, à leur initiative, soutient l'élan politique à tous les niveaux pour éradiquer toutes les formes de malnutrition, en phase avec l’Agenda 2030 des Objectifs du Développement Durable des Nations Unies.",
+                "La France accueille les 27 et 28 mars le Sommet Nutrition pour la croissance, qui promeut une approche transversale du développement dans les secteurs de la santé, de l’agriculture, de l’eau, de l’hygiène et de l’assainissement. La malnutrition est un fléau qui frappe tous les pays du monde, avec des conséquences lourdes, affectant le capital humain et le potentiel de développement des nations : 45 millions d’enfants subissent une malnutrition aigüe, 150 millions sont en proie à une malnutrition chronique. Le surpoids et l’obésité ainsi que la dénutrition des personnes âgées sont des phénomènes en pleine expansion.",
+                "La France et le Brésil sont engagés en faveur de la sécurité alimentaire et nutritionnelle à travers des initiatives concrètes telles que la Coalition pour l’alimentation scolaire, l’Alliance mondiale contre la faim et la pauvreté et la dynamique engendrée par le Sommet Nutrition pour la croissance pour identifier de nouvelles sources de financement et mobiliser la communauté internationale."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-25-17h36-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-decada_das_nacoes_unidas_sobre_nutricao_-_comunicado_conjunto_brasil-franca.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/25"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "136"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Morte de adolescente brasileiro em prisão israelense",
+            "subtitulo": "",
+            "data": "25/03/2025",
+            "horario": "10h18",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/morte-de-menor-brasileiro-em-prisao-israelense",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com profunda consternação, da morte do cidadão brasileiro Walid Khalid Abdalla Ahmad, de 17 anos, na prisão israelense de Megido. O adolescente, residente da Cisjordânia, no Estado da Palestina, fora detido em 30 de setembro de 2024 na Palestina ocupada, e levado por forças israelenses à prisão de Megido, em território israelense. As circunstâncias e a data exata do óbito ainda não foram esclarecidas. Em linha com suas obrigações internacionais, o governo israelense deve conduzir investigação célere e independente acerca das causas do falecimento, bem como dar publicidade às suas conclusões. Onze brasileiros residentes no Estado da Palestina seguem presos em Israel, a maioria dos quais sem terem sido formalmente acusados ou julgados, em clara violação ao Direito Internacional Humanitário. O Escritório de Representação do Brasil em Ramala, no Estado da Palestina, está em contato com a família de Walid Khalid Abdalla Ahmad e está prestando a assistência consular cabível. O governo brasileiro solidariza-se com os familiares e amigos do nacional e transmite sinceras condolências, ao tempo em que continuará a exigir do governo de Israel as explicações necessárias acerca da morte do menor."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-25-10h18-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-morte_de_adolescente_brasileiro_em_prisao_israelense.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/25"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "135"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Reeleição de Dilma Rousseff para a presidência do Novo Banco de Desenvolvimento (NDB)",
+            "subtitulo": "",
+            "data": "24/03/2025",
+            "horario": "19h17",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reeleicao-de-dilma-rousseff-para-a-presidencia-do-novo-banco-de-desenvolvimento-ndb",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro felicita a ex-Presidenta Dilma Rousseff por sua reeleição, por unanimidade, para presidir o Novo Banco de Desenvolvimento (NDB). Seu segundo mandato terá duração de cinco anos, a partir de 7 de julho próximo.",
+                "O NDB, que tem sede em Xangai, foi criado durante a Cúpula do BRICS em Fortaleza, em 2014, e estabelecido em 2015. Durante esse período, o NDB aprovou o equivalente a US$ 39 bilhões para financiar 120 projetos nos países membros, nas áreas de energia limpa e eficiência energética, infraestrutura de transporte, água e saneamento, infraestrutura digital, proteção ambiental e infraestrutura social.",
+                "O Brasil, assim como os demais membros fundadores, detém cerca de 19% das cotas do NDB. Trata-se da maior participação do país em bancos de desenvolvimento multilaterais. Neste ano, a reunião anual do NDB deverá ser realizada no Brasil, coincidindo com a presidência brasileira do BRICS.",
+                "Sob a gestão de Dilma Rousseff, o NDB consolida-se como banco do Sul Global e como importante fonte de financiamento para a promoção do desenvolvimento sustentável."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-24-19h17-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reeleicao_de_dilma_rousseff_para_a_presidencia_do_novo_banco_de_desenvolvimento_(ndb).html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/24"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "134"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "14": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Concessão de agrément ao Embaixador designado da Mauritânia no Brasil",
+            "subtitulo": "",
+            "data": "24/03/2025",
+            "horario": "16h34",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-ao-embaixador-designado-da-mauritania-no-brasil",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que concedeu agrément ao senhor Ahmed Moctar Bouceïf como Embaixador Extraordinário e Plenipotenciário da República Islâmica da Mauritânia no Brasil."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-24-16h34-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_agrement_ao_embaixador_designado_da_mauritania_no_brasil.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/24"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "133"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "15": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Ataques contra Instalações da ONU no Estado da Palestina",
+            "subtitulo": "",
+            "data": "21/03/2025",
+            "horario": "18h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/ataques-contra-instalacoes-da-onu-no-estado-da-palestina",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro condena veementemente o ataque ocorrido anteontem contra funcionários e instalações da Organização das Nações Unidas em Gaza, que resultou na morte e em ferimentos graves de funcionários do Escritório das Nações Unidas de Serviços para Projetos (UNOPS).",
+                "Ao expressar profunda consternação por mais este episódio de grave violação do direito internacional humanitário, o governo brasileiro reitera que todas as partes devem respeitar a inviolabilidade das instalações das Nações Unidas e garantir a proteção de seu pessoal, conforme determinam as Convenções de Genebra e seus Protocolos Adicionais. Exorta, ainda, Israel a assegurar a proteção e a liberdade de movimento do pessoal humanitário no Estado da Palestina.",
+                "O Brasil recorda que ataques intencionalmente dirigidos contra pessoal humanitário e funcionários das Nações Unidas, bem como contra suas instalações e bens, são crimes de guerra. Une-se ao Secretário-Geral das Nações Unidas, António Guterres, em seu apelo por uma investigação completa e transparente deste grave incidente, de modo que os responsáveis sejam devidamente responsabilizados.",
+                "Por fim, expressamos nossas sinceras condolências às famílias das vítimas e reafirmamos nosso apoio inabalável ao trabalho das Nações Unidas e de suas agências, inclusive da Agência das Nações Unidas para os Refugiados da Palestina no Oriente Próximo (UNRWA), na prestação de assistência humanitária no Estado da Palestina."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-21-18h45-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-ataques_contra_instalacoes_da_onu_no_estado_da_palestina.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/21"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "132"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "16": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita da Ministra dos Negócios Estrangeiros, Cooperação e Comunidades de São Tomé e Príncipe, Ilza Amado Vaz, ao Brasil – Brasília, 21 de março",
+            "subtitulo": "",
+            "data": "21/03/2025",
+            "horario": "16h58",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-da-ministra-dos-negocios-estrangeiros-cooperacao-e-comunidades-de-sao-tome-e-principe-ilza-amado-vaz-ao-brasil-2013-brasilia-21-de-marco",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministro das Relações Exteriores, Mauro Vieira, encontrou-se hoje, dia 21 de março, em Brasília, com a Ministra dos Negócios Estrangeiros, Cooperação e Comunidades de São Tomé e Príncipe, Ilza Amado Vaz.",
+                "Em 2025 são celebrados os 50 anos de independência de São Tomé e Príncipe e do estabelecimento de relações com o Brasil.",
+                "O encontro permitiu avançar o diálogo político bilateral, assim como tratar de assuntos regionais e multilaterais, em foros como a Comunidade dos Países de Língua Portuguesa (CPLP), cuja presidência de turno é ocupada por São Tomé e Príncipe, a Zona de Paz e Cooperação do Atlântico Sul (ZOPACAS), além de temas como combate à fome e à pobreza, meio ambiente e mudança do clima.",
+                "Na ocasião, foi assinado o Ajuste Complementar relativo ao Projeto “Acesso à Justiça em São Tomé e Príncipe”.",
+                "Em 2024, a corrente de comércio entre os dois países cresceu 24,3% em relação a 2023. O comércio bilateral foi impulsionado pelas exportações brasileiras, que registraram US$ 4,6 milhões."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-21-16h58-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_da_ministra_dos_negocios_estrangeiros,_cooperacao_e_comunidades_de_sao_tome_e_principe,_ilza_amado_vaz,_ao_brasil_-_br....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/21"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "131"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "17": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Concessão de agrément ao Embaixador designado do Quênia no Brasil",
+            "subtitulo": "",
+            "data": "20/03/2025",
+            "horario": "12h25",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-ao-embaixador-designado-do-quenia-no-brasil",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que concedeu agrément ao senhor Andrew Karanja como Embaixador Extraordinário e Plenipotenciário da República do Quênia no Brasil."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-20-12h25-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_agrement_ao_embaixador_designado_do_quenia_no_brasil.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/20"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "130"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "18": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Abertura de mercado em Sarawak, Malásia, para exportação de carne de aves e carne bovina do Brasil - Nota conjunta MRE/MAPA",
+            "subtitulo": "",
+            "data": "19/03/2025",
+            "horario": "12h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/abertura-de-mercado-em-sarawak-malasia-para-exportacao-de-carne-de-aves-e-carne-bovina-do-brasil-nota-conjunta-mre-mapa",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro informa que, durante a visita do ministro de agricultura do estado de Sarawak, Malásia, ao Brasil, foi acordado o modelo de Certificado Sanitário Internacional (CSI) para a exportação de carne de aves e carne bovina brasileiras.",
+                "Em 2024, o Brasil exportou mais de 30 mil toneladas de carnes de aves e bovina para a Malásia, totalizando cerca de US$ 67 milhões. O estado de Sarawak, que tem população de aproximadamente 2,5 milhões de habitantes, está localizado em ilha separada da Malásia continental e possui requisitos específicos para importação de alimentos. Com o aceite do certificado sanitário internacional pelo estado, há a expectativa de que o volume exportado para a Malásia cresça significativamente nos próximos anos.",
+                "Com essas novas aberturas, o agronegócio brasileiro atinge a 44a abertura de mercado em 2025, totalizando 344 novas oportunidades de negócio durante desde o início de 2023.",
+                "Esses avanços são resultado do trabalho conjunto do Ministério das Relações Exteriores (MRE) e do Ministério da Agricultura e Pecuária (Mapa)."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-19-12h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-abertura_de_mercado_em_sarawak,_malasia,_para_exportacao_de_carne_de_aves_e_carne_bovina_do_brasil_-_nota_conjunta_mre-mapa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/19"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "129"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "19": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Seminário sobre economia de dados e desenvolvimento nacional – Nota Conjunta MRE/MDIC",
+            "subtitulo": "",
+            "data": "18/03/2025",
+            "horario": "19h22",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/seminario-sobre-economia-de-dados-e-desenvolvimento-nacional-2013-nota-conjunta-mre-mdic",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "No âmbito da presidência brasileira do BRICS, realizou-se, no dia 18 de março, o seminário virtual “Alavancando a economia de dados na comunidade de economia digital do BRICS” (“Leveraging data economy across the BRICS’ digital economy community”), reunindo pesquisadores, formuladores de políticas públicas e representantes de organismos internacionais e do setor privado, para debater o impacto da economia de dados no desenvolvimento dos países do bloco.",
+                "O evento, organizado pelo Ministério das Relações Exteriores (MRE) e pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) do Brasil, procurou chamar atenção para a economia de dados como fator habilitador da transformação da indústria, inclusive para aplicações de inteligência artificial. A iniciativa faz parte das prioridades da presidência brasileira no âmbito do Grupo de Contato sobre Temas Econômicos, Comerciais e Investimentos do BRICS (CGETI, na sigla em inglês).",
+                "Durante o seminário, foram discutidos a criação de espaços e mercados de dados e o papel dos dados na transformação digital de empresas e governos. A valorização estratégica dos dados é essencial para reduzir assimetrias econômicas e garantir que os benefícios desse novo modelo de negócios sejam amplamente distribuídos, promovendo inclusão social e desenvolvimento econômico. O evento reforçou a importância da cooperação entre os países dos BRICS visando a impulsionar a economia digital, com importantes reflexões sobre os próximos passos na agenda econômica do bloco e sua contribuição para a governança global de economia digital.",
+                "O evento foi transmitido ao vivo pelo canal do MDIC no YouTube e pode ser acessado no link: http://bit.ly/DataEconomyBRICS ."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-18-19h22-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-seminario_sobre_economia_de_dados_e_desenvolvimento_nacional_-_nota_conjunta_mre-mdic.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/18"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "128"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "20": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Abertura de mercados no Mali - Nota Conjunta MRE/MAPA",
+            "subtitulo": "",
+            "data": "18/03/2025",
+            "horario": "19h16",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/abertura-de-mercados-no-mali-nota-conjunta-mre-mapa",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro e as autoridades sanitárias do Mali concluíram entendimento sobre os modelos de Certificados Sanitários Internacionais (CSIs) para a exportação de sete produtos agropecuários do Brasil para aquele país: bovinos e bubalinos vivos, sêmen de bovinos, de ovinos e de caprinos, bem como embriões de bovinos, ovinos e caprinos.",
+                "Nos últimos três anos, as exportações do agronegócio brasileiro para o Mali somaram cerca de US$ 5 milhões. O país conta com mais de 23 milhões de habitantes e uma população predominantemente rural, o que oferece grande oportunidade de crescimento para as exportações de insumos agropecuários do Brasil.",
+                "Com esses anúncios, o agronegócio brasileiro alcança 42 aberturas de mercado em 2025, totalizando 342 novas oportunidades de negócio desde o início de 2023.",
+                "Tais resultados são fruto do trabalho conjunto entre o Ministério das Relações Exteriores (MRE) e o Ministério da Agricultura e Pecuária (MAPA)."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-18-19h16-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-abertura_de_mercados_no_mali_-_nota_conjunta_mre-mapa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/18"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "127"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "21": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Declarações do Presidente da Conmebol – nota conjunta MRE/MIR/MESP",
+            "subtitulo": "",
+            "data": "18/03/2025",
+            "horario": "18h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/declaracoes-do-presidente-da-conmebol-2013-nota-conjunta-mre-mir-mesp",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro repudia, nos mais fortes termos, as declarações do Presidente da Confederação Sul-Americana de Futebol (Conmebol), Alejandro Domínguez, na noite de ontem, 17 de março, em entrevista à imprensa após cerimônia de sorteio da fase de grupos dos torneios promovidos por aquela entidade.",
+                "As declarações ocorrem em contexto em que as autoridades da Conmebol têm reiteradamente falhado em adotar providências efetivas para prevenir e evitar a repetição de atos de racismo em partidas por ela organizadas, incluindo medidas para combater a impunidade e promover a responsabilização dos responsáveis.",
+                "O governo brasileiro exorta a Conmebol e as Federações Nacionais de Futebol da América do Sul a atuarem decisivamente para coibir e reprimir atos de racismo, discriminação e intolerância, promover políticas de igualdade racial e compartilhar conhecimento e boas práticas para ampliar o acesso de pessoas afrodescendentes, imigrantes e outros grupos vulneráveis ao esporte.",
+                "O governo brasileiro reitera seu compromisso com iniciativas de combate ao racismo e de promoção da igualdade racial, inclusive medidas contra qualquer tipo de discriminação nas diferentes modalidades de esportes."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-18-18h45-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-declaracoes_do_presidente_da_conmebol_-_nota_conjunta_mre-mir-mesp.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/18"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "126"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "22": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita Oficial ao Brasil do Ministro dos Negócios Estrangeiros da Armênia, Ararat Mirzoyan",
+            "subtitulo": "",
+            "data": "18/03/2025",
+            "horario": "16h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-oficial-ao-brasil-do-ministro-dos-negocios-estrangeiros-da-armenia-ararat-mirzoyan",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministro das Relações Exteriores, Mauro Vieira, receberá o Ministro dos Negócios Estrangeiros da Armênia, Ararat Mirzoyan, em 19 de março. O encontro tem como objetivo discutir temas das agendas bilateral, regional e global e explorar possibilidades de estreitar os laços de cooperação entre os dois países.",
+                "Está prevista, na ocasião, a assinatura de Memorando de Entendimento entre o Instituto Rio Branco e a Academia Diplomática do Ministério dos Negócios Estrangeiros da Armênia.",
+                "O Brasil conta com importante comunidade de origem armênia, estimada em 40 mil pessoas, que representa importante vetor de aproximação entre os dois países.",
+                "As exportações brasileiras para a Armênia em 2024 tiveram crescimento de 13,5% em relação a 2023. A corrente de comércio somou US$ 28,6 milhões em 2024, com expansão de 16,3% em relação a 2023."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-18-16h46-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_oficial_ao_brasil_do_ministro_dos_negocios_estrangeiros_da_armenia,_ararat_mirzoyan.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/18"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "125"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "23": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Concessão de agrément ao Embaixador designado de Omã no Brasil",
+            "subtitulo": "",
+            "data": "18/03/2025",
+            "horario": "16h42",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-ao-embaixador-designado-de-oma-no-brasil-1",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que concedeu agrément ao senhor Abdul Ghaffar Bin Abdul Karim Al-Bulushi como Embaixador Extraordinário e Plenipotenciário do Sultanato de Omã no Brasil."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-18-16h42-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_agrement_ao_embaixador_designado_de_oma_no_brasil.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/18"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "124"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "24": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Ataques israelenses contra a Faixa de Gaza",
+            "subtitulo": "",
+            "data": "18/03/2025",
+            "horario": "15h20",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/ataques-israelenses-contra-a-faixa-de-gaza",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro deplora os novos ataques israelenses, realizados hoje, dia 18, contra áreas na Faixa de Gaza, inclusive em zonas anteriormente designadas como seguras, os quais provocaram a morte de centenas de palestinos, incluindo grande número de crianças, em flagrante violação do Direito Internacional Humanitário.",
+                "Ao assinalar a obrigação de que Israel, como potência ocupante, tome as medidas necessárias para proteger a população civil nos territórios ocupados, o Brasil insta o país a suspender as restrições à entrada de ajuda humanitária a Gaza e a restabelecer o fornecimento de eletricidade no território.",
+                "Exorta, ainda, as partes a cumprirem os termos do acordo de cessar-fogo anunciado em 15 de janeiro e a retomarem, com urgência, as negociações com vistas à cessação permanente das hostilidades, à retirada das forças israelenses de Gaza, à libertação de todos os reféns e ao estabelecimento de mecanismo robusto que garanta a entrada desimpedida de ajuda humanitária."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-18-15h20-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-ataques_israelenses_contra_a_faixa_de_gaza.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/18"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "123"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "25": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Tempestades nos EUA",
+            "subtitulo": "",
+            "data": "17/03/2025",
+            "horario": "18h16",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/tempestades-nos-eua",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro acompanha, com preocupação, as recentes tempestades que atingiram os Estados Unidos, resultando em graves perdas humanas e materiais. Ao se solidarizar com as famílias das vítimas, o governo brasileiro expressa suas condolências ao povo e ao governo norte-americanos.",
+                "O governo brasileiro reitera que a mudança do clima intensifica eventos extremos e torna desastres como esse cada vez mais frequentes, o que reforça a necessidade de ações urgentes e concertadas da comunidade internacional.",
+                "Até o momento, não há registro de vítimas brasileiras. O núcleo de assistência a brasileiros do MRE está à disposição para informações e esclarecimentos, de segunda a sexta-feira, das 8h às 20h, pelos telefones +55 61 2030 8803 e +55 61 2030 8804, e pelo e-mail dac@itamaraty.gov.br."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-17-18h16-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-tempestades_nos_eua.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/17"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "122"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "26": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Comunicado Conjunto - V Reunião do Mecanismo de Consultas Políticas Bilaterais Brasil-Palestina",
+            "subtitulo": "",
+            "data": "17/03/2025",
+            "horario": "14h42",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/comunicado-conjunto-v-reuniao-do-mecanismo-de-consultas-politicas-bilaterais-brasil-palestina",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                ".",
+                "COMUNICADO CONJUNTO",
+                "V REUNIÃO DO MECANISMO DE CONSULTAS POLÍTICAS BILATERAIS BRASIL-PALESTINA",
+                "A Secretária-Geral do Ministério das Relações Exteriores da República Federativa do Brasil, Embaixadora Maria Laura da Rocha, e a Vice-Ministra dos Negócios Estrangeiros e Expatriados do Estado da Palestina, Dra. Varsen Aghabekian Shahin, conduziram, em Brasília, em 17 de março de 2025, a V Reunião do Mecanismo de Consultas Políticas Bilaterais Brasil-Palestina.",
+                "Discutiram a situação na Palestina, expressaram preocupação com a fragilidade do cessar-fogo na Faixa de Gaza e condenaram violações israelenses a esse acordo, em particular a suspensão da entrada de ajuda humanitária e energia elétrica. Concordaram sobre a urgência de alcançar acordo para a cessação permanente das hostilidades, incluindo a retirada completa das forças israelenses do território, a libertação de reféns israelenses e prisioneiros palestinos detidos em violação ao direito internacional, assim como a definição de mecanismo robusto que garanta o acesso desimpedido de ajuda humanitária. Manifestaram apoio ao Plano de Recuperação, Reconstrução e Desenvolvimento de Gaza, adotado pela Liga dos Estados Árabes em 4 de março de 2025, e coincidiram sobre a necessidade de o governo do Estado da Palestina retornar a Gaza.",
+                "Expressaram sua preocupação com a situação na Cisjordânia, incluindo Jerusalém Oriental, em vista da contínua expansão de assentamentos israelenses ilegais, ataques de colonos israelenses contra civis palestinos, ameaças de anexação e intensificação de operações militares israelenses em cidades e campos de refugiados palestinos, que levaram ao deslocamento forçado de dezenas de milhares de palestinos.",
+                "Recordaram a opinião consultiva da Corte Internacional de Justiça de 19 de julho de 2024, que concluiu que a presença continuada de Israel no Território Palestino Ocupado é ilícita e deve ser terminada o mais rapidamente possível.",
+                "Reiteraram o forte apoio a inicitativas voltadas à implementação da opinião consultiva e da Resolução ES-10/24 da AGNU e decidiram cooperar na preparação da vindoura Conferência Internacional de Alto Nível para a Solução Pacífica da Questão da Palestina e a Implementação da Solução de Dois Estados, em junho.",
+                "Ressaltaram que a Agência das Nações Unidas para os Refugiados da Palestina no Oriente Próximo (UNRWA) é insubstituível e rejeitaram todas as tentativas de impedir suas atividades no Território Palestino Ocupado.",
+                "Discutiram os temas mais importantes da agenda bilateral e concordaram em aprofundar a cooperação em vários campos. Decidiram realizar reuniões do Mecanismo de Consultas Políticas Bilaterais anualmente, a fim de intercambiar opiniões sobre questões regionais e internacionais de interesse comum. Também concordaram em promover contatos entre instituições acadêmicas e organizações de seus países especializadas na área de relações internacionais e política externa e em incentivar contatos entre instituições culturais e da sociedade civil assim como cooperação entre instituições do setor privado de seus países.",
+                "A Embaixadora Maria Laura da Rocha reafirmou o forte apoio do Brasil à consecução dos direitos legítimos do povo Palestino, incluindo o direito à autodeterminação, com base na solução de dois estados.",
+                "**************",
+                "Versão em inglês",
+                "JOINT STATEMENT",
+                "5 th MEETING OF THE MECHANISM OF BILATERAL POLITICAL CONSULTATIONS BRAZIL-PALESTINE",
+                "The Secretary General of the Ministry of Foreign Affairs of the Federative Republic of Brazil, Ambassador Maria Laura da Rocha, and the Minister of State for Foreign Affairs and Expatriates of the State of Palestine, Dr. Varsen Aghabekian Shaheen, held in Brasilia, on March 17, 2025, the 5 th Meeting of the Mechanism of Bilateral Political Consultations Brazil-Palestine.",
+                "They discussed the situation in Palestine, expressed their concern about the fragility of the ceasefire in the Gaza Strip and condemned Israeli violations to this agreement, in particular the suspension of the entry of humanitarian aid and electricity. They agreed on the urgency of attaining an agreement for the permanent cessation of hostilities, including the full withdrawal of Israeli forces from the territory, the release of Israeli hostages and Palestinian prisoners detained in violation of international law, as well as the definition of a robust mechanism that ensures the unimpeded access of humanitarian aid. They expressed their support for the Early Recovery, Reconstruction, and Development of Gaza plan, adopted by the League of Arab States on March 4, 2025, and coincided on the need of the government of the State of Palestine returning to Gaza.",
+                "They expressed their concern about the situation in the West Bank, including East Jerusalem, in light of the continued expansion of illegal Israeli settlements, attacks by Israeli settlers against Palestinian civilians, threats of annexation, and intensified Israeli military operations in Palestinian cities and refugee camps, which have led to the forced displacement of tens of thousands of Palestinians.",
+                "They recalled the advisory opinion of the International Court of Justice of July 19, 2024, which concluded that the continued Israeli presence in the occupied Palestinian territory is unlawful and must be brought to an end as rapidly as possible.",
+                "They reiterated their strong support for initiatives aimed at the implementation of the advisory opinion and UNGA Resolution ES-10/24, and decided to cooperate in the preparation of the upcoming High-level International Conference for the Peaceful Settlement of the Question of Palestine and the Implementation of the Two-State Solution, in June.",
+                "They stressed that the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) is irreplaceable and rejected all attempts to hinder its activities in the occupied Palestinian territory.",
+                "They discussed the most important issues of the bilateral agenda and agreed to deepen cooperation in various fields. They decided to hold meetings of the Mechanism of Bilateral Political Consultations on an annual basis, in order to exchange views on regional and international issues of common interest. They also agreed to promote contact between academic organizations and institutions of their countries specialized in the field of international relations and foreign policy and to encourage contact between cultural and civil society institutions as well as cooperation between private sector institutions of their countries.",
+                "Ambassador Maria Laura da Rocha reaffirmed Brazil ́s strong support to the attainment of the legitimate rights of the Palestinian people, including the right to self-determination, based on the two-state solution."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-17-14h42-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-comunicado_conjunto_-_v_reuniao_do_mecanismo_de_consultas_politicas_bilaterais_brasil-palestina.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/17"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "121"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "27": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Incêndio em casa noturna na Macedônia do Norte",
+            "subtitulo": "",
+            "data": "16/03/2025",
+            "horario": "19h11",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/incendio-em-casa-noturna-na-macedonia-do-norte",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro recebeu, com pesar, a notícia de incêndio em casa noturna na cidade de Kocani, na Macedônia do Norte, que deixou expressivo número de mortos e feridos.",
+                "O governo brasileiro manifesta sua solidariedade às famílias das vítimas, bem como ao povo e ao governo da Macedônia do Norte."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-16-19h11-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-incendio_em_casa_noturna_na_macedonia_do_norte.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/16"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "120"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "28": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Processo de paz Armênia-Azerbaijão",
+            "subtitulo": "",
+            "data": "13/03/2025",
+            "horario": "19h39",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/processo-de-paz-armenia-azerbaijao",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro recebeu com satisfação o anúncio, pelos governos da Armênia e do Azerbaijão, da conclusão das negociações de acordo que, uma vez implementado, reestabelecerá a paz entre os países e normalizará as relações bilaterais.",
+                "O Brasil encoraja as partes a seguirem privilegiando a diplomacia e o diálogo como caminho para a paz duradoura e sustentável e manifesta sua expectativa de que o processo possa ser concluído na brevidade possível."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-13-19h39-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-processo_de_paz_armenia-azerbaijao.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/13"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "119"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "29": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita do Presidente da República ao Vietnã - 28 e 29 de março de 2025",
+            "subtitulo": "",
+            "data": "13/03/2025",
+            "horario": "17h08",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-do-presidente-da-republica-ao-vietna-28-e-29-de-marco-de-2025",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "A convite do presidente Luong Cuong, o Presidente Luiz Inácio Lula da Silva visitará a República Socialista do Vietnã nos dias 28 e 29 de março de 2025. A visita terá por objetivo definir ações e iniciativas conjuntas para implementar a Parceria Estratégica entre o Brasil e o Vietnã, anunciada em 17 de novembro de 2024, quando o Presidente Lula e o primeiro-ministro do Vietnã, Pham Minh Chin, se reuniram à margem da Cúpula do G20, no Rio de Janeiro.",
+                "A elevação das relações diplomáticas com o Vietnã ao nível de Parceria Estratégica possibilitará aprofundar o diálogo político, reforçar a cooperação econômica, intensificar o fluxo de comércio e os investimentos, fortalecer a coordenação em temas da agenda multilateral e impulsionar novas iniciativas de cooperação.",
+                "Em 2024, Brasil e Vietnã registraram intercâmbio comercial de US$ 7,7 bilhões, com superávit brasileiro de US$ 415 milhões. O Vietnã consolidou-se como o quinto destino global das exportações do agronegócio brasileiro e se destaca como um dos principais produtores mundiais de café, arroz e produtos eletrônicos, setores nos quais há potencial para ampliar a cooperação bilateral."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-13-17h08-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_do_presidente_da_republica_ao_vietna_-_28_e_29_de_marco_de_2025.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/13"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "118"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "30": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Abertura de mercado para exportação de carne bovina para Bósnia e Herzegovina - Nota Conjunta MRE/MAPA",
+            "subtitulo": "",
+            "data": "13/03/2025",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/abertura-de-mercado-para-exportacao-de-carne-bovina-para-bosnia-e-herzegovina-nota-conjunta-mre-mapa",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro informa que as autoridades sanitárias da Bósnia e Herzegovina aceitaram o Certificado Sanitário Internacional proposto pelo Brasil para a exportação de carne bovina.",
+                "A decisão do país de abrir seu mercado para a carne bovina reflete o elevado nível de confiança internacional no sistema de controle sanitário brasileiro e deverá fortalecer as relações comerciais entre os países.",
+                "Com uma população de aproximadamente 3,2 milhões de habitantes, a Bósnia e Herzegovina, que já importa produtos florestais e do complexo sucroalcooleiro do Brasil, possui demanda crescente por carne bovina, com espaço importante para o abastecimento por importação.",
+                "Com o anúncio, o agronegócio brasileiro alcança a 35a abertura de mercado em 2025, totalizando 335 novas oportunidades de negócios desde o início de 2023.",
+                "Tais resultados são fruto do trabalho conjunto do Ministério da Agricultura e Pecuária (Mapa) e do Ministério das Relações Exteriores (MRE), que seguem atuando para ampliar e diversificar os mercados para os produtos agropecuários brasileiros."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-13-11h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-abertura_de_mercado_para_exportacao_de_carne_bovina_para_bosnia_e_herzegovina_-_nota_conjunta_mre-mapa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/13"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "117"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "31": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Sequestro de trem no Paquistão",
+            "subtitulo": "",
+            "data": "12/03/2025",
+            "horario": "18h03",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/sequestro-de-trem-no-paquistao",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com consternação, de sequestro de trem na província do Baluchistão, no Paquistão, nessa quarta-feira, dia 11, que resultou em dezenas de mortos.",
+                "Ao manifestar seu repúdio ao recurso à violência, sobretudo contra civis, o governo brasileiro expressa condolências aos familiares das vítimas e manifesta sua solidariedade ao povo e ao governo do Paquistão."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-12-18h03-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-sequestro_de_trem_no_paquistao.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/12"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "116"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "32": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Medidas relativas às exportações de aço e alumínio para os Estados Unidos - Nota Conjunta MRE/MDIC",
+            "subtitulo": "",
+            "data": "12/03/2025",
+            "horario": "14h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/medidas-relativas-as-exportacoes-de-aco-e-aluminio-para-os-estados-unidos-nota-conjunta-mre-mdic",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro lamenta a decisão tomada pelo governo norte-americano no dia de hoje, 12 de março, de elevar para 25% as tarifas sobre importações de aço e de alumínio dos EUA provenientes de todos os países e de cancelar todos os arranjos vigentes relativos a quotas de importação desses produtos. Tais medidas terão impacto significativo sobre as exportações brasileiras de aço e alumínio para os EUA, que, em 2024, foram da ordem de US$ 3,2 bilhões.",
+                "Em defesa das empresas e dos trabalhadores brasileiros e em linha com seu tradicional apoio ao sistema multilateral de comércio, o governo brasileiro considera injustificável e equivocada a imposição de barreiras unilaterais que afetam o comércio entre o Brasil e os Estados Unidos, principalmente pelo histórico de cooperação e integração econômica entre os dois países. Segundo os dados do governo estadunidense, os EUA mantêm um superávit comercial de longa data com o Brasil, que foi, em 2024, da ordem de US$ 7 bilhões, somente em bens.",
+                "No caso do aço, as indústrias do Brasil e dos Estados Unidos mantêm, há décadas, relação de complementaridade mutuamente benéfica. O Brasil é o terceiro maior importador de carvão siderúrgico dos EUA (US$ 1,2 bilhão) e o maior exportador de aço semi-acabado para aquele país (US$ 2,2 bilhões, 60% do total das importações dos EUA), insumo essencial para a própria indústria siderúrgica norte-americana.",
+                "À luz do impacto efetivo das medidas sobre as exportações brasileiras, o governo do Brasil buscará, em coordenação com o setor privado, defender os interesses dos produtores nacionais junto ao governo dos Estados Unidos. Em reuniões já previstas para as próximas semanas, avaliará todas as possibilidades de ação no campo do comércio exterior, com vistas a contrarrestar os efeitos nocivos das medidas norte-americanas, bem como defender os legítimos interesses nacionais, inclusive junto à Organização Mundial do Comércio."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-12-14h40-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-medidas_relativas_as_exportacoes_de_aco_e_aluminio_para_os_estados_unidos_-_nota_conjunta_mre-mdic.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/12"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "115"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "33": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Confrontos violentos na Síria",
+            "subtitulo": "",
+            "data": "10/03/2025",
+            "horario": "18h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/confrontos-violentos-na-siria",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro expressa forte preocupação com os incidentes violentos ocorridos, entre 6 e 9 de março, nas províncias de Lataquia e Tartus, na Síria, os quais provocaram a morte de mais de 1000 pessoas, em sua maioria civis.",
+                "Ao expressar repúdio ao recurso à violência, sobretudo contra civis, o Brasil transmite condolências aos familiares das vítimas e insta as partes envolvidas ao exercício da contenção.",
+                "Reitera, ainda, sua posição em favor de transição política pacífica e inclusiva, com respeito da independência, unidade, soberania e integridade territorial da Síria.",
+                "Não há registro de brasileiros entre as vítimas. O Itamaraty, por meio do portal consular, atualizou o alerta recomendando aos nacionais não viajar à Síria e, caso estejam no país, a adotar as indicações de segurança das autoridades locais ( https://www.gov.br/mre/pt-br/assuntos/portal-consular/alertas%20e%20noticias/alertas/alerta-consular-siria ).",
+                "A Embaixada do Brasil em Damasco permanece em contato com representantes da comunidade brasileira na Síria e, em caso de emergência, pode ser contatada por meio de seu plantão consular no número + 963 933 21 34 38 e pelo endereço eletrônico “ consular.damasco@itamaraty.gov.br ”. O plantão consular do Itamaraty (24h) também pode ser contatado em caso de emergência pelo número: +55 61 98260-0610 (WhatsApp)."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-10-18h27-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-confrontos_violentos_na_siria.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/10"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "114"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "34": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Eleição de Albert Ramdin como Secretário-Geral da Organização dos Estados Americanos (OEA)",
+            "subtitulo": "",
+            "data": "10/03/2025",
+            "horario": "16h42",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/eleicao-de-albert-ramdin-como-secretario-geral-da-organizacao-dos-estados-americanos-oea",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Brasil felicita o Chanceler surinamês Albert Ramdin por sua eleição, por aclamação, ao cargo de Secretário-Geral da Organização dos Estados Americanos (OEA), para um mandato de cinco anos. Ramdin sucederá, a partir de 25 de maio próximo, o atual Secretário-Geral da OEA, Luis Almagro. Trata-se do primeiro representante de um país do Caribe a ocupar o cargo.",
+                "O governo brasileiro confia que, por sua experiência e trajetória, o Embaixador Ramdin atuará de maneira decisiva para o fortalecimento da OEA e das relações hemisféricas.",
+                "Ao desejar-lhe todos os êxitos, o Brasil reitera seu firme compromisso em contribuir com o novo Secretário-Geral para a implementação dos mandatos da OEA, e para que a Organização seja um espaço de diálogo, cooperação e busca de consensos.",
+                "O Brasil valoriza a OEA como importante plataforma para enfrentar desafios comuns nas áreas da democracia, dos direitos humanos, do desenvolvimento integral e da segurança multidimensional. O governo brasileiro confia que, sob a liderança do novo Secretário-Geral, seja fortalecido o papel da OEA em prol de uma região estável, democrática, justa e próspera, que reflita os interesses de toda a região."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-10-16h42-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-eleicao_de_albert_ramdin_como_secretario-geral_da_organizacao_dos_estados_americanos_(oea).html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/10"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "113"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "35": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Enchentes na província de Buenos Aires",
+            "subtitulo": "",
+            "data": "07/03/2025",
+            "horario": "19h36",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/enchentes-na-provincia-de-buenos-aires",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com pesar, das inundações ocorridas hoje na cidade de Bahía Blanca, na província de Buenos Aires, que resultaram em graves perdas humanas e materiais.",
+                "O governo brasileiro expressa solidariedade ao governo e ao povo argentino, especialmente às famílias das vítimas e aos atingidos pelo desastre.",
+                "A Embaixada do Brasil em Buenos Aires segue acompanhando a situação. Até o momento, não há registro de cidadãos brasileiros entre as vítimas."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-07-19h36-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-enchentes_na_provincia_de_buenos_aires.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/07"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "112"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "36": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Participação do Brasil na 56ª Assembleia Geral Extraordinária da Organização dos Estados Americanos – Washington D.C., 10 de março de 2025",
+            "subtitulo": "",
+            "data": "07/03/2025",
+            "horario": "18h01",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-do-brasil-na-56a-assembleia-geral-extraordinaria-da-organizacao-dos-estados-americanos-2013-washington-d-c-10-de-marco-de-2025",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "A Secretária-Geral do Ministério das Relações Exteriores, Embaixadora Maria Laura da Rocha, chefiará a delegação brasileira à 56a Assembleia Geral Extraordinária da Organização dos Estados Americanos (OEA), para eleição do novo Secretário-Geral da OEA. O encontro ocorrerá em Washington D.C., Estados Unidos, 10 de março de 2025.",
+                "A Secretaria-Geral, órgão central da OEA, desempenha papel fundamental no fortalecimento da organização e no aprofundamento das relações hemisféricas.",
+                "O atual secretário-geral da OEA, o uruguaio Luis Almagro, reeleito em 2020 para segundo mandato de cinco anos, encerrará suas funções no próximo 26 de maio.",
+                "A participação do Brasil na 56a Assembleia Geral da OEA propiciará ocasião para reafirmar o compromisso do país com a cooperação regional e internacional, contribuindo para a construção de um continente americano mais justo, seguro e próspero.",
+                "A OEA foi fundada em 1948, com o objetivo de promover a cooperação e o diálogo entre os países do continente, e conta com quatro pilares principais: defesa dos direitos humanos; promoção da democracia; segurança multidimensional; e desenvolvimento integral."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-07-18h01-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-participacao_do_brasil_na_56a_assembleia_geral_extraordinaria_da_organizacao_dos_estados_americanos_-_washington_d.c.,_10_de_....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/07"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "111"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "37": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Viagem do Ministro das Relações Exteriores, Mauro Vieira, a países da África Ocidental – 10 a 14 de março",
+            "subtitulo": "",
+            "data": "07/03/2025",
+            "horario": "17h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/viagem-do-ministro-das-relacoes-exteriores-mauro-vieira-a-paises-da-africa-ocidental-2013-10-a-14-de-marco",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministro das Relações Exteriores, Mauro Vieira, realizará visitas oficiais a Cabo Verde (10/3), Benim (11/3), Nigéria (12/3), Senegal (13/3) e Costa do Marfim (14/3), com o objetivo de fortalecer as relações bilaterais e discutir com autoridades locais temas da agenda bilateral em áreas como comércio e investimentos, conectividade aérea, cooperação na área de Defesa, bem como temas de interesse multilateral: combate à fome à pobreza e reforma da governança global, meio ambiente e mudança do clima, no contexto da COP 30, entre outros.",
+                "Desde o início do atual governo do Presidente Luiz Inácio Lula da Silva, o engajamento com a África tem sido prioritário. Com mais de 1 bilhão e 500 milhões de habitantes, a África é uma das regiões que mais cresce no mundo, e apresenta amplo potencial para a diversificação de parcerias com o Brasil.",
+                "Em 2024, a corrente do comércio do Brasil com os países a serem visitados somou US$ 3,17 bilhões."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-07-17h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-viagem_do_ministro_das_relacoes_exteriores,_mauro_vieira,_a_paises_da_africa_ocidental_-_10_a_14_de_marco.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/07"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "110"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "38": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Concessão de agrément ao Embaixador designado do Brasil na Guiné-Bissau",
+            "subtitulo": "",
+            "data": "07/03/2025",
+            "horario": "11h37",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-ao-embaixador-designado-do-brasil-na-guine-bissau",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro informa, com satisfação, que o governo da República da Guiné-Bissau concedeu agrément ao Ministro de Segunda Classe Pablo Duarte Cardoso como Embaixador Plenipotenciário do Brasil naquele país.",
+                "Pablo Duarte Cardoso é o atual Ministro-Conselheiro na Missão do Brasil junto à Comunidade dos Países de Língua Portuguesa, em Lisboa. Trata-se de sua primeira designação para chefia de posto no exterior.",
+                "De acordo com a Constituição, a designação será submetida à apreciação do Senado Federal."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-07-11h37-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_agrement_ao_embaixador_designado_do_brasil_na_guine-bissau.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/07"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "109"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "39": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Recomendação sobre combustíveis sustentáveis de aviação na Organização Internacional da Aviação Civil (OACI)",
+            "subtitulo": "",
+            "data": "06/03/2025",
+            "horario": "19h57",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/recomendacao-sobre-combustiveis-sustentaveis-de-aviacao-na-organizacao-internacional-da-aviacao-civil-oaci",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Brasil recebeu com grande satisfação a recomendação técnica sobre combustíveis sustentáveis para a aviação feita durante a 13a reunião trienal do Comitê de Proteção Ambiental da Aviação (CAEP) da Organização Internacional da Aviação Civil (OACI).",
+                "A recomendação, que será elevada para confirmação pelo Conselho da OACI em junho, trata da cultura múltipla ou sequencial para produção de combustíveis sustentáveis de aviação (SAF). A prática, que consiste no cultivo de duas ou mais safras anuais na mesma terra, é comum na agricultura de regiões tropicais e subtropicais.",
+                "Baseada em aspectos técnicos, científicos e ambientais, a recomendação do CAEP permitirá que as metodologias da OACI passem a considerar as realidades específicas das regiões tropicais e subtropicais. Este é um pleito antigo do Brasil e de outros países interessados em contribuir para as metas de descarbonização do setor aéreo.",
+                "Ao reconhecer maior número de práticas e matérias-primas sustentáveis como elegíveis para a produção de SAF em grande escala, a OACI atua em consonância com o mandato que lhe foi atribuído pela Convenção-Quadro das Nações Unidas sobre a Mudança do Clima (UNFCCC) de promover a redução de emissões no setor aéreo internacional. Ainda em níveis muito baixos globalmente, a produção de SAF será fundamental para que a aviação internacional, hoje grande emissora de gases de efeito estufa, alcance a meta global de emissões líquidas zero até 2050.",
+                "O reconhecimento da prática de cultivo sequencial também contribui para que países em desenvolvimento tenham oportunidade de participar da transição energética de forma justa e inclusiva, com geração sustentável de emprego e renda para suas populações."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-06-19h57-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-recomendacao_sobre_combustiveis_sustentaveis_de_aviacao_na_organizacao_internacional_da_aviacao_civil_(oaci).html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/06"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "108"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "40": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Assinatura de acordo de cooperação entre a Polícia Federal e a EUROPOL – Nota Conjunta MRE/MJSP",
+            "subtitulo": "",
+            "data": "05/03/2025",
+            "horario": "18h56",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/assinatura-de-acordo-de-cooperacao-entre-a-policia-federal-e-a-europol-2013-nota-conjunta-mre-mjsp",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O ministro da Justiça e Segurança Pública, Ricardo Lewandowski, e o Comissário Europeu para Assuntos Internos e Migração, Magnus Brunner assinaram, nesta quarta-feira (5), acordo de cooperação entre a Polícia Federal (PF) e a Agência da União Europeia para a Cooperação Policial (EUROPOL). A cerimônia aconteceu em Bruxelas, Bélgica. O acordo estabelece as bases para uma cooperação ainda mais robusta entre a União Europeia e o Brasil na área de combate ao crime, garantindo, ao mesmo tempo, a proteção dos direitos humanos e liberdades fundamentais, com ênfase no direito à privacidade e à proteção de dados pessoais. O instrumento permitirá o aprofundamento da cooperação operacional entre a PF e a EUROPOL, reforçando a capacidade das autoridades de aplicação da lei de ambos os lados e de colaborar por meio do intercâmbio de dados e da realização de investigações conjuntas contra crimes graves como tráfico de drogas, crimes ambientais, tráfico de pessoas e abuso sexual infantil. O Brasil é um dos primeiros países a firmar acordo deste tipo com a União Europeia, demonstração do excelente nível da cooperação bilateral para o enfrentamento ao crime organizado e para o fortalecimento da segurança pública."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-05-18h56-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-assinatura_de_acordo_de_cooperacao_entre_a_policia_federal_e_a_europol_-_nota_conjunta_mre-mjsp.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/05"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "107"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "41": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Comunicado de apoio à candidatura de Albert Ramdin a Secretário-Geral da OEA",
+            "subtitulo": "",
+            "data": "04/03/2025",
+            "horario": "12h17",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/comunicado-de-apoio-a-candidatura-de-albert-ramdin-a-secretario-geral-da-oea",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Após cuidadosa análise das propostas apresentadas à Organização dos Estados Americanos (OEA) para a sucessão na Secretaria Geral, os governos do Brasil, Bolívia, Chile, Colômbia e Uruguai anunciamos nosso respaldo à candidatura de Albert Ramdin, Ministro de Relações Exteriores do Suriname, para liderar o organismo no período 2025-2030.",
+                "O ministro Albert Ramdin, com sua vasta experiência na diplomacia, incluindo seu prévio papel como Secretário Geral adjunto da OEA, está em uma posição única para enfrentar os desafios contemporâneos para nossos países, ao oferecer uma nova perspectiva que reflita as realidades e aspirações do Caribe e da América em seu conjunto.",
+                "Essa decisão representa um passo significativo da região na direção da unidade, no atual contexto geopolítico, e também uma oportunidade histórica para a o Caribe, que pela primeira vez poderá liderar esse importante espaço de integração hemisférico.",
+                "A votação para a eleição do novo Secretário Geral da OEA está prevista para o próximo dia 10 de março."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-04-12h17-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-comunicado_de_apoio_a_candidatura_de_albert_ramdin_a_secretario-geral_da_oea.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/04"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "106"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "42": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Suspensão da Entrada da Ajuda Humanitária na Faixa de Gaza",
+            "subtitulo": "",
+            "data": "03/03/2025",
+            "horario": "19h02",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/suspensao-da-entrada-da-ajuda-humanitaria-na-faixa-de-gaza",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro deplora a decisão israelense de suspender a entrada de ajuda humanitária em Gaza, que exacerba a precária situação humanitária e fragiliza o cessar-fogo em vigor.",
+                "Ao exortar à imediata reversão da medida, o Brasil recorda que Israel tem obrigação - conforme reconhecido pela Corte Internacional de Justiça em suas medidas provisórias de 2024 - de garantir a prestação de serviços básicos essenciais e assistência humanitária à população de Gaza, sem impedimentos. A obstrução deliberada e o uso político da ajuda humanitária constituem grave violação do direito internacional humanitário.",
+                "O Brasil insta as partes ao estrito cumprimento dos termos do acordo de cessar-fogo e ao engajamento nas negociações a fim de garantir cessação permanente das hostilidades, retirada das forças israelenses de Gaza, libertação de todos os reféns e estabelecimento de mecanismos robustos para ingresso de assistência humanitária desimpedida, previsível e na necessária escala."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-03-19h02-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-suspensao_da_entrada_da_ajuda_humanitaria_na_faixa_de_gaza.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/03"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "105"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "43": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Premiação do filme “Ainda Estou Aqui” no Oscar 2025 – Nota conjunta MRE/MinC",
+            "subtitulo": "",
+            "data": "03/03/2025",
+            "horario": "00h58",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/premiacao-do-filme-201cainda-estou-aqui201d-no-oscar-2025-2013-nota-conjunta-mre-minc",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministério das Relações Exteriores e o Ministério da Cultura cumprimentam o diretor Walter Salles e toda a equipe do filme \"Ainda Estou Aqui\" pela premiação como Melhor Filme Internacional na 97a edição dos Prêmios da Academia de Artes e Ciências Cinematográficas. Felicitam, ainda, Fernanda Torres pela histórica indicação na categoria de Melhor Atriz. Primeiro filme indicado pelo Brasil a vencer o Oscar de Melhor Filme Internacional, \"Ainda Estou Aqui” retrata a vida da advogada e ativista Eunice Paiva, reconhecida líder na defesa dos direitos humanos, dos direitos dos povos indígenas, da democracia e do direito à memória, à verdade e à justiça. O filme resgata sua história de resistência e de luta por justiça para crimes cometidos durante a ditadura militar. A premiação reflete a excelência do cinema brasileiro, ampliando sua projeção no cenário internacional. Além disso, reforça o indispensável papel da cultura como instrumento de memória e de reflexão, destacando a importância da proteção e da promoção dos direitos humanos e da democracia como valores inegociáveis da sociedade brasileira."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2025-03-03-00h58-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-premiacao_do_filme_\"ainda_estou_aqui\"_no_oscar_2025_-_nota_conjunta_mre-minc.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2025/03/03"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2025-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "104"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        }
+    }
+}

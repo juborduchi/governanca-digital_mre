@@ -1,0 +1,2315 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Condecoração de colombianos que cooperaram com vítimas do acidente da Chapecoense",
+            "subtitulo": "",
+            "data": "15/12/2016",
+            "horario": "19h57",
+            "datatime": "NA",
+            "data_atualizado": "NA",
+            "horario_atualizado": "NA",
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/condecoracao-de-colombianos-que-cooperaram-com-vitimas-do-acidente-da-chapecoense",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro condecorará, nesta sexta-feira, 16 de dezembro, cidadãos colombianos em reconhecimento à atuação no resgate das vítimas do acidente com o avião que transportava a delegação da Associação Chapecoense de Futebol e jornalistas. Serão concedidas a Ordem do Mérito da Defesa e a Ordem de Rio Branco. O presidente Michel Temer e os ministros Raul Jungmann (Defesa) e José Serra (Relações Exteriores) estarão presentes na cerimônia. O prefeito de Chapecó, Luciano Buligon, também será condecorado com a Ordem de Rio Branco, e a cidade de Medellín receberá a insígnia da Ordem do Cruzeiro do Sul.",
+                "A Ordem do Mérito da Defesa é concedida a personalidades civis e militares que prestaram relevantes serviços às Forças Armadas. A Ordem de Rio Branco é concedida a brasileiros e estrangeiros em reconhecimento a serviços prestados ao Brasil. A cerimônia acontecerá às 16h00 de sexta-feira, 16 de dezembro, no Salão Oeste do Palácio do Planalto."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-15-19h57-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-condecoracao_de_colombianos_que_cooperaram_com_vitimas_do_acidente_da_chapecoense.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/15"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Concessão de agrément à embaixadora do Brasil no Zimbábue",
+            "subtitulo": "",
+            "data": "15/12/2016",
+            "horario": "10h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "15/12/2016"
+            ],
+            "horario_atualizado": [
+                "18h13"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-a-embaixadora-do-brasil-no-zimbabue",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que o governo do Zimbábue concedeu agrément a Ana Maria Pinto Morales como embaixadora extraordinária e plenipotenciária do Brasil naquele país. De acordo com a Constituição, essa designação ainda deverá ser submetida à apreciação do Senado Federal.",
+                "Ana Maria Pinto Morales é, desde 2011, embaixadora na Zâmbia. Ao longo de sua carreira, serviu na missão do Brasil em Nova York e nas embaixadas brasileiras no Panamá, Zimbábue, Estados Unidos, México e Peru."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-15-10h40-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_agrement_a_embaixadora_do_brasil_no_zimbabue.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/15"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Concessão de agrément ao embaixador do Brasil na Eslovênia",
+            "subtitulo": "",
+            "data": "14/12/2016",
+            "horario": "20h33",
+            "datatime": "NA",
+            "data_atualizado": [
+                "14/12/2016"
+            ],
+            "horario_atualizado": [
+                "21h23"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-ao-embaixador-do-brasil-na-eslovenia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que o governo da República da Eslovênia concedeu agrément a Renato Mosca de Souza como embaixador extraordinário e plenipotenciário do Brasil naquele país. De acordo com a Constituição, essa designação ainda deverá ser submetida à apreciação do Senado Federal.",
+                "Ao longo de sua carreira diplomática, Renato Mosca de Souza serviu nas embaixadas do Brasil em Washington, na Cidade do México e em Caracas e na Representação Permanente junto à FAO."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-14-20h33-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_agrement_ao_embaixador_do_brasil_na_eslovenia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/14"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Falecimento do Arcebispo Dom Paulo Evaristo Arns",
+            "subtitulo": "",
+            "data": "14/12/2016",
+            "horario": "17h33",
+            "datatime": "NA",
+            "data_atualizado": [
+                "21/12/2016"
+            ],
+            "horario_atualizado": [
+                "14h18"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/falecimento-do-arcebispo-dom-paulo-evaristo-arns",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Recebi com tristeza a notícia da morte do arcebispo emérito de São Paulo, meu amigo Dom Paulo Evaristo Arns. Neste momento de dor, transmito a seus familiares e a toda a população de São Paulo, que ele tanto amou e pela qual tanto fez, meus mais profundos sentimentos.",
+                "Dom Paulo é um exemplo para aqueles que acreditam na justiça social e na melhoria das condições de vida da população. Dedicou seu sacerdócio à defesa dos direitos humanos, em especial dos mais pobres.",
+                "À frente da Arquidiocese de São Paulo entre 1970 e 1998, trabalhou ativamente para o retorno da democracia em nosso país. Criada por ele, a Comissão Brasileira de Justiça e Paz de São Paulo desempenhou papel fundamental no combate à tortura durante o regime militar. Junto com sua irmã Zilda Arns, estabeleceu a Pastoral da Criança, organização que até hoje trabalha incessantemente pelo bem-estar das crianças, em especial as mais humildes.",
+                "São Paulo e o Brasil perdem um gigante; eu, um amigo e conselheiro.",
+                "José SerraMinistro das Relações Exteriores"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-14-17h33-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-falecimento_do_arcebispo_dom_paulo_evaristo_arns.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/14"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Reunião do Conselho do Mercado Comum do MERCOSUL – Buenos Aires, 14 de dezembro de 2016",
+            "subtitulo": "",
+            "data": "13/12/2016",
+            "horario": "21h31",
+            "datatime": "NA",
+            "data_atualizado": "NA",
+            "horario_atualizado": "NA",
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reuniao-do-conselho-do-mercado-comum-do-mercosul-buenos-aires-14-de-dezembro-de-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O ministro das Relações Exteriores José Serra participará, em Buenos Aires, no dia 14 de dezembro, de reunião extraordinária do Conselho do Mercado Comum (CMC) do MERCOSUL, juntamente com ministros de Argentina, Paraguai e Uruguai.",
+                "O encontro permitirá aos estados partes tratar da efetiva liberalização do comércio intrabloco, da negociação de um protocolo para a cooperação e facilitação de investimentos no MERCOSUL, da revisão do protocolo de contratações públicas e da dinamização das negociações extrarregionais.",
+                "Na reunião do CMC, a Argentina assumirá a Presidência Pro Tempore do MERCOSUL para o primeiro semestre de 2017, conforme o critério da rotatividade por ordem alfabética. No segundo semestre, a presidência do bloco caberá ao Brasil."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-13-21h31-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_do_conselho_do_mercado_comum_do_mercosul_-_buenos_aires,_14_de_dezembro_de_2016.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/13"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Ataque à Catedral Copta do Cairo, Egito",
+            "subtitulo": "",
+            "data": "12/12/2016",
+            "horario": "19h56",
+            "datatime": "NA",
+            "data_atualizado": [
+                "12/12/2016"
+            ],
+            "horario_atualizado": [
+                "21h02"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/ataque-a-catedral-copta-do-cairo-egito",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro condena o ataque terrorista que deixou ao menos 25 mortos e dezenas de feridos na manhã do último domingo, 11 de dezembro, nas cercanias da Catedral Copta do Cairo, no Egito.  Ao manifestar condolências e solidariedade aos familiares das vítimas, ao povo e ao governo do Egito, o governo brasileiro reitera, nos mais fortes termos, seu veemente repúdio a todo ato de terrorismo, independentemente de sua motivação."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-12-19h56-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-ataque_a_catedral_copta_do_cairo,_egito.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/12"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Acidente ferroviário na Bulgária",
+            "subtitulo": "",
+            "data": "12/12/2016",
+            "horario": "19h53",
+            "datatime": "NA",
+            "data_atualizado": [
+                "12/12/2016"
+            ],
+            "horario_atualizado": [
+                "20h13"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/acidente-ferroviario-na-bulgaria",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro lamenta, com grande pesar, o acidente ferroviário em Hitrino, na Bulgária, que vitimou e feriu dezenas de pessoas.O governo brasileiro manifesta sua solidariedade e condolências aos familiares das vítimas, ao governo e ao povo da Bulgária."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-12-19h53-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-acidente_ferroviario_na_bulgaria.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/12"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentados na Turquia",
+            "subtitulo": "",
+            "data": "11/12/2016",
+            "horario": "15h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "12/12/2016"
+            ],
+            "horario_atualizado": [
+                "20h55"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentados-turquia-20161211",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro condena os atentados terroristas que deixaram dezenas de mortos e centenas de feridos no sábado, 10 de dezembro, nos arredores do estádio de futebol Besiktas, em Istambul, na Turquia.",
+                "Ao manifestar condolências e solidariedade aos familiares das vítimas, ao povo e ao governo turco, o governo brasileiro reitera seu veemente repúdio a todo ato de terrorismo, qualquer que seja sua motivação."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-11-15h40-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentados_na_turquia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/11"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 12 de dezembro e 18 de dezembro de 2016",
+            "subtitulo": "",
+            "data": "09/12/2016",
+            "horario": "20h50",
+            "datatime": "NA",
+            "data_atualizado": [
+                "16/12/2016"
+            ],
+            "horario_atualizado": [
+                "21h15"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-05-de-dezembro-e-11-de-dezembro-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "04 a 17/DEZ – Cancun, México. 13ª Conferência das Partes (COP-13) da Convenção sobre Diversidade Biológica (CDB) e reuniões correlatas – 8ª Conferência das Partes servindo de Reunião das Partes do Protocolo de Cartagena sobre Biossegurança (COP-MOP 8) e 2ª Conferência das Partes servindo de Reunião das Partes do Protocolo de Nagoia sobre Acesso e Repartição Justa e Equitativa dos Benefícios Derivados de sua Utilização (COP-MOP 2).",
+                "05 a 13/DEZ – Pequim, China. Missão do Secretário Executivo do Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC) à China, para compromissos nas áreas de cooperação espacial e em parques tecnológicos.",
+                "10 a 12/DEZ – Daca, Bangladesh. 9º Fórum Global sobre Migração e Desenvolvimento.",
+                "12/DEZ – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião da Mesa do Grupo dos 77 e China.",
+                "12/DEZ – Pequim, China. Cerimônia de assinatura de Acordo de Cooperação entre o Parque Tecnológico da Universidade Federal do Rio de Janeiro (UFEJ) e o Parque de Ciências da Universidade de Tsinghua (TusPark).",
+                "12/DEZ – São Paulo, Brasil. 10ª Reunião Anual do Conselho Deliberativo do Fórum do Sistema Brasileiro de TV Digital (SBTVD).",
+                "12 a 13/DEZ – Nova York, Estados Unidos. Consulta Informal sobre o Plano Estratégico das Nações Unidas sobre Florestas (UNSPF, na sigla em inglês) e sobre o Programa Quadrienal de Trabalho (4POW, na sigla em inglês) do Fórum das Nações Unidas sobre Florestas (UNFF).",
+                "12 a 13/DEZ – Nagasaki, Japão. 26a Conferência das Nações Unidas sobre Questões de Desarmamento.",
+                "12 a 15/DEZ – Nova York, Estados Unidos. Grupo de Trabalho Aberto sobre Envelhecimento.",
+                "12 a 16/DEZ. Genebra, Suíça. 5ª Sessão do Grupo de Trabalho Intergovernamental de Composição Aberta (OEIGWG) para considerar a possibilidade de elaborar marco regulatório internacional sobre a disciplina, monitoramento e supervisão das atividades de empresas privadas de segurança ou de caráter militar (PMSCs).",
+                "12 a 16/DEZ – Genebra, Suíça. V Conferência de Exame da Convenção sobre Certas Armas Convencionais.",
+                "13/DEZ – Roma, Itália – Programa Mundial de Alimentos (PMA). Sessão Executiva do Comitê de Auditoria com a Diretoria Executiva.",
+                "13 e 14/DEZ. Genebra, Suíça. 26ª sessão do Conselho Executivo da UNITAID.",
+                "13 e 14/DEZ – Quito, Equador. I Reunião do Grupo de Altas Autoridades de Juventude da UNASUL.",
+                "13 a 15/DEZ – Malabo, Guiné Equatorial. IV Conferência da Comunidade dos Países de Língua Portuguesa (CPLP) sobre a Governança Eletrônica e VI Reunião dos Pontos Focais para a Governança Eletrônica da CPLP.",
+                "13 a 15/DEZ – Munique, Alemanha. Oficina de Trabalho sobre \"Política Energética após o Acordo de Paris\" e reuniões, no âmbito do G-20, do Grupo de Trabalho sobre Sustentabilidade (SWG) e dos Subgrupos de Trabalho de sustentabilidade Energética (ESWG) e de Sustentabilidade Climática (CSWG).",
+                "14 a 15/DEZ – Roma, Itália. Fundo Internacional para o Desenvolvimento Agrícola (FIDA). 119ª Sessão da Junta Executiva.",
+                "14 a 15/DEZ – Genebra, Suíça. Reunião Ministerial sobre Emprego em Saúde e Crescimento Econômico.",
+                "14 a 16/DEZ – Genebra, Suíça. 66ª Sessão do Bureau Internacional de Educação (BIE).",
+                "15/DEZ – Nova York, Estados Unidos. Debate aberto de alto nível do Conselho de Segurança das Nações Unidas \"Preventing catastrophe: A global agenda for stopping the proliferation of weapons of mass destruction by non-State actors\".",
+                "15/DEZ – Nova Delhi, Índia. Reunião de Altos Funcionários dos Ministérios da Saúde – BRICS.\n  \n  15 a 16/DEZ – Nova York, Estados Unidos. Reunião do Foro Político de Alto Nível sobre Desenvolvimento Sustentável, em preparação às Revisões Nacionais Voluntárias (RNVs) de 2017.",
+                "16/DEZ – Nova Delhi, Índia. 6ª Reunião de Ministros de Saúde do BRICS.",
+                "16/DEZ – São Paulo, Brasil. Reunião mensal do Comitê Gestor da Internet no Brasil (CGi.br).",
+                "16/Dez – Brasília, Brasil. Visita do subsecretário de Assuntos Políticos do Departamento de Estado dos Estados Unidos, Embaixador Thomas Shannon.",
+                "16/DEZ – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Evento de Alto Nível \"Lutar junto as mulheres rurais para acabar com a Fome e a Pobreza\"."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-09-20h50-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_12_de_dezembro_e_18_de_dezembro_de_2016.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/09"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Brasil envia medicamentos e vacinas ao Haiti",
+            "subtitulo": "",
+            "data": "09/12/2016",
+            "horario": "14h23",
+            "datatime": "NA",
+            "data_atualizado": [
+                "06/03/2017"
+            ],
+            "horario_atualizado": [
+                "15h23"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/brasil-envia-medicamentos-e-vacinas-ao-haiti",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Em iniciativa integrada dos ministérios da Defesa, Saúde e Relações Exteriores, coordenada pela Agência Brasileira de Cooperação (ABC/MRE), o governo brasileiro enviou medicamentos e vacinas contra cólera para atendimento à população do Haiti. São mais de 18.000 unidades de medicamentos, testes rápidos para HIV, materiais de uso hospitalar e cerca de 4.000 doses de vacinas contra cólera.",
+                "As doações seguiram em avião da Força Aérea Brasileira, que partiu do Rio de Janeiro em 8 de dezembro, transportando militares para o rodízio do Batalhão Brasileiro de Infantaria de Força de Paz (BRABAT) que integra a Missão das Nações Unidas para a Estabilização no Haiti (MINUSTAH).",
+                "Os donativos são parte da cooperação brasileira com o Haiti em razão da passagem do furacão \"Matthew\" em outubro passado. A nova doação integra a resposta humanitária do governo brasileiro a essa catástrofe socioambiental, que já contou com doações financeiras no total de US$ 400 mil ao Programa Mundial de Alimentos (PMA) das Nações Unidas, para atividades emergenciais de aquisição e distribuição de alimentos e outros itens de primeira necessidade a cerca de 800 mil pessoas, como também para ações de preparação para emergências."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-09-14h23-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-brasil_envia_medicamentos_e_vacinas_ao_haiti.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/09"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Terremoto na Indonésia",
+            "subtitulo": "",
+            "data": "07/12/2016",
+            "horario": "23h08",
+            "datatime": "NA",
+            "data_atualizado": "NA",
+            "horario_atualizado": "NA",
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/terremoto-na-indonesia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com consternação, do terremoto que atingiu a província de Aceh, no norte da Indonésia, deixando dezenas de mortos e feridos, além de significativos danos materiais.",
+                "O governo brasileiro solidariza-se com as famílias das vítimas e manifesta seu sentido pesar ao governo e ao povo da Indonésia."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-07-23h08-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-terremoto_na_indonesia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/07"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Acidente Aéreo no Paquistão",
+            "subtitulo": "",
+            "data": "07/12/2016",
+            "horario": "23h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "08/12/2016"
+            ],
+            "horario_atualizado": [
+                "16h31"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/acidente-aereo-no-paquistao",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com pesar, do desastre com o voo PK-661, da Pakistan International Airlines, que vitimou 47 pessoas.",
+                "O governo brasileiro manifesta sua solidariedade e condolências aos familiares das vítimas e ao governo do Paquistão."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-07-23h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-acidente_aereo_no_paquistao.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/07"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Declaração dos chanceleres de Argentina, Brasil, Chile, Colômbia, Guatemala, México, Paraguai, Peru e Uruguai",
+            "subtitulo": "",
+            "data": "07/12/2016",
+            "horario": "19h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "08/12/2016"
+            ],
+            "horario_atualizado": [
+                "20h00"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/declaracao-dos-chanceleres-de-argentina-brasil-chile-colombia-guatemala-mexico-paraguai-peru-e-uruguai",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Declaração dos chanceleres de Argentina, Brasil, Chile, Colômbia, Guatemala, México, Paraguai, Peru e Uruguai",
+                "Os chanceleres dos países abaixo assinados reiteram seu apelo para que se mantenha vigente o diálogo entre o governo e a oposição na Venezuela.",
+                "Sublinham, ainda, a importância de um tratamento mútuo respeitoso e do cumprimento estrito dos acordos alcançados no âmbito deste diálogo, que são essenciais para gerar a confiança necessária, para assegurar o envolvimento permanente de todas as partes e para avançar na solução das diferenças, em benefício do povo venezuelano.",
+                "Nossos países continuarão apoiando os esforços dos ex-presidentes e a contribuição prudente do Vaticano, que deve ser altamente apreciada por todas as partes e representou uma ajuda desinteressada para favorecer o processo de diálogo no país vizinho.",
+                "Fazemos votos para que a Venezuela encontre o caminho do entendimento, o que lhe dará estabilidade para o futuro.",
+                "Susana Malcorra\n  \n  Chanceler da Argentina",
+                "José Serra\n  \n  Chanceler do Brasil",
+                "Heraldo Benjamín Muñoz\n  \n  Chanceler do Chile",
+                "María Ángela Holguín Cuellar\n  \n  Chanceler da Colômbia",
+                "Carlos Raúl Morales Moscoso\n  \n  Chanceler da Guatemala",
+                "Claudia Ruiz Massieu\n  \n  Chanceler do México",
+                "Eladio Loizaga\n  \n  Chanceler do Paraguai",
+                "Ricardo Luna\n  \n  Chanceler do Peru",
+                "Rodolfo Nin Novoa\n  \n  Chanceler do Uruguai",
+                "____________________________________________________________________________________",
+                "Declaración Cancilleres de Argentina, Brasil, Chile, Colombia, Guatemala, México, Paraguay, Perú y Uruguay",
+                "Los Cancilleres de los países abajo firmantes reiteran su llamado para mantener vigente el diálogo en Venezuela entre el gobierno y la oposición.",
+                "Destacan, asimismo, la importancia de un trato respetuoso mutuo y del estricto cumplimiento de los acuerdos alcanzados en el marco de dicho diálogo, que son esenciales para generar la confianza necesaria, asegurar la participación permanente de todas las partes y avanzar en la solución de las diferencias en beneficio del pueblo venezolano.",
+                "Nuestros países seguirán apoyando los esfuerzos de los Ex Presidentes y la prudente contribución del Vaticano, que debe ser altamente apreciada por todas las partes y representó una ayuda desinteresada para favorecer el proceso de diálogo en el hermano país.",
+                "Hacemos votos para que Venezuela encuentre el camino del entendimiento que le dará estabilidad hacia el futuro.",
+                "Susana Malcorra\n  \n  Canciller de Argentina",
+                "José Serra\n  \n  Canciller de Brasil",
+                "Heraldo Benjamín Muñoz\n  \n  Canciller de Chile",
+                "María Ángela Holguín Cuellar\n  \n  Canciller de Colombia",
+                "Carlos Raúl Morales Moscoso\n  \n  Canciller de Guatemala",
+                "Claudia Ruiz Massieu\n  \n  Canciller de México",
+                "Eladio Loizaga\n  \n  Canciller de Paraguay",
+                "Ricardo Luna\n  \n  Canciller de Perú",
+                "Rodolfo Nin Novoa\n  \n  Canciller de Uruguay"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-07-19h46-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-declaracao_dos_chanceleres_de_argentina,_brasil,_chile,_colombia,_guatemala,_mexico,_paraguai,_peru_e_uruguai.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/07"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "14": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita da ministra das Relações Exteriores e Culto da República Argentina, Susana Malcorra, ao Brasil – Brasília, 8 de dezembro de 2016",
+            "subtitulo": "",
+            "data": "07/12/2016",
+            "horario": "19h21",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/06/2017"
+            ],
+            "horario_atualizado": [
+                "18h35"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-da-ministra-das-relacoes-exteriores-da-republica-argentina-susana-malcorra-ao-brasil-brasilia-8-de-dezembro-de-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "A ministra das Relações Exteriores e Culto da República Argentina, Susana Malcorra, realizará visita de trabalho a Brasília no dia 8 de dezembro, ocasião em que será recebida pelo presidente Michel Temer e manterá encontro com o ministro José Serra.",
+                "Durante a visita, os chanceleres passarão em revista os temas da ampla agenda bilateral e intercambiarão opiniões sobre os contextos regional e global. O encontro servirá, também, para preparar a visita que o presidente da Argentina, Mauricio Macri, deverá fazer ao Brasil em 2017.",
+                "A Argentina é um dos principais parceiros políticos e comerciais do Brasil. Buenos Aires foi o destino das primeiras visitas bilaterais do presidente Michel Temer, em outubro, e do chanceler José Serra, em maio, em sinal da importância da aliança estratégica com a Argentina para a consecução dos objetivos da política externa brasileira.",
+                "O Brasil é o principal fornecedor de produtos à Argentina e principal destino das exportações do país vizinho. Nos primeiros dez meses de 2016, o intercâmbio bilateral somou mais de US$ 18 bilhões. Nesse período, a Argentina foi o terceiro maior parceiro comercial do Brasil.",
+                "Mais sobre as relações bilaterais Brasil-Argentina"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-07-19h21-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_da_ministra_das_relacoes_exteriores_e_culto_da_republica_argentina,_susana_malcorra,_ao_brasil_-_brasilia,_8_de_dezemb....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/07"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "15": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita do secretário de Estado de Comércio Internacional e presidente do Conselho de Comércio do Reino Unido",
+            "subtitulo": "",
+            "data": "07/12/2016",
+            "horario": "18h03",
+            "datatime": "NA",
+            "data_atualizado": [
+                "07/12/2016"
+            ],
+            "horario_atualizado": [
+                "18h04"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-do-secretario-de-estado-de-comercio-internacional-e-presidente-do-conselho-de-comercio-do-reino-unido",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O ministro das Relações Exteriores, José Serra, terá, hoje, 7 de dezembro, encontro com o secretário de Estado de Comércio Internacional e presidente do Conselho de Comércio do Reino Unido, Liam Fox.",
+                "Durante o encontro, serão repassados temas econômicos, comerciais e financeiros da agenda bilateral. Serão também tratadas questões de governança econômica internacional e temas da OMC e do G20.",
+                "Entre janeiro e outubro de 2016, a corrente de comércio bilateral totalizou US$ 4,4 bilhões, com superávit para o Brasil de US$ 435 milhões. De acordo com os dados mais recentes do Banco Central, o Reino Unido é o 4º maior investidor no Brasil, com estoque de US$ 36,7 bilhões."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-07-18h03-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_do_secretario_de_estado_de_comercio_internacional_e_presidente_do_conselho_de_comercio_do_reino_unido.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/07"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "16": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Concessão de \"agrément\" ao embaixador da Tunísia",
+            "subtitulo": "",
+            "data": "06/12/2016",
+            "horario": "19h06",
+            "datatime": "NA",
+            "data_atualizado": [
+                "06/12/2016"
+            ],
+            "horario_atualizado": [
+                "19h31"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-ao-embaixador-da-tunisia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que concedeu\n \n  agrément\n \n ao senhor Mohamed Hedi Soltani como embaixador extraordinário e plenipotenciário da República da Túnisia no Brasil.",
+                "O Brasil e a Tunísia estabeleceram relações diplomáticas em 1956.",
+                "Mais sobre as relações bilaterais Brasil-Tunísia"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-06-19h06-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_\"agrement\"_ao_embaixador_da_tunisia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/06"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "17": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Incêndio em Oakland",
+            "subtitulo": "",
+            "data": "05/12/2016",
+            "horario": "10h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "05/12/2016"
+            ],
+            "horario_atualizado": [
+                "20h12"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/incendio-em-oakland",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro manifesta seu profundo pesar pelo incêndio que vitimou, até o momento, 24 pessoas que participavam de uma festa, na Califórnia, nos Estados Unidos, na última sexta-feira.",
+                "O Governo brasileiro apresenta suas condolências às famílias das vítimas e expressa sua solidariedade ao povo e ao Governo dos Estados Unidos."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-05-10h40-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-incendio_em_oakland.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/05"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "18": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Morte de Ferreira Gullar",
+            "subtitulo": "",
+            "data": "05/12/2016",
+            "horario": "10h34",
+            "datatime": "NA",
+            "data_atualizado": [
+                "06/12/2016"
+            ],
+            "horario_atualizado": [
+                "18h59"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/morte-de-ferreira-gullar",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "\"Recebi, com muita tristeza, a notícia da morte de Ferreira Gullar, poeta maior, ensaísta, crítico de arte, tradutor e amigo querido.",
+                "Gullar deixa uma contribuição marcante para a cultura brasileira e, em particular, para nossa língua e literatura. Pioneiro desde os anos 1950, renovou, ao longo de mais de meio século, a poesia do país com uma obra brilhante e inovadora, que lhe valeu a admiração de tantos leitores e inúmeros prêmios – inclusive o Prêmio Camões, o mais importante da língua portuguesa.",
+                "Ele foi um homem de grande integridade, que soube combater o bom combate de ideias movido por seu amor ao Brasil e pela visão de um país democrático e socialmente mais justo.",
+                "Nesse momento de dor, em que o Brasil sofre perdas tão sentidas, expresso minhas mais profundas condolências aos familiares de Ferreira Gullar e despeço-me do grande amigo com suas palavras:",
+                "Corpo meu corpo corpoque tem um nariz assim uma bocadois olhose um certo jeito de sorrirde falarque minha mãe identifica como sendo de seu filhoque meu filho identificacomo sendo de seu pai",
+                "corpo que se pára de funcionar provocaum grave acontecimento na família:sem ele não há José Ribamar Ferreiranão há Ferreira Gullare muitas pequenas coisas acontecidas no planetaestarão esquecidas para sempre\"",
+                "José SerraMinistro de Estado das Relações Exteriores"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-05-10h34-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-morte_de_ferreira_gullar.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/05"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "19": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 05 de dezembro e 11 de dezembro de 2016",
+            "subtitulo": "",
+            "data": "02/12/2016",
+            "horario": "21h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "08/06/2017"
+            ],
+            "horario_atualizado": [
+                "12h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-nota-468",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "04 a 17/DEZ – Cancun, México. 13ª Conferência das Partes (COP-13) da Convenção sobre Diversidade Biológica (CDB) e reuniões correlatas – 8ª Conferência das Partes servindo de Reunião das Partes do Protocolo de Cartagena sobre Biossegurança (COP-MOP 8) e 2ª Conferência das Partes servindo de Reunião das Partes do Protocolo de Nagoia sobre Acesso e Repartição Justa e Equitativa dos Benefícios Derivados de sua Utilização (COP-MOP 2).",
+                "05 a 06/DEZ – Paris, França. Reunião do Comitê Gestor da iniciativa \"Renewable Energy Policy Network for the 21st Century\" (REN 21).",
+                "05 a 07/DEZ – Paris, França. IV Reunião do Grupo de Trabalho sobre Bio-, Nano- e Tecnologias Convergentes da Organização para a Cooperação e Desenvolvimento Econômico (BNCT/OCDE).",
+                "05 a 09/DEZ – Guadalajara, México. XI Fórum de Governança da Internet (IGF).",
+                "05 a 9/DEZ – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 155ª  Sessão do Conselho.",
+                "5 a 9/DEZ – Hamburgo, Alemanha. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Comitê do CODEX de Nutrição e Alimentos para Fins Especiais.",
+                "05 a 13/DEZ – Pequim, China. Missão do Secretário Executivo do Ministério da Ciência e Tecnologia, Inovações e Comunicações (MCTIC) à China, para compromissos nas áreas de cooperação espacial e em parques tecnológicos.",
+                "06/DEZ – Brasília, Brasil. 20ª Reunião Ordinária da Seção Brasil do Conselho Mundial da Água.",
+                "08/DEZ – Brasília, Brasil. 12ª Reunião do Grupo Executivo do Complexo Industrial da Saúde (GECIS).",
+                "08 a 09/DEZ – Pretória, África do Sul. Fórum de Ciências da África do Sul.",
+                "08 a 09/DEZ – Dongguan, China. II Fórum China-América Latina de Inovação e Transferência de Tecnologia.",
+                "10 a 11/DEZ – Dongguan, China. 10º Simpósio Mundial de Bioenergia."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-02-21h40-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_05_de_dezembro_e_11_de_dezembro_de_2016.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/02"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "20": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Trégua na Síria",
+            "subtitulo": "",
+            "data": "31/12/2016",
+            "horario": "18h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "01/01/2017"
+            ],
+            "horario_atualizado": [
+                "13h43"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/tregua-na-siria",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro recebeu, com satisfação, o anúncio de uma trégua nacional na Síria, iniciada em 30 de dezembro. Apelamos a ambas as partes para que se comprometam com a manutenção da trégua e se abstenham de atos que possam escalar os níveis de violência no país. O governo brasileiro saúda, também, a resolução relativa ao cessar-fogo adotada no dia de hoje pelo Conselho de Segurança das Nações Unidas e o respaldo que ela oferece aos esforços em curso. O governo brasileiro tem a convicção de que somente o diálogo inclusivo levará a uma solução definitiva para o conflito no país, que já dura mais de cinco anos. O Brasil reitera seu compromisso com a independência, soberania e integridade territorial da Síria e saúda a proposta de retomada das negociações entre as partes dentro de um mês, em Astana, no Cazaquistão."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-31-18h30-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-tregua_na_siria.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/31"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "21": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentados no Iraque",
+            "subtitulo": "",
+            "data": "31/12/2016",
+            "horario": "16h28",
+            "datatime": "NA",
+            "data_atualizado": [
+                "01/01/2017"
+            ],
+            "horario_atualizado": [
+                "12h25"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentadoiraqueb",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro condena o duplo atentado terrorista cometido hoje, 31 de dezembro, no mercado de al-Sinak em Bagdá, pelo autodenominado “Estado Islâmico”, que deixou mais de duas dezenas de mortos e mais de cinquenta feridos.",
+                "O governo brasileiro manifesta aos familiares das vítimas, ao povo e ao governo do Iraque suas mais sentidas condolências e reitera seu inequívoco repúdio a todo e qualquer ato de terrorismo."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-31-16h28-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentados_no_iraque.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/31"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "22": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Falecimento do diretor-executivo da Organização Internacional do Café",
+            "subtitulo": "",
+            "data": "31/12/2016",
+            "horario": "16h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "03/01/2017"
+            ],
+            "horario_atualizado": [
+                "13h07"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/falecimento-do-diretor-executivo-da-organizacao-internacional-do-cafe",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro recebeu, com pesar, a notícia do falecimento, ontem, 30 de dezembro de 2016, em Belo Horizonte, do diretor-executivo da Organização Internacional do Café (OIC), Robério Oliveira da Silva, e expressa os mais sentidos pêsames e solidariedade a sua família e amigos. Ao longo de quase três décadas, Robério Oliveira da Silva trabalhou pela promoção do café e dos demais produtos agrícolas brasileiros. No setor privado, em cargos de direção no governo e em instituições internacionais, contribuiu, com seu conhecimento, visão e ampla rede de contatos, para a modernização do setor e pela abertura de mercados e oportunidades. À frente da OIC desde 2011, tendo sido reeleito em setembro de 2016, Robério Oliveira da Silva conduziu revisão estratégica para adequar a organização a novos desafios, implementou medidas de modernização e promoveu a abertura da organização a novos membros exportadores e importadores de café. Por meio de seu trabalho competente, deu conteúdo ao contínuo comprometimento do Brasil com a OIC."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-31-16h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-falecimento_do_diretor-executivo_da_organizacao_internacional_do_cafe.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/31"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "23": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 02 de janeiro e 08 de janeiro de 2017",
+            "subtitulo": "",
+            "data": "31/12/2016",
+            "horario": "15h10",
+            "datatime": "NA",
+            "data_atualizado": [
+                "13/01/2017"
+            ],
+            "horario_atualizado": [
+                "13h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-23-e-31-de-dezembro-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "03 a 07/JAN – Chennai, Índia. 104ª edição do Congresso Indiano de Ciência (Indian Science Congress)."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-31-15h10-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_02_de_janeiro_e_08_de_janeiro_de_2017.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/31"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "24": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Embaixador da Grécia no Brasil, Kyriakos Amiridis",
+            "subtitulo": "",
+            "data": "30/12/2016",
+            "horario": "22h50",
+            "datatime": "NA",
+            "data_atualizado": [
+                "30/12/2016"
+            ],
+            "horario_atualizado": [
+                "22h55"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/embaixador-da-grecia-no-brasil-kyriakos-amiridis",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro lamenta confirmar a morte do embaixador extraordinário e plenipotenciário da República Helênica no Brasil, Kyriakos Amiridis, e expressa seus mais profundos sentimentos a seus familiares e amigos, ao povo e ao governo da Grécia.",
+                "O embaixador Amiridis servia no Brasil pela segunda vez. À frente da embaixada grega em Brasília desde janeiro deste ano, vinha realizando intenso trabalho para o aprofundamento das relações entre os dois países."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-30-22h50-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-embaixador_da_grecia_no_brasil,_kyriakos_amiridis.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/30"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "25": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Acidente de ônibus na Argentina",
+            "subtitulo": "",
+            "data": "28/12/2016",
+            "horario": "14h36",
+            "datatime": "NA",
+            "data_atualizado": [
+                "03/01/2017"
+            ],
+            "horario_atualizado": [
+                "14h42"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/acidentedeonibusnaargentina2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro vem prestando desde ontem assistência às vitimas de acidente de ônibus brasileiro na província de Entre Rios, Argentina. Funcionários do Consulado-Geral do Brasil em Buenos Aires se deslocaram para o local do acidente, e o Consulado do Brasil em Paso de los Libres presta apoio na fronteira. O Ministério das Relações Exteriores tem mantido contato permanente com os familiares dos passageiros, com as autoridades argentinas e brasileiras e com as empresas responsáveis pela viagem.",
+                "Na noite de ontem, aproximadamente 40 passageiros viajaram de volta para o Brasil. Dois cidadãos brasileiros pernoitaram em hospital na cidade de San José, recebendo cuidados médicos, acompanhados de familiares. O Itamaraty lamenta confirmar a morte de dois brasileiros no acidente e manifesta solidariedade a suas famílias. O Consulado-Geral do Brasil em Buenos Aires prestará todo o apoio necessário para a liberação dos corpos.",
+                "O governo brasileiro agradece a assistência das autoridades na província de Entre Rios."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-28-14h36-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-acidente_de_onibus_na_argentina.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/28"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "26": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Brasileiros desaparecidos nas Bahamas",
+            "subtitulo": "",
+            "data": "26/12/2016",
+            "horario": "20h17",
+            "datatime": "NA",
+            "data_atualizado": [
+                "03/01/2017"
+            ],
+            "horario_atualizado": [
+                "15h15"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/brasileiros-desaparecidos-nas-bahamas",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro vem atuando no caso do desaparecimento de brasileiros durante suposta travessia marítima entre as Bahamas e os Estados Unidos. A primeira consulta sobre o assunto foi recebida em 15 de novembro de 2016. Nessa data, familiares de brasileiros que viajaram para as Bahamas informaram a Embaixada do Brasil em Nassau de que haviam perdido contato com eles no dia 6 daquele mês.",
+                "O Ministério das Relações Exteriores informou imediatamente a Polícia Federal, as autoridades migratórias, policiais e as guardas costeiras bahamenses e norte-americanas, e vem trabalhando em conjunto com essas instituições. Até o momento, não obtiveram informações sobre o paradeiro desses cidadãos e tampouco sobre a embarcação que supostamente os levaria para os Estados Unidos.",
+                "Por meio da Embaixada do Brasil em Nassau e do Consulado-Geral do Brasil em Miami, o Itamaraty segue engajado na busca de informações, em contato permanente com as autoridades dos EUA e das Bahamas, bem como com as famílias dos brasileiros desaparecidos que procuraram auxílio.",
+                "Em respeito à privacidade dos brasileiros e à legislação em vigor, o Itamaraty não fornece detalhes sobre a identidade das pessoas em questão."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-26-20h17-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-brasileiros_desaparecidos_nas_bahamas.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/26"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "27": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Queda do avião russo no Mar Negro",
+            "subtitulo": "",
+            "data": "26/12/2016",
+            "horario": "14h24",
+            "datatime": "NA",
+            "data_atualizado": [
+                "03/01/2017"
+            ],
+            "horario_atualizado": [
+                "15h26"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/queda-do-aviao-russo-no-mar-negro",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro manifesta seu profundo pesar pela morte de 92 pessoas na queda de avião russo no Mar Negro, ocorrida ontem, dia de Natal.",
+                "O governo brasileiro apresenta suas sentidas condolências às famílias das vítimas e expressa sua solidariedade ao povo e ao governo russos."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-26-14h24-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-queda_do_aviao_russo_no_mar_negro.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/26"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "28": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 23 e 31 de dezembro de 2016",
+            "subtitulo": "",
+            "data": "23/12/2016",
+            "horario": "22h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/12/2016"
+            ],
+            "horario_atualizado": [
+                "15h15"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-23-e-31-de-dezembro-de-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "24/DEZ – Hyderabad, Índia. Reunião do GT do BRICS sobre Tecnologia Geoespacial e Oficina do BRICS sobre Geodésia."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-23-22h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_23_e_31_de_dezembro_de_2016.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/23"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "29": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Situação na República Democrática do Congo",
+            "subtitulo": "",
+            "data": "21/12/2016",
+            "horario": "21h49",
+            "datatime": "NA",
+            "data_atualizado": [
+                "21/12/2016"
+            ],
+            "horario_atualizado": [
+                "21h54"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/situacao-na-republica-democratica-do-congo2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro acompanha com preocupação a situação na República Democrática do Congo, onde choques entre forças de segurança e manifestantes provocaram a morte de cerca de 20 civis em Kinshasa no dia de ontem, 20/12, segundo declarações de altos funcionários da ONU.",
+                "O governo brasileiro acolhe com satisfação a retomada, hoje, do diálogo entre governo e oposição mediado pela Conferência Nacional Episcopal do Congo (CENCO) e conclama as partes envolvidas a agirem com moderação e a redobrarem os esforços com vistas à obtenção de solução, baseada em diálogo inclusivo, para a realização das próximas eleições presidenciais no país.",
+                "A Embaixada do Brasil em Kinshasa acompanha a situação no país e mantém contato com a comunidade brasileira residente na capital congolesa, a fim de prestar a assistência que se fizer eventualmente necessária."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-21-21h49-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-situacao_na_republica_democratica_do_congo.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/21"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "30": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Contenciosos na OMC sobre regimes tributários brasileiros",
+            "subtitulo": "",
+            "data": "21/12/2016",
+            "horario": "20h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "21/12/2016"
+            ],
+            "horario_atualizado": [
+                "21h59"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/contenciosos-na-omc-sobre-regimes-tributarios-brasileiros",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Foi circulado, ontem, dia 20 de dezembro, em Genebra, o relatório definitivo do painel que examinou regimes tributários brasileiros questionados pela União Europeia e pelo Japão na OMC.  O conteúdo do documento é de caráter sigiloso e só será divulgado ao público quando estiver disponível nos três idiomas oficiais da Organização, no primeiro trimestre de 2017.  A decisão será objeto de apelação por parte do Brasil.",
+                "O governo brasileiro buscará, nesse processo, preservar o apoio necessário à política industrial e à pesquisa e desenvolvimento e assegurar ambiente regulatório propício à produção e à atração de investimentos no país."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-21-20h27-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-contenciosos_na_omc_sobre_regimes_tributarios_brasileiros.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/21"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "31": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Explosão na Cidade de Tultepec, México",
+            "subtitulo": "",
+            "data": "21/12/2016",
+            "horario": "19h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "21/12/2016"
+            ],
+            "horario_atualizado": [
+                "19h51"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/explosao-na-cidade-de-tultepec-mexico",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro manifesta seu profundo pesar pela explosão ocorrida ontem num mercado de fogos de artifício da cidade de Tultepec, no México, que vitimou ao menos 31 pessoas e deixou dezenas de feridos e desaparecidos.",
+                "O governo brasileiro apresenta suas condolências às famílias das vítimas e expressa sua solidariedade ao povo e ao governo mexicano."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-21-19h27-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-explosao_na_cidade_de_tultepec,_mexico.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/21"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "32": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Ataques em Karak, na Jordânia",
+            "subtitulo": "",
+            "data": "20/12/2016",
+            "horario": "21h41",
+            "datatime": "NA",
+            "data_atualizado": [
+                "21/12/2016"
+            ],
+            "horario_atualizado": [
+                "11h54"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/ataques-em-karak-na-jordania",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro condena os ataques que resultaram em dez mortos e mais de trinta feridos na região de Karak, na Jordânia, na tarde do último domingo, 18 de dezembro.",
+                "Ao manifestar condolências e solidariedade aos familiares das vítimas, ao povo e ao governo da Jordânia, o governo brasileiro reitera seu veemente repúdio a todo ato de terrorismo, qualquer que seja sua motivação."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-20-21h41-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-ataques_em_karak,_na_jordania.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/20"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "33": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Incidente trágico em Berlim",
+            "subtitulo": "",
+            "data": "20/12/2016",
+            "horario": "21h22",
+            "datatime": "NA",
+            "data_atualizado": [
+                "21/12/2016"
+            ],
+            "horario_atualizado": [
+                "12h37"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/incidente-tragico-em-berlim",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com profunda consternação, da morte de 13 pessoas após a investida, desde ontem sob investigação, de um caminhão contra frequentadores de tradicional Mercado de Natal em Berlim, em horário de grande movimento.",
+                "O governo brasileiro manifesta sua solidariedade e condolências aos familiares das vítimas, ao povo e ao governo da República Federal da Alemanha e expressa seus votos de pronta recuperação aos feridos."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-20-21h22-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-incidente_tragico_em_berlim.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/20"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "34": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Assassinato do embaixador da Rússia na Turquia",
+            "subtitulo": "",
+            "data": "19/12/2016",
+            "horario": "21h29",
+            "datatime": "NA",
+            "data_atualizado": [
+                "19/12/2016"
+            ],
+            "horario_atualizado": [
+                "21h36"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/assassinato-do-embaixador-da-russia-na-turquia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro expressa sua consternação e condena, nos mais fortes termos, o assassinato do embaixador da Rússia na Turquia, Andrey Gennadyevich Karlov.",
+                "Ao manifestar condolências e solidariedade aos familiares da vítima, ao povo e ao governo da Federação da Rússia, o governo brasileiro reitera seu veemente repúdio a todas as formas de terrorismo, qualquer que seja sua motivação."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-19-21h29-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-assassinato_do_embaixador_da_russia_na_turquia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/19"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "35": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Autorização da CAMEX para início de procedimento na OMC contra o Canadá acerca de subsídios oferecidos à indústria aeronáutica",
+            "subtitulo": "",
+            "data": "19/12/2016",
+            "horario": "13h35",
+            "datatime": "NA",
+            "data_atualizado": [
+                "19/12/2016"
+            ],
+            "horario_atualizado": [
+                "13h39"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/autorizacao-da-camex-para-inicio-de-procedimento-na-omc-contra-o-canada-acerca-de-subsidios-oferecidos-a-industria-aeronautica",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Conselho de Ministros da Câmara de Comércio Exterior (CAMEX) autorizou abertura de procedimento de solução de controvérsias contra o Canadá na OMC acerca de subsídios concedidos à indústria aeronáutica, especificamente à companhia Bombardier.",
+                "Só em 2016, o Governo da província de Quebec injetou US$ 2,5 bilhões na Bombardier. Há indicações de que o governo federal canadense pretende fazer em breve novo aporte significativo no capital da empresa para assegurar a viabilidade da nova linha aviões C-Series e sua colocação no mercado a preços artificialmente reduzidos.",
+                "Na avaliação do Brasil, o apoio concedido pelo governo canadense à Bombardier tem afetado as condições de competitividade no mercado, de maneira incompatível com os compromissos assumidos pelo Canadá na OMC."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-19-13h35-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-autorizacao_da_camex_para_inicio_de_procedimento_na_omc_contra_o_canada_acerca_de_subsidios_oferecidos_a_industria_aeronautic....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/19"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "36": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentado na Turquia",
+            "subtitulo": "",
+            "data": "18/12/2016",
+            "horario": "15h18",
+            "datatime": "NA",
+            "data_atualizado": [
+                "19/12/2016"
+            ],
+            "horario_atualizado": [
+                "13h37"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentado-na-turquia-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro condena o atentado terrorista que causou a morte de 14 pessoas e feriu dezenas de outras, nos arredores da Universidade de Kayseri, na Turquia, em 17 de dezembro.Ao manifestar condolências e solidariedade aos familiares das vítimas, ao povo e ao governo da Turquia, o governo brasileiro reitera seu veemente repúdio a todo ato de terrorismo, qualquer que seja sua motivação."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-18-15h18-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentado_na_turquia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/18"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "37": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil do Subsecretário de Assuntos Políticos dos Estados Unidos – 17 de dezembro de 2016",
+            "subtitulo": "",
+            "data": "16/12/2016",
+            "horario": "15h49",
+            "datatime": "NA",
+            "data_atualizado": [
+                "03/10/2018"
+            ],
+            "horario_atualizado": [
+                "16h04"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-do-subsecretario-de-assuntos-politicos-dos-estados-unidos-17-de-dezembro-de-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Ministro das Relações Exteriores, José Serra, recebe o Subsecretário de Assuntos Políticos dos Estados Unidos, embaixador Thomas Shannon, no Palácio Itamaraty, em Brasília. Foto: Vitor Ávila.",
+                "Secretário-Geral das Relações Exteriores, embaixador Marcos Galvão, recebe o embaixador Thomas Shannon. Foto: Vitor Ávila.",
+                "Reunião com a delegação Estados Unidos, conduzida pelo Secretário-Geral das Relações Exteriores, embaixador Marcos Galvão. Foto: Vitor Ávila.",
+                "No dia 17 de dezembro, o Subsecretário de Assuntos Políticos dos Estados Unidos, embaixador Thomas Shannon, foi recebido em Brasília pelo Ministro das Relações Exteriores, José Serra, em almoço de trabalho no Palácio Itamaraty. Thomas Shannon também participou de reunião conduzida pelo Secretário-Geral das Relações Exteriores, embaixador Marcos Galvão, da qual participaram outros representantes do Itamaraty e membros da delegação dos Estados Unidos.",
+                "Durante as reuniões, os representantes do Brasil e dos Estados Unidos passaram em revista os temas da ampla agenda bilateral e intercambiaram informações sobre os contextos regional e global. A intensidade das relações bilaterais é demonstrada pelos mais de trinta mecanismos de diálogo entre os Governos dos dois países, que abarcam temas como comércio, investimentos, energia, meio ambiente, educação, ciência, tecnologia e inovação, defesa, cooperação trilateral, igualdade de gênero e combate ao racismo.",
+                "Mais sobre as relações bilaterais Brasil-Estados Unidos"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-16-15h49-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_subsecretario_de_assuntos_politicos_dos_estados_unidos_-_17_de_dezembro_de_2016.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/16"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "38": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 19 de dezembro e 25 de dezembro de 2016",
+            "subtitulo": "",
+            "data": "16/12/2016",
+            "horario": "14h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "17/12/2016"
+            ],
+            "horario_atualizado": [
+                "22h24"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-05-de-dezembro-e-11-de-dezembro-de-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "19/DEZ - Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião informal de Parceiros de Recursos.",
+                "19/DEZ - Genebra, Suíça. Conferência das Partes da Convenção Internacional sobre Proteção de Todas as Pessoas contra o Desaparecimento Forçado.",
+                "19 a 21/DEZ - Roma, Itália. Programa Mundial de Alimentos (PMA). Workshop Internacional sobre Monitoramento e Avaliação do Programa de Aquisição de Alimentos África (PAA África).",
+                "20/DEZ - Nova York, Estados Unidos. Debate aberto de alto nível do Conselho de Segurança das Nações Unidas sobre tráfico de Pessoas em situações de conflito.",
+                "21/DEZ - Foz do Iguaçu, Brasil. 273ª Reunião Ordinária do Conselho de Administração de Itaipu Binacional.",
+                "21/DEZ - Brasília, Brasil. 44ª Reunião do Comitê Intergovernamental da Hidrovia Paraguai-Paraná."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2016-12-16-14h40-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_19_de_dezembro_e_25_de_dezembro_de_2016.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2016/12/16"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2016-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

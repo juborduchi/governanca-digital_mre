@@ -1,0 +1,596 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 29 de novembro e 07 de dezembro de 2014",
+            "subtitulo": "",
+            "data": "28/11/2014",
+            "horario": "21h53",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-29-de-novembro-e-07-de-dezembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "01 e 02/DEZ – Lusaka, Zâmbia. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 18ª Sessão Extraordinária do Comitê de Pesca e Aquicultura da África.",
+                "01 e 02/DEZ – Genebra, Suíça. Encontro Preparatório à IV Reunião de Estados sobre o Fortalecimento do Cumprimento do Direito Internacional Humanitário.",
+                "01 a 02/DEZ – Mônaco. Mesa-redonda \"Securing a New Agreement to Protect High Seas Biodiversity\".",
+                "01 a 03/DEZ – Genebra, Suíça. Reunião do Grupo Assessor Multissetorial (\"Multistakeholder Advisory Group\" – MAG) do Fórum de Governança da Internet (IGF).",
+                "01 a 04/DEZ – Karachi, Paquistão. VIII Exposição Internacional de Defesa (IDEAS).",
+                "01 a 05/DEZ – Genebra, Suíça. Reunião dos Estados-Partes na Convenção sobre a Proibição de Armas Biológicas e à Base de Toxinas (DDS).",
+                "01 a 05/DEZ – Haia, Países Baixos. XIX Sessão da Conferência dos Estados-Partes na Convenção sobre a Proibição de Armas Químicas (DDS).",
+                "01 a 05/DEZ – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 150ª Sessão do Conselho da FAO.",
+                "01 a 05/DEZ – Londres, Reino Unido. Reunião do Conselho da Organização Marítima Internacional (IMO).",
+                "01 a 07/DEZ – Guadalajara, México. Feira Internacional do Livro de Guadalajara, com participação do Brasil.",
+                "01 a 10/DEZ – Moscou, Rússia. Missão da Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior (ANDIFES) e da Associação Brasileira de Educação Internacional (FAUBAI).",
+                "01 a 12/DEZ – Lima, Peru. 20ª Conferência das Partes (COP-20) na Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC), 10ª Reunião das Partes no Protocolo de Quioto (CMP-10), 7ª parte da segunda sessão do Grupo de Trabalho \"Ad Hoc\" sobre a Plataforma de Durban para Ação Fortalecida (ADP-2.7) e 41ª Sessão dos Órgãos Subsidiários de Assessoramento Científico e Tecnológico e de Implementação (SBSTA 41 e SBI 41) da UNFCCC.",
+                "02/DEZ – Montevidéu, Uruguai. Grupo de Trabalho da UNASUL sobre reforma do Sistema Interamericano de Direitos Humanos.",
+                "02 e 03/DEZ – Cantão, China. \"2014 World Investment Summit Guangzhou\".",
+                "02 e 03/DEZ – Genebra, Suíça. 3ª Sessão do Fórum Global sobre Empresas e Direitos Humanos.",
+                "02 e 03/DEZ – Brasília. Reuniões do Grupo Assessor Temático (GAT) do Programa NoPa – Novas Parcerias Brasil-Alemanha.",
+                "02 a 04/DEZ – Brasília. 95ª Reunião Ordinária Conselho Nacional dos Direitos das Pessoas com Deficiência – CONADE.",
+                "02 a 05/DEZ – Brasília. Seminário Internacional de Controle Social e Direitos da Pessoa com Deficiência.",
+                "02 a 05/DEZ – Brasília. IV Reunião de Ministros da Saúde dos BRICS.",
+                "03/DEZ – Paris, França. UNESCO. Patrimônio e Diversidade Cultural em Risco no Iraque e na Síria.",
+                "03 a 05/DEZ – Rósario, Argentina. Cúpula MERCOCIDADES. Participação da cidade de Porto Alegre.",
+                "04/DEZ – Brasília. Primeira entrega de resultados do Terceiro Estudo Regional Comparativo e Explicativo (TERCE), promovido pelo Laboratório Latino-americano de Avaliação da Qualidade da Educação (LLECE), em coordenação com a UNESCO/Santiago.",
+                "04 e 05/DEZ – Brasília. Seminário Internacional Sistemas Educacionais dos Países da UNASUL, promovido pelo MEC.",
+                "04 e 05/DEZ – Brasília. Grupo de Trabalho da CELAC sobre o Programa de Atividades da Década Latinoamericana e Caribenha dos Afrodescendentes.",
+                "04 a 07/DEZ – Nairóbi, Quênia. 4º Festival de Cinema Brasileiro.",
+                "04 a 14/DEZ – Havana, Cuba. 23º Festival Internacional del Nuevo Cine Latinoamericano.",
+                "05/DEZ – Quito, Equador. Concerto da Orquestra UNASUL, por ocasião da inauguração da nova sede da Secretaria-Geral da UNASUL.",
+                "05/DEZ a 06/FEV/2015 – Nova Délhi, Índia. Residência artística de Amanda Melo da Mota, vencedora do III Concurso Itamaraty de Arte Contemporânea, na Fundação Sanskriti.",
+                "06 e 07/DEZ – Veracruz, México. XXIV Cúpula Iberoamericana. X Encontro Empresarial.",
+                "06 a 14/DEZ – Iaundê, República de Cameroun. Feira PROMOTE 2014.",
+                "07/DEZ – Base de Taiyuan, China. Lançamento do Satélite Sino-Brasileiro de Recursos Terrestres CBERS-4."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-11-28-21h53-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_29_de_novembro_e_07_de_dezembro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/11/28"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Reunião do Conselho de Chefes de Estado e de Governo e inauguração da nova sede da União de Nações Sul-Americanas (UNASUL) - Guayaquil e Quito, Equador, 4 e 5 de dezembro de 2014 - Credenciamento de Imprensa",
+            "subtitulo": "",
+            "data": "25/11/2014",
+            "horario": "17h16",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reuniao-do-conselho-de-chefes-de-estado-e-de-governo-e-inauguracao-da-nova-sede-da-uniao-de-nacoes-sul-americanas-unasul-guayaquil-e-quito-equador-4-e-5-de-dezembro-de-2014-credenciamento-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Informa-se aos profissionais de imprensa interessados em participar da cobertura da Reunião do Conselho de Chefes de Estado e de Governo da União de Nações Sul-Americanas (UNASUL), a ser realizada nas cidades de Guayaquil e Quito, Equador, em 4 e 5 de dezembro de 2014 (seguida de inauguração da nova sede da UNASUL na capital equatoriana, no dia 5), que o credenciamento para o referido evento deverá ser realizado diretamente junto à organização do evento, impreterivelmente até o dia 27 de novembro,  por meio da página eletrônica http://acreditaciones.mmrree.gob.ec/Prensa/."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-11-25-17h16-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_do_conselho_de_chefes_de_estado_e_de_governo_e_inauguracao_da_nova_sede_da_uniao_de_nacoes_sul-americanas_(unasul)_-_....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/11/25"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 22 de novembro e 30 de novembro de 2014",
+            "subtitulo": "",
+            "data": "21/11/2014",
+            "horario": "21h16",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-22-de-novembro-e-30-de-novembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "07/OUT a 26/NOV – Nova York, EUA. Reunião da III Comissão da 69ª Assembleia Geral das Nações Unidas.",
+                "17 a 28/NOV – Genebra, Suíça. 53ª Sessão do Comitê de Direitos Econômicos, Sociais e Culturais.",
+                "19 a 23/NOV – Marraquexe, Marrocos. Missão empresarial do Grupo de Líderes Empresariais (LIDE) ao Marrocos e reunião empresarial Brasil-Marrocos.",
+                "23 a 27/NOV – Dubai, Emirados Árabes Unidos. Programa Mundial de Alimentos (PMA). 29ª Sessão da Comissão de Controle de Gafanhoto do Deserto na Região Central e 33ª Sessão do Comitê Executivo.",
+                "23 a 25/NOV – Seul, Coréia do Sul. \"Startup Nations Summit\".",
+                "24/NOV – Roma, Itália. Fundo Internacional para o Desenvolvimento Agrícola (FIDA). 134ª Sessão do Comitê de Auditoria.",
+                "24 e 25/NOV – Rio de Janeiro. Jornada sobre os Objetivos de Desenvolvimento Sustentável - ODS.",
+                "24 e 25/NOV – Lisboa, Portugal. III Reunião dos Pontos Focais em Ciência, Tecnologia e Ensino Superior da Comunidade dos Países de Língua Portuguesa (CPLP).",
+                "24 e 25/NOV – Xangai, China. 10ª Reunião do Comitê Político da Parceria Internacional para Cooperação em Eficiência Energética (IPEEC).",
+                "24 a 27/NOV – Nova Délhi, Índia. UNESCO. Conferência internacional “Da exclusão ao empoderamento: o papel das tecnologias de informação e comunicação para pessoas portadoras de deficiência”.",
+                "24 a 27/NOV – Nova Délhi, Índia. Conferência Internacional para Promover a Inclusão de Pessoas com Deficiência (UNESCO).",
+                "24 a 28/NOV - Bali, Indonésia. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 36ª Sessão da Comissão do CODEX sobre Nutrição e Alimentos destinados a Dietas Alimentares.",
+                "24 a 28/NOV – Paris, França. UNESCO. 9ª Sessão do Comitê Intergovernamental para a Salvaguarda do Patrimônio Cultural Imaterial.",
+                "24 a 28/NOV – Belo Horizonte. Oficina de Roteiro com o cineasta Avi Mograbi, no âmbito do 18º Festival do Filme Documentário e Etnográfico – FORUMDOC.BH.",
+                "24 a 28/NOV – Paris, França. 9ª Sessão do Comitê Intergovernamental de Salvaguarda do Patrimônio Cultural Imaterial.",
+                "24 a 28/NOV – Genebra, Suíça. 19ª Sessão do Conselho de Administração do Fundo Voluntário das Nações Unidas sobre Formas Contemporâneas de Escravidão.",
+                "25/NOV – Buenos Aires, Argentina. XXXIX Reunião do Comitê Coordenador Regional do MERCOSUL Cultural.",
+                "25/NOV – Buenos Aires, Argentina. Reunião do Grupo de Trabalho sobre Normativa 2012-2013 do MERCOSUL.",
+                "25/NOV – Buenos Aires, Argentina. Reunião Plenária do Foro Consultivo Econômico-Social do MERCOSUL.",
+                "25/NOV – Buenos Aires, Argentina. Reunião do Comitê Coordenador Regional de Cultura (RMC-CCR) do MERCOSUL.",
+                "25/NOV – Brasília. 188ª Sessão Ordinária da Comissão Interministerial para os Recursos do Mar (CIRM).",
+                "25/NOV – Bruxelas, Bélgica. Fórum da \"Rede Europeia de Agências de Inovação\" (TAFTIE) 2014.",
+                "25 e 26/NOV – Genebra, Suíça. 9ª Sessão do Fórum sobre Minorias.",
+                "25 e 26/NOV – Roma, Itália. Seminário Bi-regional Europa-América Latina: Inclusão Social Ativa (CEPAL – Instituto Ítalo-Latino-Americano).",
+                "25 a 27/NOV – Viena, Áustria. 42ª Sessão da Junta de Desenvolvimento Industrial (IDB) da Organização das Nações Unidas para Desenvolvimento Industrial (UNIDO).",
+                "25 a 28/NOV – Genebra, Suíça. 105ª Sessão do Conselho da Organização Internacional para as Migrações.",
+                "25 a 28/NOV – Caracas, Venezuela. II Reunião de Desenvolvimento Social da CELAC.",
+                "25 a 28/NOV – Luanda, Angola. II Conferência da CPLP sobre Governo Eletrônico.",
+                "26/NOV – Buenos Aires, Argentina. XXXVII Reunião de Ministros da Cultura do MERCOSUL.",
+                "26/NOV – Lisboa, Portugal. III Reunião de Pontos Focais da Educação da Comunidade dos Países de Língua Portuguesa (CPLP).",
+                "26/NOV – Buenos Aires, Argentina. Reunião dos Ministros da Cultura do MERCOSUL.",
+                "26/NOV – Genebra, Suíça. Comemoração do Dia Internacional de Solidariedade ao Povo Palestino.",
+                "26/NOV – Genebra, Suíça. Reunião privada com os Peritos Independentes do Grupo de Trabalho sobre Empresas e Direitos Humanos.",
+                "26/NOV – Brasília. V Reunião do Grupo de Trabalho Interministerial sobre a Agenda para o Desenvolvimento Pós-2015.",
+                "26 e 27/NOV – Buenos Aires, Argentina. XCVI Reunião Ordinária do Grupo do Mercado Comum do MERCOSUL (GMC).",
+                "26 e 27/NOV – Gent e Bruxelas, Bélgica. Concerto do artista Lucas Santana.",
+                "26 a 28/NOV – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 8ª Sessão do Grupo Técnico de Trabalho Intergovernamental sobre Recursos Genéticos Animais para Agricultura e Alimentação.",
+                "26 a 28/NOV – Genebra, Suíça. Painel Intersessional da Comissão das Nações Unidas sobre Ciência e Tecnologia para o Desenvolvimento (CSTD).",
+                "26 a 30/NOV – Singapura. Festival Keppel de Cinema Latino Americano.",
+                "26 a 30/NOV – Pequim, China. 5ª Edição do \"Brazil Film Fest BRAPEQ\".",
+                "27/NOV – Buenos Aires, Argentina. Reunião do Grupo de Incorporação da Venezuela ao MERCOSUL.",
+                "27/NOV – Makati, Filipinas. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Evento de Encerramento do Ano Internacional da Agricultura Familiar.",
+                "27/NOV – Brasília. Reunião extraordinária do Grupo Interministerial IMO.",
+                "27 e 28/NOV – Islamabad, Paquistão. 10º Encontro dos Ministros de Educação da Iniciativa E-9 da UNESCO.",
+                "27 e 28/NOV – Brasília. IV Reunião do Grupo de Trabalho de Peritos Agrícolas do BRICS.",
+                "27 e 28/NOV – Islamabad, Paquistão. UNESCO. 10ª Reunião Ministerial de Revisão do E-9.",
+                "27 a 30/NOV – Brasília. 3ª Conferência Nacional de Economia Solidária.",
+                "27/NOV a 5/DEZ. Salvador. Visita do Reitor da Universidade de Moçambique, Ismael Cassamo Jamal, ao Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA).",
+                "28/NOV – São Paulo. Reunião Ordinária do Comitê Gestor da Internet no Brasil (CGI.br).",
+                "28 e 29/NOV – Tarija, Bolívia. Reunião de Ministros de Industrialização e Recursos Naturais do G77/China.",
+                "28 e 29/NOV – Tarija, Bolívia. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião Ministerial sobre Recursos Naturais e Industrialização.",
+                "29 e 30/NOV – São Paulo. EuroPós – feira de graduação e pós-graduação para estudos na Europa."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-11-21-21h16-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_22_de_novembro_e_30_de_novembro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/11/21"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Condenação a atentado em Jerusalém",
+            "subtitulo": "",
+            "data": "19/11/2014",
+            "horario": "21h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/condenacao-a-atentado-em-jerusalem",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro condena com veemência o atentado ocorrido ontem em uma sinagoga em Jerusalém Ocidental, que provocou a morte de cinco israelenses e feriu oito pessoas.",
+                "Neste momento de pesar e consternação, o povo e o Governo brasileiro manifestam a sua solidariedade com as famílias enlutadas.",
+                "O Brasil reitera a condenação categórica de práticas terroristas, independentemente de motivações de qualquer natureza. O Governo brasileiro confia na capacidade das lideranças israelenses e palestinas de reduzir a tensão na região e dar seguimento às negociações de paz.",
+                "O Brasil reafirma seu apoio à solução de dois Estados, Israel e Palestina, convivendo em paz e segurança, dentro de fronteiras mutuamente acordadas e internacionalmente reconhecidas."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-11-19-21h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-condenacao_a_atentado_em_jerusalem.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/11/19"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 15 de novembro e 23 de novembro de 2014",
+            "subtitulo": "",
+            "data": "14/11/2014",
+            "horario": "21h14",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-15-de-novembro-e-23-de-novembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "15 a 23/NOV – Nova York, EUA. Reunião da III Comissão da 69ª Assembleia Geral das Nações Unidas.",
+                "15 a 21/NOV – São José, Costa Rica. 106ª Sessão Ordinária da Corte Interamericana de Direitos Humanos.",
+                "17 e 18/NOV – Colombo, Sri Lanka. Missão da FIESP ao Sri Lanka.",
+                "17 e 18/NOV – San Martin, Argentina. Seminário \"O pensamento social brasileiro\", em parceria com a Universidade Nacional de San Martin.",
+                "17 e 18/NOV – Buenos Aires, Argentina. Reunião do Grupo de Cooperação Internacional (GCI) do MERCOSUL.",
+                "17 e 18/NOV – Montevidéu, Uruguai. CXXXIX Reunião Ordinária da Comissão de Comércio (CCM) do MERCOSUL.",
+                "17 a 19/NOV – Rio de Janeiro, Brasil. Reunião de Chefes de Instituições Nacionais de Estatística dos BRICS.",
+                "17 a 19/NOV – Rio de Janeiro, Brasil. Reunião do Grupo de Trabalho de Defesa do IBAS.",
+                "17 a 19/NOV – Santiago, Chile. Conferência Regional sobre a Mulher – 51ª Mesa Diretiva.",
+                "17 a 20/NOV – Santiago, Chile. Missão da ABILUX, SINDIVEL e Apex-Brasil.",
+                "17 a 20/NOV – Houston, Estados Unidos. Semana da Diáspora Brasileira em Houston.",
+                "17 a 20/NOV – Istambul, Turquia. Missão empresarial da Associação Brasileira de Empresas de Componentes para Couro, Calçados e Artefatos (Assintecal), organizada pela APEX-Brasil. Serão realizadas reuniões com empresas locais e visita à Feira IDF - Istanbul Leather Fair.",
+                "17 a 21/NOV – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho nº 3 \"Regulamentos Técnicos e Avaliação de Conformidade\" (SGT nº 3) do MERCOSUL.",
+                "17 a 21/NOV – Lima, Peru. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 46ª Sessão do Comitê do CODEX sobre Higiene Alimentar.",
+                "18/NOV – Salta, Argentina. Workshop de Turismo de Alta Temporada. Consulado–Geral do Brasil em Córdoba.",
+                "18/NOV – Buenos Aires, Argentina. Reunião Brasil-Argentina sobre o memorando de entendimento para o esclarecimento de graves violações de direitos humanos.",
+                "18 e 19/NOV – Brasília, Brasil. Evento preparatório para a II Conferência Global de Alto Nível em Segurança no Trânsito.",
+                "18 e 19/NOV – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho nº 7 \"Indústria\" (SGT nº 7) do MERCOSUL.",
+                "18 a 21/NOV – Buenos Aires, Argentina. XXV Reunião de Altas Autoridades em Direitos Humanos e Ministérios das Relações Exteriores do MERCOSUL – RAADH.",
+                "19/NOV – Rio de Janeiro, Brasil. Reunião de Ministros da Defesa do IBAS.",
+                "19 e 20/NOV – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho nº 8 \"Agricultura\" (SGT nº 8) do MERCOSUL.",
+                "19 e 20/NOV – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho nº 14 \"Integração Produtiva\" (SGT nº 14) do MERCOSUL.",
+                "19 e 20/NOV – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho nº 6 \"Meio Ambiente\" (SGT nº 6) do MERCOSUL.",
+                "19 a 21/NOV – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). FAO / OMS - Segunda Conferencia Internacional sobre Nutriçao.",
+                "19-21/NOV Rio de Janeiro, Brasil. Seminário Regional sobre Biodiversidade Marinha em Áreas Além da Jurisdição Nacional (BBNJ).",
+                "19 a 21/NOV – Luanda, Angola. Fórum de Gestão do Ensino Superior.",
+                "19 a 21/NOV – Istambul, Turquia. Evento: Cúpula “6th Atlantic Council Energy and Economic Summit – Doing Business in Turbulent Times”. Participação brasileira: Embaixador Luiz Henirque Fonseca – Consbras Istambul.",
+                "19 a 21/NOV – Cidade do México, México. Reunião do Comitê Internacional Científico do Projeto “Rota do Escravo: Resistência, Liberdade, Patrimônio\".",
+                "19 a 21/NOV – Paris, França. 29ª Sessão do Conselho Intergovernamental do Programa Internacional para o Desenvolvimento da Comunicação (PIDC).",
+                "19 a 21/NOV – Luanda, Angola. Fórum de Gestão do Ensino Superior.",
+                "19 a 21/NOV – Brasília, Brasil. I Seminário Nacional sobre Deficiência e Funcionalidade.",
+                "19 a 21/NOV – Roma, Itália. II Conferência Internacional sobre Nutrição.",
+                "19 a 23/NOV – Praia, Cabo Verde. Feira Internacional de Cabo Verde.",
+                "19 a 30/NOV – Amsterdã, Países Baixos. Festival Internacional de Documentários de Amsterdã.",
+                "20/NOV – Paris, França. Dia Mundial da Filosofia 2014 – Lançamento do “Manual de Filosofia, uma Perspectiva Sul Sul”.",
+                "20/NOV – Buenos Aires, Argentina. Reunião Especializada de Ministérios Públicos do MERCOSUL (REMPM).",
+                "20/NOV – Buenos Aires, Argentina. Reunião Especializada de Turismo (RET) do MERCOSUL.",
+                "20/NOV – Buenos Aires, Argentina. Comissão Permanente sobre Pessoas com Deficiência do Mercosul.",
+                "20/NOV – Buenos Aires, Argentina. Grupo de Trabalho do Mercosul sobre Adultos Idosos.",
+                "20/NOV – Buenos Aires, Argentina. Grupo de Trabalho do Mercosul sobre Gênero e DDHH das Mulheres.",
+                "20/NOV – Nova Iorque, Estados Unidos. Reunião de Alto Nível da Assembleia Geral das Nações Unidas alusiva ao 25º Aniversário da Convenção sobre os Direitos da Criança.",
+                "20/NOV Brasília, Brasil. 1a Reunião do Conselho do Centro Rio+.",
+                "20 e 21/NOV – Montevidéu, Uruguai. 55ª Reunião do Conselho do Centro Brasileiro-Argentino de Biotecnologia (CBAB/Cabbio).",
+                "20 e 21/NOV – Recife, Brasil. VII TELECON – 7º Congresso de Direito de Informática e Telecomunicações.",
+                "20 e 21/NOV – Buenos Aires, Argentina. Reunião de Ministras e Altas Autoridades da Mulher do MERCOSUL (RMAAM).",
+                "20 e 21/NOV – Buenos Aires, Argentina. Reunião de Ministras e Altas Autoridades da Mulher do Mercosul.",
+                "20 e 21/NOV – Buenos Aires, Argentina. Reunião da Comissão de Promoção e Proteção dos Direitos das Pessoas com Deficiência no âmbito da RAADH.",
+                "21/NOV – Buenos Aires, Argentina. Reunião de Ministros de Turismo (RMTUR) do MERCOSUL.",
+                "21/NOV – Buenos Aires, Argentina. Reunião de Altas Autoridades na Área de Direitos Humanos (RAADDHH) do MERCOSUL.",
+                "21/NOV – Buenos Aires, Argentina. Reunião de Ministros e Autoridades de Desenvolvimento Social do MERCOSUL."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-11-14-21h14-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_15_de_novembro_e_23_de_novembro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/11/14"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Reunião de Cúpula do G20 15 e 16 de novembro de 2014 - Celular da AIG",
+            "subtitulo": "",
+            "data": "10/11/2014",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reuniao-de-cupula-do-g20-15-e-16-de-novembro-de-2014-celular-da-aig",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Informa-se o número do telefone celular do coordenador de imprensa, pelo Ministério das Relações Exteriores, para a Reunião de Cúpula do G20, a ser realizada em 15 e 16 de novembro de 2014, em Brisbane, Austrália. Secretário Rubens Campana",
+                "Chamadas a partir do Brasil: 00 XX 61 432 945 089Chamadas a partir da Austrália: 0432 945 089"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-11-10-10h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_de_cupula_do_g20_15_e_16_de_novembro_de_2014_-_celular_da_aig.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/11/10"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 08 de novembro e 16 de novembro de 2014",
+            "subtitulo": "",
+            "data": "07/11/2014",
+            "horario": "21h31",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-08-de-novembro-e-16-de-novembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "07/OUT a 26/NOV – (Continuação) Nova York, EUA. Reunião da III Comissão da 69ª Assembleia Geral das Nações Unidas.",
+                "30/OUT a 13/NOV – (Continuação) Genebra, Suíça. 322ª Sessão do Conselho de Administração da Organização Internacional do Trabalho (OIT).",
+                "10 e 11/NOV – Buenos Aires, Argentina. Comissão Intergovernamental sobre Saúde Sexual e Reprodutiva do Mercosul.",
+                "10 a 12/NOV – Nagoia, Japão. Conferência Mundial sobre Educação para o Desenvolvimento Sustentável - ESD.",
+                "10 a 12/NOV – Brasília, Brasil. I Conferência sobre Mulheres Rurais da América Latina e Caribe no Ano Internacional da Agricultura Familiar, Camponesa e Indígena.",
+                "10 a 13/NOV – Genebra, Suíça. 322ª Sessão do Conselho de Administração da OIT.",
+                "10 a 13/NOV – Roma, Itália. Programa Mundial de Alimentos (PMA). 2ª Sessão da Junta Executiva.",
+                "10 a 13/NOV – Santa Cruz de la Sierra, Bolívia. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 13ª Sessão da Comissão de Desenvolvimento da  Pecuária para a América Latina e Caribe.",
+                "10 a 14/NOV – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 26ª Sessão do Comitê de Normas.",
+                "10 a 14/NOV – Antigua, Guatemala. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 26ª Consulta tecnica entre Organizaçoes Regionais de Proteçao Vegetal.",
+                "10 a 14/NOV – São José, Costa Rica. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 19ª Sessão do Comitê de Coordenaçao FAO/OMS para a America Latina e Caribe.",
+                "10 a 14/NOV – Genebra, Suíça. II Sessão da Junta Intergovernamental sobre Serviços Climáticos da Organização Meteorológica Mundial (OMM).",
+                "10 a 14/NOV – Lisboa e Porto, Portugal. Missão Empresarial organizada pelo Governo do Estado de Santa Catarina.",
+                "10 a 15/NOV – Lisboa, Portugal e Londres, Reino Unido. Visita da Diretora-Geral da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), Magda Chambriard.",
+                "10 a 21/NOV – São José, Costa Rica. 106ª Sessão Ordinária da Corte Interamericana de Direitos Humanos.",
+                "10 a 29/NOV- Sófia, Bulgária. VII Trienal Internacional de Artes Gráficas de Sófia, com a participação do artista plástico cearense José Guedes.",
+                "11/NOV – Genebra, Suíça. Reunião de Consultas Técnicas sobre o Processo Cartagena+30.",
+                "11/NOV – Buenos Aires, Argentina. Reunião Especializada de Ciência e Tecnologia (RECyT) do MERCOSUL.",
+                "11/NOV – Buenos Aires, Argentina. Reunião do Conselho do Instituto Social do MERCOSUL.",
+                "11 e 12/NOV – Lima, Peru. \"Expo & Rodada de Negócios Internacional de Franquias\".",
+                "11 a 13/NOV – Buenos Aires, Argentina. Reunião da Comissão Técnica da Reunião de Ministros do Interior (RMI-CT) do MERCOSUL.",
+                "11 a 13/NOV – Buenos Aires, Argentina. Reunião do Foro Especializado Migratório (FEM) do MERCOSUL e Estados Associados.",
+                "11 a 13/NOV – Buenos Aires, Argentina. Reunião do Grupo de Trabalho Especializado sobre Terrorismo (GTET) do MERCOSUL.",
+                "11 a 13/NOV – Buenos Aires, Argentina. Reunião do Grupo de Trabalho Especializado Delitual (GTEDEL) do MERCOSUL.",
+                "11 a 13/NOV – Buenos Aires, Argentina. Reunião do Grupo de Trabalho Especializado em Segurança Cidadã (GTESEG) do MERCOSUL.",
+                "12/NOV – Genebra, Suíça. Reunião de Consultas Técnicas sobre o Processo Cartagena +30.",
+                "12/NOV – Genebra, Suíça. 32ª Reunião do Comitê Executivo do Grupo de Observação da Terra (GEO).",
+                "12/NOV – Buenos Aires, Argentina. Reunião do Grupo Técnico da Reunião de Ministros e Autoridades de Desenvolvimento Social (GT-RMADS) do MERCOSUL.",
+                "12 e 13/NOV – Buenos Aires, Argentina. Reunião do Comitê Organizador da XXXVI Reunião de Ministros da Saúde do Mercosul.",
+                "12 e 13/NOV – Buenos Aires, Argentina. Encontro de Coordenadores Nacionais da Reunião Especializada de Estatísticas (REES) do MERCOSUL.",
+                "12 e 13/NOV – Buenos Aires, Argentina. Reunião da Comissão Técnica de Ministros da Justiça (RMJ-CT) do MERCOSUL.",
+                "12 e 13/NOV – Buenos Aires, Argentina. Reunião do Comitê Organizador da Reunião de Ministros da Saúde (RMS) do MERCOSUL.",
+                "12 e 13/NOV – Buenos Aires, Argentina. Reunião do Grupo de Especialistas Tributários do Setor Público do MERCOSUL.",
+                "12 a 14/NOV – Washington, Estados Unidos. III Conferência Global sobre Direitos de Pessoas LGBT.",
+                "12 a 14/NOV – Santiago, Chile. Conferência Regional sobre População e Desenvolvimento / 1ª Reunião da Mesa Diretiva.",
+                "12 a 14/NOV – São Paulo, Brasil. “América Acessível: informação e comunicação para todos” UIT/SNPD/UNESCO/Prefeitura de São Paulo.",
+                "12 a 14/NOV – Xangai, China. \"Food and Hospitality China – FHC\". Participação brasileira realizada em parceria com o MAPA. Evento contará com a presença do Ministro Neri Geller.",
+                "12 a 15/NOV – Buenos Aires, Argentina. Feira Automechanika.",
+                "13/NOV – Bangkok, Tailândia. Apresentação do músico e compositor Sérgio Mendes no \"Central Chaeng Wattana Plaza\".",
+                "13/NOV – Londres, Reino Unido. \"Brazil-UK Oil & Gas Meeting\", maior evento de promoção do setor de óleo e gás brasileiro na Europa.",
+                "13/NOV – Buenos Aires, Argentina. Reunião Técnica da Comissão de Coordenação da Reunião de Ministros de Assuntos Sociais (CCMAS) do MERCOSUL.",
+                "13 e 14/NOV – Paris, França. Primeira Sessão Extraordinária da Assembleia Geral dos Estados Partes da Convenção do Patrimônio Mundial. UNESCO.",
+                "13 e 14/NOV – Genebra, Suíça. XI Reunião Plenária do Grupo de Observação da Terra (GEO).",
+                "14/NOV – Genebra, Suíça. Reunião de Consultas Técnicas sobre o Processo Cartagena+30.",
+                "14/NOV – Paris, França. Dia Internacional da Tolerância 2014 – cerimônia de entrega do prêmio UNESCO-Madanjeet Singh e concerto.",
+                "14/NOV – Buenos Aires, Argentina. XXXVI Reunião de Ministros da Saúde do MERCOSUL.",
+                "14/NOV – Buenos Aires, Argentina. Reunião Especializada de Organismos Governamentais de Controle Interno (REOGCI) do MERCOSUL.",
+                "14/NOV – Buenos Aires, Argentina. Reunião de Ministros de Justiça (RMJ) do MERCOSUL.",
+                "14/NOV – Buenos Aires, Argentina. Reunião de Ministros do Interior (RMI) do MERCOSUL.",
+                "15/NOV – Brisbane, Austrália. Reunião dos Líderes do BRICS à margem da Cúpula do G20.",
+                "15 a 20/NOV – Maputo e Tete, Moçambique. Missão Empresarial a Moçambique organizada pela Associação Nacional de Empresários e Empreendedores Afro-Brasileiros – ANCEABRA.",
+                "15 a 21/NOV – Pucallpa, Peru. 6ª Semana Cultural do Brasil no Peru.",
+                "16 a 28/NOV – Barcelona, Espanha; Uzès, Montpellier, Aix-en-Provence e Paris, França. Missão técnica internacional do Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE) do Rio de Janeiro, relacionada ao prêmio \"SEBRAE Prefeito Empreendedor\"."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-11-07-21h31-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_08_de_novembro_e_16_de_novembro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/11/07"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

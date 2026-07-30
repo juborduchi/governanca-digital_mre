@@ -1,0 +1,713 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 20 de setembro e 28 de setembro de 2014",
+            "subtitulo": "",
+            "data": "23/09/2014",
+            "horario": "18h14",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-20-de-setembro-e-28-de-setembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "08 a 26/SET – Genebra, Suíça. 27ª Sessão do Conselho de Direitos Humanos da ONU – CDH.",
+                "15/SET a 03/OUT – Genebra, Suíça. 12ª Reunião do Comitê sobre os Direitos das Pessoas com Deficiência (CDPD).",
+                "21 e 22/SET – Nova York, EUA. 20th Meeting of the Leaders' Representatives Major Economies Forum.",
+                "22/SET – Nova York, EUA. Sessão Especial da Assembleia Geral das Nações Unidas sobre a Conferência Internacional sobre População e Desenvolvimento (ICPD) para além de 2014.",
+                "22 e 23/SET – Nova Iorque, EUA. Conferência Mundial sobre os Povos Indígenas.",
+                "22 e 23/SET – Genebra, Suíça. Reunião do Grupo de Trabalho de Composição Aberta para a 2ª Conferência Internacional sobre Nutrição (CIN 2) da FAO/OMS.",
+                "22 e 23/SET – Pequim, China. Visita do Reitor do Instituto Tecnológico da Aeronáutica – ITA.",
+                "22 e 23/SET – Belém. Fórum de Tecnologia e Inovação Brasil-União Europeia, organizado pelo projeto B.BICE em conjunto com o XXIV Seminário Nacional de Parques Tecnológicos e Incubadoras de Empresas, realizado pela Associação Nacional de Entidades Promotoras de Empreendimentos Inovadores (Anprotec).",
+                "22 a 24/SET – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho Nº 2 \"Aspectos Institucionais\" (SGT No 2) do MERCOSUL",
+                "22 a 25/SET – Hammamet, Tunísia. 8ª edição do Fórum Internacional \"ICT 4ALL\".",
+                "22 a 26/SET – Londres, Reino Unido. Missão do Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (CONFAP) ao Reino Unido para estabelecer parceria com as Academias Britânicas no âmbito do Fundo Newton.",
+                "22 a 26/SET – Buenos Aires, Argentina. Reunião da Comissão de Saúde Animal (CSA) do MERCOSUL.",
+                "22 a 26/SET – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho Nº 11 \"Saúde\" (SGT N° 11) do Mercosul.",
+                "22 a 26/SET – São José, Costa Rica. Missão empresarial organizada pelo Governo do Estado de Santa Catarina no âmbito da XVI Feira Internacional de Compradores da Costa Rica.",
+                "22 a 27/SET – São Paulo, SP. Missão comercial do setor de confecções, organizada pelo \"Sri Lanka Export Development Board – EDB\".",
+                "23/SET – Salermo, Itália. Seminário \"Focus Brasile\", de oportunidades de investimentos no Brasil.",
+                "23/SET – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho No 8 \"Agricultura\" (SGT No 8) do MERCOSUL.",
+                "23/SET – Nova York, EUA. Cúpula do Clima.",
+                "23 e 24/SET – Genebra, Suíça. 61ª Sessão do Comitê Permanente do ACNUR.",
+                "23 e 24/SET – Curitiba. Workshop de Integração entre o Sistema Nacional de Laboratórios em Nanotecnologias (SisNANO) e os Institutos SENAI de Inovação e sobre o projeto \"NANoREG\", da Comissão Europeia.",
+                "23 e 24/SET – Singapura, Singapura. Feira de tecnologia e inovação \"TechInnovation 2014\".",
+                "23 a 25/SET – Genebra, Suíça. Fórum de Diálogo Global sobre salários e tempo de trabalho nos setores têxtil, do vestuário, e couro-calçadista.",
+                "23 a 25/SET – Buenos Aires, Argentina. Reunião do Grupo de Trabalho de Estatísticas da Força Laboral no âmbito do MERCOSUL.",
+                "23 a 26/SET – Berlim, Alemanha. Feira Internacional para Tecnologia de Transporte – INNOTRANS.",
+                "23 a 28/SET – Montreal e Toronto, Canadá. Missão comercial do setor de produtores brasileiros de café, organizado pela Câmara de Comércio Brasil-Canadá e pelo Setor de Promoção Comercial do Consulado-Geral do Brasil em Toronto.",
+                "24/SET – Nova York, EUA. Evento de Alto Nível sobre a Importância da Educação para o Desenvolvimento Sustentável, à margem da sessão de abertura da 69ª. Assembleia-Geral das Nações Unidas.",
+                "24/SET – Nova York, EUA. UNESCO/ONU. Educação de Qualidade para o Mundo que Queremos – Iniciativa Mundial Educação Antes de Tudo.",
+                "24/SET – Brasília. 40ª Reunião Ordinária da Comissão Nacional para Implementação da Convenção-Quadro para o Controle do Tabaco – CONICQ.",
+                "24/SET – Nova York, EUA. 4ª Mesa Redonda de Alto Nível do Tratado Internacional de Recursos Genéticos para Alimentação e Agricultura - TIRFAA (\"4th High Level Ministerial Round Table on the International Treaty on Plant Genetic Resources for Food and Agriculture\").",
+                "24 a 25/SET - Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho Nº 7 \"Indústria\" (SGT Nº 7) do MERCOSUL.",
+                "24 a 26/SET – Cesena, Itália. Feira MACFRUT 2014. Participação do Programa de Promoção do Agronegócio, em cooperação com o Ministério da Agricultura, Pecuária e Abastecimento (MAPA).",
+                "24 a 28/SET – Veliko Tarnovo, Bulgária. Primeira Cúpula Mundial de Centros e Redes de Artes Comunitárias.",
+                "24/SET a 08/OUT – Gotemburgo, Suécia. Exposição Retrospectiva de Carlos Bracher, na Biblioteca Municipal de Gotemburgo.",
+                "25/SET – Genebra, Suíça. Reunião do Grupo de Trabalho sobre as relações OIM-ONU e da Estratégia da OIM.",
+                "25/SET – Istambul, Turquia. Vôo de demonstração da aeronave “Embraer 190”, uma das oito aeronaves adquiridas recentemente pela companhia aérea regional turca “Borajet”. O vôo partirá de Istambul com destino a Bodrum, em 25/09, com retorno no mesmo dia.",
+                "25/SET – Istambul, Turquia. “Relações Brasil-Turquia”, a ser realizado em parceria com o Büyük Kulüp - Cercle d'Orient. Durante o evento serão apresentadas informações sobre a economia brasileira, oportunidades de investimento e comércio aos empresários turcos.",
+                "25/SET – Buenos Aires, Argentina. Seminário \"Diálogo sobre Instituições Públicas de Direitos Humanos no MERCOSUL\", organizado pelo Instituto de Políticas Públicas em Direitos Humanos do MERCOSUL (IPPDH) e pela Embaixada do Brasil em Buenos Aires.",
+                "25 e 26/SET - Buenos Aires, Argentina. Reunião do Grupo de Análise Institucional (GAIM) do MERCOSUL.",
+                "25 e 26/SET – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho Nº 14 \"Integração Produtiva\" (SGT No 14) do MERCOSUL.",
+                "25 e 26/SET - Buenos Aires, Argentina. V Reunião Especializada de Organismos Governamentais de Controle Interno (REOGCI).",
+                "25 a 28/SET – Istambul, Turquia. Feira de produtos aéreos “Istanbul Airshow”, conta com a EMBRAER como empresa participante, exibindo várias aeronaves de fabricação nacional.",
+                "25 a 28/SET – Tóquio, Japão. JATA Tourism Expo Japan 22014.",
+                "25 a 28/SET – Gotemburgo, Suécia. Feira Internacional do Livro de Gotemburgo, da qual o Brasil participará como convidado de honra.",
+                "26/SET – Genebra, Suíça. Reunião informativa ACNUR/GRULAC sobre a sobre a Conferência Cartagena+30, a ser realizada em Brasília, em 2 e 3 de dezembro 2014.",
+                "26/SET – Buenos Aires, Argentina. IX Reunião do Conselho de Representantes Governamentais do Instituto de Políticas Públicas em Direitos Humanos do MERCOSUL (IPPDH).",
+                "26/SET – Brasília. III Reunião do Grupo de Trabalho Brasil-Chile de Ciência, Tecnologia e Inovação.",
+                "26/SET – São Paulo. Reunião Ordinária do Comitê Gestor da Internet no Brasil (CGI.br).",
+                "27/SET – Guadalajara, México. Dia Mundial do Turismo 2014.",
+                "27/SET a 04/OUT – São Paulo, SP e Belo Horizonte, MG. Missão multissetorial do Consórcio para a Internacionalização formado por 12 Câmaras de Comércio italianas.",
+                "28 a 30/SET – Sófia e Sozopol, Bulgária. UNESCO. Terceiro Fórum Internacional das ONGs parceiras da UNESCO, sobre o tema “O papel da juventude na salvaguarda do patrimônio cultural material e imaterial”.",
+                "28/SET a 03/OUT – Bruxelas, Bélgica; Paris, França; e Genebra, Suíça. Missão institucional da Federação das Indústrias do Estado do Rio de Janeiro – FIRJAN."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-09-23-18h14-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_20_de_setembro_e_28_de_setembro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/09/23"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 13 de setembro e 21 de setembro de 2014",
+            "subtitulo": "",
+            "data": "16/09/2014",
+            "horario": "14h57",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-13-de-setembro-e-21-de-setembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "08 a 26/SET – Genebra, Suíça. 27ª Sessão do Conselho de Direitos Humanos da ONU – CDH.",
+                "14 a 19/SET – Fortaleza. \"16th International Biotechnology Symposium and Exhibition\" (IBS 2014).",
+                "14 a 19/SET – Punta del Este, Uruguai. 8ª Reunião do Comitê Consultivo do Acordo sobre Conservação de Albatrozes e Petréis.",
+                "14 a 19/SET – Portoroz, Eslovênia. 65ª sessão da Comissão Internacional da Baleia (CIB).",
+                "15/SET – Genebra, Suíça. Reunião Preparatória do Grupo de Trabalho Aberto sobre a Convenção de Basileia.",
+                "15/SET – Malabo, Guiné Equatorial. UNESCO. Ceremônia de Entrega do Prêmio Internacional UNESCO–Guiné Equatorial para Pesquisa em Ciências da Vida.",
+                "15/SET – Paris, França. UNESCO. Simpósio Internacional sobre “Percursos Judeo-espanhois e o Patrimônio Mediterrâneo”.",
+                "15 e 16/SET – Buenos Aires, Argentina. Reunião de Especialistas Tributários do Setor Público do MERCOSUL.",
+                "15 e 16/SET – Paris, França. II Fórum Franco-Brasileiro do Ensino Superior e da Pesquisa.",
+                "15 e 16/SET – Quito, Equador. \"South American Hotel & Tourism Investment Conference – SAHIC\".",
+                "15 e 16/SET – Brasília. VII Reunião da Mesa Redonda da Sociedade Civil Brasil-União Europeia. Diálogo sobre Objetivos de Desenvolvimento Sustentável.",
+                "15 e 16/SET – Nova York, EUA. 2ª Sessão Regular da Junta Executiva da ONU Mulheres.",
+                "15 a 18/SET – Moscou, Rússia. Feira \"World Food\".",
+                "15 a 19/SET – João Pessoa, PB. Oficina de Roteiro com o realizador argentino Miguel Machalski, na Universidade Federal da Paraíba - UFPB.",
+                "15 a 19/SET – Buenos Aires, Argentina. Reunião da Comissão Automotriz do MERCOSUL, no âmbito do Sub-Grupo de Trabalho Nº 3.",
+                "15 a 19/SET – Buenos Aires, Argentina. Reunião da Comissão de Alimentos do MERCOSUL, no âmbito do Sub-Grupo de Trabalho Nº 3.",
+                "15 a 19/SET – Buenos Aires, Argentina. Reunião da Comissão de Gás, GNC e Artefatos do MERCOSUL, no âmbito do Sub-Grupo de Trabalho Nº 3.",
+                "15 a 19/SET – Buenos Aires, Argentina. Reunião da Comissão de Avaliação de Conformidade, no âmbito do Sub-Grupo de Trabalho Nº 3 do MERCOSUL.",
+                "15 a 19/SET – Buenos Aires, Argentina. Reunião da Comissão de Metrologia, no âmbito do Sub-Grupo de Trabalho Nº 3 do MERCOSUL.",
+                "15 a 19/SET – Buenos Aires, Argentina. Reunião da Comissão de Segurança de Produtos Elétricos, no âmbito do Sub-Grupo de Trabalho Nº 3 do MERCOSUL.",
+                "15 a 19/SET – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho Nº 3 (SGT Nº 3) do MERCOSUL (\"Regulamentos Técnicos e Avaliação de Conformidade\")",
+                "15 a 26/SET (continuação) – Genebra, Suíça. 27ª Sessão do Conselho de Direitos Humanos.",
+                "15/SET a 03/OUT – Genebra, Suíça. 12ª Reunião do Comitê sobre os Direitos das Pessoas com Deficiência (CDPD).",
+                "16/SET – Brasília, Brasil. Seminário Aberto da Comissão Nacional para Implementação da Convenção-Quadro para o Controle do Tabaco (CONICQ), em preparação para a 6ª Conferência das Partes naquela Convenção (COP 6).",
+                "16/SET – Istambul, Turquia. Workshop de Turismo para apresentação dos destinos turísticos brasileiros, na sede da Associação Turca das Agências de Turismo (TURSAB). O evento, organizado por este Consulado-Geral, conta com apoio da TURSAB, Turkish Airlines e agência receptiva de turismo brasileiro, DelBianco.",
+                "16/SET – Genebra, Suíça. Diálogo Interativo com a Comissão de Inquérito sobre Síria no âmbito da 27ª Sessão do Conselho de Direitos Humanos.",
+                "16 e 17/SET. Genebra, Suíça. Reunião do Grupo Tarefa sobre o futuro do Painel Intergovernamental sobre Mudança do Clima (IPCC).",
+                "16 a 19/SET – Genebra, Suíça. Reunião do Grupo de Trabalho aberto sob a Convenção de Basileia sobre o Controle de Movimentos Transfronteiriços de Resíduos Perigosos e seu Depósito (OEWG-9).",
+                "16 a 19/SET – Genebra, Suíça. IX Reunião do Grupo de Trabalho Aberto sobre a Convenção de Basileia.",
+                "16 a 20/SET – Cidade do Cabo, África do Sul. Mostra e Seminário sobre a Questão do Escravagismo e as Relações Inter-Raciais no Brasil.",
+                "17/SET – Genebra, Suíça. Reunião do Grupo de Alto Nível sobre os Desafios Humanitários na Síria com a Subsecretária-Geral para Assuntos Humanitários das Nações Unidas (OCHA), Valerie Amos.",
+                "17 e 18/SET – Roma, Italia. 122ª Sessão da Junta Executiva do Fundo Internacional para o Desenvolvimento Agrícola (FIDA).",
+                "17 e 18/SET – Buenos Aires, Argentina. Reunião do Grupo de Trabalho sobre Normas adotadas pelo MERCOSUL em 2012-2013",
+                "17 e 18/SET – Nova York, EUA. Primeira Reunião do Comitê Preparatório (Prepcom) da III Conferência das Nações Unidas sobre Habitação e Desenvolvimento Urbano Sustentável (Habitat III – Istambul, 2016).",
+                "17 a 19/SET – Burgos, Espanha. XVII Conferência Ibero-americana de Ministros da Juventude da Organização Ibero-americana da Juventude (OIJ).",
+                "18/SET – Genebra, Suíça. Reunião Aberta de Consultas sobre a III Conferência de Redução de Risco de Desastres.",
+                "18 e 19/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Simpósio Internacional sobre Agroecologia para Segurança Alimentar e Nutrição.",
+                "18 e 19/SET – Brasília. \"Workshop\" Parcerias Estratégicas Brasil - Alemanha, organizado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e pelo Serviço Alemão de Intercâmbio Acadêmico - DAAD.",
+                "18 e 19/SET – Montevidéu, Uruguai. XI Reunião do Comitê de Peritas (CEVI) do Mecanismo de Seguimento da Convenção de Belém do Pará sobre violência contra as mulheres (MESECVI), da Organização dos Estados Americanos (OEA).",
+                "18 a 20/SET – Chiclayo, Peru. \"1º. Foro Internacional de los Clústeres Sudamericanos\", do setor têxtil e de confecções.",
+                "18/SET a 11/JAN/2015 - Miami, EUA. Exposição da artista brasileira Beatriz Milhazes, no Pérez Art Museum.",
+                "19/SET – Veracruz, México. Encontro de Reitores de Universidades Ibero-Americanas.",
+                "19/SET – Istambul, Turquia. Workshop de Turismo na sede da Emirates Airlines. Durante o evento, será sorteada passagem aérea para o Rio de Janeiro, acomodação de 4 noites com city tour de 6 horas, oferecidos pela Emirates Airlines e agência receptiva de turismo brasileiro DelBianco.",
+                "19/SET – Buenos Aires, Argentina. Grupo de Trabalho sobre a Incorporação da Bolívia ao MERCOSUL (GTBO).",
+                "19/SET – Brasília. Reunião de Coordenação Interministerial sobre Processos de Transição em curso no âmbito da Corporação da Internet para a Atribuição de Nomes e Números – ICANN. Brasília.",
+                "19 a 22/SET – St.John, Canadá. 6ª Conferência Internacional da UNESCO sobre Geoparques.",
+                "20 a 22/SET – Ierevan, Armênia. Master Class de Capoeira.",
+                "21 a 28/SET – Teerã, Irã. Exposição Fotográfica de Ricardo Martins, na Torre Milad."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-09-16-14h57-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_13_de_setembro_e_21_de_setembro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/09/16"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 06 e 14 de setembro de 2014",
+            "subtitulo": "",
+            "data": "07/09/2014",
+            "horario": "13h18",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-06-de-setembro-e-14-de-setembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "06/SET – Istambul, Turquia. 2ª reunião presencial do Grupo de Coordenação da Transição IANA (ICG).",
+                "08/SET – UNESCO, global. Dia Internacional da Alfabetização.",
+                "08/SET – São Paulo. 7ª Reunião do Conselho Deliberativo do Fórum do Sistema Brasileiro de TV Digital (Fórum SBTVD).",
+                "08 e 09/SET – Paris, França. Reunião do Comitê Preparatório do Conselho Executivo.",
+                "08 e 09/SET – Buenos Aires, Argentina. Reunião do Grupo de Trabalho de Terminologia do MERCOSUL.",
+                "08 a 10/SET – Buenos Aires, Argentina. Reunião do Grupo de Incorporação da Normativa Mercosul (GIN)",
+                "08 a 10/SET – Buenos Aires, Argentina. Reunião do Comitê Técnico No 6 \"Estatísticas de Comércio Exterior do Mercosul\" (CT No 6).",
+                "08 a 11/SET – Brasília, Brasil. Reunião do Grupo Ad hoc Farmacopeia do Mercosul (SGT No 11 do Mercosul).",
+                "08 a 12/SET – Filadélfia, EUA. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 27ª Reunião do Comitê do Codex sobre Frutas e Hortaliças Elaboradas.",
+                "08 a 12/SET – Paris, França. UNESCO. 21a Sessão do Comitê Internacional de Bioética (CIB).",
+                "08 a 12/SET – Pequim e Tianjin, China. Missão do Secretário-Executivo do Conselho Nacional das Zonas de Processamento de Exportação - CZPE, do Ministério do Desenvolvimento, Indústria e Comércio Exterior – MDIC.",
+                "08 a 12/SET – Brasília, DF. Oficina de Roteiro com o cineasta Pablo Stoll na Universidade de Brasília – UnB.",
+                "08 a 12/SET – Brasília. Reuniões presenciais da segunda fase da consulta à sociedade no processo de preparação da contribuição brasileira ao novo acordo sob a Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC).",
+                "08 a 13/SET – Puerto Maldonado, Arequipa e Ilo, Peru. Missão empresarial do Governo do Estado de Rondônia.",
+                "08 a 14/SET – Maputo, Moçambique. Semana Cultural Brasil-Moçambique.",
+                "08 a 19/SET – Washington, Nova York, Boston e São Francisco, EUA. Missão do Instituto de Pesquisa Econômica Aplicada (IPEA) e do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) aos Estados Unidos, para aprendizado sobre o sistema de ciência, tecnologia e inovação norte-americano.",
+                "08 a 26/SET – Genebra, Suíça. 27ª Sessão do Conselho de Direitos Humanos.",
+                "09/SET – Rio de Janeiro. Grupo de Trabalho sobre Financiamento e Garantias do Conselho Sul-Americano de Infraestrutura e Planejamento da UNASUL (COSIPLAN).",
+                "09/SET – Genebra, Suíça. Reunião sobre a III Conferência Mundial de Redução do Risco de Desastres.",
+                "09/SET – São José, Costa Rica. Reunião dos Grupos de Trabalho da Declaração sobre a Aplicação do Princípio 10 da Declaração do Rio na América Latina e Caribe. São José, até 11/09.",
+                "09/SET – Brasília, Brasil. Reunião do Grupo Temático Ampliado das Nações Unidas sobre HIV/AIDS (GT/UNAIDS).",
+                "09 e 10/SET – Cidade do Panamá, Panamá. Reunião Regional das Américas Preparatória para 6ª Conferência das Partes na Convenção-Quadro para o Controle do Tabaco da Organização Mundial da Saúde (COP6 da CQCT).",
+                "09 e 10/SET – Buenos Aires, Argentina. CXXXVII Reunião Ordinária da Comissão de Comércio do Mercosul (CCM).",
+                "09 e 10/SET – Paris, França. UNESCO. Sessão conjunta do CIB e do Comitê Intergovernamental de Bioética (CIGB).",
+                "09 e 10/SET – Tóquio, Japão. XVII Reunião do Comitê de Cooperação Econômica Brasil-Japão.",
+                "09 e 10/SET – Montevidéu, Uruguai. Encontro sobre Promoção de Investimentos da ALADI.",
+                "09 a 12/SET – Medellín, Colômbia. UNESCO. Reunião de Peritos para revisão da Carta Internacional de Educação Física e Esporte de 1978.",
+                "09 a 12/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião conjunta de Especialistas FAO/OMS sobre questões emergentes de Segurança Alimentar.",
+                "09 a 12/SET – Jerusalém, Israel. Festival de Música Sacra de Jerusalém, com a participação do músico brasileiro Naná Vasconcelos.",
+                "09 a 28/SET – Pequim, Nanquim, Xangai, Wuhan e Shenzhen, China. Festival de Teatro \"Edinburgh Fringe Showcase 2014\". Participação da companhia brasileira \"Amok\", com a peça \"Kabul\".",
+                "10/SET – Paris, França. UNESCO. 20º aniversário of do Projeto \"Rota do Escravo\": mesa redonda, exposição \"Africanos na Índia\" e cerimônia comemorativa.",
+                "10 e 11/SET – Rio de Janeiro. Seminário sobre Integração Aérea do Conselho Sul-Americano de Infraestrutura e Planejamento da UNASUL (COSIPLAN).",
+                "10 e 11/SET – Buenos Aires, Argentina. Reunião do Comitê de Gestão do Sistema de Informação e Comunicação do MERCOSUL.",
+                "10 a 12/SET – La Paz, Bolívia. Apresentações de Benjamin Taubkin e o Duo Soukast no FESTIJAZZ 2014.",
+                "10 a 12/SET – Buenos Aires, Argentina. Reunião da Comissão Técnica da Reunião de Ministros do Interior do Mercosul (RMI-CT).",
+                "10 a 12/SET – Buenos Aires, Argentina. Reunião do Foro Especializado Migratório do Mercosul (RMI-FEM).",
+                "10 a 12/SET – Buenos Aires, Argentina. Reunião do Foro Especializado sobre Terrorismo do Mercosul (RMI-GTET).",
+                "10 a 12/SET – Buenos Aires, Argentina. Reunião do Grupo de Trabalho Especializado em Delitos do Mercosul (RMI-GTEDEL).",
+                "10 a 12/SET – Buenos Aires, Argentina. Reunião do Grupo de Trabalho Especializado em Informática e Comunicações do Mercosul (RMI-GTEIC).",
+                "10 a 12/SET – Buenos Aires, Argentina. Reunião do Grupo de Trabalho Especializado em Segurança Cidadã do Mercosul (RMI-GTESEG).",
+                "10 a 12/SET – Buenos Aires, Argentina. Reunião do Grupo de Trabalho Especializado em Capacitação (RMI-GTCAP).",
+                "10 a 15/SET – Liubliana, Eslovênia. Feira Internacional de Comércio MOS 2014 (Celje).",
+                "10 a 25/SET – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião conjunta FAO/OMS sobre Resíduos de Pesticidas.",
+                "11/SET – Maputo, Moçambique. Inauguração do Cineclube Brasil no Centro Cultural Brasil-Moçambique.",
+                "11 e 12/SET – Brasília. 35ª Reunião do Conselho Diretor e 16ª Reunião da Assembleia-Geral do Centro Latino-Americano de Física (CLAF).",
+                "11 e 12/SET – Nova York, EUA. Evento de Alto nível para avaliação da elaboração da Agenda de Desenvolvimento Pós-2015, promovido pelo Presidente da 68a Assembleia Geral das Nações Unidas, Sr. John Ashe.",
+                "11 a 13/SET – Mumbai, Índia. 4ª. Edição do \"Global Economic Summit 2014 (GES 2014)\", com o tema \"Ásia: Powering Global Markets\", que contará com o apoio do Ministério de Comércio e Indústria, do Ministério das Micro, Pequenas e Médias Empresas e do Governo do Estado de Maharashtra.",
+                "12/SET – Seul, Coreia do Sul. V Reunião do Comitê Conjunto de Promoção de Comércio e Investimentos e Cooperação Industrial Brasil-Coreia do Sul.",
+                "12/SET – Rio de Janeiro. Reunião Subgrupo Corredor Biocêanico Ferroviário do Conselho Sul-Americano de Infraestrutura e Planejamento da UNASUL (COSIPLAN).",
+                "12/SET – Genebra, Suíça. Dia de Discussão Geral do Comitê dos Direitos da Criança.",
+                "12/SET – Rio de Janeiro. II Reunião do Grupo de Trabalho de Inovação Brasil-França.",
+                "13 e 14/SET – Vancouver, Canadá. BrazilFest Vancouver.",
+                "14 a 19/SET – Teerã, Irã. Primeira Semana Gastronômica do Brasil no Irã, no Hotel Parian Azadi."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-09-07-13h18-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_06_e_14_de_setembro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/09/07"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 30 de agosto e 07 de setembro de 2014",
+            "subtitulo": "",
+            "data": "01/09/2014",
+            "horario": "19h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-30-de-agosto-e-07-de-setembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "31/AGO a 02/SET – Hamburgo, Alemanha. Reunião bilateral de coordenação sobre a Plataforma de Inovação Brasil-Alemanha, no âmbito da 32º Edição do Encontro Econômico Brasil-Alemanha.",
+                "31/AGO a 04/SET – Genebra, Suíça. 66ª Reunião do Comitê Permanente da Convenção sobre o Comércio Internacional de Espécies da Flora e Fauna Selvagens em Perigo de Extinção (CITES).",
+                "31/AGO a 05/SET – Estocolmo, Suécia. UNESCO. Semana Mundial da Água.",
+                "01/SET – Genebra, Suíça. 22ª Sessão Especial do Conselho dos Direitos Humanos sobre a situação no Iraque.",
+                "01/SET – Genebra, Suíça. Reunião do Instituto de Pesquisa das Nações Unidas sobre Desenvolvimento Social (UNRISD).",
+                "01/SET – Istambul, Turquia. \"NETmundial: looking back, learning lessons and mapping the road ahead\", pré-evento no âmbito da IX Reunião do Fórum de Governança da Internet (IGF 2014).",
+                "01 e 02/SET – Genebra, Suíça. Consulta Global sobre o Direito de Questionar em Juízo a Legalidade da Detenção.",
+                "01 a 04/SET – Kielce, Polônia. 22ª. Feira Internacional da Indústria da Defesa.",
+                "01 a 04/SET – Cidade do México, México. \"Expo ABASTUR 2014\".",
+                "01 a 04/SET – Nantes, Saint-Nazaire e Toulon, França. Missão da Secretaria de Desenvolvimento Econômico, Energia, Indústria e Serviços do Estado do Rio de Janeiro.",
+                "01 a 04/SET – Ápia, Samoa. Terceira Conferência Internacional sobre os Pequenos Estados Insulares em Desenvolvimento (SIDS).",
+                "01 a 07/SET – Santiago, Chile. \"V Semana de Cinema Brasileiro no Chile\" na Cineteca Nacional.",
+                "02/SET – Brasília. Doação da fotografia \"Xamãs no Xingu\", de Sebastião Salgado, ao Palácio do Itamaraty.",
+                "02 e 03/SET – Buenos Aires, Argentina. Reunião do Conselho Editorial - Núcleo de Estudos e Pesquisas em Educação Superior do MERCOSUL.",
+                "02 e 03/SET – Paris, França. Visita do Secretário Executivo do Ministério da Ciência, Tecnologia e Inovação (MCTI), Álvaro Prata, aos Institutos Carnot para discutir cooperação bilateral em ciência, tecnologia e inovação.",
+                "02 e 03/SET – Bonn, Alemanha. Reunião de Especialistas sobre REDD+ sobre o Portal de Informações sobre pagamento por resultados.",
+                "02 a 05/SET – Istambul, Turquia. Visita oficial do Navio-Escola Brasil.",
+                "02 a 05/SET – Istambul, Turquia. IX edição do Fórum de Governança da Internet. A Delegação governamental brasileira será coordenada pelo Diretor do DCT, Embaixador Benedicto Fonseca Filho.",
+                "02 a 05/SET – Nova York, EUA. Segunda Sessão Regular de 2014 da Junta Executiva do PNUD/FNUAP/UNOPS.",
+                "03/SET – Chicago, EUA. Brazil U.S. Business Forum and Cultural Exchange 2014.",
+                "03/SET – Brasília. Primeiro Encontro com Embaixadas sediadas em Brasília sobre o Programa de Voluntários dos Jogos Olímpicos e Paralímpicos Rio 2016.",
+                "03/SET – Chavannes-de-Bogis. Fórum da Iniciativa em prol da Convenção contra a Tortura.",
+                "03 e 04/SET – Buenos Aires, Argentina. Reunião do Grupo de Trabalho Núcleo de Estudos e Pesquisas e Educação Superior do MERCOSUL.",
+                "03 e 04/SET – Puyo, Equador. Seminário Regional Preparatório dos Países da Organização do Tratado de Cooperação Amazônica (OTCA) para a 12ª Conferência das Partes na Convenção sobre Diversidade Biológica (CDB).",
+                "03 e 04/SET – Pequim, China. Reunião Informal de Países em Desenvolvimento sobre Mudança do Clima, organizada pelo instituto South Centre.",
+                "04/SET – Genebra, Suíça. 112ª Reunião de Representantes Pessoais do G-15.",
+                "04 e 05/SET – Rio de Janeiro. IV Encontro de Organizações Técnicas de Infraestrutura do IBAS.",
+                "04 e 05/SET – Genebra, Suíça. Foro sobre Saúde Mental (mhGAP/OMS).",
+                "04 a 07/SET – Istambul, Turquia. Evento: Feira Internacional de Alimentos GIDA – Worldfood 2014.",
+                "06/SET – Istambul, Turquia. 2ª reunião presencial do Grupo de Coordenação da Transição IANA (ICG)."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-09-01-19h46-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_30_de_agosto_e_07_de_setembro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/09/01"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 27 de setembro e 05 de outubro de 2014",
+            "subtitulo": "",
+            "data": "26/09/2014",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-27-de-setembro-e-05-de-outubro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "15/SET a 03/OUT – Genebra, Suíça. 12ª Reunião do Comitê sobre os Direitos das Pessoas com Deficiência (CDPD). (Fonte: DTS)",
+                "28/SET a 01/OUT – São Paulo. Visita de delegação tailandesa chefiada pelo Diretor-Geral de Assuntos Americanos e do Pacífico Sul do Ministério dos Negócios Estrangeiros, Songsak Saicheua, com foco em comércio e investimentos e ciência e tecnologia. No dia 29/OUT ocorrerá o Seminário de Oportunidades Comerciais e de Investimentos para Empresas Tailandesas.",
+                "29/SET – Genebra, Suíça. Cerimônia de Comemoração de 60 anos da Organização Europeia para Pesquisa Nuclear - CERN (Fonte: Delbrasgen).",
+                "29/SET – Riga, Letônia. Seminário sobre Literatura Brasileira. (Fonte: DIVULG)",
+                "29/SET – Cidade da Guatemala, Guatemala. III Assembleia Geral Extraordinária da FLACSO. (Fonte: DCE)",
+                "29 e 30/SET – Bangkok, Tailândia. Oficina de Trabalho \"Agri-Food for a Better Health: From Seed Industry to Nutritional Security\". (Fonte: DCTEC)",
+                "29 e 30/SET – Brasília. I Seminário do Programa de Capacitação em Energia de Combustão do Conselho Sul-Americano de Ciência, Tecnologia e Inovação (COSUCTI/Unasul). (Fonte: DCTEC)",
+                "29 e 30/SET – Nova York, EUA. \"US-Brazil Partnerships Workshop: Increasing Diversity through the Abdias Nascimento Program\". Participação da Secretária de Educação Continuada, Alfabetização, Diversidade e Inclusão/ MEC e da Diretora de Relações Internacionais da CAPES. (Fonte: DCE)",
+                "29 e 30/SET – Buenos Aires, Argentina. Reunião do Conselho Sul-Americano de Educação da UNASUL. (Fonte: DCE)",
+                "29 e 30/SET – Montevidéu, Uruguai. II Reunião do Grupo de Trabalho Ad Hoc para a Revisão da Decisão CMC nº 18/05 \"FOCEM\" (Fundo para a Convergência Estrutural do MERCOSUL)",
+                "29 e 30/SET – Buenos Aires, Argentina. Reunião do Comitê Técnico nº 7 \"Defesa do Consumidor\" do MERCOSUL",
+                "29/SET a 03/OUT – Genebra, Suíça. 65ª sessão do Comitê Executivo do ACNUR (Fonte: Delbrasgen).",
+                "29/SET a 03/OUT – Gotemburgo e Linkoping, Suécia; Amsterdam, Países Baixos. Missão empresarial da Apex Brasil. (Fonte: DOC)",
+                "29/SET a 03/OUT – Roma, Italia. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 24ª Sessão do Comitê de Agricultura (COAG). (Fonte: Rebrasfao).",
+                "29/SET a 03/OUT – Washington, EUA. 53ª Sessão do Conselho Diretor da Organização Pan-Americana da Saúde (OPAS) e 66ª Sessão do Comitê Regional da Organização Mundial da Saúde (OMS) para as Américas. (Fonte: DTS)",
+                "29/SET a 03/OUT – Pyeongchang, República da Coreia. 7ª Reunião das Partes do Protocolo de Cartagena sobre Biossegurança (MOP-7). (Fonte: DEMA)",
+                "29/SET a 05/OUT – Estocolmo, Suécia. IX Festival de Cinema BrasilCine. (Fonte: DAV)",
+                "30/SET – Estocolmo, Suécia. Simpósio sobre a inter-relação Brasil-Suécia na literatura. (Fonte:DIVULG)",
+                "30/SET – Cidade do Cabo, África do Sul. Seminário do BRICS sobre Cobertura Universal de Saúde, à margem do Terceiro Simpósio Global de Pesquisa em Sistemas de Saúde (Fonte: DIB/DTS)",
+                "30/SET – Genebra, Suíça. Briefing do Secretário-Geral Martin Chungong sobre a 131ª Assembleia da União Inter-Parlamentar (Fonte: Delbrasgen).",
+                "30/SET e 01/OUT – Montreal, Canadá. Encontro da iniciativa \"Global Research Collaboration for Infectious Disease Preparedness\" (GloPID-R). (Fonte: DCTEC)",
+                "30/SET a 03/OUT – Buenos Aires, Argentina. Reunião de Técnicos em Nomenclatura no âmbito do Comitê Técnico nº 1 \"Tarifas, Nomenclatura e Classificação de Mercadorias\" do MERCOSUL.",
+                "30/SET a 03/OUT – Maputo, Moçambique. Mostra de Cinema Luso-Brasileiro. (Fonte: DAV)",
+                "01/OUT – Genebra, Suíça. Consulta informal na OMS sobre resolução relativa ao impacto da poluição atmosférica na saúde (Fonte: Delbrasgen).",
+                "01/OUT – Brasília. Lançamento da coletânea “Jurisprudência da Corte Interamericana de Direitos Humanos”. (Font: DDH)",
+                "01 a 02/OUT – Paris, França. 19ª Sessão do Comitê Intergovernamental para Promoção do Retorno de Bens Culturais a seus Países de Origem ou sua Restituição em caso de Apropriação Ilícita.",
+                "01 a 03/OUT – Buenos Aires, Argentina. Reunião do Grupo de Cooperação Internacional (GCI) do MERCOSUL.",
+                "01 a 03/OUT – Buenos Aires, Argentina. Reunião do Comitê Coordenador Regional (CCR) – órgão assessor da Reunião de Ministros da Educação (RME) do MERCOSUL.",
+                "01 a 03/OUT – Paris, França. UNESCO. Reunião do Comitê Preparatório do Conselho Executivo.",
+                "01 a 31/OUT – Buenos Aires, Argentina. Residência do artista plástico Henrique César, da Galeria Vermelho (SP), na Fundação URRA. (Fonte: DODC).",
+                "01/OUT a 15/DEZ – Gyeonggi, Coreia do Sul. Residência da artista plástica Renata Padovan no Gyeonggi Creation Centre. (Fonte: DODC).",
+                "02/OUT – Genebra, Suíça. Reunião Aberta Preparatória sobre Redução de Riscos de Desastres (Fonte: Delbrasgen).",
+                "02/OUT – Brasília. Reunião bilateral Brasil-Argentina sobre Assuntos Antárticos. (Fonte: DMAE)",
+                "02 e 03/OUT – Lima, Peru. IV Seminário Regional do Programa EUROCLIMA. (Fonte: DCLIMA)",
+                "02 e 03/OUT – Buenos Aires, Argentina. Reunião Técnica Preparatória do Subgrupo de Trabalho nº 5 \"Transporte\" do MERCOSUL",
+                "02 e 03/OUT – Baku, Azerbaijão. IV Baku International Humanitarian Forum. O Embaixador Hadil da Rocha Vianna, Subsecretaria-Geral de Cooperação, Cultura e Promoção Comercial, fará palestra no evento no dia 2/out.",
+                "02 a 04/OUT – Quito, Equador. X Reunião do Foro do Programa de Gestão das Transformações Sociais (MOST) da UNESCO. (Fonte: DTS)",
+                "02 a 04/OUT – Quito, Equador. UNESCO. X Fórum de Ministros do Desenvolvimento Social da América Latina (Programa MOST).",
+                "03 a 05/OUT – Suffolk, Reino Unido. \"FlipSide Festival\", com a participação da escritora cearense Socorro Acioli, vencedora do Prêmio Jabuti de Literatura Infantil 2014. (Fonte: DODC)",
+                "03 a 05/OUT – Santiago, Chile. Festival Ch.ACO, com a participação de Roberto Brandão, diretor da Galeria Vermelho (São Paulo/SP) e de Ana Luisa Lima, editora da revista de crítica arte \"Tatuí\".(Fonte: DODC).",
+                "05 a 07/OUT – Quioto, Japão. \"Science and Technology in Society Forum\" (STS Forum). À margem do Forum ocorrerá, no dia 05/OUT, a 11ª Mesa Redonda de Ministros de Ciência e Tecnologia.",
+                "05 a 10/OUT – Luanda, Angola. Projeto \"B dairy\". Missão empresarial. (Fonte: DOC)"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-09-26-11h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_27_de_setembro_e_05_de_outubro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/09/26"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Encontro Ministerial dos países do G4 (Brasil, Alemanha, Índia e Japão) à margem da 69ª Sessão da Assembleia Geral da ONU – Comunicado Conjunto à Imprensa – Nova York, 25 de setembro de 2014 [Inglês]",
+            "subtitulo": "",
+            "data": "25/09/2014",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/encontro-ministerial-dos-paises-do-g-4-brasil-alemanha-india-e-japao-a-margem-da-69-sessao-da-assembleia-geral-da-onu-comunicado-conjunto-a-imprensa-nova-york-25-de-setembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Comunicado Conjunto à Imprensa do Encontro Ministerial dos países do G4 (Brasil, Alemanha, Índia e Japão), à margem da 69ª Sessão da Assembleia Geral da ONU, em Nova York, no dia 25 de setembro de 2014.",
+                "1 - The Minister of External Relations of Brazil, the Federal Minister for Foreign Affairs of Germany, the Minister of External Affairs of India and the Minister for Foreign Affairs of Japan met in New York on 25 September 2014, on the margins of the opening of the 69th Session of the United Nations General Assembly, to exchange views on Security Council reform.",
+                "2 - The G4 Ministers underscored their continuous commitment to a Security Council reform reflective of the geopolitical realities of the 21st century. They agreed that the difficulties of the Security Council to effectively address current international challenges are a compelling reminder of the urgent need for a Security Council reform which makes it more broadly representative, efficient and transparent and thereby further enhances its effectiveness and the legitimacy and implementation of its decisions.",
+                "3 - The Ministers voiced their concern that, 70 years after the foundation of the United Nations, 50 years after the first and only time that the Security Council was reformed, nearly 15 years after the Millennium Summit and 10 years after the 2005 World Summit - when our leaders unanimously called for an early reform of the Security Council - discussions are still at a stalemate. They underscored that the process of bringing about reforms of the Security Council should not be seen as an endless exercise. The G4 Ministers therefore invited all their counterparts to use the 70th anniversary of the UN as an opportunity to finally achieve a concrete outcome on a process that has dragged on for over twenty years and to engage in all possible efforts to fulfill, by September 2015, the mandate given by our Heads of State and Government.",
+                "4 - The G4 countries reiterated their commitment as aspiring new permanent members of the UN Security Council, as well as their support for each other's candidatures. They also reaffirmed their view of the importance of developing countries, including from Africa, to be represented in both the permanent and non-permanent categories of an enlarged Council.",
+                "5 - The Ministers emphasized their readiness to further reach out to reform-oriented member states in order to discuss models of an enlarged Security Council in the permanent and non-permanent categories. In this context, they commended Japan's initiative to host an outreach meeting with other UN member states, with attendance from participants with a wide range of views on the reform issue in July 2014. They recognized the need for greater involvement of civil society, the media and academia on the discussions about the reform of the Security Council and recalled the seminars hosted by Brazil, India and Japan to broaden the debate on the urgency of reforming the body.",
+                "6 - The Ministers also discussed the outcome of the tenth round of the intergovernmental negotiations on Security Council reform. They expressed their appreciation for the important role played by the President of the 68th General Assembly, H.E. Mr. John Ashe, in generating positive momentum for the negotiations, notably reflected in the establishment of an Advisory Group, which produced a non-paper providing a clear summary of the main positions of Member States under each of the five key issues contained in decision 62/557. The Ministers also welcomed the assessment, dated 9 July 2014, by the chairman of the IGN, H.E. Ambassador Tanin, and noted with interest his call for a high-level event to be held at the General Debate of the 70th General Assembly and the need to finally start text-based negotiations.",
+                "7 - The Ministers expressed their expectations to work closely with the President of the 69th General Assembly, H.E. Mr. Sam Kahamba Kutesa, in order to bring about the urgently needed reform of the Security Council.",
+                "Luiz Alberto Figueiredo Machado\n  \n  Minister of External Relations of Brazil",
+                "Frank-Walter Steinmeier\n  \n  Federal Minister for Foreign Affairs of Germany",
+                "Sushma Swaraj\n  \n  Minister of External Affairs of India",
+                "Fumio Kishida\n  \n  Minister for Foreign Affairs of Japan"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-09-25-11h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-encontro_ministerial_dos_paises_do_g4_(brasil,_alemanha,_india_e_japao)_a_margem_da_69a_sessao_da_assembleia_geral_da_onu_-_c....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/09/25"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Reunião de Cúpula do G20 - Brisbane, 15 e 16 de novembro de 2014. Credenciamento de Imprensa",
+            "subtitulo": "",
+            "data": "23/09/2014",
+            "horario": "18h20",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reuniao-de-cupula-do-g20-brisbane-15-e-16-de-novembro-de-2014-credenciamento-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Encerra-se no próximo dia 21 de outubro o prazo de credenciamento de imprensa para a cobertura da Reunião de Cúpula do G20, a realizar-se em Brisbane, Austrália, entre os dias 15 e 16 de novembro de 2014. O credenciamento deverá ser feito diretamente junto aos organizadores do evento, por meio de formulário disponível em:",
+                "https://www.g20.org/accreditation/media_registration",
+                "Solicita-se aos profissionais de imprensa que, ao requererem seu credenciamento junto aos organizadores, forneçam, ainda, à Assessoria de Imprensa do Ministério das Relações Exteriores, por meio do endereço eletrônico",
+                "credenciamento@itamaraty.gov.br",
+                ", as seguintes informações:",
+                "a) Nome completo;",
+                "b) Meio de comunicação;",
+                "c) Função;",
+                "d) Endereço de correio eletrônico;",
+                "e) Telefones para contato durante o evento.",
+                "Informações sobre hospedagem de profissionais de imprensa estão disponíveis na plataforma eletrônica de credenciamento. Dados sobre vistos, vacinação obrigatória, facilidades alfandegárias e importação temporária de equipamentos podem ser obtidos no seguinte manual do Governo da Austrália:",
+                "http://www.itamaraty.gov.br/sala-de-imprensa/credenciamento/g20-accredited-delegates-and-media-handbook/at_download/file",
+                "Recorda-se a exigência de visto para brasileiros que viajam para a Austrália, bem como a necessidade de apresentação de certificado internacional de vacinação contra a febre amarela. Para informações adicionais, recomenda-se contato com a Embaixada da Austrália em Brasília (telefones 61-3226-3111 e 61-3226-1112, endereço SES Quadra 801, Conjunto K, Lote 7)."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-09-23-18h20-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_de_cupula_do_g20_-_brisbane,_15_e_16_de_novembro_de_2014._credenciamento_de_imprensa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/09/23"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Debate Geral da 69ª Assembleia-Geral das Nações Unidas - Nova York, 24 de setembro a 7 de outubro de 2014.  Celular da AIG",
+            "subtitulo": "",
+            "data": "23/09/2014",
+            "horario": "18h17",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/debate-geral-da-69-assembleia-geral-das-nacoes-unidas-nova-york-24-de-setembro-a-7-de-outubro-de-2014-celular-da-aig",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Informa-se o número do telefone celular do coordenador de imprensa, pelo Ministério das Relações Exteriores, por ocasião da abertura do Debate Geral da 69ª Assembleia-Geral das Nações Unidas:",
+                "Secretário Patrick Luna",
+                "Chamadas a partir do Brasil: 00 XX 1 214 973 2106",
+                "Chamadas a partir dos Estados Unidos: 1 214 973 2106"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-09-23-18h17-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-debate_geral_da_69a_assembleia-geral_das_nacoes_unidas_-_nova_york,_24_de_setembro_a_7_de_outubro_de_2014._celular_da_aig.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/09/23"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}
