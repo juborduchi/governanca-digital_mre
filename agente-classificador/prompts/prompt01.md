@@ -29,13 +29,16 @@ A escala utilizada é de **1 a 5**, onde:
 
 ### Passo 1: Listar JSONs Disponíveis
 1. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador/resultados/jsons-filtrados`
-2. Identifique todos os arquivos JSON disponíveis
-3. Para cada arquivo encontrado, apresente:
+2. Identifique todos os arquivos JSON disponíveis (resultados da skill_filtro.md)
+3. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador/resultados/verificacoes`
+4. Identifique os arquivos JSON de verificação disponíveis (resultados da skill_testagem.md - padrão: `verificacao_[modelo]-[data].json`)
+5. **IGNORE** os arquivos na pasta `/workspaces/governanca-digital_mre/agente-classificador/resultados/testes-anteriores`
+6. Para cada arquivo encontrado, apresente:
    - Nome do arquivo
-   - Data de modificação (se disponível)
+   - Origem (Filtragem ou Verificação)
    - Quantidade de notas contidas (se possível verificar)
-4. Liste os arquivos formatados para o usuário
-5. Pergunte:
+7. Liste todos os arquivos formatados para o usuário, separados por origem
+8. Pergunte:
    - "Qual arquivo JSON devo utilizar para a avaliação?"
 
 ### Passo 2: Definir Parâmetros da Escala
@@ -115,6 +118,10 @@ Apresente um resumo da progresso:
 
 ## Observações Importantes
 
+- **Fontes de dados**: O agente deve listar JSONs de duas origens:
+  - `resultados/jsons-filtrados/` - Resultados da filtragem (skill_filtro.md)
+  - `resultados/verificacoes/` - Resultados da verificação/validação (skill_testagem.md)
+- **Pasta ignorada**: NÃO inclua arquivos da pasta `resultados/testes-anteriores/`
 - **Nome do arquivo**: Use o nome do modelo de IA utilizado (ex: `escala-ordinal_gpt4-2024-01-15.csv`)
 - **Encoding**: Use UTF-8 para todos os arquivos
 - **Consistência**: Mantenha os mesmos critérios para todas as notas avaliadas
