@@ -114,10 +114,17 @@ Para as notas classificadas como **CORRETAS** (incluídas):
    - Passagens irrelevantes para a justificativa
    - Falta de contextualização histórica ou política
 
-### Passo 9: Gerar Relatório de Validação
+### Passo 9: Gerar Relatório de Validação (único arquivo MD)
 
 #### Arquivo Markdown (`validacao_[modelo_ia]-[data].md`)
 Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/verificacoes/`
+
+**Este é o arquivo principal de saída.** Contém:
+- Resumo executivo
+- Notas removidas (falsos positivos) com justificativa individual
+- Notas adicionadas (falsos negativos)
+- Avaliação da qualidade das justificativas
+- Padrões identificados e recomendações
 
 **Estrutura do Relatório**:
 
@@ -128,29 +135,52 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/ver
 - Total de notas originais analisadas: [X]
 - Total de notas incluídas na filtragem: [Y]
 - Total de notas excluídas: [Z]
-- **Falsos Positivos identificados**: [N] ([%])
-- **Falsos Negativos identificados**: [M] ([%])
+- **Notas removidas** (falsos positivos): [N] ([%])
+- **Notas adicionadas** (falsos negativos): [M] ([%])
+- **Total de notas relevantes finais**: [W]
 - **Score de Confiança Geral**: [0-100]%
 
-## 1. Falsos Positivos (Notas incluídas indevidamente)
-| # | Título | Data | Motivo da Exclusão | Trecho Problemático |
-|---|--------|------|-------------------|---------------------|
-| 1 | ... | ... | ... | ... |
+## 1. Notas Removidas (Falsos Positivos)
 
-## 2. Falsos Negativos (Notas excluídas indevidamente)
-| # | Título | Data | Motivo da Inclusão | Trecho Relevante |
-|---|--------|------|-------------------|------------------|
-| 1 | ... | ... | ... | ... |
+Estas foram removidas da filtragem original por não serem pertinentes ao tema.
+
+### 1.1. [Título da Nota 1]
+- **Data**: [data]
+- **Link**: [link]
+- **Motivo da Remoção**: [Justificativa detalhada]
+- **Trecho Problemático**: [Trecho que justifica a remoção]
+- **Classificação**: [Calendário/Agenda | Não contém temas centrais | Outro]
+
+---
+
+### 1.2. [Título da Nota 2]
+...
+
+## 2. Notas Adicionadas (Falsos Negativos)
+
+Estas foram incluídas agora por conterem temas centrais do contexto.
+
+### 2.1. [Título da Nota 1]
+- **Data**: [data]
+- **Link**: [link]
+- **Motivo da Inclusão**: [Justificativa detalhada]
+- **Trecho Relevante**: [Trecho que justifica a inclusão]
+
+---
+
+### 2.2. [Título da Nota 2]
+...
 
 ## 3. Avaliação da Qualidade das Justificativas
-### Notas com Justificativa Ótima
-- [lista]
 
-### Notas com Justificativa Boa
-- [lista]
+### 3.1. Notas com Justificativa Ótima
+- [lista de notas]
 
-### Notas com Justificativa Insuficiente
-- [lista com sugestões de melhoria]
+### 3.2. Notas com Justificativa Boa
+- [lista de notas]
+
+### 3.3. Notas com Justificativa Insuficiente
+- [lista de notas com sugestões de melhoria]
 
 ## 4. Padrões Identificados
 - [Observações sobre problemas recorrentes na filtragem original]
@@ -159,29 +189,36 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/ver
 - [Sugestões para melhorar a filtragem futura]
 ```
 
-### Passo 10: Gerar CSV Corrigido
+### Passo 10: Gerar CSV com Notas Relevantes
 
-#### Arquivo CSV (`correcao_[modelo_ia]-[data].csv`)
+#### Arquivo CSV (`notas-relevantes_[modelo_ia]-[data].csv`)
 Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/verificacoes/`
 
-**Estrutura do CSV** (mesmo formato do original):
+**Este arquivo contém APENAS as notas consideradas relevantes** (Mantidas + Adicionadas), sem notas removidas.
+
+**Estrutura do CSV**:
 | Coluna | Descrição |
 |--------|-----------|
 | Titulo | Título da nota à imprensa |
 | Data | Data de publicação da nota |
 | Link | Link/endereço da nota |
-| Justificativa | Justificativa **reavaliada** (pode ser a original ou nova) |
+| Justificativa | Justificativa **individual** explicando por que a nota é relevante |
 | Passagens_Relevantes | Passagens que sustentam a inclusão |
-| Status_Original | Status na filtragem original (Incluída/Excluída) |
-| Status_Reavaliado | Status após validação (Mantida/Adicionada/Removida) |
-| Motivo_Reavaliacao | Justificativa da mudança (se aplicável) |
+| Origem | De onde veio a nota (Filtragem/Verificação) |
+
+**Regras**:
+- **Mantidas**: Notas que já estavam na filtragem e foram confirmadas como pertinentes
+- **Adicionadas**: Notas que foram incluídas agora pela verificação (falsos negativos)
+- **NÃO incluir** notas removidas (estas vão apenas no arquivo MD)
 
 **Formato do arquivo**: UTF-8, separador vírgula, aspas para campos com texto longo
 
-### Passo 11: Gerar JSON de Verificação
+### Passo 11: Gerar JSON com Notas Relevantes
 
 #### Arquivo JSON (`verificacao_[modelo_ia]-[data].json`)
 Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/verificacoes/`
+
+**Este arquivo contém APENAS as notas consideradas relevantes** (Mantidas + Adicionadas), sem notas removidas.
 
 **Estrutura do JSON**:
 
@@ -197,45 +234,23 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/ver
   "resumo": {
     "total_notas_originais": 0,
     "total_notas_filtradas": 0,
-    "total_notas_excluidas": 0,
-    "falsos_positivos": 0,
-    "falsos_negativos": 0,
+    "total_notas_relevantes": 0,
+    "notas_mantidas": 0,
+    "notas_adicionadas": 0,
     "justificativas_otimas": 0,
     "justificativas_boas": 0,
     "justificativas_insuficientes": 0,
     "score_confianca": 0
   },
-  "notas_reavaliadas": [
+  "notas_relevantes": [
     {
       "titulo": "...",
       "data": "...",
       "link": "...",
-      "status_original": "Incluída/Excluída",
-      "status_reavaliado": "Mantida/Adicionada/Removida",
-      "justificativa_original": "...",
-      "justificativa_reavaliada": "...",
-      "passagens_originais": ["..."],
-      "passagens_reavaliadas": ["..."],
-      "motivo_reavaliacao": "...",
+      "origem": "Filtragem/Verificação",
+      "justificativa": "...",
+      "passagens": ["..."],
       "qualidade_justificativa": "Ótima/Boa/Insuficiente"
-    }
-  ],
-  "falsos_positivos": [
-    {
-      "titulo": "...",
-      "data": "...",
-      "link": "...",
-      "motivo_exclusao": "...",
-      "trecho_problematico": "..."
-    }
-  ],
-  "falsos_negativos": [
-    {
-      "titulo": "...",
-      "data": "...",
-      "link": "...",
-      "motivo_inclusao": "...",
-      "trecho_relevante": "..."
     }
   ],
   "padroes_identificados": ["..."],
@@ -243,14 +258,30 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/ver
 }
 ```
 
+**Regras**:
+- O array `notas_relevantes` contém **apenas** notas Mantidas e Adicionadas
+- **NOTA**: As notas removidas NÃO devem estar neste JSON - elas vão apenas no arquivo MD
+- Cada nota deve ter uma **justificativa individual** explicando por que é relevante
+- O campo `origem` indica se a nota veio da filtragem original ou foi adicionada pela verificação
+
 **Formato do arquivo**: UTF-8, indentação com 2 espaços
 
 ## Observações Importantes
 
-- **Nome do arquivo**: Use o nome do modelo de IA utilizado (ex: `validacao_gpt4-2024-01-15.md`, `correcao_gpt4-2024-01-15.csv`, `verificacao_gpt4-2024-01-15.json`)
+- **Nome dos arquivos**: Use o nome do modelo de IA utilizado:
+  - `validacao_[modelo]-[data].md` - Relatório completo (resumo, notas removidas, notas adicionadas, qualidade, padrões, recomendações)
+  - `notas-relevantes_[modelo]-[data].csv` - CSV com notas relevantes (Mantidas + Adicionadas)
+  - `verificacao_[modelo]-[data].json` - JSON com notas relevantes
 - **Pasta de saída**: Todos os arquivos devem ser salvos em `/workspaces/governanca-digital_mre/agente-classificador/resultados/verificacoes/`
 - **Encoding**: Use UTF-8 para todos os arquivos
-- **Consistência**: Mantenha o formato dos CSVs de saída similar aos de entrada
+- **Arquivo MD principal**: O `validacao_[modelo]-[data].md` contém **TUDO**:
+  - Resumo executivo
+  - Notas removidas com justificativa individual
+  - Notas adicionadas com justificativa individual
+  - Avaliação da qualidade das justificativas
+  - Padrões identificados e recomendações
+- **CSV e JSON**: Contêm **apenas notas relevantes** (Mantidas + Adicionadas), sem notas removidas
+- **Justificativas**: Cada nota deve ter justificativa **individual** explicando sua pertinência
 - **Transparência**: Cada decisão de validação deve ser justificada com trechos do texto
 - **Objetividade**: Seja imparcial na avaliação - não presuponha que a filtragem anterior esteja errada
 - **Documentação**: Registre todos os casos borderline e sua análise
