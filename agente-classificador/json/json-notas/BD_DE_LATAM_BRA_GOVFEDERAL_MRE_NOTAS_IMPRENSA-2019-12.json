@@ -1,0 +1,1602 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Atentado na Somália",
+            "subtitulo": "",
+            "data": "30/12/2019",
+            "horario": "22h42",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/atentado-na-somalia-4",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro condena o ataque ocorrido no último dia 28 de dezembro, em Mogadíscio, capital da Somália, que registra, até o momento, ao menos 80 mortos e mais de uma centena de feridos.",
+                "Ao expressar condolências às famílias das vítimas e votos de plena recuperação aos feridos, o Brasil manifesta seu repúdio a todo e qualquer ato de terrorismo, independentemente de sua motivação, bem como reitera seu apoio à paz e à estabilidade na Somália."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-30-22h42-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentado_na_somalia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/30"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "317"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Nota Conjunta do Ministério das Relações Exteriores e do Ministério da Defesa",
+            "subtitulo": "",
+            "data": "28/12/2019",
+            "horario": "22h20",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/nota-conjunta-do-ministerio-das-relacoes-exteriores-e-do-ministerio-da-defesa-28-12",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Os cinco militares venezuelanos localizados em território brasileiro, em 26 de dezembro, pelo Exército Brasileiro, durante patrulhamento de rotina na fronteira, foram recebidos neste sábado (28 de dezembro) pela “Força Tarefa Logística Humanitária Operação Acolhida”, onde iniciarão os procedimentos para a solicitação de refúgio no Brasil, a exemplo de outros militares venezuelanos em situação similar.",
+                "A “Força Tarefa Logística Humanitária Operação Acolhida” tem prestado relevantes serviços no atendimento aos imigrantes venezuelanos na fronteira norte do Brasil, sendo reconhecida e premiada internacionalmente."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-28-22h20-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-nota_conjunta_do_ministerio_das_relacoes_exteriores_e_do_ministerio_da_defesa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/28"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "316"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Assassinato de cristãos pela “Província do Estado Islâmico na África Ocidental”",
+            "subtitulo": "",
+            "data": "27/12/2019",
+            "horario": "19h57",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/assassinato-de-cristaos-pela-201cprovincia-do-estado-islamico-na-africa-ocidental201d",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com indignação e consternação profundas, das notícias sobre o assassinato hediondo de onze reféns cristãos por criminosos da autoproclamada “Província do Estado Islâmico na África Ocidental”, que teria ocorrido em território da Nigéria. O Brasil oferece suas condolências aos familiares e amigos das vítimas e expressa sua solidariedade com o governo e o povo nigeriano e com todos aqueles que sofrem, direta ou indiretamente, nas mãos da barbárie de semelhante grupo terrorista.",
+                "O Brasil coloca hoje seus recursos diplomáticos, com grande ênfase, em favor da liberdade religiosa nos mais diferentes âmbitos, juntamente com outras nações. Empenha-se, de maneira especial, em conscientizar a comunidade internacional sobre a perseguição sofrida pelos cristãos ao redor do mundo e sobre a necessidade imperiosa de combater esse infame tipo de violência.",
+                "Diante de atos revoltantes como aquele de que se trata aqui, todas as nações e todas as crenças devem unir-se no objetivo de eliminar do mundo os flagelos do terrorismo, da perseguição religiosa e especificamente, neste caso, da violência contra os cristãos.",
+                "Em sua recente visita à Nigéria, o Ministro Ernesto Araújo manifestou às autoridades daquele país que um dos três pilares centrais da nova visão que desejamos implementar no relacionamento com a Nigéria e com toda a África é a cooperação para promover a segurança e combater o crime em todas as suas formas, inclusive o terrorismo, sabendo dos desafios conjuntos com que se deparam os países dos dois lados do Atlântico Sul e da conexão do terrorismo com o tráfico de drogas, a pirataria e outras formas de crime. O governo brasileiro reitera essa determinação e esse oferecimento."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-27-19h57-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-assassinato_de_cristaos_pela_\"provincia_do_estado_islamico_na_africa_ocidental\".html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/27"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "315"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Nota conjunta do Ministério das Relações Exteriores e do Ministério da Defesa",
+            "subtitulo": "",
+            "data": "27/12/2019",
+            "horario": "19h11",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/nota-a-imprensa-nota-conjunta-do-ministerio-das-relacoes-exteriores-e-do-ministerio-da-defesa",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministério das Relações Exteriores e o Ministério da Defesa informam que, nesta quinta-feira (26/12), durante missão de reconhecimento e patrulhamento nas áreas de fronteira, conduzida por unidades do Exército Brasileiro, foram localizados, na região da terra indígena de São Marcos, nordeste de Roraima, cinco militares venezuelanos.",
+                "Esses militares venezuelanos estavam desarmados e foram conduzidos a Boa Vista, onde estão sendo entrevistados.",
+                "O Exército Brasileiro intensificou o patrulhamento na região da faixa de fronteira, conforme o previsto na Lei Complementar no 97/1999."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-27-19h11-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-nota_conjunta_do_ministerio_das_relacoes_exteriores_e_do_ministerio_da_defesa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/27"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "314"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Entrada em vigor do Acordo de Salvaguardas Tecnológicas Brasil-Estados Unidos – Nota conjunta do Ministério das Relações Exteriores, do Ministério da Ciência, Tecnologia, Inovações e Comunicações e do Ministério da Defesa",
+            "subtitulo": "",
+            "data": "19/12/2019",
+            "horario": "21h01",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/entrada-em-vigor-do-acordo-de-salvaguardas-tecnologicas-brasil-estados-unidos-nota-conjunta-do-ministerio-das-relacoes-exteriores-do-ministerio-da-ciencia-tecnologia-inovacoes-e-comunicacoes-e-do-ministerio-da-defesa",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Entrou em vigor, em 16 de dezembro, o Acordo de Salvaguardas Tecnológicas (AST) entre Brasil e Estados Unidos, relacionado à proteção de tecnologias em operações de lançamento de foguetes e suas cargas úteis a partir do Centro Espacial de Alcântara. O instrumento havia sido assinado em Washington em 18 de março de 2019, durante a visita do Presidente Jair Bolsonaro aos EUA, e, em seguida, amplamente debatido e aprovado no Congresso Nacional brasileiro.",
+                "O Acordo expande significativamente as possibilidades de utilização comercial do Centro Espacial de Alcântara, para lançamentos de satélites e outros objetos espaciais, de quaisquer países, que contenham sistemas ou componentes de origem norte-americana.",
+                "Com a entrada em vigor do AST, o Brasil poderá se inserir no mercado espacial mundial como um forte participante do segmento de lançamentos, gerando desenvolvimento científico-tecnológico e socioeconômico, com criação de empregos e ampliação do empreendedorismo e de negócios de base local e nacional."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-19-21h01-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-entrada_em_vigor_do_acordo_de_salvaguardas_tecnologicas_brasil-estados_unidos_-_nota_conjunta_do_ministerio_das_relacoes_exte....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/19"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "313"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visto temporário e de autorização de residência para aposentados e pensionistas estrangeiros",
+            "subtitulo": "",
+            "data": "19/12/2019",
+            "horario": "20h31",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/visto-temporario-e-de-autorizacao-de-residencia-para-aposentados-e-pensionistas-estrangeiros",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Foi publicada no Diário Oficial da União, em 27 de novembro de 2019, a Resolução Normativa no 40 do Conselho Nacional de Imigração (CNIg), que dispõe sobre a concessão e os procedimentos para emissão de visto temporário e de autorização de residência com base em aposentadoria ou benefício de pensão por morte.",
+                "A medida adotada pelo CNIg – do qual participa o Ministério das Relações Exteriores - possibilitará a permanência no país de estrangeiros que possuam condição econômica e financeira estável e estejam interessados em transferir mensalmente ao Brasil montante igual ou superior a US$ 2.000,00 (dois mil dólares).",
+                "A resolução tem o potencial de incrementar o investimento no mercado imobiliário, comercial e turístico pelos imigrantes aposentados ou pensionistas que venham a residir no Brasil."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-19-20h31-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visto_temporario_e_de_autorizacao_de_residencia_para_aposentados_e_pensionistas_estrangeiros.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/19"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "312"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Desastre aéreo no Chile",
+            "subtitulo": "",
+            "data": "16/12/2019",
+            "horario": "22h09",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/desastre-aereo-no-chile",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro manifesta seu profundo pesar pela confirmação da morte dos 38 passageiros e tripulantes na queda do avião C-130 Hércules da Força Aérea Chilena, ocorrida em 9 de dezembro de 2019. A aeronave chilena partira da Base Aérea Chabunco, em Punta Arenas, com destino à Base Aérea Antártica Presidente Eduardo Frei Montalva, a fim de realizar tarefas de apoio logístico.",
+                "Neste momento de consternação, o Brasil apresenta suas mais sentidas condolências às famílias dos tripulantes e passageiros e expressa sua inteira solidariedade ao povo e ao Governo do Chile."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-16-22h09-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-desastre_aereo_no_chile.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/16"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "311"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Calendário de eventos entre 13 a 20 de dezembro de 2019",
+            "subtitulo": "",
+            "data": "13/12/2019",
+            "horario": "20h52",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/calendario-de-eventos-entre-13-a-20-de-dezembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "10/OUT a 31/DEZ – Varsóvia, Polônia. Exposição “Abstração e Geometria”, nas galerias Retro Avangarda e Korekta, com obras do artista brasileiro Macatarana.",
+                "29/NOV a 17/JAN – Tóquio, Japão. Exposição “Horizonte Concreto: O pavilhão do Brasil na Expo ’70 em Osaka”.",
+                "09 a 14/DEZ – Bogotá, Colômbia. 14a sessão do Comitê do Patrimônio Imaterial da UNESCO.",
+                "16/DEZ – Genebra, Suíça. Reunião da Declaração Conjunta sobre Comércio Eletrônico da Organização Mundial do Comércio.",
+                "16/DEZ – Roma, Itália. Fundo Internacional de Desenvolvimento Agrícola (FIDA). Seminário “Leadership, Ethics and International Cooperation”.",
+                "16/DEZ – Roma, Itália. Programa Mundial de Alimentos (PMA). Segunda Consulta Informal sobre a Política de Proteção Atualizada.",
+                "16/DEZ – Genebra, Suíça. Fórum Global sobre Refugiados. Spotlight Session \"Voices from refugees\". Spotlight Session \"Measuring the impact of hosting countries\". Evento Especial sobre a Autoridade Intergovernamental para o Desenvolvimento (IGAD).",
+                "16/DEZ – Genebra, Suíça. 17a sessão do Grupo de Trabalho Intergovernamental sobre a efetiva Implementação da Declaração e Programa de Ação de Durban (IGWG).",
+                "17/DEZ – Roma, Itália. Programa Mundial de Alimentos (PMA). Reunião do Bureau da Junta Executiva do PMA.",
+                "17/DEZ – Genebra, Suíça. 17a sessão do Grupo de Trabalho Intergovernamental sobre a efetiva Implementação da Declaração e Programa de Ação de Durban (IGWG).",
+                "17/DEZ – Genebra, Suíça. Fórum Global sobre Refugiados.  Sessão plenária de abertura. Spotlight Session \"Making the vision of the Three-Year Strategy (2019-2021) on Resettlement and Complementary Pathways a reality\".",
+                "18/DEZ – Genebra, Suíça. Reunião do Órgão de Solução de Controvérsias da Organização Mundial do Comércio.",
+                "18/DEZ – Roma, Itália. Programa Mundial de Alimentos (PMA). Seminário sobre Segurança Alimentar: “Migration in the 21st Century: Breaking the Myths”.",
+                "18/DEZ – Genebra, Suíça. Reuniões do Conselho de Direitos Humanos para receber atualizações orais da Alta Comissária das Nações Unidas para os Direitos Humanos sobre Venezuela e Ucrânia."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-13-20h52-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_13_a_20_de_dezembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/13"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "310"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Processo de adesão à Convenção de Budapeste - Nota Conjunta do Ministério das Relações Exteriores e do Ministério da Justiça e Segurança Pública",
+            "subtitulo": "",
+            "data": "11/12/2019",
+            "horario": "22h52",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/processo-de-adesao-a-convencao-de-budapeste-nota-conjunta-do-ministerio-das-relacoes-exteriores-e-do-ministerio-da-justica-e-seguranca-publica",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Comitê de Ministros do Conselho da Europa convidou o Brasil a aderir à Convenção sobre Crimes Cibernéticos, também conhecida como Convenção de Budapeste, celebrada em 2001. O processo foi iniciado em julho último, quando o Governo brasileiro manifestou sua intenção de aderir ao instrumento internacional. O ingresso nesse acordo de cooperação proporcionará às autoridades brasileiras acesso mais ágil a provas eletrônicas sob jurisdição estrangeira, além de mais efetiva cooperação jurídica internacional voltada à persecução penal dos crimes cibernéticos.",
+                "Trata-se de iniciativa decorrente de trabalho de coordenação interinstitucional, constituído para esse fim, entre o Ministério das Relações Exteriores, a Polícia Federal (PF) e o Departamento de Recuperação de Ativos e Cooperação Jurídica Internacional (DRCI) – ambos do Ministério da Justiça e Segurança Pública –, o Gabinete de Segurança Institucional da Presidência da República, a Agência Brasileira de Inteligência e o Ministério Público Federal.",
+                "O Ministro da Justiça e Segurança Pública, Sergio Moro, fez o pedido com base em pareceres técnicos da PF e do DRCI.",
+                "O Brasil deverá tomar as providências legais internas necessárias à adesão à Convenção, podendo, contudo, desde já, participar, como observador, das reuniões sobre a Convenção e seus protocolos. Uma vez signatário, o Brasil se unirá a grupo internacional que inclui países como Argentina, Austrália, Canadá, Chile, Costa Rica, Estados Unidos, Japão, Paraguai, República Dominicana e membros da União Europeia, entre outros.",
+                "A iniciativa de adesão do Brasil à Convenção de Budapeste vem somar-se à Lei no 12.965/2014, o Marco Civil da Internet, para a persecução penal dos crimes cibernéticos."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-11-22h52-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-processo_de_adesao_a_convencao_de_budapeste_-_nota_conjunta_do_ministerio_das_relacoes_exteriores_e_do_ministerio_da_justica_....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/11"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "309"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita da Vice-Ministra de Assuntos Estrangeiros da República Italiana, Marina Sereni – Brasília, 10 de dezembro de 2019",
+            "subtitulo": "",
+            "data": "11/12/2019",
+            "horario": "21h47",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/visita-da-vice-ministra-de-assuntos-estrangeiros-da-republica-italiana-marina-sereni-brasilia-10-de-dezembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "A Vice-Ministra dos Assuntos Estrangeiros da República Italiana, Marina Sereni, visitou o Brasil, em 10 de dezembro, e foi recebida pelo Ministro de Estado das Relações Exteriores, interino, Embaixador Otávio Brandelli.",
+                "As partes ressaltaram os laços históricos e culturais dos dois países, consolidados pela forte presença de italianos e descendentes no Brasil e de brasileiros na Itália.",
+                "Ambos acordaram atualizar o Plano de Ação da Parceria Estratégica bilateral, que completará 10 anos em 2020, e retomar o diálogo regular nas instâncias já estabelecidas.",
+                "Brasil e Itália comprometeram-se a envidar esforços pela conclusão e implementação do Acordo de Associação entre o MERCOSUL e a União Europeia, iniciativa essencial para criar novas oportunidades de negócios e de investimentos, em benefício da sociedades europeia e dos países do MERCOSUL.",
+                "A Itália é um dos maiores investidores no Brasil. Há mais de mil companhias italianas instaladas no Brasil, gerando cerca de 150 mil empregos diretos. É também um dos maiores parceiros comerciais do Brasil dentre os membros da União Europeia: ocupou o 10o lugar como destino das exportações brasileiras e o 9o como origem das importações brasileiras daquela região.",
+                "Mais sobre as relações bilaterais Brasil-Itália"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-11-21h47-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_da_vice-ministra_de_assuntos_estrangeiros_da_republica_italiana,_marina_sereni_-_brasilia,_10_de_dezembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/11"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "308"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Acidente com o avião C-130 Hércules da Força Aérea Chilena",
+            "subtitulo": "",
+            "data": "10/12/2019",
+            "horario": "15h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/acidente-com-o-aviao-c-130-hercules-da-forca-aerea-chilena",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro expressa consternação e solidariedade com o povo, o governo e a Força Aérea do Chile (FACH) pelo trágico desaparecimento do avião C-130 Hércules, ocorrido ontem, 9 de dezembro de 2019. A aeronave partira da Base Aérea Chabunco, em Punta Arenas, com destino à Base Aérea Antártica Presidente Eduardo Frei Montalva, a fim de realizar tarefas de apoio logístico. Estavam a bordo 38 pessoas, das quais 17 tripulantes e 21 passageiros",
+                "O Brasil prontamente ofereceu ao Chile apoio nas buscas pela aeronave, por meio do navio polar Almirante Maximiano, da Marinha do Brasil, que já se encontra na região, e do envio de aeronave da Força Aérea Brasileira."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-10-15h40-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-acidente_com_o_aviao_c-130_hercules_da_forca_aerea_chilena.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/10"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "307"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Calendário de eventos de 6 a 13 de dezembro de 2019",
+            "subtitulo": "",
+            "data": "09/12/2019",
+            "horario": "17h52",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/calendario-de-eventos-de-6-a-13-de-dezembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "10/OUT a 31/DEZ – Varsóvia, Polônia. Exposição “Abstração e Geometria”, nas galerias Retro Avangarda e Korekta, com obras do artista brasileiro Macatarana.",
+                "18/NOV a 14/DEZ – Montréal, Canadá. Festival de cinema brasileiro “Culture Brésilienne à Montreal”.",
+                "25/NOV a 13/DEZ – Genebra, Suíça. 100a sessão do Comitê para a eliminação da discriminação racial (continuação).",
+                "29/NOV a 17/JAN – Tóquio, Japão. Exposição “Horizonte Concreto: O pavilhão do Brasil na Expo ’70 em Osaka”.",
+                "05 a 08/DEZ – Taipé, Taiwan. “Future Tech Expo 2019”.",
+                "08 a 14/DEZ – Visita do Ministro de Ernesto Araújo a Cabo Verde, Senegal, Nigéria e Angola.",
+                "09/DEZ – Seul, Coreia do Sul. “Countdown for Expo 2020 Dubai”.",
+                "09/DEZ – Seul, Coreia do Sul. 49° aniversário de fundação da Korea Importers Association (KOIMA).",
+                "09/DEZ – Roma, Itália. Fundo Internacional de Desenvolvimento Agrícola (FIDA). Reunião dos representantes dos Países da Lista C com o Presidente do FIDA, Gilbert F. Houngbo.",
+                "09 e 10/DEZ – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Segundo Seminário sobre o Impacto do Desenvolvimento e os Objetivos de Desenvolvimento Sustentável (ODS): Investimentos em água no contexto do quadro dos ODS.",
+                "09 a 11/DEZ – Cidade do Panamá, Panamá. XIII Cúpula Empresarial China-LAC.",
+                "09 a 11/DEZ – Genebra. Reunião do Conselho Geral da Organização Mundial do Comércio (OMC).",
+                "09 a 12/DEZ – Genebra, Suíça. 33a Conferência Internacional da Cruz Vermelha e do Crescente Vermelho.",
+                "09 a 13/DEZ – Genebra, Suíça. 25a sessão do Grupo de Trabalho de Especialistas em Afrodescendentes.",
+                "09 a 13/DEZ – Genebra, Suíça. 33a sessão do Conselho de administração do Fundo de contribuições voluntárias das Nações Unidas para os povos indígenas.",
+                "09 a 14/DEZ – Bogotá, Colômbia. 14a sessão do Comitê do Patrimônio Imaterial da UNESCO.",
+                "10/DEZ – Seul, Coreia do Sul. “Science & ICT Policy Day”.",
+                "10/DEZ – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião da Rede de Gênero das Agências das Nações Unidas baseadas em Roma.",
+                "10 e 11/DEZ – Cidade do Panamá, Panamá. Expo Logística Panamá 2019.",
+                "10 a 12/DEZ – Roma, Itália. Fundo Internacional de Desenvolvimento Agrícola (FIDA). 128a Sessão da Junta Executiva do FIDA.",
+                "10 a 12/DEZ – Genebra, Suíça. 45a Reunião do Conselho de Coordenação Programática do Programa Conjunto das Nações Unidas sobre HIV/AIDS (UNAIDS).",
+                "11/DEZ – Genebra, Suíça. Projeto de banco de dados de alertas da OMPI (Organização Mundial da Propriedade Intelectual) – Terceira reunião de partes interessadas.",
+                "11/DEZ – Genebra, Suíça. Projeto “WIPO Green” da OMPI (Organização Mundial da Propriedade Intelectual).",
+                "11 e 12/DEZ – Lisboa, Portugal. Reunião do Grupo de Trabalho da Saúde da Comunidade dos Países de Língua Portuguesa (CPLP).",
+                "11 a 13/DEZ – Genebra, Suíça. 38a sessão do Subcomitê de Peritos do Sistema Global Harmonizado de Classificação e Rotulagem de Produtos Químicos.",
+                "12/DEZ – Genebra, Suíça. Reunião do Grupo Informal de Acessões da OMC (Organização Mundial do Comércio).",
+                "12/DEZ – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 3a Reunião Informal para Membros com vistas à 34a Sessão do Comitê de Pesca (COFI).",
+                "12/DEZ – Genebra, Suíça. Reunião do Organismo de Revisão de Políticas Comerciais da OMC – Visão Geral dos Desenvolvimentos no Ambiente de Comércio Internacional.",
+                "12 e 13/DEZ – Genebra, Suíça. 5a Reunião Geral Aberta do Grupo Informal de MSMEs (Micro, Pequenas e Médias Empresas) da OMC.",
+                "12 e 13/DEZ – Genebra, Suíça. Reunião da Discussão Estruturada sobre Facilitação de Investimentos para o Desenvolvimento da OMC.",
+                "12 e 13/DEZ – Cidade do Panamá, Panamá. 12a Assembleia Parlamentar Euro-Latino-Americana.",
+                "13/DEZ – Genebra, Suíça. Reunião de Embaixadores do Grupo dos 77 e China da Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNCTAD).",
+                "13/DEZ – Genebra, Suíça. Reunião Aberta do Comitê Informal de Regras de Origem da OMC.",
+                "13/DEZ – Seul, Coreia do Sul. 2019 Coreia GRULAC. Seminário.",
+                "13/DEZ – Lisboa, Portugal. V Reunião de Ministros da Saúde da CPLP.",
+                "13/DEZ – Tóquio, Japão. Seminário “Novo cenário de Infraestrutura e investimento no Brasil”, organizado pela Câmara de Comércio Brasil-Japão, Banco do Brasil e Consultoria PwC."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-09-17h52-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_de_6_a_13_de_dezembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/09"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "306"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Missão do Ministro das Relações Exteriores a Cabo Verde, Senegal, Nigéria e Angola",
+            "subtitulo": "",
+            "data": "06/12/2019",
+            "horario": "21h24",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/missao-do-ministro-das-relacoes-exteriores-a-cabo-verde-senegal-nigeria-e-angola",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministro das Relações Exteriores, Ernesto Araújo, realizará de 8 a 13 de dezembro visita a Cabo Verde, Senegal, Nigéria e Angola. Nos quatro países, terá encontros com os Ministros do Exterior e com titulares de outras pastas, como Comércio e Finanças, além de ser recebido em audiência por chefes de Estado ou de Governo. Na Nigéria, comparecerá ao Fórum Brasileiro de Produtos de Defesa. Em Angola, proferirá palestra para o corpo diplomático na sede do Ministério das Relações Exteriores e participará de evento empresarial de Defesa.",
+                "Com os quatro países, todos integrantes do entorno estratégico brasileiro no Atlântico Sul, serão discutidos temas da agenda bilateral e internacional, em especial nas áreas de segurança e defesa, comércio, investimentos e cooperação."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-06-21h24-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-missao_do_ministro_das_relacoes_exteriores_a_cabo_verde,_senegal,_nigeria_e_angola.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/06"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "305"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "14": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "MERCOSUL – Documentos adotados na Cúpula do Vale dos Vinhedos – Bento Gonçalves, 5 de dezembro de 2019",
+            "subtitulo": "",
+            "data": "05/12/2019",
+            "horario": "21h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/mercosul-documentos-adotados-na-cupula-do-vale-dos-vinhedos-bento-goncalves-5-de-dezembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Documentos adotados na Cúpula do Vale dos Vinhedos:",
+                "1) COMUNICADO CONJUNTO DOS PRESIDENTES DOS ESTADOS PARTES DO MERCOSUL",
+                "2) COMUNICADO CONJUNTO DOS PRESIDENTES DOS ESTADOS PARTES DO MERCOSUL E ESTADOS ASSOCIADOS",
+                "3) DECLARAÇÃO PRESIDENCIAL SOBRE A SITUAÇÃO NA VENEZUELA",
+                "4) DECLARAÇÃO PRESIDENCIAL SOBRE ILÍCITOS TRANSFRONTEIRIÇOS NO MERCOSUL",
+                "5) DECLARAÇÃO PRESIDENCIAL SOBRE DESENVOLVIMENTO SUSTENTÁVEL",
+                "6) DECLARAÇÃO PRESIDENCIAL SOBRE O CAMINHO DOS JESUÍTAS NA AMÉRICA DO SUL",
+                "COMUNICADO CONJUNTO DOS PRESIDENTES DOS ESTADOS PARTES DO MERCOSUL",
+                "Os Presidentes dos Estados Partes do MERCOSUL, Mauricio Macri, da República Argentina; Jair Messias Bolsonaro, da República Federativa do Brasil; Mario Abdo Benítez, da República do Paraguai; e a Vice-Presidente Lucía Topolansky Saavedra, da República Oriental do Uruguai, avaliaram o estado atual do processo de integração regional, por ocasião da LV Cúpula de Presidentes do MERCOSUL, celebrada no Vale dos Vinhedos, em 5 de dezembro de 2019.",
+                "Parabenizaram a República Argentina e a República Oriental do Uruguai pelas eleições realizadas neste semestre.",
+                "Saudaram os importantes resultados obtidos ao longo do semestre. Coincidiram quanto ao caráter transformador dos acordos alcançados pelo MERCOSUL, tanto entre os Estados Partes quanto entre estes e terceiros países e blocos de países, nos últimos semestres. Reafirmaram seu firme compromisso de concluir tempestivamente os processos de revisão legal e ajustes pendentes dos acordos com a União Europeia e a Associação Europeia de Livre Comércio, para sua pronta assinatura.",
+                "Reiteraram a intenção de dar seguimento à renovação do MERCOSUL a fim de enfrentar os crescentes desafios do cenário internacional e alcançar os objetivos de desenvolvimento.",
+                "Reafirmaram o compromisso fundamental do MERCOSUL com a defesa e o fortalecimento da democracia, o respeito aos direitos humanos e o estado de direito. Ressaltaram a importância de o bloco contribuir para melhorar as condições de vida de seus povos e para aumentar a competitividade de seu setor produtivo e alcançar uma maior integração com a economia mundial. Sublinharam o papel da integração regional na atenuação dos efeitos de um contexto de tensões e incertezas na economia e no comércio internacionais.",
+                "Recordando a proximidade da celebração dos 30 anos do Tratado de Assunção, em 2021, notaram que o projeto de integração trouxe benefícios tangíveis e intangíveis à região, que se tornou mais democrática, estável, cooperativa, integrada e próspera.",
+                "Comemoraram os 25 anos do Protocolo de Ouro Preto, o qual aprofundou o processo de integração regional ao conferir personalidade jurídica ao MERCOSUL e delinear sua estrutura institucional de órgãos decisórios. Em linha com o espírito de Ouro Preto, comprometeram-se a seguir avançando no processo de integração, buscando preservar e fortalecer o patrimônio fundacional de democracia representativa, respeito ao estado de direito e abertura comercial.",
+                "Enfatizaram que o MERCOSUL, para além da integração comercial, deve continuar a produzir benefícios concretos e significativos para os povos dos Estados Partes, mediante, entre outros fatores, a criação de oportunidades de emprego e renda, o oferecimento de facilidades de circulação e residência, o combate ao crime organizado e à corrupção e o uso crescente das tecnologias da informação.",
+                "Ratificaram seu compromisso com o contínuo fortalecimento do MERCOSUL, dando destaque à intensificação das negociações externas, à revisão da Tarifa Externa Comum, ao equacionamento de distorções e exceções relacionadas ao marco jurídico comercial, ao tratamento de temas regulatórios, ao aperfeiçoamento da estrutura institucional e à integração produtiva.",
+                "Celebraram os avanços alcançados nos últimos acordos bilaterais do setor automotivo, que se somam aos acordos bilaterais já vigentes, com o propósito de avançar nas condições favoráveis para a adequação, no mais breve prazo, desse importante setor ao processo de consolidação da união aduaneira.",
+                "AVANÇOS",
+                "Os Presidentes congratularam-se pelas conquistas alcançadas pelo MERCOSUL durante o segundo semestre de 2019 e destacaram os seguintes resultados:",
+                "DIMENSÃO ECONÔMICO-COMERCIAL",
+                "NEGOCIAÇÕES EXTERNAS",
+                "Desde a conclusão do pilar comercial do Acordo de Associação com a União Europeia, em junho passado, o MERCOSUL tem dado continuidade a uma intensa agenda negociadora, demonstrando sua capacidade de abrir mercados para seus produtos e serviços, facilitar o acesso a importações e atrair investimentos para promover crescimento econômico com geração de renda e emprego. Os principais avanços na agenda de negociações externas foram os seguintes:",
+                "▪ Concluiu-se, em agosto, a negociação do Acordo de Livre Comércio entre o MERCOSUL e a Associação Europeia de Livre Comércio (EFTA). ▪ Avançou-se nas negociações de acordos de livre comércio com o Canadá, a Coreia do Sul e Singapura. ▪ Realizou-se a primeira rodada de negociações de acordo de livre comércio com o Líbano. ▪ Explorou-se a possibilidade de ampliar os acordos comerciais vigentes com Israel e Índia. ▪ Iniciou-se aproximação com a Indonésia e o Vietnã, com vistas ao lançamento de tratativas comerciais. ▪ Deu-se continuidade à implementação do Plano de Ação de Puerto Vallarta com a Aliança do Pacífico, particularmente em cooperação regulatória, facilitação de investimentos e facilitação do comércio. ▪ Lançou-se processo de aproximação com países individualizados da América Central e do Caribe, com vistas a alcançar acordos de livre comércio.",
+                "TARIFA EXTERNA COMUM",
+                "Ao longo do semestre, as equipes dos Estados Partes adotaram cronograma intenso de reuniões presenciais e virtuais que permitiram avançar no processo de revisão da Tarifa Externa Comum (TEC). A TEC, que completa no corrente ano 25 anos de existência, jamais sofreu uma reforma abrangente e necessita ser revista para alinhá-la aos padrões internacionais e impulsionar a produtividade e competitividade do MERCOSUL, bem como sua maior integração às cadeias regionais e globais de valor.",
+                "A revisão da TEC contribuirá para garantir, para os consumidores, acesso a maior variedade de produtos a preços mais baixos e, para o setor produtivo, acesso a insumos de elevado teor tecnológico, com custos competitivos.",
+                "FACILITAÇÃO DO COMÉRCIO",
+                "Foi assinado o “Acordo sobre Facilitação do Comércio do MERCOSUL”, que simplifica, harmoniza e automatiza procedimentos de comércio internacional, de modo a torná-los mais rápidos e baratos.",
+                "Esse instrumento ajudará a incrementar a fluidez do intercâmbio comercial intrabloco e a nivelar as condições de concorrência em relação a produtos de fora do MERCOSUL, com impactos positivos para os operadores econômicos e os consumidores dos Estados Partes.",
+                "OPERADORES ECONÔMICOS AUTORIZADOS",
+                "Foi assinado o “Acordo de Reconhecimento Mútuo de Operadores Econômicos Autorizados do MERCOSUL”. Com esse acordo, as empresas acreditadas no programa nacional de operadores econômicos autorizados de um Estado Parte terão direito aos mesmos benefícios junto ao programa de outro Estado Parte.",
+                "Tais programas conferem às empresas neles cadastradas e que apresentem notório cumprimento da legislação aduaneira benefícios em relação ao despacho e processamento de mercadorias e canais facilitados de desembaraço das operações comerciais.",
+                "INDICAÇÕES GEOGRÁFICAS",
+                "Foi assinado o “Acordo para a Proteção Mútua das Indicações Geográficas Originárias nos Territórios dos Estados Partes do MERCOSUL”. Esse acordo cria um mecanismo IntraMERCOSUL para reconhecer de maneira mais rápida as indicações geográficas de um Estado Parte nos demais, protegendo-as contra fraudes e uso indevido.",
+                "INICIATIVAS FACILITADORAS DE COMÉRCIO EM REGULAMENTOS TÉCNICOS",
+                "Foi adotado o “Marco Geral para as Iniciativas Facilitadoras de Comércio no MERCOSUL”, que contribuirá para facilitar acesso aos mercados e superar entraves regulatórios no intercâmbio comercial intrabloco.",
+                "As Iniciativas Facilitadoras de Comércio são instrumentos flexíveis e facultativos, entre dois ou mais Estados Partes, que podem incluir, entre outras, ações de convergência regulatória e reconhecimento de resultados de avaliação da conformidade, bem como ações destinadas à construção de capacidades e à cooperação técnica sobre questões regulatórias.",
+                "ABORDAGEM REGULATÓRIA",
+                "Foi atualizado o mandato do Grupo Ad Hoc de Temas Regulatórios, para que faça uma avaliação do processo regulatório no MERCOSUL com vistas a torná-lo mais moderno, eficiente e compatível com a necessidade de melhorar a competitividade do bloco.",
+                "DEFESA DO CONSUMIDOR",
+                "Com base em iniciativas bilaterais conduzidas entre os países do bloco, foi adotado o “Plano de Ação para Desenvolvimento e Convergência de Plataformas Digitais para Solução de Conflitos de Consumo nos Estados Partes”. O objetivo do Plano será o de desenvolver e conectar plataformas nacionais inteiramente digitais destinadas a resolver, de forma ágil, disputas entre empresas e consumidores nos Estados Partes.",
+                "ASSINATURA DIGITAL",
+                "Foi assinado o “Acordo de Reconhecimento Mútuo de Certificados de Assinatura Digital do MERCOSUL”. As pessoas que tenham assinatura digital reconhecida em um Estado Parte do MERCOSUL poderão utilizá-la em outro Estado Parte.",
+                "O uso crescente das transações eletrônicas, particularmente em matéria de comércio eletrônico, exige que os Estados Partes promovam uma sociedade da informação inclusiva e assegurem medidas que garantam a segurança e a confiança em documentos digitais para consumidores e empresas.",
+                "SERVIÇOS FINANCEIROS",
+                "O Protocolo de Montevidéu sobre o Comércio de Serviços do MERCOSUL foi modernizado a fim de refletir mais adequadamente as especificidades dos serviços financeiros, ao estabelecer disciplinas que asseguram maior previsibilidade e segurança jurídica para os fluxos de comércio de serviços financeiros dentro do bloco e salvaguardam a capacidade de atuação dos reguladores financeiros, assim como de incorporar avanços alcançados em negociações do MERCOSUL com terceiros países ou grupos de países.",
+                "TRANSPORTE DE PRODUTOS PERIGOSOS",
+                "Foi aprovado o “Acordo para a Facilitação do Transporte de Produtos Perigosos no MERCOSUL”, que promoverá maior segurança, reduzirá riscos à saúde humana e ao meio ambiente e gerará maior fluidez no transporte de tais produtos entre os Estados Partes.",
+                "ATUALIZAÇÃO DO MECANISMO TARIFÁRIO PARA SITUAÇÕES DE ABASTECIMENTO",
+                "Foi concluída a revisão do mecanismo para reduções tarifárias temporárias por razões de abastecimento. Esse mecanismo foi aperfeiçoado, agilizando e racionalizando os procedimentos de análise e aprovação dos pleitos.",
+                "FUNDO PARA A CONVERGÊNCIA ESTRUTURAL DO MERCOSUL (FOCEM)",
+                "Foi assinado o “Contrato de Administração Fiduciária entre o Mercado Comum do Sul (MERCOSUL) e o Fundo Financeiro para o Desenvolvimento da Bacia do Prata (FONPLATA)”. O entendimento contribuirá para otimizar a gestão financeira dos recursos do Fundo para a Convergência Estrutural do MERCOSUL (FOCEM) de acordo com a política de renovação e racionalização deste Fundo. A parceria entre os dois Fundos visa também a aperfeiçoar a elaboração e o cofinanciamento de projetos estruturantes na região.",
+                "DIMENSÃO CIDADÃ",
+                "LOCALIDADES FRONTEIRIÇAS VINCULADAS",
+                "Foi assinado o “Acordo sobre Localidades Fronteiriças Vinculadas”, que trará benefícios concretos para os habitantes e os trabalhadores dessas localidades, melhorando, em particular, o acesso a oportunidades econômicas e serviços públicos em saúde, educação, cultura e trabalho. Esta é a primeira norma MERCOSUL de caráter transversal e multidisciplinar que regulará a integração de fronteiras em nível regional.",
+                "COOPERAÇÃO POLICIAL Foi assinado o “Acordo de Cooperação Policial aplicável aos Espaços Fronteiriços entre os Estados Partes do MERCOSUL”. Esse instrumento eleva a um novo patamar a cooperação policial entre os sócios do MERCOSUL, em benefício da segurança da população que habita e trabalha nas regiões fronteiriças.",
+                "COMBATE À CORRUPÇÃO",
+                "Foi adotado mandato para elaboração de um “Plano de Ação do MERCOSUL para o Combate à Corrupção”, iniciativa que demonstra o firme compromisso do bloco no combate à corrupção, por meio de intercâmbio de informações, cooperação internacional, troca de experiências, cooperação jurídica e a participação de representantes da sociedade dos Estados Partes.",
+                "SAÚDE",
+                "Foi assinado o “Acordo de Rede de Bancos de Leite Humano do MERCOSUL”, no âmbito da Reunião de Ministros da Saúde (RMS), com a missão de ampliar o compartilhamento do conhecimento e de tecnologias voltadas para a segurança alimentar e nutricional na atenção neonatal e a lactantes.",
+                "Foram realizadas, em duas etapas, ações de intensificação de vacinação em pontos fronteiriços selecionados, no marco das “Diretrizes para o Plano de Trabalho de Saúde em Fronteiras para o MERCOSUL”.",
+                "Deu-se continuidade ao processo de negociação de preços de medicamentos de alto custo e ao planejamento de futuras negociações, a fim de alcançar valores acessíveis e equitativos para os Estados Partes do MERCOSUL.",
+                "DIMENSÃO INSTITUCIONAL",
+                "REFORMA INSTITUCIONAL DO MERCOSUL",
+                "Ao longo do semestre, foram registrados avanços da segunda etapa de reforma institucional do MERCOSUL. Foi dada sequência à redução do número de foros e lançado um programa para rever a estrutura institucional do MERCOSUL no período de 2020-2021, de forma a torná-la mais eficiente e enxuta. Foi criado, ainda, mecanismo para avaliar a produtividade dos foros do bloco e monitorar seus programas de trabalho.",
+                "DIÁLOGO COM O SETOR PRIVADO",
+                "Complementou-se o marco jurídico existente para aprimorar a participação do setor privado em órgãos técnicos do MERCOSUL. A norma facilita a divulgação das agendas e dos programas de trabalho dos foros, bem como vagas para participação de entidades do setor privado e mecanismos para apresentação de comentários.",
+                "INSTITUTO SOCIAL DO MERCOSUL (ISM) E INSTITUTO DE POLÍTICAS PÚBLICAS DE DIREITOS HUMANOS (IPPDH)",
+                "Foram designados o novo Diretor Executivo do Instituto Social do MERCOSUL (ISM), Juan Miguel González Bibolini, e a nova Secretária Executiva do Instituto de Políticas Públicas de Direitos Humanos (IPPDH), Ariela Peralta Distéfano.",
+                "FORTALECIMENTO DA INTEGRAÇÃO",
+                "Os Presidentes manifestaram, igualmente, a firme determinação de continuar a trabalhar pelo fortalecimento da integração, com vistas a produzir ganhos concretos para suas populações, reforçar os valores democráticos e assegurar a inserção mais vantajosa das economias dos Estados Partes nos contextos regional e global. No tocante aos desafios da agenda econômico-comercial, ressaltaram a importância de os Estados Partes continuarem a pautar-se pelos princípios de regionalismo aberto, pragmatismo e flexibilidade. Sublinharam, nesse contexto, a centralidade dos esforços para:",
+                "▪ Avançar a agenda econômico-comercial entre os Estados Partes, mediante, entre outras ações, a conclusão, no próximo semestre, da revisão da Tarifa Externa Comum e a continuidade dos trabalhos para eliminação dos entraves e distorções no comércio intrazona. ▪ Fortalecer a agenda externa do MERCOSUL, com a assinatura dos acordos com a União Europeia e a Associação Europeia de Livre Comércio, a conclusão de negociações em curso e o lançamento de novas frentes negociadoras no próximo ano; e ▪ Aprofundar o processo de racionalização do funcionamento e da estrutura do bloco, com economia de recursos e enxugamento do seu organograma.",
+                "Bento Gonçalves, 5 de dezembro de 2019.",
+                "COMUNICADO CONJUNTO DOS PRESIDENTES DOS ESTADOS PARTES DO MERCOSUL E ESTADOS ASSOCIADOS",
+                "Os Presidentes da República Argentina, Mauricio Macri; da República Federativa do Brasil, Jair Messias Bolsonaro; da República do Paraguai, Mario Abdo Benítez; e a Vice-Presidente da República Oriental do Uruguai, Lucía Topolansky Saavedra, Estados Partes do MERCOSUL, e os Estados Associados, reunidos no Vale dos Vinhedos, por ocasião da LV Cúpula de Presidentes do MERCOSUL,",
+                "1. Ressaltaram que a plena vigência das instituições democráticas e o estado de direito, assim como a observância dos direitos humanos e liberdades fundamentais são condições essenciais para o processo de integração regional.",
+                "2. Destacaram que a democracia e a prosperidade se reforçam mutuamente, e que o MERCOSUL preserva e defende a democracia para o benefício de seus povos.",
+                "3. Coincidiram em que o diálogo, no marco das instituições e dos ordenamentos jurídicos nacionais, é a melhor maneira de atender as demandas sociais nos países da região.",
+                "4. Reafirmaram seu compromisso com o aprofundamento da integração regional para contribuir com o desenvolvimento econômico e social, a melhoria da qualidade de vida, a erradicação da fome e da pobreza em nossas sociedades e a geração de condições propícias para maior participação de todos os setores envolvidos na integração.",
+                "5. Reconheceram o avanço na implementação do MERCOSUL social e cidadão e sublinharam tratar-se de componente essencial do processo de integração regional, aproximando o MERCOSUL da cidadania e gerando um impacto positivo em suas vidas.",
+                "6. Reafirmaram o compromisso da América Latina e Caribe como zona de paz baseada no respeito ao Direito Internacional e nos princípios e propósitos da Carta da Organização das Nações Unidas.",
+                "7. Manifestaram interesse em continuar a aproximação entre o MERCOSUL e a Aliança do Pacífico, com base no Plano de Ação de Puerto Vallarta com o propósito de dar continuidade aos compromissos entre os dois blocos.",
+                "8. Destacaram a importância de promover maior mobilidade acadêmica e de aprofundar a cooperação educacional de nível primário, secundário e superior.",
+                "9. Destacaram, no âmbito da Reunião de Ministros da Cultura (RMC), a importância de promover convergência de ações, entendendo a cultura como um pilar fundamental para o desenvolvimento sustentável da região, bem como reconheceram o crescimento substantivo do número de novas tecnologias digitais e a importância de levar a cabo ações conjuntas com o objetivo de aprofundar estratégias para a proteção e a promoção de manifestações culturais em entornos digitais.",
+                "10. Reconheceram, no âmbito da Reunião de Ministros e Autoridades de Desenvolvimento Social do MERCOSUL (RMADS), a importância do fortalecimento dos Sistemas Nacionais de Proteção e Desenvolvimento Social, da inovação no sistema de informação social, do fomento ao desenvolvimento integral de crianças na primeira infância e da promoção da inclusão social de jovens nas regiões de fronteira.",
+                "11. Reconheceram a relevância conferida ao combate do tráfico ilícito de bens culturais, no entendimento de que o patrimônio cultural é expressão simbólica inequívoca de nossa integração regional.",
+                "12. Saudaram a assinatura do “Acordo de Cooperação Policial Aplicável aos Espaços Fronteiriços entre os Estados Partes do MERCOSUL”, que fortalecerá a cooperação entre as forças policiais nas fronteiras, demonstrando o elevado grau de confiança mútua entre os países signatários.",
+                "13. Reconheceram o trabalho da Reunião de Ministras e Altas Autoridades da Mulher (RMAAM) em matéria de direitos das mulheres e meninas e congratularam-se pela aprovação do projeto de Recomendação “Abordagem Integral da Violência contra as Mulheres – Violência Simbólica e Midiática”, bem como pelo debate sobre a implementação da Recomendação N° 04/19 “Reconhecimento Regional Mútuo de Medidas de Proteção para Mulheres em Situação de Violência Baseada em Gênero”, destacando, ainda, a importância de discutir direitos das mulheres e comércio exterior no âmbito da RMAAM, e felicitaram o foro por ter iniciado a elaboração de seu Programa de Trabalho bienal.",
+                "14. Destacaram a relevância de aprofundar o intercâmbio de boas práticas, estatísticas e experiências na área migratória, a fim de fortalecer a integração regional, e reconheceram o mérito do “Acordo operativo para a implementação de mecanismo de intercâmbio de informação migratória entre os Estados Partes do MERCOSUL”.",
+                "15. Receberam com beneplácito a decisão do Peru de aderir ao Protocolo de Integração Educativa e Reconhecimento de Certificados, Títulos e Estudos de Nível Primário/Fundamental/Básico e Médio/Secundário entre os Estados Partes do MERCOSUL e Estados Associados, que contribui para o fortalecimento da integração regional na área da mobilidade acadêmica.",
+                "16. Acolheram com satisfação a próxima adesão do Peru ao “Acordo sobre o Mecanismo de Cooperação Consular entre os Estados Partes do MERCOSUL e Estados Associados”, o que contribui para maior abrangência do serviço de proteção consular que prestamos aos cidadãos no exterior.",
+                "17. Ressaltaram a importância do Processo de Quito como modelo de boas práticas internacionais para a governabilidade da mobilidade humana e especialmente a coordenação e a harmonização de medidas destinadas à atenção da crise migratória venezuelana, saudando, nesse sentido, a realização das reuniões técnicas internacionais sobre mobilidade humana de cidadãos venezuelanos na região, especialmente os resultados do encontro realizado na cidade de Bogotá, nos dias 14 e 15 de novembro de 2019.",
+                "18. Congratularam-se pela assinatura do “Acordo sobre Localidades Fronteiriças Vinculadas”. O instrumento facilitará a circulação vicinal e conferirá à população fronteiriça das localidades vinculadas benefícios nas áreas de estudo, trabalho, saúde, transporte e comércio de bens de subsistência, entre outras.",
+                "19. Saudaram a criação, em 14 de outubro de 2019, do Comitê de Integração Fronteiriça Trinacional Barra do Quaraí (Brasil), Bella Unión (Uruguai) e Monte Caseros (Argentina), que atende à demanda antiga da população local. O novo foro constitui o primeiro Comitê de Fronteira Trinacional do MERCOSUL e simboliza a união de vontades entre os Estados Partes para o fortalecimento da integração fronteiriça.",
+                "20. Manifestaram seu firme compromisso com a prevenção, o combate e a eliminação da fabricação e do tráfico ilícitos de armas de fogo, munições, explosivos e outros materiais relacionados. Salientaram, dessa forma, as atividades do Grupo de Trabalho sobre Armas de Fogo e Munições do MERCOSUL, as quais têm permitido aprimorar a coordenação e a cooperação regionais, com vistas a implementar políticas, estratégias e programas comuns e permitir o intercâmbio de informações e boas práticas.",
+                "21. Reafirmaram seu total compromisso e cooperação regional com a luta contra o crime organizado transnacional e seu apoio à efetiva implementação do Sistema de Intercâmbio de Informação de Segurança do MERCOSUL (SISME).",
+                "22. Destacaram os expressivos avanços na implementação do “Plano de Ação 2018-2020 - Agenda Digital do MERCOSUL”, que contribui para o processo de integração regional entre os Estados Partes e Estados Associados.",
+                "23. Reafirmaram os termos da “Declaração sobre as Malvinas”, assinada em 25 de junho de 1996 em Potrero de los Funes, República Argentina, pelos Presidentes dos Estados Partes do MERCOSUL, da República da Bolívia e da República do Chile e reiteraram seu respaldo aos legítimos direitos da República Argentina na disputa da soberania relativa à Questão das Ilhas Malvinas. Destacando a plena disposição mostrada pelo governo argentino, saudaram o clima de cooperação alcançado e os avanços conseguidos em diversas áreas e chamaram a aprofundar o diálogo existente a fim de retomar as negociações que permitam encontrar uma solução definitiva para a disputa de soberania.",
+                "Bento Gonçalves, 5 de dezembro de 2019.",
+                "DECLARAÇÃO PRESIDENCIAL SOBRE A SITUAÇÃO NA VENEZUELA",
+                "Os Presidentes da República Argentina, Mauricio Macri; da República Federativa do Brasil, Jair Messias Bolsonaro; da República do Paraguai, Mario Abdo Benítez; e a Vice-Presidente da República Oriental do Uruguai, Lucía Topolansky Saavedra, Estados Partes do MERCOSUL, reunidos em Bento Gonçalves, Brasil, em 5 de dezembro de 2019, por ocasião da LV Cúpula de Presidentes do MERCOSUL:",
+                "1. Reiteraram os termos da “Declaração Presidencial sobre a Situação na Venezuela” e da “Declaração Presidencial sobre o Fortalecimento da Democracia no MERCOSUL”, subscritas em Santa Fé, Argentina, em 17 de julho último, recordando que a democracia e o respeito aos direitos humanos são condições essenciais para a consolidação de uma região politicamente estável, próspera e integrada. Nesse sentido, também fizeram referência ao “Protocolo de Ushuaia sobre Compromisso Democrático no MERCOSUL, Bolívia e Chile”, assinado em 24 de julho de 1998.",
+                "2. Exortaram a busca de uma solução política, pacífica, liderada pelos próprios venezuelanos, que conduza ao pleno restabelecimento da democracia e do estado de direito na Venezuela, incluindo a celebração de eleições presidenciais livres, justas e transparentes no menor tempo possível.",
+                "3. Instaram a comunidade internacional a seguir contribuindo, por todos os meios pacíficos a seu alcance, para o pronto retorno da institucionalidade democrática àquele país.",
+                "4. Reiteraram sua preocupação com o impacto humanitário que a grave crise política e econômica na Venezuela tem sobre os contingentes de mais de quatro milhões de venezuelanos obrigados a emigrar em busca de melhores condições de vida, bem como sobre seus familiares que permanecem naquele país.",
+                "5. Considerando o crescimento dos fluxos migratórios de venezuelanos que buscam novas oportunidades na região frente à deterioração das condições de vida na Venezuela, salientaram a necessidade de intensificar a coordenação de esforços a fim de dar respostas integrais em matéria migratória e de refúgio, de forma consistente com a dignidade e a preservação dos direitos fundamentais dos migrantes.",
+                "6. Guiados pelo espírito da solidariedade e da cooperação, acordaram continuar o diálogo sobre o tema, no âmbito do MERCOSUL e em outros foros internacionais.",
+                "DECLARAÇÃO PRESIDENCIAL SOBRE DESENVOLVIMENTO SUSTENTÁVEL",
+                "Os Presidentes da República Argentina, Mauricio Macri; da República Federativa do Brasil, Jair Messias Bolsonaro; da República do Paraguai, Mario Abdo Benítez; e a Vice-Presidente da República Oriental do Uruguai, Lucía Topolansky Saavedra, Estados Partes do MERCOSUL, reunidos em Bento Gonçalves, Brasil, em 5 de dezembro de 2019, por ocasião da LV Cúpula de Presidentes do MERCOSUL:",
+                "1. Renovaram seu empenho em continuar a promover o desenvolvimento sustentável, conjugando crescimento econômico, inclusão social e proteção ambiental, em linha com seus compromissos internacionais, sem comprometer a capacidade de atender às necessidades das futuras gerações.",
+                "2. Coincidiram em que o objetivo primordial das políticas nacionais de desenvolvimento sustentável é a prosperidade e o bem-estar das suas populações.",
+                "3. Enfatizaram que a erradicação da fome e da pobreza em todas as suas formas e dimensões é um dos principais desafios enfrentados pelas nossas sociedades e um requisito para a promoção do desenvolvimento sustentável.",
+                "4. Reconheceram a imensa riqueza do patrimônio natural dos países do MERCOSUL e reafirmaram o direito soberano dos estados a utilizar seus próprios recursos naturais, de acordo com suas prioridades e em consonância com as políticas nacionais de desenvolvimento sustentável e com os acordos internacionais dos quais são partes.",
+                "5. Coincidiram que o comércio deve contribuir para o desenvolvimento sustentável, ao reforçar os seus três pilares, econômico, social e ambiental. Corroboraram que políticas comerciais e ambientais devem apoiar-se mutuamente, evitando que se inverta essa lógica e se faça uso de questões ambientais para justificar o protecionismo comercial. Ao mesmo tempo, ressaltaram a prioridade fundamental de salvaguardar a segurança alimentar e acabar com a fome e recordaram a particular vulnerabilidade dos sistemas de produção de alimentos aos efeitos adversos da mudança do clima.",
+                "6. Afirmaram que a promoção do desenvolvimento sustentável é uma missão que demanda o engajamento de todos os países e sublinharam a centralidade do princípio das responsabilidades comuns porém diferenciadas nesse contexto.",
+                "7. Reconheceram o desafio enfrentado pela comunidade internacional no enfrentamento da mudança do clima e destacaram que os países da região têm atuado para adaptar e mitigar a mudança do clima além da sua contribuição histórica para o aumento da temperatura média global. Recordaram que, conforme o estabelecido no Acordo de Paris, as Partes que são países desenvolvidos deverão seguir encabeçando os esforços, adotando metas absolutas de redução das emissões de gases de efeitos estufa cada vez mais ambiciosas.",
+                "8. Avaliaram que o atual contexto internacional apresenta desafios significativos para o crescimento e para a preservação ambiental e frisaram a importância de contar com um sistema econômico - comercial internacional que favoreça o crescimento econômico e o desenvolvimento sustentável dos países em desenvolvimento.",
+                "9. Destacaram que a cooperação internacional é fundamental para permitir que os países em desenvolvimento alcancem seus objetivos de desenvolvimento sustentável e instaram a comunidade internacional e em particular aos países desenvolvidos a incrementar seus esforços e compromissos de apoio aos países em desenvolvimento por meio do fornecimento de recursos financeiros e tecnológicos necessários.",
+                "10. Recordaram o Acordo-Quadro sobre Meio Ambiente, de 2001, e se comprometeram a incrementar a cooperação no âmbito do MERCOSUL para a implementação de políticas nacionais de desenvolvimento sustentável.",
+                "11. Neste âmbito, frisaram a importância de implementar políticas e projetos de cooperação sobre a Agenda de Qualidade Ambiental Urbana, com foco no combate ao lixo o mar, tratamento de resíduos sólidos, áreas verdes urbanas, qualidade do ar, saneamento e qualidade das águas e áreas contaminadas, e em outras áreas que se considerem prioritárias.",
+                "12. Expressaram solidariedade ao povo e ao governo do Brasil por conta do derramamento de petróleo que contaminou suas águas territoriais e parte do litoral do país e apoiaram os esforços do governo de mitigar o impacto do referido vazamento.",
+                "DECLARAÇÃO PRESIDENCIAL SOBRE ILÍCITOS TRANSFRONTEIRIÇOS NO MERCOSUL",
+                "Os Presidentes da República Argentina, Mauricio Macri; da República Federativa do Brasil, Jair Messias Bolsonaro; da República do Paraguai, Mario Abdo Benítez; e a Vice-Presidente da República Oriental do Uruguai, Lucía Topolansky Saavedra, Estados Partes do MERCOSUL, reunidos em Bento Gonçalves, Brasil, em 5 de dezembro de 2019, por ocasião da LV Cúpula de Presidentes do MERCOSUL:",
+                "1. Coincidiram na avaliação de que o crime organizado transnacional é uma ameaça crescente à prosperidade e ao bem-estar das populações dos Estados Partes do MERCOSUL e constitui um obstáculo para alcançar o desenvolvimento sustentável.",
+                "2. Sublinharam a importância de fortalecer ainda mais a cooperação no âmbito do MERCOSUL para combater este flagelo.",
+                "3. Consideraram que o combate a ilícitos transfronteiriços no âmbito do MERCOSUL deve respeitar plenamente o princípio da soberania dos Estados e dar-se em conformidade com o estado democrático de direito e os direitos humanos.",
+                "4. Reiteraram os termos da “Convenção das Nações Unidas contra o Crime Organizado Transnacional e seus Protocolos” e do “Plano de Ação Hemisférico contra a Criminalidade Organizada Transnacional da Organização dos Estados Americanos”, à luz dos esforços correntes para tornar as fronteiras compartilhadas pelos Estados Partes do MERCOSUL mais seguras aos seus concidadãos.",
+                "5. Ao discutirem o processo de crescente internacionalização de facções criminosas, concordaram que os mecanismos de integração regional são essenciais para as ações de combate ao crime organizado transnacional empreendidas internamente pelos Estados Partes do MERCOSUL.",
+                "6. Saudaram os resultados da L Reunião de Ministros da Justiça (RMJ) e da XLIV Reunião de Ministros do Interior e Segurança (RMIS) do MERCOSUL e Estados Associados, ocorrida em novembro de 2019, e reforçaram a necessidade de manter contatos cada vez mais profundos para combater a criminalidade organizada transnacional.",
+                "7. Destacaram a assinatura da Declaração de Foz do Iguaçu dos Ministros da Justiça e do Interior e da Segurança do MERCOSUL e Estados Associados para o Combate aos Delitos Cibernéticos, a qual estabelece métodos de cooperação oportuna e efetiva para o combate aos delitos cibernéticos, que, por sua natureza, são principalmente transfronteiriços.",
+                "8. Congratularam a criação da Rede de Cooperação Penitenciária do MERCOSUL, a REDCOPEN, que estabelece canais de comunicação e intercâmbio de informações entre sistemas penitenciários do bloco.",
+                "9. Celebraram a assinatura, nesta cidade de Bento Gonçalves, do “Acordo de Cooperação Policial Aplicável aos Espaços Fronteiriços entre os Estados Partes do MERCOSUL”, o qual impacta positivamente a vida dos cidadãos do bloco, ao reforçar a segurança nas regiões de fronteira pelo estabelecimento de marco para a cooperação policial.",
+                "10. Destacaram a necessidade de fomentar a cooperação entre forças de segurança pública dos Estados Partes do MERCOSUL, incluindo o intercâmbio de informações para fins de inteligência e de boas práticas, com vistas a combater o crime organizado transnacional.",
+                "11. Recordaram a relevância do Sistema de Intercâmbio de Informação de Segurança do MERCOSUL (SISME), e a importância de manter a plataforma atualizada para a prevenção de delitos e para fortalecer a cooperação no combate a ações criminosas, em geral e nas áreas de fronteira.",
+                "12. Saudaram a realização de iniciativas conjuntas como cursos de capacitação de forças de segurança, os quais reforçam a interação e os laços interpessoais entre agentes públicos, bem como aperfeiçoam procedimentos de investigação e de ação.",
+                "13. Coincidiram na importância de impulsionar, no âmbito do MERCOSUL, a criação de centros de integração de forças de segurança e de cooperação policial para o fortalecimento da luta contra os delitos transfronteiriços.",
+                "14. Comprometeram-se a realizar seus melhores esforços e a mobilizar diferentes setores de seus governos para continuar a debater o tema e a tornar incessantes os esforços de prevenção e de repressão dos ilícitos transfronteiriços no âmbito do MERCOSUL.",
+                "DECLARAÇÃO PRESIDENCIAL SOBRE O CAMINHO DOS JESUÍTAS NA AMÉRICA DO SUL",
+                "Os Presidentes da República Argentina, Mauricio Macri; da República Federativa do Brasil, Jair Messias Bolsonaro; da República do Paraguai, Mario Abdo Benítez; e a Vice-Presidente da República Oriental do Uruguai, Lucía Topolansky Saavedra, Estados Partes do MERCOSUL, reunidos em Bento Gonçalves, Brasil, em 5 de dezembro de 2019, por ocasião da LV Cúpula de Presidentes do MERCOSUL:",
+                "1. Reiteraram seu firme compromisso com a proteção e a promoção de bens culturais, em suas dimensões material e imaterial, com vista a assegurar sua permanência para que sejam usufruídos pelas gerações presentes e futuras.",
+                "2. Reconheceram que o patrimônio cultural existente nos Estados Partes do MERCOSUL e na região estreita, em suas sociedades, vínculos de pertencimento e fortalece as identidades nacionais e a regional, colaborando para a preservação de memórias e contextos históricos compartilhados.",
+                "3. Assinalaram que o patrimônio cultural no âmbito do MERCOSUL e da região tem o potencial de atrair fluxos turísticos transfronteiriços que criam renda e oportunidades para avançar em direção ao desenvolvimento sustentável, sobretudo das populações das localidades em que se situam.",
+                "4. Destacaram a importância cultural, histórico-social, religiosa, artística, arquitetônica, turística e natural das missões erigidas a partir de interações entre sacerdotes da Companhia de Jesus e povos indígenas e das quais se encontram exemplares nos territórios dos Estados Partes do MERCOSUL e da região, cujo conjunto denominado “Missões Jesuíticas Guaranis, Moxos e Chiquitos” é reconhecido como Patrimônio Cultural do MERCOSUL.",
+                "5. Saudaram as ações de valorização e visibilidade da região missioneira e seu patrimônio como referentes culturais para os povos da América do Sul, promovidas no âmbito da XLVI Reunião de Ministros da Cultura do MERCOSUL (RMC), especificamente a cerimônia de Certificação das “Missões Jesuíticas Guaranis, Moxos e Chiquitos” como Patrimônio Cultural do MERCOSUL e o lançamento da exposição itinerante “7 Povos – Retratos de um Território”, realizados no dia 11 de novembro de 2019, na cidade de São Miguel das Missões.",
+                "6. Celebraram o processo, em curso, de estabelecimento de um Caminho dos Jesuítas na América do Sul, o qual constituirá um destino turístico-cultural integrado de singular atratividade para visitantes da região e de mercados distantes.",
+                "7. Expressaram que o desenvolvimento turístico-cultural do Caminho é prioritário e poderá ser objeto de exame por diferentes foros do MERCOSUL.",
+                "8. Tomaram nota dos avanços no desenho, conformação, desenvolvimento e gestão do referido Caminho, com o apoio do Banco Interamericano de Desenvolvimento (BID).",
+                "9. Sublinharam a conveniência de avançar na conformação da iniciativa, em diálogo entre os setores público e privado, incluindo entes subnacionais e organismos internacionais.",
+                "10. Comprometeram-se a manter o diálogo entre as instituições de Turismo e Cultura sobre o referido Caminho, considerados os ganhos econômicos e culturais decorrentes de sua implementação, e instruíram seus governos a prosseguir nos esforços para sua concretização."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-05-21h46-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-mercosul_-_documentos_adotados_na_cupula_do_vale_dos_vinhedos_-_bento_goncalves,_5_de_dezembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/05"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "304"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "15": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Segunda reunião do Órgão de Consulta do Tratado Interamericano de Assistência (TIAR) – Bogotá, 3 de dezembro de 2019",
+            "subtitulo": "",
+            "data": "04/12/2019",
+            "horario": "18h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/segunda-reuniao-do-orgao-de-consulta-do-tratado-interamericano-de-assistencia-tiar-2013-bogota-3-de-dezembro-de-2019",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "A segunda reunião do Órgão de Consulta do Tratado Interamericano de Assistência (TIAR), realizada em Bogotá, em 3 de dezembro, em seguimento às discussões lançadas em Nova York em 23 de setembro passado, decidiu impor sanções a Nicolás Maduro e 28 altos funcionários do governo ilegítimo venezuelano. As 29 pessoas designadas serão submetidas pelas autoridades competentes dos Estados Partes do TIAR a investigações e medidas administrativas e judiciais por envolvimento com narcotráfico, terrorismo, corrupção, lavagem de dinheiro e violações de direitos humanos. Outras pessoas e entidades poderão ser incluídas na lista, a partir do trabalho da rede operacional do TIAR, criada para implementar as decisões do Órgão de Consulta e integrada por autoridades de inteligência financeira e de segurança pública dos Estados Partes. Como medida adicional, as pessoas designadas serão impedidas de ingressar ou transitar no território brasileiro ou no de qualquer um dos 19 Estados Partes do TIAR. O governo brasileiro já havia adotado medida semelhante, por meio da Portaria Interministerial no 7, de 19 de agosto de 2019. O Órgão de Consulta também manifestou sua preocupação com as ações concertadas de desestabilização praticadas por prepostos do regime de Maduro em países democráticos da região. O TIAR é um tratado internacional vinculante juridicamente, celebrado em 1947, que prevê um conjunto de medidas contra ameaças à paz e à segurança no Hemisférico. São Estados Partes do tratado, além de Brasil, Argentina, Bahamas, Chile, Colômbia, Costa Rica, Cuba, El Salvador, Estados Unidos, Guatemala, Haiti, Honduras, Panamá, Paraguai, Peru, República Dominicana, Trinidad e Tobago, Uruguai e Venezuela. O texto da resolução adotada pelo Órgão de Consulta do TIAR está publicado no endereço: http://scm.oas.org/IDMS/Redirectpage.aspx?class=II.30%20RC.30/RES.&classNum=2&lang=p. Já a lista das 29 pessoas sujeitas a sanções pelos Estados Partes do TIAR está disponível no endereço: http://scm.oas.org/pdfs/2019/RC00319pLISTACONSOLIDADA.pdf"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-04-18h30-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-segunda_reuniao_do_orgao_de_consulta_do_tratado_interamericano_de_assistencia_(tiar)_-_bogota,_3_de_dezembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/04"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "303"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "16": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Nomeação de oficial general brasileiro para o cargo de Comandante Militar na Missão da Organização das Nações Unidas para a Estabilização na República Democrática do Congo (MONUSCO)",
+            "subtitulo": "",
+            "data": "04/12/2019",
+            "horario": "15h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/nomeacao-de-oficial-general-brasileiro-para-o-cargo-de-comandante-militar-na-missao-da-organizacao-das-nacoes-unidas-para-a-estabilizacao-na-republica-democratica-do-congo-monusco",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro recebeu com grande satisfação a notícia da nomeação, em 3/12, do General Ricardo Augusto Ferreira Costa Neves para o cargo de Comandante Militar na Missão da Organização das Nações Unidas para a Estabilização na República Democrática do Congo (MONUSCO). A nomeação do militar brasileiro representa reconhecimento da histórica contribuição do país para as operações de manutenção da paz das Nações Unidas. O General Costa Neves substituirá o General Elias Rodrigues Martins Filho, que exerceu o comando militar da MONUSCO de maio de 2018 a outubro de 2019."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-04-15h45-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-nomeacao_de_oficial_general_brasileiro_para_o_cargo_de_comandante_militar_na_missao_da_organizacao_das_nacoes_unidas_para_a_e....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/04"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "302"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "17": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "MERCOSUL – Cúpula do Vale dos Vinhedos – Bento Gonçalves, 5 de dezembro de 2019",
+            "subtitulo": "",
+            "data": "04/12/2019",
+            "horario": "12h49",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/mercosul-cupula-do-vale-dos-vinhedos",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Será realizada no próximo dia 5, em Bento Gonçalves, no Vale do Vinhedos, Rio Grande do Sul, a 55a Cúpula de Chefes de Estado do MERCOSUL e Estados Associados, precedida, no dia anterior, da 55a Reunião Ordinária do Conselho do Mercado Comum (CMC), em nível ministerial.",
+                "A Cúpula do Vale dos Vinhedos encerra a presidência semestral brasileira (PPTB) do MERCOSUL. Durante a PPTB, o MERCOSUL reafirmou seu pleno compromisso com os valores democráticos, reforçou sua vocação original para o regionalismo aberto e buscou adotar um enfoque pragmático, com resultados concretos para os cidadãos.",
+                "Em sequência à conclusão do acordo com a União Europeia, foi finalizado, em agosto, o acordo entre o MERCOSUL e a Associação Europeia de Livre Comércio (EFTA), integrada por Suíça, Noruega, Islândia e Liechtenstein. A intensa agenda externa também incluiu tratativas com Canadá, Singapura, Líbano e Coreia do Sul, diálogos com Vietnã e Indonésia e, no plano regional, com Colômbia e a Aliança do Pacífico.",
+                "Na vertente econômico-comercial, os trabalhos no semestre abrangeram temas como Tarifa Externa Comum, facilitação de comércio, indicações geográficas, serviços financeiros, regulamentos técnicos, agenda digital e participação do setor privado.",
+                "Avançou-se, igualmente, em matéria de cooperação fronteiriça, defesa do consumidor e segurança alimentar e nutricional. No plano institucional, a presidência brasileira deu continuidade aos esforços de enxugamento do MERCOSUL, com redução de custos e de burocracia.",
+                "Deverão ser adotadas, durante a Cúpula, declarações presidenciais sobre desenvolvimento sustentável, turismo e combate a ilícitos transnacionais e à corrupção.",
+                "Em 2018, o Brasil exportou US$ 20,83 bilhões para o MERCOSUL e importou US$ 13,37 bilhões, com um superávit de US$ 7,46 bilhões."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-04-12h49-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-mercosul_-_cupula_do_vale_dos_vinhedos_-_bento_goncalves,_5_de_dezembro_de_2019.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/04"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "301"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "18": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Eleições Presidenciais na Guiné-Bissau",
+            "subtitulo": "",
+            "data": "03/12/2019",
+            "horario": "19h37",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/eleicoes-presidenciais-na-guine-bissau",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro felicita o povo e o Governo da Guiné-Bissau pela realização das eleições presidenciais.",
+                "O Governo brasileiro enviou missões técnicas do Tribunal Superior Eleitoral (TSE) para apoiar o processo preparatório e a realização do pleito. Indicou, ademais, representante para integrar a Missão de Observação Eleitoral da Comunidade dos Países de Língua Portuguesa (CPLP).",
+                "O Governo brasileiro toma nota, com satisfação, que o processo eleitoral se caracterizou pela plena observância das liberdades civis e os direitos políticos dos cidadãos bissau-guineenses.",
+                "O Brasil renova seu compromisso em dar seguimento à cooperação mantida em benefício da democracia e do desenvolvimento da Guiné-Bissau."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-03-19h37-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-eleicoes_presidenciais_na_guine-bissau.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/03"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "300"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "19": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Medida Comercial dos EUA – Nota Conjunta do Ministério das Relações Exteriores, do Ministério da Economia e do Ministério da Agricultura, Pecuária e Abastecimento",
+            "subtitulo": "",
+            "data": "02/12/2019",
+            "horario": "17h55",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/sobretaxa-ao-aco-brasileiro-nota-conjunta-do-ministerio-das-relacoes-exteriores-do-ministerio-da-economia-e-do-ministerio-da-agricultura-pecuaria-e-abastecimento",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento de declaração do Presidente Donald Trump sobre possível imposição de sobretaxa ao aço brasileiro e já está em contato com interlocutores em Washington sobre o tema.",
+                "O governo trabalhará para defender o interesse comercial brasileiro e assegurar a fluidez do comércio com os EUA, com vistas a ampliar o intercâmbio comercial e aprofundar o relacionamento bilateral, em benefício de ambos os países."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2019-12-02-17h55-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-medida_comercial_dos_eua_-_nota_conjunta_do_ministerio_das_relacoes_exteriores,_do_ministerio_da_economia_e_do_ministerio_da_....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2019/12/02"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2019-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "299"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        }
+    }
+}

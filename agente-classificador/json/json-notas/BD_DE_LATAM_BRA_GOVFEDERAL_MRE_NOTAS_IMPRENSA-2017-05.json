@@ -1,0 +1,2291 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentado no Paquistão",
+            "subtitulo": "",
+            "data": "12/05/2017",
+            "horario": "21h28",
+            "datatime": "NA",
+            "data_atualizado": [
+                "15/05/2017"
+            ],
+            "horario_atualizado": [
+                "15h19"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentado-no-paquistao-1205",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro repudia o ataque terrorista ocorrido em Mastung, Paquistão, no dia 12 de maio, que deixou pelo menos 25 mortos e 35 feridos. O ataque, reivindicado pelo autodenominado \"Estado Islâmico\", teve como alvo o comboio do Vice-Presidente do Senado paquistanês, Abdul Ghafoor Haideri.",
+                "Ao expressar suas condolências às famílias das vítimas, seus votos de plena recuperação aos feridos e sua solidariedade com o povo e o governo do Paquistão, o Brasil reitera sua condenação a todo e qualquer ato de terrorismo, independente de sua motivação."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-12-21h28-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentado_no_paquistao.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/12"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Concessão de \"agrément\" à embaixadora do Brasil em Gana",
+            "subtitulo": "",
+            "data": "11/05/2017",
+            "horario": "16h04",
+            "datatime": "NA",
+            "data_atualizado": [
+                "11/05/2017"
+            ],
+            "horario_atualizado": [
+                "18h33"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-a-embaixadora-do-brasil-em-gana",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que o governo de Gana concedeu \"agrément\" a Maria Elisa Teófilo de Luna como embaixadora extraordinária e plenipotenciária do Brasil naquele país. De acordo com a Constituição, essa designação ainda deverá ser submetida à apreciação do Senado Federal.Maria Elisa Teófilo de Luna é a atual Cônsul-Geral do Brasil em Montreal. Ao longo de sua carreira, foi Embaixadora do Brasil no Senegal e serviu nas embaixadas do Brasil na Bélgica, no Panamá, em Cuba, nos Emirados Árabes Unidos e nos consulados em Assunção e Milão. No Brasil, exerceu, entre outras funções, as chefias da Divisão da África I (atual Divisão da África Central e Ocidental) e da Divisão de Imigração."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-11-16h04-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_\"agrement\"_a_embaixadora_do_brasil_em_gana.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/11"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Declaração do ministro Aloysio Nunes Ferreira sobre as eleições na França",
+            "subtitulo": "",
+            "data": "07/05/2017",
+            "horario": "19h35",
+            "datatime": "NA",
+            "data_atualizado": [
+                "08/05/2017"
+            ],
+            "horario_atualizado": [
+                "13h02"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/declaracao-do-ministro-aloysio-nunes-ferreira-sobre-as-eleicoes-na-franca",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "A eleição de Emmanuel Macron, por ampla margem de sufrágios, reafirma o apego do povo francês aos valores democráticos com os quais nós brasileiros nos identificamos profundamente.",
+                "A França hoje vitoriosa é aberta, acolhedora e empenhada em perseverar na construção do projeto europeu.",
+                "Aloysio Nunes Ferreira Ministro das Relações Exteriores"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-07-19h35-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-declaracao_do_ministro_aloysio_nunes_ferreira_sobre_as_eleicoes_na_franca.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/07"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita do Ministro das Relações Exteriores, Aloysio Nunes Ferreira, à Namíbia, Botsuana, Malawi, Moçambique e África do Sul – 8 a 15 de maio de 2017",
+            "subtitulo": "",
+            "data": "05/05/2017",
+            "horario": "23h09",
+            "datatime": "NA",
+            "data_atualizado": [
+                "01/10/2018"
+            ],
+            "horario_atualizado": [
+                "21h27"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-do-ministro-das-relacoes-exteriores-aloysio-nunes-ferreira-a-namibia-botsuana-malawi-mocambique-e-africa-do-sul-8-a-15-de-maio-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O ministro Aloysio Nunes Ferreira realizará visita a cinco países do continente africano no período de 8 a 15 de maio: Namíbia, Botsuana, Malawi, Moçambique e África do Sul.",
+                "A missão do ministro Aloysio Nunes Ferreira dá feição concreta à prioridade que o Brasil atribui às relações com a África. O engajamento político brasileiro no continente fortaleceu múltiplas vertentes de cooperação, comércio e investimentos nas últimas décadas. A visita reafirma esses laços e abre perspectivas de cooperação, apostando na África como uma das regiões mais promissoras para a celebração de parcerias econômicas e comerciais e um ator destinado a assumir crescente destaque na cena global.",
+                "No dia 8 de maio, na Namíbia, o ministro das Relações Exteriores será recebido pelo presidente Hage Geingob e terá encontro de trabalho com sua homóloga, a chanceler Netumbo Nandi-Ndaitwah. O Brasil mantém destacado projeto de cooperação naval com a Namíbia, iniciado em 1994, que já resultou na formação de mais de 1.000 militares namibianos em escolas brasileiras, contribuindo para o objetivo comum de promover a paz e a segurança no Atlântico Sul.",
+                "No dia 9 de maio, o ministro Aloysio Nunes Ferreira viaja para Botsuana, país com o qual o Brasil mantém importantes projetos de cooperação nas áreas de cooperativismo e combate ao HIV/AIDS. O ministro realizará reunião de trabalho com a chanceler Pelonomi Venson-Moitoi, na qual reafirmará o apoio brasileiro ao desenvolvimento daquele país e o propósito de fortalecer o relacionamento nas áreas de defesa e comércio, entre outras. Botsuana é um dos países de mais alto crescimento na África, o que oferece grandes oportunidades para o aumento do comércio e dos negócios com o Brasil.",
+                "No dia 10 de maio, no Malawi, o chanceler Aloysio Nunes Ferreira manterá encontro de trabalho com seu homólogo malawiano, Francis Kasaila, e será recebido pelo presidente Arthur Mutharika. Trata-se da primeira viagem de um chanceler brasileiro àquele país desde o estabelecimento das relações diplomáticas, em 1964. O relacionamento com o Malawi diversificou-se nos últimos anos com o lançamento de uma agenda de cooperação e investimentos. Durante a visita, serão assinados o Memorando de Entendimento para Facilitação de Vistos de Negócios, o Acordo de Isenção de Vistos para Portadores de Passaportes Diplomáticos, Oficiais e de Serviço e o Acordo para o Exercício de Atividades Remuneradas por Dependentes.",
+                "Em 11 e 12 de maio, o ministro Aloysio Nunes Ferreira cumprirá agenda de trabalho em Moçambique. Será recebido em audiência pelo presidente Filipe Nyusi e manterá encontros de trabalho com seu homólogo, Oldemiro Baloi, com o ministro da Agricultura e Segurança Alimentar, José Pacheco, e com a ministra de Recursos Minerais e Energia, Letícia Klemens. Moçambique é o maior parceiro de cooperação brasileira, com projetos pioneiros e estruturantes que abarcam áreas como saúde, agricultura, educação e formação profissional. O país também é importante destino de investimentos brasileiros, cujo estoque chega a 9 bilhões de dólares.",
+                "No dia 12 de maio, o ministro das Relações Exteriores visitará Nacala, onde participará da cerimônia de inauguração do Corredor Logístico de Nacala, importante investimento da Vale em parceria com a estatal Portos e Caminhos-de-Ferro de Moçambique. O projeto, que conferiu ao Brasil o status de maior investidor estrangeiro daquele país, contribuirá para o desenvolvimento das economias moçambicana e malawiana.",
+                "Ainda em Moçambique, devem ser assinados o Acordo de Previdência Social, o Memorando de Entendimento para o Estabelecimento de Consultas Políticas e, no âmbito da cooperação técnica, dois ajustes complementares ao Acordo Geral de Cooperação: um para a implementação de projeto em Fortalecimento da Educação Profissional e Tecnológica de Moçambique; e outro para a implementação de projeto em Capacitação Técnica em Inspeção e Relações de Trabalho.",
+                "No dia 15 de maio, o ministro Aloysio Nunes Ferreira encerrará sua viagem com agenda de trabalho na África do Sul, ocasião em que, entre outras atividades, se reunirá com a chanceler Maite Nkoana-Mashabane. Brasil e África do Sul desenvolvem parceria estratégica, que se articula por meio de projetos de cooperação, pela atuação coordenada em fóruns internacionais e pela participação em grupos como o IBAS e o BRICS.",
+                "Mais sobre as relações bilaterais Brasil-África do Sul",
+                "Mais sobre as relações bilaterais Brasil-Botsuana",
+                "Mais sobre as relações bilaterais Brasil-Malawi",
+                "Mais sobre as relações bilaterais Brasil-Moçambique",
+                "Mais sobre as relações bilaterais Brasil-Namíbia"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-05-23h09-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_do_ministro_das_relacoes_exteriores,_aloysio_nunes_ferreira,_a_namibia,_botsuana,_malawi,_mocambique_e_africa_do_sul_-....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/05"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 08 de maio e 14 de maio de 2017",
+            "subtitulo": "",
+            "data": "05/05/2017",
+            "horario": "21h35",
+            "datatime": "NA",
+            "data_atualizado": [
+                "05/05/2017"
+            ],
+            "horario_atualizado": [
+                "21h57"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-08-de-maio-a-14-de-maio-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "1º a 10/MAI (continuação) – Noruega, Finlândia, Suécia e Dinamarca. Missão da Agência Brasileira de Promoção de Exportações e Investimentos (Apex) e da Associação Brasileira de Private Equity e Venture Capital (ABVCAP) aos Países Nórdicos na área de promoção e  investimentos da inovação.",
+                "08 a 12/MAI – Genebra, Suíça. 20ª Sessão Anual da Comissão de Ciência e Tecnologia para o Desenvolvimento da Organização das Nações Unidas (CSTD/ONU).",
+                "08 a 13/MAI. Argel, Argélia. Feira Internacional de Argel - FIA. Participação brasileira: Embaixada em Argel e empresas brasileiras.",
+                "08 a 18/MAI – Bonn, Alemanha. 46ª Sessão dos Órgãos Subsidiários da Convenção- Quadro das Nações Unidas sobre Mudança do Clima (SBSTA-46) e reunião do Grupo de Trabalho \"Ad Hoc\" sobre o Acordo de Paris (APA-1.3).",
+                "09/MAI – Oslo, Noruega. Grupo de trabalho Brasil – Noruega em Educação, Ciência e Tecnologia.",
+                "09 a 11/MAI – Chengdu, China. Feira Global de Inovação e Empreendedorismo.",
+                "09 a 12/MAI – Viena, Áustria. \"Vienna Energy Forum\".",
+                "09 a 22/MAI – Bled, Eslovênia. 67ª (A) Sessão do Comitê Científico da Comissão Internacional da Baleia (CIB).",
+                "09/MAI – Brasília, Brasil. 121ª Reunião Ordinária do Conselho Nacional do Meio Ambiente (CONAMA).",
+                "10/MAI – Nova York, EUA. XI ISO/DATAGRO Ney York Sugar & Ethanol Conference.",
+                "10 a 11/MAI – Brasília. Seminário Internacional sobre Proteção de Dados Pessoais.",
+                "08/ABR a 12/MAI – Genebra, Suíça. 60ª sessão do Comitê contra a Tortura.",
+                "24/ABR a 12/MAI – Genebra, Suíça. 92ª do Comitê para a Eliminação da Discriminação Racial.",
+                "01/MAI a 02/JUN. Genebra, Suíça. 69ª Sessão da Comissão de Direito Internacional.",
+                "8/MAI  – Roma, Itália. Fundo Internacional de Desenvolvimento Agrícola (FIDA). 3ª Reunião de Coordenadores e Amigos.",
+                "8 a 12/MAI – Budapeste, Hungria. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 30ª Sessão do Comitê de Normas.",
+                "8 a 12/MAI – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 38ª Reunião Conjunta FAO/OMS do Comité do Codex sobre Métodos de Análise e Amostragem.",
+                "9 a 11/MAI – Cidade do Kuwait, Kuwait. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião da Comissão Regional de Pescas (RECOFI).",
+                "9/MAI – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Evento de Nutrição do Comitê de Segurança Alimentar Mundial: Investimentos para Sistemas Alimentares Saudáveis.",
+                "10/MAI – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião do Grupo Aberto de Trabalho do Quadro Estratégico Global do Comitê de Segurança Alimentar Mundial.",
+                "11/MAI – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião da Mesa do Comitê de Segurança Alimentar Mundial.",
+                "11/MAI – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião do Grupo Diretivo do Ano Internacional das Leguminosas (YIP).",
+                "15 a 17/maio. Santa Cruz (Bolívia). Missão do Programa de Extensão Industrial Exportadora (PEIEX) Paraguai e Bolívia 2017 - APEX."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-05-21h35-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_08_de_maio_e_14_de_maio_de_2017.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/05"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Mecanismo de Revisão Periódica Universal do Conselho de Direitos Humanos das Nações Unidas",
+            "subtitulo": "",
+            "data": "05/05/2017",
+            "horario": "14h32",
+            "datatime": "NA",
+            "data_atualizado": [
+                "08/05/2017"
+            ],
+            "horario_atualizado": [
+                "16h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/mecanismo-de-revisao-periodica-universal-do-conselho-de-direitos-humanos-das-nacoes-unidas",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Brasil participou hoje (5/5) do Mecanismo de Revisão Periódica Universal do Conselho de Direitos Humanos das Nações Unidas.",
+                "Na Revisão Periódica Universal, a situação dos direitos humanos de todos Estados Membros das Nações Unidas é passada em revista pelos demais países, de acordo com um calendário pré-definido. Trata-se de exercício cooperativo, em que as recomendações formuladas em processo “inter pares” visam, sempre, ao aperfeiçoamento da promoção e proteção dos direitos humanos. A primeira revisão do Brasil ocorreu em 2008; a segunda, em 2012.",
+                "Chefiada pela Ministra de Estado de Direitos Humanos, Desembargadora Luislinda Dias de Valois Santos, a delegação brasileira apresentou os avanços recentes do Brasil na promoção e proteção dos direitos humanos, em especial aqueles decorrentes da implementação das recomendações recebidas no segundo ciclo de avaliação, em 2012, e respondeu a comentários e observações formuladas pelos demais países.",
+                "No diálogo interativo que se seguiu, 103 países fizeram uso da palavra para valorizar os avanços ocorridos no Brasil desde a última revisão do país, como a redução das desigualdades sociais, a nova lei de migrações, a lei do feminicídio e as políticas de ações afirmativas e combate ao racismo e à discriminação racial. Foram também propostas novas recomendações, em áreas como sistema penitenciário, direitos de povos indígenas e proteção de defensores de direitos humanos.",
+                "O Governo brasileiro realizará consultas internas e com a sociedade civil para avaliar cada uma das recomendações recebidas, em processo aberto e transparente. O Governo assume, desde já, o compromisso de seguir trabalhando, de modo amplo e democrático, pela implementação das recomendações da Revisão Periódica Universal."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-05-14h32-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-mecanismo_de_revisao_periodica_universal_do_conselho_de_direitos_humanos_das_nacoes_unidas.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/05"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Comunicado sobre a situação na Venezuela",
+            "subtitulo": "",
+            "data": "05/05/2017",
+            "horario": "01h59",
+            "datatime": "NA",
+            "data_atualizado": [
+                "05/05/2017"
+            ],
+            "horario_atualizado": [
+                "12h31"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/comunicado-sobre-a-situacao-na-venezuela",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os governos de Argentina, Brasil, Colômbia, Costa Rica, Guatemala, Honduras, México e Paraguai deploramos a deterioração da situação interna e o recrudescimento da violência na Venezuela que, desde 6 de abril, vem deixando um número crescente de mortos e centenas de feridos.",
+                "Condenamos o uso excessivo da força por parte das autoridades venezuelanas contra a população civil que marcha para protestar contra as medidas do governo que afetam a estabilidade democrática, polarizam ainda mais a sociedade venezuelana e causam a perda de vidas humanas, em sua maioria de pessoas jovens.",
+                "Fazemos um chamado enérgico ao governo venezuelano para que respeite os Direitos Humanos de seus cidadãos, como prevê sua Constituição.",
+                "Sendo atualmente membro do Conselho de Direitos Humanos das Nações Unidas, a Venezuela tem a obrigação de aplicar as normas mais estritas sobre a promoção e a proteção dos Direitos Humanos, em cumprimento dos compromissos e obrigações derivados dos tratados internacionais de Direitos Humanos que assinou e ratificou.",
+                "No marco do apego irrestrito ao Estado de Direito, e de forma a lograr a estabilização da situação na Venezuela, reiteramos a importância de cumprir o calendário eleitoral, libertar os presos políticos, restituir as funções da Assembleia Nacional democraticamente eleita, bem como garantir a separação dos poderes.",
+                "Por último, fazemos um chamado a todos os setores para que não avalizem ações que gerem mais violência, e manifestamos nossa convicção de que chegou a hora de concretizar um acordo nacional inclusivo que proveja uma solução duradoura para a situação crítica que se vive na Venezuela."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-05-01h59-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-comunicado_sobre_a_situacao_na_venezuela.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/05"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil do Primeiro-Ministro da Nova Zelândia, John Key - São Paulo e Brasília, 10 a 12 de março de 2013",
+            "subtitulo": "",
+            "data": "04/05/2017",
+            "horario": "21h14",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h40"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-do-primeiro-ministro-da-nova-zelandia-john-key-sao-paulo-e-brasilia-10-a-12-de-marco-de-2013",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Primeiro-Ministro da Nova Zelândia, John Key, realizará visita ao Brasil entre os dias 10 e 12 de março. Em Brasília, no dia 11 de março, será recebido pela Presidenta, Dilma Rousseff.",
+                "Os mandatários examinarão as perspectivas de aprofundamento da relação bilateral, ações para a expansão dos fluxos de comércio e de investimento bilaterais e novas iniciativas de cooperação em áreas como ciência e tecnologia, energia, turismo, esportes, cultura e educação, no âmbito do Programa Ciência sem Fronteiras.",
+                "Tratarão também de temas de interesse global como questões de paz e segurança internacional e reforma das instituições multilaterais, bem como temas regionais da América do Sul e da Ásia/Oceania.",
+                "Entre 2002 e 2012, o volume de comércio entre Brasil e Nova Zelândia passou de US$ 64,6 milhões para US$ 125,5 milhões. Empresas da Nova Zelândia têm investido em agropecuária no Brasil, nas áreas de melhoramento genético de rebanhos e produção leiteira de alta qualidade.",
+                "Mais sobre as relações Brasil-Nova Zelândia"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-04-21h14-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_primeiro-ministro_da_nova_zelandia,_john_key_-_sao_paulo_e_brasilia,_10_a_12_de_marco_de_2013.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/04"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Concessão de \"agrément\" ao embaixador do Reino da Tailândia",
+            "subtitulo": "",
+            "data": "03/05/2017",
+            "horario": "22h22",
+            "datatime": "NA",
+            "data_atualizado": [
+                "03/05/2017"
+            ],
+            "horario_atualizado": [
+                "22h32"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-ao-embaixador-do-reino-da-tailandia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que concedeu agrément ao senhor Surasak Suparat como embaixador extraordinário e plenipotenciário do Reino da Tailândia junto à República Federativa do Brasil.",
+                "Brasil e Tailândia mantêm relações diplomáticas desde 1959.",
+                "Mais sobre as relações bilaterais Brasil-Tailândia"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-03-22h22-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_\"agrement\"_ao_embaixador_do_reino_da_tailandia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/03"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita Oficial ao Brasil da Secretária-Executiva da Comunidade dos Países de Língua Portuguesa –  Brasília e Salvador, 2 a 5 de maio de 2017",
+            "subtitulo": "",
+            "data": "03/05/2017",
+            "horario": "00h41",
+            "datatime": "NA",
+            "data_atualizado": [
+                "03/05/2017"
+            ],
+            "horario_atualizado": [
+                "12h36"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-oficial-ao-brasil-da-secretaria-executiva-da-comunidade-dos-paises-de-lingua-portuguesa-brasilia-e-salvador-2-a-5-de-maio-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "A Secretária-Executiva da Comunidade dos Países de Língua Portuguesa (CPLP), Senhora Maria do Carmo Silveira, encontra-se em visita oficial ao Brasil, onde mantém, nos dias 2 e 3, em Brasília, reuniões de trabalho com autoridades do Itamaraty, do Ministério dos Direitos Humanos, do Ministério da Justiça e Segurança Pública e da Presidência da República.",
+                "Em Salvador, nos dias 4 e 5 de maio, a Secretária-Executiva da CPLP irá avistar-se com autoridades do Ministério da Cultura, bem como participar da X Reunião dos Ministros de Cultura da CPLP, a qual se realiza no contexto da presidência de turno brasileira da Comunidade.",
+                "O Brasil assumiu a presidência de turno do organismo pelo biênio 2016-2018 por ocasião da XI Conferência de Chefes de Estado e de Governo da organização, realizada em Brasília, em 31 de outubro e 1º de novembro de 2016. O tema escolhido pelo Brasil para sua presidência é \"A CPLP e a Agenda 2030 para o Desenvolvimento Sustentável\".",
+                "Estabelecida em 1996, a CPLP conta hoje com nove Estados membros: Angola, Brasil, Cabo Verde, Guiné-Bissau, Guiné Equatorial, Moçambique, Portugal, São Tomé e Príncipe e Timor-Leste. A Comunidade tem como objetivos a concertação política e diplomática, a cooperação multissetorial e a promoção e difusão da língua portuguesa.",
+                "A soma da população dos países da CPLP aproxima-se de 270 milhões de pessoas."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-03-00h41-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_oficial_ao_brasil_da_secretaria-executiva_da_comunidade_dos_paises_de_lingua_portuguesa_-_brasilia_e_salvador,_2_a_5_d....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/03"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Reunião de Chanceleres do Brasil e do México em Washington – 31 de maio de 2017",
+            "subtitulo": "",
+            "data": "31/05/2017",
+            "horario": "20h47",
+            "datatime": "NA",
+            "data_atualizado": [
+                "28/11/2017"
+            ],
+            "horario_atualizado": [
+                "18h54"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reuniao-de-chanceleres-do-brasil-e-do-mexico-em-washington-31-de-maio-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os ministros de Relações Exteriores do Brasil e do México acordaram em reunião hoje em Washington acelerar as negociações para a ampliação do acordo comercial entre os dois países. Aloysio Nunes Ferreira e Luis Videgaray decidiram assegurar impulso político de alto nível para chegar ainda neste ano a um acordo ousado e ambicioso, que leve ao aumento do comércio bilateral e acelere a atração de investimentos estrangeiros produtivos para os dois países.",
+                "Para Aloysio Nunes, a ampliação e o aprofundamento da rede de acordos comerciais é essencial para a retomada do crescimento econômico do Brasil.",
+                "Mais sobre as relações bilaterais Brasil-México"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-31-20h47-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_de_chanceleres_do_brasil_e_do_mexico_em_washington_-_31_de_maio_de_2017.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/31"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita do Ministro das Relações Exteriores à Venezuela - Caracas, 9 de fevereiro de 2013",
+            "subtitulo": "Ministro Antonio de Aguiar Patriota e o Ministro das Relações Exteriores venezuelano, Elías José Jaua Milano, passarão em revista os principais temas da agenda bilateral e regional, com ênfase na incorporação da Venezuela ao MERCOSUL.",
+            "data": "31/05/2017",
+            "horario": "20h34",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/05/2017"
+            ],
+            "horario_atualizado": [
+                "20h35"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-do-ministro-das-relacoes-exteriores-a-venezuela-caracas-9-de-fevereiro-de-2013",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Ministro das Relações Exteriores, Antonio de Aguiar Patriota, realizará visita à Venezuela no dia 9 de fevereiro, ocasião em que manterá encontro de trabalho com o Ministro das Relações Exteriores venezuelano, Elías José Jaua Milano. Os chanceleres passarão em revista os principais temas da agenda bilateral e regional, com ênfase na incorporação da Venezuela ao MERCOSUL.",
+                "A cooperação bilateral é importante componente da relação entre o Brasil e a Venezuela, incluindo projetos de desenvolvimento social, tecnológico e de integração produtiva. Há perspectivas de ampliação da cooperação em áreas como agricultura familiar, biotecnologia, TV digital, sistemas bancários, segurança pública, combate ao narcotráfico e ilícitos internacionais.",
+                "A Venezuela é um dos principais parceiros comerciais do Brasil na América do Sul. Em 2012, as exportações brasileiras para a Venezuela cresceram 10% em relação ao ano anterior, e o intercâmbio comercial alcançou o recorde histórico de US$ 6,05 bilhões. A tarifa média de importação aplicada pela Venezuela é de 12,5%, valor inferior à média brasileira, que corresponde a 13,7%. Desde 2003, o comércio bilateral cresceu 585%. A economia venezuelana cresceu 5,5% em 2012.",
+                "***",
+                "El Ministro de Relaciones Exteriores, Antonio de Aguiar Patriota, realizará una visita a Venezuela el día 9 de febrero, ocasión en que mantendrá un encuentro de trabajo con el Ministro de Relaciones Exteriores venezolano, Elías José Jaua Milano. Los cancilleres pasarán revista a los principales temas de la agenda bilateral y regional, con énfasis en la incorporación de Venezuela al MERCOSUR.",
+                "La cooperación bilateral es un componente importante de la relación entre Brasil y Venezuela, e incluye proyectos de desarrollo social, tecnológico y de integración productiva. Hay perspectivas de ampliación de la cooperación en áreas como agricultura familiar, biotecnología, TV digital, sistemas bancarios, seguridad pública, combate al narcotráfico e ilícitos internacionales.",
+                "Venezuela es uno de los principales socios comerciales del Brasil en Sudamérica. En 2012, las exportaciones brasileñas para Venezuela crecieron 10% con relación al año anterior, y el intercambio comercial alcanzó el récord histórico de U$S 6,05 mil millones. La tarifa promedio de importación aplicada por Venezuela es de 12,5%, valor inferior al promedio brasileño, que corresponde al 13,7%. Desde 2003 el comercio bilateral creció 585%. La economía venezolana creció 5,5 % en 2012."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-31-20h34-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_do_ministro_das_relacoes_exteriores_a_venezuela_-_caracas,_9_de_fevereiro_de_2013.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/31"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil do Chanceler da República Bolivariana da Venezuela, Elías José Jaua Milano - Brasília, 9 de abril de 2013",
+            "subtitulo": "",
+            "data": "31/05/2017",
+            "horario": "20h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h40"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-do-chanceler-da-republica-bolivariana-da-venezuela-elias-jose-jaua-milano-brasilia-9-de-abril-de-2013",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Ministro das Relações Exteriores, Antonio de Aguiar Patriota, receberá o Ministro das Relações Exteriores da República Bolivariana da Venezuela, Elías José Jaua Milano, em Brasília, no dia 9 de abril de 2013. Será a primeira visita do Ministro Elías Jaua ao Brasil desde que assumiu o cargo, em 15 de janeiro deste ano.",
+                "Brasil e Venezuela firmaram aliança estratégica em 2005 e realizam reuniões periódicas de consultas bilaterais, para coordenar iniciativas conjuntas, promover interesses regionais e globais comuns e avaliar iniciativas voltadas à cooperação bilateral e ao desenvolvimento. A cooperação entre Brasil e Venezuela abrange projetos de integração produtiva e de desenvolvimento social e tecnológico. No contexto da visita, a Orquestra Sinfônica Simón Bolívar, sob a regência do Maestro Gustavo Dudamel, apresentar-se-á no Teatro Nacional de Brasília.",
+                "A Venezuela é um dos principais parceiros comerciais do Brasil na América do Sul. Nos últimos dez anos, o comércio bilateral cresceu 585%, passando de US$ 883 milhões em 2003 para o recorde histórico de US$ 6,05 bilhões em 2012. As exportações brasileiras de manufaturados para a Venezuela cresceram 30% em 2012, atingindo 65% da pauta exportadora. A economia venezuelana cresceu 5,5% em 2012.",
+                "Mais sobre as relações bilaterais Brasil-Venezuela"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-31-20h27-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_chanceler_da_republica_bolivariana_da_venezuela,_elias_jose_jaua_milano_-_brasilia,_9_de_abril_de_2013.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/31"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "14": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil do Presidente da República Bolivariana da Venezuela, Nicolás Maduro Moros – Brasília, 9 de maio de 2013",
+            "subtitulo": "",
+            "data": "31/05/2017",
+            "horario": "20h06",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h13"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-do-presidente-da-republica-bolivariana-da-venezuela-nicolas-maduro-moros-brasilia-9-de-maio-de-2013",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Presidente da República Bolivariana da Venezuela, Nicolás Maduro Moros, realizará visita ao Brasil no dia 9 de maio de 2013. Em Brasília, será recebido pela Presidenta da República, Dilma Rousseff.",
+                "A visita do Presidente Maduro dá continuidade à sequência de reuniões periódicas de alto nível entre autoridades dos dois países. A cooperação entre Brasil e Venezuela inclui iniciativas de integração produtiva, segurança alimentar, políticas públicas, saúde e desenvolvimento social e tecnológico. Os dois países também apoiam iniciativas de cooperação trilateral no Caribe, com foco em agricultura familiar e desenvolvimento social.",
+                "O comércio entre Brasil e Venezuela multiplicou-se por sete de 2003 a 2012. No ano passado, o comércio bilateral alcançou o recorde histórico de US$ 6,05 bilhões. As exportações brasileiras de manufaturados para a Venezuela cresceram 30% em 2012, alcançando 65% da pauta exportadora. O processo de adesão da Venezuela ao MERCOSUL segue o cronograma acordado pelo bloco, com a adoção da Nomenclatura Comum do MERCOSUL e com o início da convergência à Tarifa Externa Comum.",
+                "Mais sobre as relações bilaterais Brasil-Venezuela"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-31-20h06-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_presidente_da_republica_bolivariana_da_venezuela,_nicolas_maduro_moros_-_brasilia,_9_de_maio_de_2013.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/31"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "15": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentado no Afeganistão",
+            "subtitulo": "",
+            "data": "31/05/2017",
+            "horario": "17h03",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/05/2017"
+            ],
+            "horario_atualizado": [
+                "17h37"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentado-no-afeganistao31-05",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro repudia o ataque terrorista ocorrido em Cabul, Afeganistão, hoje, 31 de maio, que deixou pelo menos 80 mortos e mais de 350 feridos.",
+                "Ao expressar suas condolências às famílias das vítimas, seus votos de plena recuperação aos feridos e sua solidariedade com o povo e o governo do Afeganistão, o Brasil reitera sua condenação a todo e qualquer ato de terrorismo, independente de sua motivação."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-31-17h03-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentado_no_afeganistao.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/31"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "16": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "I Cúpula CELAC-União Europeia –  Santiago do Chile, 26 e 27 de janeiro de 2013",
+            "subtitulo": "",
+            "data": "30/05/2017",
+            "horario": "18h51",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h39"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/i-cupula-celac-uniao-europeia-santiago-do-chile-26-e-27-de-janeiro-de-2013",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "A Presidenta Dilma Rousseff participará, em Santiago, da I Cúpula da Comunidade de Estados Latino-Americanos e Caribenhos (CELAC) – União Europeia. Sob o tema “Aliança para um desenvolvimento sustentável: promovendo investimentos de qualidade social e ambiental”, a Cúpula marcará uma nova etapa do diálogo birregional, fortalecido após a criação da CELAC, em 2011.",
+                "A Cúpula adotará o Plano de Ação CELAC – UE para o biênio 2013-2014. Paralelamente à reunião de Chefes de Estado e de Governo da CELAC e da União Europeia, estão sendo realizados encontros de acadêmicos, empresários e parlamentares de ambas as regiões.",
+                "O intercâmbio comercial entre os países membros da CELAC e da UE, que era de US$ 211,6 bilhões em 2007, atingiu US$ 278,1 bilhões em 2011 – um crescimento de 31,5%."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-30-18h51-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-i_cupula_celac-uniao_europeia_-_santiago_do_chile,_26_e_27_de_janeiro_de_2013.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/30"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "17": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atos assinados por ocasião da  VI Cúpula Brasil-União Europeia – Brasília, 24 de janeiro de 2013",
+            "subtitulo": "",
+            "data": "30/05/2017",
+            "horario": "17h34",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h39"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atos-assinados-por-ocasiao-da-vi-cupula-brasil-uniao-europeia-brasilia-24-de-janeiro-de-2013",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "1 – Arranjo de cooperação entre o Ministério da Ciência, Tecnologia e Inovação (MCTI) da República Federativa do Brasil e o \"Joint Research Centre\" (JRC) da Comissão Europeia para cooperação científica e outras atividades em áreas de interesse comum;",
+                "2 – Memorando de entendimento administrativo sobre cooperação técnica na área de bem-estar animal entre o Ministério da Agricultura, Pecuária e Abastecimento da República Federativa do Brasil e a Direção-Geral da Saúde e da Proteção do Consumidor da Comissão Europeia.",
+                "ARRANJO DE COOPERAÇÃO ENTRE O MINISTÉRIO DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO (MCTI) DA REPÚBLICA FEDERATIVA DO BRASIL E O “JOINT RESEARCH CENTRE” (JRC) DA COMISSÃO EUROPEIA PARA COOPERAÇÃO CIENTÍFICA E OUTRAS ATIVIDADES EM ÁREAS DE INTERESSE COMUM",
+                "Em conformidade com o Acordo de Cooperação Científica e Tecnológica entre o Governo da República Federativa do Brasil e a Comunidade Europeia, assinado em Brasília em 19 de janeiro de 2004, e renovado em 8 de agosto de 2012, a seguir designado \" Acordo de Cooperação Científica e Tecnológica”, em especial o artigo V, parágrafo segundo do mesmo, estabelece-se este Arranjo de Cooperação para cobrir atividades científicas e outras atividades de cooperação em áreas de interesse comum, estabelecidas entre o Ministério da Ciência, Tecnologia e Inovação da República Federativa do Brasil (MCTI) e o “Joint Research Center” (JRC), da Comissão Europeia. O MCTI e o JRC já haviam assinado Carta de Intenções nesse sentido anteriormente, em 4 de outubro de 2011. O objetivo do presente Arranjo de Cooperação é incentivar, desenvolver e facilitar as atividades de cooperação entre o MCTI e o JRC, conduzidas com base no benefício mútuo, obtido por meio de um equilíbrio global de vantagens, oportunidades recíprocas de participação em atividades de cooperação e tratamento equitativo e justo. Este Arranjo de Cooperação não se destina a criar obrigações legais entre o MCTI e o JRC.",
+                "1. As Atividades de Cooperação",
+                "1.1 O MCTI e o JRC poderão realizar e facilitar as atividades de cooperação em todas as áreas da Ciência e da Tecnologia, relacionadas com estudos científicos e outras atividades de cooperação em áreas de interesse comum, considerando as prioridades do JRC, por um lado, e as prioridades do MCTI, por outro lado.",
+                "1.2 As atividades de cooperação científica podem incluir, mas não estão limitadas, às seguintes áreas:",
+                "1.2.1 Prevenção de desastres e gestão de crises, com base no Diálogo Setorial JRC-MCTI sobre previsão de inundações e monitoramento, que continuará a apoiar a criação do Centro Nacional de Monitoramento e Alerta Precoce de Desastres Naturais (CEMADEN);",
+                "1.2.2 Mudanças climáticas e gestão sustentável dos recursos naturais (incluindo florestas, uso da terra, da água, dos solos, desertificação e recursos biológicos) e de serviços ecossistêmicos;",
+                "1.2.3 Energia, incluindo bioenergia, redes inteligentes, energias renováveis e segurança nuclear;",
+                "1.2.4 Segurança alimentar;",
+                "1.2.5 Bioeconomia (especialmente biotecnologia);",
+                "1.2.6 TICs, incluindo geoinformação e aplicações espaciais;",
+                "1.2.7 Nanotecnologias.",
+                "1.3 Todas as áreas de cooperação e atividades previstas no presente Arranjo de Cooperação permanecerão no âmbito do Acordo de Cooperação Científica e Tecnológica.",
+                "2. Natureza das Atividades de Cooperação",
+                "2.1 As atividades de cooperação poderão incluir, mas não estão limitadas a:",
+                "2.1.1 Acesso equivalente às instalações laboratoriais, equipamentos e material, para a realização de atividades científicas e tecnológicas, incluindo ciência, desenvolvimento, testes, avaliações, normalização e certificação, sujeitas à aprovação administrativa conforme o caso;",
+                "2.1.2 Intercâmbio de informações científicas e tecnológicas. A disseminação de resultados de pesquisa, se considerada vantajosa, poderá ser realizada por meio de seminários conjuntos, workshops e conferências, sujeita aos termos e condições acordados entre o MCTI e o JRC;",
+                "2.1.3 Intercâmbio de pessoal entre o MCTI e o JRC, para realizar tarefas no âmbito do presente Arranjo de Cooperação, sujeito à aprovação administrativa de acordo com os procedimentos e políticas internas do MCTI e do JRC;",
+                "2.1.4 Apoio à capacitação de cientistas, engenheiros e especialistas técnicos;",
+                "2.1.5 Participação em atividades de treinamento e cooperação no âmbito do programa brasileiro de mobilidade “Ciência sem Fronteiras”;",
+                "2.1.6 Apoio à pesquisa conjunta, desenvolvimento de conteúdo e propostas de acesso, complementação para bolsas existentes, contratos e acordos, e financiamento de atividades temáticas cooperativas para benefício mútuo e de valor agregado;",
+                "2.1.7 Uso compartilhado de infraestrutura científica (observatórios, navios e satélites).",
+                "3. Coordenação",
+                "3.1 O MCTI e o JRC pretendem cooperar estreitamente para coordenar atividades conjuntas. O MCTI e o JRC terão um número igual de representantes que serão designados para coordenar as atividades (o \"Grupo de Coordenação\"). O Grupo de Coordenação nomeará dois co-presidentes para conduzir as reuniões, um do MCTI e um do JRC. Quando necessário, o MCTI e o JRC poderão designar novos participantes para representá-los em tais reuniões. O Grupo de Coordenação poderá reunir-se sempre que necessário, através de videoconferências ou encontros presenciais. Sempre que possível, um encontro presencial terá lugar durante as reuniões regulares do Comitê Diretivo de Cooperação Científica e Técnica Brasil - União Europeia. Os pontos focais designados (a “Unit of Scientific Support to Innovation Union, Foresight and International Relations”, para o JRC, e a Secretaria de Políticas e Programas de Pesquisa e Desenvolvimento (SEPED), para o MCTI) serão responsáveis pelo desenvolvimento do programa de trabalho bienal inicial para promover atividades de cooperação entre o MCTI e o JRC, que será referendado na primeira reunião do Grupo de Coordenação.",
+                "3.2 Quando necessário, o MCTI e o JRC poderão realizar reuniões de alto nível, em que tanto o MCTI quanto o JRC designarão um co-presidente.",
+                "3.3 O Grupo de Coordenação irá acompanhar e estimular atividades de cooperação no âmbito deste Arranjo de Cooperação. Ele deverá intercambiar informações sobre práticas, leis, regulamentos e programas relevantes para a cooperação. Deverá, ainda, planejar e identificar os objetivos e as oportunidades para cada programa bienal de trabalho, bem como revisar as atividades, os níveis de participação e os esforços similares empreendidos pelo MCTI e pelo JRC em seus programas no âmbito deste Arranjo de Cooperação. Deverá, ainda, emitir um relatório periódico sobre a cooperação.",
+                "4. Financiamento",
+                "4.1 Atividades de cooperação no âmbito deste Arranjo de Cooperação (incluindo Seções 2 e 3) estarão sujeitas à disponibilidade de fundos apropriados, às leis e regulamentos, políticas e programas do MCTI e do JRC, e aos termos do Acordo de Cooperação Científica e Tecnológica e do presente Arranjo de Cooperação. Este Arranjo de Cooperação não cria obrigações financeiras.",
+                "4.2 O MCTI e o JRC comprometem-se a arcar com os custos de participação nas reuniões do Grupo de Coordenação. No entanto, os custos diretamente associados com as reuniões do Grupo de Coordenação, exceto aqueles de deslocamento e alojamento, serão custeados pela instituição anfitriã, salvo acordado em contrário.",
+                "4.3 O MCTI e o JRC são responsáveis por qualquer auditoria de suas ações em apoio das atividades de cooperação, incluindo as atividades de qualquer de seus participantes. As auditorias do MCTI e do JRC deverão estar de acordo com as suas próprias práticas.",
+                "5. Propriedade intelectual",
+                "5.1 O MCTI e o JRC concordam em atribuir e proteger direitos de propriedade intelectual, em conformidade com as disposições do anexo ao Acordo de Cooperação Científica e Tecnológica e em conformidade com qualquer contrato relevante dos quais a União Europeia e o Brasil sejam signatários.",
+                "6. Duração",
+                "6.1 Este Arranjo de Cooperação entrará em vigor após a sua assinatura pelo MCTI e pelo JRC, por um período de cinco anos, ou até que o MCTI ou o JRC denuncie sua participação no mesmo, no prazo de 90 dias após notificação por escrito. Ele poderá ser prolongado ou modificado, por escrito, e com assinatura de um representante devidamente autorizado do MCTI e do JRC.",
+                "Assinado em 24 de janeiro de 2013, em dois exemplares originais, nos idiomas português e inglês.",
+                "MEMORANDO DE ENTENDIMENTO ADMINISTRATIVO SOBRE COOPERAÇÃO TÉCNICA NA ÁREA DE BEM-ESTAR ANIMAL ENTRE O MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO DA REPÚBLICA FEDERATIVA DO BRASIL E A DIREÇÃO-GERAL DA SAÚDE E DA PROTEÇÃO DO CONSUMIDOR DA COMISSÃO EUROPEIA",
+                "Com o intuito de estabelecer um grupo de trabalho específico para o intercâmbio regular de informações e cooperação técnica para o bem-estar de animais de produção, o Ministério da Agricultura, Pecuária e Abastecimento da República Federativa do Brasil e a Direção-Geral da Saúde e da Proteção do Consumidor da Comissão Europeia concordam em:",
+                "1. Estabelecer um mecanismo de consulta na área de bem-estar de animais de produção, considerando, sempre que possível, as recomendações da Organização Mundial de Saúde Animal (OIE);",
+                "2. Tratar de questões de bem-estar de animais de produção, por meio do diálogo e do intercâmbio de informações técnico-científicas, de forma a assegurar benefícios mútuos;",
+                "3. Facilitar o bom entendimento e as futuras negociações sobre questões de bem-estar de animais de produção entre ambas as partes;",
+                "4. Criar, quando considerado conveniente, subgrupos de trabalho, a fim de discutir questões específicas com impacto no comércio mútuo, ou para fins de treinamentos na área de bem-estar de animais de produção;",
+                "5. Organizar reuniões ad hoc, a fim de discutir e coordenar as atividades e projetos relevantes para o presente Memorando de Entendimento;",
+                "6. Designar um coordenador de cada parte que será o ponto focal para a troca de informações sobre questões de bem-estar animal;",
+                "7. Arcar com as próprias despesas para a participação nas atividades previstas no presente Memorando de Entendimento, exceto quando acordado de outra forma;",
+                "8. Estabelecer o presente Memorando de Entendimento como de caráter consultivo e sem o poder de interferir em outros instrumentos legais relacionados;",
+                "9. Este Memorando de Entendimento não visa criar obrigações legais e não se constitui em um acordo de direito internacional.",
+                "Feito em Brasília, em 24 de janeiro de 2013, em dois exemplares originais, nos idiomas português e inglês, sendo ambos os textos igualmente autênticos.",
+                "Em caso de divergência de interpretação, a versão em inglês prevalecerá."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-30-17h34-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atos_assinados_por_ocasiao_da_vi_cupula_brasil-uniao_europeia_-_brasilia,_24_de_janeiro_de_2013.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/30"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "18": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Inundações e deslizamentos no Sri Lanka",
+            "subtitulo": "",
+            "data": "29/05/2017",
+            "horario": "22h50",
+            "datatime": "NA",
+            "data_atualizado": [
+                "29/05/2017"
+            ],
+            "horario_atualizado": [
+                "22h52"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/inundacoes-e-deslizamentos-no-sri-lanka",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com consternação, das inundações e deslizamentos ocorridos no Sri Lanka, em consequência das fortes monções que atingiram o país na última semana, afetando centenas de milhares de sri-lankeses.",
+                "O Brasil expressa suas condolências às famílias das vítimas, seus votos de plena recuperação aos feridos e sua solidariedade com o povo e o governo do Sri Lanka."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-29-22h50-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-inundacoes_e_deslizamentos_no_sri_lanka.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/29"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "19": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "I Reunião do Mecanismo de Coordenação Política Brasil-Argentina – Brasília, 30 de maio de 2017",
+            "subtitulo": "",
+            "data": "29/05/2017",
+            "horario": "21h54",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/06/2017"
+            ],
+            "horario_atualizado": [
+                "18h10"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/i-reuniao-do-mecanismo-de-coordenacao-politica-brasil-argentina-brasilia-30-de-maio-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Secretário-Geral das Relações Exteriores, Embaixador Marcos Galvão, conduzirá, juntamente com seu homólogo argentino, Embaixador Pedro Villagra, a I Reunião do Mecanismo de Coordenação Política Brasil-Argentina, a realizar-se no Palácio Itamaraty, em Brasília, em 30 de maio corrente.",
+                "O Mecanismo de Coordenação Política Brasil-Argentina foi criado em maio de 2016, por meio de Memorando de Entendimento bilateral. O Mecanismo deverá conferir contornos formais e regularidade às reuniões de coordenação de alto nível entre ambas as Chancelarias. Trata-se de relevante instrumento de aprofundamento da concertação entre os dois países.",
+                "Convocada por ocasião da visita do presidente Maurício Macri ao Brasil, em fevereiro último, a I Reunião do Mecanismo de Coordenação Política será oportunidade para que os vice-chanceleres passem em revista os principais temas da ampla agenda política e econômica bilateral, regional e multilateral. Em particular, o encontro proporcionará ocasião para reflexão conjunta sobre medidas destinadas a revigorar o MERCOSUL nos planos interno e externo, em contexto de sucessão entre a atual Presidência Pro Tempore argentina do bloco e a futura Presidência Pro Tempore brasileira, a partir do segundo semestre.",
+                "A Argentina foi destino da primeira visita bilateral do presidente Michel Temer, em outubro, e de numerosas missões bilaterais de nível ministerial. O presidente Macri visitou Brasília em fevereiro de 2017, ocasião em que foram adotados Plano de Ação e Declaração Conjunta Presidencial, documentos que traçaram roteiro para o aprofundamento da relação em áreas prioritárias. O Brasil é o principal destino das exportações argentinas e o principal fornecedor de produtos para o país vizinho. Em 2016, o intercâmbio bilateral somou mais de US$ 22 bilhões. Nesse período, a Argentina foi o terceiro maior parceiro comercial do Brasil.",
+                "Mais sobre as relações bilaterais Brasil-Argentina"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-29-21h54-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-i_reuniao_do_mecanismo_de_coordenacao_politica_brasil-argentina_-_brasilia,_30_de_maio_de_2017.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/29"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "20": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "29ª Reunião de Consultas de Ministros das Relações Exteriores da OEA – Washington, 31 de maio de 2017",
+            "subtitulo": "",
+            "data": "29/05/2017",
+            "horario": "20h02",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/05/2017"
+            ],
+            "horario_atualizado": [
+                "21h32"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/29-reuniao-de-consultas-de-ministros-das-relacoes-exteriores-da-oea-washington-31-de-maio-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O ministro Aloysio Nunes participará, na sede da Organização dos Estados Americanos, em Washington, no dia 31 de maio, da 29ª Reunião de Consultas de Ministros das Relações Exteriores daquele organismo, convocada para discutir a grave situação na República Bolivariana da Venezuela.",
+                "A Reunião de Consultas é uma das principais instâncias da OEA e tem por objetivo \"deliberar acerca de problemas de caráter urgente e de interesse comum para os Estados americanos\".",
+                "O Brasil espera que a reunião contribua de maneira decisiva ao esforço dos venezuelanos para reencontrar o caminho da plena democracia, com o apoio de todos os países das Américas.",
+                "No dia seguinte, o ministro Aloysio Nunes manterá encontro com o secretário-geral da OEA, Luis Almagro, a fim de avaliar os resultados e o seguimento da Reunião de Consultas, bem como tratar de outros temas da agenda regional, particularmente a 47ª Assembleia-Geral da OEA, que se realizará no México, entre 19 e 21 de junho de 2017.",
+                "A visão estratégica da OEA consagra, em favor do bem-estar com justiça social dos povos do continente, o foco em quatro pilares: fortalecimento da democracia, promoção e proteção dos direitos humanos, impulso ao desenvolvimento integral e fomento à segurança multidimensional. A OEA é a mais antiga organização regional em funcionamento no mundo. Foi criada em 1948, em substituição à União Pan-Americana, fundada em 1910.",
+                "Credenciamento de imprensa para a 29ª Reunião de Consultas de Ministros das Relações Exteriores da OEA"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-29-20h02-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-29a_reuniao_de_consultas_de_ministros_das_relacoes_exteriores_da_oea_-_washington,_31_de_maio_de_2017.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/29"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "21": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Grupo de países amigos das micro, pequenas e médias empresas na OMC",
+            "subtitulo": "",
+            "data": "26/05/2017",
+            "horario": "22h32",
+            "datatime": "NA",
+            "data_atualizado": [
+                "17/08/2017"
+            ],
+            "horario_atualizado": [
+                "13h37"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/grupo-de-paises-amigos-das-micro-pequenas-e-medias-empresas-na-omc",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Brasil articulou a formação de grupo de países amigos das Micro, Pequenas e Médias Empresas na Organização Mundial do Comércio, em estreita coordenação com a Argentina, que sediará a XI Conferência Ministerial da OMC, em dezembro próximo.",
+                "Os trabalhos do grupo serão abertos a todos os membros e visam propor medidas a serem adotadas na reunião ministerial de Buenos Aires, para estimular maior participação no comércio mundial por parte das micro, pequenas e médias empresas, em particular as originárias de países em desenvolvimento. Entre os resultados esperados da iniciativa estão a facilitação e o aumento das exportações de empresas de países como o Brasil.",
+                "Os assuntos a serem discutidos pelo grupo incluem, entre outros: (i) aumento do acesso a informação e oportunidades de mercado; (ii) cumprimento de marcos regulatórios; (iii) transporte e logística; (iv) acesso a crédito; (v) conectividade digital; e (vi) desenvolvimento tecnológico.",
+                "O documento que propôs a iniciativa foi apresentado na última reunião do Conselho-Geral da OMC e contou com o co-patrocínio de Brunei Darussalam, Chile, Colômbia, Costa Rica, Filipinas, Guatemala, Malásia, México, Panamá, Paraguai, Peru, Rússia, Singapura, Suíça, União Europeia, Uruguai e Vietnã, além de Brasil e Argentina."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-26-22h32-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-grupo_de_paises_amigos_das_micro,_pequenas_e_medias_empresas_na_omc.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/26"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "22": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Nota à imprensa",
+            "subtitulo": "",
+            "data": "26/05/2017",
+            "horario": "20h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/05/2017"
+            ],
+            "horario_atualizado": [
+                "20h47"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/nota-a-imprensa-cidh",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro repudia, nos mais fortes termos, o teor desinformado e tendencioso do comunicado conjunto de imprensa emitido hoje pelo Alto Comissariado das Nações Unidas para os Direitos Humanos (ACNUDH) e pela Comissão Interamericana de Direitos Humanos (CIDH).",
+                "Causa espanto a leviandade com que o ACNUDH e a CIDH fantasiosamente querem induzir a crer que o Brasil não dispõe de instituições sólidas, dedicadas à proteção dos direitos humanos e alicerçadas no estado democrático de direito. A nota afasta-se dos princípios que devem fundamentar a ação desses órgãos, entre os quais o elementar respeito à verdade dos fatos. Em momento algum os autores da nota se preocuparam com a ameaça à segurança de funcionários públicos e de manifestantes pacíficos sujeitos a violência sistemática e claramente premeditada. Os eventos do último dia 24 de maio foram contaminados pela ação organizada de criminosos que depredaram os prédios dos Ministérios da Cultura, da Fazenda, do Planejamento e da Agricultura, incendiando alguns, pondo em grave risco a integridade física de pessoas. A pronta resposta do governo federal, a começar pela retirada em segurança de pessoas da área conflagrada, sempre amparada na Constituição Federal e nos princípios internacionais de defesa dos direitos humanos, garantiu a integridade física de milhares de servidores públicos e de manifestantes pacíficos que foram aterrorizados por atos de vandalismo e agressão premeditada.",
+                "Em atitude que beira a má-fé, a nota evoca episódio de violência agrária no sul do Pará, que não tem qualquer relação com os acontecimentos do último dia 24 e que, além disso, já está sendo apurado por autoridade competente no quadro da legislação brasileira. Da mesma forma, o governo brasileiro lamenta que a ação das autoridades de São Paulo, que tampouco guarda relação com o ocorrido em Brasília, seja capitalizada pela nota, cinicamente e fora de contexto, para fins políticos inconfessáveis. O combate ao tráfico de drogas, bem como o apoio a dependentes químicos, enseja atuação da máxima seriedade, que é a marca das reconhecidas políticas públicas brasileiras no enfrentamento ao problema mundial das drogas.",
+                "O governo brasileiro atua amparado na Constituição Federal e de acordo com os princípios internacionais de proteção aos direitos humanos. É surpreendente e condenável que nota subjetiva e distante da realidade sacrifique o compromisso de seriedade e imparcialidade de organismos internacionais cuja ação o Brasil apoia e promove."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-26-20h46-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-nota_a_imprensa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/26"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "23": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre  29 de maio e 04 de junho de 2017",
+            "subtitulo": "",
+            "data": "26/05/2017",
+            "horario": "19h44",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/05/2017"
+            ],
+            "horario_atualizado": [
+                "19h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-29-de-maio-e-04-de-junho-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "1º/MAI a 2/JUN – Genebra, Suíça. 69ª sessão da Comissão de Direito Internacional.",
+                "15/MAI a 2/JUN – Genebra, Suíça. 75ª sessão do Comitê de Direitos da Criança.",
+                "22/MAI a 31/MAI – Genebra, Suíça. 70ª Assembleia Mundial da Saúde.",
+                "29 a 31/MAI – Pretória, África do Sul. III Reunião do Grupo de Trabalho de Financiamento de Ciência, Tecnologia e Inovação do BRICS.",
+                "29 a 31/MAI – Prangins, Suíça. Reunião de consultas informais sobre o fortalecimento do sistema multilateral do Tratado Internacional sobre Recursos Fitogenéticos para a Alimentação e a Agricultura (TIRFAA).",
+                "29/MAI a 1/JUN – Pequim, China. XL Reunião Consultiva do Tratado Antártico (ATCM).",
+                "29/MAI a 2/JUN – Gland, Suíça. 53ª Reunião do Comitê Permanente da Convenção de Ramsar.",
+                "29/MAI a 2/JUN – Cancun, México. XVI Congresso Mundial da Água.",
+                "29/MAI a 23/JUN – Genebra, Suíça. 61ª sessão do Comitê de Direitos Econômicos, Sociais e Culturais.",
+                "30/MAI – São José dos Campos. Reunião do Comitê Executivo do Grupo de Alto Nível Brasil-Suécia em Aeronáutica.",
+                "30 e 31 MAI – São Paulo. BRASIL INVESTMENT FORUM.",
+                "30/MAI a 1/JUN – São José dos Campos. Seminário de Cooperação Aeronáutica Brasil-Suécia.",
+                "30/MAI a 1/JUN – Bremen, Alemanha. Conferência de Alto Nível sobre Lixo Marinho do G20.",
+                "30/MAI a 2/JUN – Lima, Peru. Seminários dos Programas de Cooperação União Europeia - América Latina EUROCLIMA e EUROCLIMA+.",
+                "31/MAI – Washington, Estados Unidos. 29ª Reunião de Consultas de Ministros das Relações Exteriores da Organização dos Estados Americanos (OEA).",
+                "31/MAI. Genebra, Suíça. Reunião do G-21 da Conferência do Desarmamento.",
+                "1/JUN – Brasília. Reuniões das Comissões Temáticas do Conselho Nacional de Ciência e Tecnologia (CCT).",
+                "1 e 2/JUN. Genebra, Suíça. 141ª sessão do Conselho Executivo da Organização Mundial da Saúde."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-26-19h44-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_29_de_maio_e_04_de_junho_de_2017.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/26"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "24": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Concessão de \"agrément” ao embaixador do Uruguai",
+            "subtitulo": "",
+            "data": "26/05/2017",
+            "horario": "18h49",
+            "datatime": "NA",
+            "data_atualizado": [
+                "29/05/2017"
+            ],
+            "horario_atualizado": [
+                "14h26"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-ao-embaixador-do-uruguai",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que concedeu “agrément” a Gustavo Vanerio Balbela como embaixador extraordinário e plenipotenciário do Uruguai no Brasil.",
+                "Mais sobre as relações bilaterais Brasil-Uruguai"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-26-18h49-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_\"agrement\"_ao_embaixador_do_uruguai.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/26"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "25": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentado contra cristãos no Egito",
+            "subtitulo": "",
+            "data": "26/05/2017",
+            "horario": "16h18",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/05/2017"
+            ],
+            "horario_atualizado": [
+                "17h54"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentado-contra-cristaos-no-egito",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com grande consternação, do ataque terrorista contra ônibus em que viajavam cristãos, na província de Minia, ao sul do Cairo, enquanto se dirigiam ao Mosteiro de São Samuel. O ataque deixou dezenas de mortos e feridos.",
+                "Ao expressar suas condolências às famílias das vítimas, seus votos de plena recuperação aos feridos e sua solidariedade com o povo e o governo do Egito, o Brasil reitera veementemente seu repúdio a todo e qualquer ato de terrorismo, independente de sua motivação."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-26-16h18-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentado_contra_cristaos_no_egito.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/26"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "26": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Concessão de \"agrément\" ao embaixador da Espanha",
+            "subtitulo": "",
+            "data": "24/05/2017",
+            "horario": "14h55",
+            "datatime": "NA",
+            "data_atualizado": [
+                "25/05/2017"
+            ],
+            "horario_atualizado": [
+                "12h28"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-ao-embaixador-da-espanha",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que concedeu\n \n  agrément\n \n a Fernando María Villalonga Campos como embaixador extraordinário e plenipotenciário da Espanha no Brasil.",
+                "Mais sobre as relações bilaterais Brasil-Espanha"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-24-14h55-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_\"agrement\"_ao_embaixador_da_espanha.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/24"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "27": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Concessão de \"agrément\" ao embaixador da Geórgia",
+            "subtitulo": "",
+            "data": "24/05/2017",
+            "horario": "14h54",
+            "datatime": "NA",
+            "data_atualizado": [
+                "25/05/2017"
+            ],
+            "horario_atualizado": [
+                "12h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-ao-embaixador-da-georgia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que concedeu\n \n  agrément\n \n a David Solomonia como embaixador extraordinário e plenipotenciário da Geórgia no Brasil.\n \n\n Brasil e Geórgia mantêm relações diplomáticas desde 1993.",
+                "Mais sobre as relações bilaterais Brasil-Geórgia"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-24-14h54-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_\"agrement\"_ao_embaixador_da_georgia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/24"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "28": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentado a bomba em Manchester",
+            "subtitulo": "",
+            "data": "23/05/2017",
+            "horario": "13h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "25/05/2017"
+            ],
+            "horario_atualizado": [
+                "12h15"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentado-a-bomba-em-manchester",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro recebeu, com consternação, a notícia do atentado terrorista que deixou dezenas de mortos e feridos em estádio na cidade britânica de Manchester.",
+                "Ao expressar suas condolências às famílias das vítimas, seus votos de plena recuperação aos feridos e sua solidariedade com o povo e o governo do Reino Unido, o Brasil reitera sua condenação a todo tipo de terrorismo, independente de sua motivação.",
+                "Não há registro de brasileiros entre as vítimas até o momento. O núcleo de assistência a brasileiros do MRE está à disposição para informações e esclarecimentos, de segunda a sexta-feira, das 8h às 20h, pelos telefones +55 61 2030 8803 e +55 61 2030 8804, e pelo e-mail dac@itamaraty.gov.br. Nos demais horários, poderá ser contatado o telefone de plantão do consulado-geral  em Londres, +44 77 2021 5984, ou o plantão consular da Subsecretaria-Geral das Comunidades Brasileiras e de Assuntos Consulares e Jurídicos do Itamaraty: +55 61 98197 2284."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-23-13h45-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentado_a_bomba_em_manchester.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/23"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "29": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Salvaguardas da China contra importações de açúcar",
+            "subtitulo": "",
+            "data": "22/05/2017",
+            "horario": "22h59",
+            "datatime": "NA",
+            "data_atualizado": [
+                "25/05/2017"
+            ],
+            "horario_atualizado": [
+                "12h13"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/salvaguardas-da-china-contra-importacoes-de-acucar",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo chinês adotou hoje, 22/05/17, medidas de salvaguarda contra as importações de açúcar. A decisão teria o objetivo de proteger os produtores locais contra alegado surto de importações de açúcar nos últimos anos.",
+                "Tendo em vista que o Brasil é o maior exportador de açúcar para o mercado chinês, tendo exportado US$ 818 milhões em 2016, o governo brasileiro acompanhou ativamente a investigação de salvaguardas iniciada em setembro de 2016. O governo brasileiro também manteve diversos contatos com as autoridades chinesas, tanto em Genebra, na Organização Mundial do Comércio (OMC), quanto em Pequim, a fim de manifestar suas preocupações com a investigação e questionar a necessidade das salvaguardas.",
+                "O governo brasileiro seguirá em contato com o governo chinês, com o objetivo de obter maior clareza sobre a entrada em vigor e o conteúdo das medidas adotadas. Seguirá, também, desenvolvendo todas as ações possíveis para defender os interesses de nossos exportadores."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-22-22h59-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-salvaguardas_da_china_contra_importacoes_de_acucar.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/22"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "30": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Concessão de “agrément” ao embaixador do Brasil no México",
+            "subtitulo": "",
+            "data": "22/05/2017",
+            "horario": "21h06",
+            "datatime": "NA",
+            "data_atualizado": [
+                "25/05/2017"
+            ],
+            "horario_atualizado": [
+                "12h12"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/agrementmexico2205",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que o governo dos Estados Unidos Mexicanos concedeu “agrément” a Mauricio Carvalho Lyrio como embaixador extraordinário e plenipotenciário do Brasil naquele país. De acordo com a Constituição, essa designação ainda deverá ser submetida à apreciação do Senado Federal.",
+                "Ao longo de sua carreira, Mauricio Carvalho Lyrio serviu nas embaixadas do Brasil em Washington, Buenos Aires e Pequim e na missão do Brasil junto à ONU. No Brasil, trabalhou na Divisão de Comércio Internacional e Manufaturas, na Secretaria-Geral, foi chefe da Assessoria de Imprensa, Secretário de Planejamento Diplomático e chefe do Gabinete do Ministro de Estado das Relações Exteriores.",
+                "Mais sobre as relações bilaterais Brasil-México"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-22-21h06-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_\"agrement\"_ao_embaixador_do_brasil_no_mexico.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/22"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "31": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 22 de maio e 28 de maio de 2017",
+            "subtitulo": "",
+            "data": "19/05/2017",
+            "horario": "22h10",
+            "datatime": "NA",
+            "data_atualizado": [
+                "19/05/2017"
+            ],
+            "horario_atualizado": [
+                "22h17"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-22-de-maio-e-28-de-maio-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "15/MAI a 2/JUN – Genebra, Suíça. 75ª sessão do Comitê das Nações Unidas sobre os Direitos da Criança.",
+                "15/MAI a 30/JUN – Genebra, Suíça. 2ª parte da Conferência sobre Desarmamento.",
+                "15 a 26/MAI – Yogyakarta, Indonésia. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 21ª Sessão da Comissão do Atum do Oceano Índico.",
+                "20 a 23/MAI – Nova York, Estados Unidos. WANTED DESIGN . Participação brasileira: Consulado-Geral em Nova York e empresas brasileiras.",
+                "21 a 24/MAI. – Nova York, Estados Unidos. ICCF International Contemporary Furniture Fair. Participação brasileira: Consulado-Geral em Nova York e empresas brasileiras com apoio da APEX BRASIL.",
+                "22/MAI – Brasília (Itamaraty). Reunião da Subcomissão de Cooperação Energética, no âmbito da X Comissão Intergovernamental de Cooperação (CIC) Brasil-Rússia.",
+                "22/MAI – Brasília. Reunião dos Conselhos Empresariais Brasil-Rússia e Rússia-Brasil.",
+                "22/MAI – Brasília. Reunião da Subcomissão Econômica, Comercial e Industrial Brasil-Rússia no âmbito da X CIC.",
+                "22/MAI – Bled, Eslovênia. 67ª Sessão do Comitê Científico da Comissão Internacional da Baleia (CIB).",
+                "22/MAI – Florianópolis. Seminário Internacional \"Fueling The Future, Energy For Growth - WOC5/International Gas Union\".",
+                "22/MAI – Buenos Aires, Argentina. XV Reunião do Grupo Ad Hoc de Biocombustíveis (GAHB) do MERCOSUL.",
+                "22 e 23/MAI – Berlim, Alemanha. VIII Diálogo de Petersberg sobre Mudança do Clima.",
+                "22 e 23/MAI – Mons, Bélgica. III Conferência Internacional sobre Química Verde e Biotecnologia Branca.",
+                "22 e 23/MAI – Brasília. X CIC Brasil – Rússia. Reunião da Subcomissão de Cooperação Espacial em 22/5.",
+                "22 a 25/MAI – Genebra, Suíça. Reunião do Conselho da União Internacional de Telecomunicações (UIT).",
+                "22 a 25/MAI – Washington, Estados Unidos da América. 52ª Reunião do Conselho do Fundo Global para o Meio Ambiente (GEF).",
+                "22 a 26/MAI – Bonn, Alemanha. 8a Reunião de Análise Técnica dos Relatórios de Atualização Bienais (BURs).",
+                "22 a 26/MAI – Foz do Iguaçu. Reunião do Registro de Endereçamento da Internet da América Latina e do Caribe - LACNIC27.",
+                "22/MAI a 01/JUN – Pequim, China. XL Reunião Consultiva do Tratado Antártico (ATCM).",
+                "23/MAI – Brasília. X reunião da Comissão Intergovernamental de Cooperação Brasil-Rússia (CIC).",
+                "23/MAI – Berlim, Alemanha. Conferência Internacional \"Investindo em Clima, Investindo em Crescimento\".",
+                "23/MAI – Brasília. Apresentação do estudo \"Estimulando o Transbordamento a partir da Parceria Industrial entre Suécia e Brasil: um estudo de caso do Projeto Gripen\".",
+                "23 a 25/MAI – Miami, Estados Unidos. 4º Fórum Anual das Telecomunicações e Meios de Comunicação, do Instituto Internacional de Comunicações.",
+                "24/MAI – Brasília (MME). Seminário \"Biodiesel e Bioquerosene: Sustentabilidade Econômica e Ambiental\".",
+                "25 e 26/MAI – Brasília e Piracicaba/SP. Visita ao Brasil do Ministro do Petróleo e do Gás Natural da Índia, Shri Dharmendra Pradhan.",
+                "26/MAI – São Paulo. Reunião ordinária do Comitê Gestor da Internet no Brasil (CGI.br)."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-19-22h10-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_22_de_maio_e_28_de_maio_de_2017.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/19"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "32": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Dia Mundial de Combate à Homofobia e à Transfobia",
+            "subtitulo": "",
+            "data": "17/05/2017",
+            "horario": "23h02",
+            "datatime": "NA",
+            "data_atualizado": [
+                "18/05/2017"
+            ],
+            "horario_atualizado": [
+                "15h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/dia-mundial-de-combate-a-homofobia-e-a-transfobia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Celebra-se hoje o Dia Mundial de Combate à Homofobia e à Transfobia. Essa data marca a decisão que a Organização Mundial da Saúde tomou, em 17 de maio de 1990, de retirar o termo “homossexualidade” da Classificação Internacional de Doenças.",
+                "O Ministério das Relações Exteriores junta-se às homenagens a todas as pessoas que lutam em favor dos direitos humanos de pessoas LGBT. O Brasil tem sido vocal na promoção e defesa desses direitos em todos os foros internacionais pertinentes, no entendimento de que reconhecer os direitos humanos de pessoas LGBT não implica a criação de novos direitos, mas sim a aplicação do princípio da igualdade ao exercício de direitos humanos consagrados e o combate a toda e qualquer forma de discriminação.",
+                "Entre os recentes avanços na matéria, cabe lembrar que, desde 2008, a Assembleia Geral da Organização dos Estados Americanos tem aprovado, anualmente, resoluções sobre \"Direitos Humanos, Orientação Sexual e Identidade e Expressão de Gênero\". Em âmbito global, o Conselho de Direitos Humanos das Nações Unidas aprovou, em junho de 2016, a criação do mandato de perito independente para proteção contra a violência e discriminação com base na orientação sexual e identidade de gênero. Ambas as iniciativas contam com o apoio do Governo brasileiro.",
+                "Tais ações reafirmam o reconhecimento das obrigações dos Estados no que tange à proteção e promoção dos direitos humanos de lésbicas, gays, bissexuais, travestis e transexuais, em condições de igualdade."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-17-23h02-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-dia_mundial_de_combate_a_homofobia_e_a_transfobia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/17"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "33": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Lançamento de Míssil pela Coreia do Norte",
+            "subtitulo": "",
+            "data": "17/05/2017",
+            "horario": "00h56",
+            "datatime": "NA",
+            "data_atualizado": "NA",
+            "horario_atualizado": "NA",
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/20170516",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro associa-se à declaração à imprensa emitida ontem, 15 de maio, pelo Conselho de Segurança das Nações Unidas, pela qual condena os lançamentos de mísseis pela República Popular e Democrática da Coreia (RPDC) em 28 de abril e 13 de maio de 2017.",
+                "O Governo brasileiro conclama a RPDC a cumprir plenamente as resoluções pertinentes do Conselho de Segurança e contribuir ativamente para criar as condições necessárias à retomada das negociações relativas à paz e à desnuclearização da península coreana."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-17-00h56-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-lancamento_de_missil_pela_coreia_do_norte.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/17"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "34": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil do Ministro dos Negócios Estrangeiros da República do Senegal, Mankeur Ndiaye – Brasília, 21 de março de 2013",
+            "subtitulo": "",
+            "data": "16/05/2017",
+            "horario": "21h31",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h40"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-do-ministro-dos-negocios-estrangeiros-da-republica-do-senegal-mankeur-ndiaye-brasilia-21-de-marco-de-2013",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Ministro dos Assuntos Estrangeiros e dos Senegaleses no Exterior, Mankeur Ndiaye, realizará visita a Brasília no dia 21 de março, ocasião em que será recebido pelo Ministro Antonio de Aguiar Patriota e copresidirá a VIII Sessão da Comissão Mista Brasil-Senegal.",
+                "A Comissão Mista é composta de dois grupos: o Grupo de Trabalho para temas de saúde, agricultura, segurança alimentar, cooperação humanitária, desenvolvimento social, formação profissional, estatística e cultura; e o Grupo de Trabalho para assuntos energéticos, econômicos, educacionais, parlamentares e consulares.",
+                "As relações entre Brasil e Senegal têm-se fortalecido na última década. A Presidenta Dilma Rousseff e o Presidente Macky Sall se reuniram em duas oportunidades: no Rio de Janeiro, em junho do ano passado, por ocasião da Conferência Rio+20, e em fevereiro deste ano, em Malabo, por ocasião da III Cúpula da ASA. O Ministro Patriota, por sua vez, visitou o Senegal em agosto de 2012.",
+                "O intercâmbio comercial evoluiu de forma significativa nos últimos anos. Entre 2002 e 2012, o intercâmbio entre os dois países aumentou em 327%, passando de US$ 29,3 milhões para US$ 125,3 milhões.",
+                "Mais sobre as relações bilaterais Brasil-Senegal"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-16-21h31-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_ministro_dos_negocios_estrangeiros_da_republica_do_senegal,_mankeur_ndiaye_-_brasilia,_21_de_marco_de_201....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/16"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "35": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Concessão de \"agrément\" ao embaixador do Brasil em Trinidad e Tobago",
+            "subtitulo": "",
+            "data": "16/05/2017",
+            "horario": "17h51",
+            "datatime": "NA",
+            "data_atualizado": [
+                "17/05/2017"
+            ],
+            "horario_atualizado": [
+                "11h28"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-ao-embaixador-do-brasil-em-trinidad-e-tobago",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que o governo de Trinidad e Tobago concedeu \"agrément\" a José Antonio Gomes Piras como embaixador extraordinário e plenipotenciário do Brasil naquele país. De acordo com a Constituição, essa designação ainda deverá ser submetida à apreciação do Senado Federal.",
+                "José Antonio Gomes Piras é o atual cônsul-geral do Brasil em Hamamatsu. Ao longo de sua carreira, serviu nas embaixadas do Brasil em Tóquio, Berlim, Bonn e Bogotá e nas missões em Genebra e Bruxelas. No Brasil, entre outras funções, foi diretor-substituto da Agência Brasileira de Cooperação e chefe da Divisão de Imigração.",
+                "Mais sobre as relações bilaterais Brasil-Trinidad e Tobago"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-16-17h51-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_\"agrement\"_ao_embaixador_do_brasil_em_trinidad_e_tobago.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/16"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "36": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita ao Brasil do Presidente do Governo da Federação Russa, Dmitri Medvedev – Brasília,19 a 21 de fevereiro de 2013",
+            "subtitulo": "",
+            "data": "15/05/2017",
+            "horario": "20h53",
+            "datatime": "NA",
+            "data_atualizado": [
+                "14/11/2018"
+            ],
+            "horario_atualizado": [
+                "20h39"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-ao-brasil-do-presidente-do-governo-da-federacao-da-russia-dmitri-medvedev-brasilia-19-a-21-de-fevereiro-de-2013",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Presidente do Governo da Federação Russa, Dmitri Medvedev, realizará visita ao Brasil entre os dias 19 e 21 de fevereiro de 2013. Em Brasília, no dia 20, será recebido pela Presidenta da República, Dilma Rousseff, e co-presidirá, com o Vice-Presidente da República, Michel Temer, a VI Reunião da Comissão de Alto Nível de Cooperação Brasil-Rússia.",
+                "Com vistas a fortalecer a parceria estratégica, Brasil e Rússia tratarão do aprofundamento da cooperação bilateral em temas de interesse para o desenvolvimento e para a diversificação das matrizes econômicas de ambos os países, com ênfase em ciência, tecnologia, inovação, relações econômico-comerciais, agropecuária, energia e educação.",
+                "Mais sobre as relações bilaterais Brasil-Rússia"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2017-05-15-20h53-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_ao_brasil_do_presidente_do_governo_da_federacao_russa,_dmitri_medvedev_-_brasilia,19_a_21_de_fevereiro_de_2013.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2017/05/15"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2017-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

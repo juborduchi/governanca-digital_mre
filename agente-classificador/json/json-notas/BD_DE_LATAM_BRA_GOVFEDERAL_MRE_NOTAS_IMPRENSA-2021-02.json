@@ -1,0 +1,852 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Nota conjunta do Ministério das Relações Exteriores e do Ministério da Saúde",
+            "subtitulo": "",
+            "data": "26/02/2021",
+            "horario": "12h12",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/nota-conjunta-do-ministerio-das-relacoes-exteriores-e-do-ministerio-da-saude",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "SOMOS UMA SÓ NAÇÃO",
+                "Novo lote com insumos para produção da vacina da AstraZeneca chega ao Brasil neste sábado (27/02) Imunizante está sendo produzido no Brasil pela Fundação Oswaldo Cruz (Fiocruz)",
+                "Chegará ao Brasil amanhã, 27/02, em voo procedente da China, novo lote de Ingrediente Farmacêutico Ativo (IFA) para a produção, pela Fundação Oswaldo Cruz (Fiocruz), da vacina da AstraZeneca/Universidade de Oxford contra a Covid-19.",
+                "O novo lote possibilitará a produção, em Bio-Manguinhos/Fiocruz, de cerca de 12 milhões de doses de vacina em território nacional. As doses da vacina serão distribuídas no âmbito do Programa Nacional de Imunização (PNI).",
+                "BRASIL IMUNIZADO",
+                "No início de fevereiro, o Brasil recebeu o primeiro lote do IFA da vacina da AstraZeneca/Oxford, permitindo a produção de 2,8 milhões de doses. A previsão é de que a primeira remessa de vacinas produzidas na Fiocruz seja entregue ao PNI na segunda quinzena de março.",
+                "Até junho, são esperados mais lotes de insumos vindos da China para a fabricação, em solo brasileiro, de um total de 100,4 milhões de doses da vacina da AstraZeneca/Oxford."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-02-26-12h12-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-nota_conjunta_do_ministerio_das_relacoes_exteriores_e_do_ministerio_da_saude.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/02/26"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "19"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Declaração da V Reunião Extraordinária de Presidentes do PROSUL",
+            "subtitulo": "",
+            "data": "25/02/2021",
+            "horario": "18h38",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/declaracao-da-v-reuniao-extraordinaria-de-presidentes-do-prosul",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Declaração da V Reunião Extraordinária de Presidentes do PROSUL",
+                "25 de fevereiro de 2021",
+                "Os Chefes de Estado e Altos Representantes da República Federativa do Brasil, República do Chile, República da Colômbia, República do Equador, República Cooperativa da Guiana, República do Paraguai e República do Peru, reunidos em videoconferência em 25 de fevereiro de 2021:",
+                "Reconhecendo que a pandemia afetou todos os países da região e que devemos enfrentar juntos um desafio sem precedentes em termos de gestão pública e mobilização de recursos para a atenção, contenção e resposta à emergência em saúde e seus efeitos socioeconômicos;",
+                "Considerando que a América do Sul precisa fortalecer a cooperação e a solidariedade, incrementar o trabalho coordenado no nível intrarregional e estreitar o diálogo e a colaboração com outras organizações multilaterais para garantir o acesso universal, equitativo e oportuno a vacinas seguras, eficazes e acessíveis contra a COVID-19, bem como garantir seu reconhecimento como bem público global;",
+                "Observando que a atual emergência em saúde causada pela COVID-19 destaca a importância de fortalecer as capacidades de preparação e resposta às emergências em saúde, em particular, garantindo a aplicação efetiva do Regulamento Sanitário Internacional para fortalecer a resposta de nossos sistemas de saúde;",
+                "Profundamente convencidos de que a América do Sul precisa retomar o caminho do crescimento e aproveitar a crise como uma oportunidade para fortalecer as capacidades que nos permitem caminhar em direção a sociedades mais sustentáveis, resilientes e pacíficas;",
+                "Considerando os esforços para promover a cooperação realizada conjuntamente no âmbito das diferentes organizações e mecanismos de integração regional; promover o diálogo e o intercâmbio por meio de cúpulas presidenciais, reuniões ministeriais e fóruns técnicos especializados sobre a COVID-19; copatrocinar e promover esforços conjuntos, comunicações e declarações dirigidas à comunidade internacional, incluindo a Organização das Nações Unidas (ONU), a Organização Mundial da Saúde (OMS), a Organização Mundial do Comércio (OMC), a Organização dos Estados Americanos (OEA), a Organização Pan-Americana da Saúde (OPAS), o Parlamento Europeu e outras organizações relevantes;",
+                "Expressando , em particular, nossa preocupação com a criação de regulamentos e/ou mecanismos que limitem as exportações de vacinas e suprimentos médicos a terceiros países para fazer frente à pandemia;",
+                "Cientes de que os devastadores efeitos econômicos e sociais da pandemia exigem uma ação conjunta e inclusiva que enfrente o grande desafio da recuperação sustentável e resiliente de nossas economias e, em especial, do sistema produtivo;",
+                "Reafirmando a importância da solidariedade e da cooperação internacional para eliminar a pandemia de COVID-19 em nossa região e no mundo, e reconhecendo que nenhum país estará seguro até que todos estejam seguros.",
+                "DECLARAMOS NOSSA VONTADE DE:",
+                "1. Promover a cooperação internacional e regional para alcançar o acesso universal, equitativo e oportuno à imunização contra a COVID-19. Um programa de imunização transparente e eficaz, com monitoramento da eficácia das vacinas, servirá não apenas para conter a propagação da pandemia, mas também para proteger os sistemas de saúde, salvar vidas e impulsionar a recuperação socioeconômica.",
+                "2. Reafirmar o reconhecimento da vacina contra a COVID-19 como um bem público global e, ao mesmo tempo, expressar preocupação com a implementação de medidas que possam limitar a exportação das referidas vacinas ou os insumos para sua produção.",
+                "3. Incentivar os países a unir esforços em todos os níveis relevantes para aumentar o financiamento para pesquisa e desenvolvimento de vacinas; bem como promover o acesso e a transparência na aquisição de vacinas em condições favoráveis.",
+                "4. Fortalecer a cooperação científica, a transferência de tecnologia e as boas práticas, para que mais países possam iniciar seu processo de produção de vacinas. Além disso, intensificar a coordenação, inclusive com o setor privado, com vistas a enfrentar a COVID-19 e futuras emergências em saúde.",
+                "5. Promover a cooperação para atender às necessidades dos países e populações vulneráveis, fortalecendo ações conjuntas transfronteiriças.",
+                "6. Aceitar a proposta da atual Presidência Pro Tempore de promover a criação de uma rede regional de observatórios de saúde com atenção especial às pessoas e famílias em condições de mobilidade humana, a fim de facilitar o intercâmbio de informações, a análise de dados e de experiências na matéria, para apoiar a tomada de decisão e implementação de políticas públicas de saúde na região.",
+                "7. Explorar a possibilidade de criar redes regionais, no âmbito do Grupo Setorial de Saúde, para acessar o sequenciamento genético e um sistema de vigilância de novas variantes de atenção do vírus da COVID-19.",
+                "8. Promover o intercâmbio de experiências sobre planos de vacinação e avanços em materia de imunização, levando em consideração as boas práticas de todas as redes do sistema de saúde nacional, regional e local, a fim de identificar desafios comuns em sua implementação.",
+                "9. Solicitar aos nossos Ministérios da Saúde que trabalhem juntos para fortalecer as capacidades regionais de produção de vacinas, que nos permitam garantir o direito aos mais elevados padrões de saúde para todos os habitantes da sub-região, em preparação para a próxima pandemia. Nesse sentido, estamos determinados a trabalhar com uma visão de médio e longo prazo para fortalecer nossas próprias capacidades, coordenar e cooperar em matéria de política e gerar sinergias entre os países do PROSUL.",
+                "10. Indicar o compromisso dos países membros do PROSUL nas discussões sobre o fortalecimento da preparação e resposta da OMS nas emergências mundiais em saúde, entre elas, a proposta apresentada pelo Chile.",
+                "11. Intensificar as relações e aproximações com os laboratórios produtores das vacinas contra a COVID-19, bem como promover o diálogo com os governos dos países onde estão localizadas suas unidades produtoras e fornecedores de insumos.",
+                "12. Fazer um chamado ao fortalecimento e à implementação efetiva do mecanismo COVAX (Colaboração para o acesso equitativo global às vacinas contra a COVID-19), especialmente a Aliança Global para Vacinas e Imunização (GAVI) e a Organização Mundial da Saúde (OMS), para alcançar maior e mais rápido acesso à vacina contra COVID-19, inclusive apoiando os países nas negociações com laboratórios.",
+                "13. Intercambiar as melhores práticas em comunicação e acesso a informações que sejam oportunas, corretas e de fácil compreensão sobre questões de saúde pública e emergências em saúde e combater a informação errônea e a desinformação, especialmente sobre a vacinação contra a COVID-19.",
+                "14. Solicitar aos países da América do Sul que recorram à aplicação do Regulamento Sanitário Internacional, quando a gestão de um evento assim mereça, por meio de uma comunicação oportuna e intercâmbio de informação, e com o apoio da Organização Pan-Americana da Saúde.",
+                "15. Convocar uma reunião técnica para avaliar a possibilidade de estabelecer mecanismos e ações destinadas a lidar com eventuais situações associadas aos processos de aquisição e aplicação de vacinas, buscando contar com o apoio de organismos financeiros internacionais e outros organismos especializados.",
+                "16. Tomar nota com entusiasmo da apresentação do Fundo Monetário Internacional (FMI) sobre o efeito positivo de uma resposta multilateral cooperativa diante da crise global, que implique o aumento das reservas, através da atribuição geral de Direitos de Saque Especiais (DES), com os quais se conseguiria apoio para reduzir o impacto econômico da pandemia, prestar assistência à população, evitar distorções nas políticas e favorecer a reativação econômica.",
+                "17. Destacar o apoio que o BID-INTAL tem prestado na implementação das diferentes estratégias do eixo de saúde do PROSUL, bem como incentivar sua participação na implementação das estratégias que a Colômbia desenvolverá no exercício de sua Presidência Pro Tempore."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-02-25-18h38-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-declaracao_da_v_reuniao_extraordinaria_de_presidentes_do_prosul.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/02/25"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "18"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Ataque contra comboio do Programa Mundial de Alimentos na República Democrática do Congo",
+            "subtitulo": "",
+            "data": "22/02/2021",
+            "horario": "19h05",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/ataque-contra-comboio-do-programa-mundial-de-alimentos-na-republica-democratica-do-congo",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro condena, nos mais fortes termos, o ataque contra comboio do Programa Mundial de Alimentos (PMA) ocorrido hoje nas imediações da cidade de Goma, na República Democrática do Congo (RDC). O atentado resultou na morte do embaixador italiano na RDC, Luca Attanasio, do policial militar italiano que o escoltava e do funcionário congolês do PMA que conduzia o veículo.",
+                "Ao expressar suas condolências e sua solidariedade aos familiares e amigos das vítimas, ao governo e ao povo da República Italiana e da República Democrática do Congo, o Brasil reitera seu firme repúdio a todo e qualquer ataque dessa natureza, independentemente de sua motivação, e reafirma seu apoio ao trabalho da Missão da Organização das Nações Unidas para a Estabilização na República Democrática do Congo (MONUSCO) e aos esforços da comunidade internacional em favor da estabilização e da paz no leste daquele país."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-02-22-19h05-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-ataque_contra_comboio_do_programa_mundial_de_alimentos_na_republica_democratica_do_congo.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/02/22"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "17"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Realização de voo comercial extraordinário  entre Lisboa e Guarulhos",
+            "subtitulo": "",
+            "data": "19/02/2021",
+            "horario": "17h55",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/realizacao-de-voo-comercial-extraordinario-entre-lisboa-e-guarulhos",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro, atento às dificuldades enfrentadas por cidadãos brasileiros em Portugal em decorrência da suspensão de voos diretos entre os dois países, concluiu com o governo de Portugal, através do Itamaraty, negociações para realização de voo comercial extraordinário da empresa aérea TAP entre Lisboa e Guarulhos. O voo está previsto para a próxima sexta-feira, 26 de fevereiro.",
+                "Os dois governos vêm mantendo contatos para facilitar a realização de voos extraordinários desde a suspensão das operações decretada pelo governo português em 27 de janeiro de 2021. As companhias aéreas foram comunicadas das condições estabelecidas pelo governo português para autorizar voos dessa natureza.",
+                "O voo de 26 de fevereiro é uma operação privada. Os interessados devem tratar diretamente com a TAP da marcação ou aproveitamento de bilhetes aéreos. Tendo em vista o estado de emergência e as restrições vigentes em Portugal, somente poderão ingressar no aeroporto os passageiros com bilhetes confirmados pela TAP.",
+                "Permanecem inalteradas as exigências de documentos para viagem, assim como a apresentação de teste negativo para Covid-19 e o preenchimento de formulário da ANVISA (declaração de saúde do viajante) para entrada no Brasil.",
+                "A possibilidade de que novos voos sejam realizados, em bases igualmente comerciais, segue sendo tratada por ambos os governos pelos canais apropriados.",
+                "O Itamaraty, por meio da Embaixada em Lisboa e dos Consulados-Gerais em Lisboa, Porto e Faro, seguirá prestando toda assistência cabível aos brasileiros retidos em território português."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-02-19-17h55-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-realizacao_de_voo_comercial_extraordinario_entre_lisboa_e_guarulhos.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/02/19"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "16"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Encerramento do Contencioso Canadá – Commercial Aircraft (DS522)",
+            "subtitulo": "",
+            "data": "18/02/2021",
+            "horario": "10h33",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/encerramento-do-contencioso-canada-2013-commercial-aircraft-ds522",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Brasil formalizou na OMC a decisão de encerrar o contencioso Canadá – Commercial Aircraft (DS522), iniciado em 2017. O Brasil questionava os maciços subsídios concedidos pelos governos do Canadá e do Quebec ao lançamento, desenvolvimento e produção das aeronaves C-Series pela BOMBARDIER, por considerar que os mais de US$ 3 bilhões repassados à empresa distorceram as condições de concorrência no mercado de aviação comercial e causaram sérios prejuízos à fabricante brasileira EMBRAER. Mais informações sobre esses subsídios e seus efeitos adversos podem ser obtidas no documento “ DS522: Brazil’s Transition from Dispute Settlement to Subsidy Discipline Negotiations ”.",
+                "O Brasil permanece convencido da solidez dos argumentos apresentados no caso. No entanto, o contencioso na OMC mostrou-se ineficaz para remediar os efeitos da concessão de subsídios em tão larga escala para o setor de aviação comercial. Esse setor é hoje fundamentalmente distinto daquele existente quando o contencioso foi iniciado. A retirada da BOMBARDIER do mercado de aviação comercial, em particular a venda do programa C-Series para a empresa europeia Airbus, que transferiu parte de sua produção final para os Estados Unidos, minimizou as possibilidades de obter solução a partir de contencioso contra o Canadá.",
+                "Com o encerramento do contencioso, o Brasil passará a concentrar-se, com renovado ímpeto, no lançamento de negociações de disciplinas mais efetivas para o apoio governamental no setor de aviação comercial, abrangendo o lançamento, o desenvolvimento e a produção de aeronaves comerciais e tecnologias correlatas. A experiência bem-sucedida do Entendimento Setorial sobre Aviação Civil (ASU), no âmbito da OCDE, relativo a financiamento à exportação, representa exemplo de como os governos podem negociar regras para que a concorrência nesse setor se dê com base nas qualidades das aeronaves, não nos subsídios recebidos pelos fabricantes.",
+                "O Brasil favorece uma discussão internacional ampla e horizontal, nos foros pertinentes, incluindo o G20, a OCDE e a própria OMC, sobre todos os subsídios, industriais e agrícolas, a fim de reduzir distorções comerciais, assegurar condições equilibradas de concorrência, aumentar a eficiência produtiva e promover desenvolvimento sustentável. Em linha com essa posição, o Brasil defende o lançamento de negociações de novas disciplinas para o apoio governamental à aviação comercial, com base no documento conceitual “ Achieving a Level Playing Field in the Commercial Aircraft Sector through an Agreement on New subsidy Disciplines ”. A negociação de disciplinas mais efetivas é a melhor forma de restabelecer a igualdade de condições no mercado de aviação comercial, setor que gera US$ 500 bilhões anuais e 1 milhão de empregos no mundo."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-02-18-10h33-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-encerramento_do_contencioso_canada_-_commercial_aircraft_(ds522).html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/02/18"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "15"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Diálogo Brasil-EUA sobre mudança do clima - Nota conjunta do Ministério das Relações Exteriores e do Ministério do Meio Ambiente",
+            "subtitulo": "",
+            "data": "17/02/2021",
+            "horario": "19h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/dialogo-brasil-eua-sobre-mudanca-do-clima-nota-conjunta-do-ministerio-das-relacoes-exteriores-e-do-ministerio-do-meio-ambiente",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Os Ministros das Relações Exteriores, Ernesto Araújo, e do Meio Ambiente, Ricardo Salles, mantiveram reunião virtual com o enviado presidencial para o clima do governo dos EUA, John Kerry, na tarde de 17 de fevereiro.",
+                "Na ocasião, foram examinadas possibilidades de cooperação e diálogo entre o Brasil e os EUA na área de mudança do clima e de combate ao desmatamento.",
+                "Acordou-se aprofundar o diálogo bilateral nas áreas mencionadas, com processo estruturado em encontros frequentes, em busca de soluções sustentáveis e duradouras aos desafios climáticos comuns."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-02-17-19h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-dialogo_brasil-eua_sobre_mudanca_do_clima_-_nota_conjunta_do_ministerio_das_relacoes_exteriores_e_do_ministerio_do_meio_ambie....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/02/17"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "14"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Escolha da Dra. Ngozi Okonjo-Iweala para o cargo de Diretora-Geral da Organização Mundial do Comércio (OMC)",
+            "subtitulo": "",
+            "data": "15/02/2021",
+            "horario": "11h18",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/escolha-da-dra-ngozi-okonjo-iweala-para-o-cargo-de-diretora-geral-da-organizacao-mundial-do-comercio-omc-1",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Brasil congratula-se com os demais países membros da Organização Mundial do Comércio (OMC) pela escolha da Dra. Ngozi Okonjo-Iweala para o cargo de Diretora-Geral (DG) daquela organização, na reunião extraordinária virtual do Conselho Geral realizada hoje, 15 de fevereiro de 2021.",
+                "Okonjo-Iweala, de nacionalidade nigeriana, substitui o Embaixador Roberto Carvalho de Azevêdo no cargo de DG-OMC. Tal qual o Embaixador Azevêdo, a nova DG apresenta a combinação de liderança política e capacidade técnica, fundamentais para lidar com os desafios que hoje enfrentam a OMC e o sistema multilateral de comércio.",
+                "Para o Brasil, a OMC permanece como alicerce central do sistema multilateral de comércio. O Brasil está pronto a colaborar com a DG Ngozi Okonjo-Iweala, para fortalecer a OMC em sua missão fundamental de promover o livre comércio entre economias de mercado; estimular as reformas necessárias à Organização nos seus três pilares - negociações, solução de controvérsias e transparência; e assegurar resultados realistas e ambiciosos na 12a Conferência Ministerial da OMC em 2021, especialmente em agricultura. O Brasil continuará trabalhando por um sistema multilateral de comércio com regras que favoreçam a prosperidade econômica e a geração de renda e empregos para os brasileiros."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-02-15-11h18-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-escolha_da_dra._ngozi_okonjo-iweala_para_o_cargo_de_diretora-geral_da_organizacao_mundial_do_comercio_(omc).html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/02/15"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "13"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Falecimento de Carlos Menem",
+            "subtitulo": "",
+            "data": "14/02/2021",
+            "horario": "17h29",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/falecimento-de-carlos-menem",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com pesar, do falecimento de Carlos Saúl Menem, ex-Presidente da República Argentina.",
+                "Presidente de 1989 a 1999, Carlos Menem foi o signatário argentino, em 1991, do Tratado de Assunção, que constituiu o MERCOSUL. No mesmo ano, seu governo firmou o Acordo para o Uso Exclusivamente Pacífico da Energia Nuclear, que estabeleceu a Agência Brasileiro-Argentina de Contabilidade e Controle de Materiais Nucleares (ABACC). Foi estadista com papel marcante no avanço das relações com o Brasil e da integração regional, com base no conceito de integração aberta e na projeção internacional de nossos países.",
+                "O governo brasileiro transmite ao governo e ao povo da Argentina e aos familiares do ex-Presidente Menem as suas profundas condolências."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-02-14-17h29-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-falecimento_de_carlos_menem.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/02/14"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "12"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Chegada do IFA da China para a produção, pela Fundação Oswaldo Cruz (Fiocruz), de vacinas contra a COVID-19 - Nota conjunta do Ministério das Relações Exteriores e do Ministério da Saúde",
+            "subtitulo": "",
+            "data": "06/02/2021",
+            "horario": "19h42",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/chegada-do-ifa-da-china-para-a-producao-pela-fundacao-oswaldo-cruz-fiocruz-de-vacinas-contra-a-covid-19-nota-conjunta-do-ministerio-das-relacoes-exteriores-e-do-ministerio-da-saude",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministério das Relações Exteriores e o Ministério da Saúde anunciam a chegada ao Brasil no dia de hoje, 6/2, do primeiro lote de Ingrediente Farmacêutico Ativo (IFA) para a produção, pela Fundação Oswaldo Cruz (Fiocruz), da vacina da AstraZeneca/Universidade de Oxford contra a Covid-19.",
+                "Originário da China, o lote com cerca de 90 litros de IFA permitirá a produção de 2,8 milhões de doses de vacina em território nacional. As vacinas a serem produzidas em Bio-Manguinhos/Fiocruz serão distribuídas no âmbito do Programa Nacional de Imunizações (PNI)."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-02-06-19h42-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-chegada_do_ifa_da_china_para_a_producao,_pela_fundacao_oswaldo_cruz_(fiocruz),_de_vacinas_contra_a_covid-19_-_nota_conjunta_d....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/02/06"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "11"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Oferta inicial brasileira para adesão ao Acordo sobre Contratações Governamentais - Nota conjunta do Ministério das Relações Exteriores e do Ministério da Economia",
+            "subtitulo": "",
+            "data": "03/02/2021",
+            "horario": "12h15",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/nota-conjunta-do-ministerio-das-relacoes-exteriores-e-do-ministerio-da-economia-oferta-inicial-brasileira-para-adesao-ao-acordo-sobre-contratacoes-governamentais",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Em 3 de fevereiro de 2021, o Brasil apresentou aos membros do Acordo sobre Contratações Governamentais* (sigla em inglês - GPA) da Organização Mundial do Comércio (OMC) sua oferta de acesso a mercado, etapa fundamental do processo de sua acessão ao instrumento.",
+                "A oferta inicial brasileira lista não apenas os órgãos e as entidades da Administração Pública que passarão a fazer contratações públicas abertas à concorrência internacional, mas também os bens, serviços e obras públicas abrangidos. A adesão ao acordo promoverá a redução de gastos públicos e a melhoria da qualidade dos bens e serviços governamentais, e incentivará as exportações brasileiras e os investimentos externos no país.",
+                "Sua elaboração teve como pilares: (i) as ofertas anteriores realizadas no âmbito de acordos comerciais firmados pelo Brasil; ii) amplo processo de consulta, coordenado pelos Ministérios da Economia e das Relações Exteriores, com diferentes atores governamentais; e iii) contribuições do setor privado e da sociedade civil com base em consulta pública.",
+                "A adesão do Brasil ao GPA está em linha com recomendações da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) relativas ao aumento da transparência, ao fomento da concorrência no âmbito nacional e ao combate à corrupção e a práticas anticompetitivas em licitações públicas.",
+                "*O GPA é um tratado plurilateral no âmbito da OMC, do qual fazem parte 48 países**; juntos, constituem um mercado de contratações públicas estimado em US$ 1,7 trilhão anual. O pedido de adesão do país ao GPA foi feito em maio de 2020.",
+                "** Alemanha, Armênia, Aruba, Áustria, Austrália, Bélgica, Bulgária, Canadá, Chipre, Croácia, Coreia do Sul, Dinamarca, Eslováquia, Eslovênia, Espanha, Estados Unidos, Estônia, Finlândia, França, Grécia, Hong Kong, Hungria, Irlanda, Islândia, Israel, Itália, Japão, Letônia, Liechtenstein, Lituânia, Luxemburgo, Malta, Moldova, Montenegro, Nova Zelândia, Noruega, Países Baixos, Polônia, Portugal, Reino Unido, República Tcheca, Romênia, Singapura, Suécia, Suíça, Taipé chinês, União Europeia e Ucrânia."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-02-03-12h15-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-oferta_inicial_brasileira_para_adesao_ao_acordo_sobre_contratacoes_governamentais_-_nota_conjunta_do_ministerio_das_relacoes_....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/02/03"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "10"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Situação em Myanmar",
+            "subtitulo": "",
+            "data": "02/02/2021",
+            "horario": "16h50",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/situacao-em-myanmar",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro acompanha atentamente os desdobramentos da decretação do estado de emergência em Myanmar. O Brasil tem a expectativa de um rápido retorno do país à normalidade democrática e de preservação do estado de direito.",
+                "A embaixada em Yangon informa que a pequena comunidade brasileira se encontra bem, em segurança e recomenda que todos permaneçam em casa, evitem aglomerações ou deslocamentos desnecessários."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-02-02-16h50-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-situacao_em_myanmar.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/02/02"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "9"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        }
+    }
+}

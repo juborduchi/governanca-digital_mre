@@ -1,0 +1,912 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Reunião Informativa de Ministros das Relações  Exteriores dos Estados Partes do MERCOSUL e  dos Países Membros da Aliança do Pacífico  - Cartagena das Índias, 1º de novembro de 2014",
+            "subtitulo": "",
+            "data": "31/10/2014",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reuniao-informativa-de-ministros-das-relacoes-exteriores-dos-estados-partes-do-mercosul-e-dos-paises-membros-da-alianca-do-pacifico-cartagena-das-indias-1-de-novembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Ministro das Relações Exteriores, Luiz Alberto Figueiredo Machado, participa, no dia 1º de novembro de 2014, em Cartagena das Índias, na Colômbia, de reunião de Chanceleres dos Estados Partes do MERCOSUL e dos Países Membros da Aliança do Pacífico.",
+                "A reunião terá como objetivo propiciar troca de informações entre os dois blocos sobre os respectivos processos de integração.",
+                "A corrente de comércio entre os países do MERCOSUL e da Aliança do Pacífico alcançou US$ 52 bilhões em 2012. O fluxo de investimentos entre os países dos blocos é expressivo. Em 2013, por exemplo, apenas o Brasil investiu US$ 14,1 bilhões na Aliança do Pacífico, ao passo que o conjunto dos países da Aliança investiu US$ 3,5 bilhões no Brasil."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-10-31-10h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_informativa_de_ministros_das_relacoes_exteriores_dos_estados_partes_do_mercosul_e_dos_paises_membros_da_alianca_do_pa....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/10/31"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "XXIV Cúpula Ibero-Americana - Veracruz, México, 5 a 9 de dezembro de 2014 - Credenciamento de Imprensa",
+            "subtitulo": "",
+            "data": "30/10/2014",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/xxiv-cupula-ibero-americana-veracruz-mexico-5-a-9-de-dezembro-de-2014-credenciamento-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Informa-se aos profissionais de imprensa interessados em participar da cobertura da XXIV Cúpula Ibero-Americana, a ser realizada na cidade de Veracruz, no México, que o credenciamento para o referido evento deverá ser realizado diretamente junto à organização do evento, impreterivelmente até o dia 21 de novembro, por meio da página eletrônica http://www.24cumbreiberoamericana.gob.mx/",
+                "Exige-se, para realização do credenciamento, a apresentação de foto em formato JPG e carta de apresentação do meio de comunicação responsável.",
+                "A entrega das credenciais será feita a partir do dia 5 de dezembro, em Veracruz."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-10-30-10h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-xxiv_cupula_ibero-americana_-_veracruz,_mexico,_5_a_9_de_dezembro_de_2014_-_credenciamento_de_imprensa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/10/30"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 25 de outubro e 02 de novembro de 2014",
+            "subtitulo": "",
+            "data": "24/10/2014",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-25-de-outubro-e-02-de-novembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "07/OUT a 26/NOV – (Continuação) Nova York, EUA. Reunião da III Comissão da 69ª Assembleia Geral das Nações Unidas.",
+                "15 a 31/OUT – (Continuação) Paris, França. UNESCO. 195º Conselho Executivo.",
+                "20/OUT a 07/NOV – (Continuação) Busan, Coreia do Sul. Conferência Plenipotenciária da União Internacional de Telecomunicações (UIT – PP-14).",
+                "27/OUT – UNESCO. Dia Mundial do Patrimônio Audiovisual.",
+                "27/OUT – Varsóvia, Polônia. Conferência \"Investimentos nos Mercados Emergentes (China, Brasil, Índia, Turquia) Durante o Período de Baixas Taxas de Juros\".",
+                "27 e 28/OUT – Pequim, China. \"Workshop\" do BRICS sobre colaboração em inovação e desenvolvimento farmacêutico.",
+                "27 e 28/OUT – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Dialogo Global sobre Agricultura Familiar. 27 e 28/OUT – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 155ª Sessão do Comitê de Finanças sobre PMA.",
+                "27 a 29/OUT – Montevidéu, Uruguai. Reunião do Grupo de Assuntos Orçamentários (GAO) do MERCOSUL.",
+                "27 a 29/OUT – Belo Horizonte e Brasília. Visita de delegação da Universidade Eötvos Lorand, da Hungria, ao Brasil.",
+                "27 a 30/OUT – Nairóbi, Quênia. Segunda reunião anual do Subcomitê do Comitê de Representantes Permanentes do Programa das Nações Unidas para o Meio Ambiente (PNUMA).",
+                "27 a 31/OUT – Bruxelas, Bélgica. Workshop de dança contemporânea, no âmbito do programa Sua Arte na Casa do Brasil.",
+                "27 a 31/OUT – Buenos Aires, Argentina. Reunião de Especialistas Laboratoriais da Comissão de Sementes do MERCOSUL.",
+                "27 a 31/OUT – Washington, EUA. Audiências públicas no contexto da 153ª Sessão da Comissão Interamericana de Direitos Humanos (CIDH) da Organização dos Estados Americanos (OEA).",
+                "27 a 31/OUT – Santiago, Chile. LACNIC 22 – Reunião anual do Registro de Endereçamento da Internet para a América Latina e o Caribe (LACNIC).",
+                "27 a 31/OUT – Bogotá, Colômbia. VI Reunião Regional Panamericana da Convenção sobre Zonas Úmidas (Convenção de Ramsar).",
+                "27 a 31/OUT – Copenhague, Dinamarca. 40ª Reunião Plenária do Painel Intergovernamental sobre Mudança do Clima (IPCC).",
+                "27 a 31/OUT – Genebra, Suíça. 10ª reunião do Comitê de Revisão de Poluentes Orgânicos Persistentes (POPRC-10) da Convenção de Estocolmo.",
+                "27/OUT a 07/NOV – Genebra, Suíça. 20ª Sessão do Mecanismo de Revisão Periódica Universal (RPU) do Conselho de Direitos Humanos (CDH).",
+                "27/OUT a 07/NOV – Genebra, Suíça. 20ª sessão do Grupo de Trabalho do Mecanismo de Revisão Periódica Universal (RPU) do Conselho de Direitos Humanos.",
+                "28/OUT – São Paulo, SP. Seminário \"Oportunidades de Colaboração de Empresas Espanholas e Brasileiras em terceiros mercados\", organizado pela Embaixada da Espanha em Brasília, em cooperação com a Câmara Oficial Espanhola de Comércio no Brasil e o Itamaraty.",
+                "28 e 29/OUT – Buenos Aires, Argentina. I Reunião da Comissão de Economia Criativa e Indústrias Culturais do MERCOSUL.",
+                "28 e 29/OUT – Genebra, Suíça. 15ª Sessão do Comitê Permanente da OIM (Fonte: Delbrasgen).",
+                "28 e 29/OUT – Buenos Aires, Argentina.  Reunião da Comissão de Economia Criativa e Indústrias Culturais (RMC-CEICC) do MERCOSUL.",
+                "28 a 30/OUT – Baku, Azerbaijão. UNESCO. Fórum Mundial sobre Políticas para a Juventude.",
+                "28 a 30/OUT – Washington, EUA. 47ª Reunião do Conselho do Fundo Global para o Meio Ambiente (GEF).",
+                "28 a 30/OUT – Santiago, Chile. Oficina regional de capacitação sobre \"Migração, meio ambiente e mudança do clima na América do Sul\".",
+                "28 a 31/OUT – Buenos Aires, Argentina. Reunião do Grupo de Trabalho Permanente em Quarentena Vegetal do MERCOSUL.",
+                "28 a 31/OUT – Bogotá, Colômbia. UNESCO. Consulta regional sobre violência homofóbica e transfóbica em instituições educativas, no quadro da iniciativa \"Educação e Respeito para Todos e Todas: Prevenção do Bullying Homofóbico e Transfóbico em Instituições Educativas\".",
+                "29 a 31/OUT – Houston e Chicago, Estados Unidos. Missão da Agência Brasileira de Promoção de Exportações e Investimentos - Apex-Brasil.",
+                "29 a 31/OUT – Singapura, Singapura. Feira Anual de Turismo - ITB Ásia.",
+                "29 a 31/OUT – Montevidéu, Uruguai. Reunião do Grupo de Trabalho de Classificações e Nomenclaturas no âmbito da Reunião Especializada em Estatísticas do MERCOSUL (REES).",
+                "29 a 31/OUT – Buenos Aires, Argentina. Reunião Técnica Preparatória do Subgrupo de Trabalho nº 4 \"Assuntos Financeiros\" do MERCOSUL.",
+                "29 a 31/OUT – Dubrovnik, Croacia. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Sessao Aberta do Comite Tecnico da Comissao Europeia contra a Febre Aftosa .",
+                "29 a 31/OUT – Genebra, Suíça. 3ª reunião do Mecanismo de Estados Membros sobre produtos médicos de baixa qualidade/ espúrios / falsamente rotulados / falsificados / contrafeitos (SSFFC) da Organização Mundial de Saúde (OMS).",
+                "29 a 31/OUT – Pequim, China. Seminário sobre o Arranjo sobre Florestas pós-2015 em apoio ao Foro das Nações Unidas sobre Florestas.",
+                "29/OUT a 11/NOV – Berlim, Alemanha. \"Premiere Brasil\", na \"Haus der Kulturen der Welt\".",
+                "30/OUT – Genebra, Suíça. Quarta reunião técnica do processo negociador Cartagena+30.",
+                "30/OUT – Roterdã, Holanda. 7ª. Edição do Encontro Empresarial \"BRAZIL NETWORK DAY (BND)\".",
+                "30/OUT – Roma, Itália. Programa Mundial de Alimentos (PMA). Consulta Anual sobre Parcerias.",
+                "30/OUT – Brasília. Visita de representantes da \"Japan Agency for Marine-Earth Science and Technology\" (JAMSTEC).",
+                "30/OUT – Varsóvia, Polônia. Reunião anual do Comitê Político do Foro de Lideranças para o Sequestro de Carbono (CSLF).",
+                "30/OUT – Paris, França. II Simpósio Internacional sobre os Mercados de Gás Natural e Carvão Mineral (realizado, no âmbito do G20, sob os auspícios da Agência Internacional de Energia, do Foro Internacional de Energia e da Organização dos Países Exportadores de Petróleo).",
+                "30 e 31/OUT – Lima, Peru. UNESCO. Reunião ministerial regional: Educação para Todos na América Latina e Caribe: Avaliação e Desafios pós-2015.",
+                "30 e 31/OUT – Brasília. Oficina sobre Elaboração de Relatórios a Órgãos de Tratados de Direitos Humanos, promovida pelo Escritório do Alto Comissariado das Nações Unidas para os Direitos Humanos (EACDH) e a Secretaria de Direitos Humanos (SDH).",
+                "30 e 31/OUT – Cidade do México, México. VII Fórum de Desenvolvimento Social na América Latina e Caribe, promovido pelo Programa das Nações Unidas para o Desenvolvimento (PNUD) e pela Agência Espanhola de Cooperação Internacional para o Desenvolvimento (AECID).",
+                "30/OUT a 13/NOV – Genebra, Suíça. 322ª Sessão do Conselho de Administração da Organização Internacional do Trabalho (OIT).",
+                "31/OUT – Tel Aviv, Israel. Apresentação da sambista Verônica Ferriani e seu grupo musical na casa de shows \"Riding 3\".",
+                "31/OUT – Paris, França. Cerimônia de lançamento do 70º aniversário da UNESCO – tributo a Nelson Mandela.",
+                "31/OUT – Buenos Aires, Argentina. XI Reunião do Grupo Ad Hoc de Biocombustíveis do Mercosul (GAHB).",
+                "31/OUT – Nairóbi, Quênia. 128ª Reunião do Comitê de Representantes Permanentes do Programa das Nações Unidas para o Meio Ambiente (PNUMA).",
+                "31/OUT a 06/NOV – Washington, Estados Unidos. VIII Brazilian Film Week.",
+                "31/OUT a 09/NOV – Uagadugu, Burkina Faso. 14ª. Edição da Feira Internacional de Artesanato.",
+                "01/NOV – Paris, França. UNESCO. Sessão extraordinária da Assembleia Geral dos Estados Partes da Convenção do Patrimônio Mundial para examinar projeto de Resolução relativo a propostas de emenda a suas Regras de Procedimento.",
+                "01 a 29/NOV – Krems, Áustria. Participação de servidores do Governo do Distrito Federal em curso de imersão internacional na Universidade de Ciências Aplicadas de Krems, no âmbito do programa \"Brasília sem Fronteiras\".",
+                "02/NOV – Estrasburgo, França. UNESCO. Dia International pelo Fim da Impunidade para Crimes contra Jornalistas."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-10-24-10h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_25_de_outubro_e_02_de_novembro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/10/24"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 18 de outubro e 26 de outubro de 2014",
+            "subtitulo": "",
+            "data": "20/10/2014",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-18-de-outubro-e-26-de-outubro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "07/OUT a 26/NOV – (Continuação) Nova York, EUA. Reunião da III Comissão da 69ª Assembleia Geral das Nações Unidas.",
+                "13 a 18/OUT – (Continuação) Moscou, Rússia. 6ª Conferência das Partes na Convenção-Quadro para o Controle do Tabaco.",
+                "15 a 31/OUT – (Continuação) Paris, França. UNESCO. 195º Conselho Executivo.",
+                "17 a 19/OUT – Santiago, Chile. Conferência Regional sobre a Mulher – 51ª Mesa Diretiva (CEPAL).",
+                "19 a 20/OUT – Cidade do México, México. UNESCO. 1ª Reunião de Peritos Internacionais em preparação à 2ª Conferência Internacional sobre Cidades da Aprendizagem.",
+                "20 a 22/OUT – Porto Alegre, RS. Seminário \"Internacionalização: um desafio para as universidades\".",
+                "20 a 22/OUT – Buenos Aires, Argentina. Reunião do Grupo de Incorporação da Normativa do MERCOSUL (GIN).",
+                "20 a 22/OUT – Rio de Janeiro, Brasília e Manaus. Missão ao Brasil da Secretaria de Educação Superior, Ciência, Tecnologia e Inovação do Equador (SENESCYT).",
+                "20 a 23/OUT – Quito, Equador. III Conferência de Segurança Turística das Américas.",
+                "20 a 24/10 – Genebra, Suíça. 10ª reunião de Comitê de Revisão de Químicos da Convenção de Roterdã.",
+                "20 a 24/OUT – Brasília, Rio de Janeiro e São Paulo. Visita ao Brasil do Secretário Permanente do Ministério da Agricultura de Moçambique.",
+                "20 a 25/OUT – Bonn, Alemanha. Reunião da Plataforma de Durban para Ação Fortalecida (ADP 2.6) sob a Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC).",
+                "20 a 26/OUT – Londres, Reino Unido. Circuito Internacional de Arte Brasileira -CIAB.",
+                "20/OUT a 07/NOV – Busan, Coreia do Sul. Conferência Plenipotenciária da União Internacional de Telecomunicações (UIT – PP-14).",
+                "21/OUT – Genebra, Suíça. Reunião de Consultas Informais do pré-Comitê Permanente da OIM.",
+                "21 e 22/OUT – Brasília. 117ª Reunião do Conselho Nacional de Gestão do Patrimônio Genético (CGEN).",
+                "21 a 23/OUT – Berlim, Alemanha. Consulta Global Intergovernamental e Multissetorial sobre o 6º Relatório \"Perspectivas do Meio Ambiente Global\" (\"Global Environment Outlook\" – GEO-6).",
+                "21 a 23/ OUT – Amã, Jordânia. \"Horeca Jordan 2014\", exposição ligada ao setor de alimentos.",
+                "22/OUT – Norrkoping, Suécia. Seminário \"Oportunidades de Negócios no Brasil\", organizado pela Câmara de Comércio do Leste da Suécia.",
+                "22/OUT – Istambul, Turquia. Estande brasileiro no Encontro “Back 2 Business - Joint International Trade Networking”, sob a coordenação da Câmara de Comércio Britânica da Turquia.",
+                "22 e 23/OUT – Washington, EUA. 3ª Reunião Ordinária da Comissão Interamericana de Desenvolvimento Sustentável (CIDS) da Organização dos Estados Americanos (OEA).",
+                "22 a 24/OUT – Paris, França. Reunião de representantes de Comissões Nacionais para a UNESCO.",
+                "22 a 24/OUT – Astana, Cazaquistão. Primeiro \"Encontro Internacional de Planejamento\".",
+                "22 a 24/OUT – Buenos Aires, Argentina. Reunião do Grupo de Trabalho sobre Normativa 2012-2013 do MERCOSUL",
+                "22 a 24/OUT – Cidade do México, México. Primeira Conferência Extraordinária dos Estados Partes na Convenção Interamericana para Prevenir, Punir e Erradicar a Violência Contra a Mulher (\"Convenção de Belém do Pará\").",
+                "22 a 26/OUT – Santiago de Compostela, Espanha. Feira Mundial de Música WOMEX 2014.",
+                "23/OUT – Kiev, Ucrânia. I Seminário sobre a obra de Clarice Lispector.",
+                "23/OUT – Genebra, Suíça. Terceira reunião técnica do processo negociador Cartagena+30.",
+                "23/OUT – Genebra, Suíça. Reunião Informativa sobre a 322ª Sessão do Conselho Administrativo da OIT.",
+                "23/OUT – Brasília. Reunião do Grupo Temático Ampliado das Nações Unidas sobre HIV/AIDS (GT/UNAIDS).",
+                "24/OUT – Brasília. Visita do Diretor do Departamento de Tratados e Direito Internacional do Ministério das Relações Exteriores da China.",
+                "24/ OUT –",
+                "Singapura",
+                ",",
+                "Singapura",
+                ". \"Brasil-Asia Seminar in Singapore\".",
+                "24/OUT – São Paulo. Reunião Ordinária do Comitê Gestor da Internet no Brasil (CGI.br).",
+                "24 a 26/OUT – Pequim, China. Congresso do \"World Federation of Colleges and Polytechnics\". Participação de delegação do CONIF (Conselho Nacional das Instituições da Rede Federal de Educação Profissional, Científica e Tecnológica).",
+                "25 e 26/OUT – Tóquio, Japão. 7ª edição do Festival \"Bossa Aoyama\".",
+                "25 a 31/OUT – Ierevan, Armênia. \"Festival ReAnimania 2014\".",
+                "26/OUT a 01/NOV – Cidade do México, México. VII Congresso Internacional de Ensino de Português como Língua Estrangeira - CEPLE."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-10-20-10h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_18_de_outubro_e_26_de_outubro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/10/20"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Eleição de novos membros não permanentes do Conselho de Segurança das Nações Unidas",
+            "subtitulo": "",
+            "data": "17/10/2014",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/eleicao-de-novos-membros-nao-permanentes-do-conselho-de-seguranca-das-nacoes-unidas",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro congratula os Governos de Angola, Espanha, Malásia, Nova Zelândia e Venezuela pela eleição para assentos no Conselho de Segurança no biênio 2015-2016 e faz votos de êxito no cumprimento de seus mandatos."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-10-17-11h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-eleicao_de_novos_membros_nao_permanentes_do_conselho_de_seguranca_das_nacoes_unidas.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/10/17"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Nota de Esclarecimento nº 2 - Casa Civil e Ministério das Relações Exteriores",
+            "subtitulo": "",
+            "data": "16/10/2014",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/nota-de-esclarecimento-casa-civil-e-ministerio-das-relacoes-exteriores",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Não procede informação de existência de projeto do Governo Federal de qualquer alteração do Decreto 7.304, de 22 de setembro de 2010, para permitir a nomeação em cargos de Grupo-Direção e Assessoramento Superiores (DAS) no Itamaraty de pessoas não integrantes do quadro de servidores do Ministério das Relações Exteriores."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-10-16-11h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-nota_de_esclarecimento_no_2_-_casa_civil_e_ministerio_das_relacoes_exteriores.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/10/16"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Visita do Ministro dos Negócios Estrangeiros da  República da Islândia, Gunnar Bragi Sveinsson - Brasília, 14 de outubro de 2014",
+            "subtitulo": "",
+            "data": "14/10/2014",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-do-ministro-dos-negocios-estrangeiros-da-republica-da-islandia-gunnar-bragi-sveinsson-brasilia-14-de-outubro-de-2015",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Ministro dos Negócios Estrangeiros da República da Islândia, Gunnar Bragi Sveinsson, visita o Brasil entre os dias 13 e 18 de outubro e será recebido pelo Ministro Luiz Alberto Figueiredo Machado no dia 14."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-10-14-11h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_do_ministro_dos_negocios_estrangeiros_da_republica_da_islandia,_gunnar_bragi_sveinsson_-_brasilia,_14_de_outubro_de_20....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/10/14"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 11 de outubro e 19 de outubro de 2014",
+            "subtitulo": "",
+            "data": "10/10/2014",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-11-de-outubro-e-19-de-outubro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "6 a 17/OUT – Pyeongchang, República da Coreia. 12ª Reunião da Conferência das Partes na Convenção sobre Diversidade Biológica (COP-12).",
+                "07/OUT a 26/NOV – Nova Iorque, Estados Unidos. Reunião da III Comissão da 69ª Assembleia Geral das Nações Unidas.",
+                "11/OUT – Los Angeles, Estados Unidos. Reunião do Comitê Assessor Governamental (\"Governmental Advisory Committee\" – GAC) da Corporação da Internet para Atribuição de Nomes e Números (ICANN).",
+                "12 a 14/OUT – Santiago, Chile. Conferência Regional sobre População e Desenvolvimento – 1ª Reunião da Mesa Diretiva (CEPAL).",
+                "12 a 16/OUT – Los Angeles, Estados Unidos. 51ª Reunião da Corporação da Internet para Atribuição de Nomes e Números (ICANN 51).",
+                "13/OUT – São Paulo. 8ª Reunião do Conselho Deliberativo do Fórum do Sistema Brasileiro de TV Digital (Fórum SBTVD).",
+                "13 a 15/OUT – Lisboa, Portugal. 8º Encontro Ibero-Americano de Museus.",
+                "13 a 15/OUT – Varsóvia, Polônia. Missão empresarial da Federação das Indústrias de Minas Gerais (FIEMG).",
+                "13 a 17/OUT – Guatemala, Guatemala. Visita de funcionários da \"Secretaria Contra a Violência Sexual, Exploração e Tráfico de Pessoas – SVET\", relativa ao Projeto \"Vira-Vida\".",
+                "13 a 17/OUT – Pyeongchang, República da Coreia. 1ª Reunião da Conferência das Partes na qualidade de Reunião das Partes para o Protocolo de Nagoia sobre Acesso e Participação nos Benefícios.",
+                "13 a 17/OUT – Londres. 67ª Sessão do Comitê de Proteção do Meio Ambiente Marítimo da Organização Marítima Internacional (IMO MEPC-67).",
+                "13 a 17/OUT – Brisbane, Austrália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 21ª Sessão da Comissão do CODEX sobre Inspeção na Importação e Exportação de Alimentos e Sistemas de Certificação.",
+                "13 a 18/OUT – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 41ª Sessão do Comitê de Segurança Alimentar Mundial.",
+                "13 a 19/OUT – Brasília. Semana Nacional de Ciência e Tecnologia – \"Ciência e Tecnologia para o Desenvolvimento Social\".",
+                "14 e 15/OUT – Washington, Estados Unidos. VI Reunião da Comissão Interamericana de Educação - CIE.",
+                "14 a 17/OUT – Recife, Brasil. 6º Seminário Internacional e 7ª Assembleia Geral do Grupo Coimbra de Universidades Brasileiras.",
+                "14 a 15/OUT – Montevidéu, Uruguai. CXXXVIII Reunião Ordinária da Comissão de Comércio do MERCOSUL (CCM).",
+                "14 a 15/OUT – Montevidéu, Uruguai. Encontro preparatório da Reunião Especializada sobre Agricultura Familiar do MERCOSUL (REAF).",
+                "14 a 16/OUT – Brasília. Seminário ANA-OCDE sobre Água.",
+                "14 a 16/OUT – Moscou, Rússia. Conferência Internacional de Moscou para o Desenvolvimento Inovador \"Inovações Abertas\".",
+                "14 a 17/OUT – Bridgetown, Barbados. 8ª Reunião do Conselho do Fundo Verde para o Clima.",
+                "15 e 16/OUT – Buenos Aires, Argentina. I Reunião da Comissão de Artes do MERCOSUL.",
+                "15 a 16/OUT – Buenos Aires, Argentina. Reunião Especializada de Comunicação Social do MERCOSUL (RECS).",
+                "15 a 17/OUT – Munique, Alemanha. Semana da FAPESP (\"FAPESP Week Munich 2014\").",
+                "15 a 31/OUT – Paris, França. 195ª Sessão do Conselho Executivo da UNESCO.",
+                "16 a 20/OUT – Belo Horizonte. 5º Encontro de Coprodução Internacional BRASIL CINEMUNDI.",
+                "17/OUT – Los Angeles, Estados Unidos. 3ª reunião presencial do Grupo de Coordenação da Transição IANA (ICG), à margem da ICANN 51.",
+                "17 e 18/OUT – Montreal e Québec, Canadá. Apresentações do concerto, \"20 anos sem Tom Jobim\".",
+                "17 a 19/OUT – Santiago, Chile. Conferência Regional sobre a Mulher – 51ª Mesa Diretiva (CEPAL).",
+                "19 a 24/OUT – Havana, Cuba. Convenção Anual de Rádio e Televisão Cuba 2014."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-10-10-11h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_11_de_outubro_e_19_de_outubro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/10/10"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Discurso proferido pela Presidenta da República, Dilma Rousseff, na abertura do Debate de Alto Nível da 69ª Assembleia Geral das Nações Unidas (ONU) – Nova York, 24 de setembro de 2014",
+            "subtitulo": "",
+            "data": "08/10/2014",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/discurso-proferido-pela-presidenta-da-republica-dilma-rousseff-na-abertura-do-debate-de-alto-nivel-da-69-assembleia-geral-das-nacoes-unidas-onu-nova-york-24-de-setembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Embaixador Sam Kutesa, Presidente da 69ª Assembleia Geral das Nações Unidas,",
+                "Senhor Ban Ki-moon, Secretário-Geral das Nações Unidas,",
+                "Excelentíssimos Senhores e Senhoras Chefes de Estado e de Governo,",
+                "Senhoras e Senhores,",
+                "Para o Brasil – que tem a honra e o privilégio de abrir este debate – é grande a satisfação de ver na Presidência desta Sessão da Assembleia Geral um filho da África. Os brasileiros, somos ligados por laços históricos, culturais e de amizade ao continente africano, cuja contribuição foi e é decisiva para a construção da identidade nacional de meu país.",
+                "Senhor Presidente,",
+                "Abro este Debate Geral às vésperas de eleições, que vão escolher, no Brasil, o Presidente da República, os Governos estaduais e grande parte de nosso Poder Legislativo. Essas eleições são a celebração de uma democracia que conquistamos há quase trinta anos, depois de duas décadas de governos ditatoriais. Com ela, muito avançamos também na estabilização econômica do país.",
+                "Nos últimos doze anos, em particular, acrescentamos a essas conquistas a construção de uma sociedade inclusiva baseada na igualdade de oportunidades.",
+                "A grande transformação em que estamos empenhados produziu uma economia moderna e uma sociedade mais igualitária. Exigiu, ao mesmo tempo, forte participação popular, respeito aos Direitos Humanos e uma visão sustentável de nosso desenvolvimento.",
+                "Exigiu, finalmente, uma ação na cena global marcada pelo multilateralismo, pelo respeito ao Direito Internacional, pela busca da paz e pela prática da solidariedade.",
+                "Senhor Presidente,",
+                "Há poucos dias, a FAO informou que o Brasil saiu do mapa da fome.",
+                "Essa mudança foi resultado de uma política econômica que criou 21 milhões de empregos, valorizou o salário básico, aumentando em 71% seu poder de compra nos últimos 12 anos. Com isso, reduzimos a desigualdade.",
+                "Trinta e seis milhões de brasileiros deixaram a miséria desde 2003; 22 milhões somente no meu governo. Para esse resultado contribuíram também políticas sociais e de transferência de renda reunidas no Plano Brasil Sem Miséria.",
+                "Na área da saúde, logramos atingir a meta de redução da mortalidade infantil, antes do prazo estabelecido pelas Metas do Milênio.",
+                "Universalizamos o acesso ao ensino fundamental. Perseguimos o mesmo objetivo no ensino médio. Estamos empenhados em aumentar sua qualidade, melhorando os currículos e valorizando o professor.",
+                "O ensino técnico avançou com a criação de centenas de novas escolas e a formação e qualificação técnico-profissional de 8 milhões de jovens, nos últimos 4 anos.",
+                "Houve uma expansão sem precedentes da educação superior: novas Universidades Públicas e mais de 3 milhões de alunos contemplados com bolsas e financiamentos que garantem o acesso a universidades privadas.",
+                "Ações afirmativas permitiram o ingresso massivo de estudantes pobres, negros e indígenas na nossa Universidade.",
+                "Finalmente, os desafios de construção de uma sociedade do conhecimento ensejaram a criação de um programa, o Ciência sem Fronteiras, pelo qual mais de 100 mil estudantes de pós-graduação e de graduação são enviados às melhores universidades do mundo.",
+                "Por iniciativa presidencial, o Congresso Nacional aprovou lei que destina 75% dos royalties e 50% do fundo de recursos do petróleo e do pré-sal para a educação e 25% para a saúde.",
+                "Vamos transformar recursos finitos, não renováveis – como o petróleo e o gás - em algo perene: a educação, conhecimento científico , tecnológico e inovação. Esse será o nosso passaporte para o futuro.",
+                "Senhor Presidente,",
+                "Não descuramos da solidez fiscal e da estabilidade monetária e protegemos o Brasil frente à volatilidade externa.",
+                "Assim, soubemos dar respostas à grande crise econômica mundial, deflagrada em 2008. Crise do sistema financeiro internacional, iniciada após a quebra do Lehman Brothers e, em seguida, transformada em muitos países em crise de dívidas soberanas.",
+                "Resistimos às suas piores consequências: o desemprego, a redução de salários, a perda de direitos sociais e a paralisia do investimento.",
+                "Continuamos a distribuir renda, estimulando o crescimento e o emprego, mantendo investimentos em infraestrutura.",
+                "O Brasil saltou da 13ª posição para a 7ª maior economia do mundo e a renda per capita mais que triplicou. A desigualdade caiu.",
+                "Se em 2002, mais da metade dos brasileiros era pobre ou muito pobre, hoje 3 em cada 4 brasileiros integram a classe média e os extratos superiores.",
+                "No período da crise, enquanto o mundo desempregava centena de milhões de trabalhadores, o Brasil gerou 12 milhões de empregos formais.",
+                "Além disso, nos consolidamos como um dos principais destinos de investimentos externos.",
+                "Retomamos o investimento em infraestrutura numa forte parceria com o setor privado.",
+                "Todos esses ganhos estão ocorrendo em ambiente de solidez fiscal. Reduzimos a dívida líquida de aproximadamente 60% para 35% do Produto Interno Bruto.",
+                "A dívida externa bruta em relação ao PIB caiu de 42% para 14%.",
+                "As reservas internacionais foram multiplicadas por 10 e assim, nos tornamos credores internacionais.",
+                "A taxa de inflação anual também tem se situado nos limites da banda de variação mínima e máxima fixada pelo sistema de metas em vigor no Brasil.",
+                "Senhor Presidente,",
+                "Ainda que tenhamos conseguido resistir às consequências mais danosas da crise global, ela também nos atingiu, de forma mais aguda, nos últimos anos.",
+                "Tal fato decorre da persistência, em todas as regiões do mundo, de consideráveis dificuldades econômicas, que impactam negativamente nosso crescimento.",
+                "Reitero o que disse, no ano passado na abertura do Debate Geral. É indispensável e urgente retomar o dinamismo da economia global. Ela deve funcionar como instrumento de indução do crescimento, do comércio internacional e da diminuição das desigualdades entre países, e não como fator de redução do ritmo de crescimento econômico e de distribuição da renda social.",
+                "No que se refere ao comércio internacional, impõe-se um compromisso de todos com um programa de trabalho para a conclusão da Rodada de Doha.",
+                "É imperioso também, Senhor Presidente, pôr fim ao descompasso entre a crescente importância dos países em desenvolvimento na economia mundial e sua insuficiente participação nos processos decisórios das instituições financeiras internacionais, como o Fundo Monetário e o Banco Mundial. É inaceitável a demora na ampliação do poder de voto dos países em desenvolvimento nessas instituições. O risco que estas instituições correm é perder sua legitimidade e sua eficiência.",
+                "Senhor Presidente,",
+                "Com grande satisfação o Brasil abrigou a VI Cúpula dos países Brics. Recebemos os líderes da China, da India, da Rússia e da África do Sul num encontro fraterno, proveitoso que aponta para importantes perspectivas para o futuro.",
+                "Assinamos acordos de constituição do Novo Banco de Desenvolvimento e do Arranjo Contingente de Reservas.",
+                "O Banco atenderá às necessidades de financiamento de infraestrutura dos países Brics e dos países em desenvolvimento.",
+                "O Arranjo Contingente de Reservas protegerá os países dos Brics de volatilidades financeiras.",
+                "Cada instrumento terá um aporte de US$ 100 bilhões.",
+                "Senhor Presidente,",
+                "A atual geração de líderes mundiais – a nossa geração – tem sido chamada a enfrentar também importantes desafios vinculados aos temas da paz, da segurança coletiva e do meio ambiente e não temos sido capazes de resolver velhos contenciosos nem de impedir novas ameaças.",
+                "O uso da força é incapaz de eliminar as causas profundas dos conflitos. Isso está claro na persistência da Questão Palestina; no massacre sistemático do povo sírio; na trágica desestruturação nacional do Iraque; na grave insegurança na Líbia; nos conflitos no Sahel e nos embates na Ucrânia. A cada intervenção militar não caminhamos para a Paz mas, sim, assistimos ao acirramento desses conflitos.",
+                "Verifica-se uma trágica multiplicação do número de vítimas civis e de dramas humanitários. Não podemos aceitar que essas manifestações de barbárie recrudesçam, ferindo nossos valores éticos, morais e civilizatórios.",
+                "Tampouco podemos ficar indiferentes ao alastramento do vírus ebola no oeste da África. Nesse sentido, apoiamos a proposta do Secretário-Geral de estabelecer a Missão das Nações Unidas de Resposta Emergencial ao ebola. O Brasil será inteiramente solidário a isso.",
+                "Senhor Presidente,",
+                "O Conselho de Segurança tem encontrado dificuldade em promover a solução pacífica desses conflitos. Para vencer esses impasses será necessária uma verdadeira reforma do Conselho de Segurança, processo que se arrasta há muito tempo.",
+                "Os 70 anos das Nações Unidas, em 2015, devem ser a ocasião propícia para o avanço que a situação requer. Estou certa de que todos entendemos os graves riscos da paralisia e da inação do Conselho de Segurança das Nações Unidas.",
+                "Um Conselho mais representativo e mais legítimo poderá ser também mais eficaz. Gostaria de reiterar que não podemos permanecer indiferentes à crise israelo-palestina, sobretudo depois dos dramáticos acontecimentos na Faixa de Gaza. Condenamos o uso desproporcional da força, vitimando fortemente a população civil, mulheres e crianças.",
+                "Esse conflito deve ser solucionado e não precariamente administrado, como vem sendo. Negociações efetivas entre as partes têm de conduzir à solução de dois Estados – Palestina e Israel – vivendo lado a lado e em segurança, dentro de fronteiras internacionalmente reconhecidas.",
+                "Em meio a tantas situações de conflito, a América Latina e o Caribe buscam enfrentar o principal problema que nos marcou, por séculos – a desigualdade social. Fortalecem-se as raízes democráticas e firma-se a busca de um crescimento econômico mais justo, inclusivo e sustentável. Avançam os esforços de integração, por meio do Mercosul, da UNASUL e da CELAC.",
+                "Senhor Presidente,",
+                "A mudança do clima é um dos grandes desafios da atualidade. Necessitamos, para vencê-la, sentido de urgência, coragem política e o entendimento de que cada um deverá contribuir segundo os princípios da equidade e das responsabilidades comuns, porém diferenciadas.",
+                "A Cúpula do Clima, convocada em boa hora pelo Secretário-Geral, fortalece as negociações no âmbito da Convenção-Quadro.",
+                "O Governo brasileiro se empenhará para que o resultado das negociações leve a um novo acordo equilibrado, justo e eficaz. O Brasil tem feito a sua parte para enfrentar a mudança do clima.",
+                "Comprometemo-nos, na Conferência de Copenhague, em 2009, com uma redução voluntária das nossas emissões em 36% a 39%, na projeção até 2020. Entre 2010 e 2013, deixamos de lançar na atmosfera, a cada ano, em média, 650 milhões de toneladas de dióxido de carbono por ano. Alcançamos em todos esses anos as quatro menores taxas de desmatamento da nossa história. Nos últimos 10 anos, reduzimos o desmatamento em 79%, sem renunciar ao desenvolvimento econômico, nem à inclusão social.",
+                "Mostramos que é possível crescer, incluir, conservar e proteger. Uma conquista como essa resulta do empenho - firme e contínuo – do governo, da sociedade e de agentes públicos e agentes privados. Esperamos que os países desenvolvidos - que têm a obrigação não só legal, mas também política e moral de liderar pelo exemplo, demonstrem de modo inequívoco e concreto seu compromisso de combater esse mal que aflige a todos nós.",
+                "Na Rio+20, tivemos a grande satisfação de definir uma nova agenda, baseada em Objetivos de Desenvolvimento Sustentável, aplicáveis tanto a países desenvolvidos quanto aos em desenvolvimento.",
+                "Será crucial definirmos meios de implementação que correspondam à magnitude das dificuldades que nós nos comprometemos a superar. Precisamos ser ambiciosos em matéria de financiamento, cooperação, construção de capacidades nacionais e transferência de tecnologias, sobretudo em favor dos países menos desenvolvidos.",
+                "Destaco, nesse contexto, a necessidade de estabelecer um mecanismo para o desenvolvimento, transferência e disseminação de tecnologias limpas, ambientalmente sustentáveis.",
+                "Senhor Presidente,",
+                "Ao lado do desenvolvimento sustentável e da paz, a ordem internacional que buscamos construir funda-se em valores. Entre eles, destacam-se o combate a todo o tipo de discriminação e exclusão.",
+                "Temos um compromisso claro com a valorização da mulher no mundo do trabalho, nas profissões liberais, no empreendedorismo, na atividade política, no acesso à educação entre tantos outros. O meu governo combate incansavelmente a violência contra a mulher em todas suas formas. Consideramos o século 21, o século das mulheres.",
+                "Da mesma maneira, a promoção da igualdade racial é o resgate no Brasil dos séculos de escravidão a que foram submetidos os afro-brasileiros, hoje mais da metade de nossa população.",
+                "Devemos a eles um inestimável legado permanente de riquezas e valores culturais, religiosos e humanos. Para nós, a miscigenação é um fator de orgulho.",
+                "O racismo, mais que um crime inafiançável é uma mancha que não hesitamos em combater, punir e erradicar. O mesmo empenho que temos em combater a violência contra as mulheres e os negros, os afrobrasileiros, temos também contra a homofobia. A Suprema Corte do meu país reconheceu a união estável entre pessoas do mesmo sexo, assegurando-lhes todos os direitos civis, daí decorrentes.",
+                "Acreditamos firmemente na dignidade de todo ser humano e na universalidade de seus direitos fundamentais. Estes devem ser protegidos de toda seletividade e de toda politização tanto no plano interno como no plano internacional.",
+                "Outro valor fundamental é o respeito à coisa pública e o combate sem tréguas à corrupção.",
+                "A história mostra que só existe uma maneira correta e eficiente de combater a corrupção: o fim da impunidade com o fortalecimento das instituições que fiscalizam, investigam e punem atos de corrupção, lavagem de dinheiro e outros crimes financeiros.",
+                "Essa é uma responsabilidade de cada governo. Responsabilidade que assumimos, ao fortalecer nossas instituições.",
+                "Construímos o Portal Governamental da Transparência que assegura, ao cidadão, acessar os gastos governamentais em 24 horas.",
+                "Aprovamos a Lei de Acesso à Informação que permite ao cidadão, o acesso a qualquer informação do governo, exceto aquelas relativas à soberania do país.",
+                "Fortalecemos e demos autonomia aos órgãos que investigam e também ao que faz o controle interno do governo.",
+                "Criamos leis que punem tanto o corrupto, como o corruptor. O fortalecimento de tais instituições é essencial para o aprimoramento de uma governança aberta e democrática.",
+                "A recente reeleição do Brasil para o Comitê Executivo da \"Parceria para o Governo Aberto\" vai nos permitir contribuir também para governos mais transparentes no plano",
+                "mundial.",
+                "Senhor Presidente,",
+                "É indispensável tomar medidas que protejam eficazmente os direitos humanos tanto no mundo real como no mundo virtual, como preconiza a resolução desta Assembleia sobre a privacidade na era digital.",
+                "O Brasil e a Alemanha provocaram essa importante discussão em 2013 e queremos aprofundá-la nesta Sessão. Servirá de base para a avaliação do tema o relatório elaborado pela Alta Comissária de Direitos Humanos. Em setembro de 2013, propus aqui, no debate geral, a criação de um marco civil para a governança e o uso da Internet com base nos princípios da liberdade de expressão, da privacidade, da neutralidade da rede e da diversidade cultural.",
+                "Noto, com satisfação, que a comunidade internacional tem se mobilizado, desde então, para aprimorar a atual arquitetura de governança da internet. Passo importante nesse processo foi a realização, por iniciativa do Brasil, da Reunião Multissetorial Global sobre o Futuro da Governança da Internet - a NETmundial - em São Paulo, em abril deste ano.",
+                "O evento reuniu representantes de várias regiões do mundo e de diversos setores. Foram discutidos os princípios a seguir e as ações a empreender para garantir que a internet continue a evoluir de forma aberta, democrática, livre, multissetorial e multilateral.",
+                "Senhor Presidente,",
+                "Os Estados-membros e as Nações Unidas têm, hoje, diante de si, desafios de grande magnitude. Estas devem ser as prioridades desta Sessão da Assembleia Geral. O ano de 2015 desponta como um verdadeiro ponto de inflexão.",
+                "Estou certa de que não nos furtaremos a cumprir, com coragem, com lucidez, nossas altas responsabilidades na construção de uma ordem internacional alicerçada na promoção da Paz, no desenvolvimento sustentável, na redução da pobreza e da desigualdade.",
+                "O Brasil está pronto e plenamente determinado a dar sua contribuição.",
+                "Muito obrigada."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-10-08-11h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-discurso_proferido_pela_presidenta_da_republica,_dilma_rousseff,_na_abertura_do_debate_de_alto_nivel_da_69a_assembleia_geral_....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/10/08"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 04 de outubro e 12 de outubro de 2014",
+            "subtitulo": "",
+            "data": "03/10/2014",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-04-de-outubro-e-12-de-outubro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "02 a 04/OUT – Quito, Equador. X Reunião do Foro do Programa de Gestão das Transformações Sociais (MOST) da UNESCO.",
+                "05 a 07/OUT – Quioto, Japão. Fórum Ciência e Tecnologia na Sociedade (\"Science and Technology in Society Forum\" – STS Forum).",
+                "05/OUT – Quioto, Japão. 11ª Mesa Redonda de Ministros de Ciência e Tecnologia, à margem do STS Forum.",
+                "06/OUT – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 3ª Reunião Ministerial sobre Governança e Mercados Internacionais de Produtos de Base.",
+                "06 e 07/OUT – Paris, França. UNESCO. Dia Mundial do Professor. Fórum aberto: “Ensinar hoje”.",
+                "06 e 07/OUT – Montevidéu, Uruguai. UNESCO. Segunda Reunião de Seguimento à Quinta Conferência de Ministros e Altos Funcionários responsáveis por Educação Física e Esporte (MINEPS V) para a região da América Latina e do Caribe.",
+                "06 e 07/OUT – Buenos Aires, Argentina. II Reunião da Comissão de Diversidade Cultural do MERCOSUL.",
+                "06 e 07/OUT – Buenos Aires, Argentina. LXXVIII Foro de Consulta e Concertação Política (FCCP) do MERCOSUL.",
+                "06 a 08/OUT – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho nº 11 \"Saúde\" do MERCOSUL.",
+                "06 a 08/OUT – Astana, Cazaquistão. Fórum Global sobre Governo Eletrônico (\"Global E-Government Forum\").",
+                "06 a 17/OUT – Pyeongchang, República da Coreia. 12ª Reunião da Conferência das Partes na Convenção sobre Diversidade Biológica (COP-12).",
+                "07/OUT – Los Angeles, EUA. Exposição Global sobre Tecnologias Limpas (\"Global Clean Technology Showcase\").",
+                "06 a 09/OUT – Bruxelas, Bélgica. 12ª Semana Europeia das Regiões e Cidades.",
+                "06 a 10/OUT – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho sobre Saúde do Mercosul – SGT 11.",
+                "06 a 10/OUT – Pretória, África do Sul. X Festival de Cinema do GRULAC, no Instituto GIBS, da Universidade Pretória.",
+                "06 a 10/OUT – São João Del Rei, MG. 12º Congresso de Produção Científica e Acadêmica, incluindo Seminário de Internacionalização Universitária, com palestra de abertura da Chefe da DCE.",
+                "06 a 10/OUT – Paris, França. UNESCO. Cerimônia de entrega do Prêmio UNESCO-Hamdan para Prática e Desempenho Excepcionais na Promoção da Eficiência de Professores – Exposição e concerto.",
+                "06 a 10/OUT – Istambul, Turquia. Missão Cultural a Istambul, organizada pelo Centro Cultural Brasil-Anatólia (BAKUM), com a participação do Museu da Casa Brasileira, da Cinemateca Brasileira, do SESC São Paulo e do Instituto Tomie Ohtake.",
+                "07 e 08/OUT – Roma, Itália. Fundo Internacional para o Desenvolvimento Agrícola (FIDA). 3ª Sessão de Consultas referentes à Décima Reposição de Recursos.",
+                "07 e 08/OUT – Roma, Itália. Feira de Turismo, na Galeria Portinari no Palácio Mapphilj, organizado pela Embaixada do Brasil com apoio da Embratur.",
+                "07 e 08/OUT – La Paz, Bolívia. Reunião de Altas Autoridades de Turismo da UNASUL.",
+                "07 e 08/OUT – Buenos Aires, Argentina. XCV Reunião Ordinária do Grupo Mercado Comum (GMC) do MERCOSUL.",
+                "07 a 09/OUT – Moscou, Rússia. Feira Internacional de Educação.",
+                "07 a 09/OUT – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). 70ª Sessão do Comitê de Produtos de Base.",
+                "07 a 10/OUT – Buenos Aires, Argentina. V Reunião Extraordinária da Comissão para a Eliminação de Todas as Formas de Discriminação contra as Pessoas com Deficiência da Organização dos Estados Americanos – CEDDIS.",
+                "07 a 17/10 – Genebra, Suíça. Reunião do Comitê Ad Hoc para a Elaboração de Normas Complementares à Convenção Internacional para a Eliminação de todas as formas de Discriminação Racial.",
+                "07/OUT a 26/NOV – Nova York, EUA. Reunião da III Comissão da 69ª Assembleia-Geral das Nações Unidas.",
+                "08/OUT – Buenos Aires, Argentina. Reunião do Grupo de Trabalho para Incorporação da Venezuela ao MERCOSUL.",
+                "08 e 09/OUT – Santiago, Chile. Reunião de negociadores sobre mudança do clima da América Latina e Caribe.",
+                "08 a 10/OUT – Sun City, África do Sul. Reunião Ministerial dos países do BASIC (Brasil, África do Sul, Índia e China) sobre Mudança do Clima.",
+                "08 a 10/OUT – Port-of-Spain, Trinidad e Tobago. VIII Fórum de Competitividade das Américas.",
+                "08 a 10/OUT – Salvador. II Reunião de Planejamento da Cooperação em Educação Profissional.",
+                "08 a 10/OUT – Montevidéu, Uruguai. Expo ALADI.",
+                "08 a 12/OUT – Paris, França. X Festival de Documentários \"Brésil en Mouvements\".",
+                "09/OUT – Minsk, Bielorrúsia. Festival de arte de rua 'Vulica Brasil'.",
+                "09/OUT – Buenos Aires, Argentina. Reunião de Coordenadores Nacionais e Plenária do Foro Consultivo de Municípios, Estados Federados, Províncias e Departamentos do MERCOSUL.",
+                "09 e 10/OUT – Buenos Aires, Argentina. Reunião da Comissão Intergovernamental de Implementação do Regulamento Sanitário Internacional (CIRSI) no âmbito do MERCOSUL.",
+                "09 e 10/OUT – Paris, França. UNESCO. Reunião do Comitê Gestor da Educação para Todos (EPT).",
+                "09 a 11/OUT – Lima, Peru. I Foro Internacional de Promoção de Investimentos Público Privados no Setor de Saúde \"SUSALUD 2014\".",
+                "10/OUT – Paris, França. UNESCO. Comemoração do Dia Internacional da Menina.",
+                "10/OUT – Roma, Itália. Fundo Internacional para o Desenvolvimento Agrícola (FIDA). 85ª Sessão do Comitê de Avaliação.",
+                "10/OUT – Cidade do Panamá, Panamá. Seminário Regional da Comissão Internacional para a Conservação do Atum Atlântico (ICCAT).",
+                "10/OUT – Buenos Aires, Argentina. Reunião do Subgrupo de Trabalho nº 15 \"Mineração e Geologia\" do MERCOSUL.",
+                "10 a 12/OUT – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião do Grupo Aberto de Trabalho da 2ª Conferência Internacional sobre Nutrição (continuação do encontro em Genebra, de 22 a 23/09/2014).",
+                "10 a 16/OUT – Viena, Áustria. Circuito Internacional de Arte Brasileira (CIAB).",
+                "11/OUT – Los Angeles, EUA. Reunião do Comitê Assessor Governamental (\"Governmental Advisory Committee\" – GAC) da Corporação da Internet para Atribuição de Nomes e Números (ICANN).",
+                "12 a 16/OUT – Los Angeles, EUA. 51ª Reunião da Corporação da Internet para Atribuição de Nomes e Números (ICANN 51).",
+                "12 a 19/OUT – Bruxelas, Bélgica. Viagem acadêmica de alunos da Univates – RS."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-10-03-11h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_04_de_outubro_e_12_de_outubro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/10/03"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Encerramento do Contencioso entre Brasil e Estados Unidos sobre o algodão na OMC (DS267)",
+            "subtitulo": "",
+            "data": "01/10/2014",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/encerramento-do-contencioso-entre-brasil-e-estados-unidos-sobre-o-algodao-na-omc-ds267",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Brasil e os Estados Unidos assinaram hoje, em Washington, Memorando de Entendimento relativo ao Contencioso do Algodão (DS 267), dando por encerrada, de forma exitosa, uma disputa que se estendia há mais de uma década.",
+                "Iniciada pelo Brasil em 2002, a disputa envolveu subsídios domésticos concedidos pelos EUA a seus produtores de algodão, bem como os programas de garantias de crédito à exportação, considerados incompatíveis com o Acordo de Agricultura e o Acordo de Subsídios e Medidas Compensatórias da OMC.",
+                "Nos termos do Memorando assinado hoje, os Estados Unidos se comprometeram a efetuar ajustes no programa de crédito e garantia à exportação GSM-102, que passará a operar dentro de parâmetros bilateralmente negociados, propiciando, assim, melhores condições de competitividade para os produtos brasileiros no mercado internacional. O entendimento bilateral inclui pagamento adicional de US$ 300 milhões, com flexibilização para a aplicação dos recursos, o que contribui para atenuar prejuízos sofridos pelos cotonicultores brasileiros.",
+                "O acordo firmado se restringe apenas ao setor cotonicultor e preserva intactos os direitos brasileiros de questionar ante a OMC, caso necessário, a legalidade da Lei Agrícola norte-americana quanto às demais culturas."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-10-01-11h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-encerramento_do_contencioso_entre_brasil_e_estados_unidos_sobre_o_algodao_na_omc_(ds267).html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/10/01"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

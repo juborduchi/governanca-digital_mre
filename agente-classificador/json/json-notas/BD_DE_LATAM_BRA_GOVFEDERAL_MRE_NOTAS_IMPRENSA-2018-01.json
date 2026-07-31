@@ -1,0 +1,1108 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentado na Colômbia",
+            "subtitulo": "",
+            "data": "30/01/2018",
+            "horario": "19h38",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/01/2018"
+            ],
+            "horario_atualizado": [
+                "12h15"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentado-na-colombia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro repudia os atos de violência ocorridos na Colômbia, no último fim de semana, nos quais foram mortas ao menos sete pessoas e feridas cerca de 50.",
+                "O Brasil manifesta suas condolências às famílias das vítimas, ao povo e ao governo colombianos e faz votos de pronta recuperação aos feridos.",
+                "O governo brasileiro reitera sua expectativa de que possam ser restabelecidas as condições para a retomada do diálogo entre o governo da Colômbia e o Exército de Libertação Nacional. Confirma, nesse sentido, sua melhor disposição para seguir contribuindo, como garante, para o êxito das negociações do processo de paz."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-30-19h38-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentado_na_colombia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/30"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentado em Cabul",
+            "subtitulo": "",
+            "data": "27/01/2018",
+            "horario": "23h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "30/01/2018"
+            ],
+            "horario_atualizado": [
+                "13h59"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentado-em-cabul-afeganistao-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com consternação, do ataque terrorista, ocorrido em 27 de janeiro, em Cabul, que deixou cerca de cem mortos e mais de uma centena de feridos. Ao expressar suas condolências às famílias das vítimas, seus votos de plena recuperação aos feridos e sua solidariedade ao povo e ao governo afegãos, o Brasil reitera veementemente seu repúdio a todo e qualquer ato de terrorismo, independentemente de sua motivação."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-27-23h45-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentado_em_cabul.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/27"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Restauração da Basílica da Natividade",
+            "subtitulo": "",
+            "data": "27/01/2018",
+            "horario": "21h49",
+            "datatime": "NA",
+            "data_atualizado": [
+                "01/02/2018"
+            ],
+            "horario_atualizado": [
+                "19h39"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/restauracao-da-basilica-da-natividade",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro aprovou a doação de R$ 792 mil para a restauração da Basílica da Natividade, na cidade de Belém (Palestina). Construída a partir do século IV, para marcar o local do nascimento de Jesus, a basílica é visitada por aproximadamente 3 milhões de peregrinos e turistas anualmente.",
+                "Em 2008, o governo palestino e as três denominações cristãs presentes no edifício – greco-ortodoxa, armênia e católica romana – lançaram, em coordenação e sob a supervisão da Unesco, iniciativa de restauração do monumento. O projeto conta com auditoria internacional independente da empresa  Deloitte & Touche.",
+                "O governo palestino e seus parceiros internacionais já arrecadaram US$ 10 milhões, cerca de metade dos recursos necessários para a restauração do edifício. Os recursos já permitiram a restauração de elementos como o teto, as janelas e diversas partes das fachadas. Encontra-se em andamento a restauração de 20 das 50 colunas da estrutura, muitas das quais contêm pinturas de motivos religiosos cristãos. As próximas etapas incluirão a restauração do restante das colunas e do mármore e dos mosaicos do piso.",
+                "Além do Brasil, participam do projeto Alemanha, Bélgica, Chile, Espanha, França, Grécia, Hungria, Itália, Marrocos, Polônia, Rússia, Santa Sé e Turquia, assim como entidades e empresas palestinas e estrangeiras e indivíduos de diversas nacionalidades."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-27-21h49-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-restauracao_da_basilica_da_natividade.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/27"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 29 de janeiro e 04 de fevereiro de 2018",
+            "subtitulo": "",
+            "data": "26/01/2018",
+            "horario": "21h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "09/02/2018"
+            ],
+            "horario_atualizado": [
+                "21h28"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-04-e-10-de-dezembro-de-2022",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "15/JAN a 02/FEV – (continuação) Genebra, Suíça. 77ª sessão do Comitê para os Direitos da Criança.",
+                "22/JAN a 30/MAR – (continuação). Genebra, Suíça. Parte I da sessão 2018 da Conferência sobre Desarmamento.",
+                "29/JAN – Brasília. Rodada da Sala de Inovação.",
+                "29/JAN – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião preparatória do GRULAC para a 35ª Conferência Regional + Plenária e Transferência da Presidência Pro Tempore.",
+                "29/JAN – Genebra, Suíça. Eventos por ocasião do Dia Internacional em Memória das Vítimas do Holocausto, celebrado no dia 27 de janeiro (ONU-Genebra).",
+                "29 e 30/JAN - Visita do Ministro das Relações Exteriores, Aloysio Nunes Ferreira, à Bélgica, por ocasião da Reunião Ministerial Mercosul- União Europeia",
+                "29 a 31/JAN – Cidade do Panamá, Panamá. Reunião regional preparatória à 2ª reunião do processo intersecional em preparação à 5ª Conferência Internacional para a Gestão de Substâncias Químicas.",
+                "29 a 31/JAN – Genebra, Suíça. Reunião final do Grupo de Trabalho sobre Cooperação Aprimorada da Comissão de Ciência e Tecnologia para Desenvolvimento da ONU.",
+                "29 a 31/JAN – Genebra, Suíça. 55ª sessão do \"bureau\" do Painel Intergovernamental sobre Mudanças Climáticas.",
+                "29/JAN a 02/FEV – Genebra, Suíça. 21ª sessão do Grupo de Trabalho sobre Situações (Conselho de Direitos Humanos).",
+                "29/JAN a 02/FEV – Genebra, Suíça. 31ª sessão do Conselho de Administração do Fundo Voluntário das Nações Unidas para os Povos Indígenas.",
+                "29/JAN a 09/FEV – Viena, Áustria. 55ª Sessão do Subcomitê Técnico e Científico do Comitê das Nações Unidas sobre os Usos Pacíficos do Espaço Exterior (COPUOS).",
+                "30/JAN – Rio de Janeiro. Reunião de avaliação dos projetos do segundo ciclo do Brasil Lab.",
+                "30/JAN – Roma, Itália. Programa Mundial de Alimentos (PMA). Reuniões de listas regionais com a Diretoria Executiva.",
+                "30/JAN – Roma, Itália. Fundo Internacional de Desenvolvimento Agrícola (FIDA). 1ª Reunião Coordenadores e Amigos.",
+                "30 e 31/JAN – Nova York, EUA. 7º Fórum da Juventude do Conselho Econômico e Social da ONU (ECOSOC).",
+                "30 e 31/JAN – Paris, França. Grupo de Trabalho sobre Estatísticas de Financiamento para o Desenvolvimento (WP-STAT), mantido no âmbito do Comitê de Cooperação para o Desenvolvimento (DAC) da Organização para a Cooperação e Desenvolvimento Econômico (OCDE).",
+                "31/JAN – Nova York, EUA. Reunião mensal do Grupo da América Latina e do Caribe na ONU (GRULAC).",
+                "31/JAN – Nova York, EUA. Reunião do Comitê Organizacional da Comissão de Consolidação da Paz (PBC).",
+                "31/JAN – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião do Grupo Consultivo do Comitê de Segurança Alimentar Mundial (CFS).",
+                "31/JAN – Roma, Itália. Fundo Internacional de Desenvolvimento Agrícola (FIDA). 147ª Reunião do Comitê de Auditoria.",
+                "31/JAN – Genebra, Suíça. 55ª sessão do Bureau do Painel Intergovernamental de Mudança do Clima (IPCC).",
+                "1/FEV – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião informal de Parceiros de Recursos - briefing sobre a resposta da FAO às emergências atuais.",
+                "01 e 02/FEV – Nova York, EUA. Primeira rodada das Negociações Intergovernamentais sobre a reforma do Conselho de Segurança (IGNs).",
+                "01 e 02/FEV – Roma, Itália. Fundo Internacional de Desenvolvimento Agrícola (FIDA). 28ª Reunião da ONU-Água.",
+                "01 e 02/FEV – Londres, Reino Unido. Reunião informal sobre a Estratégia de Redução de Gases de Efeito Estufa na Organização Marítima Internacional."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-26-21h30-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_29_de_janeiro_e_04_de_fevereiro_de_2018.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/26"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Incêndio em hospital na Coreia do Sul",
+            "subtitulo": "",
+            "data": "26/01/2018",
+            "horario": "20h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "01/02/2018"
+            ],
+            "horario_atualizado": [
+                "19h36"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/incendio-em-hospital-na-coreia-do-sul",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com pesar, do incêndio ocorrido no hospital Sejong, em Miryang (Coreia do Sul), que resultou na morte de pelo menos 37 pessoas e em mais de uma centena de feridos.",
+                "Neste difícil momento para a cidade de Miryang e para as famílias afetadas, o governo brasileiro manifesta sua solidariedade ao governo da República da Coreia e ao povo sul-coreano."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-26-20h46-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-incendio_em_hospital_na_coreia_do_sul.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/26"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentado na Líbia",
+            "subtitulo": "",
+            "data": "24/01/2018",
+            "horario": "21h12",
+            "datatime": "NA",
+            "data_atualizado": [
+                "30/01/2018"
+            ],
+            "horario_atualizado": [
+                "13h48"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentado-na-libia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro condena veementemente o ataque ocorrido ontem à noite nas proximidades de uma mesquita em Benghazi, no leste da Líbia, que vitimou ao menos 30 pessoas, inclusive civis.",
+                "Ao transmitir aos familiares das vítimas e ao povo líbio sua solidariedade, o Brasil reitera seu firme repúdio a todos os atos de terrorismo.",
+                "O governo brasileiro insta todas as forças políticas e militares na Líbia a redobrarem seus esforços em favor de uma solução política, conforme o plano de ação auspiciado pelo representante especial do secretário-geral da ONU para a Líbia, com vistas à obtenção da paz e estabilidade duradouras e à efetiva contenção de grupos extremistas naquele país."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-24-21h12-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentado_na_libia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/24"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "IV Declaração do Grupo de Lima",
+            "subtitulo": "",
+            "data": "23/01/2018",
+            "horario": "22h01",
+            "datatime": "NA",
+            "data_atualizado": "NA",
+            "horario_atualizado": "NA",
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/iv-declaracao-do-grupo-de-lima",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os ministros das Relações Exteriores e representantes da Argentina, Brasil, Canadá, Chile, Colômbia, Costa Rica, Guatemala, Guiana, Honduras, México, Panamá, Paraguai, Peru e Santa Lúcia, reunidos na cidade de Santiago do Chile, em 23 de janeiro de 2018, para continuar avaliando a situação na Venezuela:",
+                "1. Rejeitam a decisão do governo da Venezuela de convocar eleições presidenciais para o primeiro trimestre deste ano. Esta decisão torna impossível a realização de eleições presidenciais democráticas, transparentes e confiáveis, de acordo com os padrões internacionais, e contradiz os princípios democráticos e de boa fé para o diálogo entre o governo e a oposição.",
+                "2. Exigem que as eleições presidenciais sejam convocadas com antecipação adequada, com a participação de todos os atores políticos venezuelanos e com todas as garantias correspondentes, inclusive a participação de observadores internacionais independentes. Eleições que não atendam a essas condições não terão legitimidade ou credibilidade.",
+                "3. Condenam os atos de violência, com a consequente perda de vidas humanas, e instamos o governo venezuelano a adotar medidas urgentes para garantir o estado de direito, os direitos fundamentais do povo e recuperar a paz social. Exigem, também, uma investigação imparcial sobre as alegadas execuções extrajudiciais.",
+                "4. Destacam as ações individuais e coletivas de vários atores da comunidade internacional para incentivar o retorno imediato à normalidade democrática na Venezuela. Em particular, a liderança e a iniciativa do presidente da República Dominicana, Danilo Medina, de convocar um diálogo entre o governo e a oposição venezuelana.",
+                "5. Reiteram seu pleno apoio à Assembleia Nacional democraticamente eleita e exigem que a ela sejam devolvidos os poderes que lhe cabem legitimamente, como um passo indispensável para o retorno da democracia nesse país.",
+                "6. Reafirmam a falta de legitimidade e legalidade dos atos que emanam da assembleia nacional constituinte e condenam as medidas que adotou e que resultaram no aprofundamento do conflito social e na erosão das liberdades na Venezuela.",
+                "7. Condenam o fato de que a Venezuela mantenha presos políticos, cuja libertação incondicional é um requisito indispensável para a pacificação do país.",
+                "8. Deploram que, apesar de a situação humanitária continuar a piorar na Venezuela, o governo venezuelano permaneça relutante em aceitar assistência humanitária, o que se reflete no agravamento das taxas de desnutrição infantil, na falta de alimentos e de medicamentos e no ressurgimento de doenças que haviam sido erradicadas. Reiteram sua vontade de ajudar.",
+                "9. Expressam sua profunda preocupação com o êxodo de milhares de venezuelanos que, em razão da crise humanitária nesse país, atravessam fronteiras todos os dias; e reconhecem o desafio que esta situação representa para os países da região, especialmente para os seus vizinhos, inclusive os estados do Caribe. Comprometem-se a expandir e promover ações de cooperação internacional para fortalecer as capacidades dos países da região e instam a comunidade internacional, especialmente o Sistema das Nações Unidas, a apoiar esses esforços.",
+                "10. Continuarão a monitorar a situação na Venezuela e se reunirão quando necessário.",
+                "Santiago do Chile, 23 de janeiro de 2018"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-23-22h01-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-iv_declaracao_do_grupo_de_lima.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/23"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Concessão de “agrément” ao embaixador do Brasil na Albânia",
+            "subtitulo": "",
+            "data": "19/01/2018",
+            "horario": "15h34",
+            "datatime": "NA",
+            "data_atualizado": [
+                "16/02/2018"
+            ],
+            "horario_atualizado": [
+                "15h12"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/concessao-de-agrement-ao-embaixador-do-brasil-na-albania-jan-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tem a satisfação de informar que o governo da Albânia concedeu \"agrément\" a Francisco Carlos Ramalho de Carvalho Chagas como embaixador extraordinário do Brasil naquele país. De acordo com a Constituição, essa designação ainda deverá ser submetida à apreciação do Senado Federal.\n  \n\n  Francisco Carvalho Chagas ingressou no Serviço Exterior Brasileiro como oficial de chancelaria e, já como diplomata, serviu nas embaixadas do Brasil em Madri, Montevidéu, Tóquio e Buenos Aires, bem como no consulado-geral em Chicago. Desde 2013 é ministro-conselheiro na embaixada do Brasil em Budapeste. No Brasil, chefiou a Divisão Consular, a Divisão Econômica da América do Sul e a Coordenação-Geral de Modernização.",
+                "Mais sobre as relações bilaterais Brasil-Albânia"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-19-15h34-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-concessao_de_\"agrement\"_ao_embaixador_do_brasil_na_albania.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/19"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Brasil dá início a processo de adesão à IRENA",
+            "subtitulo": "",
+            "data": "19/01/2018",
+            "horario": "14h19",
+            "datatime": "NA",
+            "data_atualizado": [
+                "01/02/2018"
+            ],
+            "horario_atualizado": [
+                "12h25"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/brasil-da-inicio-a-processo-de-adesao-a-irena",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou hoje a decisão de solicitar acessão à Agência Internacional de Energia Renovável (\"International Renewable Energy Agency\", IRENA).",
+                "A iniciativa é demonstração da importância que o Brasil devota às energias renováveis, ao combate à mudança do clima e ao desenvolvimento sustentável, bem como ao engajamento construtivo na governança internacional .",
+                "A IRENA foi criada em 2009, com sede em Abu Dhabi. Atualmente, conta com 154 Estados Membros, além de 26 Estados em proceso de adesão.",
+                "A Agência Internacional de Energia Renovável tem como principal missão auxiliar e apoiar países na transição para uma matriz energética sustentável, servindo como repositório e disseminador de conhecimento e boas práticas, plataforma de diálogo, e provedora de serviços, ferramentas técnicas, análises e de projetos de cooperação na área de energia renovável.",
+                "Com a decisão de solicitar a acessão à IRENA, o Brasil reforça o seu engajamento na governança internacional da energia, dando continuidade a um processo que, apesar de recente, já levou, entre outros resultados, à assinatura de acordo de associação do país com a Agência Internacional de Energia, bem como ao lançamento da Plataforma para o Biofuturo, iniciativa multilateral para promoção da bioenergia, concebida e liderada pelo Brasil."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-19-14h19-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-brasil_da_inicio_a_processo_de_adesao_a_irena.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/19"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentado em Bagdá",
+            "subtitulo": "",
+            "data": "15/01/2018",
+            "horario": "21h56",
+            "datatime": "NA",
+            "data_atualizado": [
+                "01/02/2018"
+            ],
+            "horario_atualizado": [
+                "12h24"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentado-em-bagda-jan-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro recebeu com pesar a notícia de atentados a bomba perpetrados hoje no Iraque, em áreas de grande circulação na capital Bagdá, que deixaram cerca de três dezenas de vítimas fatais e de seis dezenas de feridos.",
+                "O Brasil reafirma sua condenação a todo ato de terrorismo e manifesta sua solidariedade às famílias das vítimas, ao povo e ao governo do Iraque.",
+                "O Brasil reitera, ainda, seu apoio ao Iraque na consolidação da segurança, estabilidade, integridade territorial e democracia iraquianas, especialmente no contexto dos preparativos para as eleições nacionais a serem realizadas em maio próximo."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-15-21h56-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentado_em_bagda.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/15"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Terremoto na região sul do Peru",
+            "subtitulo": "",
+            "data": "14/01/2018",
+            "horario": "15h55",
+            "datatime": "NA",
+            "data_atualizado": [
+                "01/02/2018"
+            ],
+            "horario_atualizado": [
+                "12h18"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/terremoto-na-regiao-sul-do-peru",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com consternação, do terremoto que atingiu a região sul do Peru no dia 14 de janeiro, que causou ao menos duas mortes e deixou grande número de feridos.",
+                "Aos transmitir suas condolências aos familiares dos falecidos, o governo brasileiro manifesta sua solidariedade às populações afetadas e ao governo do Peru.",
+                "Não há, até o momento, registro de brasileiros entre as vítimas. O Itamaraty seguirá acompanhando a situação, por meio da Embaixada do Brasil em Lima e da Divisão de Assistência Consular (DAC) em Brasília.",
+                "Para casos de urgência, o telefone de plantão consular da Embaixada em Lima é:",
+                "+51 985 039 263",
+                "Em Brasília, o Núcleo de Assistência a Brasileiros do Itamaraty pode ser acionado pelos telefones +55 61 2030 8803/8804 (das 8h às 20h) e + 55 61-98197-2284 (Plantão Consular, das 20h às 8h) e pelo e-mail dac@itamaraty.gov.br.",
+                "Os contatos acima destinam-se exclusivamente a emergências. O atendimento à imprensa será feito apenas pelo e-mail imprensa@itamaraty.gov.br e pelos telefones +55 61 2030 8006 e +55 61 98197 2229."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-14-15h55-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-terremoto_na_regiao_sul_do_peru.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/14"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Prêmio concedido ao Brasil pela Associação de Controle de Armas",
+            "subtitulo": "",
+            "data": "13/01/2018",
+            "horario": "21h50",
+            "datatime": "NA",
+            "data_atualizado": [
+                "01/02/2018"
+            ],
+            "horario_atualizado": [
+                "12h16"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/premio-concedido-ao-brasil-pela-associacao-de-controle-de-armas",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "A “Arms Control Association” (ACA) agraciou as delegações de desarmamento do Brasil, África do Sul, Áustria, Irlanda, México e Nova Zelândia e a embaixadora Elayne Whyte Gómez (Costa Rica) com o prêmio “Arms Control Persons of the Year” pela liderança nas negociações que levaram à adoção do Tratado para a Proibição de Armas Nucleares (TPAN).",
+                "O TPAN foi negociado ao longo de 2017, ao abrigo da Assembleia Geral das Nações Unidas, e preenche lacuna na área de desarmamento, ao banir as armas nucleares. Trata-se de importante vitória das Nações Unidas e do multilateralismo.",
+                "Primeiro país a assinar o TPAN, o Brasil congratula-se com os demais países que receberam a homenagem, reafirma seu compromisso constitucional com o uso pacífico da energia nuclear e conclama a comunidade internacional a engajar-se nos esforços que levem à completa e irreversível eliminação das armas nucleares.",
+                "O prêmio é concedido desde 2007 pela ACA, uma das principais organizações internacionais não governamentais em matéria de desarmamento e não proliferação. A escolha dos países que lideraram as negociações do TPAN reflete a crescente mobilização internacional em favor do desarmamento nuclear. O prêmio será entregue em Washington em 19 de abril, na reunião anual da ACA."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-13-21h50-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-premio_concedido_ao_brasil_pela_associacao_de_controle_de_armas.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/13"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Declaração dos países garantes do processo de diálogos para a paz entre o governo da Colômbia e o Exército de Libertação Nacional",
+            "subtitulo": "",
+            "data": "12/01/2018",
+            "horario": "21h40",
+            "datatime": "NA",
+            "data_atualizado": "NA",
+            "horario_atualizado": "NA",
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/declaracao-dos-paises-garantes-do-processo-de-dialogos-para-a-paz-entre-o-governo-da-colombia-e-o-exercito-de-libertacao-nacional",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os países garantes – Brasil, Chile, Cuba, Equador, Noruega e Venezuela –, em razão do impasse produzido em 10 de janeiro de 2018, no início do V Ciclo, atestamos que as duas partes expressaram sua vontade de superar este momento e continuar as conversas conducentes à paz.",
+                "A Colômbia merece a paz que o povo, a região e a comunidade internacional desejam.",
+                "Pedimos que as duas partes iniciem o V Ciclo com a urgência que a situação requer.",
+                "Instamos a que, neste V Ciclo, seja assumida como prioridade a negociação de um novo cessar-fogo, juntamente com outros itens da agenda.",
+                "Pedimos que as partes evitem uma escalada que ponha em perigo os progressos alcançados no processo de negociação e no cessar-fogo anterior.",
+                "Reiteramos o apoio dos países garantes ao processo de paz na Colômbia até que se alcance uma paz completa e duradoura."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-12-21h40-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-declaracao_dos_paises_garantes_do_processo_de_dialogos_para_a_paz_entre_o_governo_da_colombia_e_o_exercito_de_libertacao_naci....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/12"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "14": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Processo de paz na Colômbia",
+            "subtitulo": "",
+            "data": "11/01/2018",
+            "horario": "18h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "11/01/2018"
+            ],
+            "horario_atualizado": [
+                "18h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/processo-de-paz-na-colombia2",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro lamenta os atos de violência que se seguiram ao fim do cessar-fogo bilateral e provisório entre o governo da Colômbia e o Exército de Libertação Nacional. O Brasil manifesta sua confiança em que logo sejam retomadas as tratativas entre as Partes e criadas as condições para o estabelecimento de novo cessar-fogo. O governo brasileiro renova sua melhor disposição para seguir contribuindo, como garante, para o êxito das negociações do processo de paz."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-11-18h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-processo_de_paz_na_colombia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/11"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "15": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Reunião intercoreana em Panmunjon",
+            "subtitulo": "",
+            "data": "09/01/2018",
+            "horario": "21h33",
+            "datatime": "NA",
+            "data_atualizado": [
+                "10/01/2018"
+            ],
+            "horario_atualizado": [
+                "14h17"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reuniao-intercoreana-em-panmunjon",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro manifesta satisfação pela reunião de 9 de janeiro entre representantes dos governos da República da Coreia e da República Popular Democrática da Coreia, em Panmunjon, na Zona Desmilitarizada entre os dois Estados.",
+                "A decisão da República Popular Democrática da Coreia de enviar delegação aos Jogos Olímpicos de Inverno de PyeongChang, em atenção a convite do governo da República da Coreia, é demonstração da vitalidade da diplomacia e do espírito olímpico."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-09-21h33-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_intercoreana_em_panmunjon.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/09"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "16": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Naufrágio na costa da Líbia",
+            "subtitulo": "",
+            "data": "09/01/2018",
+            "horario": "21h08",
+            "datatime": "NA",
+            "data_atualizado": "NA",
+            "horario_atualizado": "NA",
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/naufragio-na-costa-da-libia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro tomou conhecimento, com pesar, do naufrágio de uma embarcação na costa da Líbia que deixou dezenas de mortos ou desaparecidos no último fim de semana.",
+                "Ao expressar suas condolências às famílias dos envolvidos na tragédia e sua solidariedade com os governos dos países de origem das vítimas, o Brasil volta a conclamar a comunidade internacional a concentrar esforços na busca de medidas efetivas para atenuar o drama dos refugiados."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-09-21h08-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-naufragio_na_costa_da_libia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/09"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "17": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Situação do brasileiro Jonatan Moisés Diniz",
+            "subtitulo": "",
+            "data": "04/01/2018",
+            "horario": "20h25",
+            "datatime": "NA",
+            "data_atualizado": [
+                "12/01/2018"
+            ],
+            "horario_atualizado": [
+                "13h07"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/situacao-do-brasileiro-jonatan-moises-diniz",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Desde que tomou conhecimento de declarações do militar e político venezuelano Diosdado Cabello, em seu programa de televisão no dia 27 de dezembro, de que o cidadão brasileiro Jonatan Moisés Diniz teria sido detido, o governo brasileiro procurou inúmeras vezes as autoridades desse país, tanto em Brasília quanto em Caracas.",
+                "O Consulado-Geral do Brasil em Caracas entrou em contato com as autoridades policiais venezuelanas expressando preocupação e pedindo informações sobre a presença do cidadão brasileiro na Venezuela, bem como sua situação jurídica e autorização para visita consular, nos termos da Convenção de Viena sobre Relações Consulares, da qual os dois países são signatários. Até o momento, as autoridades policiais não responderam, apesar dos reiterados pedidos brasileiros, formalizados por notas diplomáticas.",
+                "Paralelamente, a Embaixada do Brasil em Caracas vem fazendo gestões contínuas junto ao Ministério das Relações Exteriores da Venezuela e às autoridades de segurança desse país, em busca de mais informações sobre o paradeiro do nacional brasileiro. Até o momento, apesar da promessa de retorno dos interlocutores, não houve resposta. Em Brasília, instada a fazê-lo, a embaixada venezuelana tampouco prestou qualquer esclarecimento.",
+                "O Brasil solicita às autoridades da Venezuela que respondam rapidamente aos diversos pedidos de informação sobre a localização de nosso compatriota e sua situação jurídica, bem como de visita consular, cursados nos termos das convenções internacionais e de acordo com as obrigações assumidas pelos dois países à luz do direito internacional.",
+                "Tanto o consulado brasileiro em Caracas quanto o Itamaraty têm mantido contato com a família de Jonatan Moisés Diniz."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-04-20h25-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-situacao_do_brasileiro_jonatan_moises_diniz.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/04"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "18": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Eleições presidenciais na Libéria",
+            "subtitulo": "",
+            "data": "04/01/2018",
+            "horario": "20h23",
+            "datatime": "NA",
+            "data_atualizado": [
+                "04/01/2018"
+            ],
+            "horario_atualizado": [
+                "22h04"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/eleicoes-presidenciais-na-liberia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O governo brasileiro congratula-se com o presidente-eleito George Weah e cumprimenta o povo e o governo da Libéria pela realização pacífica e ordeira dos dois turnos das eleições presidenciais, bem como das eleições legislativas.",
+                "Ao desejar ao novo governo votos de pleno êxito, o governo brasileiro reitera seu compromisso de continuar trabalhando com as autoridades liberianas com vistas ao contínuo estreitamento dos laços de amizade e de cooperação entre os dois países."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2018-01-04-20h23-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-eleicoes_presidenciais_na_liberia.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2018/01/04"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2018-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

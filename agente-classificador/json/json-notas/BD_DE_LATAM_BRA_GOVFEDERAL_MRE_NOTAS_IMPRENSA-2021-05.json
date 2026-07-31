@@ -1,0 +1,917 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Comemoração do 5° aniversário do Programa LAC/OCDE",
+            "subtitulo": "",
+            "data": "31/05/2021",
+            "horario": "18h38",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/comemoracao-do-5deg-aniversario-do-programa-lac-ocde",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Brasil e o México copresidiram, em 28/05/2021, a XII Reunião do Grupo Diretor do Programa Regional da OCDE para a América Latina e o Caribe (Programa LAC), ocasião em que foi celebrado o aniversário de 5 anos da iniciativa.",
+                "O evento de alto nível contou com a participação do Secretário-Geral da OCDE, Angel Gurría, do Secretário-Geral eleito da OCDE, Mathias Cormann, de líderes da região (Presidentes da Costa Rica e Vice-Presidentes de Honduras e El Salvador), além de Ministros das Relações Exteriores de países latino-americanos e de titulares de organismos internacionais parceiros, como a CEPAL, a OEA, o BID e o Banco Mundial.",
+                "O encontro permitiu amplo debate sobre a recuperação econômica na esteira da pandemia da COVID-19 e o papel da OCDE no apoio ao desenvolvimento regional. Os participantes compartilharam experiências sobre as reformas estruturais necessárias para promover economias resilientes e sustentáveis, capazes de melhorar o bem-estar e garantir melhores condições de vida para os cidadãos.",
+                "Como copresidentes do Programa, os representantes do Ministério das Relações Exteriores do Brasil e da Secretaria de Relações Exteriores do México abriram a reunião. O Secretário de Comércio Exterior e Assuntos Econômicos do Itamaraty, Emb. Sarquis J. B. Sarquis, ressaltou a importância do Programa LAC como canal para facilitar o diálogo da América Latina e Caribe com a OCDE e promover a resiliência, a coesão social e a recuperação econômica da região.",
+                "A presença brasileira no Programa LAC tem sido uma das principais vertentes de atuação do país na OCDE. O Programa atua nas áreas de aumento da produtividade, ampliação da inclusão social e fortalecimento das instituições e da governança. Tem fornecido uma plataforma eficaz e de alto nível para o diálogo político que aproxima os países da América Latina às melhores práticas internacionais. Nesse contexto, o Brasil tem-se beneficiado da experiência da Organização e do diálogo com os parceiros regionais para subsidiar a elaboração de suas políticas públicas."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-05-31-18h38-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-comemoracao_do_5deg_aniversario_do_programa_lac-ocde.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/05/31"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "63"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Adoção do relatório do Grupo de Peritos Governamentais das Nações Unidas sobre segurança cibernética",
+            "subtitulo": "",
+            "data": "31/05/2021",
+            "horario": "18h19",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/adocao-do-relatorio-do-grupo-de-peritos-governamentais-das-nacoes-unidas-sobre-seguranca-cibernetica",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro recebeu, com satisfação, a adoção por consenso, em 28 de maio corrente, do relatório do Grupo de Peritos Governamentais (“Group of Governmental Experts” - GGE) das Nações Unidas sobre Segurança Cibernética. Estabelecido pela resolução A/RES/73/266 da Assembleia Geral das Nações Unidas, o GGE contou com a participação de peritos de 25 países e foi presidido pelo perito brasileiro, o Embaixador Guilherme Patriota.",
+                "A adoção do relatório permitiu o aprofundamento e expansão dos entendimentos comuns sobre o tema da segurança cibernética, com base nas normas voluntárias de comportamento responsável no ciberespaço adotadas por consenso em 2015 pela Assembleia Geral das Nações Unidas (A/RES/70/237).",
+                "Os principais temas foram as ameaças existentes e potenciais no espaço cibernético; a aplicação do Direito Internacional nesse ambiente; medidas de transparência e construção de confiança e cooperação para a construção de capacidades na área cibernética.",
+                "Ao congratular-se com os demais 24 peritos do Grupo pelo resultado alcançado, o governo brasileiro renova seu compromisso com os esforços internacionais em prol de um espaço cibernético aberto, seguro, estável e pacífico."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-05-31-18h19-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-adocao_do_relatorio_do_grupo_de_peritos_governamentais_das_nacoes_unidas_sobre_seguranca_cibernetica.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/05/31"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "62"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Visita de comitiva de embaixadores estrangeiros a Itaipu Binacional — Nota Conjunta do Ministério das Relações Exteriores e do Ministério de Minas e Energia",
+            "subtitulo": "27 e 28 de maio de 2021",
+            "data": "26/05/2021",
+            "horario": "18h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/visita-de-comitiva-de-embaixadores-estrangeiros-a-itaipu-binacional-nota-conjunta-do-ministerio-das-relacoes-exteriores-e-do-ministerio-de-minas-e-energia",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "A convite dos Ministros das Relações Exteriores, Carlos Alberto Franco França, e de Minas e Energia, Bento Albuquerque, e do Diretor-Geral brasileiro, João Francisco Ferreira, comitiva de embaixadores estrangeiros visita Itaipu Binacional nos dias 27 e 28 de maio. Participam os embaixadores de Alemanha, Austrália, Dinamarca, Espanha, Estados Unidos, França, Índia, Reino Unido e União Europeia.",
+                "Além de permitir conhecer Itaipu Binacional e suas ações de sustentabilidade, a visita servirá para apresentar o planejamento do setor elétrico brasileiro, com ênfase na incorporação de energias renováveis e nas oportunidades de cooperação e investimentos que se abrem com a modernização do setor e a transição energética.",
+                "A matriz elétrica brasileira é composta em 85% por energias renováveis, contra 28% da média mundial. O País é líder em tecnologias de energia limpa e ocupa o segundo lugar no mundo em geração hidrelétrica. De acordo com o planejamento energético nacional, a matriz elétrica brasileira deverá contar, em 2030, com 86% de renováveis, com crescimento substancial das fontes solar e eólica.",
+                "Itaipu Binacional, por sua vez, é responsável por 10,8% da energia elétrica consumida no Brasil. A empresa é líder mundial na produção de energia limpa e referência em ações de desenvolvimento sustentável. O Parque Tecnológico de Itaipu abriga o Núcleo de Pesquisa em Hidrogênio, com vocação para tornar-se um dos principais centros nacionais de pesquisa e desenvolvimento desse energético estratégico.",
+                "O governo brasileiro tem desenvolvido intensa agenda de cooperação internacional no setor de energia, com ênfase crescente em fontes limpas e renováveis. O setor de energia e mineração foi o que mais recebeu investimentos estrangeiros em 2020, sendo responsável por 26% do total dos investimentos externos realizados no Brasil, totalizando aproximadamente R$ 45 bilhões. Em 2021, o setor de energia elétrica deverá investir cerca de R$ 24 bilhões, gerando mais de 20 mil empregos. Segundo o planejamento energético nacional, até 2030, o setor de energia como um todo poderá contar com investimentos de até R$ 2,7 trilhões.",
+                "Em 2021, o Brasil, juntamente com outros parceiros internacionais, foi indicado como um dos países líderes do Diálogo de Alto Nível das Nações Unidas sobre Energia, iniciativa que visa contribuir para o cumprimento do Objetivo do Desenvolvimento Sustentável 7 (acesso universal a energia limpa) e acelerar o processo de transição energética global para uma economia de baixo carbono."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-05-26-18h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-visita_de_comitiva_de_embaixadores_estrangeiros_a_itaipu_binacional_--_nota_conjunta_do_ministerio_das_relacoes_exteriores_e_d....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/05/26"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "61"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Cessar-fogo na Faixa de Gaza",
+            "subtitulo": "",
+            "data": "21/05/2021",
+            "horario": "19h44",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/cessar-fogo-na-faixa-de-gaza",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro recebeu com esperança o anúncio de cessar-fogo, que passou a vigorar a partir desta madrugada na Faixa de Gaza. Ao agradecer os bons ofícios do Egito e do Catar na mediação pelo fim das hostilidades, o Governo brasileiro manifesta confiança que as partes envolvidas se engajem na implementação dos compromissos firmados e trabalhem pelo restabelecimento da calma. O Brasil reafirma sua disposição de contribuir para a estabilidade regional.",
+                "O governo brasileiro acompanhou ao longo da semana com grande preocupação a última escalada de tensões entre israelenses e palestinos. O Brasil lamenta profundamente que tais enfrentamentos, ocorridos em Jerusalém e posteriormente estendidos a outras localidades e à Faixa de Gaza, tenham acarretado ampla destruição, milhares de feridos e a irreparável perda de vidas humanas de ambos os lados.",
+                "Nos últimos dias, o governo brasileiro manteve intensa agenda diplomática a respeito e monitorou permanentemente a situação naquela porção do Oriente Médio por meio de sua rede de representações diplomáticas, inclusive no que concerne à assistência consular a nacionais brasileiros na região. Em 19 de maio último, o Ministro das Relações Exteriores, Embaixador Carlos França, conversou, por telefone, com o Ministro dos Negócios Estrangeiros de Israel, General Gabi Ashkenazi, ocasião em que manifestou o repúdio brasileiro ao lançamento indiscriminado de foguetes a partir da Faixa de Gaza, que têm como alvo a população civil, e o apoio ao direito israelense de defender-se e de proteger sua população de tais ataques. Ao mesmo tempo, conclamou todos os países ao respeito estrito do direito internacional humanitário no emprego da força.",
+                "Hoje, 21 de maio, o Ministro Carlos França reuniu-se com representantes de países árabes acreditados em Brasília, quando ouviu as preocupações de tais países com as consequências humanitárias, econômicas e políticas advindas do conflito. Na ocasião, transmitiu apelo em favor da desescalada de ânimos e, em relação a Jerusalém, reiterou o apoio brasileiro a ações capazes de evitar o exacerbamento das tensões, de salvaguardar o acesso aos lugares sagrados de todas as religiões e de assegurar a liberdade de culto naquela cidade.",
+                "No âmbito internacional, o governo brasileiro manifestou-se na última semana a respeito dos mencionados últimos eventos nos debates ocorridos no Conselho de Segurança e na Assembleia Geral das Nações Unidas, em Nova York. Em tais oportunidades, reiterou o compromisso do Brasil com a resolução pacífica do conflito de modo a permitir que ambos os povos vivam em paz, segurança e prosperidade, dentro de fronteiras seguras e internacionalmente reconhecidas.",
+                "Link para o vídeo da intervenção do Brasil (últimos 5min) na sessão plenária da Assembleia Geral sobre a questão da Palestina, em 20 de maio corrente: http://webtv.un.org/watch/part-2-general-assembly-68th-plenary-meeting-middle-east-palestine/6255305930001/ ."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-05-21-19h44-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-cessar-fogo_na_faixa_de_gaza.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/05/21"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "60"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Voo com brasileiros deportados dos EUA",
+            "subtitulo": "",
+            "data": "19/05/2021",
+            "horario": "10h17",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/voo-com-brasileiros-deportados-dos-eua",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Está prevista para o dia 21 de maio a chegada, a Belo Horizonte, de voo fretado pelo governo dos Estados Unidos, com 106 cidadãos brasileiros deportados daquele país.",
+                "O processo de deportação ocorre integralmente sob as leis e a jurisdição soberana dos Estados Unidos. A definição da forma da deportação - por meio de voos comerciais ou fretados -  se vincula a questões logísticas concernentes à operação.",
+                "O governo brasileiro foi notificado do voo e acompanha os desdobramentos, com vistas a assegurar que aos cidadãos brasileiros deportados seja estendido tratamento digno.",
+                "Os nacionais que retornam ao Brasil neste voo se encontram detidos, com ordem definitiva de deportação contra si, portanto sem perspectiva de recuperarem a liberdade nos Estados Unidos. Em sua maioria, estão longe de familiares.",
+                "A realização do voo tem como objetivo primário reduzir, para esses cidadãos, o tempo de permanência em centros de detenção nos Estados Unidos, em particular no atual contexto da pandemia da COVID-19.",
+                "As repartições consulares brasileiras nos Estados Unidos seguem prestando toda a assistência consular cabível aos cidadãos brasileiros ainda detidos naquele país."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-05-19-10h17-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-voo_com_brasileiros_deportados_dos_eua.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/05/19"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "59"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Deportação de brasileiros em Angola",
+            "subtitulo": "",
+            "data": "13/05/2021",
+            "horario": "19h04",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/deportacao-de-brasileiros-em-angola",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Na tarde de hoje, o Ministro de Estado das Relações Exteriores convocou o embaixador de Angola para solicitar esclarecimentos sobre a deportação de nacionais brasileiros em 11/05 e os aspectos legais associados ao caso.",
+                "Desde que a Embaixada do Brasil em Luanda tomou conhecimento da notificação de deportação dos 34 cidadãos brasileiros, manteve permanente contato com as autoridades angolanas para assegurar a devida proteção consular, que foi prestada em cada ocasião em que foi necessária. Na noite de 11/05, nove dos 34 cidadãos brasileiros embarcaram para o Brasil. O embarque transcorreu com tranquilidade, por meio de apresentação voluntária, e deu-se na presença de dois funcionários consulares brasileiros, que acompanharam o processo ao longo de todo o dia, prestando a plena assistência consular a que fazem jus os cidadãos do nosso país.",
+                "A pedido do embaixador do Brasil, foi assegurado aos demais brasileiros, que não conseguiram embarcar na noite de 11/05, o direito de aguardar o embarque em suas residências."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-05-13-19h04-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-deportacao_de_brasileiros_em_angola.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/05/13"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "58"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Adesão brasileira ao projeto do cabo de fibras óticas “Humboldt” — Nota Conjunta do Ministério das Relações Exteriores e do Ministério das Comunicações",
+            "subtitulo": "",
+            "data": "13/05/2021",
+            "horario": "12h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/adesao-brasileira-ao-projeto-do-cabo-de-fibras-oticas-201chumboldt201d-nota-conjunta-do-ministerio-das-relacoes-exteriores-e-do-ministerio-das-comunicacoes",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Brasil anunciou, hoje, sua adesão ao projeto do cabo de fibras óticas “Humboldt”, iniciativa chilena que prevê a instalação do primeiro cabo submarino para interligar a América do Sul à Oceania e à Ásia. Além do Brasil, Argentina, Austrália e Nova Zelândia já manifestaram sua participação no projeto.",
+                "O cabo, que contará com sistema de 8 fibras óticas e terá capacidade inicial de transmissão de dados de até 400 Gbps, conectará Valparaíso (Chile) a Sydney (Austrália), passando por Auckland (Nova Zelândia),em um total de 14.810 quilômetros de extensão. A conexão da Austrália com a Ásia será feita por 5 cabos jáimplantados e em funcionamento.",
+                "Ao ligar a América do Sul à Oceania e à Ásia, a iniciativa contribuirá para o aumento da redundância da conexão brasileira com a internet mundial, com melhoria da disponibilidade e da confiabilidade do sistema. Ademais, permitirá o aumento do volume do tráfego de dados do país com as regiões que mais crescem em demanda por internet no mundo.",
+                "O projeto também completará a conexão por fibra ótica do Brasil com seus vizinhos, consolidando a infraestrutura digital regional e posicionando o Brasil como líder da transformação digital e do mercado digital na região. Atualmente, Argentina, Brasil e Chile respondem por 80% do tráfego de internet na América do Sul.",
+                "A adesão brasileira ao projeto do cabo “Humboldt” vem somar-se a outras importantes iniciativas do governo brasileiro, como o leilão de frequências de 5G, que dinamizará o mercado nacional de telecomunicações, ao viabilizar aplicações industriais dessa tecnologia ultrarrápida, ultraestável e de latência (tempo de resposta aos comandos) mínima; e a conexão com a Europa, através do cabo submarino EllaLink, que intensificará a transmissão de dados com os principais continentes produtores de conteúdo e demanda e propiciará aredução de custos para as empresas e o aumento de eficiência nos processos produtivos.",
+                "Nos próximos meses, equipes técnicas dos países envolvidos aprofundarão as discussões sobre as modalidades financeiras e técnicas da participação do Brasil neste projeto de longo prazo. O volume total de investimentos do projeto foi orçado em cerca de US$ 400 milhões, e o prazo da concessão público-privada que deverá operá-lo foi estimado em 25 anos."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-05-13-12h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-adesao_brasileira_ao_projeto_do_cabo_de_fibras_oticas_\"humboldt\"_--_nota_conjunta_do_ministerio_das_relacoes_exteriores_e_do_m....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/05/13"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "57"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Vacinas e patentes – Nota Conjunta do Ministério das Relações Exteriores, do Ministério da Economia, do Ministério da Saúde e do Ministério da Ciência, Tecnologia e Inovações",
+            "subtitulo": "",
+            "data": "07/05/2021",
+            "horario": "16h31",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/vacinas-e-patentes-2013-nota-conjunta-do-ministerio-das-relacoes-exteriores-do-ministerio-da-economia-do-ministerio-da-saude-e-do-ministerio-da-ciencia-tecnologia-e-inovacoes",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro recebeu com satisfação a disposição dos EUA para negociar, no âmbito da OMC, solução multilateral que contribua para o combate à COVID-19, bem como para intensificar seus esforços – em conjunto com o setor privado e demais partes interessadas – para aumentar a produção e distribuição de insumos e vacinas em âmbito global.",
+                "O Brasil compartilha o objetivo expresso pela Representante Comercial do Governo dos EUA, Embaixadora Katherine Tai, de prover vacinas seguras e eficientes ao maior número de pessoas possível no menor intervalo de tempo possível.",
+                "A flexibilização de posições dos EUA e de demais parceiros na OMC poderá contribuir para os esforços internacionais de resposta à COVID, inclusive nas negociações em curso sobre suspensão temporária de disposições no acordo de TRIPS relativas ao combate à pandemia. Poderá, em particular, facilitar a implementação das propostas da “terceira via”, que visam a aumentar e diversificar a produção e disseminação de vacinas, principalmente em países em desenvolvimento, com melhor utilização de capacidade ociosa.",
+                "Em qualquer cenário, será fundamental contar com o engajamento, cooperação e parceria dos detentores de tecnologias para a produção de vacinas de maneira a viabilizar sua produção no Brasil e demais países em desenvolvimento.",
+                "O governo brasileiro aprofundará, com flexibilidade, pragmatismo e responsabilidade, consultas com todos os seus parceiros internacionais, bem como junto ao setor privado, para desenvolver os entendimentos multilaterais necessários a uma rápida e segura produção e distribuição de vacinas. Em particular, o Brasil discutirá, em maior profundidade, com os EUA, sua nova posição e suas implicações práticas para facilitar amplo e urgente acesso a vacinas e medicamentos no combate à COVID-19.",
+                "Na OMC, o Brasil continuará a trabalhar com a Diretora-Geral Ngozi Okonjo-Iweala e com o conjunto dos membros da Organização para a construção de solução consensual e cooperativa que viabilize a aceleração da produção e disseminação de vacinas contra a COVID-19 no menor prazo possível.",
+                "Nesse contexto, é importante recordar que o licenciamento compulsório de patentes já é uma possibilidade, conforme previsto no arcabouço normativo brasileiro, que é consistente com o Acordo TRIPS."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-05-07-16h31-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-vacinas_e_patentes_-_nota_conjunta_do_ministerio_das_relacoes_exteriores,_do_ministerio_da_economia,_do_ministerio_da_saude_e....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/05/07"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "56"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Reunião da Comissão Ministerial de Diálogo Político Brasil-Espanha",
+            "subtitulo": "",
+            "data": "07/05/2021",
+            "horario": "16h07",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reuniao-da-comissao-ministerial-de-dialogo-politico-brasil-espanha",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministro das Relações Exteriores, Carlos Alberto Franco França, e a Ministra de Assuntos Exteriores, União Europeia e Cooperação do Reino da Espanha, Arancha González Laya, copresidiram a Reunião da Comissão Ministerial de Diálogo Político, no Palácio Itamaraty, em 7 de maio.",
+                "Brasil e Espanha estabeleceram Parceria Estratégica em 2003, alicerçada em valores compartilhados e ampla gama de interesses comuns.  As discussões centraram-se no desafio enfrentado pelos dois países de retomar o crescimento econômico com geração de empregos, bem como nos esforços conjuntos para o combate à pandemia.",
+                "As densas relações econômico-comerciais oferecem base sólida para a busca de novas sinergias e oportunidades que contribuirão para a recuperação econômica dos dois países. A Espanha é o segundo maior emissor de investimentos diretos no Brasil, com estoque de US$ 79,1 bilhões, aplicados nos setores financeiro, de informação e comunicações, eletricidade e gás. A Espanha é o 8o maior destino de exportações brasileiras, que superaram US$ 4,05 bilhões em 2020.",
+                "Os Ministros compartilharam experiências dos dois países em matéria de políticas públicas de caráter emergencial, para minorar a gravidade dos efeitos socioeconômicos da prolongada crise sanitária – como as medidas implementadas para amparar os grupos mais vulneráveis.",
+                "O Ministro Carlos Alberto Franco França agradeceu ao governo espanhol a doação de medicamentos para intubação para os hospitais brasileiros e reiterou a intenção de trabalhar de forma coordenada com a Espanha para a distribuição tempestiva e a promoção de vacinas seguras, eficazes e acessíveis.",
+                "Na reunião, foram também passados em revista as perspectivas dos diálogos setoriais da Parceria Estratégica, com destaque para os campos econômico-comercial, de ciência e tecnologia e cooperação. Discutiu-se o fortalecimento de iniciativas de cooperação técnica entre a Agência Brasileira de Cooperação e a Agência Espanhola de Cooperação Internacional para o Desenvolvimento.",
+                "Foi estabelecida a Comissão Permanente Bilateral Brasil-Espanha, com o objetivo de conferir organicidade à densa relação bilateral e assegurar agilidade na implementação dos compromissos assumidos em amplo espectro temático. A Comissão Permanente elaborará um “mapa do caminho” com metas e iniciativas prioritárias para os diálogos setoriais.",
+                "Brasil e Espanha renovaram o compromisso em prol da assinatura e ratificação do Acordo Mercosul-União Europeia, instrumento que trará dinamismo, transparência, previsibilidade e segurança jurídica ao ambiente de negócios entre os dois blocos.",
+                "A Espanha reiterou seu apoio ao ingresso do Brasil na OCDE.  A acessão brasileira trará benefícios para o comércio bilateral e os investimentos espanhóis no Brasil, com a melhoria do ambiente econômico, o aumento da previsibilidade e da convergência em áreas como tributação e fluxos de capital.",
+                "Na reunião, foram assinados os seguintes instrumentos: Memorando de Entendimento sobre o Estabelecimento da Comissão Permanente Bilateral e Memorando de Entendimento sobre Cooperação Esportiva.",
+                "A Ministra Arancha González foi recebida pelo Senhor Presidente da República em audiência em 6 de maio. Manteve ainda encontros com o Ministro do Desenvolvimento Regional, com a Ministra da Agricultura, Pecuária e Abastecimento, com o Ministro da Economia e com a Presidente da Comissão de Relações Exteriores e Defesa Nacional do Senado Federal."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-05-07-16h07-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_da_comissao_ministerial_de_dialogo_politico_brasil-espanha.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/05/07"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "55"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Suspensão de Estabelecimentos Brasileiros Exportadores de Carne de Aves pela Arábia Saudita - Nota conjunta do Ministério das Relações Exteriores e do Ministério da Agricultura, Pecuária e Abastecimento",
+            "subtitulo": "",
+            "data": "06/05/2021",
+            "horario": "18h32",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/nota-conjunta-do-ministerio-das-relacoes-exteriores-e-do-ministerio-da-agricultura-pecuaria-e-abastecimento-sobre-suspensao-de-estabelecimentos-brasileiros-exportadores-de-carne-de-aves-pela-arabia-saudita",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O governo brasileiro recebeu com surpresa e consternação a decisão da Arábia Saudita de suspender 11 estabelecimentos exportadores de carne de aves para aquele mercado. Não houve contato prévio das autoridades sauditas, tampouco apresentação de motivações ou justificativas que embasem as suspensões. A informação consta apenas em nova lista de plantas brasileiras autorizadas a exportar, publicada hoje pela Saudi Food and Drug Authority (SFDA), que exclui os referidos estabelecimentos, previamente permitidos. Até o momento, apenas o Brasil foi objeto de atualização de lista de exportadores de carne de aves. O Brasil reitera os elevados padrões de qualidade e sanidade seguidos por toda nossa cadeia de produtos de origem animal, assegurados por rigorosas inspeções do serviço veterinário oficial. Há confiança de que todos os requisitos sanitários estabelecidos por mercados de destino são integralmente cumpridos. O governo brasileiro iniciou contatos com as autoridades da Arábia Saudita e da embaixada desse país em Brasília para buscar esclarecer o episódio. Todas as vias bilaterais e multilaterais serão empregadas com vistas à pronta resolução da questão. Caso se comprove a interposição de barreira indevida ao comércio, o Brasil poderá levar o caso à OMC."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-05-06-18h32-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-suspensao_de_estabelecimentos_brasileiros_exportadores_de_carne_de_aves_pela_arabia_saudita_-_nota_conjunta_do_ministerio_das....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/05/06"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "54"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "O Ministério das Relações Exteriores e o Ministério da Saúde seguem acompanhando o diálogo da Agência Nacional de Vigilância Sanitária  (Anvisa) com os responsáveis pela vacina Sputnik V, o Fundo Russo de Investimento Direto e o Instituto Gamaleya - Nota Conjunta do Ministério das Relações Exteriores e do Ministério da Saúde",
+            "subtitulo": "",
+            "data": "03/05/2021",
+            "horario": "19h15",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/o-ministerio-das-relacoes-exteriores-e-o-ministerio-da-saude-seguem-acompanhando-o-dialogo-da-agencia-nacional-de-vigilancia-sanitaria-anvisa-com-os-responsaveis-pela-vacina-sputnik-v-o-fundo-russo-de-investimento-direto-e-o-instituto-gamaleya-nota",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministério das Relações Exteriores e o Ministério da Saúde, ao recordarem as excelentes relações entre Brasil e a Federação da Rússia, inclusive no contexto do enfrentamento à Covid-19, saúdam a disposição da Anvisa e do Fundo Russo de Investimento Direto e Instituto Gamaleya, responsáveis pela Sputnik V, em buscar esclarecer as dúvidas remanescentes em relação à vacina, incluindo a provisão de documentação adicional solicitada, seja em novo pedido de importação ou no processo de uso emergencial em análise.",
+                "Seguirão dispostos a apoiar o diálogo em curso, sempre respeitando a autonomia da Anvisa, de modo que a Sputnik V, no momento em que seu uso for aprovado no Brasil, venha a reforçar o programa nacional de imunização contra a Covid-19."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-05-03-19h15-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-o_ministerio_das_relacoes_exteriores_e_o_ministerio_da_saude_seguem_acompanhando_o_dialogo_da_agencia_nacional_de_vigilancia_....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/05/03"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "53"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": [
+                "Ministério das Relações Exteriores"
+            ],
+            "titulo": "Falecimento do Embaixador Reinaldo Storani",
+            "subtitulo": "",
+            "data": "02/05/2021",
+            "horario": "15h25",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/falecimento-do-embaixador-reinaldo-storani",
+            "link_archive": "NA",
+            "data_archive": [
+                "NA"
+            ],
+            "horario_archive": [
+                "NA"
+            ],
+            "local": [
+                "NA"
+            ],
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Ministério das Relações Exteriores informa, com grande pesar, o falecimento do Embaixador Reinaldo Storani, hoje, 2 de maio, em Portugal.",
+                "O Embaixador Reinaldo Storani ingressou no Serviço Exterior Brasileiro em 1981. Serviu nos Estados Unidos, Paraguai, Irã, Itália e Bélgica. Os últimos cargos que ocupou foram os de Chefe do Escritório Financeiro do Itamaraty em Nova York, de 2015 a 2018, e de Cônsul-Geral no Faro, em Portugal, desde dezembro de 2018, onde faleceu.",
+                "Durante 40 anos, Reinaldo Storani serviu o País com competência e dedicação ímpares. No Brasil, notabilizou-se pela excelência do trabalho desempenhado na Administração, onde exerceu altas chefias. Em todos os lugares por onde passou, obteve o reconhecimento e carinho de todos seus colegas, chefes e subordinados.",
+                "O Ministério das Relações Exteriores expressa à família e aos amigos do Embaixador Reinaldo Storani as sentidas condolências de todos seus colegas."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2021-05-02-15h25-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-falecimento_do_embaixador_reinaldo_storani.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2021/05/02"
+            ],
+            "dir_base": [
+                "NA"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "NA"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2021-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": [
+                "52"
+            ],
+            "extra_02": [
+                "NA"
+            ],
+            "extra_03": [
+                "NA"
+            ]
+        }
+    }
+}

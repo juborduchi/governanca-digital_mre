@@ -96,6 +96,7 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/`
 | Link | Link/endereço da nota |
 | Data | Data de publicação da nota |
 | Nota_Escala | Nota atribuída na escala (1-5) |
+| Descricao_Nota | Descrição do que a nota atribuída representa (copiar exatamente o que o usuário definiu para cada nota) |
 | Justificativa | Explicação do porquê a nota recebeu a nota atribuída (2-3 frases) |
 | Passagens_Relevantes | Trechos da nota que justificam a avaliação (máx. 3 passagens) |
 

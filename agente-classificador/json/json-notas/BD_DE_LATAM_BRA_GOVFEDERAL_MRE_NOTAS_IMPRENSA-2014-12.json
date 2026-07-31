@@ -1,0 +1,1341 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 13 de dezembro e 21 de dezembro de 2014",
+            "subtitulo": "",
+            "data": "12/12/2014",
+            "horario": "15h17",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-13-de-dezembro-e-21-de-dezembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "10 a 21/DEZ – Brasília. Torneio Internacional de Futebol Feminino. (Fonte: CGCE)",
+                "14/DEZ – Paraná, Argentina – Reunião do Grupo de Assuntos Orçamentários (GAO) do MERCOSUL.",
+                "14/DEZ – Paraná, Argentina – XXII Reunião Extraordinária da Comissão de Comércio do MERCOSUL (CCM).",
+                "14 a 15/DEZ – Paraná, Argentina – Reunião do Fórum de Consulta e Concertação Política (FCCP) do MERCOSUL.",
+                "14 a 15/DEZ – Paraná, Argentina – XLIV Reunião Extraordinária do Grupo do Mercado Comum (GMC) do MERCOSUL.",
+                "14 a 17/DEZ – Genebra, Suíça. 2ª Reunião do Grupo de Trabalho Aberto da Abordagem Estratégica para o Manejo Internacional de Químicos (SAICM) (Fonte: Delbrasgen).",
+                "15 e 16/DEZ – Brasília. Reunião do Grupo de Contato sobre Temas Econômicos e Comerciais (GCTEC) do BRICS, seguida de reunião de sub-sherpas sobre estratégias de parceria econômica. (Fonte: DIB/DEC)",
+                "15 e 16/DEZ – Roma, Italia. Fundo Internacional para o Desenvolvimento Agrícola (FIDA). 113ª Sessao da Junta Executiva. (Fonte: Rebrasfao)",
+                "15 a 17/DEZ – Roma, Itália. Organização das Nações Unidas para a Alimentação e Agricultura (FAO). Reunião sobre Intensificação Sustentável da Produção Vegetal (SCPI).(Fonte: Rebrasfao)",
+                "15 a 17/DEZ – Paris, França. UNESCO. 2014 International Conference of Non-Governmental Organizations (NGOs).",
+                "15 a 17/DEZ – Lima, Peru. I Seminário Peruano-Brasileiro sobre Ciência, Tecnologia e Inovação. (Fonte: DCT)",
+                "15 a 19/DEZ – Rabat, Marrocos. UNESCO. Sétimo Fórum de Diálogo sobre Políticas da Força Tarefa para Professores da Educação para Todos sobre o tema “Professores na Agenda Internacional da Educação pós-2015: que políticas, práticas e ferramentas para o objetivo relacionado ao professor? “",
+                "16/DEZ - Rio de Janeiro. Prêmio Brasil Olímpico. (Fonte: CGCE)",
+                "16/DEZ – Washington, EUA. Reunião do Grupo de Trabalho encarregado da elaboração da Declaração Americana sobre os Direitos dos Povos Indígenas – GT-DADIN. (Fonte: DDH)",
+                "16/DEZ - Paraná, Argentina – XLVII Reunião Ordinária do Conselho do Mercado Comum (CMC) do MERCOSUL.",
+                "16/DEZ – Genebra, Suíça. Evento em comemoração à Década Internacional dos Afrodescendentes (Fonte: Delbrasgen).",
+                "17/DEZ – Paraná, Argentina – Reunião Plenária do Foro Consultivo de Municípios, Estados Federados, Províncias, e Departamentos do MERCOSUL (FCCR).",
+                "17/DEZ - Paraná, Argentina – Cúpula dos Chefes de Estados do MERCOSUL e Estados Associados.",
+                "17/DEZ – Genebra, Suíça. Conferência de Altas Partes da IV Convenção de Genebra (Fonte: Delbrasgen).",
+                "17 e 18/DEZ – Roma, Italia. Fundo Internacional para o Desenvolvimento Agrícola (FIDA). 4ª Consulta sobre a Décima Reposição de Recursos . (Fonte: Rebrasfao)",
+                "18 a 19/DEZ – Paris, França. UNESCO. 9ª Reunião do Comitê para a Proteção dos Bens Culturais em Caso de Conflito Armado."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-12-15h17-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_13_de_dezembro_e_21_de_dezembro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/12"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "III Cúpula da Comunidade de Estados Latino-Americanos e Caribenhos (CELAC) – São José, Costa Rica, 28 e 29 de janeiro de 2015 – Credenciamento de Imprensa",
+            "subtitulo": "",
+            "data": "08/12/2014",
+            "horario": "21h53",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/iii-cupula-da-comunidade-de-estados-latino-americanos-e-caribenhos-celac-sao-jose-costa-rica-28-e-29-de-janeiro-de-2015-credenciamento-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os profissionais de imprensa interessados em participar da cobertura da III Cúpula da Comunidade de Estados Latino-americanos e Caribenhos (CELAC), a realizar-se em São José, Costa Rica, entre os dias 28 e 29 de janeiro de 2015, devem solicitar, impreterivelmente até 19 de dezembro de 2014, credenciamento diretamente junto aos organizadores do evento.Devem encaminhar ao endereço eletrônico acreditacionescelac2015@gmail.com, com cópia para credenciamento@itamaraty.gov.br, as seguintes informações:",
+                "a) Nome completo;b) Empresa de comunicação;c) Função;d) Endereço eletrônico;e) Telefones para contato durante o evento;f) Número e data de validade do passaporte;g) Foto 3x4, resolução 100 dpi, formato jpg; h) Carta do editor da empresa em papel timbrado, com designação, para cobertura do evento, do profissional solicitante de credenciamento.",
+                "Deverão ser igualmente encaminhados aos endereços eletrônicos supracitados, pela respectiva empresa de comunicação, os seguintes formulários: http://www.itamaraty.gov.br/images/ListaPersonasPrensaComercial.xlshttp://www.itamaraty.gov.br/images/ListaEquipoPrensaComercial.xlshttp://www.itamaraty.gov.br/images/ListaPlacasdeVehiculodePrensaComercial.xls",
+                "Referem-se, respectivamente, a relação de profissionais solicitantes de credenciamento, equipamentos por eles utilizados e veículos de transporte eventualmente contratados pela empresa de comunicação. Para informações sobre vistos, período mínimo de validade do passaporte, vacinas obrigatórias e facilidades alfandegárias, recomenda-se contato com a Embaixada de Costa Rica em Brasília. Para consultas, o Departamento de Comunicação do Ministério de Relações Exteriores de Costa Rica coloca à disposição os seguintes interlocutores: Sr. Miguel Díaz Sánchez (+506 25395331) e Sra. Shirley Campos Aguilar (+506 25395332)."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-08-21h53-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-iii_cupula_da_comunidade_de_estados_latino-americanos_e_caribenhos_(celac)_-_sao_jose,_costa_rica,_28_e_29_de_janeiro_de_2015....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/08"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Posse Presidencial – Brasília, 1º de janeiro de 2015 Credenciamento de imprensa",
+            "subtitulo": "",
+            "data": "05/12/2014",
+            "horario": "17h49",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/posse-presidencial-brasilia-1-de-janeiro-de-2015-credenciamento-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Credenciamento de Imprensa para as Cerimônias de Posse da Presidenta da República, Dilma Rousseff",
+                "Press Accreditation for the Inauguration Ceremonies of the President of the Republic, Dilma Rousseff",
+                "Acreditación de Prensa para las Ceremonias de Toma de Posesión de la Presidenta de la República, Dilma Rousseff Credenciamento de imprensaOs profissionais de imprensa interessados em participar da cobertura das cerimônias de posse da Presidenta da República, Dilma Rousseff, e do Vice-Presidente, Michel Temer, no Palácio do Planalto, deverão solicitar credenciamento (em caso de dificuldades técnicas para acesso ao formulário, utilize este formulário alternativo).",
+                "O prazo para solicitação de credenciamento encerra-se às 18h do dia 19 de dezembro de 2014.",
+                "Informações sobre o credenciamento para a cobertura jornalística da cerimônia de posse da Presidenta e do Vice-Presidente no Congresso Nacional, com prazo até 10 de dezembro, podem ser obtidas por meio da página eletrônica específica do Poder Legislativo.",
+                "Para informações sobre credenciamento de imprensa oficial, as delegações devem entrar em contato com a Coordenação de Imprensa pelo email imprensaoficialposse@itamaraty.gov.br.",
+                "Press accreditation",
+                "Media professionals interested in covering the inauguration ceremonies of the President of the Republic, Dilma Rousseff, and of the Vice President, Michel Temer, at Palácio do Planalto, should apply by filling out this online media accreditation form (in case of technical difficulties to access the form, try this alternative form).",
+                "The deadline for requesting accreditation is December 19, 2014, at 18h.",
+                "Information on accreditation to cover the inauguration ceremony of the President and Vice President in the National Congress, due December 10th, may be obtained on the webpage of the Legislative Power.",
+                "For information on official press accreditation, the respective Embassies should contact the Press Coordination at imprensaoficialposse@itamaraty.gov.br.",
+                "Acreditación de prensa",
+                "Los profesionales de prensa interesados en participar de la cobertura de las ceremonias de toma de posesión de la Presidenta de la República, Dilma Rousseff, y del Vicepresidente, Michel Temer, en el Palacio del Planalto, deben solicitar acreditación (en caso de dificultades técnicas para acceder al formulario, utilice este formulario alternativo).",
+                "El plazo para solicitar acreditación termina a las 18h de 19 de diciembre del 2014.",
+                "Informaciones sobre acreditación para la cobertura periodística de la ceremonia de toma de posesión de la Presidenta de la República y del Vicepresidente de la República en el Congreso Nacional, con plazo hasta el 10 de diciembre, puden obtenerse a través de la página electrónica específica del Poder Legislativo.",
+                "Para informaciones sobre acreditación de prensa oficial, las delegaciones debem contactar la Cordinación de Prensa por el correo electrónico imprensaoficialposse@itamaraty.gov.br.",
+                "Entrega de credenciais para imprensaAs informações sobre o procedimento de entrega das credenciais de imprensa, quando disponíveis, serão divulgadas nesta página.Dada a exiguidade dos espaços, serão distribuídos passes para as áreas destinadas à imprensa nos eventos da Posse. Para se ter acesso a esses locais, será obrigatória apresentação de credencial e passe correspondentes.",
+                "Press badge pick-up",
+                "Information on press badge pick-up will be displayed on this page when available.Due to space limitations, floater badges to access the press areas at the inauguration ceremonies will be distributed. For access to these venues, the presentation of badge and corresponding floater badge will be mandatory.",
+                "Entrega de acreditaciones de prensa",
+                "Informaciones respecto del procedimiento de entrega de acreditaciones de prensa, así que disponibles, serán difundidas en la página electrónica http://www.itamaraty.gov.br/. En razón de las limitaciones de los espacios, serán distribuidos pases para las areas destinadas a la prensa en los eventos de la toma de posesión. Para acceder a esos locales, será obligatoria la presentación de acreditación y pase correspondente.   Centro de imprensaO Centro de Imprensa funcionará no Palácio Itamaraty. O acesso será restrito aos profissionais de imprensa devidamente credenciados. O Centro de Imprensa disporá de estações de trabalho e de acesso à internet sem fio. Um número limitado de computadores também estará disponível. O Centro contará com transmissão ao vivo de áudio e vídeo das cerimônias.",
+                "A Empresa Brasil de Comunicação (EBC) será responsável pela transmissão do evento e responderá aos pedidos das empresas de comunicação nacionais e estrangeiras. Imagens (sistema NTSC) e áudio serão disponibilizados em canal aberto com distribuição via satélite.",
+                "O Centro de Imprensa funcionará no dia 1º de janeiro de 2015, das 10h às 22h.",
+                "Media centre",
+                "The Media Centre will be set up at the Itamaraty Palace. Access will be restricted to accredited members of the press. The Media Center will provide workspace and broadband wireless internet access. A limited number of computers and printers will also be available. Audio and video of the ceremonies will be live-streamed at the Center.",
+                "The Brazilian Communications Company (Empresa Brasil de Comunicação, or EBC) will broadcast the event and respond to requests from national and foreign broadcasters. Images (NTSC system) and audio will be made available through an open satellite channel.",
+                "The Media Centre will be open on January 1st, 2015, from 10am to 10pm.",
+                "Centro de prensa",
+                "El Centro de Prensa funcionará en el Palacio Itamaraty. El acceso será restricto a los profesionales de prensa debidamente acreditados. El Centro de Prensa dispondrá de estaciones de trabajo y de acceso a internet inalámbrica. Un número limitado de computadoras también estará disponible. El Centro contará con transmisión en directo del audio y video de las ceremonias.",
+                "La Empresa Brasil de Comunicaciones (EBC) será responsable por la transmisión del evento y atenderá a los pedidos de las empresas de comunicación nacionales y estranjeras. Imágenes (sistema NTSC) y audio estarán disponibles a través de canal abierto con distribución por satélite.",
+                "El Centro de Prensa funcionará el día 1er de enero del 2015, de las 10h a las 22h.  Admissão temporária de equipamento de imprensaO trâmite para a admissão temporária de equipamentos de imprensa no país é administrado pela Receita Federal. Maiores informações estão disponíveis aqui.",
+                "Temporary admission of press equipment",
+                "Temporary admission of media equipment to Brazil is regulated by the Secretariat of the Federal Revenue. Further information is available in Portuguese and English.",
+                "Admisión temporaria de equipo de prensa",
+                "La admisión temporaria de equipos de prensa es administrada por la Secretaría de Ingresos Federales. Informaciones adicionales están disponibles en portugués y en español.  VistosPara entrar no Brasil, alguns jornalistas estrangeiros podem precisar de visto específico, de acordo com sua nacionalidade. Profissionais de imprensa estrangeira devem se certificar da necessidade de visto com o consulado brasileiro com jurisdição em sua área de residência permanente. Os endereços dos consulados brasileiros no exterior estão disponíveis aqui.",
+                "Visas",
+                "For admission into Brazil, some foreign journalists may need a specific visa, according to their nationalities. Foreign press professionals should check the need for visas with the Brazilian consulate with jurisdiction over their permanent residence. The addresses of Brazilian consular offices abroad are available here.",
+                "Visados",
+                "Para entrar en Brasil, algunos periodistas estranjeros pueden necesitar visado específico, de acuerdo a su nacionalidad. Profissionales de la prensa estranjera deben certificarse de la necessidad de visado junto al consulado brasileño con jurisdicción sobre su area de residencia permanente. Las direcciones de los consulados brasileños en el exterior están disponibles aquí.  Informações adicionaisInformações complementares para a imprensa podem ser obtidas pelo e-mail imprensa@itamaraty.gov.br ou pelos telefones (+5561) 2030-6160, (+5561) 2030-8006 e (+5561) 2030-8007.",
+                "Further information",
+                "Additional information to press members is provided by e-mail - imprensa@itamaraty.gov.br - or telephone (+5561) 2030-6160, (+5561) 2030-8006 and (+5561) 2030-8007.",
+                "Informaciones adicionales",
+                "Informaciones adicionales a la prensa pueden ser solicitadas por correo electrónico - imprensa@itamaraty.gov.br - o teléfono (+5561) 2030-6160, (+5561) 2030-8006 y (+5561) 2030-8007."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-05-17h49-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-posse_presidencial_-_brasilia,_1o_de_janeiro_de_2015_credenciamento_de_imprensa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/05"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 6 de dezembro e 14 de dezembro de 2014",
+            "subtitulo": "",
+            "data": "05/12/2014",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-06-de-dezembro-e-14-de-dezembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "06/DEZ – Istanbul, Turquia. “Brazilian Show and Salsa”. Organizado pela artista brasileira Monalisa Santos.",
+                "07/DEZ – Istambul, Turquia. Bazar Beneficente de Natal. Organizado pela associação International Women of Istanbul. O Bazar contará com uma mesa luso-brasileira organizada pela comunidade brasileira residente em Istambul.",
+                "08/DEZ – Rio de Janeiro. Recepção promovida pela Embaixada da Austrália a ex-alunos de Educação na Austrália, com a presença do Ministro do Comércio australiano.",
+                "08/DEZ – Genebra, Suíça. Reunião do Polio Partners Group (PPG).",
+                "08/DEZ – Genebra, Suíça. Reunião do Grupo de Alto Nível sobre Desafios Humanitários na Síria, organizada pelo Escritório das Nações Unidas para a Coordenação de Assuntos Humanitários.",
+                "08/DEZ – Brasilia. Reunião do Grupo Temático Ampliado das Nações Unidas sobre HIV/AIDS (GT/UNAIDS).",
+                "08 e 09/DEZ – Brasília. 89ª Reunião do Conselho Diretivo do Instituto Interamericano da Criança (IIN).",
+                "08 a 10/DEZ – Genebra, Suíça. Consultas Técnicas sobre o Marco de Ação da III Conferência Mundial de Redução de Desastres.",
+                "08 a 11/DEZ – Genebra, Suíça. 2ª Reunião do Grupo de Trabalho Ad Hoc sobre o Aperfeiçoamento do Sistema Multilateral de Acesso e Repartição de Benefícios (GTS-MLS), no âmbito do Tratado Internacional sobre Recursos Fitogenéticos para a Alimentação e a Agricultura (TIRFAA).",
+                "09/DEZ – Genebra, Suíça. Reunião do Comitê Ad Hoc da Assembleia Geral para Contribuições Voluntárias ao ACNUR.",
+                "09/DEZ – Genebra, Suíça. Reunião de nível ministerial para o reassentamento e outras formas de admissão de refugiados sírios, ACNUR.",
+                "09/DEZ – Brasília. III Fórum Mundial de Educação Profissional e Tecnológica (FMEPT). Lançamento do evento organizado pelo Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE), com o apoio do MEC.",
+                "09/DEZ – Londres, Reino Unido. Recital do violonista Yamandu Costa na Embaixada do Brasil.",
+                "09 e 10/DEZ – Brasília. I Encontro Nacional de Coordenadores do Programa Idioma Sem Fronteiras. Organizado pela Secretaria de Educação Superior do MEC.",
+                "09 e 10/DEZ – Lisboa, Portugal. I Reunião Técnica Internacional dos Pontos Focais da Rede de Instituições Públicas de Educação Superior - RIPES.",
+                "09 a 11/DEZ – Paris, França. UNESCO. Oitava sessão do Comitê Intergovernamental para a Proteção e a Promoção da Diversidade de Expressões Culturais.",
+                "09 a 11/DEZ – Genebra, Suíça. 35ª sessão do Conselho Coordenador de Programas (PPCB 35) da UNAIDS.",
+                "10/DEZ – Nova York, EUA. Lançamento da Década Internacional dos Afrodescendentes na Assembleia Geral da ONU.",
+                "10/DEZ – Brasília. Cerimônia de Posse do Conselho Nacional dos Direitos Humanos.",
+                "10/DEZ – Brasília. Apresentação do Relatório da Comissão Nacional da Verdade (CNV).",
+                "10 e 11/DEZ – Genebra, Suíça. Diálogo do ACNUR sobre Proteção no Mar.",
+                "10 e 11/DEZ – Berlim, Alemanha. “Workshop” Internacional sobre Liberdade de Expressão na Internet, organizado pela Comissão Nacional da Alemanha para a UNESCO.",
+                "10 a 12/DEZ – Adis Abeba, Etiópia. Conferência Internacional dos Estados para a Revisão da Convenção Regional de 1981 sobre o Reconhecimento dos cursos, certificados, diplomas, graus e outros títulos no ensino superior nos Países Africanos.",
+                "10 a 12/DEZ – Cidade do México, México. Oficina da OEA \"Para um enfoque setorial sobre proteção social\".",
+                "10 a 12/DEZ – Brasília. XXI Congresso Pan-Americano da Criança.",
+                "10 a 14/DEZ – Lisboa, Portugal. Mostra de Cinema da América Latina.",
+                "11/DEZ – Londres, Reino Unido. Apresentação da pianista Clélia Iruzun com o Coull Quartet na Embaixada do Brasil.",
+                "11/DEZ – Buenos Aires, Argentina. Entrega do Prêmio Internacional Eduardo Mignone à Comissão Nacional da Verdade.",
+                "11/DEZ – Washington, EUA. Sessão Especial sobre o Direito à Verdade na Comissão de Assuntos Jurídicos e Políticos da OEA.",
+                "11 e 12/DEZ – Genebra, Suíça. Reunião do Conselho Executivo da UNITAID.",
+                "11 a 14/DEZ – Cotonou, Benin. Festival \"Cotonou Couleurs Jazz\".",
+                "12/DEZ – Genebra, Suíça. Reunião de Planejamento do Comitê Executivo do ACNUR.",
+                "12 e 13/DEZ – Bangkok, Tailândia. Concertos da Orquestra Filarmônica de Bangkok."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-05-10h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_6_de_dezembro_e_14_de_dezembro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/05"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Reunião Extraordinária do Conselho de Chefas e Chefes de Estado e de Governo da UNASUL - Quito, 5 de dezembro de 2014",
+            "subtitulo": "",
+            "data": "04/12/2014",
+            "horario": "20h52",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reuniao-extraordinaria-do-conselho-de-chefas-e-chefes-de-estado-e-de-governo-da-unasul-quito-5-de-dezembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "A Senhora Presidenta da República, Dilma Rousseff, participará, no dia 5 de dezembro, em Quito, de Reunião Extraordinária do Conselho de Chefas e Chefes de Estado e de Governo da UNASUL. Em conjunto com os demais Chefas e Chefes de Estado e de Governo, a Presidenta inaugurará, na localidade de Mitad del Mundo, município de Quito, a nova sede da Secretaria-Geral da UNASUL.",
+                "O Conselho de Chefas e Chefes de Estado e de Governo é a instância deliberativa máxima da UNASUL. O organismo é também composto por dezessete foros temáticos, em áreas como defesa, infraestrutura e saúde. A corrente de comércio do Brasil com os países da UNASUL mais do que quadruplicou na última década, passando de US$ 17,8 bilhões para US$ 73,4 bilhões."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-04-20h52-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_extraordinaria_do_conselho_de_chefas_e_chefes_de_estado_e_de_governo_da_unasul_-_quito,_5_de_dezembro_de_2014.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/04"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Nota à imprensa conjunta dos Ministérios das Relações Exteriores e da Saúde – Contribuição Brasileira ao Combate Internacional ao Vírus do Ebola",
+            "subtitulo": "",
+            "data": "03/12/2014",
+            "horario": "21h34",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/nota-a-imprensa-conjunta-dos-ministerios-das-relacoes-exteriores-e-da-saude-contribuicao-brasileira-ao-combate-internacional-ao-virus-do-ebola",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro realizou doação de R$ 25 milhões a agências das Nações Unidas para combate ao vírus do Ebola e apoio à população na Guiné-Conacri, na Libéria e em Serra Leoa, países da África Ocidental mais afetados pela doença.",
+                "Daquele montante, cerca de 50% foi doado à Organização Mundial da Saúde (OMS), para atenção às populações infectadas e medidas de controles da infecção; aproximadamente 26%, ao Alto Comissariado das Nações Unidas para os Refugiados (ACNUR), para a prestação de serviços básicos, inclusive de saúde, às populações; cerca de 18%, ao Programa Mundial de Alimentos (PMA), com vistas a contribuir para o financiamento do transporte e da distribuição de 6.300 toneladas de arroz e 4.500 toneladas de feijão já oferecidas pelo Brasil; e aproximadamente 6%, para Fundo Fiduciário que ajuda a financiar a Missão das Nações Unidas de Resposta Emergencial ao Ebola (UNMEER), mecanismo coordenador das esforços das diversas agências da ONU envolvidas no combate àquela enfermidade.",
+                "À medida anunciada soma-se doação de R$ 1 milhão repassado à OMS e R$ 2 milhões à Organização Panamericana da Saúde (OPAS), recursos enviados em novembro deste ano, também para o combate ao Ebola.",
+                "Além dos recursos financeiros, o Brasil enviou, em junho deste ano, 24 kits, num total de seis toneladas, com medicamentos e insumos aos três países afetados pela epidemia. Cada um dos kits é suficiente para atender cerca de 500 pessoas durante três meses e contem 30 tipos de medicamentos, incluindo antibióticos e anti-inflamatórios, e 18 insumos para primeiros-socorros, como luvas e máscaras. Quatro kits foram destinados para a Guiné, cinco para Serra Leoa e cinco para a Libéria, além de outros 10 enviados à OMS para distribuição.",
+                "O Governo brasileiro renova sua solidariedade com os Povos e os Governos da Guiné-Conacri, da Libéria e de Serra Leoa e reafirma sua intenção de continuar a contribuir com os esforços internacionais para prestar toda a assistência possível às populações afetadas pelo vírus do Ebola."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-03-21h34-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-nota_a_imprensa_conjunta_dos_ministerios_das_relacoes_exteriores_e_da_saude_-_contribuicao_brasileira_ao_combate_internaciona....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/03"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Reunião Extraordinária do Conselho de Chefes de Estado e de Governo da UNASUL – Quito, 5 de dezembro de 2014 – Celular da AIG",
+            "subtitulo": "",
+            "data": "03/12/2014",
+            "horario": "21h25",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/reuniao-extraordinaria-do-conselho-de-chefas-e-chefes-de-estado-e-de-governo-da-unasul-quito-5-de-dezembro-de-2014-celular-da-aig",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Informa-se o número do telefone celular do coordenador de imprensa, pelo Ministério das Relações Exteriores, para a Reunião Extraordinária do Conselho de Chefas e Chefes de Estado e de Governo da UNASUL, a ser realizada em 5 de dezembro de 2014, em Quito, no Equador:",
+                "Conselheiro Heitor Granafei",
+                "Chamadas a partir do Brasil: (+593) 9 5879-7743",
+                "Chamadas a partir de Quito: 09 5879-7743"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-03-21h25-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-reuniao_extraordinaria_do_conselho_de_chefes_de_estado_e_de_governo_da_unasul_-_quito,_5_de_dezembro_de_2014_-_celular_da_aig.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/03"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "XLVII Cúpula de Chefes de Estado do MERCOSUL Paraná, Argentina, dezembro de 2014  - Credenciamento de Imprensa",
+            "subtitulo": "",
+            "data": "01/12/2014",
+            "horario": "20h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/xlvii-cupula-de-chefes-de-estado-do-mercosul-parana-argentina-dezembro-de-2014-credenciamento-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Informa-se aos profissionais de imprensa interessados em participar da cobertura da XLVII Cúpula de Chefes de Estado do MERCOSUL, a ser realizada na cidade de Paraná, na Argentina, preliminarmente em 17 de dezembro de 2014, que o credenciamento para o referido evento deverá ser realizado diretamente junto à organização do evento, impreterivelmente até o dia 6 de dezembro, por meio da página eletrônica https://acreditacionesmercosur2014.cancilleria.gov.ar, com cópia para credenciamento@itamaraty.gov.br."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-01-20h00-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-xlvii_cupula_de_chefes_de_estado_do_mercosul_parana,_argentina,_dezembro_de_2014_-_credenciamento_de_imprensa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/01"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Posse Presidencial – Brasília, 1º de janeiro de 2015 – Informações e programa de imprensa",
+            "subtitulo": "",
+            "data": "31/12/2014",
+            "horario": "14h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/posse-presidencial-brasilia-1-de-janeiro-de-2015-informacoes-e-programa-de-imprensa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Entrega de credenciais e passes de imprensa",
+                "Credenciais",
+                "Até 31 de dezembro de 2014, na sala D do Anexo II do Ministério das Relações Exteriores (“Bolo de Noiva”), no horário de 9h00 às 12h00.",
+                "Passes",
+                "1º de janeiro de 2015, no setor de Credenciamento do Palácio do Planalto, subsolo, sala 05, de 12h00 às 15h00, acesso pela entrada da Garagem, Via N2.",
+                "Observações sobre credenciais",
+                "– Credenciais e passes serão retirados mediante a apresentação de documento de identidade com foto. No caso dos passes, será necessário apresentar carta timbrada do meio de comunicação, assinada pela chefia, informando a área de cobertura em que cada profissional será habilitado.",
+                "– As credenciais são individuais e intransferíveis.",
+                "– Os jornalistas credenciados para eventos nas dependências do Palácio do Planalto deverão se limitar aos locais indicados nos respectivos passes de cobertura, conforme mapa anexo.",
+                "– As credenciais permanentes de imprensa da Presidência da República e do Ministério das Relações Exteriores NÃO serão aceitas nas cerimônias de posse nos Palácios do Planalto e Itamaraty. Também não serão válidas no Palácio do Planalto, credenciais para a cobertura específica da posse presidencial no Congresso Nacional.",
+                "Centros de Imprensa",
+                "Estações de trabalho e acesso à internet sem fio estarão disponíveis para a imprensa, no térreo do Palácio do Planalto e do Palácio Itamaraty. Os centros de imprensa contarão também com transmissão ao vivo (áudio e vídeo) das cerimônias.",
+                "Programa – Brasília, 1º de janeiro de 2015",
+                "14h45 – Desfile do Cortejo Presidencial",
+                "Trajeto: Catedral Metropolitana de Brasília para o Congresso Nacional e do Congresso Nacional ao Palácio do Planalto.",
+                "Cobertura: Acompanhamento do Cortejo por fotógrafos, em um caminhão da Presidência da República.",
+                "Observação – Os fotógrafos que acompanharão o Cortejo Presidencial, portadores de passe de cor Cinza, deverão apresentar-se no Palácio do Planalto, Via N2, Entrada da Garagem, de 12h00 ás 13h30, impreterivelmente.",
+                "15h00 – Sessão Solene de Posse no Congresso Nacional",
+                "Local: Plenário da Câmara dos Deputados",
+                "Programa:",
+                "– Cerimônia de Compromisso Constitucional",
+                "– Leitura do Termo de Posse",
+                "– Pronunciamento da senhora Presidenta da República",
+                "Cobertura: Conforme instruções divulgadas pelo Congresso Nacional.",
+                "16h15 – Deslocamento do Cortejo Presidencial do Congresso Nacional para o Palácio do Planalto",
+                "16h25 – Subida da Rampa",
+                "Local: Palácio do Planalto",
+                "Cobertura: Fotógrafos e cinegrafistas – Lateral da Rampa do Palácio do Planalto (passes de cor Violeta).",
+                "16h30 – Pronunciamento da Senhora Presidenta da República à População",
+                "Local: Palácio do Planalto – Parlatório",
+                "Cobertura:",
+                "Fotógrafos e cinegrafistas",
+                "– Lateral da Rampa do Palácio do Planalto (passes de cor Violeta)",
+                "Fotógrafos, cinegrafistas e repórteres – Palanque na Praça dos Três Poderes (passes Azuis)",
+                "Observações:",
+                "1. Os jornalistas com passes Azuis e de cor Violeta deverão apresentar-se no Palácio do Planalto, Via N2, entrada da Garagem, das 12h00 às 15h00, impreterivelmente.",
+                "2. Os jornalistas com passes Azuis, localizados no Palanque na Praça dos Três Poderes, não poderão acessar a parte interna do Palácio durante as cerimônias.",
+                "17h00 – Cumprimentos de Chefes e Vice-Chefes de Estado e/ou de Governo e Ministros de Relações Exteriores Estrangeiros",
+                "Local: Palácio do Planalto – Salão Leste, 2º. Andar",
+                "Cobertura: Fotógrafos oficiais e privados (passes Vermelhos)",
+                "Observações:",
+                "1. Fotógrafos privados - Os fotógrafos portadores de passe",
+                "Vermelho deverão apresentar-se no Palácio do Planalto, Via N2, entrada da Garagem, entre 12h00 e 15h00, impreterivelmente.",
+                "Serão, em seguida, conduzidos à Sala de Reunião Suprema do Palácio, onde aguardarão a cobertura. Ao final dos cumprimentos serão conduzidos ao Salão Oeste para a Foto Oficial.",
+                "2. Fotógrafos Oficiais – Serão conduzidos ao Palácio do Planalto por diplomata do Itamaraty, ao término da solenidade no Congresso Nacional. Aguardarão o momento da cobertura na Sala de Reunião Suprema. Após os cumprimentos, serão conduzidos ao Palácio Itamaraty.",
+                "17h30 – Cerimônia de Nomeação dos Ministros de Estado",
+                "Local: Palácio do Planalto – Salão Nobre, 2º Andar",
+                "Cobertura:",
+                "Salão Nobre - repórteres e fotógrafos do Comitê de Imprensa do Palácio do Planalto (passes Verdes).",
+                "Mezanino – repórteres e fotógrafos (passes de cor Laranja)",
+                "Observações:",
+                "Jornalistas portadores de passes verdes e de cor laranja deverão",
+                "apresentar-se no Palácio do Planalto, Via N2, entrada da Garagem, entre 12h00 e 15h00, impreterivelmente.",
+                "18h00 – Fotografia Oficial",
+                "Local: Palácio do Planalto – Salão Oeste, 2º. Andar",
+                "Cobertura: Fotógrafos (passes Vermelhos)",
+                "17h00 a 18h30 – Chegada de autoridades e convidados para a recepção da Posse Presidencial",
+                "Local: Palácio do Itamaraty – andar térreo",
+                "Cobertura: imprensa credenciada",
+                "18h30 – Recepção da Posse Presidencial",
+                "Local: Palácio do Itamaraty – 3º. Andar",
+                "Cobertura: sem cobertura de imprensa",
+                "Estacionamento",
+                "Os jornalistas credenciados para a Posse Presidencial poderão estacionar seus carros no estacionamento Amarelo C, Via N2, em frente ao Setor de Transporte da Presidência da República.",
+                "Jornalistas credenciados para a Posse Presidencial sem passes",
+                "Repórteres e fotógrafos que se credenciaram para as Cerimônias de Posse no Palácio do Planalto, mas não tiveram acesso aos passes, serão conduzidos ao térreo do Palácio do Planalto. Cinegrafistas não serão admitidos no interior do Palácio do Planalto.",
+                "Cobertura Televisiva",
+                "Informações sobre a captação de imagens geradas a partir do pool:",
+                "A Empresa Brasil de Comunicação (EBC), em conjunto com a Secretaria de Comunicação Social da Presidência da República (Secom/PR), coordenará o pool de emissoras responsável pela cobertura televisiva da posse presidencial, no dia 1º de janeiro de 2015. O pool é formado pelas seguintes emissoras: TV NBR, TV Brasil, Rede Record, Rede Bandeirantes, SBT, Rede Globo, RedeTV, Rede Vida, TV Câmara e TV Senado.",
+                "O sinal da transmissão ao vivo será disponibilizado via satélite das 13 às 21 horas, observando-se os seguintes parâmetros:",
+                "Segmento com 12Mhz – Satélite C3",
+                "Frequência de recepção = 3972,00 Mhz",
+                "Symbol Rate: 10.000 Msym/s",
+                "Fec: ¾",
+                "Roll-Off: 0.20",
+                "Polarização: Horizontal",
+                "Modulação: 8PSK",
+                "Padrão: DVB-S2",
+                "Contatos (transmissão ao vivo):",
+                "Roberto Gontijo, Operações Especiais EBC: 61 3799 5752/9983 7035",
+                "Vicente Carvelo, Operações TV NBR: 61 9945-4572/3799-5422",
+                "Marcelo de Paiva, Secom/SIP/PR: 61 8238-0298/3411-1109"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-31-14h45-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-posse_presidencial_-_brasilia,_1o_de_janeiro_de_2015_-_informacoes_e_programa_de_imprensa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/31"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Calendário de eventos entre 27 de dezembro de 2014 e 04 de janeiro de 2015",
+            "subtitulo": "",
+            "data": "26/12/2014",
+            "horario": "20h29",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/calendario-de-eventos-entre-27-de-dezembro-de-2014-e-04-de-janeiro-de-2015",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "26 a 29/DEZ – Bélgica. Visita do Ministro chefe da Secretaria de Portos.",
+                "01 a 31/JAN – Bangladesh. \"Asian Art Biennale Bangladesh.",
+                "01 a 31/JAN – Bangladesh. \"20th Dhaka International Trade Fair\".",
+                "03 a 18/JAN - Santiago, Chile. Festival Internacional de Artes Cênicas Santiago a Mil."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-26-20h29-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-calendario_de_eventos_entre_27_de_dezembro_de_2014_e_04_de_janeiro_de_2015.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/26"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Posse Presidencial – Brasília, 1º de janeiro de 2015 – Entrega de credenciais de imprensa para os Eventos no Palácio do Planalto e no Palácio Itamaraty",
+            "subtitulo": "",
+            "data": "22/12/2014",
+            "horario": "14h08",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/posse-presidencial-brasilia-1-de-janeiro-de-2015-entrega-de-credenciais-de-imprensa-para-os-eventos-no-palacio-do-planalto-e-no-palacio-itamaraty",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "Os profissionais de imprensa que solicitaram credenciamento por meio do formulário eletrônico em www.itamaraty.gov.br poderão retirar suas credenciais de 29 a 31 de dezembro de 2014, na sala \"D\" do Anexo II do Ministério das Relações Exteriores (“Bolo de Noiva”).",
+                "Os seguintes horários devem ser observados para a retirada das credenciais:",
+                "- 29 de dezembro: 15h a 19h",
+                "- 30 de dezembro: 9h a 19h",
+                "- 31 de dezembro: 9h a 12h",
+                "Será necessário apresentar documento de identidade com foto, em caso de retirada pelo profissional credenciado, ou carta timbrada do meio de comunicação, assinada pela chefia, em caso de retirada por terceiros.",
+                "As credenciais permanentes de imprensa da Presidência da República e do Ministério das Relações Exteriores NÃO serão aceitas nas cerimônias de posse nos Palácios do Planalto e Itamaraty."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-22-14h08-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-posse_presidencial_-_brasilia,_1o_de_janeiro_de_2015_-_entrega_de_credenciais_de_imprensa_para_os_eventos_no_palacio_do_plana....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/22"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Documentos aprovados na XLVII Cúpula de Chefes de Estado do MERCOSUL e Estados Associados - Paraná, Argentina, 17 de dezembro de 2014",
+            "subtitulo": "",
+            "data": "18/12/2014",
+            "horario": "22h04",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/documentos-aprovados-na-xlvii-cupula-de-chefes-de-estado-do-mercosul-e-estados-associados-parana-argentina-17-de-dezembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "COMUNICADO CONJUNTO DE LAS PRESIDENTAS Y DE LOS PRESIDENTES DE LOS ESTADOS PARTES DEL MERCOSUR Y ESTADOS ASOCIADOS",
+                "COMUNICADO CONJUNTO DE LAS PRESIDENTAS Y LOS PRESIDENTES DE LOS ESTADOS PARTES DEL MERCOSUR",
+                "COMUNICADO CONJUNTO DE LOS CANCILLERES DE LOS ESTADOS PARTES Y ESTADOS ASOCIADOS DEL MERCOSUR EN APOYO A LA REELECCIÓN DEL DR. JORGE GRAZIANO PARA EL CARGO DE DIRECTOR GENERAL DE LA FAO",
+                "COMUNICADO ESPECIAL APOYO AL ECUADOR EN SU POLÍTICA ENERGÉTICA Y DE USO GENERALIZADO DE TECNOLOGÍAS LIMPIAS",
+                "COMUNICADO ESPECIAL EXPLORACIÓN DE HIDROCARBUROS Y PESCA EN LA PLATAFORMA CONTINENTAL ARGENTINA EN PROXIMIDAD DE LAS ISLAS MALVINAS",
+                "DECLARACIÓN ESPECIAL DE LOS ESTADOS PARTES DEL MERCOSUR EN RESPALDO A LA REPÚBLICA ARGENTINA",
+                "DECLARACIÓN ESPECIAL DE LAS PRESIDENTAS Y LOS PRESIDENTES DEL MERCOSUR SOBRE LA APROBACIÓN DE SANCIONES CONTRA LA REPÚBLICA BOLIVARIANA DE VENEZUELA",
+                "*****",
+                "COMUNICADO CONJUNTO DE LAS PRESIDENTAS Y LOS PRESIDENTES DE LOS ESTADOS PARTES DEL MERCOSUR Y ESTADOS ASOCIADOS",
+                "Las Presidentas y los Presidentes de los Estados Partes del MERCOSUR y Estados Asociados, reunidos en la ciudad de Paraná, Argentina, el día 17 de diciembre de 2014, en ocasión de la XLVIl Reunión Ordinaria del Consejo del Mercado Común (CMC):Reafirmaron su compromiso con la profundización del proceso de integración regional para contribuir al desarrollo económico con inclusión social, a la mejora de la calidad de vida de nuestros ciudadanos, al avance de la justicia social y a la erradicación del hambre y la pobreza;Reiteraron la importancia de la promoción de los valores de la democracia y de la protección, promoción y respeto irrestricto de los Derechos Humanos, para consolidar a la región como una zona de paz;Ratificaron la necesidad de continuar con el proceso de integración económica, para el desarrollo de nuestros pueblos, a través de la integración productiva, el desarrollo de infraestructura y de políticas públicas inclusivas;Convencidos que el importante acervo normativo y la experiencia del MERCOSUR y de otros mecanismos regionales de América Latina y el Caribe pueden contribuir a profundizar la integración, a través de un proceso gradual de complementación y cooperación en la perspectiva de convergencias en áreas de mutuo beneficio, en especial, el interés estratégico colectivo de mejorar la participación de la región en el contexto de las negociaciones multilaterales; Se congratularon por los procesos electorales desarrollados en el Estado Plurinacional de Bolivia, la República Federativa de Brasil y la República Oriental del Uruguay, y saludaron a los Presidentes Evo Morales Ayma, Dilma Rousseff y Tabaré Vázquez Rosas, al tiempo que expresaron sus mayores deseos de éxito en sus futuras gestiones;Pasaron revista a los avances alcanzados en este periodo en los distintos Foros de la dimensión Política, Social y Ciudadana del MERCOSUR, del proceso de Integración Latinoamericano y Caribeño y del ámbito Multilateral:",
+                "I. EN EL ÁMBITO DEL MERCOSUR",
+                "1. Reafirmaron su compromiso para que las Directrices de la Política de Igualdad de Género del MERCOSUR se constituyan en una herramienta central de incidencia y orientación que facilite la transversalización de la perspectiva de género en las políticas del bloque. Alentaron que en cumplimiento de esta Política, los órganos del MERCOSUR incorporen esta perspectiva tanto en sus estructuras como en la planificación de sus acciones y programas.",
+                "2. Ratificaron la necesidad de continuar con los esfuerzos para prevenir, detectar, perseguir y sancionar la trata de personas en la región y de profundizar la cooperación y articulación de las acciones entre los países de la región para la atención a víctimas de trata internacional, especialmente de mujeres y niños.",
+                "3. Expresaron que las políticas y estrategias sobre drogas deben abordarse con un enfoque integral y equilibrado, en el marco del pleno respeto de los Derechos Humanos y libertades fundamentales, colocando en el centro de las políticas públicas a las personas, promoviendo su bienestar, su inclusión social, el acceso a la justicia, la salud pública, el trabajo y la educación.Manifestaron la necesidad de fortalecer las estrategias de reducción de la demanda y control de la oferta desde un enfoque integral y equilibrado, atendiendo la multiplicidad de factores asociados al problema mundial de las drogas y sus efectos en la región, desde un enfoque que contemple el abordaje comunitario centrado en la persona como sujeto de derechos.Reafirmaron la importancia de evitar la estigmatización, la marginalización y la discriminación de los usuarios de drogas, priorizando la prevención, el tratamiento, la atención, la rehabilitación y la inclusión social de las personas. En tal sentido, coincidieron en la importancia de apoyar el fortalecimiento de dichos objetivos y principios en el marco de la UNASUR, la CELAC, la CICAD-OEA, la Comisión de Estupefacientes de la ONU, y demás ámbitos de tratamiento de la problemática mundial de las drogas.En particular, reiteraron su apoyo para que en la Sesión Especial de la Asamblea de las Naciones Unidas sobre el problema mundial de las drogas, convocada para el año 2016, y en su proceso preparatorio se lleve a cabo un debate amplio, incluyente y participativo.",
+                "4. Saludaron los trabajos realizados por el Foro Especializado Migratorio (FEM), en el ámbito de la Reunión de Ministros de Interior del MERCOSUR y resaltaron la importancia del Memorándum de Cooperación entre la Organización Internacional de Migraciones (OIM) y el Mercado Común del Sur (MERCOSUR), cuyo objetivo es la cooperación y asistencia técnica y operativa en materia migratoria.Igualmente, destacaron la modificación del Acuerdo para la Concesión de un Plazo de Noventa (90) Días a los Turistas Nacionales de los Estados Partes del MERCOSUR y Estados Asociados, que incluye la posibilidad de extensión del plazo de estadía o permanencia migratoria autorizada, en cada país que haya suscripto dicho acuerdo, para aquellos nacionales del MERCOSUR Ampliado que viajen a otro país del bloque en calidad de turistas.",
+                "5. Resaltaron la importancia de la Opinión Consultiva 21/14 sobre Niñez Migrante de la Corte Interamericana de Derechos Humanos e instaron a las autoridades migratorias y de protección de la niñez de los países del bloque a observar sus estándares y a continuar el trabajo articulado de elaboración e implementación de una “Guía Regional para la identificación y atención de niños, niñas y adolescentes migrantes”.",
+                "6. Convencidos de la gravedad de la situación de los niños, niñas y adolescentes migrantes, destacaron la adopción el 7 de octubre pasado de la “Declaración Especial sobre la Situación de los Niños, Niñas y Adolescentes Centroamericanos Migrantes Retenidos en la Frontera Sur de los Estados Unidos de América”, en seguimiento al Comunicado Especial adoptado en el marco de la XXXVI Cumbre de Jefes de Estados y de Gobierno, celebrada en Caracas, Venezuela, el 29 de julio de 2014.",
+                "7. Se congratularon por los avances sustanciales realizados en materia de cooperación consular mediante la adopción de iniciativas concretas y estratégicas encaminadas a lograr la libre movilidad en el MERCOSUR, en particular por la iniciativa de ampliar y actualizar el Mecanismo de Cooperación Consular previsto en la Decisión 35/00. Asimismo, la necesidad de una pronta implementación del Pasaporte Provisorio MERCOSUR (Salvoconducto), primer documento de viaje de la región, que contribuirá a agilizar el servicio consular brindado a los ciudadanos y a prevenir el fraude documentario.",
+                "8. Celebraron la realización de la I Reunión de Autoridades sobre Pueblos Indígenas del MERCOSUR (RAPIM) que tuvo lugar el 5 de diciembre pasado como un espacio que, junto a las comunidades indígenas de la Región, propiciará la unión de los pueblos de la América indígena, valorando y compartiendo su cosmovisión y rescatando los saberes ancestrales, mientras permitirá, a las instancias de gobierno responsables, construir consensos regionales ante Foros globales sobre la temática indígena. En relación al mismo, elogiaron la aprobación del “Plan de Acción del MERCOSUR Indígena” para el período 2015-2016, conteniendo una serie de ejes temáticos, objetivos y acciones, tendientes a hacer del MERCOSUR un espacio de inclusión y participación de los Pueblos Indígenas, reconociendo su rol activo en el proceso de integración. En este contexto, acogieron con satisfacción la invitación formulada por el Gobierno de Chile al MERCOSUR para participar en la primera competencia de futbol, Copa Indoamericana, que tendrá lugar en 2015.",
+                "9. Destacaron los avances realizados en la Reunión de Ministros de Educación para la puesta en marcha del Plan de Funcionamiento del Sistema Integrado de Movilidad del MERCOSUR y de la Unidad Técnica de Educación (UTE), que será la encargada de gestionar y administrar el SIMERCOSUR”.Se congratularon por la firma de un nuevo Convenio con la Corporación Andina de Fomento (CAF), por el cual CAF tendrá a su cargo la custodia y la gestión financiera de los recursos del Fondo de Financiamiento del Sector Educacional del MERCOSUR (FEM), los que serán destinados a financiar programas y proyectos del sector educativo en los Estados Partes y en los Estados Asociados del MERCOSUR que se encuentren adheridos al FEM.Recibieron con beneplácito la adhesión de Ecuador al “Acuerdo sobre la Creación e Implementación de un Sistema de Acreditación de Carreras Universitarias (ARCU-SUR) para el reconocimiento regional de la calidad académica de las respectivas titulaciones en el MERCOSUR y Estados Asociados”.",
+                "10. Expresaron su satisfacción por la Declaración de Buenos Aires de la Reunión de Ministros de Justicia, en la que se reafirma la importancia de promover la adopción de medidas legislativas y administrativas tendientes a la desmilitarización de la institución penitenciaria y la superación de su carácter de fuerza de seguridad. Saludaron la aprobación de la “Diplomatura en Salud en Contextos de Encierro” y el “Programa Anual de Capacitación del Personal de los Servicios Penitenciarios del MERCOSUR y Estados Asociados”, iniciativas que contribuirán a la disminución de la violencia, a la vigencia de los Derechos Humanos y a la garantía del derecho a la salud. Destacaron asimismo la creación de la Red MERCOSUR en Materia de Medios Alternativos de Resolución de Conflictos, que fortalecerá la implementación de los métodos de resolución pacífica de conflictos como política pública de los Estados.",
+                "11. Destacaron la aprobación del modelo único de chapa patente o placa de identificación única obligatoria para todos los vehículos de los Estados Partes a partir del 1 de enero de 2016. Al respecto, resaltaron la importancia de la patente única para la consolidación progresiva del proceso de integración, en el que esté garantizada la libre circulación de vehículos, facilitando las actividades productivas y al mismo tiempo, combata los delitos transfronterizos. Asimismo, reconocieron la relevancia de la implementación de un Sistema de Consultas sobrevehículos del MERCOSUR para avanzar en la lucha contra los delitos de robo de vehículos, la trata de personas y el narcotráfico, entre otrosdelitos transfronterizos.",
+                "12. Destacaron la existencia en el ámbito del MERCOSUR del espacio para la profundización de los derechos humanos y se congratularon por los avances registrados en la Reunión de Altas Autoridades en Derechos Humanos y Cancillerías del MERCOSUR y Estados Asociados, en cuya XXV sesión se celebró su décimo aniversario y se rindió especial homenaje a la memoria del Dr. Rodolfo A. Mattarollo, quien abogó por la defensa de los derechos humanos en la región y en el mundo. Saludaron la labor de todas las Comisiones Permanentes y Grupos de Trabajo de esa instancia, especialmente en asuntos vinculados a la búsqueda de memoria, verdad y justicia, derechos de los niños, niñas y adolescentes, educación en derechos Humanos, asuntos de Género y Derechos Humanos de las Mujeres, LGBTI, el combate a la discriminación, el racismo y la xenofobia así como promoción y protección de los derechos humanos de las Personas con Discapacidad y Adultos Mayores. De igual forma, felicitaron la entrega del edificio sede del IPPDH en el espacio para la Memoria y los Derechos Humanos (ex ESMA).",
+                "13. Confirmaron una vez más el compromiso de los países del MERCOSUR con la Institución del Refugio y la protección de los refugiados y tomaron nota de la Declaración y del Plan de Acción de Brasil, en el contexto de la Reunión Ministerial de Cartagena+30, así como de su proceso preparatorio, y remarcaron que el éxito de la Conferencia y el carácter innovador de los documentos aprobados refuerzan el papel de vanguardia ejercido por la región en el campo de la protección internacional a los refugiados, desplazados internos y apátridas. Asimismo, felicitaron a Argentina, Brasil y Uruguay por sus programas de asistencia a refugiados sirios. Congratularon también otras iniciativas, tales como, los programas de visas humanitarias puestos en marcha en Argentina y en Brasil, así como el programa de becas mediante el cual jóvenes palestinos realizan estudios universitarios de medicina en Venezuela. Felicitaron igualmente a la República del Ecuador por su política de movilidad humana que ha permitido desarrollar en su territorio un plan para la atención integral de los refugiados.",
+                "14. Reafirmaron su compromiso para reforzar los sistemas interamericano e internacional para la promoción y protección de todos los derechos humanos y destacaron la importancia de realizar esfuerzos para la adopción de medidas tendientes a eliminar toda forma de discriminación. En ese marco valoraron la labor realizada en el Grupo de Trabajo sobre LGTBI de la RAADDHH.",
+                "15. Celebraron la publicación “La Diversidad de las expresiones culturales: Buenas Prácticas en el MERCOSUR”, que constituye el primer logro editorial colectivo de la Reunión de Ministros de Cultura y en la que, gracias al aporte de los Ministerios y equipos de trabajo de los Estados Partes y Asociados, se registraron las experiencias de prácticas culturales del bloque, asociadas a los ejes de diversidad e inclusión.Subrayaron la importancia de promover la profundización de la memoria cultural de nuestros pueblos, a través, de procesos de identificación y reivindicación de nuestras culturas y de la historia, con el fin de construir sociedades libres, capaces de reconocerse y valorarse desde un sentido de pertenencia, teniendo en cuenta el respeto a la diversidad cultural de cada uno de los pueblos con miras a alcanzar la soberanía plena y la unidad suramericana.",
+                "16. Destacaron la decisión de posicionar transversalmente el concepto de diversidad cultural e inclusión social como dos componentes determinantes del espacio cultural del MERCOSUR y recomendaron la incorporación de la Cultura y la noción de bienestar y del Vivir Bien / Buen Vivir como concepto que coadyuva al desarrollo sostenible con identidad en la Agenda de Desarrollo Post 2015.",
+                "17. Saludaron asimismo la creación del Premio MERCOSUR de Artes Visuales, que contribuirá a fortalecer la producción artística del bloque.",
+                "18. Saludaron la conclusión y publicación, en el marco de la Reunión de Ministros y Autoridades de Desarrollo Social, denominada “Revalorizando Nuestros Alimentos Tradicionales: Seguridad Alimentaria, Identidad y Diversidad Cultural en el MERCOSUR”, proyecto que rescata la identidad regional a través de los alimentos comunes, sus formas de producción local y el impacto económico de su consumo.Alentaron a la RMADS a profundizar - sobre esta base - el camino iniciado, haciendo de este primer producto una herramienta de difusión y puesta en valor y rescate de los valores culturales, alimenticios y nutricionales de estos productos que además de ser “Alimentos Sanos, Cercanos y Nuestros”, nos identifican como región.",
+                "19. Destacaron el proceso de reflexión de la RMADS a fin de redefinir temáticas de trabajo.Instaron a la RMADS a profundizar el debate acerca de los Objetivos de Desarrollo Sostenible y de la Agenda Post-2015, para avanzar la discusión hacia una posición común del MERCOSUR que priorice el desarrollo sostenible con inclusión y el ejercicio pleno de derechos.",
+                "20. Recordaron la proclamación del decenio internacional de la ascendencia africana y destacaron la importancia de intercambiar ideas con miras a la identificación de acciones y actividades concretas para su celebración en el ámbito del MERCOSUR.",
+                "21. Renovaron su compromiso de avanzar en la profundización de la dimensión social y ciudadana del MERCOSUR y subrayaron la realización de la IV Sesión Ampliada de la Comisión de Coordinación de Ministros de Asuntos Sociales del MERCOSUR (CCMASM), que contó con la presencia de Ministros y Autoridades de Estados Partes del MERCOSUR y Estados Asociados participantes en las Reuniones de Ministros de Justicia; Derechos Humanos; Educación; Cultura; Trabajo; Salud; Desarrollo Social y Mujer, así como en las Reuniones Especializadas de Ciencia y Tecnología y Agricultura Familiar.",
+                "22. Saludaron la adopción, en ese ámbito, de la Declaración de Buenos Aires “La Dimensión Social del MERCOSUR como Eje Estratégico del Proceso de Integración: Financiamiento para Acciones Regionales Transversales en el marco del PEAS”, por medio de la cual reiteraron la importancia de disponer de mecanismos regionales adecuados de financiación para el desarrollo e implementación de proyectos sociales regionales.En este sentido, instruyeron a las instancias pertinentes del MERCOSUR a redoblar esfuerzos para asegurar que sea viabilizado el financiamiento de dichos proyectos con recursos del Fondo para la Convergencia Estructural del MERCOSUR (FOCEM), teniendo en cuenta las particularidades de esos proyectos en su evaluación, de manera de cumplir con la Directriz 25 del Plan Estratégico de Acción Social referida a “garantizar que los proyectos prioritarios dispongan de mecanismos regionales y nacionales de financiamiento adecuado”.Celebraron los avances en las propuestas de revisión del Plan Estratégico de Acción Social de MERCOSUR (PEAS), que la CCMASM pretende abordar durante el próximo año.",
+                "23. Expresaron su beneplácito ante los resultados de la XXXV Reunión de Ministros del Interior y Seguridad de los Estados Partes del MERCOSUR y Estados Asociados, respecto a la Instalación de la Plataforma de Interoperabilidad del Sistema de Intercambio de Información de Seguridad del MERCOSUR (SISME) en la sede de la Secretaría del MERCOSUR. La instalación de la Plataforma agilizará el intercambio de información entre los Estados Partes del MERCOSUR y Estados Asociados, constituyéndose en un nodo regional que permitirá el intercambio con Organismos como INTERPOL. Destacaron asimismo la firma de la “Declaración Conjunta sobre el SISME”, la cual manifiesta la voluntad de comprometer los esfuerzos para consolidar el funcionamiento del SISME, y la “Declaración para la Coordinación de Acciones contra el Tráfico Ilícito de Bienes Culturales”, con el objeto de fortalecer la cooperación para prevenir, investigar y combatir el tráfico ilícito de bienes culturales, convencidos de que la pérdida de bienes culturales afecta por igual a todos los sectores de la población y despoja a las comunidades de su herencia cultural colectiva.Destacaron asimismo la aprobación del “Protocolo Complementario al Acuerdo sobre Lineamientos en materia de Seguridad en Eventos Futbolísticos Internacionales entre los Ministerios competentes de los Estados Partes del MERCOSUR y Estados Asociados”, que facilitará el intercambio de información entre los Estados Parte, esencial para prevenir la violencia en los torneos de fútbol que se celebren en la región, en especial la Copa América el Mundial Sub 17 que se celebrarán en Chile en 2015, (asimismo que la competición de fútbol en el marco de XXI los Juegos Olímpicos de Río de Janeiro, en 2016).",
+                "24. Saludaron los trabajos realizados por el “Foro Especializado en Terrorismo” (FET) del MERCOSUR y Estados Asociados, destacando la elaboración del documento “Ciber-amenazas, Legislaciones Nacionales en el MERCOSUR” y la “Apreciación Regional Semestral – Noviembre 2014”.",
+                "25. Destacaron la importante contribución del Grupo de Trabajo sobre Armas de Fuego y Municiones (GTAFM) y el Subgrupo Técnico (ST-GTAFM), para prevenir, combatir y erradicar el problema de la fabricación y el tráfico ilícito de armas, municiones, explosivos y otros materiales relacionados, constituyendo un importante ámbito de coordinación y cooperación regional para la implementación de políticas y programas comunes en la materia.",
+                "26. Se congratularon por los grandes avances alcanzados durante la XVII Reunión Especializada de Ministerios Públicos del MERCOSUR, en materia de protección de Derechos Humanos y lucha contra el crimen organizado.Destacaron la creación de herramientas y elaboración de estrategias para prevenir, juzgar y sancionar la trata y explotación de personas, la violencia de género, los crímenes de lesa humanidad, los delitos cometidos contra las personas privadas de su libertad y el cibercrimen.",
+                "27. Destacaron el hecho que la Reunión Especializada de Organismos Gubernamentales de Control Interno (REOGCI) retomó sus trabajos después de cinco años, los cuales permitirán fortalecer los mecanismos de control interno de los Estados. En este sentido resaltaron la instrumentación al finalizar las gestiones de los titulares de organismos y entidades de un Libro Blanco de Gestión y Rendición de Cuentas y la creación de un Centro de Investigación, Capacitación y Desarrollo de Control Interno del MERCOSUR, en el ámbito del Instituto Superior de Control de la Gestión Pública dependiente de Sindicatura General de la Nación de Argentina.",
+                "28. Saludaron y apoyaron los avances realizados por la XI Reunión Especializada de Reducción de Riesgos de Desastres Socionaturales, la defensa Civil, la Protección Civil y la Asistencia Humanitaria del MERCOSUR (REHU), y alentaron a continuar impulsando iniciativas tendientes a mejorar los mecanismos de coordinación y cooperación subregionales en la materia y a la construcción de posiciones compartidas en los distintos foros que abordan la gestión del riesgo de desastres y la coordinación de la asistencia humanitaria internacional, con especial atención en los procesos preparatorios con vistas a la III Conferencia Mundial de Reducción de Riesgos de Desastres (Sendai 2015) y la Cumbre Mundial Humanitaria (Estambul 2016).",
+                "29. Saludaron la Reunión Informativa Ministerial del MERCOSUR y la Alianza del Pacífico, realizada el pasado 1 de noviembre, en Cartagena de Indias, Colombia, que dio oportunidad a un intercambio de experiencias sobre el desarrollo de la integración que llevan adelante ambos bloques.Asimismo, tomaron nota del Seminario “Diálogo sobre Integración Regional: Alianza del Pacífico y MERCOSUR”, realizado el 24 de noviembre de 2014 en Santiago de Chile.",
+                "30. Reafirmaron los términos de la Declaración de los Presidentes de los Estados Partes del MERCOSUR, la República de Bolivia y la República de Chile, firmada el 25 de junio de 1996 en Potrero de los Funes, República Argentina, denominada Declaración de Malvinas, y reiteraron su respaldo a los legítimos derechos de la República Argentina en la disputa de soberanía relativa a la Cuestión de las Islas Malvinas.Destacaron que la adopción de medidas unilaterales no es compatible con lo acordado en las Naciones Unidas, y recordaron el interés regional en que la prolongada disputa de soberanía entre la República Argentina y el Reino Unido de Gran Bretaña e Irlanda del Norte sobre las Islas Malvinas, Georgias del Sur y Sandwich del Sur y los espacios marítimos circundantes, alcance, cuanto antes, una solución de conformidad con las resoluciones pertinentes de las Naciones Unidas y las declaraciones de la Organización de los Estados Americanos, de la CELAC, de la UNASUR, del MERCOSUR y de otros foros regionales y multilaterales.Recordaron, en ese marco, que el 16 de diciembre de 2015 se cumplirá el 50° aniversario de la adopción de la resolución 2065 (XX) de la Asamblea General, la primera referida específicamente a la Cuestión de las Islas Malvinas, renovada posteriormente a través de sucesivas resoluciones de la Asamblea General y el Comité Especial de Descolonización hasta nuestros días, y observaron con satisfacción la importante contribución hecha por el Comité Especial de Descolonización de las Naciones Unidas en su consideración de la Cuestión durante los cincuenta años desde la adopción de la resolución 2065 (XX).Expresaron su grave preocupación por el hecho de que han transcurrido cincuenta años desde la adopción de la resolución 2065 (XX) sin que se hayan producido progresos sustanciales en las negociaciones, y acordaron que la próxima Presidencia Pro Témpore realizará una nueva gestión ante el Secretario General de las Naciones Unidas para solicitarle que renueve de sus esfuerzos en el cumplimiento de la misión de buenos oficios que le fuera encomendada por la Asamblea General a través de sucesivas resoluciones, a fin de que se reanuden las negociaciones tendientes a encontrar a la mayor brevedad una solución pacífica a la referida disputa y les haga conocer los avances producidos en el cumplimiento de su misión.",
+                "II. EN EL ÁMBITO REGIONAL, DE LATINOAMÉRICA Y EL CARIBE",
+                "31. Se congratularon por los importantes resultados alcanzados en la Cumbre Extraordinaria de Jefas y Jefes de Estado y de Gobierno de la UNASUR, que tuvo lugar en las ciudades de Guayaquil y Quito los días 4 y 5 de diciembre de 2014; en especial por los acuerdos alcanzados con el objetivo de avanzar en la progresiva construcción de la unidad suramericana. Asimismo, felicitaron a UNASUR y en especial al Gobierno de la República del Ecuador por la inauguración de la nueva sede, Edificio Néstor Kirchner, en la ciudad de Quito, sector Mitad del Mundo, el cual contribuirá a fortalecer y profundizar la integración sudamericana.Manifestaron sus deseos de éxito a la República Oriental del Uruguay en el ejercicio de la Presidencia Pro Tempore de UNASUR, recientemente asumida y expresaron su apoyo a los trabajos a desarrollar durante su gestión en pos de fortalecer el proceso de integración suramericana, en particular los esfuerzos tendientes a la búsqueda de complementación y articulación con otros mecanismos regionales y subregionales de integración.",
+                "32. Saludaron el X Aniversario de la Alianza Bolivariana de los Pueblos de Nuestra América - Tratado de Comercio de los Pueblos (ALBA – TCP) y los logros alcanzados por este esquema de integración para el desarrollo y el bienestar de los pueblos con base en los principios de solidaridad, complementariedad, justicia y cooperación.",
+                "33. Destacaron la consolidación de la Comunidad de Estados Latinoamericanos y Caribeños (CELAC) como foro de diálogo y concertación política y resaltaron los avances de este proceso de integración, en las distintas instancias ministeriales y sectoriales que lo componen, así como la necesidad de promover la coordinación y la complementariedad con otros mecanismos de integración regional y subregional.Expresaron asimismo su satisfacción por la próxima celebración de la III Cumbre de Jefas y Jefes de Estado y de Gobierno de la CELAC, en la ciudad de San José, Costa Rica, los días 28 y 29 de enero de 2015. Manifestaron sus deseos de éxito a la República de Ecuador en el ejercicio de la Presidencia Pro Tempore de CELAC, que será asumida en la III Cumbre de San José.",
+                "34. Saludaron la realización de la I Reunión Ministerial del Foro CELAC – China en la ciudad de Beijing, República Popular China, los próximos días 8 y 9 de enero de 2015, que sentará las bases para una nueva asociación estratégica entre China y América Latina y el Caribe.",
+                "35. Se congratularon, asimismo, por los resultados de la XXIV Cumbre Iberoamericana, realizada el 8 y 9 de diciembre en Veracruz, México, en particular por los compromisos adoptados en materia de Educación, Cultura e Innovación, así como las decisiones para avanzar en la renovación de la Conferencia y la reestructuración de su Secretaría General.",
+                "36. Expresaron su satisfacción por la Declaración adoptada el 3 de julio de 2014, en el marco de la XXVIII Reunión de Consulta de Ministros de Relaciones Exteriores de la Organización de los Estados Americanos (OEA), por la cual se respalda a la República Argentina a fin de que pueda seguir cumpliendo con sus obligaciones, pagando su deuda, honrando sus compromisos financieros y para que, a través del diálogo, logre un acuerdo justo, equitativo y legal con el 100% de sus acreedores” y se considera “esencial para la estabilidad y previsibilidad de la arquitectura financiera internacional garantizar que los acuerdos alcanzados entre deudores y acreedores, en el marco de los procesos de reestructuración de las deudas soberanas, sean respetados permitiendo que los flujos de pago sean distribuidos a los acreedores cooperativos según lo acordado con los mismos en el proceso de readecuación consensual de la deuda.",
+                "37. Las Presidentas y los Presidentes de los Estados Partes y Asociados del MERCOSUR, acuerdan continuar trabajando con miras a concluir las negociaciones del proyecto de Convención Interamericana sobre los Derechos Humanos de las Personas Mayores, antes de la próxima Asamblea General de la Organización de los Estados Americanos (N° 45). Asimismo, acuerdan que se comience a trabajar sobre el texto de un documento vinculante a nivel internacional, en el Grupo de Trabajo de Composición Abierta sobre el Envejecimiento, en el marco de Naciones Unidas.",
+                "38. Resaltaron los resultados de la II Conferencia sobre Países en Desarrollo sin Litoral, realizada en Viena y la participación destacada de Bolivia, de la República del Paraguay y del Alto Representante General del MERCOSUR en dicho evento. En ese sentido, reconocieron, que no obstante la situación especial del Paraguay como país sin litoral, este puede constituirse en un importante nexo entre el Atlántico y el Pacífico.Consideraron de interés regional los proyectos de infraestructura que viene emprendiendo el Estado Plurinacional de Bolivia tendientes a interconectar el Océano Pacífico con el Océano Atlántico.",
+                "39. Felicitaron las acciones ejecutadas en la región para prevenir y enfrentar la epidemia de ébola, entre ellas, las donaciones realizadas por el Estado Plurinacional de Bolivia, la República Federativa de Brasil y la República Bolivariana de Venezuela. Asimismo, saludaron la iniciativa de la Cumbre Extraordinaria del ALBA-TCP sobre el ébola, celebrada en La Habana el 20 de octubre de 2014.",
+                "40. Reconocieron la importancia de la aplicación de las medidas dispuestas por el CMCT de la OMS, sus Directrices, sus Protocolos, y las Resoluciones y Decisiones pertinentes aprobadas por la Asamblea General de la ONU y la Asamblea Mundial de la Salud en relación con la prevención y el control de las enfermedades no transmisibles, como premisas fundamentales de protección a la salud pública, las que buscan garantizar el pleno goce de los derechos humanos, individuales y colectivos, en especial de poblaciones vulnerables, como los niños, los jóvenes y los más pobres, así como el desarrollo pleno de las Naciones.Ratificaron el apoyo a la República Oriental del Uruguay ante la interferencia de la industria multinacional tabacalera en la implementación de políticas de control del tabaco, lo que atenta contra el derecho soberano de los Estados a definir sus políticas de salud.",
+                "III. EN EL ÁMBITO MULTILATERAL",
+                "41. Expresaron su beneplácito por la adopción de la Resolución de la Asamblea General 68/304 “Hacia el establecimiento de un marco jurídico multilateral para los procesos de reestructuración de la deuda soberana”, la cual fuera adoptada el pasado 9 de septiembre. La Resolución demostró el interés de la amplia mayoría de la comunidad internacional de dar respuesta al uso y abuso que hacen los especuladores de la laguna normativa existente en el actual sistema financiero internacional. Destacaron la importante coordinación y activo rol que desempeñó el Grupo de los 77 y China en la consecución de esta iniciativa.Felicitaron al Estado Plurinacional de Bolivia por la conducción de la Presidencia del G77 y China, cuyos resultados contribuyeron a realzar a los pueblos del sur, a la lucha por la erradicación de la pobreza y el hambre, a la promoción del vivir bien en armonía y en equilibrio con la Madre Tierra, concepto que coadyuva al desarrollo sostenible.",
+                "42. Saludaron la incorporación del Estado Plurinacional de Bolivia y de la República del Paraguay al Consejo de Derechos Humanos de las Naciones Unidas, para el periodo 2015-2017, órgano responsable de fortalecer la promoción y la protección de los derechos humanos en el mundo.",
+                "43. Reconociendo a la Convención Marco de las Naciones Unidas sobre Cambio Climático, como la instancia multilateral para la negociación en esta esfera y la imperiosa necesidad del respeto a sus principios, en particular, el principio de responsabilidades comunes pero diferenciadas, y la equidad, congratularon al Gobierno del Perú por la exitosa realización de la Vigésima Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre Cambio Climático (COP 20) y de la Décima Conferencia de las Partes del Protocolo de Kyoto (CMP 10), que tuvieron lugar en Lima del 1 al 12 de diciembre pasado y reafirmaron su compromiso de continuar trabajando de modo constructivo a partir de los acuerdos alcanzados en este ámbito, reconociendo que el cambio climático representa un desafío ineludible para el desarrollo sostenible.",
+                "44. Se congratularon por la elección de Venezuela como Miembro No Permanente del Consejo de Seguridad de las Naciones Unidas para el periodo 2015-2016, lo cual dará continuidad a la representación que hiciera la Argentina de los intereses de los países del MERCOSUR en dicho órgano.",
+                "45. Destacaron la importancia de la biodiversidad y de los humedales para el desarrollo sostenible. En ese marco dieron la bienvenida a la realización de la 12 Conferencia de las Partes de la Convención sobre los Humedales (Convención de Ramsar), la cual se realizará en Punta del Este, Uruguay del 1 al 9 de junio de 2015, bajo el lema “humedales para nuestro futuro” y auguraron los mayores éxitos para la misma.",
+                "46. Reiteraron la importancia de la Convención de Minamata sobre Mercurio y la necesidad de su pronta ratificación y entrada en vigor temprana dado el significativo avance que representa hacia la implementación de medidas dirigidas a proteger la salud y el ambiente de las emisiones y liberaciones de mercurio.",
+                "47. Reafirmaron la importancia y los desafíos asociados a la definición de una Nueva Agenda Urbana para la región conscientes del acelerado proceso de urbanización de América Latina y El Caribe con miras a la próxima Conferencia de Habitat III sobre Vivienda y Desarrollo Urbano Sostenible, que tendrá lugar en Quito, Ecuador en octubre de 2016, y se comprometieron a seguir ejecutando políticas de vivienda y desarrollo urbano que garanticen la equidad territorial, reviertan la segregación urbana, promuevan la sustentabilidad de los territorios, impulsen el acceso a los servicios básicos, incorporen la gestión de riesgos, contemplen la relación entre ciudades pequeñas, intermedias y metrópolis y fortalezcan la institucionalidad en nuestra región.",
+                "48. Como parte del diálogo intrarregional, respaldaron a la República del Ecuador que organizará la VI Cumbre de Jefes de Estado y de Gobierno del Mecanismo África - América del Sur (ASA) en el año 2016.",
+                "EXPRESARON su reconocimiento y agradecimiento a la Señora Presidenta de la República Argentina, Dra. Cristina Fernández de Kirchner, al Gobierno Nacional, al Gobierno de la Provincia de Entre Ríos y al pueblo argentino por su hospitalidad así como por la realización de la XLVII Cumbre del MERCOSUR y Estados Asociados.",
+                "***",
+                "COMUNICADO CONJUNTO DE LAS PRESIDENTAS Y LOS PRESIDENTES DE LOS ESTADOS PARTES DEL MERCOSUR",
+                "La Presidenta de la República Argentina, Cristina Fernández de Kirchner, la Presidenta de la República Federativa del Brasil, Dilma Rousseff; el Presidente del Estado Plurinacional de Bolivia, Evo Morales Ayma; el Presidente de la República del Paraguay, Horacio Cartes Jara; el Presidente de la República Oriental del Uruguay, José Mujica Cordano; y el Presidente de la República Bolivariana de Venezuela, Nicolás Maduro Moros, reunidos en Paraná, el día 17 de diciembre de 2014, en ocasión de la XLVII Reunión Ordinaria del Consejo del Mercado Común:",
+                "1. Saludaron la participación de Líbano, México y Túnez como invitados especiales, representados por el Canciller de la República del Líbano Gebran Bassil, y los Embajadores de México, Fernando Jorge Castro Trenti y de Túnez, Hichem Bayoudh.",
+                "2. Saludaron la participación de la Secretaria General Iberoamericana, Rebeca Grynspan; del Secretario Ejecutivo Adjunto de la Comisión Económica para América Latina (CEPAL), Antonio Prado; del Secretario General de la Comunidad Andina de Naciones (CAN), Pablo Guzmán Laugier; del Representante de la Corporación Andina de Fomento (CAF) en Argentina, Rubén Ramírez Lescano; y del Gerente del Departamento de Países del Cono Sur del Banco Interamericano de Desarrollo (BID), José Luis Lupo.",
+                "3. Se congratularon por los procesos electorales llevados a cabo en el Estado Plurinacional de Bolivia, la República Federativa de Brasil y la República Oriental del Uruguay, y saludaron a los Presidentes electos Evo Morales Ayma, Dilma Rousseff y Tabaré Vázquez Rosas, expresándoles sus mayores deseos de éxitos en las gestiones.",
+                "4. Reiteraron su firme compromiso con el MERCOSUR, destacando que sus objetivos deben orientarse a profundizar la integración y el desarrollo de los pueblos, la consolidación de la democracia y el respeto de los derechos humanos.",
+                "5. Ratificaron su determinación de fortalecer la dimensión social y ciudadana de la integración, resaltando la importancia de los trabajos que se desarrollan en los distintos foros para garantizar la generación de empleo y el crecimiento económico con justicia e inclusión social.",
+                "6. Manifestaron la necesidad de continuar impulsando iniciativas y acciones que conduzcan a avanzar en la complementariedad de las estructuras productivas de los Estados Partes, lo cual permitirá fortalecer el modelo regional de desarrollo económico inclusivo y ayudará a mejorar las condiciones de competitividad de los diferentes sectores.",
+                "7. Tomaron nota, con satisfacción, del informe de actividades semestrales del Alto Representante General del MERCOSUR al Consejo del Mercado Común. Reconocieron su papel en la organización y realización de la misión de acompañamiento electoral a Bolivia y en su participación en la II Conferencia sobre Países en Desarrollo sin Litoral. Asimismo, destacaron sus contribuciones para el fortalecimiento de los trabajos en materia de integración productiva y la realización de encuentros sectoriales en el Centro de Asociatividad Empresarial de Montevideo.",
+                "8. Manifestaron su reconocimiento a los avances logrados en el proceso de Adhesión del Estado Plurinacional de Bolivia al MERCOSUR, durante la Presidencia Pro Témpore Argentina e instaron a continuar los esfuerzos para avanzar en este objetivo. En ese sentido, agradecieron los trabajos llevados a cabo por la Delegación de Bolivia que han permitido un desempeño exitoso en las instancias de trabajo.  Acordaron volver a analizar la propuesta presentada por la Republica de Paraguay y pronunciarse hasta el mes de marzo de 2015, para culminar el proceso de adhesión del Estado Plurinacional de Bolivia al MERCOSUR.",
+                "9. Celebraron la designación del Dr. Paulo Abrão Pires Jr. como Secretario Ejecutivo del Instituto de Políticas Públicas de Derechos Humanos del MERCOSUR (IPPDDHH), expresando su confianza en que su nombramiento reforzará el compromiso de los Estados Partes en la consolidación de dicho órgano.Agradecieron al Secretario Ejecutivo saliente, Dr. Víctor Abramovich, por su abnegada labor en pos de la jerarquización de los Derechos Humanos como uno de los ejes fundamentales de la integración regional.",
+                "10. Recibieron con beneplácito las iniciativas de la PPTA para consolidar a la integración productiva en el MERCOSUR y se congratularon por la aprobación del primer Programa de Integración Productiva Sectorial del MERCOSUR para la industria del sector de Juguetes y del Reglamento del Mecanismo de Fortalecimiento Productivo del MERCOSUR. Coincidieron, asimismo, en la importancia de que las iniciativas de Integración Productiva estén acompañadas por medidas destinadas a facilitar el comercio de intrazona como prioridades estratégicas para el MERCOSUR.Destacaron los trabajos desarrollados por el Proyecto “Integración Productiva Sectorial y Territorial en el marco del Observatorio Regional Permanente de Integración Productiva”, agradeciendo el apoyo recibido por parte de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID). Asimismo, se congratularon por la aprobación de un nuevo proyecto de cooperación, a ser presentado a la AECID durante el primer semestre del año próximo, que permitirá dar continuidad a lo actuado y profundizar su alcance. Celebraron la inauguración del Centro de Asociatividad Empresarial de Montevideo y la realización de dos encuentros sectoriales de integración productiva dirigidos a identificar e implementar proyectos, con la participación de nueve sectores productivos de los Estados Partes y el acompañamiento del Alto Representante General del MERCOSUR, Dr. Ivan Ramalho.",
+                "11. Subrayaron la importancia estratégica del Fondo para la Convergencia Estructural del MERCOSUR (FOCEM) como herramienta para combatir las asimetrías, fomentar la convergencia estructural y la integración productiva de los países del bloque, desarrollar la competitividad, promover la cohesión social y el bienestar de los pueblos, en particular de las economías menores y regiones menos desarrolladas, y apoyar el funcionamiento de la estructura institucional y el fortalecimiento del proceso de integración. Asimismo, se congratularon por la aprobación de la nueva versión del proyecto financiado con recursos del Fondo de Convergencia Estructural del MERCOSUR \"Construcción de la Avenida Costanera Norte de Asunción 2° Etapa y Conexión (Av. Primer Presidente) con la Ruta Nacional N° 9”, a ser ejecutado por la República del Paraguay.",
+                "12. Saludaron la aprobación del Segundo Programa Marco de Ciencia, Tecnología e Innovación del MERCOSUR 2015-2019 aprobado por la LI Reunión Especializada de Ciencia y Tecnología del MERCOSUR (RECYT) el 11 de noviembre en Buenos Aires, documento estratégico que persigue la construcción de un espacio MERCOSUR de Ciencia, Tecnología e Innovación para promover la integración de las capacidades existentes en el bloque en función de problemas y prioridades comunes y favorecer el desarrollo científico y tecnológico sustentable que permita la complementación productiva y la disminución de las desigualdades sociales de cada Estado Parte.",
+                "13. Tomaron nota de la instrucción del Consejo del Mercado Común a los efectos de priorizar el tratamiento de las propuestas de Regímenes Económicos Especiales presentadas por Paraguay, y demás normas comerciales objeto del punto 2.1. de la Agenda del XLIV GMC Extraordinario, con vista a encontrar una solución antes del final de la Presidencia Pro Témpore de Brasil. En este contexto, destacaron la prórroga de aquellos Regímenes que así lo requerían.",
+                "14. Destacaron la importancia del Plan de Trabajo del Subgrupo N° 7 “Industria” de impulsar acciones concretas con vistas al desarrollo de proveedores a nivel regional, a efectos de buscar alternativas competitivas a las importaciones de extrazona en los sectores de Bienes de Capital para la Industria de Gas y Petróleo, Maquinaria Agrícola, Minería, y Autopartes.",
+                "15. Resaltaron los avances de los trabajos de las Aduanas en el “Programa Piloto Intra-MERCOSUR de Seguridad Aduanera en la Cadena de Suministro de Bienes”, que permitieron concretar dos acuerdos para su implementación a nivel bilateral entre Brasil y Uruguay y entre Argentina y Uruguay. Este Programa propicia la generación de confianza mutua entre las Aduanas para lograr procedimientos de control aduanero más eficaces, ágiles y simples con miras a implementar, en un futuro, Acuerdos de Reconocimiento Mutuo.Asimismo, recibieron con satisfacción, también, las tareas conjuntas de las Aduanas en la implementación, a nivel regional, del Sistema SINTIA (Informatización del Tránsito Internacional Aduanero), del precinto electrónico y el Programa para el Fortalecimiento de la Gestión del Riesgo Aduanero en el MERCOSUR.",
+                "16. Saludaron el lanzamiento del Curso MERCOSUR online de Defensa del Consumidor, y la pronta realización de las pruebas piloto del Sistema Interamericano de Alertas Rápidas (SIAR) de la Organización de Estados Americanos, implementando, de ese modo, el procedimiento de alerta y retiro de productos y servicios considerados potencialmente nocivos o peligrosos (Recall).Tomaron nota del Programa Precios Cuidados y del nuevo Sistema de Resolución de Conflictos en las Relaciones de Consumo aplicados por la República Argentina en defensa del consumidor.",
+                "17. Saludaron los trabajos del Grupo de Cooperación Internacional (GCI) dirigidos a la actualización del acervo normativo de la Política de Cooperación Internacional del MERCOSUR, cuya base son los principios que guían la Cooperación Sur-Sur como la solidaridad, horizontalidad, no condicionalidad, consenso, y beneficio mutuo, en particular de sus estrategias intra y extra-bloque.Resaltaron, también, la firma del Memorando de Entendimiento entre MERCOSUR y la Organización Internacional para las Migraciones (OIM) que permitirá desarrollar un programa conjunto de cooperación técnica en áreas de mutuo interés.Recibieron con beneplácito la aprobación del proyecto “Apoyo a la Implementación de la Política de Igualdad de Género en el MERCOSUR” de la Reunión de Ministras y Altas Autoridades de la Mujer (RMAAM), a ser presentado ante la Agencia Española de Cooperación Internacional para el Desarrollo (AECID).Asimismo, se congratularon por la suscripción del Acuerdo por Notas Reversales con la República Federal de Alemania que permitirá el inicio de un proyecto de cooperación en el marco del SGT N° 3 “Reglamentos Técnicos y Evaluación de la Conformidad”.",
+                "18. Saludaron la Reunión Informativa Ministerial del MERCOSUR y la Alianza del Pacífico, realizada el pasado 1 de noviembre, en Cartagena de Indias, Colombia, que dio oportunidad a un intercambio de experiencias sobre el desarrollo de la integración que llevan adelante ambos bloques. Asimismo, tomaron nota del Seminario “Diálogo sobre Integración Regional: Alianza del Pacífico y MERCOSUR”, realizado el 24 de noviembre en Santiago de Chile.",
+                "19. Se congratularon por la realización de las reuniones de las Comisiones Administradoras de los Acuerdos de Complementación Económica N° 35 (MERCOSUR – Chile), N° 36 (MERCOSUR – Bolivia) y N° 59 (cuyas Partes Signatarias son Argentina, Brasil, Colombia, Ecuador, Paraguay, Uruguay y Venezuela), así como por los avances allí alcanzados, que permitieron al MERCOSUR su retorno, en el plano del relacionamiento intra-regional, a su plenitud institucional. Asimismo, recordaron la importancia de la pronta realización de una reunión de la Comisión Administradora del Acuerdo de Complementación Económica Nº 58 (MERCOSUR - Perú).",
+                "20. Destacaron la importancia de la presentación ante la Secretaría General de SICA el 17 de diciembre de una propuesta para suscribir un Acuerdo Marco de Asociación entre el MERCOSUR y el Sistema de Integración Centroamericano (SICA) que contempla un Mecanismo de Diálogo Político, Cooperación y Comercio e Inversiones, y enfatizaron que dicho Acuerdo contribuirá a fortalecer la integración regional latinoamericana.",
+                "21. Reiteraron su disposición de concretar el establecimiento de la Zona Económica Complementaria entre los Estados Partes del MERCOSUR, los Países Miembros de la ALBA – TCP y CARICOM. En ese sentido, esperan de esas instituciones una clara indicación respecto de las áreas de interés común para consideración.",
+                "22. Expresaron su satisfacción por la suscripción del Memorándum de Entendimiento entre el MERCOSUR y la República del Líbano con la presencia del Sr. Canciller libanés Gebran Bassil, con el objetivo de promover y fortalecer las relaciones económicas y comerciales entre ambas Partes, por medio del mecanismo institucional previsto en el instrumento suscripto.",
+                "23. Saludaron la suscripción del Acuerdo Marco entre el MERCOSUR y la República Tunecina, con la presencia del Embajador Hichem Bayoudh, a fin de renovar e impulsar el desarrollo de las relaciones económicas y comerciales entre ambas Partes, a través del mecanismo institucional previsto en dicho Acuerdo.",
+                "24. Resaltaron el provechoso trabajo desarrollado por el MERCOSUR y la Comisión Económica Euroasiática y se congratularon ante los consensos alcanzados sobre el texto del Memorándum de Cooperación en Materia Económica y Comercial que será suscripto una vez que entre en vigor la Unión Económica Euroasiática, a partir del 1 de enero de 2015.",
+                "25. Ratificaron su interés en lograr un Acuerdo con la Unión Europea ambicioso, equilibrado y mutuamente beneficioso. En ese sentido, reiteraron su disposición en establecer una fecha para el intercambio de las respectivas ofertas de acceso a mercados de bienes, servicios, inversiones y compras gubernamentales una vez que la Unión Europea concluya sus consultas internas necesarias para la presentación de su oferta.",
+                "26. Destacaron los avances registrados en los trabajos para implementar la Certificación de Origen Digital (COD) según los términos establecidos en la Resolución 386 del Comité de Representantes de la ALADI e instaron a que se realicen los mayores esfuerzos para que, a la brevedad posible, la COD sea aplicada en el comercio regional.",
+                "27. Se congratularon por los avances alcanzados en diversas materias en el ámbito de la Unión de Naciones Suramericanas (UNASUR) y la Comunidad de Estados Latinoamericanos y Caribeños (CELAC), y ratificaron su compromiso de seguir articulando acciones con dichos procesos de integración con miras a continuar fortaleciendo el rol de la región latinoamericana y caribeña en el escenario internacional.Se congratularon, también, con la reciente inauguración de la nueva sede oficial de la UNASUR “Néstor Kirchner”, en la ciudad de Quito.Manifestaron sus deseos de éxito a la República Oriental del Uruguay en el ejercicio de la Presidencia Pro Témpore de UNASUR, recientemente asumida, y expresaron su apoyo a los trabajos a desarrollar durante su gestión en pos de fortalecer el proceso de integración sudamericana, en particular los esfuerzos tendientes a la búsqueda de complementación y articulación con otros mecanismos regionales y subregionales de integración. Saludaron la elección del ex Presidente Ernesto Samper como Secretario General de la UNASUR, expresando su confianza en que la gestión consolidará el fortalecimiento de la unidad suramericana.Asimismo, manifestaron sus deseos de éxito a la República del Ecuador que asumirá el próximo mes de enero de 2015 el ejercicio de la Presidencia Pro Témpore de la CELAC, en ocasión de la III Cumbre de Jefas y Jefes de Estado y de Gobierno de la CELAC.",
+                "28. Saludaron el X Aniversario de la Alianza Bolivariana de los Pueblos de Nuestra América - Tratado de Comercio de los Pueblos (ALBA – TCP) y los logros alcanzados por este esquema de integración para el desarrollo y el bienestar de los pueblos con base en los principios de solidaridad, complementariedad, justicia y cooperación.",
+                "29. Destacaron la conformación de los órganos de gobierno del Banco del Sur, lo que significa un impulso importante para la puesta en marcha, a la brevedad, de dicha entidad.",
+                "30. Ratificaron su apoyo a la Resolución AG/68/304(2014) de la ONU, que acordó establecer reglas para un marco jurídico multilateral para los procesos de reestructuración de deuda soberana, y se congratularon por las modalidades aprobadas el 5 de diciembre. Asimismo, manifestaron su satisfacción por el apoyo recibido en otros foros internacionales, como el G20, la OEA, la Cumbre Iberoamericana y la ALADI, para avanzar en esta cuestión que compromete la estabilidad financiera y el crecimiento y desarrollo de los países.Coincidieron en que el accionar de los fondos especulativos pone en riesgo y puede impedir los procesos de reestructuración de deuda.",
+                "31. Ratificaron la necesidad de avanzar con las negociaciones de la Ronda de Doha acordando instrumentos en materia de trato especial y diferenciado, así como el respeto al principio de reciprocidad menos que plena, que aseguren el establecimiento de un sistema multilateral de comercio más justo y equilibrado, que potencie las posibilidades de industrialización y generación de empleo de los países en desarrollo. Reiteraron la prioridad de continuar con el proceso de reforma de las políticas agrícolas, eliminando todas las formas de subvenciones a las exportaciones agrícolas, y la necesidad de establecer disciplinas para las subvenciones a la pesca.",
+                "32. Expresaron preocupación por la lenta y despareja recuperación de la economía global, lo que genera efectos de derrame negativos, que afectan especialmente a los países en desarrollo. Reconocieron que persisten riesgos de acentuar las asimetrías y la exclusión social, y de generar tensiones geopolíticas e inestabilidades en los mercados financieros. En ese sentido, coincidieron en la importancia de asegurar que las políticas macroeconómicas de los Estados Partes sean adecuadas para apoyar el crecimiento, fortalecer la demanda y promover el desarrollo sostenible en sus tres dimensiones económica, social y ambiental en el marco de las políticas de desarrollo de cada país.",
+                "33. Resaltaron la importancia de la II Conferencia de las Naciones Unidas sobre los Países en Desarrollo sin Litoral celebrada en Viena, entre el 3 y 5 de noviembre, destacando la participación de Bolivia y Paraguay, y manifestaron la relevancia de la adopción de mecanismos efectivos para superar las dificultades que enfrenta el Paraguay como país en desarrollo sin litoral.",
+                "34. Felicitaron al “Grupo Ad Hoc para la elaboración e implementación de la Patente MERCOSUR” por la aprobación del modelo único de chapa patente o placa de identificación única y obligatoria para todos los vehículos de los Estados Partes que sean registrados por primera vez a partir del 1 de enero de 2016. Al respecto, resaltaron la importancia de la patente única para la consolidación progresiva del proceso de integración, facilitando las actividades productivas y combatiendo, al mismo tiempo, los delitos transfronterizos. Asimismo, reconocieron la relevancia de la implementación de un Sistema de Consultas sobre vehículos del MERCOSUR para avanzar en la lucha contra los delitos de robo de vehículos, la trata de personas y el narcotráfico, entre otros delitos transfronterizos.",
+                "35. Ratificaron la necesidad de que los Gobiernos participen activamente, junto a las múltiples partes interesadas, en el proceso de transición que se está llevando adelante con relación a la gobernanza de Internet a nivel mundial. En tal sentido, reafirmaron el compromiso de promover una Internet libre, abierta, interoperable, neutral y para todas y todos los habitantes, con el propósito de construir una Sociedad de la Información centrada en la persona y orientada al desarrollo. Manifestaron su interés en la pronta convocatoria de la I Reunión de Autoridades sobre Privacidad y Seguridad de la Información e Infraestructura Tecnológica del MERCOSUR (RAPRISIT). Asimismo, reiteraron la necesidad de promover, en las instancias multilaterales pertinentes, posiciones comunes relacionadas con la adopción de normas relativas a la gobernanza de Internet, con énfasis en los aspectos de seguridad cibernética, en particular para preservar la soberanía de los Estados y la privacidad de los individuos.",
+                "36. Resaltaron la importancia de continuar fomentando el uso de los biocombustibles, especialmente la utilización de la biomasa sólida y el aprovechamiento de residuos para la generación de energía y destacaron la creciente relevancia que tiene la cuantificación de la bioenergía.",
+                "37. Reconocieron a la Convención Marco de las Naciones Unidas sobre Cambio Climático, como la instancia multilateral para la negociación en esta esfera y la imperiosa necesidad del respeto a sus principios, en particular, el principio de responsabilidades comunes pero diferenciadas, y la equidad, congratularon la realización de la XX Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre Cambio Climático (COP 20) y de la Décima Conferencia de las Partes del Protocolo de Kyoto (CMP 10), que tuvieron lugar en Lima del 1 al 12 de diciembre pasado y reafirmaron su compromiso de continuar trabajando de modo constructivo a partir de los acuerdos alcanzados en este ámbito, reconociendo que el cambio climático representa un desafío ineludible para el desarrollo sostenible.",
+                "38. Reiteraron la importancia de promover la conservación y aprovechamiento sostenible de los recursos y riquezas naturales que se encuentran localizados en sus territorios nacionales.",
+                "39. En tal sentido, se comprometieron a realizar, a la brevedad posible, durante la Presidencia Pro Témpore del MERCOSUR de la República Federativa de Brasil, una reunión especial de alto nivel de Ministros de Relaciones Exteriores y Autoridades Responsables, a fin de conocer los detalles del proceso y diseñar una estrategia conjunta del MERCOSUR en la construcción de un acuerdo en ocasión a la XXI Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre Cambio Climático a celebrarse en París en el año 2015.",
+                "40. Saludaron los avances realizados por los Órganos Socio-laborales del MERCOSUR tendientes a la próxima suscripción de una Declaración de los Ministros de Trabajo sobre la Trata Laboral. Recordaron que este es un fenómeno sumamente complejo que afecta particularmente a la región, cuyo abordaje requiere de una coordinación de políticas interministeriales.",
+                "41. Tomaron conocimiento de la Reunión de Ministros de Salud del MERCOSUR el 14 de noviembre en Buenos Aires. Especialmente resaltaron el interés de los Ministros en fortalecer el desarrollo de los Programas de Sangre de la Comisión Intergubernamental de Sangre y Hemoderivados del MERCOSUR impulsando, a través de Acuerdos, estrategias conjuntas para la producción de medicamentos derivados del plasma excedente de transfusiones en los Estados Partes y en la región. Asimismo, destacaron la decisión de los Ministros de Salud de crear la “Red MERCOSUR de Cooperación y Tutorías para el desarrollo de Equipos de Trasplante y Formación de Recursos Humanos en Donación y Trasplante” en el ámbito de la Comisión Intergubernamental de Donación y Trasplantes.Recibieron con beneplácito, que los Ministros de Salud hayan acordado aprobar el Compromiso de Suscripción a las Metas 90-90-90 del Control de la Epidemia del VIH/Sida para el año 2020 en los Estados Partes y Asociados del MERCOSUR.",
+                "42. Saludaron a la Reunión Especializada de Agricultura Familiar (REAF) con motivo de cumplirse 10 años desde su creación, destacando la importancia que tiene para el MERCOSUR la constitución de ámbitos de articulación entre los Estados Partes, los movimientos sociales, los agricultores y las estructuras propias del sistema de integración. Al mismo tiempo, se congratularon por las actividades desarrolladas durante todo el 2014, declarado Año de la Agricultura Familiar.",
+                "43. Tomaron conocimiento de los trabajos desarrollados durante la XXV Reunión Especializada de Comunicación Social del MERCOSUR (RECS) y se congratularon de la aprobación de los “Lineamientos de la política comunicacional del MERCOSUR” cuya aplicación otorgará una mayor visibilidad y conocimiento del proceso de integración en la opinión pública. Asimismo, manifestaron su interés por avanzar con la creación de la Unidad Técnica de Comunicación e Información del MERCOSUR.",
+                "44. Destacaron la tarea realizada por la Reunión Especializada de Autoridades Cinematográficas y Audiovisuales del MERCOSUR (RECAM) en la edición de la Selección de piezas Audiovisuales de Patrimonio Audiovisual del MERCOSUR - Integrando Miradas - con cuatro obras restauradas y más de 600 minutos digitalizados.Asimismo, saludaron la entrega de la primera edición del Premio a la Mejor Película MERCOSUR durante el 29º Festival Internacional de Cine de Mar del Plata, que servirá para fomentar la circulación de contenidos propios en la región.",
+                "45. Destacaron la importancia de promover y consolidar la constitución de cooperativas del MERCOSUR, así como la de alentar y facilitar el desarrollo de grupos cooperativos.",
+                "46. Se congratularon por la presentación de una nueva edición actualizada de la Cartilla de la Ciudadanía del MERCOSUR, por la Comisión de Representantes Permanentes del MERCOSUR, que contará con un vínculo de acceso en el sitio Web de la Secretaría del MERCOSUR y un folleto tríptico para facilitar su más amplia difusión.La Cartilla recopila el importante conjunto de normas, que han sido aprobadas por el MERCOSUR, vinculadas con la vida diaria de las ciudadanas y los ciudadanos de los Estados Partes y Asociados, permitiendo conocer así los derechos y obligaciones que los afectan directamente, tanto en sus relaciones con organismos públicos como con agentes privados.",
+                "47. Se congratularon por la realización del \"I Taller Regional para el Fortalecimiento de la Participación Social en el MERCOSUR\" organizado por la Unidad de Apoyo a la Participación Social del MERCOSUR (UPS) en la ciudad de Corrientes, Argentina, los días 24 y 25 de noviembre, el cual permitió consolidar, fortalecer y visibilizar los espacios y mecanismos de participación social en el MERCOSUR, así como difundir el acervo de las conquistas del bloque en sus diversas dimensiones.",
+                "48. Confirmaron una vez más el compromiso de los países del MERCOSUR con la Institución del Refugio y la protección de los refugiados y tomaron nota de la Declaración y del Plan de Acción de Brasil, en el contexto de la Reunión Ministerial de Cartagena+30, así como de su proceso preparatorio, y remarcaron que el éxito de la Conferencia y el carácter innovador de los documentos aprobados refuerzan el papel de vanguardia ejercido por la región en el campo de la protección internacional a los refugiados, desplazados internos y apátridas. Asimismo, felicitaron a Argentina, Brasil y Uruguay por sus programas de asistencia a refugiados sirios.Congratularon también otras iniciativas tales como los programas de visas humanitarias puestos en marcha en Argentina y en Brasil, así como el programa de becas mediante el cual jóvenes palestinos realizan estudios universitarios de medicina en Venezuela.",
+                "49. Reafirmaron su compromiso con la defensa y protección de los derechos de las personas migrantes y sus familiares, en concordancia con el Acuerdo de Residencia MERCOSUR. En dicho marco, felicitaron los esfuerzos realizados por los países para profundizar el acceso a los derechos de las personas migrantes y sus familiares, tal como la aprobación en Uruguay de la Ley Nº 19.254, la cual facilita la residencia definitiva en el Uruguay de los nacionales de los Estados Parte y Asociados del MERCOSUR, así como de los familiares de uruguayos de origen extranjero.",
+                "50. Manifiestan su profundo rechazo a la reciente aprobación, por el Congreso de Estados Unidos de América, del Proyecto de Ley que aplica sanciones al Pueblo y Gobierno de la República Bolivariana de Venezuela. Asimismo, reiteran que medidas unilaterales de esa naturaleza vulneran el principio de no intervención en los asuntos internos de otros Estados y en nada contribuyen a la estabilidad y a la tranquilidad social en la región.",
+                "51. Recibieron con beneplácito el trabajo realizado por el Foro Consultivo de Municipios, Estados Federados, Provincias y Departamentos del MERCOSUR (FCCR) durante este semestre y los avances alcanzados en materia de Integración Productiva con el Plan de Vinculación de Clusters Productivos y Ciudadanía Regional con la Unidad de Apoyo a la Participación Social, reconociendo la importancia del protagonismo de los Municipios, Estados Federados, Provincias y Departamentos en la Integración Regional.",
+                "52. Celebraron la realización de la XVII Cumbre Social del MERCOSUR que contó con la participación activa de representantes de movimientos y organizaciones sociales del bloque, incrementando el protagonismo popular en la unidad regional. Asimismo, expresaron la importancia de fortalecer el intercambio de saberes y experiencias de nuestras comunidades a través de la construcción de propuestas para contribuir al desarrollo de la integración regional.",
+                "53. Saludaron la convocatoria del Estado Plurinacional de Bolivia al Encuentro Mundial de Movimientos Sociales por la salvación de la Madre Tierra, para enfrentar los efectos adversos del cambio climático, que tendrá lugar en dicho país en el 2015.",
+                "54. Saludaron la realización del IV Foro Empresarial del MERCOSUR celebrado el pasado 12 de diciembre en Buenos Aires, plataforma que tiene como principal objetivo congregar a la comunidad empresarial y reflexionar conjuntamente con los gobiernos y las empresas públicas sobre el futuro del proceso de integración en la región.Reconocieron la importancia de los tres ejes temáticos estratégicos seleccionados para el IV Foro: i) energía, ii) integración productiva y iii) software, tecnología y comunicaciones. Destacaron la participación activa de los Estados en el proceso de desarrollo económico con inclusión social por el que atraviesa la región.Asimismo, recibieron el informe de los resultados del debate realizado en el Foro y valoraron el aporte directo de la comunidad empresarial, los cuales contribuirán con los esfuerzos de fortalecimiento y consolidación del MERCOSUR y saludaron el respaldo de los representantes empresariales participantes en este IV Foro Empresarial, a los esfuerzos de los gobiernos de los países del MERCOSUR para la consolidación y la expansión de este bloque de integración regional.",
+                "Agradecieron al gobierno de la Provincia de Entre Ríos por la hospitalidad y por el cariño de su pueblo.Expresaron su reconocimiento y agradecimiento a la señora Presidenta de la Nación Argentina, Dra. Cristina Fernández de Kirchner, y al Gobierno y al pueblo argentino por su hospitalidad y por la realización de la XLVII Cumbre del MERCOSUR.",
+                "***",
+                "COMUNICADO CONJUNTO DE LOS CANCILLERES DE LOS ESTADOS PARTES Y ESTADOS ASOCIADOS DEL MERCOSUR EN APOYO A LA REELECCIÓN DEL DR. JORGE GRAZIANO PARA EL CARGO DE DIRECTOR GENERAL DE LA FAO",
+                "Los Ministros de Relaciones Exteriores de Argentina, Brasil, Paraguay, Uruguay, Venezuela, Bolivia, Chile, Colombia, Ecuador, Guyana y Perú, reunidos en Paraná, República Argentina, Estados Partes y Estados Asociados del MERCOSUR, reciben con aprobación y manifiestan su apoyo a la reelección del Dr. José Graziano da Silva para el cargo de Director General de la Organización de las Naciones Unidas para la Agricultura y la Alimentación, en la Conferencia de la Organización que se llevará a cabo en julio de 2015.",
+                "Paraná, Argentina – 16/XII/2014",
+                "***",
+                "COMUNICADO ESPECIAL",
+                "APOYO AL ECUADOR EN SU POLÍTICA ENERGÉTICAY DE USO GENERALIZADO DE TECNOLOGÍAS LIMPIAS",
+                "Las Presidentas y los Presidentes de los Estados Partes del MERCOSUR y Estados Asociados, reunidos en la ciudad de Paraná, el día 17 de diciembre de 2014, con ocasión de la XLVII Reunión Ordinaria del Consejo del Mercado Común (CMC). Recordaron que en el Comunicado Conjunto de las Presidentas y los Presidentes de los Estados Partes del MERCOSUR y Estados Asociados, del día 29 de julio de 2014, se ratificó la importancia de preservar el crecimiento de las economías de los países del MERCOSUR y Estados Asociados y maximizar su potencial de desarrollo sostenible. Reconocieron que el Ecuador, como parte de sus esfuerzos nacionales para combatir el cambio climático, ha asumido de manera soberana, como uno de los ejes principales de su planificación del desarrollo, el cambio de matriz energética, con el objetivo de alcanzar el Buen Vivir y la erradicación de la pobreza, en armonía con la naturaleza. Se congratularon de los esfuerzos del Gobierno ecuatoriano para reducir las emisiones contaminantes a la atmósfera mediante el fortalecimiento de los sectores eólico, solar y en especial eléctrico, con la construcción de centrales hidroeléctricas, y la implementación de proyectos de eficiencia energética como el de reemplazo del uso del gas de petróleo licuado subsidiado, por cocinas de inducción en el sector residencial. Felicitaron al Ecuador por la aplicación de proyectos innovadores como el anteriormente señalado, el cual es considerado como emblemático y constituye un ejemplo para la región en el combate del Cambio Climático.",
+                "Paraná, 17 de diciembre de 2014",
+                "***",
+                "COMUNICADO ESPECIAL",
+                "EXPLORACIÓN DE HIDROCARBUROS Y PESCA EN LA PLATAFORMA CONTINENTAL ARGENTINA EN PROXIMIDAD DE LAS ISLAS MALVINAS",
+                "Las Presidentas y los Presidentes de los Estados Partes del MERCOSUR y Estados Asociados, reunidos en la ciudad de Paraná, Entre Ríos, el día 17 de diciembre de 2014, en ocasión de la XLVII Reunión Ordinaria del Consejo del Mercado Común (CMC), reiterando su permanente respaldo a los legítimos derechos de la República Argentina en la disputa de soberanía relativa a la cuestión de las Islas Malvinas. Recordaron lo establecido por la Resolución 31/49 de la Asamblea General de las Naciones Unidas que insta a la Argentina y el Reino Unido a que se abstengan de adoptar decisiones que entrañen la introducción de modificaciones unilaterales en la situación mientras las islas estén atravesando por el proceso recomendado por la Asamblea General.Reiteraron su rechazo al desarrollo de actividades unilaterales británicas que incluyen, entre otras, la exploración y explotación de recursos naturales renovables y no renovables del área en controversia.",
+                "Reconocieron el derecho que le asiste a la República Argentina de emprender acciones legales con pleno respeto del Derecho Internacional y de las resoluciones pertinentes contra las actividades de exploración y explotación de hidrocarburos no autorizadas en su plataforma continental, y destacaron los recientes pronunciamientos de la Organización Latinoamericana de Energía (OLADE), la Asociación Latinoamericana de Integración (ALADI) y el Grupo de los 77 y China en ese sentido.Reafirmaron su compromiso de intercambiar la información disponible, de conformidad con el Derecho Internacional, los acuerdos internacionales vigentes y las respectivas legislaciones internas, sobre:a) buques o artefactos navales con derroteros que incluyan a las Islas Malvinas, Georgias del Sur y Sandwich del Sur con cargas destinadas a actividades hidrocarburíferas y/o mineras ilegales en la plataforma continental argentina.b) la adopción de las medidas susceptibles de ser reglamentadas para impedir el ingreso a sus puertos de buques o artefactos navales que enarbolen la bandera ilegal de las Islas Malvinas.La información disponible en los ámbitos nacionales competentes será circulada a través de las respectivas cancillerías.",
+                "Paraná, 17 de diciembre de 2014",
+                "***",
+                "DECLARACIÓN ESPECIAL DE LOS ESTADOS PARTES DEL MERCOSUR EN RESPALDO A LA REPÚBLICA ARGENTINA",
+                "Las Presidentas y Presidentes de los Estados Partes del MERCOSUR, frente a los planteos de un grupo minoritario de tenedores de títulos no reestructurados de la deuda soberana de la República Argentina:Reafirman su más absoluto rechazo a la actitud de dichos fondos especulativos (hold outs), cuyo accionar obstaculiza el logro de acuerdos definitivos entre deudores y acreedores y pone en riesgo la estabilidad financiera de los países.Exigen que se garantice que los acuerdos alcanzados entre acreedores y deudores en el marco de los procesos de reestructuración de las deudas soberanas sean respetados.Reiteran su solidaridad y apoyo a la República Argentina en la búsqueda de una solución que no comprometa su desarrollo y el bienestar de su pueblo, en consonancia con sus políticas de desarrollo nacional y su soberanía económica.Destacan la aprobación de la Resolución 68/304 “Hacia el establecimiento de un marco legal multilateral para los procesos de reestructuración de deuda soberana”, por la Asamblea General de Naciones Unidas y la posición uniforme y cohesionada de todos los Estados Partes en apoyo a la posición Argentina en este marco. Las Presidentas y Presidentes de los Estados Partes del MERCOSUR coinciden en continuar articulando coordinadamente las modalidades de trabajo que deben implementarse para llevar adelante las negociaciones intergubernamentales durante 2015 sobre las cuestiones relativas al futuro marco jurídico relacionado con la Resolución 68/304. En este sentido, desean que el referido marco se encuentre vigente en el menor plazo posible.",
+                "Paraná, 17 de diciembre de 2014",
+                "***",
+                "DECLARACIÓN ESPECIAL DE LAS PRESIDENTAS Y LOS PRESIDENTES DEL MERCOSUR SOBRE LA APROBACIÓN DE SANCIONES CONTRA LA REPÚBLICA BOLIVARIANA DE VENEZUELA",
+                "Las Presidentas y los Presidentes del MERCOSUR manifiestan su profundo rechazo contra la Ley que aplica sanciones al Pueblo y Gobierno de Venezuela, recientemente sancionada por el Congreso de los Estados Unidos de América.Reiteran que la aplicación de sanciones unilaterales, como las previstas en esa Ley, vulneran el principio de no intervención en los asuntos internos de otros Estados y no contribuyen para la estabilidad, la paz social y la democracia en Venezuela.En ese sentido, las Presidentas y los Presidentes del MERCOSUR exhortan al Gobierno de los Estados Unidos de América a abstenerse de aplicar sanciones contra la República Bolivariana de Venezuela a la vez que manifiestan su más firme respaldo y solidaridad con el Gobierno y el Pueblo venezolanos.",
+                "Paraná, 17 de diciembre de 2014"
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-18-22h04-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-documentos_aprovados_na_xlvii_cupula_de_chefes_de_estado_do_mercosul_e_estados_associados_-_parana,_argentina,_17_de_dezembro....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/18"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Normalização das Relações entre Cuba e os Estados Unidos",
+            "subtitulo": "",
+            "data": "18/12/2014",
+            "horario": "18h50",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/normalizacao-das-relacoes-entre-cuba-e-os-estados-unidos",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro recebeu com grande satisfação os anúncios, pelos governos de Cuba e dos Estados Unidos, do início de tratativas para a normalização das relações bilaterais, eliminando-se, desse modo, um resquício da Guerra Fria.",
+                "O Governo brasileiro deseja-lhes todo o êxito no processo que agora se inicia.",
+                "Felicitamos os Presidentes Raúl Castro e Barack Obama pela liderança, coragem política e visão estratégica que demonstraram com essa histórica decisão, que esperamos seja acompanhada do pronto levantamento do embargo. O Brasil saúda também Sua Santidade o Papa Francisco pela importante contribuição que prestou aos esforços diplomáticos que levaram ao anúncio.",
+                "A normalização das relações entre Cuba e os Estados Unidos – medida que está em perfeita sintonia com o chamamento unânime que se vinha fazendo no continente de que a próxima Cúpula das Américas contasse com a participação cubana – contribuirá para a consolidação da paz, da democracia e da prosperidade em nossa região. Também reforçará o compromisso das Américas com o diálogo entre Estados soberanos que veem na cooperação o fundamento de uma ordem internacional mais justa em benefício de todos."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-18-18h50-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-normalizacao_das_relacoes_entre_cuba_e_os_estados_unidos.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/18"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "14": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentado contra Missão das Nações Unidas no Sudão do Sul",
+            "subtitulo": "",
+            "data": "18/12/2014",
+            "horario": "10h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h40"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentado-contra-missao-das-nacoes-unidas-no-sudao-do-sul",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro tomou conhecimento, com consternação, do ataque ontem a comboio de patrulha da Missão de Paz das Nações Unidas no Sudão do Sul (UNMISS) na cidade de Gumuruk, no estado de Jonglei, que causou a morte de cinco militares indianos e de sete civis.",
+                "O Governo brasileiro se associa às palavras do Secretário-Geral das Nações Unidas, Ban Ki-moon, bem como à declaração emitida pelo Conselho de Segurança, na condenação ao ataque e na manifestação de condolências aos familiares das vítimas, ao Governo indiano e aos integrantes das Forças de Paz da ONU.",
+                "***",
+                "Attack on the United Nations Mission in South Sudan",
+                "The Brazilian Government has learned with dismay of the attack yesterday on an UNMISS (United Nations Mission in South Sudan) convoy in Gumuruk village, in the state of Jonglei, which caused the death of five Indian soldiers and seven civilians.",
+                "The Brazilian Government supports the views of the Secretary-General of the United Nations, Ban Ki-Moon, as well as the statement issued by the Security Council in condemning the attack and in conveying condolences to the families of the victims, the Indian Government and UN Peacekeeping forces."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-18-10h46-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentado_contra_missao_das_nacoes_unidas_no_sudao_do_sul.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/18"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "15": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Cúpula de Chefes de Estado do MERCOSUL e Estados Associados e XLVII Reunião do Conselho do Mercado Comum - Paraná, Argentina, 16 e 17 de dezembro de 2014",
+            "subtitulo": "",
+            "data": "16/12/2014",
+            "horario": "18h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/cupula-de-chefes-de-estado-do-mercosul-e-estados-associados-e-xlvii-reuniao-do-conselho-do-mercado-comum-parana-argentina-16-e-17-de-dezembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "A Senhora Presidenta da República, Dilma Rousseff, participará, na cidade de Paraná, na República Argentina, em 17 de dezembro, da Cúpula dos Chefes de Estado do MERCOSUL e Estados Associados. O encontro dos Chefes de Estado será precedido pela XLVII Reunião Ordinária do Conselho do Mercado Comum do MERCOSUL (CMC), no dia 16 de dezembro.",
+                "Desde a criação do bloco, em 1991, o comércio entre os Estados Partes do MERCOSUL cresceu mais de doze vezes, evoluindo de US$ 4,5 bilhões para US$ 59,3 bilhões, em 2013.",
+                "O MERCOSUL continua a ser o principal receptor de investimentos no continente. Em 2013, o bloco recebeu 46% dos investimentos estrangeiros na América Latina e Caribe e 64% da América do Sul."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-16-18h27-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-cupula_de_chefes_de_estado_do_mercosul_e_estados_associados_e_xlvii_reuniao_do_conselho_do_mercado_comum_-_parana,_argentina,....html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/16"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "16": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Atentado no Paquistão",
+            "subtitulo": "",
+            "data": "16/12/2014",
+            "horario": "17h32",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/atentado-no-paquistao",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "O Governo brasileiro condena com veemência o atentado ocorrido hoje numa escola da cidade de Peshawar, no norte do Paquistão, que provocou a morte de pelo menos 126 pessoas, dentre as quais 84 crianças e adolescentes, e mais de uma centena de feridos graves.",
+                "Neste momento de pesar e consternação, o povo e o Governo brasileiro manifestam a sua solidariedade ao Governo do Paquistão e às famílias enlutadas. O Brasil reitera, igualmente, seu repúdio à violência e sua condenação categórica de atos terroristas, independentemente de suas motivações."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-16-17h32-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-atentado_no_paquistao.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/16"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "17": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "ministerio das relações exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "classificado": [
+                "noticias institucionais"
+            ],
+            "categoria": [],
+            "autoria": "NA",
+            "titulo": "Admissão do Brasil no Comitê Consultivo da UNRWA",
+            "subtitulo": "",
+            "data": "12/12/2014",
+            "horario": "16h29",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2022"
+            ],
+            "horario_atualizado": [
+                "17h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/admissao-do-brasil-no-comite-consultivo-da-unrwa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Na"
+            ],
+            "paragrafos": [
+                "A Assembleia Geral das Nações Unidas decidiu, pela Resolução 69/86, admitir o Brasil como membro do Comitê Consultivo da Agência das Nações Unidas de Assistência aos Refugiados da Palestina (UNRWA). O Brasil já vinha participando, na condição de convidado, das reuniões recentes do Comitê Consultivo.",
+                "O Comitê Consultivo é o órgão intergovernamental de mais alto nível da UNRWA que delibera sobre as principais metas e estratégias da Agência.",
+                "Ao manifestar sua satisfação com a decisão da Assembleia Geral, o Brasil reitera sua intenção de continuar a contribuir com os esforços internacionais de assistência aos refugiados palestinos, como parte de nossos esforços para promover a paz no Oriente Médio.",
+                "O Comitê Consultivo da UNRWA é composto por 27 membros: Alemanha, Arábia Saudita, Austrália, Bélgica, Brasil, Canadá, Dinamarca, Egito, Emirados Árabes Unidos, Espanha, Estados Unidos, Finlândia, França, Irlanda, Itália, Japão, Jordânia, Kuwait, Líbano, Luxemburgo, Noruega, Países Baixos, Reino Unido, Suécia, Suíça, Síria e Turquia. Palestina, União Europeia e Liga Árabe são observadores."
+            ],
+            "imagens": [],
+            "nome_arquivo": [
+                "2014-12-12-16h29-BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-admissao_do_brasil_no_comite_consultivo_da_unrwa.html"
+            ],
+            "dir_arquivo": [
+                "/hdvm12/bd/003/001/001/001/002/001/dados/2014/12/12"
+            ],
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/001",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA-2014-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA",
+            "extra_01": "NA",
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

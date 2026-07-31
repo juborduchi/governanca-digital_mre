@@ -1,29 +1,99 @@
-# Título da pesquisa
+# Contexto de Pesquisa: O Posicionamento do MRE em Relação às Discussões sobre Governança Global Digital (2014-2025)
 
-O posicionamento do Ministério das Relações Exteriores do Brasil em relação às discussões sobre uma Governança Global Digital (2014-2025) 
+## Informações da Pesquisa
 
-# Objetivo geral:
+- **Autora**: Juliana Borduchi de Freitas
+- **Orientador**: Prof. Dr. Marcelo Passini Mariano
+- **Instituição**: Universidade Estadual Paulista (UNESP) - Câmpus de Franca
+- **Programa**: PIBIC (Programa Institucional de Bolsas de Iniciação Científica) - Edital PROPe Nº 08/2025
+- **Laboratório**: LANTRI - Laboratório de Novas Tecnologias e Pesquisa em Relações Internacionais (UNESP)
 
-O objetivo geral desta proposta é analisar o posicionamento do Ministério das Relações Exteriores (MRE) do Brasil em relação à questão da Governança Global Digital,  no período que compreende os anos de 2014 a 2025. 
+---
 
-# Conceitos:
+## Questão Central da Pesquisa
 
--GOVERNANÇA GLOBAL: uma governança global como um sistema composto por um conjunto de padrões, princípios, normas, regras e/ou costumes, envolvendo tanto ambientes formais quanto informais, que guiam e/ou conduzem as ações de atores das relações internacionais. Ou seja, estes padrões não necessariamente são preceitos formalizados, podendo constituir-se de condutas tomadas como padrão por diferentes instituições. Nesse sentido, a criação e a definição de tais padrões é guiada por questões que possuem alcance e interesse de vários membros do sistema internacional, os afetando de diferentes maneiras.
--GOVERNANÇA GLOBAL DIGITAL: uma Governança Global Digital, a qual requer uma cooperação global para atingir benefícios econômicos e lidar com desafios das transformações digitais, compreendendo questões como a Internet e o fluxo de dados transfronteiriços
--GOVERNANÇA DA INTERNET: a Governança da Internet pode ser definida como “o desenvolvimento e aplicação por Governos, pelo setor privado e pela sociedade civil, em seus respectivos papeis, de princípios, normas, regras, processo de tomadas de decisão e programas compartilhados que definem a evolução e uso da internet“
--GOVERNANÇA DA IA: a Governança da Inteligência Artificial como um sistema de processos, regras, práticas e ferramentas tecnológicas que são aplicadas para garantir um uso de tecnologias de IA por organizações que estejam em concordância com as estratégias, objetivos e valores de tal instituição, além de seguir requisitos legais e atender a princípios éticos de IA adotados pela entidade.
--MULTISSETORIAL: a governança da internet é composta por uma pluralidade de atores afetados pela Internet. Ou seja, o ciberespaço impacta atores de diferentes níveis, para além dos estatais. Membros da sociedade civil e do setor privado são diretamente afetados, formando, portanto, um ambiente de discussão composto por diferentes setores.
+**Como tem se dado o posicionamento do Ministério das Relações Exteriores (MRE) do Brasil em relação à Governança Global Digital após o Marco Civil da Internet, no período que compreende os anos de 2014 a 2025?**
+
+---
+
+## Conceitos Fundamentais
+
+### Governança Global
+Exercício de autoridade através de fronteiras nacionais, normas e regras admitidas para além do Estado-nação, justificados por bens comuns ou problemas transnacionais (Zürn, 2018). Pode ser compreendida como um sistema composto por padrões, princípios, normas, regras e/ou costumes (formais ou informais) que guiam as ações de atores das relações internacionais.
+
+### Governança Global Digital
+Cooperação global para atingir benefícios econômicos e lidar com desafios das transformações digitais, compreendendo questões como a internet e o fluxo de dados transfronteiriços (Jia; Chen, 2022). Corresponde às tentativas de governança global das ferramentas tecnológicas digitais.
+
+### Governança da Internet
+Desenvolvimento e aplicação por Governos, setor privado e sociedade civil, em seus respectivos papéis, de princípios, normas, regras, processos de tomadas de decisão e programas compartilhados que definem a evolução e uso da internet (WGIG, 2005). Caráter **multissetorial** - pluralidade de atores afetados para além dos estatais.
+
+### Governança da Inteligência Artificial
+Sistema de processos, regras, práticas e ferramentas tecnológicas aplicadas para garantir um uso de tecnologias de IA por organizações que estejam em concordância com as estratégias, objetivos e valores da instituição, além de seguir requisitos legais e atender a princípios éticos (Mäntymäki et al., 2022).
+
+---
+
+## Marcos Temporais Relevantes (2013-2025)
+
+| Ano | Marco | Descrição |
+|-----|-------|-----------|
+| 2013 | Caso Snowden | Revelação de espionagem dos EUA, monitoramento de Dilma Rousseff e Angela Merkel. Motivou ações de regulação digital no Brasil e mundo. |
+| 2014 | Marco Civil da Internet | Lei 12.965 - estabelece direito à cidadania nos cenários digitais, diversidade e liberdade de expressão na internet. |
+| 2018 | LGPD | Lei Geral de Proteção de Dados Pessoais - trata de proteção de dados pessoais, direitos de liberdade e privacidade. |
+| 2018 | ANPD | Criação da Autoridade Nacional de Proteção de Dados - órgão central de implementação da LGPD. |
+| 2019 | Disputa domínio ".Amazon" | Brasil opõe-se à concessão exclusiva do domínio à Amazon Inc pelo ICANN, defendendo participação dos países da OTCA. |
+| 2024 | Pacto Global Digital | Adotado por Estados-membros da ONU como anexo do Pacto para o Futuro - vincula governos a respeitar direitos humanos online. |
+| 2024 | Suspensão do X no Brasil | STF suspende o X (antigo Twitter) após Elon Musk descumprir ordens judiciais e artigo 11 do Marco Civil. |
+| 2025 | PBIA 2024-2028 | Plano Brasileiro de Inteligência Artificial - promove desenvolvimento e uso de IA com proteção de direitos e soberania nacional. |
+
+---
+
+## Posicionamento do MRE
+
+### Características Identificadas na Pesquisa
+
+1. **Defesa da Soberania Digital**: Proteção da soberania nacional e dos direitos dos cidadãos no ambiente digital
+2. **Abordagem Multilateral**: Defesa de que a ONU deve estar no centro das discussões sobre governança digital
+3. **Governança Multissetorial**: Participação de governos, sociedade civil e setor privado nos processos de decisão
+4. **Proteção de Direitos Humanos**: Respeito ao direito internacional e direitos humanos online
+5. **Cooperação Internacional**: Engajamento em foros e instituições internacionais (IGF, ICANN, ONU, BRICS)
+
+### Papel do MRE na Política Externa Brasileira (PEB)
+
+- Historicamente, o MRE (Itamaraty) foi o principal responsável pela formulação da PEB
+- Caráter de "insulamento" relativo, com poder de agenda
+- Capacidade de ação e coordenação da política externa do país
+- Profissionalização precoce do corpo diplomático
 
 
-# Contextos importantes
--PODER DE AÇÃO DO MRE  NA POLÍTICA EXTERNA BRASILEIRA: Atualmente, a Política Externa Brasileira (PEB) é composta por atores de diferentes setores e níveis, que vão desde órgãos institucionais a membros da sociedade civil. No entanto, Pinheiro (2010) expõe que durante a história da diplomacia brasileira, poucos atores e instituições se destacaram no processo de formulação e implementação da política externa. De acordo com a autora, “isto se deve, em grande parte, à própria formação das elites dirigentes nacionais e ao lugar ocupado pela área de política externa, fortemente insulada da sociedade brasileira” (Pinheiro, 2010, p.9). Dessa maneira, durante um longo período o Itamaraty (ou Ministério das Relações Exteriores do Brasil - MRE) foi a única instituição e principal responsável pela formulação da PEB. Com um caráter quase que oligárquico, o MRE estabeleceu, por um bom tempo na história brasileira, uma espécie de estigma ou “caixa preta” na construção da PEB, profissionalizando o exercício do campo da política externa em torno de seus funcionários (os diplomatas).
+## Metodologia da Pesquisa
 
-No entanto, apesar deste caráter histórico do que acadêmicos chamam de “insulamento”, Faria (2012) argumenta que:
+### Fonte de Dados
+- Notas à imprensa do MRE obtidas em formato JSON
+- Período: 2014 a 2025
+- Base: `BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA`
 
-“o Itamaraty tem reagido de distintas maneiras às inúmeras pressões para que seja superado o seu tradicional insulamento, oriundas de variadas fontes. Parece haver evidências, como vimos, de que o MRE tem, no geral, preservado a sua capacidade de coordenação da política externa do país, como também apontado por alguns outros autores. Seja como for, fato é que, para o bem ou para o mal, provavelmente para ambos, a política externa do país cada vez mais se assemelha às políticas públicas características de um Estado democrático, com uma sociedade complexa e plural, crescentemente atrelada aos fluxos internacionais”(Faria; 2012). 
+### Abordagem Metodológica
+- Análise qualitativa e interpretativa de documentos oficiais
+- Exploração de matérias jornalísticas de diferentes veículos
+- Análise de notas à imprensa e discursos dos ministros das relações exteriores
+- Construção de gráficos para visualização dos dados
+- Princípio: avaliação similar à que um humano faria ao analisar qualitativamente as informações
 
-- O lugar do Brasil na governança global digital: O Brasil é um ator frequente em discussões sobre governança digital e soberania digital. O Caso Snowden é um dos motivadores dessa presença, movimentando a questão digital tanto internamente quanto externamente no Brasil. Em 2013, Edward Snowden, ex-técnico da CIA (Central Intelligence Agency), revelou detalhes de programas de vigilância dos EUA, utilizados para espionar cidadãos e figuras políticas ao redor do mundo, entre elas Dilma Rousseff. Santoro e Borges (2017) revelam que esse caso reforçou a agenda digital no Brasil e fez com que autoridades do país reagissem de maneira rápida. Nesse sentido surge o Marco Civil da Internet (Lei 12.965, de 2014), sancionado em 2014, que possui como objetivo o estabelecimento do direito à cidadania nos cenários digitais, assim como da diversidade e da liberdade de expressão na internet (Brasil, 2024). Santoro e Borges (2017) referenciam o Marco Civil como uma das maiores iniciativas internacionais da administração de Dilma Rousseff.
-	Desse modo, o Brasil vêm se consolidando como um importante ator em discussões globais sobre Governança Digital. O governo brasileiro se estabeleceu como um líder na Governança da Internet, ao co-patrocinar – juntamente à Alemanha – duas resoluções sobre o assunto na Assembleia Geral da ONU (Santoro, Borges; 2017). O país trabalhou também para internacionalizar seu modelo de soberania digital, de modo que leis brasileiras foram consultadas pelo governo italiano para que o mesmo formulasse sua própria Constituição digital (Arnaudo, 2017 apud Guerreni 2015)
-    No contexto internacional, o Brasil atua como receptor e propagador de referências. Souza (2021) afirma que a LGPD é resultado da necessidade brasileira de acompanhar e manter relação com países que já estabelecem esse tipo de regulação. Nesse sentido, uma comparação entre a LGPD e o Regulamento Geral de Proteção de Dados na Europa permite a identificação da influência europeia na legislação brasileira. Existem convergências nos textos dos regulamentos em questões como definições, alcance, consentimento e princípios, o que demonstra tal influência (Souza, 2021). Do outro lado da moeda está o Brasil como um tipo de protagonista. De acordo com Pigatto (2024), o escândalo de espionagem estadunidense ao Brasil como conjuntura, tendo em vista a tradição histórica nacional no tema da governança da Internet, possibilitou ao Brasil protagonizar a “exportação” de seu modelo de governança.
+---
+
+## Referências Bibliográficas Principais
+
+- Zürn, M. (2018). A theory of global governance
+- Rosenau, J. N. (2000). Governança, ordem e transformação na política mundial
+- Ikenberry, G. J. (2011). Liberal leviathan
+- Keohane, R. O.; Nye, J. S. (2002). Governance in a globalizing world
+- WGIG (2005). Report of the Working Group on Internet Governance
+- Jia, K.; Chen, S. (2022). Global digital governance
+- Mäntymäki et al. (2022). Defining organizational AI governance
+- Santoro, M.; Borges, B. (2017). Brazilian foreign policy towards internet governance
+- Pigatto, J. T. (2024). Governança global da internet
+- Lima, M. R. S. (2005). Aspiração internacional e política externa
+- Pinheiro, L. (2010). Política externa brasileira
+- Faria, C. A. P. (2012). O Itamaraty e a política externa brasileira
 
 
