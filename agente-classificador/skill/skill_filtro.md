@@ -72,6 +72,11 @@ Para cada nota à imprensa do período selecionado:
    - Contêm apenas menções genéricas sem conteúdo qualitativo
    - Não possuem relação direta com os temas do contexto
 
+5. **Para cada nota selecionada**, escreva uma **justificativa** (2-3 frases) explicando:
+   - Por que ela foi considerada pertinente ao tema da pesquisa
+   - Qual a relação com o contexto de governança digital/global
+   - Que tipo de informação qualitativa ela traz
+
 ### Passo 6: Gerar Resultados
 
 #### Arquivo CSV (`filtragem_[modelo_ia]-[data].csv`)
@@ -82,7 +87,7 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/`
 | Titulo | Título da nota à imprensa |
 | Data | Data de publicação da nota |
 | Link | Link/endereço da nota |
-| Justificativa | Explicação do porquê a nota foi considerada pertinente (2-3 frases) |
+| Justificativa | **A IA deve escrever ela mesma** uma explicação de 2-3 frases sobre por que aquela nota foi selecionada como pertinente ao tema da pesquisa |
 | Passagens_Relevantes | Trechos da nota que justificam a escolha (máx. 3 passagens) |
 
 **Formato do arquivo**: UTF-8, separador vírgula, aspas para campos com texto longo
