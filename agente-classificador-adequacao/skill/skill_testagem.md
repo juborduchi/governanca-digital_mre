@@ -22,9 +22,9 @@ Você deve agir como um **humano auditor** revisando resultados de análise ante
 ## Fluxo de Execução
 
 ### Passo 1: Verificar Resultados Disponíveis
-1. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador/resultados/`
+1. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/`
 2. Identifique os **CSVs de filtragem** disponíveis (padrão: `filtragem_[modelo]-[data].csv`)
-3. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador/resultados/jsons-filtrados/`
+3. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/jsons-filtrados/`
 4. Identifique os **JSONs filtrados** disponíveis (padrão: `json-filtragem-[modelo]-[data].json`)
 5. Apresente ao usuário uma **lista numerada** dos arquivos encontrados
 
@@ -37,7 +37,7 @@ Após listar os arquivos, pergunte ao usuário:
 Aguarde a resposta do usuário antes de prosseguir.
 
 ### Passo 3: Carregar Contexto de Pesquisa
-1. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador/contextos/`
+1. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador-adequacao/contextos/`
 2. Liste **todos os arquivos** encontrados (excluindo este próprio arquivo skill_testagem.md)
 3. Para cada arquivo de contexto, apresente:
    - Nome do arquivo
@@ -117,7 +117,7 @@ Para as notas classificadas como **CORRETAS** (incluídas):
 ### Passo 9: Gerar Relatório de Validação (único arquivo MD)
 
 #### Arquivo Markdown (`validacao_[modelo_ia]-[data].md`)
-Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/verificacoes/`
+Salve em `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/verificacoes/`
 
 **Este é o arquivo principal de saída.** Contém:
 - Resumo executivo
@@ -192,7 +192,7 @@ Estas foram incluídas agora por conterem temas centrais do contexto.
 ### Passo 10: Gerar CSV com Notas Relevantes
 
 #### Arquivo CSV (`notas-relevantes_[modelo_ia]-[data].csv`)
-Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/verificacoes/`
+Salve em `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/verificacoes/`
 
 **Este arquivo contém APENAS as notas consideradas relevantes** (Mantidas + Adicionadas), sem notas removidas.
 
@@ -216,7 +216,7 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/ver
 ### Passo 11: Gerar JSON com Notas Relevantes
 
 #### Arquivo JSON (`verificacao_[modelo_ia]-[data].json`)
-Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/verificacoes/`
+Salve em `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/verificacoes/`
 
 **Este arquivo contém APENAS as notas consideradas relevantes** (Mantidas + Adicionadas), sem notas removidas.
 
@@ -272,7 +272,7 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/ver
   - `validacao_[modelo]-[data].md` - Relatório completo (resumo, notas removidas, notas adicionadas, qualidade, padrões, recomendações)
   - `notas-relevantes_[modelo]-[data].csv` - CSV com notas relevantes (Mantidas + Adicionadas)
   - `verificacao_[modelo]-[data].json` - JSON com notas relevantes
-- **Pasta de saída**: Todos os arquivos devem ser salvos em `/workspaces/governanca-digital_mre/agente-classificador/resultados/verificacoes/`
+- **Pasta de saída**: Todos os arquivos devem ser salvos em `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/verificacoes/`
 - **Encoding**: Use UTF-8 para todos os arquivos
 - **Arquivo MD principal**: O `validacao_[modelo]-[data].md` contém **TUDO**:
   - Resumo executivo

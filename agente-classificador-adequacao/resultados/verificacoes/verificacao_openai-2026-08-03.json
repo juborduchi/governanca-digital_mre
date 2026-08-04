@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "modelo_ia": "openai",
+    "data_verificacao": "2026-08-03",
+    "arquivo_filtragem_original": "filtragem_openai-2026-08-03.csv",
+    "contexto_utilizado": "contexto01.md",
+    "periodo_analisado": "2014-2025"
+  },
+  "resumo": {
+    "total_notas_originais": 5169,
+    "total_notas_filtradas": 12,
+    "total_notas_relevantes": 12,
+    "notas_mantidas": 12,
+    "notas_adicionadas": 0,
+    "justificativas_otimas": 12,
+    "justificativas_boas": 0,
+    "justificativas_insuficientes": 0,
+    "score_confianca": 100
+  },
+  "notas_relevantes": [
+    {
+      "titulo": "Relatório da Alta Comissária para Direitos Humanos da ONU sobre \"O Direito à Privacidade na Era Digital\"",
+      "data": "22/07/2014",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/relatorio-da-alta-comissaria-para-direitos-humanos-da-onu-sobre-o-direito-a-privacidade-na-era-digital",
+      "origem": "Filtragem",
+      "justificativa": "Nota sobre relatório da ONU que examina a proteção do direito à privacidade na era digital. Iniciativa conjunta Brasil-Alemanha após caso Snowden, demonstrando liderança brasileira em governança digital global.",
+      "passagens": [
+        "O Governo brasileiro manifesta satisfação com a divulgação do relatório \"O direito à privacidade na era digital\"",
+        "Trata-se de resposta à solicitação da resolução apresentada por Brasil e Alemanha durante a 68ª Assembleia Geral das Nações Unidas"
+      ],
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Criação da Relatoria Especial sobre \"O Direito à Privacidade na Era Digital\"",
+      "data": "26/03/2015",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/criacao-da-relatoria-especial-sobre-o-direito-a-privacidade-na-era-digital",
+      "origem": "Filtragem",
+      "justificativa": "Criação de relatoria especial da ONU sobre privacidade digital, resultado de iniciativa brasileira. Marco importante na governança global de direitos digitais.",
+      "passagens": [
+        "O Governo brasileiro registra, com satisfação, a adoção pelo Conselho de Direitos Humanos das Nações Unidas de resolução de iniciativa do Brasil e da Alemanha",
+        "A resolução cria relatoria especial sobre o direito à privacidade para lidar com os desafios da era digital"
+      ],
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Direito à privacidade na era digital",
+      "data": "24/03/2017",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/direito-a-privacidade-na-era-digital",
+      "origem": "Filtragem",
+      "justificativa": "Resolução sobre privacidade digital aprovada no CDH da ONU, com copatrocínio de 68 países. Demonstração do engajamento brasileiro em governança de direitos digitais.",
+      "passagens": [
+        "Foi aprovada, por consenso, a resolução sobre o direito à privacidade na era digital, projeto apresentado pelo Brasil",
+        "A resolução, que já conta com o copatrocínio de 68 países de diferentes regiões, reafirma o direito à privacidade"
+      ],
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Solicitação de atribuição do nome de domínio de primeiro nível “.Amazon”",
+      "data": "11/03/2019",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/solicitacao-de-atribuicao-do-nome-de-dominio-de-primeiro-nivel-amazon",
+      "origem": "Filtragem",
+      "justificativa": "Disputa sobre domínio .Amazon na ICANN, questão central de governança da internet. Brasil defende participação de países amazônicos contra exclusividade corporativa.",
+      "passagens": [
+        "O Conselho Diretor da ICANN adotou resolução a respeito da atribuição do nome de domínio de primeiro nível \".Amazon\" à empresa Amazon Inc.",
+        "A medida dispõe que, na ausência de um acordo entre os países amazônicos e a companhia"
+      ],
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Solicitação de atribuição de domínio de primeiro nível “.Amazon”",
+      "data": "18/04/2019",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/solicitacao-de-atribuicao-de-dominio-de-primeiro-nivel-amazon",
+      "origem": "Filtragem",
+      "justificativa": "Posicionamento brasileiro contra proposta da Amazon Inc. na ICANN. Defesa de soberania digital e governança multissetorial da internet.",
+      "passagens": [
+        "A empresa Amazon Inc. submeteu à ICANN proposta para obter o domínio de primeiro nível .AMAZON",
+        "Que, na visão do Brasil, não atende preocupações importantes dos países da OTCA"
+      ],
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Solicitação de atribuição de domínio de primeiro nível “.Amazon”",
+      "data": "20/05/2019",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/solicitacao-de-atribuicao-de-dominio-de-primeiro-nivel-amazon-2",
+      "origem": "Filtragem",
+      "justificativa": "Reação brasileira à decisão da ICANN de atribuir domínio .Amazon. Demonstração de resistência a decisões de governança da internet que afetam soberania nacional.",
+      "passagens": [
+        "O Ministério das Relações Exteriores lamenta a decisão da ICANN de atribuir o nome de domínio de primeiro nível .Amazon à empresa Amazon Inc.",
+        "Em regime de exclusividade e na ausência de uma solução mutuamente aceitável"
+      ],
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Declaração de Osaka sobre Economia Digital",
+      "data": "29/06/2019",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/declaracao-de-osaka-sobre-economia-digital",
+      "origem": "Filtragem",
+      "justificativa": "Declaração do G20 sobre economia digital. Brasil participa de讨论 sobre transformação digital e seus impactos em economias e sociedades.",
+      "passagens": [
+        "Nós, os Líderes da Alemanha, Arábia Saudita, Argentina, Austrália, Brasil, Canadá, China, Coréia do Sul, Estados Unidos",
+        "Compartilham a visão de que a digitalização está transformando todos os aspectos de nossas economias e sociedades"
+      ],
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Assinatura do Memorando de Entendimento entre o Brasil e o Chile sobre Cooperação na área de Telecomunicações e Economia Digital",
+      "data": "24/07/2020",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2020/assinatura-do-memorando-de-entendimento-entre-o-brasil-e-o-chile-sobre-cooperacao-na-area-de-telecomunicacoes-e-economia-digital",
+      "origem": "Filtragem",
+      "justificativa": "Acordo bilateral Brasil-Chile sobre telecomunicações e economia digital. Cooperação em infraestrutura digital e conexão.",
+      "passagens": [
+        "Assinaram hoje o Memorando de Entendimento entre o Brasil e o Chile sobre Cooperação em Telecomunicações e Economia Digital",
+        "O instrumento permitirá aprofundar a cooperação bilateral em áreas estratégicas, tais como conexão digital, infraestrutura"
+      ],
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Adoção do relatório do Grupo de Peritos Governamentais das Nações Unidas sobre segurança cibernética",
+      "data": "31/05/2021",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/adocao-do-relatorio-do-grupo-de-peritos-governamentais-das-nacoes-unidas-sobre-seguranca-cibernetica",
+      "origem": "Filtragem",
+      "justificativa": "Adoção de relatório da ONU sobre segurança cibernética. Brasil participa de discussões sobre normas de comportamento responsible em ciberespaço.",
+      "passagens": [
+        "O governo brasileiro recebeu, com satisfação, a adoção por consenso do relatório do Grupo de Peritos Governamentais das Nações Unidas sobre Segurança Cibernética",
+        "Estabelecido pela resolução A/RES/73/266 da Assembleia Geral das Nações Unidas"
+      ],
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Participação do Ministro Mauro Vieira na Cúpula para Ação em Inteligência Artificial – Paris, 10 e 11 de fevereiro de 2025",
+      "data": "09/02/2025",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-do-ministro-mauro-vieira-na-cupula-para-acao-em-inteligencia-artificial-2013-paris-10-e-11-de-fevereiro-de-2025",
+      "origem": "Filtragem",
+      "justificativa": "Participação brasileira em cúpula sobre governança de IA. Apresentação da experiência brasileira em governança digital e defesa da democracia.",
+      "passagens": [
+        "O Ministro Mauro Vieira chefiará a delegação brasileira à Cúpula para Ação em Inteligência Artificial",
+        "Participará de painel sobre a governança da inteligência artificial, no qual apresentará a experiência brasileira em governança digital"
+      ],
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Declaração dos Líderes do BRICS sobre Governança Global da Inteligência Artificial",
+      "data": "06/07/2025",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/declaracao-dos-lideres-do-brics-sobre-governanca-global-da-inteligencia-artificial",
+      "origem": "Filtragem",
+      "justificativa": "Declaração dos BRICS sobre governança global de IA. Posicionamento conjunto sobre desenvolvimento responsável de inteligência artificial.",
+      "passagens": [
+        "Declaração dos Líderes do BRICS sobre Governança Global da Inteligência Artificial",
+        "A Inteligência Artificial representa uma oportunidade única para impulsionar o desenvolvimento em direção a um futuro mais equitativo"
+      ],
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Seleção de brasileiro ao Prêmio da UNESCO para Pesquisa Científica sobre Ética na Inteligência Artificial",
+      "data": "06/11/2025",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/selecao-de-brasileiro-ao-premio-da-unesco-para-pesquisa-cientifica-sobre-etica-na-inteligencia-artificial",
+      "origem": "Filtragem",
+      "justificativa": "Reconhecimento internacional de pesquisador brasileiro em ética de IA. Demonstra relevância do Brasil em discussões sobre governança de inteligência artificial.",
+      "passagens": [
+        "O governo brasileiro recebeu, com grande satisfação, o anúncio da seleção do professor Virgílio Almeida para a edição inaugural do Prêmio UNESCO-Uzbequistão para Pesquisa Científica sobre Ética na Inteligência Artificial",
+        "A premiação é oferecida pela UNESCO para reconhecer iniciativas e pesquisas que abordam os desafios éticos da IA"
+      ],
+      "qualidade_justificativa": "Ótima"
+    }
+  ],
+  "padroes_identificados": [
+    "Forte cobertura de privacidade digital (3 notas sobre iniciativas brasileiras na ONU)",
+    "Disputa .Amazon bem documentada (3 notas cobrindo evolução na ICANN)",
+    "Governança de IA recente (3 notas de 2025)",
+    "Cobertura geográfica diversificada (ONU, G20, BRICS, bilateral)"
+  ],
+  "recomendacoes": [
+    "Manter o critério de filtragem atual focado em notas com relevância direta",
+    "Considerar expansão para notas com menções substanciais",
+    "Monitorar novas notas sobre governança digital"
+  ]
+}

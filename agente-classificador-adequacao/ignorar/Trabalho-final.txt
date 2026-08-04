@@ -1,0 +1,995 @@
+     O POSICIONAMENTO DO MINISTÉRIO DAS RELAÇÕES EXTERIORES DO
+    BRASIL EM RELAÇÃO ÀS DISCUSSÕES SOBRE UMA GOVERNANÇA GLOBAL
+                           DIGITAL(2014-2025)1
+
+
+                                                                            Juliana Borduchi de Freitas2
+
+    1.​   INTRODUÇÃO
+
+          A Governança Global pode ser definida como o exercício de autoridade através de
+fronteiras nacionais, assim como normas e regras admitidas para além do Estado-nação, sendo
+ambos justificados por bens comuns ou problemas transnacionais (Zürn, 2018). Todavia, o
+surgimento de novas tecnologias causou profundas transformações no cenário mundial, o que
+impactou o sistema internacional do ponto de vista institucional. Os avanços da tecnologia
+superaram a habilidade das instituições de governança de reagir, assim como nossa maneira
+de pensar sobre governança (Nye Jr., 2014). Nesse contexto, um dos marcos na mudança de
+abordagem de diversos atores frente à questão digital aconteceu em 2013, com Edward
+Snowden. Na ocasião foram revelados casos de espionagem estadunidense, com o
+monitoramento e coleta de dados de autoridades internacionais, como Dilma Rousseff e
+Angela Merkel3. De acordo com Pigatto (2020) a partir desse episódio, várias ações, tanto
+públicas como privadas, foram tomadas, como a regulação de direitos e deveres dos atores da
+internet.
+          Assim, emerge a discussão de como estruturas e mecanismos da Governança Global
+podem efetivamente lidar com o impacto das tecnologias digitais. Sob esse contexto,
+despontam questões sobre uma Governança Global Digital, a qual requer uma cooperação
+global para atingir benefícios econômicos e lidar com desafios das transformações digitais,
+compreendendo questões como a internet e o fluxo de dados transfronteiriços (Jia; Chen,
+2022). No contexto em questão, a internet – como mencionada anteriormente – pode ser
+analisada como uma das faces da Governança Digital. De acordo com o Working Group on
+Internet Governance (WGIG), a Governança da internet pode ser definida como “o
+desenvolvimento e aplicação por Governos, pelo setor privado e pela sociedade civil, em seus
+respectivos papeis, de princípios, normas, regras, processo de tomadas de decisão e programas
+1
+  Programa Institucional de Bolsas de Iniciação Científica da Unesp - PIBIC, edital PROPe Unesp Nº 08/2025,
+sob a orientação do Prof. Dr. Marcelo Passini Mariano.
+2
+  Graduanda em Relações Internacionais pela Universidade Estadual Paulista "Júlio de Mesquita Filho"
+(UNESP) - Câmpus de Franca.
+         3
+           CARTA CAPITAL. Há 10 anos, Edward Snowden revelou um mundo sitiado pela espionagem
+americana.           CartaCapital,            09           jun.         2023.          Disponível         em:
+https://www.cartacapital.com.br/mundo/ha-10-anos-edward-snowden-revelou-um-mundo-sitiado-pela-espionage
+m-americana/. Acesso em: 04 jun. 2025.
+compartilhados que definem a evolução e uso da internet“(WGIG, 2005, tradução própria).
+Além da internet, outro exemplo de componente da Governança Digital que pode ser
+explorado é a questão da Inteligência Artificial. Sob esse aspecto, Mäntymäki et al. (2022)
+propõem a Governança da Inteligência Artificial como um sistema de processos, regras,
+práticas e ferramentas tecnológicas que são aplicadas para garantir um uso de tecnologias de
+IA por organizações que estejam em concordância com as estratégias, objetivos e valores de
+tal instituição, além de seguir requisitos legais e atender a princípios éticos de IA adotados
+pela entidade.
+        Diante do cenário apresentado, é possível observar ações e reações no sistema
+internacional. Em dezembro de 2024 Estados-membros da ONU adotaram o chamado “Pacto
+Global Digital”, como anexo do Pacto para o Futuro4. O Pacto vincula os governos a respeitar
+o direito internacional e os direitos humanos online, além de tomar passos concretos que
+tornem o espaço digital seguro e protegido5. São reconhecidas contribuições do setor privado,
+comunidades técnicas, pesquisadores e a sociedade civil na cooperação digital, o que
+demonstra a construção de uma governança com atores diversos.
+        Refletindo tais dinâmicas internacionais, o Brasil, signatário do Pacto Global Digital,
+também demonstra engajamento com as questões digitais. Santoro e Borges (2017) revelam
+que o caso Snowden reforçou essa agenda no Brasil e fez com que autoridades do país
+reagissem de maneira rápida. De acordo com os autores, o governo brasileiro se estabeleceu
+como um líder na Governança da internet, ao co-patrocinar – juntamente à Alemanha – duas
+resoluções sobre o assunto na Assembleia Geral da ONU. O Marco Civil da internet (Lei
+12.965, de 2014), sancionado em 2014, possui como objetivo o estabelecimento do direito à
+cidadania nos cenários digitais, assim como da diversidade e da liberdade de expressão na
+internet (Agência Senado, 2024). Santoro e Borges (2017) referenciam o Marco Civil como
+uma das maiores iniciativas internacionais da administração de Dilma Rousseff, além de
+ressaltar que a importância da lei foi destacada inclusive pelo presidente da ICANN, órgão
+responsável pela administração da Web.
+            É pertinente observar que o MRE possui um histórico de capacidade de ação na
+Política Externa Brasileira (PEB). Lima (2005) evidencia o papel central predominante do
+MRE na formação da PEB, o qual possui poder de agenda. Paralelamente, Ramanzini Júnior
+
+        4
+            GLOBAL COMPACT NETWORK PORTUGAL. Membros das Nações Unidas adotam Global
+Digital                   Compact.                   [S.d.].               Disponível                  em:<
+https://globalcompact.pt/index.php/pt/noticias/428-membros-das-nacoes-unidas-adotam-global-digital-compact>
+. Acesso em: 3 jun. 2025.
+          5
+               UNITED        NATIONS.        Global     Digital   Compact.     [S.d.].   Disponível     em:
+https://www.un.org/global-digital-compact/en. Acesso em: 3 jun. 2025.
+                                                                                                         2
+(2010) frisa a atuação singular do ministério na definição da política internacional do país.
+Apesar disso, mesmo a PEB sendo ativa em discussões acerca da Governança Global Digital,
+ainda existem dúvidas e lacunas em relação a estudos sobre a capacidade de agenda do
+Itamaraty nesse tema. Fica então a pergunta central deste resumo: como tem se dado o
+posicionamento do Ministério das Relações Exteriores (MRE) do Brasil em relação a
+Governança Global Digital após o Marco Civil da internet, no período que compreende os
+anos de 2014 a 2025?
+       ​      Nesse sentido, o presente resumo se organiza nas seguintes sessões – para além
+da presente introdução –: (II) objetivos; (III) metodologia; (IV) resultados parciais, onde
+aborda-se (a) entendimentos sobre uma Governança Global Digital, (b) um momento
+exploratório sobre a atuação do Brasil na regulação digital (c ) uma compreensão da presença
+e importância do Ministério das Relações Exteriores (MRE) na Política Externa Brasileira
+(PEB), (d) a defesa do MRE do Brasil por uma abordagem multissetorial e multilateral; e, por
+fim (V) a conclusão parcial da pesquisa.
+
+ 2.​   OBJETIVOS
+
+       O objetivo geral deste resumo é analisar o posicionamento do Ministério das Relações
+Exteriores (MRE) do Brasil em relação à questão da Governança Global Digital, no período
+que compreende os anos de 2014 a 2025. Os objetivos específicos são:
+   a)​ Contextualizar aspectos relacionados a Governança Global e a Governança Global
+       Digital;
+   b)​ Avaliar as propostas do MRE referente a Governança Global Digital;
+   c)​ Identificar os principais atores que atuam no tema da Governança da Global Digital no
+       ambiente do MRE;
+   d)​ Apresentar, a partir dos dados coletados, aspectos do posicionamento apresentado pelo
+       MRE referente a Governança Digital, entre os anos de 2014 a 2025.
+
+ 3.​   METODOLOGIA
+
+       A presente pesquisa está vinculada ao Laboratório de Novas Tecnologias e Pesquisa
+em Relações Internacionais (LANTRI -          UNESP). Desta maneira, a metodologia se
+desenvolve visando agregar tecnologias de análise de dados à produções acadêmicas da área
+de Ciências Humanas. Assim, tanto dados qualitativos como quantitativos compõem a análise
+da pesquisa. Em relação a este primeiro, através dos dados coletados pelo grupo de pesquisa
+citado anteriormente e indexados no sistema computacional “Recoll”, foram exploradas
+                                                                                           3
+matérias jornalísticas de diferentes veículos. Já em relação a abordagem quantitativa, são
+analisados através da linguagem de programação Python aspectos das notas à imprensa e
+discursos dos ministros das relações exteriores divulgados pelo Itamaraty. A partir deste
+tratamento de dados, foram construídos gráficos para auxiliar a visualização dos dados.
+
+    4.​   RESULTADOS PARCIAIS
+
+          4.1.​   Governança Global Digital
+
+​         A área de estudos responsável pela investigação do conceito de governança,
+abrangendo definições e composição, é um campo clássico no cenário acadêmico das
+Relações Internacionais (RI). Nesse contexto, Rosenau (2000) conceitua governança como:
+
+
+                         “um fenômeno mais amplo do que governo; abrange as instituições governamentais,
+                         mas implica também mecanismos informais, de caráter não-governamental, que
+                         fazem com que as pessoas e organizações dentro da sua área de atuação tenham uma
+                         conduta determinada, satisfaçam suas necessidades e respondam às suas demandas”
+                         (Rosenau, 2000, p. 15-16)
+
+
+De acordo com o autor, essa governança pode ser entendida como a ordem somada à
+intencionalidade. Essa ordem global diz respeito à convenções cotidianas por meio das quais a
+política mundial flui e é sustentada (de modo interdependente) por três níveis de atividade: o
+nível ideacional – referente aos temas recorrentes em discursos, editoriais e outros meios de
+comunicação que transmitem a compreensão dos atores das RI –; o nível comportamental –
+referente ao que esses atores fazem de maneira regular, muitas vezes inconscientemente, para
+manter o arranjo global – e o nível político – a dimensão formal e organizada (Rosenau,
+2000). Investigando mais a fundo o conceito de ordem no sistema global, Ikenberry (2011)
+define uma ordem internacional como uma formação política na qual regras e arranjos
+definidos existem entre Estados para guiar suas interações. Em sua discussão o autor aborda a
+ordem internacional em duas frentes, sendo elas um modelo imperial e um modelo de
+hegemonia liberal. A ordem imperial existe quando um Estado dominante a impõe e
+estabelece suas regras, por meio da coerção; enquanto na ordem hegemônica liberal as regras
+e instituições são acordadas de maneira geral entre os Estados líderes e os secundários
+(Ikenberry, 2011).
+          Ampliando às discussões sobre o que constitui uma governança, Keohane e Nye
+(2002) a definem como “o processo e instituições, ambos formais e informais, que guiam ou
+
+                                                                                                       4
+restringem ações coletivas de um grupo”(Keohane; Nye, 2002, p.202, tradução própria).
+Somado a estes debates, acrescenta-se o caráter global desta noção. Nesse sentido, Zürn
+(2018) considera a governança global como o exercício de autoridade através de fronteiras
+nacionais, assim como normas e regras admitidas para além do Estado-nação, sendo ambos
+justificados por bens comuns ou problemas transnacionais.
+       Neste contexto, podemos compreender uma governança global como um sistema
+composto por um conjunto de padrões, princípios, normas, regras e/ou costumes, envolvendo
+tanto ambientes formais quanto informais, que guiam e/ou conduzem as ações de atores das
+relações internacionais. Ou seja, estes padrões não necessariamente são preceitos
+formalizados, podendo constituir-se de condutas tomadas como padrão por diferentes
+instituições. Nesse sentido, a criação e a definição de tais padrões é guiada por questões que
+possuem alcance e interesse de vários membros do sistema internacional, os afetando de
+diferentes maneiras.
+       Sob tal perspectiva, inovações tecnológicas configuram um recente interesse comum
+de agentes de diferentes níveis no cenário mundial. Emergem, então, discussões de como
+estruturas e mecanismos da governança global podem efetivamente lidar com o impacto das
+tecnologias digitais. Os avanços da tecnologia superaram a habilidade das instituições de
+governança de reagir, assim como nossa maneira de pensar sobre governança (Nye Jr., 2014).
+Dessa maneira, uma Governança Global Digital requer uma cooperação global para atingir
+benefícios econômicos e lidar com desafios das transformações digitais, compreendendo
+questões como a internet e o fluxo de dados transfronteiriços (Jia; Chen, 2022). No contexto
+em questão, a internet pode ser analisada como uma das faces da Governança Digital. De
+acordo com o Working Group on Internet Governance (WGIG), a Governança da Internet
+pode ser definida como “o desenvolvimento e aplicação por Governos, pelo setor privado e
+pela sociedade civil, em seus respectivos papéis, de princípios, normas, regras, processo de
+tomadas de decisão e programas compartilhados que definem a evolução e uso da
+internet“(WGIG, 2005, tradução própria).
+       Ademais, a internet possui um caráter multissetorial. Segundo Pigatto (2020), a
+governança da internet é composta por uma pluralidade de atores afetados pela internet. Ou
+seja, o ciberespaço impacta atores de diferentes níveis, para além dos estatais. Membros da
+sociedade civil e do setor privado são diretamente afetados, formando, portanto, um ambiente
+de discussão composto por diferentes setores.
+​      Paralelamente, assim como a internet, a inteligência artificial (IA) também é uma
+questão digital cujas discussões vêm crescendo desde o lançamento do Chat GPT.
+                                                                                            5
+Mäntymäki et al. (2022) propõem a Governança da IA como um sistema de processos, regras,
+práticas e ferramentas tecnológicas que são aplicadas para garantir um uso de tecnologias de
+IA por organizações que estejam em concordância com as estratégias, objetivos e valores de
+tal instituição, além de seguir requisitos legais e atender a princípios éticos de IA adotados
+pela entidade.
+​       A partir do contexto apresentado conseguimos observar a escalada na frequência de
+discussões globais que abordam as novas dinâmicas advindas dos avanços tecnológicos.
+Nesse sentido, surgem espaços e instituições internacionais que possuem como objetivo
+desenvolver estudos e debates sobre o tema. Dentre elas podemos citar a Internet Corporation
+for Assigned Names and Numbers (ICANN) criada em 1988 com o objetivo de transferir a
+responsabilidade sobre o sistema de nomes de domínio (em inglês Domain Names System)
+da internet para uma organização sem fins lucrativos com base nos Estados Unidos e com
+participação global6. O intuito da instituição é coordenar os endereços IP e nomes de domínio
+para uma internet estável e unificada.
+        Paralelamente, o United Nations Internet Governance Forum (IGF) também é um
+importante exemplo. Com reuniões anuais, o IGF une diferentes stakeholders em ambientes
+de discussão sobre políticas públicas digitais, cujos resultados são transmitidos a órgãos
+decisórios nacionais e internacionais. O órgão consiste portanto em um ambiente de troca de
+informações e construção de conhecimento sobre as questões digitais
+          Para além do ICANN e o IGF, em dezembro de 2024 Estados-membros da ONU
+adotaram o chamado “Pacto Global Digital”, como anexo do Pacto para o Futuro7. O Pacto
+vincula os governos a respeitar o direito internacional e os direitos humanos online, além de
+tomar passos concretos que tornem o espaço digital seguro e protegido8. São reconhecidas
+contribuições do setor privado, comunidades técnicas, pesquisadores e a sociedade civil na
+cooperação digital, o que demonstra a construção de uma governança com atores diversos.
+        Logo, fica perceptível o processo no qual inovações tecnológicas modificaram a visão
+clássica dos termos de governança global. Foi necessário que tais discussões se atualizassem,
+abordando um novo interesse comum mundial, transfronteiriço, multissetorial e até então
+supranacional. Uma das principais questões é como garantir uma soberania digital em relação
+
+6
+  ICANN. History. [S. l.], [s.d.]. Disponível em: <https://www.icann.org/history>. Acesso em: 29 dez. 2025.
+          7
+            GLOBAL COMPACT NETWORK PORTUGAL. Membros das Nações Unidas adotam Global
+Digital                   Compact.                     [S.d.].                 Disponível                 em:<
+https://globalcompact.pt/index.php/pt/noticias/428-membros-das-nacoes-unidas-adotam-global-digital-compact>
+. Acesso em: 3 jun. 2025.
+          8
+               UNITED        NATIONS.         Global      Digital   Compact.       [S.d.].  Disponível      em:
+https://www.un.org/global-digital-compact/en. Acesso em: 3 jun. 2025.
+                                                                                                             6
+a um item que está em todas as nações e não possui nenhum proprietário claro, como a
+internet. Dessa maneira, sobre uma Governança Global Digital cresceram e ambientes de
+discussões globais sobre o tema foram criados, com o intuito de fomentar estudos e produções
+científicas. Podemos encarar essa Governança Global Digital, um tema que ainda não possui
+uma definição una, como a tentativa das discussões clássicas de lidarem com a questão.
+Dentro desse ambiente temos governança da internet – um tema um pouco mais consolidado –
+e a recém chegada Governança da Inteligência Artificial.
+
+
+        4.2.​   A regulação digital no Brasil
+
+        O Brasil é um ator frequente em discussões sobre governança digital e soberania
+digital. O Caso Snowden é um dos motivadores dessa presença, movimentando a questão
+digital tanto internamente quanto externamente no Brasil. Em 2013, Edward Snowden,
+ex-técnico da CIA (Central Intelligence Agency), revelou detalhes de programas de vigilância
+dos EUA, utilizados para espionar cidadãos e figuras políticas ao redor do mundo, entre elas
+Dilma Rousseff9. Santoro e Borges (2017) revelam que esse caso reforçou a agenda digital no
+Brasil e fez com que autoridades do país reagissem de maneira rápida. Nesse sentido surge o
+Marco Civil da Internet (Lei 12.965, de 2014), sancionado em 2014, que possui como
+objetivo o estabelecimento do direito à cidadania nos cenários digitais, assim como da
+diversidade e da liberdade de expressão na internet (Brasil, 2024). Santoro e Borges (2017)
+referenciam o Marco Civil como uma das maiores iniciativas internacionais da administração
+de Dilma Rousseff.
+​       Desse modo, o Brasil vem se consolidando como um importante ator em discussões
+globais sobre Governança Digital. O governo brasileiro se estabeleceu como um líder na
+Governança da internet, ao copatrocinar – juntamente à Alemanha – duas resoluções sobre o
+assunto na Assembleia Geral da ONU (Santoro, Borges; 2017). O país trabalhou também para
+internacionalizar seu modelo de soberania digital, de modo que leis brasileiras foram
+consultadas pelo governo italiano para que o mesmo formulasse sua própria Constituição
+digital (Arnaudo, 2017 apud Guerreni 2015)
+        Da mesma maneira, o ano de 2018 foi constituído por marcos para Governança Digital
+no país. Neste ano sancionou-se a Lei Geral de Proteção de Dados Pessoais (LGPD), que
+aborda o tratamento de dados pessoais, com o objetivo de proteger os direitos de liberdade e
+9
+ G1. Entenda o caso de Edward Snowden, que revelou espionagem dos EUA. G1 Mundo, São Paulo, 2 jul.
+2013. Disponível em:
+https://g1.globo.com/mundo/noticia/2013/07/entenda-o-caso-de-edward-snowden-que-revelou-espionagem-dos-
+eua.html. Acesso em: 18 nov. 2025.
+                                                                                                      7
+privacidade (Brasil, 2018). Além disso, outro marco importante foi a instituição da Agência
+Nacional de Proteção de Dados (ANPD)10, órgão central de inteligência da LGPD,
+responsável pelo estabelecimento de normas e diretrizes para implementação da mesma e pela
+proteção dos dados pessoais de todos os brasileiros (ANPD, 2025).
+​        Paralelamente, o combate a Fake News também é um tema recorrente no trabalho
+brasileiro de regulação digital. A campanha eleitoral de Jair Bolsonaro foi diretamente
+influenciada pela divulgação organizada de informações falsas e pelo alcance e segmentação
+das redes sociais (Neto, 2025). Nesse contexto, surge a “Lei das Fake News” (Projeto de Lei
+n° 2630, de 2020), cujo objetivo principal é combater a desinformação nas redes sociais. Essa
+proposta, ao longo de sua tramitação, foi acusada por setores da política e por “big techs” de
+abrir uma brecha para censura e controle excessivo do conteúdo que circula nas redes (Neto,
+2025).
+​        Da mesma maneira, a regulação do X (antigo Twitter) é mais um exemplo da atuação
+de órgãos nacionais na normatização do ambiente digital. Em agosto de 2024 o Supremo
+Tribunal Federal brasileiro (STF) suspendeu a rede social no país após Elon Musk, dono da
+plataforma, não cumprir ordens judiciais estabelecidas pela legislação brasileira. Musk se
+recusou a atender a exigência de bloqueio a alguns perfis no X e também se recusou a nomear
+um representante legal da rede no Brasil, tais atos infringem o artigo 11 do Marco Civil da
+internet, o qual afirma basicamente que operações digitais ocorridas em território nacional
+devem respeitar a legislação brasileira11.
+​        Para além dos marcos já citados até o momento, outra importante ação do Brasil para
+consolidar-se como referência mundial no uso da inteligência artificial é o “Plano Brasileiro
+de Inteligência Artificial (PBIA) 2024-2028”12. O PBIA visa promover o desenvolvimento e a
+utilização da IA no país, levando em consideração os desafios nacionais existentes e prezando
+pela proteção dos direitos individuais e coletivos e pela soberania nacional (Brasil, 2024). As
+atividades planejadas pelo PBIA buscam a utilização das ferramentas de IA que melhorem a
+realidade da população brasileira. Dentre os eixos de atuação está o chamado “Apoio ao
+Processo Regulatório e de Governança de IA”, que possui como objetivo
+10
+  De acordo com Guerra e Bertholini (2023), “A ANPD foi criada pela Medida Provisória n. 869 de 27 de
+dezembro de 2018, durante o final da gestão Michel Temer, e posteriormente convertida na lei n. 13.853
+de 8 de julho de 2019, sancionada pelo então presidente Jair Bolsonaro (Guerra; Bertolini, 2023).
+11
+   TAVARES, Vitor. Moraes determina bloqueio do X no Brasil após Elon Musk descumprir decisão judicial.
+BBC News Brasil, São Paulo, 30 ago. 2024. Disponível em:
+https://www.bbc.com/portuguese/articles/c4gz28359d4o. Acesso em: 6 jan. 2026.
+12
+   Disponível em:
+https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/07/plano-brasileiro-de-ia-tera-supercomputador-
+e-investimento-de-r-23-bilhoes-em-quatro-anos/ia_para_o_bem_de_todos.pdf/view .
+                                                                                                           8
+                             “Contribuir para a consolidação de um arcabouço de governança de IA no Brasil
+                            que promova a inovação, assegure o direito ao desenvolvimento, proteja os direitos
+                            humanos, a integridade da informação, os direitos autorais e os que lhe são conexos,
+                            o trabalho e os trabalhadores, e posicione o Brasil como referência em IA
+                            responsável e confiável”(Brasil, 2024).
+
+
+        O Brasil pode ser considerado, então, um participante ativo no que diz respeito a
+políticas de soberania digital em contexto nacional e internacional. Para além da ANPD, da
+LGPD e do Marco Civil da internet, o Brasil possui agentes como o Comitê Gestor da internet
+no Brasil (CGI.br), o Ministério da Ciência Tecnologia e Inovação (MCTI) e o Ministério da
+Justiça e Segurança Pública (MJSP). O CGI.br constitui um modelo multissetorial de
+governança da internet (Belli et al. 2025), responsável por estabelecer diretrizes para a
+internet no Brasil, adotando padrões operacionais que seguem modelos internacionais aceitos
+por órgão de cúpula da internet13. Já o Ministério da Ciência Tecnologia e Inovação (MCTI) é
+o ministério federal responsável por políticas de incentivo e desenvolvimento de ciência,
+tecnologia e inovação através de unidades de pesquisa e instituições vinculadas14. E, por sua
+vez, o Ministério da Justiça e Segurança Pública (MJSP) é o órgão federal responsável pela
+defesa da ordem jurídica, dos direitos políticos e das garantias constitucionais15. Sua Portaria
+961/2025 estabeleceu regulamentações inéditas sobre o “uso de soluções tecnológicas em
+investigações criminais e atividades de inteligência de segurança pública” (MJSP, 2025).
+        Todavia, apesar de tais marcos, existem desafios de regulação no cenário doméstico
+brasileiro. De acordo com Hogemann (2024), o Marco Civil traz consigo questões referentes a
+sua implementação, como a aplicação correta da neutralidade na rede e a proteção da
+privacidade e dos dados pessoais, além da crescente onda de ataques cibernéticos e dos
+debates sobre liberdade de expressão. Da mesma maneira, o contexto da desinformação e
+compartilhamento de informações falsas nas plataformas digitais também caracterizam
+dificuldades. Para Gois (2024), é importante que o Brasil busque proteger liberdades
+individuais e combater a desinformação, mas ao mesmo tempo o Estado deve evitar medidas
+que incorrem a censura e a violação de direitos fundamentais. A autora, ao comparar
+13
+   BRASIL. Decreto n. 4.829, de 3 de setembro de 2003. Dispõe sobre a criação do Comitê Gestor da internet no
+Brasil – CGI.br, sobre o modelo de governança da internet no Brasil, e dá outras providências. Diário Oficial da
+União: seção 1, Brasília, DF, 4 set. 2003. Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto/2003/d4829.htm. Acesso em: 18 nov. 2025.
+14
+   MINISTÉRIO DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO (Brasil). [Página oficial]. [Local]:
+LinkedIn, 2025. Disponível em: https://www.linkedin.com/company/mcti/. Acesso em: 19 nov. 2025.
+15
+   MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA (Brasil). Institucional. Brasília, DF: MJSP,
+2024. Disponível em: https://www.gov.br/mj/pt-br/acesso-a-informacao/institucional. Acesso em: 19 nov. 2025.
+                                                                                                               9
+iniciativas brasileiras às internacionais, conclui que as dificuldades brasileiras circundam a
+falta de estruturas consolidadas capacitadas no combate à desinformação e na promoção de
+práticas transparentes nas plataformas digitais.
+       No contexto internacional, o Brasil atua como receptor e propagador de referências.
+Souza (2021) afirma que a LGPD é resultado da necessidade brasileira de acompanhar e
+manter relação com países que já estabelecem esse tipo de regulação. Nesse sentido, uma
+comparação entre a LGPD e o Regulamento Geral de Proteção de Dados na Europa permite a
+identificação da influência europeia na legislação brasileira. Existem convergências nos textos
+dos regulamentos em questões como definições, alcance, consentimento e princípios, o que
+demonstra tal influência (Souza, 2021). Do outro lado da moeda está o Brasil como um tipo
+de protagonista. De acordo com Pigatto (2024), o escândalo de espionagem estadunidense ao
+Brasil como conjuntura, tendo em vista a tradição histórica nacional no tema da governança
+da internet, possibilitou ao Brasil protagonizar a “exportação” de seu modelo de governança.
+       Diante disso, podemos encarar o Brasil como um ator ainda em consolidação em
+debates sobre a construção da governança digital. Porém, essa característica não retira do país
+seu relativo papel de destaque, com órgãos e regimentos internos que visam a regulação
+digital e com participações e cooperações internacionais que colocam o Brasil em evidência.
+
+
+       4.3.​   A participação do Ministério das Relações Exteriores na formulação da
+               Política Externa Brasileira
+
+       Atualmente, a Política Externa Brasileira (PEB) é composta por atores de diferentes
+setores e níveis, que vão desde órgãos institucionais a membros da sociedade civil. No
+entanto, Pinheiro (2010) expõe que durante a história da diplomacia brasileira, poucos atores e
+instituições se destacaram no processo de formulação e implementação da política externa. De
+acordo com a autora, “isto se deve, em grande parte, à própria formação das elites dirigentes
+nacionais e ao lugar ocupado pela área de política externa, fortemente insulada da sociedade
+brasileira” (Pinheiro, 2010, p.9). Dessa maneira, durante um longo período o Itamaraty (ou
+Ministério das Relações Exteriores do Brasil - MRE) foi a única instituição e principal
+responsável pela formulação da PEB. Com um caráter quase que oligárquico, o MRE
+estabeleceu, por um bom tempo na história brasileira, uma espécie de estigma ou “caixa
+preta” na construção da PEB, profissionalizando o exercício do campo da política externa em
+torno de seus funcionários (os diplomatas).
+       Ao analisarmos os diferentes períodos que compõem a linha histórica da PEB, o
+Itamaraty possui uma autonomia – nem que em caráter relativo. Zairo Borges Cheibub (1985)
+                                                                                            10
+argumenta que, com um padrão “carismático” em negociações e arbitragens internacionais em
+relação às questões fronteiriças do Brasil, a figura do Barão de Rio Branco trouxe para o
+Itamaraty um prestígio político. Adicionalmente, os métodos de seleção personalistas do
+Barão construíram um corpo diplomático hegemônico e “aristocrático” (Cheibub, 1985)
+         Posteriormente, no período burocrático-racional do Itamaraty, Cheibub afirma que o
+Instituto Rio Branco foi “uma maneira de manter sob o controle dos diplomatas a seleção dos
+novos membros da carreira” (Cheibub, 1985). Ou seja,                      “o próprio processo de
+profissionalização da diplomacia que instituíra o Ministério com o atributo de competência e
+da confiança, fez com que a área de política externa permanecesse relativamente insulada das
+injunções políticas”(Pinheiro, 2010, p.27-28).
+         Pinheiro (2010) explica que durante o período da ditadura militar brasileiro o
+Itamaraty passou por um leve afastamento do protagonismo na formulação da PEB devido às
+divergências em relação ao alinhamento aos Estados Unidos e o pragmatismo característico
+da diplomacia da instituição. No entanto, o órgão venho a retomar espaço “devido à
+semelhança existente entre os padrões de educação e socialização dos diplomatas e dos
+militares, a despeito da existência de diferenças políticas e ideológicas entre seus
+membros”(Pinheiro, 2010, p. 42).         A autora elucida ainda que a chamada diplomacia
+presidencialista contribuiu para um afastamento do Itamaraty do protagonismo comentado até
+então.
+         Paralelamente, Faria (2008) propõe seis outros fatores que podem explicar o que ele
+chama de “insulamento” do processo de produção da PEB. De acordo com o autor, são os
+fatores: a) a característica constitucional do Brasil que permite o executivo uma autonomia
+nesta área, colocando o Congresso Nacional em uma posição “marginal”; b) a questão do
+legislativo nacional ter encarregado o executivo a função da formação da PEB; c) o caráter
+imperial do sistema presidencialista do país, no âmbito da concentração de poderes no
+executivo; d) o modelo desenvolvimentista que isolou o país internacionalmente; e) a
+característica pragmática de decisões na atuação diplomática do país e f) a precoce
+profissionalização da corporação diplomática do Brasil e o prestígio nacional e internacional
+do Itamaraty. No entanto, apesar deste caráter histórico do que acadêmicos chamam de
+“insulamento”, Faria (2012) argumenta que:
+
+
+                        “o Itamaraty tem reagido de distintas maneiras às inúmeras pressões para que seja
+                        superado o seu tradicional insulamento, oriundas de variadas fontes. Parece haver
+                        evidências, como vimos, de que o MRE tem, no geral, preservado a sua capacidade
+
+
+                                                                                                      11
+                          de coordenação da política externa do país, como também apontado por alguns
+                          outros autores. Seja como for, fato é que, para o bem ou para o mal, provavelmente
+                          para ambos, a política externa do país cada vez mais se assemelha às políticas
+                          públicas características de um Estado democrático, com uma sociedade complexa e
+                          plural, crescentemente atrelada aos fluxos internacionais”(Faria; 2012).
+
+
+        4.4.​   O caso do domínio “amazon” e a defesa brasileira por uma abordagem
+                multissetorial
+
+
+        No ano de 2019 o Brasil realizou movimentações de negociação com o ICANN em
+relação à utilização do domínio “.Amazon”, um debate entre a empresa estadunidense
+Amazon Inc e países da Organização do Tratado de Cooperação Amazônica (composto por
+Brasil, Bolívia, Colômbia, Equador, Guiana, Peru, Suriname e Venezuela). A reportagem
+“Brasil lamenta perda do nome Amazon” (Anexo A), publicada em 20 de maio de 2019 pela
+Agência Brasil revela que o MRE lamentou a decisão do ICANN de conceder os direitos
+legais da utilização do domínio à empresa norte-americana.. De acordo com o jornal, o
+Itamaraty afirma que a decisão tomada pela ICANN, um órgão de direito privado, não levou
+em consideração o politicamente sensível deste domínio e considera que a atribuição do nome
+só pode ocorrer baseado em uma solução que esteja de acordo com os países da região
+amazônica.
+​       Adentrando nas notas de imprensa divulgadas pelo MRE podemos identificar três
+notas – em um período de dois meses (março a maio de 2019) –                                 que tratam do
+posicionamento brasileiro em relação ao tema. A nota à Imprensa nº 54/2019 (Anexo E),
+primeira nota divulgada (em 11 de março de 2019) sobre o assunto, expressa a firme postura
+de oposição – manifestada desde 2012 – do Brasil, por meio do Itamaraty, em relação à
+vinculação do domínio de primeiro nível16 “.Amazon” à empresa Amazon em razão da
+relação semântica dessa palavra com a Amazônia. Segundo o órgão, os Estados envolvidos na
+região amazônica deveriam participar da gestão e do uso do domínio, a fim de garantir a
+proteção e promoção de patrimônios culturais, naturais e simbólicos, além de fomentar a
+economia e inclusão regional. De acordo com a nota:
+                          “A ICANN é uma entidade de direito privado responsável pela gestão do sistema de
+                          nomes de domínio da internet. A função dos governos limita-se ao mero
+                          aconselhamento do Conselho Diretor, sem força legal, em temas de política pública,
+                          especialmente quando haja vinculações entre suas decisões e os direitos nacional ou
+
+16
+  De acordo com o ICANN (2011), domínios de primeiro nível são extensões de nomes de domínio (como .com,
+.net ou .org). Enquanto um nome de nível secundário pode ser o nome de uma organização, como no exemplo
+web-yourorg.com, onde yourorg consiste um domínio de segundo nível e .com é o domínio de primeiro nível.
+                                                                                                          12
+                       internacional. Essa singularíssima governança também exigirá da ICANN sentido de
+                       responsabilidade pública e sensibilidade política e cultural, ao decidir acerca de
+                       atribuição de domínio na internet que remete à própria identidade nacional de nada
+                       menos que oito países e a uma região com tamanha carga simbólica. Sua futura
+                       decisão também terá de levar em conta a necessidade de preservar o equilíbrio do
+                       regime multissetorial de governança da internet” (Brasil, 2019).
+
+       Em 18 de abril de 2019 o ministério divulgou a segunda nota sobre o tema (Nota à
+Imprensa nº 98/2019 - Anexo F). Essa declaração reafirma a preocupação brasileira em
+relação à associação do termo em discussão com a identidade e interesse político dos países
+amazônicos, assim como a preservação de uma governança multissetorial da internet e o
+fortalecimento da “legitimidade dos mecanismos de gestão de recursos globais da
+rede”(Brasil. 2019) . Segundo o ministério:
+
+                       “O Brasil reitera sua disposição de buscar, de boa-fé, uma solução amigável e
+                       mutuamente aceitável para a controvérsia entre a empresa Amazon e os países da
+                       OTCA, que assegure: (1) que os países da OTCA compartilharão responsabilidades
+                       com a empresa em temas centrais relacionados à governança do nome de domínio de
+                       primeiro nível, mediante um Comitê Gestor que garanta o efetivo compartilhamento
+                       daquela responsabilidade; (2) que nomes de domínio de segundo nível importantes
+                       para a promoção do patrimônio natural e cultural dos países amazônicos serão
+                       protegidos ou, em alguns casos, delegados a esses países por acordo mútuo; (3) que
+                       nomes de domínio de segundo nível que possam confundir ou induzir a erro sobre
+                       questões próprias da região amazônica não serão utilizados pela empresa; e (4) que
+                       mudanças em relação ao regime de governança do nome de domínio .AMAZON
+                       ocorram por acordo entre as partes”(Brasil, 2019).
+
+​      Por fim, a última nota divulgada sobre o assunto em 20 de maio de 2019 (Nota à
+Imprensa nº 132/2019 - Anexo G) consiste no lamento do Brasil em relação à concessão
+realizada pelo ICANN do termo em regime de exclusividade à Amazon e sem uma solução
+mutuamente acordada entre a empresa norte-americana e os países amazônicos. Como afirma
+o ministério:
+
+                       “O Brasil tem sido um firme defensor da abordagem multissetorial para a
+                       governança da internet, com a participação plena das múltiplas partes interessadas –
+                       governos, sociedade civil e setor privado – em seus papeis e responsabilidades
+                       respectivos. A decisão da ICANN debilita aquela abordagem, na medida em que não
+                       se funda no princípio de que Estados soberanos têm direitos e responsabilidades em
+                       temas de política pública relacionados à internet”(Brasil, 2019)
+
+
+       Assim, a partir das declarações apresentadas, pode-se identificar o forte
+posicionamento brasileiro na defesa de uma soberania digital, ao passo que o país reitera o
+impacto que a concessão do domínio de primeiro nível à uma empresa privada tem em
+identidades culturais, sociais e naturais de países e cidadãos da região amazônica. Dessa
+
+                                                                                                        13
+maneira, o Itamaraty traz a atenção para os efeitos de operações privadas do mercado digital
+sobre a soberania nacional de um país. Além disso, outra característica que pode ser notada é
+a defesa da abordagem multissetorial por parte das representações brasileiras. Ao sugerir uma
+solução amigável entre a Amazon Inc e os países da OTCA, buscando assegurar o
+compartilhamento de responsabilidades nos temas relacionados à governança do domínio e a
+proteção de domínios de segundo nível importantes para identidades nacionais, o Brasil
+abarca dentro destas discussões representantes dos meios privados (Amazon), governamentais
+(membros da OTCA), e entidades globais (ICANN).
+
+
+       4.5.​   A defesa brasileira da multilateralidade em ambientes de discussão sobre
+               questões digitais
+       Reportagens publicadas por importantes veículos de comunicação introduzem a
+percepção de uma tendência brasileira em se questionar a concentração tecnológica em uma
+localidade e/ou país, assim como a concentração de recursos. A reportagem “Itamaraty:
+Espionagem pode mudar governança da rede” (Anexo D), publicada em 08 de junho de 2013
+no jornal Estadão, demonstra a iniciativa brasileira em democratizar o gerenciamento da
+internet. Segundo a notícia, apesar de reconhecer a eficiência do sistema e acreditar que são
+legítimos os temores dos problemas de censura e controle advindas da proliferação da
+influência de governos, o Itamaraty considera que não é saudável a concentração do aparato
+que forma a internet na mão de apenas um país (Estadão, 2013). No mesmo sentido, a matéria
+“Itamaraty e a Anatel divergem sobre gestão da internet” (Anexo C), publicada em 15 de
+agosto de 2013 no jornal GGN apresenta aspectos do posicionamento do MRE em relação à
+concentração da rede em uma determinada região. Como indica a reportagem, o Itamaraty
+aponta características como o déficit da balança comercial em relação ao tráfego na internet
+entre Brasil e Estados Unidos, o descompasso na produção de conteúdo e tecnologia entre
+esses dois países. De acordo com o ministro-conselheiro Rômulo Neves, “o Itamaraty
+considera que [...] a internet brasileira sofre com a falta de tecnologia nacional, o que impacta
+no baixo desenvolvimento da rede brasileira” (GGN, 2013). Além dos artigos citados acima, a
+reportagem “Governo decide unilateralmente alterar o Comitê Gestor da internet” (Anexo B),
+publicada em 10 de agosto de 2017 no jornal Carta Capital (sob autoria da jornalista Marina
+Pita), revela que foi por meio do MRE que o Brasil assumiu, solicitando participações
+multissetoriais, espaços de discussão acerca da internet, entre elas “a independência da IANA,
+que trata da raiz do sistema de nomes de domínio na internet, do Departamento de Comércio
+dos Estados Unidos” (Carta Capital, 2017).
+
+                                                                                              14
+           Dessa maneira, é possível observar um posicionamento brasileiro à favor de ambientes
+multilaterais em discussões sobre uma governança digital. Nesse sentido, investigando as
+notas à imprensa divulgadas pelo Itamaraty, encontramos o discurso do Ministro Mauro Vieira
+(Anexo I - Nota à Imprensa Nº 87) , proferido na segunda sessão de Ministros das Relações
+Exteriores, em 21 de fevereiro de 2025, no qual o represente brasileiro abordou os novos
+dilemas sobre a governança de dados que a inteligência artificial trouxe consigo. De acordo
+com o ministro:
+
+
+                            “Dados são fundamentais no desenvolvimento e funcionamento de sistemas de IA,
+                            conforme reconhecido na Resolução da ONU sobre IA no ano passado. Todos os
+                            países contribuem para a produção de dados e devem ter o direito de se beneficiar da
+                            tecnologia advinda deles. Devemos estabelecer uma estrutura global justa e
+                            equitativa para a governança de dados a fim de abordar os princípios de coleta,
+                            armazenamento, uso e transferência de dados, respeitando a privacidade, a proteção
+                            de dados pessoais e as políticas de segurança”(MRE, 2025).
+
+
+           Ainda neste contexto, em seu discursos por ocasião do recebimento do Prêmio
+Fundação Getúlio Vargas (Anexo H - Nota à Imprensa Nº 64), 07 em fevereiro de 2025,
+Vieira afirmou que em sua participação na Cúpula para Ação sobre Inteligência Artificial, em
+Paris, iria enfatizar a perspectiva brasileira em relação à importância de instituições
+democráticas no ambiente digital. Segundo o ministro, o Brasil se posicionará por uma
+Governança da Inteligência Artificial definida de maneira multilateral na ONU17, com
+discussões abertas, equitativas e inclusivas, respeitando as necessidades e prioridades de cada
+país (MRE, 2025). De acordo com a nota à imprensa Nº 67 (Anexo J), divulgada pelo MRE
+sobre o evento em questão, o Brasil coloca-se como defensor de uma governança da IA que
+vise a redução de desigualdades, soluções multilaterais e inclusivas, protegendo os direitos
+humanos e garantindo o acesso não discriminatório a tal tecnologia. Além disso, o país
+considera que a ONU deve estar no centro “da discussão e das decisões sobre IA, por meio de
+diálogo aberto e equitativo, reconhecendo as necessidades e as prioridades de todos os
+países”(MRE, 2025).
+
+
+
+
+17
+     Organização das Nações Unidas
+                                                                                                                15
+        4.6.​   Visualização gráfica da abordagem multilateral e multissetorial brasileira
+
+
+        Uma vez que estamos olhando para um ator específico da PEB, a análise de
+documentos oficiais divulgados pela própria instituição se faz interessante, a fim de identificar
+os posicionamentos da mesma. Nesse sentido, os gráficos abaixo apresentam a co-ocorrência
+de palavras ligadas ao contexto de avanços tecnológicos e a defesa de uma soberania digital
+(inclusas abordagens multilaterais e multissetoriais de governança). O gráfico 1 demonstra
+este teste nas Notas à Imprensa divulgadas pelo Itamaraty, entre os anos de 2014 e 2025.
+Como pode-se observar, por menor que seja, há sempre uma interligação entre as palavras
+relacionadas à perspectiva multilaterais/multissetoriais com palavras como “internet”,
+“digital”, “IA”/”inteligência artificial” e “dados”. O que chama mais a atenção é a forte
+co-ocorrência entre o termo “IA” e as palavras “multilaterais”, “democrática”, “governança” e
+“soberania”, o que expressa a forte preocupação (e também) brasileira nas discussões sobre
+como lidar com essa recente tecnologia, popularizada após o lançamento do Chat GPT em
+2023.
+
+
+
+
+                                                                                              16
+    Gráfico 1 - Co-ocorrência das palavras “internet”, “digital”, “inteligência artificial”,
+        “IA”, “dados”,”multilaterais, “democrática”, “governança”, “soberania” e
+      “multissetorial” nas Notas à Imprensa divulgadas pelo MRE entre 2014 e 2025.
+
+
+
+
+Fonte: elaboração própria com base nas notas à imprensa divulgadas pelo MRE.
+
+
+​        Da mesma forma, o gráfico 2 explora as mesmas características do gráfico anterior,
+mas no contexto de discursos realizados por Ministros das Relações Exteriores do Brasil
+(mantido o recorte temporal). De forma análoga ao momento anterior, o que podemos notar é
+a constante presença desses debates, mesmo que o volume de co-ocorrências seja diminuto.
+
+
+
+
+                                                                                           17
+    Gráfico 2 - Co-ocorrência das palavras “inteligência artificial”, “IA”, “dados”,
+“multilaterais”, “democrática”, “governança” e “soberania” em discursos dos Ministros
+                      das Relações Exteriores entre 2014 e 2025.
+
+
+
+
+Fonte: elaboração própria com base nos discursos divulgados pelo MRE.
+
+    5.​   CONCLUSÕES PARCIAIS
+
+​         O estágio atual da pesquisa permite observar que o surgimento de inovações
+tecnológicas (como a internet, a inteligência artificial, o gerenciamento de dados pessoais
+advindos desses ambientes), desencadeou um desafio no paradigma de abordagem da
+chamada Governança Global. Este conceito pode ser entendido como um sistema de padrões,
+princípios, normas, regras e/ou costumes (formais ou informais, vinculantes ou não
+vinculantes) que guiam e/ou conduzem as ações de atores das relações internacionais, guiados
+muitas vezes por interesses globais em comum entre os atores. A questão agora é como lidar
+com este novo interesse comum que não possui um único ou específico país sede, provedor ou
+proprietário de uma ferramenta que vai além das barreiras de noções de território,
+
+
+                                                                                         18
+estado-nação e cidadãos. Nesse contexto entra então a chamada Governança Global Digital,
+que corresponde às tentativas de governança global destas ferramentas tecnológicas.
+​         Nesse sentido, o Brasil é um dos principais atores em ambientes de discussão sobre
+abordagens de governança digital. O escândalo de espionagem estadunidense de 2013
+desencadeou uma série de reações em diversos órgãos nacionais. O principal resultado foi o
+Marco Civil da internet, responsável por garantir os direitos à cidadania, diversidade e
+liberdade de expressão na internet. Desde este marco, o Brasil vem consolidando seu
+protagonismo através de planos de implementação, criação de órgãos de agência, regulações,
+entre outras ações.
+​         Nesse sentido, as notas à imprensa e discursos divulgados pelo MRE (órgão que
+historicamente possui um poder de ação com um caráter parcialmente independente), revelam
+a defesa por uma abordagem multissetorial, de maneira que diferentes esferas da sociedade
+integrem as arenas de discussão digital. Também pode-se observar a argumentação favorável
+a um caráter multilateral nas ferramentas digitais, sem a concentração em um único polo.
+Além disso, o Brasil é um defensor recorrente da soberania nacional, e no ambiente digital
+isso não é diferente. O país busca sempre proteger sua soberania e a de seus cidadãos. A partir
+deste contexto, os próximos passos da pesquisa serão investigar se esta abordagem soberana,
+multilateral e multissetorial é a única defendida pelo Brasil.
+
+    6.​   REFERÊNCIAS
+
+ARNAUDO, D. O Brasil e o Marco Civil da internet: o estado da governança digital
+brasileira. [ARTIGO ESTRATÉGICO]. Instituto Igarapé, 25 abr. 2017. Disponível em:
+https://igarape.org.br/marcocivil/assets/downloads/igarape_o-brasil-e-o-marco-civil-da-intern
+et.pdf >. Acesso em: 18 nov. 2025.
+
+AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS (Brasil). Institucional. Brasília,
+DF: ANPD, 2025 . Disponível em:
+https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional. Acesso em: 18 nov. 2025.
+
+BELLI, Luca et al. Soberania Digital e Inteligência Artificial no Brasil. Rio de Janeiro: FGV
+Direito Rio, Centro de Tecnologia e Sociedade, set. 2025. (Artigo para Discussão, 003/2025).
+Disponível em:
+https://cyberbrics.info/wp-content/uploads/2025/09/ApD-CTS-FGV-003-25.pdf. Acesso em:
+17 nov. 2025.
+
+BRASIL. Congresso Nacional. Senado Federal. Marco Civil da internet completa dez anos
+ante desafios sobre redes sociais e IA. Brasília: Agência Senado, 26 abr. 2024. Disponível
+em:
+                                                                                            19
+https://www12.senado.leg.br/noticias/materias/2024/04/26/marco-civil-da-internet-completa-d
+ez-anos-ante-desafios-sobre-redes-sociais-e-ia. Acesso em: 3 jun. 2026.
+
+BRASIL. Lei n. 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais
+(LGPD). Diário Oficial da União: seção 1, Brasília, DF, ano 156, n. 157, p. 59, 15 ago. 2018.
+Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm.
+Acesso em: 18 nov. 2025.
+
+BRASIL. Ministério da Ciência, Tecnologia e Inovação. IA para o bem de todos: Plano
+Brasileiro de Inteligência Artificial 2024-2028. Brasília, DF: MCTI, 2024. Disponível em:
+https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/07/plano-brasileiro-de-ia-tera-
+supercomputador-e-investimento-de-r-23-bilhoes-em-quatro-anos/ia_para_o_bem_de_todos.p
+df/view. Acesso em: 11 mar. 2025.
+
+BRASIL. Ministério das Relações Exteriores. Solicitação de atribuição do nome de
+domínio de primeiro nível “.Amazon”: Nota à Imprensa nº 54/2019. Brasília, DF: MRE, 11
+mar. 2019. Disponível em:
+https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/solicitaca
+o-de-atribuicao-do-nome-de-dominio-de-primeiro-nivel-amazon. Acesso em: 21 maio 2026.
+
+BRASIL. Ministério das Relações Exteriores. Solicitação de atribuição de domínio de
+primeiro nível “.Amazon”: Nota à Imprensa nº 98/2019 . Brasília, DF: MRE, 18 abr. 2019.
+Disponível em:
+https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/solicitaca
+o-de-atribuicao-de-dominio-de-primeiro-nivel-amazon. Acesso em: 22 maio 2026.
+
+BRASIL. Ministério das Relações Exteriores. Solicitação de atribuição de domínio de
+primeiro nível “.Amazon”: Nota à Imprensa nº 132/2019. Brasília, DF: MRE, 20 mai. 2019.
+Disponível em:
+https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/solicitaca
+o-de-atribuicao-de-dominio-de-primeiro-nivel-amazon-2. Acesso em: 22 maio 2026.
+
+BRASIL. Ministério das Relações Exteriores. Nota à Imprensa nº 67: Participação do
+Ministro Mauro Vieira na Cúpula para Ação em Inteligência Artificial – Paris, 10 e 11 de
+fevereiro de 2025. Brasília: MRE, 9 fev. 2025. Disponível em:
+https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-do
+-ministro-mauro-vieira-na-cupula-para-acao-em-inteligencia-artificial-2013-paris-10-e-11-de-
+fevereiro-de-2025. Acesso em: 3 jun. 2026.
+
+CHEIBUB, Z. B. Diplomacia e Construção Nacional: O Itamaraty em uma Perspectiva
+Histórica. DADOS – Revista de Ciências Sociais, Rio de Janeiro, v. 28, n. 1, 1985. Disponível
+em: https://dados.iesp.uerj.br/es/artigos/?id=299. Acesso em: 28 jan. 2026.
+
+
+
+                                                                                            20
+FARIA, Carlos Aurélio Pimenta de. O Itamaraty e a política externa brasileira: do
+insulamento à busca de coordenação dos atores governamentais e de cooperação com os
+agentes societários. Contexto Internacional, Rio de Janeiro, v. 34, n. 1, p. 311-355, jan./jun.
+2012. Disponível em:
+https://www.scielo.br/j/cint/a/bcWcqfYFWhDWwxYDbqQsdbj/?format=pdf&lang=pt.
+Acesso em: 4 jul. 2026.
+
+FARIA, C. A. P. Opinião pública e política externa: insulamento, politização e reforma na
+produção da política exterior do Brasil. Revista Brasileira de Política Internacional, Brasília,
+v. 51, n. 2, p. 80-97, 2008. Disponível em:
+https://www.scielo.br/j/rbpi/a/KcLn9ws8QNX8VQB5pvHQG3N/?format=pdf&lang=pt.
+Acesso em: 28 jan. 2026.
+
+FERREIRA, Ana Beatriz Mação de Barros; FREITAS, Juliana Borduchi de. O papel do
+Brasil na construção de uma agenda digital regional no Mercosul. In: XX CONGRESSO
+INTERNACIONAL FOMERCO, 2025, Niterói. Anais... Niterói: Fórum Universitário
+Mercosul (FoMerco) / UFF, 2025. Disponível em:
+https://www.congresso2025.fomerco.com.br/trabalho/view?q=eyJwYXJhbXMiOiJ7XCJJRF9
+UUkFCQUxIT1wiOlwiMjA1OVwifSIsImgiOiIxMTAwNzBjNGEzNTU2Y2MwYWNjNjA5
+MDFkY2ZjZDU0MyJ9. Acesso em: 12 jun. 2026.
+
+INTERNET CORPORATION FOR ASSIGNED NAMES AND NUMBERS (ICANN).
+Nomes de domínios internacionalizados: agora os domínios da web falam o seu idioma
+favorito. Los Angeles: ICANN, ago. 2011. Disponível em:
+https://www.icann.org/en/system/files/files/idns-fact-sheet-16aug11-pt.pdf. Acesso em: 22
+mai. 2026.
+
+GOIS, V. dos A. Governança da internet no Brasil: os desafios regulatórios das plataformas
+digitais e suas implicações para a integridade informacional. 49 f. Trabalho de Conclusão de
+Curso (Bacharelado em Relações Internacionais) – Faculdade de Ciências Humanas e Sociais,
+Universidade Estadual Paulista (UNESP), Franca, 2024. Disponível em:
+https://repositorio.unesp.br/server/api/core/bitstreams/36d0c7af-73d8-42a0-9aaa-0ecd202a41e
+1/content. Acesso em: 19 nov. 2025.
+
+HOGEMANN, E. R. Avanços e desafios na regulação digital com o Marco Civil da internet:
+perspectivas das políticas públicas para a neutralidade da rede. R. Jur. FA7, Fortaleza, v. 21, n.
+3, p. 13-25, set./dez. 2024. Disponível em:
+https://periodicos.uni7.edu.br/index.php/revistajuridica/article/view/1774/996. Acesso em: 18
+nov. 2025.
+
+IKENBERRY, G. John. Liberal leviathan: the origins, crisis, and transformation of the
+American World order. Princeton: Princeton University Press, 2011.
+
+
+
+                                                                                               21
+JIA, K.; CHEN, S. Global digital governance: paradigm shift and an analytical framework.
+Global Public Policy and Governance, v. 2, n. 3, p. 283–305, 2022. Disponível em:
+https://doi.org/10.1007/s43508-022-00047-w. Acesso em: 3 jun. 2026.
+
+KEOHANE, Robert O.; NYE, Joseph S. Governance in a globalizing world. In: KEOHANE,
+Robert O. (org.). Power and governance in a partially globalized world. Londres: Routledge,
+2002. p. 193-218.
+
+LIMA, Maria Regina Soares de. Aspiração internacional e política externa. Revista Brasileira
+de Comércio Exterior, n. 82, p. 4–19, 2005. Disponível em:
+<https://www.funcex.org.br/publicacoes/rbce/material/rbce/82-mrsl.pdf>. Acesso em: 9 jun.
+2025.
+
+MÄNTYMÄKI, Matti; MINKKINEN, Matti; BIRKSTEDT, Teemu; VILJANEN, Mika
+.Defining organizational AI governance. AI and Ethics, [S.l.], v. 2, p. 603–609, 2022.
+Disponível em: https://link.springer.com/article/10.1007/s43681-022-00143-x. Acesso em: 25
+maio 2025.
+
+MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA (Brasil). Portaria do MJSP
+regulamenta uso de tecnologia em investigações criminais e inteligência de segurança pública.
+[Notícia]. Brasília, DF, 30 jun. 2025. Disponível em:
+https://www.gov.br/mj/pt-br/assuntos/noticias/portaria-do-mjsp-regulamenta-uso-de-tecnologi
+a-em-investigacoes-criminais-e-inteligencia-de-seguranca-publica. Acesso em: 19 nov. 2025.
+
+MINISTERIO DAS RELAÇÕES EXTERIORES. Discurso do Ministro Mauro Vieira por
+ocasião da segunda sessão da reunião de Ministros das Relações Exteriores do G20 –
+Joanesburgo, 21/02/25, 21/02/2025. []. Disponivel em:
+https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/discurso-do-mi
+nistro-mauro-vieira-por-ocasiao-da-segunda-sessao-da-reuniao-de-ministros-das-relacoes-exte
+riores-do-g20-2013-joanesburgo-21-02-25. Acesso em: 29 mai. 2026.
+
+MINISTERIO DAS RELAÇÕES EXTERIORES. Discurso proferido pelo Ministro Mauro
+Vieira por ocasião de outorga do Prêmio Fundação Getúlio Vargas – Rio de Janeiro, 7 de
+fevereiro, 07/02/2025. []. Disponivel em:
+https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/discurso-proferi
+do-pelo-ministro-mauro-viera-por-ocasiao-de-outorga-do-premio-fundacao-getulio-vargas-20
+13-rio-de-janeiro-7-de-fevereiro. Acesso em: 29 mai. 2026.
+
+NYE JR., Joseph. The regime complex for managing global cyber activities. Global
+Commission on internet Governance, Paper Series, n. 1, maio 2014. Disponível em:
+https://www.cigionline.org/static/documents/gcig_paper_no1.pdf. Acesso em: 10 maio 2025.
+
+PIGATTO, Jaqueline Trevisan. Governança global da internet: Regimes e transnacionalidade
+no período pós-Snowden. 2024. 263 f. Tese (Doutorado em Ciências Sociais) - Faculdade de
+Ciências e Letras, Universidade Estadual Paulista "Júlio de Mesquita Filho", Araraquara,
+                                                                                           22
+2024. Disponível em: https://agendapos.fclar.unesp.br/agenda-pos/ciencias_sociais/6536.pdf .
+Acesso em: 19 nov. 2025.
+
+PIGATTO, Jaqueline Trevisan. Histórico da internet e sua governança. In: PIGATTO
+Jaqueline Trevisan. O papel das corporações transnacionais na governança global da internet:
+Google e Facebook nas discussões sobre neutralidade da rede e política de dados
+(2013-2018). Dissertação de Mestrado - Universidade Estadual Paulista, São Paulo. p. 31-65,
+2020. Disponível em: http://hdl.handle.net/11449/191751. Acesso em: 12 dez 2025.
+
+PINHEIRO, Leticia. Política externa brasileira (1889-2002). 2. ed.- ed. Rio de Janeiro:
+Zahar, 2010.
+
+RAMANZINI JUNIOR, Haroldo. Uma análise da política externa do governo Lula da Silva.
+Revista Debates, [S. l.], v. 4, n. 2, p. 60, 2010. Disponível em:
+<https://seer.ufrgs.br/index.php/debates/article/view/16561>. Acesso em: 9 jun. 2025.
+
+
+ROSENAU, James N. Governança, ordem e transformação na política mundial. In:
+ROSENAU, James N.; CZEMPIEL, Ernst-Otto (org.). Governança sem governo: ordem e
+transformação na política mundial. Brasília: Editora da UnB, 2000. p. 11-46.
+
+SANTORO, Maurício; BORGES, Bruno. Brazilian foreign policy towards internet
+governance. Revista Brasileira de Política Internacional, Brasília, v. 60, n. 1, e003, 2017.
+Disponível em: < https://www.scielo.br/j/rbpi/a/TCv9k9dPmfrS8TH5G67ctbn/?lang=en>.
+Acesso em:17 nov. 2025.
+
+SIÉBRA NETO, João Batista. Liberdade de expressão e regulação das redes sociais no Brasil:
+dilemas, limites e desafios éticos (2014-2024). 2025. 27 f. Artigo (Licenciatura em História) –
+Universidade Estadual do Piauí, Floriano, 2025. Disponível em:
+https://sistemas2.uespi.br/handle/tede/2038. Acesso em: 16 nov. 2025.
+
+SOUZA, M. W. I. de. A proteção de dados virtuais no Brasil: a regulamentação do uso de
+dados virtuais pessoais no Brasil sob a influência das normas europeias. 31 f. Trabalho de
+Conclusão de Curso (Bacharelado em Direito) – Curso de Direito, Universidade Federal do
+Tocantins (UFT), Palmas, TO, 2021. Disponível em:
+https://repositorio.uft.edu.br/bitstream/11612/3406/1/Marlon%20Weldes%20Ibrahim%20de%
+20Souza-%20TCC.pdf. Acesso em: 14 nov. 2025.
+
+WGIG – WORKING GROUP ON INTERNET GOVERNANCE. Report of the Working
+Group on Internet Governance. Château de Bossey: WGIG, 2005. Disponível em:
+https://www.wgig.org/docs/WGIGREPORT.pdf. Acesso em: 9 maio 2025.
+
+ZÜRN, Michael. A theory of global governance: authority, legitimacy, and contestation.
+Oxford: Oxford University Press, 2018.
+
+
+                                                                                               23
+ 7.​   Anexos
+
+                    ANEXO A - Brasil lamenta perda do nome Amazon
+
+
+
+
+Disponível                                                                                em:
+https://agenciabrasil.ebc.com.br//internacional/noticia/2019-05/brasil-lamenta-perda-do-nome
+-amazon . Acesso em: 02 maio 2026.
+
+   ANEXO B - Governo decide unilateralmente alterar o Comitê Gestor da internet
+
+
+
+
+Disponível em:
+https://www.cartacapital.com.br/blogs/intervozes/governo-decide-unilateralmente-alterar-o-comite-ges
+tor-da-internet/ . Acesso em: 02 maio 2026.
+
+
+
+
+                                                                                                 24
+         ANEXO C - Itamaraty e a Anatel divergem sobre gestão da internet
+
+
+
+
+                                       Disponível em:
+ https://jornalggn.com.br/politica/itamaraty-e-a-anatel-divergem-sobre-gestao-da-internet/ .
+                                  Acesso em: 02 maio 2026
+
+         ANEXO D - Itamaraty: Espionagem pode mudar governança da rede
+
+
+
+
+                                       Disponível em:
+https://www.estadao.com.br/politica/itamaraty-espionagem-pode-mudar-governanca-da-rede/?
+                                                                                           25
+   srsltid=AfmBOoq9FJ_GJ3fohK_Y0bhN8WZ--QzeFpdLBn3mRSc6OODbqWeu5p4z .
+                             Acesso: 02 maio 2026.
+
+                       ANEXO E - Nota à Imprensa nº 54/2019
+
+
+
+
+                                     Disponível em: <
+https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/solicitaca
+  o-de-atribuicao-do-nome-de-dominio-de-primeiro-nivel-amazon > . Acesso em: 20 maio
+                                          2026
+
+                        ANEXO F - Nota à Imprensa nº 98/2019
+
+
+
+
+                                                                                       26
+                                     Disponível em:
+<https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/solicitac
+    ao-de-atribuicao-de-dominio-de-primeiro-nivel-amazon >. Acesso em: 20 maio 2026
+
+                       ANEXO G - Nota à Imprensa nº 132/2019
+
+
+
+
+                                     Disponível em: <
+https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2019/solicitaca
+    o-de-atribuicao-de-dominio-de-primeiro-nivel-amazon-2 >. Acesso em: 20 maio 2026
+
+                          ANEXO H - Nota à Imprensa Nº 64
+
+
+
+
+                                      Disponível em:
+https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/discurso-proferi
+do-pelo-ministro-mauro-viera-por-ocasiao-de-outorga-do-premio-fundacao-getulio-vargas-20
+                13-rio-de-janeiro-7-de-fevereiro. Acesso em: 29 maio 2026.
+
+
+
+                                                                                       27
+                           ANEXO I - Nota à Imprensa Nº 87
+
+
+
+
+                                      Disponível em:
+https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/discurso-do-mi
+nistro-mauro-vieira-por-ocasiao-da-segunda-sessao-da-reuniao-de-ministros-das-relacoes-exte
+           riores-do-g20-2013-joanesburgo-21-02-25 . Acesso em: 29 maio 2026.
+
+                           ANEXO J - Nota à Imprensa Nº 67
+
+
+
+
+                                      Disponível em:
+https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-do
+-ministro-mauro-vieira-na-cupula-para-acao-em-inteligencia-artificial-2013-paris-10-e-11-de-
+                       fevereiro-de-2025 . Acesso em: 29 maio 2026.
+
+
+                                                                                          28
+

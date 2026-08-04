@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "modelo_ia": "mimo",
+    "data_verificacao": "2026-07-30",
+    "arquivo_filtragem_original": "json-filtragem-mimo-2026-07-30.json",
+    "contexto_utilizado": "contexto01.md",
+    "periodo_analisado": "2025"
+  },
+  "resumo": {
+    "total_notas_originais": 615,
+    "total_notas_filtradas": 7,
+    "total_notas_excluidas": 608,
+    "falsos_positivos": 0,
+    "falsos_negativos": 1,
+    "justificativas_otimas": 3,
+    "justificativas_boas": 1,
+    "justificativas_insuficientes": 3,
+    "score_confianca": 85
+  },
+  "notas_reavaliadas": [
+    {
+      "titulo": "Diálogo Digital Brasil – União Europeia – Comunicado Conjunto – Bruxelas, 12 de fevereiro",
+      "data": "12/02/2025",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/dialogo-digital-brasil-2013-uniao-europeia-2013-comunicado-conjunto-2013-bruxelas-12-de-fevereiro",
+      "status_original": "Incluída",
+      "status_reavaliado": "Mantida",
+      "justificativa_original": "O I Diálogo Digital Brasil-Índia aborda temas centrais como governança de IA, infraestrutura digital pública e proteção de dados, reforçando o posicionamento do Brasil em cooperação digital Sul-Sul.",
+      "justificativa_reavaliada": "O Diálogo Digital Brasil-UE aborda governança de dados, regulamentação de IA e marcos regulatórios digitais, reforçando a cooperação bilateral em governança digital global.",
+      "passagens_originais": ["As delegações discutiram temas centrais da transformação digital, incluindo governança de inteligência artificial, infraestrutura pública digital, conectividade significativa, computação de alta performance, semicondutores e proteção de dados.", "As discussões reafirmaram a visão compartilhada de que a transformação digital deve ter em sua base a soberania tecnológica e o desenvolvimento inclusivo e sustentável.", "O encontro reforçou o entendimento mútuo no sentido de ampliar a coordenação bilateral e avançar rumo a uma parceria mais estreita sobre temas digitais."],
+      "passagens_reavaliadas": ["Concordaram em aprimorar o compartilhamento de experiências em questões como governança de dados e economia de dados, governança e regulamentação de IA.", "Brasil e UE assinalaram a importância de trabalhar juntos para promover marcos regulatórios robustos no domínio digital e uma governança global inclusiva das tecnologias digitais.", "Ambas as Partes acompanharão de perto a implementação do Pacto Digital Global das Nações Unidas."],
+      "motivo_reavaliacao": "Justificativa corrigida para mencionar Brasil-UE em vez de Brasil-Índia",
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Participação do Ministro Mauro Vieira na Cúpula para Ação em Inteligência Artificial – Paris, 10 e 11 de fevereiro de 2025",
+      "data": "09/02/2025",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/participacao-do-ministro-mauro-vieira-na-cupula-para-acao-em-inteligencia-artificial-2013-paris-10-e-11-de-fevereiro-de-2025",
+      "status_original": "Incluída",
+      "status_reavaliado": "Mantida",
+      "justificativa_original": "A participação do Ministro Mauro Vieira na Cúpula de Ação em IA posiciona o Brasil em discussões centrais sobre governança global da IA, apresentando a experiência brasileira e defendendo abordagem multilateral com a ONU no centro.",
+      "justificativa_reavaliada": "A participação do Brasil na Cúpula de IA em Paris posiciona o país em discussões centrais sobre governança global da IA, com foco em abordagem multilateral e ONU no centro.",
+      "passagens_originais": ["O Brasil defende que a governança da IA seja estruturada para promover o desenvolvimento e a redução de desigualdades, favorecendo soluções multilaterais amplas, inclusivas.", "Considera que as Nações Unidas devem estar no centro da discussão e das decisões sobre IA.", "O Plano Brasileiro de Inteligência Artificial para o Bem de Todos visa promover o uso da IA como ferramenta para alavancar o desenvolvimento econômico e social do país."],
+      "passagens_reavaliadas": ["O Brasil defende que a governança da IA seja estruturada para promover o desenvolvimento e a redução de desigualdades, favorecendo soluções multilaterais amplas, inclusivas.", "Considera que as Nações Unidas devem estar no centro da discussão e das decisões sobre IA."],
+      "motivo_reavaliacao": "Justificativa adequada e específica",
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Seminário sobre economia de dados e desenvolvimento nacional – Nota Conjunta MRE/MDIC",
+      "data": "18/03/2025",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/seminario-sobre-economia-de-dados-e-desenvolvimento-nacional-2013-nota-conjunta-mre-mdic",
+      "status_original": "Incluída",
+      "status_reavaliado": "Mantida",
+      "justificativa_original": "O seminário sobre economia de dados no âmbito do BRICS discute a valorização estratégica dos dados e a governança digital, temas centrais para a pesquisa sobre governança global digital.",
+      "justificativa_reavaliada": "O seminário sobre economia de dados no âmbito do BRICS discute governança de dados e transformação digital, temas centrais para a pesquisa sobre governança global digital.",
+      "passagens_originais": ["O evento procurou chamar atenção para a economia de dados como fator habilitador da transformação da indústria, inclusive para aplicações de inteligência artificial.", "A valorização estratégica dos dados é essencial para reduzir assimetrias econômicas e garantir que os benefícios desse novo modelo de negócios sejam amplamente distribuídos.", "O evento reforçou a importância da cooperação entre os países dos BRICS visando a impulsionar a economia digital, com importantes reflexões sobre governança global de economia digital."],
+      "passagens_reavaliadas": ["A valorização estratégica dos dados é essencial para reduzir assimetrias econômicas e garantir que os benefícios desse novo modelo de negócios sejam amplamente distribuídos.", "O evento reforçou a importância da cooperação entre os países dos BRICS visando a impulsionar a economia digital, com importantes reflexões sobre governança global de economia digital."],
+      "motivo_reavaliacao": "Justificativa adequada e específica",
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Declaração dos Líderes do BRICS sobre Governança Global da Inteligência Artificial",
+      "data": "06/07/2025",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/declaracao-dos-lideres-do-brics-sobre-governanca-global-da-inteligencia-artificial",
+      "status_original": "Incluída",
+      "status_reavaliado": "Mantida",
+      "justificativa_original": "A participação do Ministro Mauro Vieira na Cúpula de Ação em IA posiciona o Brasil em discussões centrais sobre governança global da IA, apresentando a experiência brasileira e defendendo abordagem multilateral com a ONU no centro.",
+      "justificativa_reavaliada": "Declaração conjunta dos líderes do BRICS estabelecendo diretrizes para governança global da IA, com ênfase em soberania digital, multilateralismo e papel central da ONU.",
+      "passagens_originais": ["O Brasil defende que a governança da IA seja estruturada para promover o desenvolvimento e a redução de desigualdades, favorecendo soluções multilaterais amplas, inclusivas.", "Considera que as Nações Unidas devem estar no centro da discussão e das decisões sobre IA.", "O Plano Brasileiro de Inteligência Artificial para o Bem de Todos visa promover o uso da IA como ferramenta para alavancar o desenvolvimento econômico e social do país."],
+      "passagens_reavaliadas": ["A governança global da IA deve mitigar riscos potenciais e atender às necessidades de todos os países, especialmente os do Sul Global.", "Devemos fortalecer a governança internacional da IA por meio do sistema das Nações Unidas.", "A Soberania Digital e o Direito ao Desenvolvimento são Fundamentais para a Governança Global da IA."],
+      "motivo_reavaliacao": "Justificativa reescrita para refletir conteúdo específico da Declaração BRICS",
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "Assinatura da Convenção das Nações Unidas contra o Crime Cibernético - Nota Conjunta MRE/MJSP",
+      "data": "25/10/2025",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/assinatura-da-convencao-das-nacoes-unidas-contra-o-crime-cibernetico",
+      "status_original": "Incluída",
+      "status_reavaliado": "Mantida",
+      "justificativa_original": "A assinatura da Convenção da ONU contra o Crime Cibernético demonstra o engajamento do Brasil em cooperação internacional para segurança digital, tema relevante para a governança global digital.",
+      "justificativa_reavaliada": "A assinatura da Convenção da ONU contra o Crime Cibernético demonstra o engajamento do Brasil em cooperação internacional para segurança digital, tema relevante para a governança global digital.",
+      "passagens_originais": ["O tratado provê base normativa para a tipificação de crimes cibernéticos e constituirá importante instrumento de cooperação internacional para fortalecer o combate a crimes e a proteção às vítimas.", "O Brasil atuou como vice-presidente do Comitê negociador da Convenção e teve papel de destaque na construção de consensos."],
+      "passagens_reavaliadas": ["O tratado provê base normativa para a tipificação de crimes cibernéticos e constituirá importante instrumento de cooperação internacional para fortalecer o combate a crimes e a proteção às vítimas.", "O Brasil atuou como vice-presidente do Comitê negociador da Convenção e teve papel de destaque na construção de consensos."],
+      "motivo_reavaliacao": "Justificativa adequada e específica",
+      "qualidade_justificativa": "Ótima"
+    },
+    {
+      "titulo": "I Diálogo Digital Brasil-Índia - Brasília, 26 de novembro de 2025",
+      "data": "26/11/2025",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/i-dialogo-digital-brasil-india-brasilia-26-de-novembro-de-2025",
+      "status_original": "Incluída",
+      "status_reavaliado": "Mantida",
+      "justificativa_original": "O I Diálogo Digital Brasil-Índia aborda temas centrais como governança de IA, infraestrutura digital pública e proteção de dados, reforçando o posicionamento do Brasil em cooperação digital Sul-Sul.",
+      "justificativa_reavaliada": "O I Diálogo Digital Brasil-Índia aborda governança de IA, infraestrutura digital pública e proteção de dados, reforçando cooperação Sul-Sul em temas digitais.",
+      "passagens_originais": ["As delegações discutiram temas centrais da transformação digital, incluindo governança de inteligência artificial, infraestrutura pública digital, conectividade significativa, computação de alta performance, semicondutores e proteção de dados.", "As discussões reafirmaram a visão compartilhada de que a transformação digital deve ter em sua base a soberania tecnológica e o desenvolvimento inclusivo e sustentável.", "O encontro reforçou o entendimento mútuo no sentido de ampliar a coordenação bilateral e avançar rumo a uma parceria mais estreita sobre temas digitais."],
+      "passagens_reavaliadas": ["As delegações discutiram temas centrais da transformação digital, incluindo governança de inteligência artificial, infraestrutura pública digital, conectividade significativa, computação de alta performance, semicondutores e proteção de dados.", "As discussões reafirmaram a visão compartilhada de que a transformação digital deve ter em sua base a soberania tecnológica e o desenvolvimento inclusivo e sustentável."],
+      "motivo_reavaliacao": "Justificativa reescrita para refletir conteúdo específico do Diálogo Brasil-Índia",
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Seleção de brasileiro ao Prêmio da UNESCO para Pesquisa Científica sobre Ética na Inteligência Artificial",
+      "data": "06/11/2025",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/selecao-de-brasileiro-ao-premio-da-unesco-para-pesquisa-cientifica-sobre-etica-na-inteligencia-artificial",
+      "status_original": "Incluída",
+      "status_reavaliado": "Mantida",
+      "justificativa_original": "A participação do Ministro Mauro Vieira na Cúpula de Ação em IA posiciona o Brasil em discussões centrais sobre governança global da IA, apresentando a experiência brasileira e defendendo abordagem multilateral com a ONU no centro.",
+      "justificativa_reavaliada": "A seleção do professor Virgílio Almeida para prêmio UNESCO sobre ética em IA reflete o compromisso do Brasil com governança ética e responsável da inteligência artificial.",
+      "passagens_originais": ["O Brasil defende que a governança da IA seja estruturada para promover o desenvolvimento e a redução de desigualdades, favorecendo soluções multilaterais amplas, inclusivas.", "Considera que as Nações Unidas devem estar no centro da discussão e das decisões sobre IA.", "O Plano Brasileiro de Inteligência Artificial para o Bem de Todos visa promover o uso da IA como ferramenta para alavancar o desenvolvimento econômico e social do país."],
+      "passagens_reavaliadas": ["A premiação do professor Virgílio Almeida reflete o compromisso do governo brasileiro com a governança inclusiva e com o uso ético e responsável da inteligência artificial e de tecnologias digitais na atualidade."],
+      "motivo_reavaliacao": "Justificativa reescrita para refletir conteúdo específico do prêmio UNESCO",
+      "qualidade_justificativa": "Boa"
+    }
+  ],
+  "falsos_positivos": [],
+  "falsos_negativos": [
+    {
+      "titulo": "Seleção de projeto brasileiro ao Prêmio UNESCO para o Uso de Tecnologias da Informação e da Comunicação na Educação",
+      "data": "09/10/2025",
+      "link": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/selecao-de-projeto-brasileiro-ao-premio-unesco-para-o-uso-de-tecnologias-da-informacao-e-da-comunicacao-na-educacao",
+      "motivo_inclusao": "Nota menciona explicitamente 'uso ético e responsável da inteligência artificial na educação' e 'análise crítica sobre a aplicação da IA', temas centrais da governança de IA",
+      "trecho_relevante": "O projeto foi um dos quatro laureados do Prêmio... destacou o projeto 'Piauí Inteligência Artificial' como modelo abrangente e inclusivo, capaz de empoderar educadores e agentes sociais para a promoção do uso ético e responsável da inteligência artificial na educação."
+    }
+  ],
+  "padroes_identificados": [
+    "Justificativas repetitivas: 3 das 7 notas (43%) possuem justificativas idênticas copiadas de outras notas",
+    "Passagens genéricas: As passagens selecionadas para notas com justificativas repetitivas são as mesmas",
+    "Erro de referência: Uma nota menciona o diálogo errado (Brasil-Índia em vez de Brasil-UE)",
+    "Boa cobertura temática: As notas incluídas cobrem os principais temas do contexto"
+  ],
+  "recomendacoes": [
+    "Evitar cópias de justificativas - cada nota deve ter justificativa única",
+    "Verificar referências de países/eventos antes de finalizar",
+    "Incluir nota sobre IA em educação (Prêmio UNESCO)",
+    "Detalhar passagens mais específicas de cada nota",
+    "Revisar notas do BRICS para abordar conteúdos específicos"
+  ]
+}

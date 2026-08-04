@@ -35,7 +35,7 @@ Você deve agir como um **humano especialista** analisando documentos. A anális
 - "Quais anos você deseja incluir na filtragem? (ex: 2014-2020)"
 
 ### Passo 3: Listar Contextos Disponíveis
-1. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador/contextos`
+1. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador-adequacao/contextos`
 2. Liste **todos os arquivos** encontrados (excluindo este próprio arquivo skill_filtro.md)
 3. Para cada arquivo de contexto, apresente:
    - Nome do arquivo
@@ -80,7 +80,7 @@ Para cada nota à imprensa do período selecionado:
 ### Passo 6: Gerar Resultados
 
 #### Arquivo CSV (`filtragem_[modelo_ia]-[data].csv`)
-Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/`
+Salve em `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/`
 
 | Coluna | Descrição |
 |--------|-----------|
@@ -93,7 +93,7 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/`
 **Formato do arquivo**: UTF-8, separador vírgula, aspas para campos com texto longo
 
 #### Arquivo JSON (`json-filtragem-[modelo_ia]-[data].json`)
-Salve em `/workspaces/governanca-digital_mre/agente-classificador/resultados/jsons-filtrados/`
+Salve em `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/jsons-filtrados/`
 
 Estrutura deve ser **compatível** com os JSONs originais, contendo apenas as notícias filtradas como relevantes.
 
