@@ -10,6 +10,14 @@
 
 ---
 
+## Tema da Pesquisa (Escopo da Filtragem)
+
+O tema desta pesquisa é a **Governança Global Digital** e tudo o que ela envolve. Isso abrange, de forma não exclusiva, temas como a **internet** (governança da internet, multissetorialismo, domínios, protocolos), a **Inteligência Artificial** (governança de IA, ética, regulação), os **dados** (proteção de dados, fluxos transfronteiriços, soberania digital, privacidade), e demais **tecnologias digitais** e suas implicações para as relações internacionais, direitos humanos e cooperação global.
+
+**Objetivo da filtragem:** o agente deve selecionar apenas as notas à imprensa que guardem relação, direta ou substantiva, com a Governança Global Digital e com os temas que a compõem (internet, IA, dados e outras tecnologias). Notas que não tratarem, ainda que de forma incidental, de nenhum desses temas devem ser desconsideradas.
+
+---
+
 ## Questão Central da Pesquisa
 
 **Como tem se dado o posicionamento do Ministério das Relações Exteriores (MRE) do Brasil em relação à Governança Global Digital após o Marco Civil da Internet, no período que compreende os anos de 2014 a 2025?**

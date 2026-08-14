@@ -32,16 +32,25 @@ A escala utilizada é de **1 a 5**, representando o espectro Soberania Digital �
 
 ## Fluxo de Execução
 
-### Passo 1: Listar JSONs Disponíveis
-1. Acesse a pasta `/workspaces/governanca-digital_mre/json-notas`
-2. Identifique todos os arquivos JSON disponíveis
-3. Para cada arquivo encontrado, apresente:
-   - Nome do arquivo
-   - Período (ano/mês)
-   - Quantidade de notas contidas (se possível verificar)
-4. Liste todos os arquivos formatados para o usuário
-5. Pergunte:
-   - "Qual arquivo JSON devo utilizar para a avaliação?"
+### Passo 1: Identificar os arquivos JSON disponíveis para análise
+1. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/jsons-filtrados/`
+2. Liste todos os arquivos `.json` nela contidos
+3. Acesse também a pasta `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/verificacoes/`
+4. Liste todos os arquivos `.json` encontrados nessas duas pastas
+5. Para cada arquivo, apresente ao usuário:
+    - Caminho relativo (a partir de `resultados/`)
+    - Tipo (filtragem original em `jsons-filtrados/`, verificação/validação em `verificacoes/` ou outro)
+    - Quantidade de notas contidas (se possível verificar)
+    - Período abrangido (se identificável)
+6. Apresente uma **lista numerada** formatada para o usuário
+7. Pergunte:
+    - "Quais arquivo(s) JSON devo utilizar para a avaliação ordinal?" (informe o número correspondente ou o caminho)
+
+### Passo 1b: Carregar o(s) arquivo(s) selecionado(s)
+1. Com base na escolha do usuário, carregue o(s) JSON(s) selecionado(s)
+2. Extraia a lista de notas (campos `titulo`, `data`, `link` e, quando disponível, `paragrafos` ou `passagens`)
+3. Se o JSON selecionado **não contiver o texto integral** das notas (ex.: apenas título/link/justificativa), recupere o conteúdo completo de cada nota na pasta `/workspaces/governanca-digital_mre/json-notas`, cruzando por `título` e `data`
+4. Confirme ao usuário quantas notas serão avaliadas antes de prosseguir
 
 ### Passo 2: Compreender a Escala
 Registre claramente os parâmetros fixos da escala:
@@ -53,7 +62,7 @@ Registre claramente os parâmetros fixos da escala:
 - **Nota 5 (Baixa Intervenção)**: Inovação livre, autorregulação, lógica mercantil
 
 ### Passo 3: Avaliação das Notas
-Para cada nota à imprensa do JSON selecionado:
+Para cada nota à imprensa do(s) arquivo(s) JSON selecionado(s) no Passo 1:
 
 1. **Leia a nota inteira** com atenção
 2. **Avalie a nota** considerando:
@@ -109,7 +118,7 @@ Apresente um resumo da progresso:
 
 ## Observações Importantes
 
-- **Fontes de dados**: O agente deve ler JSONs da pasta `/workspaces/governanca-digital_mre/json-notas`
+- **Fontes de dados**: O agente deve primeiro identificar os JSONs disponíveis em `resultados/jsons-filtrados/` e `resultados/verificacoes/` (Passo 1), perguntar ao usuário qual analisar, e então avaliar esse(s) arquivo(s). Quando o JSON escolhido não trouxer o texto integral, o conteúdo deve ser recuperado de `/workspaces/governanca-digital_mre/json-notas` cruzando por título e data.
 - **Nome do arquivo**: Use o nome do modelo de IA utilizado (ex: `escala-ordinal_gpt4-2024-01-15.csv`)
 - **Encoding**: Use UTF-8 para todos os arquivos
 - **Consistência**: Mantenha os mesmos critérios para todas as notas avaliadas
