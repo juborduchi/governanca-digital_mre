@@ -207,9 +207,18 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resu
 
 **Formato do arquivo**: UTF-8, separador vírgula, aspas para campos com texto longo
 
+#### Arquivo JSON (`correcao_escala-[modelo_ia]-[data].json`)
+Salve na mesma pasta do CSV corrigido (`/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/verificacoes-ordinais/`).
+
+- Converta as mesmas colunas do CSV corrigido para uma lista de objetos JSON (um objeto por nota)
+- Nomes das chaves idênticos aos cabeçalhos do CSV (ex: `Titulo`, `Link`, `Data`, `Nota_Original`, `Nota_Reavaliada`, `Status`, `Motivo_Alteração`)
+- **Formato do arquivo**: UTF-8, `ensure_ascii=False`, com indentação (ex: `json.dump(lista, f, ensure_ascii=False, indent=2)`)
+
+**Importante**: O JSON deve conter exatamente os mesmos dados do CSV corrigido, servindo como formato alternativo de saída.
+
 ## Observações Importantes
 
-- **Nome do arquivo**: Use o nome do modelo de IA utilizado (ex: `validacao_escala_gpt4-2024-01-15.md`, `correcao_escala_gpt4-2024-01-15.csv`)
+- **Nome do arquivo**: Use o nome do modelo de IA utilizado (ex: `validacao_escala_gpt4-2024-01-15.md`, `correcao_escala_gpt4-2024-01-15.csv` e `correcao_escala_gpt4-2024-01-15.json`)
 - **Pasta de saída**: Todos os arquivos devem ser salvos em `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/verificacoes-ordinais/`
 - **Encoding**: Use UTF-8 para todos os arquivos
 - **Consistência**: Mantenha o formato dos CSVs de saída similar aos de entrada

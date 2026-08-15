@@ -105,6 +105,15 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador-adequacao/resu
 
 **Formato do arquivo**: UTF-8, separador vírgula, aspas para campos com texto longo
 
+#### Arquivo JSON (`escala-ordinal-[modelo_ia]-[data].json`)
+Salve na mesma pasta do CSV (`/workspaces/governanca-digital_mre/agente-classificador-adequacao/resultados/`).
+
+- Converta as mesmas colunas do CSV para uma lista de objetos JSON (um objeto por nota)
+- Nomes das chaves idênticos aos cabeçalhos do CSV (ex: `Titulo`, `Link`, `Data`, `Nota_Escala`, `Descricao_Nota`, `Justificativa`, `Passagens_Relevantes`)
+- **Formato do arquivo**: UTF-8, `ensure_ascii=False`, com indentação (ex: `json.dump(lista, f, ensure_ascii=False, indent=2)`)
+
+**Importante**: O JSON deve conter exatamente os mesmos dados do CSV, servindo como formato alternativo de saída.
+
 ## Formato de Saída
 
 ### Para o Usuário (durante execução)
@@ -115,11 +124,12 @@ Apresente um resumo da progresso:
 
 ### Arquivo de Resultado
 1. **CSV**: Pronto para análise estatística e visualização
+2. **JSON**: Mesma estrutura do CSV, em formato de lista de objetos (um por nota)
 
 ## Observações Importantes
 
 - **Fontes de dados**: O agente deve primeiro identificar os JSONs disponíveis em `resultados/jsons-filtrados/` e `resultados/verificacoes/` (Passo 1), perguntar ao usuário qual analisar, e então avaliar esse(s) arquivo(s). Quando o JSON escolhido não trouxer o texto integral, o conteúdo deve ser recuperado de `/workspaces/governanca-digital_mre/json-notas` cruzando por título e data.
-- **Nome do arquivo**: Use o nome do modelo de IA utilizado (ex: `escala-ordinal_gpt4-2024-01-15.csv`)
+- **Nome do arquivo**: Use o nome do modelo de IA utilizado (ex: `escala-ordinal_gpt4-2024-01-15.csv` e `escala-ordinal_gpt4-2024-01-15.json`)
 - **Encoding**: Use UTF-8 para todos os arquivos
 - **Consistência**: Mantenha os mesmos critérios para todas as notas avaliadas
 - **Transparência**: A justificativa deve ser clara e baseada em evidências do texto
