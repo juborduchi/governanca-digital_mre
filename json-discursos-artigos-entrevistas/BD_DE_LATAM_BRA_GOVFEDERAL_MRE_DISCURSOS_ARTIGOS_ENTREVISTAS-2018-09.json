@@ -1,0 +1,957 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "aloysio-nunes-ferreira"
+            ],
+            "titulo": "",
+            "subtitulo": "NA",
+            "data": "24/09/2018",
+            "horario": "15h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "18h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/aloysio-nunes-ferreira/cupula-da-paz-nelson-mandela-palavras-do-senhor-ministro-de-estado-frances",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "M. António Guterres, le secrétaire général des Nations unies;",
+                "Mesdames et messieurs les chefs d'État, de gouvernement et de délégation;",
+                "Mesdames et Messieurs.",
+                "Je remercie tout d’abord nos colègues de l’Afrique du Sud de nous avoir proposé ce moment de réflexion pour marquer le centenaire de la naissance de Nelson Mandela.",
+                "Cela nous incite à regarder les défis du présent sans perdre la perspective de construire un monde plus juste et pacifique. Cet objectif est à la base de cette organisation. L'héritage de Mandela nous inspire dans tout le monde, le Brésil n’y fait pas exception.",
+                "Nous avons eu l’honneur d’abriter, ce mois-ci, dans le siège du Ministère des Affaires étrangères à Brasília, une exposition sur la vie de Mandela, avec la coopération du Musée de l’Apartheid, de Johannesburg.",
+                "C’est un vif témoignage qui nous rappelle qu'il n'y a pas d’alternative à la paix avec justice.",
+                "Célébrer la mémoire de Mandela contribue à revivre la conviction que la paix ne peut être consolidée que par le dialogue et que ce dialogue est rendu possible par ce que nous avons en commun, par notre humanité même.",
+                "Ce chemin est parfois long, mais il ne peut pas être remplacé par le recours à la violence.",
+                "La société sud-africaine qui ressortait de l’apartheid était profondement blessée par ses divisions, par un manque forcé de liens entre les différents groupes qui la composaient. Mandela avait lui-même été victime de cruautés.",
+                "Il a néanmoins changé cette réalité et rendu possible la réconciliation. Son rêve a réuni le peuple sud-africain autour d’un projet collectif fondé sur la démocratie, les droits de l’homme et le développement.",
+                "On reconnaît chez Mandela le rôle du père fondateur d’une grande nation. On voit aussi en lui la figure type de l´homme chargé d’une mission universelle de paix. On peut en extraire des leçons pour agir devant les réalités de notre temps.",
+                "Les défis à la promotion de la paix sont considérables et demandent des efforts continus de chaque nation et de la communauté internationale dans son ensemble.",
+                "Face aux sources d’instabilité et aux faux discours qui essaient d’en tirer profit, nous avons besoin de réponses multilatérales et durables, qui prennent en compte les particularités de chaque situation et les causes profondes des conflits.",
+                "La tradition pacifique du Brésil assure notre capacité de contribuer à la paix et à la sécurité internationale. Le Brésil est fier d’avoir été engagé aux débats sur l'architecture de consolidation de la paix menés par le secrétaire général.",
+                "Nous soutenons des stratégies intégrées de prévention et règlement des conflits, aussi que de maintien et consolidation de la paix.",
+                "Nous considérons également que la paix et la sécurité internationale, le développement et les droits de l’homme sont étroitement liés et se renforcent mutuellement, sans pourtant confondre les dynamiques et les compétences qui sont propres à chacun des pilliers de l’ONU.",
+                "La déclaration que nous adoptons aujourd’hui réaffirme la primauté de la politique et du dialogue comme seuls moyens pour batir une paix durable.",
+                "Cette déclaration renouvelle aussi notre engagement à la priorité due au réglement pacifique des conflits, ainsi qu´au désarmement, notamment en vue de l´élimination totale de l´arme nucléaire.",
+                "Pour honorer Nelson Mandela, il faut rester pleinement engagé face aux difficultés que nous rencontrons dans le chemin de la paix.",
+                "Madiba défiait la simple opposition entre réalisme et idéalisme quand il disait que « cela semble toujours impossible jusqu’à ce que ce soit fait ».",
+                "C’est cet esprit que nous devons garder comme source d’inspiration.",
+                "Merci de votre attention."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "aloysio-nunes-ferreira"
+            ],
+            "titulo": "",
+            "subtitulo": "NA",
+            "data": "26/09/2018",
+            "horario": "17h09",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h51"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/aloysio-nunes-ferreira/discurso-do-ministro-aloysio-nunes-ferreira-por-ocasiao-da-comemoracao-do-dia-internacional-para-a-eliminacao-das-armas-nucleares-nova-york-26-09-2018-frances",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Madame la présidente de l’Assemblée Générale de l’ONU, Maria Fernanda Espinosa Garcés,Mesdames et Messieurs les ministres des Affaires étrangères,Mesdames et Messieurs les représentants permanents auprès des Nations Unies,Mesdames et Messieurs, Chers amis,",
+                "Je suis très honoré d'avoir l’opportunité de m'exprimer devant cette séance commémorative de la « Journée internationale pour l’élimination totale des armes nucléaires ». Il s’agit d’un des plus importants enjeux de l’agenda international.",
+                "L’existence des arsenaux nucléaires constitue un héritage néfaste de la Guerre Froide. Paradoxalement, nous témoignons avec préoccupation, presque trois décennies après la fin de l’ordre bipolaire, le relèvement de doctrines d´usage de l´arme nucléaire, contrairement aux aspirations de la communauté internationale.",
+                "Au cours de ces dernières années, l’accent a été mis d’une manière croissante sur l’obligation collective de non prolifération, tandis que l’obligation des cinq états dotés d’armes nucléaires de poursuivre le désarmement a été ramenée à un rang inférieur. En outre, l’accent sur le combat à la prolifération nucléaire a eu des conséquences négatives sur le droit inaliénable de tous les états parties du TNP à l’accès à des technologies nucléaires à des fins pacifiques.",
+                "Il ne s’agit absolument pas de négliger les risques associés à l’usage des technologies nucléaires par des acteurs non autorisés, mais de souligner que la non prolifération et le désarmement nucléaires sont des processus qui se renforcent mutuellement. Pour être efficace, une politique de non-prolifération doit accepter que la simple existence des arsenaux nucléaires représente à elle seule une incitation à la prolifération.",
+                "Il est donc fondamental que le désarmement nucléaire soit poursuivi d’une manière vigoureuse. Au bout du compte, ce qui n’existe pas ne peut pas proliférer.",
+                "L’adoption du Traité sur l’interdiction des armes nucléaires par l’Assemblée Générale de cette organisation, le 7 juillet 2017, a transmis un fort message sur l’incompatibilité entre les armes nucléaires et l’ordre international basé sur les principes du droit humanitaire international et des droits de l’homme.",
+                "L’élimination du danger d’une guerre atomique, qu’elle soit volontaire ou declenchée par accident, n’exige pas seulement la reduction des arsenaux par les puissances nucléaires, elle requiert leur démobilisation. Au moins 15 mil ogives sont en état d’alerte. Il ne faut qu’un simple appui sur le bouton pour déclencher une échelle d’inhumanité inimaginable.",
+                "Un monde libre d’armes nucléaires, c’est un but aussi ambitieux qu’indispensable. Je tiens à exprimer l’espoir du Brésil que la prochaine Conférence d’examen du TNP, qui aura lieu en 2020, puisse produire des résultats concrets nous approchant du but de l’élimination complète des armes nucléaires.",
+                "Je saisis également cette occasion pour annoncer que les États membres de l'Agence pour l'Interdiction des Armes Nucléaires en Amérique Latine et les Caraïbes (OPANAL) ont adopté une déclaration à l’occasion de la Journée internationale pour l’élimination totale des armes nucléaires, que nous avons l’honneur de distribuer à la présente session, en notre qualité de coordonnateurs de l'OPANAL à New York.",
+                "Merci de votre attention."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "aloysio-nunes-ferreira"
+            ],
+            "titulo": "",
+            "subtitulo": "NA",
+            "data": "26/09/2018",
+            "horario": "20h53",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h51"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/aloysio-nunes-ferreira/intervencao-do-ministro-aloysio-nunes-por-ocasiao-do-evento-road-to-marrakesh-nova-york-25-09-2018-frances",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Madame la Haute Représentante, Honorables Ministres,",
+                "Il y a deux ans, ici même, nos pays ont adopté la Déclaration de New York sur les réfugiés et les migrants, contenant des engagements dans le sens de recevoir toutes les personnes qui arrivent sur nos territoires avec sensibilité, humanité et dignité.",
+                "Il faut maintenant donner effet à ces engagements.",
+                "La question est urgente et importante. Il y a deux cent cinquante millions de migrants au monde, un chiffre supérieur à la population du Brésil, le cinquième pays le plus peuplé de la planète. Plus de quatre-vingt-dix millions d’entre eux sont des migrants en situation irrégulière.",
+                "La grande majorité sont des travailleurs et leurs familles, partis à la poursuite de sécurité et de conditions de vie plus humaines. Ils sont souvent soumis aux formes les plus diverses d'abus.",
+                "L’intensification récente des migrations pose des questions sur les facteurs à l’origine de cette vague, tels que les conflits, la pauvreté et le changement climatique. D´autres questions sont posées par les difficultés que l’arrivée soudaine d’un large flux de migrants pourrait provoquer dans les pays de réception.",
+                "Il est temps de donner effet à nos engagements, aussi, en raison de la dimension éthique de la crise.",
+                "Les images et les récits tragiques d’enfants séparés de leurs parents, d'innombrables morts en mer, en fuite de situations de désespoir, imposent à la conscience morale de l'humanité la prise de mesures et la révision des concepts.",
+                "Les pays, comme le mien et d'autres dans les Amériques, qui ont été tellement bénéficiés par la contribution des populations migrantes, ont intérêt maintenant à travailler avec la communauté internationale pour trouver des solutions communes.",
+                "Nous n'oublions pas que les migrations ne sont pas seulement un problème: elles sont aussi une source d'enrichissement mutuel et de rapprochement entre les nations.",
+                "Les migrations exigent d´avantage de coopération internationale et des paramètres d'action universels. La souveraineté ne se détériore pas avec la coopération, au contraire, elle en sort renforcée. La capacité d'appliquer les lois nationales sera bénéficiée par la création d'une structure permettant l'action commune des nations pour maitriser une question intrinsèquement transnationale. C'est le but de notre travail autour du Pacte de Marrakech.",
+                "Madame la Haute Représentante,",
+                "La nouvelle loi sur la migration que le Brésil a adopté l’année dernière soutient pleinement la dignité des migrants.",
+                "Elle détermine qu'aucun migrant ne perdra sa liberté simplement parce qu'il est en situation irrégulière.",
+                "La nouvelle loi garantit aux migrants l'exercice des droits civils, culturels, économiques et sociaux, sur un pied d'égalité avec les citoyens brésiliens.",
+                "Elle permet la régularisation des migrants, sans avoir à quitter le Brésil, pourvu que des conditions simples soient remplies.",
+                "Ces mêmes valeurs humanitaires et de solidarité ont guidé nos relations avec les pays voisins, particulièrement avec le peuple vénézuélien.",
+                "De nombreux voisins vénézuéliens traversent en ce moment la frontière avec le Brésil, qui restera ouverte, conformément à la loi brésilienne et à nos obligations internationales.",
+                "Le gouvernement a du organiser l’accueil dans une partie du territoire, dans l´extrême nord du pays. Le président de la République a déterminé un ensemble de mesures de soutien.",
+                "Nous bâtissons des logements d’urgence; nous fournissons des documents pour que les vénézuéliens puissent accéder au marché du travail; nous renforçons la sécurité locale et élargissons l’offre de vaccins et d’assistance médicale.",
+                "Nous remercions vivement la collaboration de l’Agence des Nations Unies pour les réfugiés (HCR), de l’Organisation internationale pour les migrations (OIM) et de la société civile dans cet effort partagé.",
+                "Nous facilitons ensuite le déménagement vers d'autres points du territoire brésilien aux vénézuéliens qui le souhaitent.",
+                "Mesdames et Messieurs,",
+                "La gestion de la migration doit se situer au cœur des Nations unies.",
+                "Nous nous réjouissons de la conclusion des négociations sur le Pacte mondial pour des migrations sûres, ordonnées et régulières.",
+                "Nous félicitons les cofacilitateurs du Mexique et de la Suisse, et aussi Madame la Haute Représentante, pour la conduction des travaux de rédaction, que le Brésil a soutenu.",
+                "Le Pacte mondial sera un outil précieux pour notre action coordonée.",
+                "Nous irons ensemble à Marrakech pour repondre à ce défi lancée à notre humanité commune.",
+                "Merci beaucoup."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "aloysio-nunes-ferreira"
+            ],
+            "titulo": "",
+            "subtitulo": "NA",
+            "data": "14/09/2018",
+            "horario": "18h42",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h49"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/aloysio-nunes-ferreira/discurso-elementos-comerciais-e-de-investimentos-das-cadeias-globais-de-valor-do-agronegocio",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "REUNIÃO MINISTERIAL SOBRE COMÉRCIO E INVESTIMENTOS DO G-20",
+                "Mar del Plata, 14 de setembro de 2018",
+                "SESSÃO I",
+                "SESSÃO II",
+                "SESSÃO III",
+                "SESSÃO I – ELEMENTOS COMERCIAIS E DE INVESTIMENTOS DAS CADEIAS GLOBAIS DE VALOR DO AGRONEGÓCIO",
+                "Agradeço a meus colegas da Argentina pelo convite para participar desta reunião.",
+                "Quero destacar que o Brasil está representado nesta reunião por dois dos ministérios que cuidam da temática que hoje nos ocupa.",
+                "Tenho o prazer de contar com a companhia da Vice-Ministra de Indústria, Comércio Exterior e Serviços, Yana Dumaresq.",
+                "Estamos os dois aqui para sinalizar nosso compromisso com o G20 e a preocupação do Brasil com o momento que atravessamos.",
+                "Nesta primeira sessão, vamos abordar as cadeias globais de valor no agronegócio, tema caro a países como Brasil e Argentina e muitos outros representados nesta mesa.",
+                "Na próxima sessão, sobre a Nova Revolução Industrial, alguns países vão mencionar a necessidade de negociarmos novas regras para garantir que não existam entraves a novas modalidades de comércio.",
+                "Por uma questão de simetria, temos que lembrar, nesta sessão, que é preciso pensar em negociações para destravar o comércio e os investimentos no agronegócio.",
+                "É difícil ter cadeias realmente globais de valor, nas quais todos os países possam participar de forma desimpedida, se a agenda pendente em agricultura não for abordada.",
+                "Muitos dos desafios que enfrentamos são conhecidos e foram muito bem resumidos nos documentos circulados pela Argentina: barreiras tarifárias e não tarifárias, subsídios distorcivos à produção doméstica, medidas sanitárias e fitossanitárias sem base científica e sem base em padrões internacionais.",
+                "O Brasil tenciona apresentar propostas para aprimorar o Acordo sobre Medidas Sanitárias e Fitossanitárias, tema que consideramos de grande importância.Favorecemos, também, medidas de facilitação de comércio e de transparência e previsibilidade no comércio agrícola.",
+                "Não estou falando somente das negociações sobre apoio doméstico, mas, também, de temas que combinam o velho com o novo.",
+                "Há elementos da Nova Revolução Industrial já presentes no setor agropecuário. Penso em tecnologia, uso de informação, conectividade e métodos de trabalho.",
+                "Os padrões e regulamentos para alimentos, sejam eles governamentais ou estabelecidos pelo setor privado (os chamados \"padrões voluntários\"), podem criar empecilhos para o comércio e os investimentos.",
+                "Precisamos evitar que os regulamentos e padrões impeçam a formação de cadeias abertas de valor no agronegócio.",
+                "É de especial preocupação que alguns governos defendam a tese de que não deve haver interferência com padrões privados.",
+                "Esses padrões privados, se não forem devidamente fundamentados em regras, recomendações internacionais e critérios científicos, podem passar informações equivocadas ao consumidor e afetar os fluxos de comércio e investimento.",
+                "Tudo isso recomenda a necessidade de mais cooperação e formação, especialmente para os países em desenvolvimento, de modo a evitar que o abismo tecnológico e produtivo se intensifique.",
+                "O Brasil tem perfil diferenciado em várias cadeias globais de valor.",
+                "Em algumas delas, somos extremamente competitivos e estamos integrados do início ao fim, participando plenamente dos benefícios. É o caso da carne de aves.",
+                "Em outras cadeias globais, como a do café, enfrentamos os mesmos desafios desde o século XIX: estamos excluídos da agregação de valor e temos que lidar com a sustentabilidade de nossos produtores.",
+                "A experiência do Brasil mostra que não se pode tratar das cadeias globais de valor unicamente de forma genérica.",
+                "É preciso avaliar as especificidades das cadeias para diferentes produtos, para poder definir o que precisa ser modificado ou melhorado em cada uma delas.",
+                "Obrigado.",
+                "REUNIÃO MINISTERIAL SOBRE COMÉRCIO E INVESTIMENTOS DO G-20",
+                "SESSÃO II – ELEMENTOS COMERCIAIS E DE INVESTIMENTOS DA NOVA REVOLUÇÃO INDUSTRIAL (NIR)",
+                "Agradeço o esforço feito pela Presidência argentina para estruturar o debate, propor lista de experiências nacionais e preparar documentos que resumem os temas levantados pelos diferentes Membros e possíveis áreas de atuação do G20.",
+                "A Nova Revolução Industrial é tema transversal, com impacto numa série de agendas que estamos discutindo aqui e em outros foros.",
+                "As novas tecnologias, assim como os novos métodos de produção e modelos de negócios, terão impacto em temas tão diversos como agricultura e comércio eletrônico.",
+                "A maneira como vamos incorporar essa temática em nossas discussões e negociações sobre comércio e investimentos ainda não está totalmente clara.",
+                "Precisamos, num primeiro momento, saber se estamos falando de bens, serviços, investimentos, de todos esses ao mesmo tempo ou de algo efetivamente novo. De toda forma, como já sinalizamos na Conferência Ministerial de Buenos Aires da OMC e em outras ocasiões, o Brasil está aberto a conversar sobre esses temas.",
+                "Mais importante do que pensar em negociações é garantir que os benefícios dessa nova revolução serão compartilhados e não sirvam para aprofundar diferenças em termos de desenvolvimento, seja dentro de nossos países, seja entre nós.",
+                "Do ponto de vista do desafio interno, o Brasil tem buscado disseminar informações e fomentar programas de inovação, pesquisa e desenvolvimento e facilitação de investimentos para a promoção da integração da economia e da sociedade brasileiras na era da “Indústria 4.0”. Desenvolvemos agenda nacional, em conjunto com o setor privado, para abordar os vários aspectos dessa revolução.",
+                "São vários os exemplos de programas que foram criados nos últimos anos. Um deles é a Financiadora de Estudos e Projetos/FINEP, que criou, em 2013, programa que assegura recursos, consultoria e suporte logístico para projetos selecionados de empresas em áreas como biotecnologia, internet das coisas, manufatura avançada, microeletrônica, nanotecnologia e realidade virtual.",
+                "Outra iniciativa é o “Fundo de Coinvestimento Anjo”, gerenciado pelo Banco Nacional de Desenvolvimento Econômico e Social/BNDES, para apoiar projetos selecionados de empresas nascentes que atuem prioritariamente em projetos relacionados a cidades inteligentes, economia criativa, novos materiais, saúde e agronegócio.",
+                "Destaco também a criação da Empresa Brasileira de Pesquisa e Inovação Industrial. Seu objetivo é contribuir para o desenvolvimento da inovação e da competitividade da indústria no Brasil, atuando em parceria com o setor privado e as universidades, para a geração de projetos em mais de 30 segmentos tecnológicos.",
+                "O setor privado brasileiro tem sido ator fundamental e parceiro nesse processo.",
+                "A Confederação Nacional da Indústria lançou, em 2016, um plano de ação voltado para enfrentar os desafios da “Indústria 4.0\". Estudo da CNI realizado no âmbito do referido plano de ação estima que a implementação de tecnologias ligadas à Indústria 4.0 (por exemplo, internet das coisas, \"big data\" e impressão em 3D) deverá gerar, até 2030, um impacto de US$ 39 bilhões no PIB brasileiro.",
+                "Todos os membros do G20 têm o desafio múltiplo de disseminar informações, avaliar se as empresas estão preparadas, aumentar a produtividade, conectar empresas, gerar alternativas de financiamento, formar a força de trabalho e definir o que a Nova Revolução Industrial significa para nossa inserção internacional.",
+                "O nível de emprego, a renda e o bem estar de nossas sociedades dependem desse verdadeiro processo de educação para a nova era da Indústria 4.0.",
+                "O Brasil espera continuar cooperando com os membros do G20 na implementação do “Plano de ação do G20 para a Nova Revolução Industrial\", adotado na Cúpula de Hangzhou, em 2016.",
+                "Apesar das especificidades de cada um de nossos países, ficou claro, nos debates no Grupo de Trabalho sobre Comércio e Investimentos, que muitos de nossos desafios são comuns.",
+                "Obrigado.",
+                "REUNIÃO MINISTERIAL SOBRE COMÉRCIO E INVESTIMENTOS DO G-20",
+                "SESSÃO III – SITUAÇÃO DO COMÉRCIO INTERNACIONAL O Brasil felicita a presidência argentina pela iniciativa de promover debate sobre os desafios que a OMC enfrenta na preservação do sistema multilateral de comércio.",
+                "O G20, como foro de diálogo e de busca de consenso, tem contribuição a dar para a superação desses desafios.",
+                "Estamos particularmente preocupados com a tendência de adoção de medidas unilaterais onde apenas o diálogo, a diplomacia e o consenso deveriam prevalecer.",
+                "É uma tendência perigosa. Sabemos como começa, mas não como termina. É receita para uma espiral de retaliações e contra-retaliações que ameaça o crescimento e a prosperidade global.",
+                "O caminho do protecionismo não é solução para os problemas nacionais.",
+                "O protecionismo pode dar a aparência de solucionar problemas no curto prazo, mas apenas cria novos na forma de efeito cascata, com aumento de preços, perda de eficiência e desestruturação de cadeias produtivas inteiras.",
+                "Já conhecemos o resultado: todos perdem.",
+                "A OMC é nossa melhor garantia contra os risos de um comércio administrado que vai gerar incertezas e novos obstáculos ao crescimento sustentado.",
+                "Isso não significa que nos recusemos a discutir reformas que possam fortalecer a instituição em seus três pilares: monitoramento; solução de controvérsias; e negociações.",
+                "Estamos dispostos a continuar conversando sobre todos os temas, com espírito aberto e de forma construtiva, para revigorar o sistema multilateral de comércio e impedir que o arco da história se curve na direção errada.",
+                "A OMC cumpre papel fundamental e tem dado contribuição essencial para a governança global.",
+                "Se há uma crise no horizonte, ela diz respeito ao impasse na seleção de integrantes do Órgão de Apelação. Essa é uma questão que, a nosso ver, poderia ser resolvida com vontade política e determinação.",
+                "Discordamos também de que a OMC e o sistema multilateral de comércio baseado em regras estão perdendo vigência.",
+                "Ao contrário, percebemos apoio quase universal ao sistema. O que existem são opiniões distintas – algo perfeitamente natural em um sistema democrático – sobre que direção se deve avançar.",
+                "O Brasil tem adotado postura flexível e construtiva em relação à agenda negociadora.",
+                "Estamos dispostos a discutir novos temas, como demonstramos na preparação para a Conferência Ministerial de Buenos Aires.",
+                "Também manifestamos disposição de discutir mudanças no mecanismo de solução de controvérsias e no pilar de monitoramento, tendo apresentado propostas concretas sobre essas vertentes.",
+                "É necessário, no entanto, respeitar algumas premissas básicas na exploração de uma nova agenda de trabalho para a OMC.",
+                "A primeira delas é que não vamos consertar o que não está quebrado.",
+                "Não vamos mexer em acordos, regras e procedimentos que estão funcionando, a não ser que haja muita clareza a respeito dos objetivos e benefícios de tais mudanças.",
+                "O desafio imediato é precisamente o de identificar uma agenda que conte com apoio entre os Membros da OMC.",
+                "Conforme assinalei inicialmente, acreditamos que o G20, pelo peso de seus integrantes e pela sua representatividade, pode desempenhar papel importante na busca de um consenso nessa tarefa.",
+                "Sabemos que há outros grupos que já iniciaram processo de reflexão a respeito e toda contribuição destes grupos, ou de outros que se engajarem nesse exercício, nos ajudarão a buscar esse consenso.",
+                "A segunda é que não favorecemos reabrir acordos e modificar direitos adquiridos.",
+                "Alguns membros sinalizaram interesse em modificar o tratamento especial e diferenciado para países em desenvolvimento.",
+                "Esse tratamento é integrante de um pacote e de um equilíbrio negociado. Preservá-lo é a coisa certa e justa a ser feita.",
+                "Mexer nesse tema implica mexer em outros temas que foram acordados, tais como direitos e flexibilidades para países desenvolvidos manter distorções em agricultura.",
+                "A terceira é que uma nova agenda na OMC precisa incorporar os temas pendentes necessários para dar um mínimo de equilíbrio entre os interesses de todos.",
+                "No caso do Brasil, como é sabido, isso significa dar tratamento adequado à pauta pendente em agricultura.",
+                "Finalmente, qualquer agenda que venha a ser definida terá que contar com amplo apoio dos membros. Não poderá ser ditada ou definida somente por um ou outro país.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "aloysio-nunes-ferreira"
+            ],
+            "titulo": "",
+            "subtitulo": "NA",
+            "data": "06/09/2018",
+            "horario": "15h54",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h49"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/aloysio-nunes-ferreira/texto-base-para-a-intervencao-do-ministro-aloysio-nunes-ferreira-na-abertura-do-seminario-brasil-china-promovido-pela-folha-de-s-paulo",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Importância da relação Brasil-China",
+                "As sólidas relações entre o Brasil e a China se fundam no reconhecimento de grandes complementariedades comerciais e econômicas e de significativas convergências entre as políticas externas dos dois países, ciosos de sua independência e autonomia.",
+                "Essas convergências, que se ampliam nesse momento de questionamento, e mesmo de ameaça, ao multilateralismo que defendemos, permitiram a criação de diversos grupos relevantes integrados por Brasil e China, com destaque para os BRICS e o BASIC. As relações bilaterais se beneficiam também da ausência de irritantes mais difíceis de contornar (como disputas territoriais e rivalidades geopolíticas)",
+                "Com a China, precisamos garantir relações simétricas e equilibradas, a despeito da crescente disparidade entre o tamanho das duas economias.",
+                "A agenda do Seminário Brasil-China, organizado pela Folha, com o patrocínio da APEX, trata da essência do que temos a refletir sobre a relação entre o Brasil e a China, pautada nos seguintes pontos:",
+                "• Como ampliar a pauta exportadora;• Como incentivar um número maior de empresas brasileiras a chegar ao mercado chinês e também a investir na China;• Como maximizar os ganhos derivados da presença do investimento chinês no Brasil;• O que podemos fazer juntos, os dois países, em matéria de inovação.",
+                "Os debates sobre a realidade chinesa e a relação entre a China e o Brasil têm-se multiplicado nos últimos anos. Isso reflete não só a relevância que a China adquiriu no cenário internacional, mas também sua visibilidade crescente no nosso país. Nossa relação está fadada a se ampliar, dada a sinergia de nossas duas economias, a identidade entre brasileiros e chineses em matéria de empreendedorismo e a empatia natural entre os nossos povos. Eu me arriscaria a dizer que se olharmos o quadro das grandes economias de renda média, poucos países terão um potencial para a cooperação bilateral tão elevado como o potencial da cooperação Brasil-China. Precisamos saber aproveitá-lo com eficiência, bom senso, entusiasmo e realismo.",
+                "O número de think tanks, universidades e instituições brasileiras que acompanham o desenvolvimento da China também se ampliou recentemente. Há alguns anos, a maioria dessas instituições olhava a China apenas com o propósito de avaliar o crescimento de sua economia e o impacto desse crescimento para nossas exportações. Hoje há um conjunto de atores, empresas e instituições no Brasil que buscam entender o país de uma forma mais profunda. Não só entender os fatores que levaram a China a se tornar segunda maior economia mundial e a contribuir com 30% do crescimento do produto no globo, mas também lançar um olhar para o futuro. É sempre mais simples explicar o passado do que buscar avaliar o alcance do que vem pela frente. Mas é necessário pensar adiante.",
+                "A China, com seus múltiplos programas apontando para o futuro, como o Made in China 2025, o One Belt One Road, a meta de chegar a ser, nas palavras do próprio presidente Xi Jinping, uma sociedade moderadamente próspera em 15 anos e um grande país socialista moderno a partir de 2035, de alguma maneira força os seus parceiros a pensarem sobre o longo prazo. Meu propósito esta manhã, no entanto, é menos ambicioso. Gostaria de lhes dar um brevíssimo relato do que pudemos fazer nos dois últimos anos e formular algumas reflexões sobre a rota adiante.",
+                "A relação com a China no período 2017-2018",
+                "Nos últimos dois anos, a relação com a China desenvolveu-se de forma muito positiva:",
+                "Recuperamos o Diálogo Estratégico de Chanceleres, que estava interrompido havia algum tempo.",
+                "Realizamos duas visitas presidenciais, além de um encontro entre os presidentes Temer e Xi Jinping à margem da reunião do BRICS.",
+                "Ampliamos a agenda econômica, nela integrando novos temas como serviços e cooperação em tecnologia digital.",
+                "Revisamos a estrutura dos vistos, passando a dar vistos de cinco anos e múltiplas entradas e começando a operar na China através dos Visa Centers.",
+                "Fortalecemos a cooperação \"pessoa a pessoa\", para utilizar um termo apreciado pelos chineses, com os acordos de produção cinematográfica e de cooperação esportiva e a realização de eventos culturais verdadeiramente inovadores.",
+                "Em outras palavras, pudemos implementar uma agenda abrangente e, em larga medida, inovadora, num contexto em que os programas tradicionais continuaram funcionando. A corrente de comércio cresceu 44,5% – enquanto a corrente Brasil-mundo cresceu apenas 25,8% – e os investimentos chineses no Brasil ampliaram-se consideravelmente. Entre 2003 e 2017, estima-se um montante de investimentos de cerca de U$ 55,4 bilhões, em um total de 102 projetos. O Brasil é o país com maior diversificação de investimentos chineses, não apenas em projetos para garantir o fornecimento de commodities, mas em projetos de longo prazo.",
+                "Tivemos, é verdade, nesses dois anos alguns problemas e divergências, que são naturais entre dois países com agenda tão intensa: a crise da carne fraca; as salvaguardas impostas pelos chineses à importação de açúcar; o anti-dumping preliminar contra o frango.",
+                "Estamos dialogando sobre os temas de defesa comercial. Tenho me empenhado pessoalmente nesse diálogo, junto com os ministros Blairo Maggi e Marcos Jorge.",
+                "O olhar para o futuro",
+                "Quando olho adiante, creio que temos as bases necessárias para ampliar o relacionamento. Há confiança mútua entre nossos dois países, uma coincidência de visões consolidadas sobre vários temas da agenda internacional, participamos do processo intenso de aprofundamento de nossas relações nos mais variados setores no âmbito do BRICS – a agenda do BRICS é, de fato, vastíssima – e estamos juntos no G20.",
+                "A interação econômica entre o Brasil e a China continuará a ser dinâmica e robusta.",
+                "Para além da pauta tradicional, precisamos, nós mesmos, brasileiros, fazer esforços para chegar ao mercado chinês nos vários segmentos de produtos processados ou itens industriais em que somos competentes. Há potencial na China para exportarmos muito mais se soubermos – governo e empresas – formular as estratégias corretas e se formos mais ambiciosos.",
+                "No mais recente encontro entre o presidente Temer e o presidente Xi Jinping, foi o próprio mandatário chinês que sugeriu chegarmos, em breve prazo, a uma corrente comercial de US$ 100 bilhões. Estamos caminhando nessa direção. Nesse contexto, estou entusiasmado com o interesse das empresas brasileiras em participar da feira de importações de Xangai, em novembro próximo.",
+                "Eu mesmo pretendo estar presente à feira.",
+                "Os investimentos chineses têm-se ampliado muito no Brasil. Nos mais variados setores: agricultura, mineração, manufatura, finanças, serviços em geral, tecnologia digital, infraestrutura, óleo e gás. Creio que isso se deve a vários fatores: a dimensão do nosso mercado, a tradição que temos em incorporar investidores estrangeiros em absoluto pé de igualdade com os nacionais, o fato de termos uma realidade econômica onde vigoram a regra da lei e o poder dos contratos. Tenho observado com satisfação que muitas empresas chinesas que operam em infraestrutura hoje conhecem bem as oportunidades que se abrem no Brasil e estão preparadas para participar de nossas licitações. Também vejo com satisfação a cooperação entre a Petrobras e as empresas chinesas tanto na exploração de óleo, como, mais recentemente nas operações downstream.",
+                "A presença de investimentos expressivos chineses e de outras nacionalidades em setores como o energético, por exemplo, vai exigir, do lado brasileiro, um trabalho permanente de aprimoramento da regulação e supervisão. Também vai exigir da diplomacia um maior acompanhamento dos temas de infraestrutura, mesmo de alguns aspectos técnicos. A experiência até o momento tem sido positiva e, em minha opinião, devemos prossegui-la.",
+                "O enriquecimento recente da nossa pauta cultural, sobretudo na indústria cinematográfica e, proximamente, na audiovisual, também é um fator a ser celebrado. Os frutos começam a ser visíveis e o interesse de produtores, artistas e profissionais da cultura é crescente, tanto aqui, como na China.",
+                "Um desafio importante para os próximos anos será lidar com o tema das novas tecnologias. A China tem surpreendido positivamente o mundo com seus programas determinados e com os resultados alcançados por diversas de suas empresas. Este é um campo em que devemos procurar dialogar com maior intensidade. Nossa embaixada relata-me que há um crescente número de empresas brasileiras e chinesas no campo da tecnologia digital que procuram entender o que está ocorrendo no outro país, buscam parcerias e a formação de joint ventures. Esse é um dado auspicioso. Mostra como o relacionamento bilateral evolui de forma dinâmica e como o sucesso que temos obtido na cooperação em setores mais tradicionais contagia o meio empresarial mais contemporâneo.",
+                "A relação política",
+                "De uma maneira geral, minha impressão é que a interação econômica entre o Brasil e a China caminha rapidamente e de forma positiva e que o maior desafio da relação política é não ficar para trás. Ao contrário, buscar antecipar-se aos fatos, dar aos agentes econômicos um sinal de que os Governos dialogam bem. Acho que conseguimos isso nos dois últimos anos, mas manter o diálogo político aceso e ativo é um tema de atenção permanente. Torna-se ainda mais importante num contexto de mudança de Governo no Brasil. Não tenho qualquer dúvida de que o relacionamento Brasil-China nas suas múltiplas vertentes terá que ocupar posição de destaque na agenda do futuro Chanceler.",
+                "Nossa moldura institucional das relações bilaterais, a chamada Comissão de Alto Nível, COSBAN, é abrangente, mas talvez algo pesada. Há um número excessivo de comitês, subcomitês e grupos. Reuni-los regularmente não é simples e quando as instâncias de nível mais baixo não se reúnem, as instâncias de nível mais elevado ficam paralisadas. Temos que preservar a COSBAN mas, ao mesmo tempo, renová-la. Essa é uma tarefa para o futuro próximo e que não deve ser adiada. Mencionei essas ideias diversas vezes a meus contrapartes chineses, inclusive à autoridade máxima chinesa na COSBAN, o vice-presidente Wan Qishan, com quem tive o prazer de me reunir em minha última visita a Pequim.",
+                "O quadro internacional que hoje se apresenta traz uma série de incertezas sobre o futuro. É impossível não se referir a elas, mesmo quando o tema central de hoje é o relacionamento bilateral Brasil-China. Até porque a China, pelos resultados de sua estratégia econômica, pela exposição internacional que tem hoje e pelos múltiplos laços econômicos que estabeleceu com praticamente todos os países passou a estar no centro das atenções.",
+                "Vivemos hoje uma mudança de paradigma, resultante de um processo acelerado de inovação tecnológica que impacta os processos produtivos, a oferta de emprego, as decisões de investimento e que terá efeitos por longo tempo adiante. Ao mesmo tempo, há, neste momento, um movimento de releitura de muitos aspectos das relações internacionais. Primordialmente no terreno econômico-comercial, mas não exclusivamente nele.",
+                "Nossa expectativa é de que as relações econômico-comerciais em esfera global continuem a ser guiadas pelos princípios básicos da transparência nas políticas e nas ações, acesso a mercados, condições equitativas de apoio à produção, proteção de direitos legítimos, num ambiente de cooperação, concertação e entendimento.",
+                "Temos acompanhado com preocupação as controvérsias de natureza comercial entre as grandes economias. O Brasil espera que possamos recuperar o mais brevemente possível um ambiente de previsibilidade e de harmonia no comércio internacional, que garanta aos países bases suficientemente sólidas para formular políticas e às empresas um ambiente saudável para tomar decisões de investimento. Nossa visão também – e nisso coincidimos substantivamente com a visão chinesa – é de que a comunidade internacional precisa saber preservar o valor e o papel das instâncias multilaterais. Parece banal dizê-lo, mas não há alternativa possível ao multilateralismo, ao diálogo e a entendimentos que levem em conta a pluralidade e diversidade das nações.",
+                "Quero concluir sublinhando que nossa relação com a China é excelente e continua a oferecer espaços para ampliação, inovação e criatividade. Espero que deste seminário possam sair ideias, comentários e propostas que nos permitam abrir novas portas."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente Michel Temer na abertura do Debate Geral da 73ª Sessão da Assembleia Geral das Nações Unidas",
+            "subtitulo": "NA",
+            "data": "25/09/2018",
+            "horario": "14h18",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-michel-temer-na-abertura-do-debate-geral-da-73-sessao-da-assembleia-geral-das-nacoes-unidas-2",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Senhora Presidente desta Assembleia Geral, María Fernanda Espinosa,",
+                "Senhor Secretário-Geral da ONU, António Guterres,",
+                "Senhoras e senhores Chefes de Estado e de Delegação,",
+                "Senhoras e senhores,",
+                "É uma honra para o Brasil abrir este Debate Geral.",
+                "Tenho o prazer de cumprimentar a Presidente da Assembleia Geral, María Fernanda Espinosa – primeira mulher latino-americana a desempenhar essa alta função. Reitero a Vossa Excelência meus votos de pleno êxito. Tenha a certeza de contar com o Brasil.",
+                "Cumprimento, ainda, o Secretário-Geral, António Guterres. É uma particular satisfação fazê-lo em nossa língua comum.",
+                "Senhoras e senhores,",
+                "Quantos oradores já não vieram a esta tribuna advogar o aprimoramento da ordem internacional que edificamos ao longo de décadas?",
+                "Muitos foram esses oradores. Eu mesmo me incluo entre eles. E, creio, tínhamos razão. Ainda temos razão, e as palavras que pronunciamos continuam atuais.",
+                "Mas, se queremos aprimorar nossa ordem coletiva, hoje se impõe ainda outra tarefa: a de defender a própria integridade dessa ordem. Ordem que, por imperfeita que seja, tem servido às causas maiores da humanidade.",
+                "Os desafios à integridade da ordem internacional são muitos. Vivemos tempos toldados por forças isolacionistas. Reavivam-se velhas intolerâncias. As recaídas unilaterais são cada vez menos a exceção. Mas esses desafios não devem – não podem – nos intimidar.",
+                "Isolacionismo, intolerância, unilateralismo: a cada uma dessas tendências, temos que responder com o que nossos povos têm de melhor.",
+                "Pois à primeira dessas tendências – o isolacionismo –, o Brasil responde com mais abertura, mais integração.",
+                "O Brasil sabe que nosso desenvolvimento comum depende de mais fluxos internacionais de comércio e investimentos. Depende de mais contato com novas ideias e com novas tecnologias. É na abertura ao outro – e não na introspecção e no isolamento – que construiremos uma prosperidade efetivamente compartilhada.",
+                "Assim tem atuado o Brasil.",
+                "Levamos adiante uma política externa universalista.",
+                "Em nosso entorno geográfico, temos aprofundado os mecanismos de integração. No Mercosul, reafirmamos a vocação democrática do bloco, derrubamos barreiras comerciais e assinamos novos acordos. Impulsionamos a aproximação com os países da Aliança do Pacífico, buscando uma América Latina cada vez mais unida – como, aliás, determina nossa Constituição. E revitalizamos ou iniciamos negociações comerciais com parceiros de todas as regiões – União Europeia, Associação Europeia de Livre Comércio, Canadá, Coreia do Sul, Singapura, Líbano, Marrocos, Tunísia.",
+                "Por meio dessas e de outras iniciativas, seguimos estreitando nosso relacionamento com o conjunto das Américas, com a Europa, com a Ásia, com a África.",
+                "Especialmente produtiva tem sido nossa participação em foros de cooperação como o G20, o BRICS, a Comunidade de Países de Língua Portuguesa. São espaços onde produzimos resultados concretos, com impacto direto para o dia a dia de nossas sociedades.",
+                "É assim, com abertura e integração, que nos acercamos de um futuro melhor para todos. O isolamento pode até dar uma falsa sensação de segurança. O protecionismo pode até soar sedutor. Mas é com abertura e integração que alcançamos a concórdia, o crescimento, o progresso.",
+                "Senhoras e senhores,",
+                "Também ao desafio da intolerância o Brasil tem respondido de forma decidida: com diálogo e solidariedade.",
+                "São o diálogo e a solidariedade que nos inspiram, a cada momento, a honrar a Declaração Universal dos Direitos Humanos.",
+                "Tornar realidade esse documento, que em breve completará sete décadas, é imperativo que demanda atenção e ação permanentes.",
+                "Em nome dos direitos humanos, muito já fizemos – governos, instituições e indivíduos da altura do brasileiro Sergio Vieira de Melo, cuja memória faço questão de homenagear nestes quinze anos de sua trágica morte.",
+                "É forçoso reconhecer, porém, que persistem, nos mais diversos quadrantes, violações às normas internacionais que protegem o indivíduo na sua dignidade. Na América Latina, o Brasil tem trabalhado pela preservação da democracia e dos direitos humanos. Seguiremos, junto a tantos outros países, ao lado de povos irmãos que tanto têm sofrido.",
+                "Também o diálogo e a solidariedade se acham na origem do Pacto Global sobre Migração, cujas negociações acabamos de concluir. Contam-se mais de 250 milhões de migrantes em todo o mundo. Trata-se de homens, mulheres e crianças que, ameaçados por crises que se prolongam, são levados a tomar a difícil e arriscada decisão de deixar seus países. É nosso dever protegê-los, e é esse o propósito do Pacto Global sobre Migração. Agora, cabe-nos concluir as negociações do Pacto Global sobre Refugiados.",
+                "Na América do Sul, estamos em meio a onda migratória de grandes proporções. Estima-se em mais de um milhão os venezuelanos que já deixaram seu país em busca de condições dignas de vida. O Brasil tem recebido todos os que chegam a nosso território. São dezenas de milhares de venezuelanos a quem procuramos dar toda a assistência. Com a colaboração do Alto Comissariado para Refugiados, construímos abrigos para ampará-los da melhor maneira. Temos promovido sua interiorização para outras regiões do Brasil. Emitimos documentos que os habilitam a trabalhar no País. Oferecemos escola para as crianças, vacinação e serviços de saúde para todos. Mas sabemos que a solução para a crise apenas virá quando a Venezuela reencontrar o caminho do desenvolvimento.",
+                "No Brasil, temos orgulho de nossa tradição de acolhimento. Somos um povo forjado na diversidade. Há um pedaço do mundo em cada brasileiro.",
+                "Fiéis a essa tradição, instituímos, no ano passado, nova Lei de Migração – uma legislação moderna, que não apenas protege a dignidade do imigrante, mas reconhece os benefícios da imigração. Ampliamos direitos e desburocratizamos exigências para ingresso e permanência no Brasil.",
+                "Se o diálogo e a solidariedade são antídotos para a intolerância, são também matéria-prima da paz duradoura.",
+                "Diante das diferentes crises no Oriente Médio, essa tem sido a tônica da posição brasileira. Neste ano em que nos associamos às comemorações pelos 70 anos de Israel, o Brasil renova seu apoio à solução de dois Estados – Israel e Palestina –, vivendo lado a lado, em paz e segurança.",
+                "Do mesmo modo, respaldamos os esforços internacionais para pôr termo ao conflito na Síria, que já se estende há tempo demais. Temos buscado contribuir para mitigar tanto sofrimento. Só em 2017, doamos cerca de uma tonelada de medicamentos e vacinas em benefício de crianças afetadas pelo conflito. Temos, ainda, acolhido número expressivo de refugiados.",
+                "Na Península Coreana, também o diálogo e a solidariedade balizam nossa postura. Reiteramos nosso apoio a soluções diplomáticas que promovam a desnuclearização e a paz.",
+                "É, reafirmo, com diálogo e solidariedade que venceremos a intolerância, que construiremos a paz. Como disse Nelson Mandela – cujo centenário comemoramos este ano –, é nosso dever apontar os rumos de “um mundo de tolerância e respeito pela diferença”, os rumos de “um inabalável compromisso com soluções pacíficas para conflitos e disputas”.",
+                "Por fim, o desafio do unilateralismo. A ele, respondemos com mais diplomacia, mais multilateralismo. E o fazemos imbuídos da convicção de que problemas coletivos demandam respostas coletivamente articuladas. Daí o significado maior da ONU: esta é, por excelência, a casa do entendimento.",
+                "Precisamos fortalecer esta Organização. Precisamos torná-la mais legítima e eficaz. Precisamos de reformas importantes – entre elas a do Conselho de Segurança, que, como está, reflete um mundo que já não existe mais. Precisamos, enfim, revigorar os valores da diplomacia e do multilateralismo.",
+                "Já demos reiteradas provas do que somos capazes, juntos, quando nos movemos por esses valores.",
+                "Foi assim que demos passo histórico, no ano passado, ao concluirmos o Tratado sobre a Proibição de Armas Nucleares. Tive a honra de ser o primeiro Chefe de Estado a assiná-lo.",
+                "Foi assim, ainda, que, ao longo de décadas, erguemos um sistema multilateral de comércio robusto, com regras cada vez mais abrangentes e com mecanismo de solução de controvérsias crível e eficaz. São conquistas históricas de todos nós, que devemos prestigiar e ampliar, com a eliminação de tantas distorções ao comércio agrícola que afetam, sobretudo, países em desenvolvimento.",
+                "E não é apenas em desarmamento e não proliferação nuclear, não é apenas em comércio internacional que a diplomacia e o multilateralismo nos proporcionam soluções efetivas. Isso também é verdade em tantas outras áreas, como a do desenvolvimento sustentável, crucial para o futuro da humanidade.",
+                "Só nos últimos anos, negociamos a Agenda 2030 e o Acordo de Paris. São verdadeiros marcos, que nos colocam no caminho do crescimento econômico com justiça social e respeito ao meio ambiente.",
+                "O compromisso de primeira hora do Brasil com o desenvolvimento sustentável permanece inequívoco. Não faltam exemplos.",
+                "Estamos plenamente engajados no movimento em direção a uma economia internacional de baixo carbono. Mais de 40% da matriz energética brasileira é limpa e renovável – uma das mais sustentáveis do mundo.",
+                "Têm sido intensos nossos esforços de redução do desmatamento. A tendência de longo prazo é encorajadora. Hoje, temos, na Amazônia brasileira, taxa de desmatamento 75% mais baixa do que em 2004.",
+                "Criamos e ampliamos, no Brasil, unidades de conservação ambiental, que, atualmente, correspondem a mais de quatro vezes o território da Noruega.",
+                "A causa dos oceanos também nos é cara. Por ocasião do Fórum Mundial da Água, que sediamos em Brasília, instituímos, nos mares brasileiros, áreas de preservação da dimensão dos territórios da Alemanha e da França somados.",
+                "Em dois anos, dobramos o total das áreas de preservação no Brasil.",
+                "A diplomacia e o multilateralismo são igualmente instrumentos decisivos para a segurança global – é o que mostram as missões de paz da ONU, nas quais o Brasil se orgulha em desempenhar papel de relevo.",
+                "E, não tenhamos ilusões, são também instrumentos decisivos para vencer o terrorismo, para combater os crimes transnacionais.",
+                "O tráfico de pessoas, o tráfico de armas, o tráfico de drogas, a lavagem de dinheiro, a exploração sexual são crimes que não conhecem fronteiras. São flagelos que corroem nossas sociedades e que só são eficazmente combatidos com políticas e ações concertadas.",
+                "É o que temos feito em nossa região. Celebramos, em Brasília, uma primeira reunião ministerial do Cone Sul sobre segurança nas fronteiras. Desde então, temos intensificado a cooperação com nossos vizinhos no combate ao crime transnacional.",
+                "Temos que permanecer coesos em torno desta obra coletiva que é erguer um mundo em que predominem a paz, o desenvolvimento e os direitos humanos. Nada conseguiremos sozinhos. Nada conseguiremos sem a diplomacia, sem o multilateralismo.",
+                "Senhoras e senhores, Senhora Presidente, Senhor Secretário-Geral,",
+                "Esta é a última vez que, como Presidente da República, tenho o privilégio de representar meu País neste Debate Geral.",
+                "Em duas semanas, o povo brasileiro irá às urnas. Escolherá as lideranças políticas que – no Executivo e no Legislativo – dirigirão o Brasil a partir de janeiro de 2019.",
+                "Assim determina nossa Constituição, assim tem sido nos últimos quase trinta anos e assim deve ser. Porque todo poder emana do povo. Porque a alternância no poder é da alma mesma da democracia. E a nossa, senhoras e senhores, é uma democracia vibrante, lastreada em instituições sólidas.",
+                "Transmitirei a meu sucessor as funções presidenciais com a tranquilidade do dever cumprido.",
+                "Hoje, no Brasil, podemos olhar para trás e verificar o quanto fizemos em pouco tempo de Governo.",
+                "Dissemos não ao populismo e vencemos a pior recessão de nossa História – recessão com severas consequências para a sociedade, sobretudo para os mais pobres. Recolocamos as contas públicas em trajetória responsável e restauramos a credibilidade da economia. Voltamos a crescer e a gerar empregos. Programas sociais antes ameaçados pelo descontrole dos gastos puderam ser salvos e ampliados. Devolvemos o Brasil ao trilho do desenvolvimento.",
+                "O País que entregarei a quem o povo brasileiro venha a eleger é melhor do que aquele que recebi. Muito ainda resta por fazer, mas voltamos a ter rumo.",
+                "Agora, é ir adiante. O próximo Governo e o próximo Congresso Nacional encontrarão bases consistentes sobre as quais poderão seguir construindo um Brasil mais próspero e mais justo.",
+                "Senhoras e senhores,",
+                "Os membros desta Assembleia Geral sabem que têm e terão sempre, no Brasil, um firme aliado da cooperação entre as nações.",
+                "Um país que, diante do isolacionismo, propõe mais abertura e integração. Que, diante da intolerância, propõe mais diálogo e solidariedade. Que, diante do unilateralismo, propõe mais diplomacia e multilateralismo.",
+                "Nas palavras do já saudoso Kofi Annan, “nossa missão é confrontar a ignorância com o conhecimento, o fanatismo com a tolerância, e o isolamento com a mão estendida da generosidade.”",
+                "Muito obrigado.",
+                "Abertura da 73ª AGNU"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Solidariedade com os venezuelanos (EFE – 3/09/2018) [Espanhol]",
+            "subtitulo": "NA",
+            "data": "03/09/2018",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-artigos/michel-miguel-elias-temer-lulia-2016-2018/solidariedade-com-os-venezuelanos-efe-3-09-2018-espanhol",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Michel Temer, presidente de la República Federativa de Brasil",
+                "Los persistentes flujos de migrantes venezolanos afectan hoy a diversos países de América Latina. Millones de seres humanos se abren camino por montañas y bosques escapando de la grave crisis que vive Venezuela, en busca de esperanza de días mejores en otros países, incluso en nuestro país.",
+                "Brasil ha actuado con responsabilidad y determinación frente a esta ola migratoria que, en nuestro caso, tiene más impacto en el estado de Roraima, al norte.",
+                "Estamos recibiendo con dignidad a nuestros hermanos venezolanos que sufren las consecuencias de lo que sucede hoy en su país. Este es Brasil: un país solidario, con una fuerte tradición de acoger a todos los pueblos del mundo y de cumplir sus compromisos internacionales en todos los momentos históricos que así lo requirieron. Somos una nación formada por muchos pueblos, muchos colores y muchos credos, y siempre hemos creído en los grandes valores de la humanidad.",
+                "Claro que la llegada de venezolanos al territorio Brasileño trae significativas demandas a nuestros servicios públicos e importantes desafíos para una región tan carente como lo es Roraima. Nuestro gobierno tiene esto muy presente.",
+                "Desde el primer momento hemos actuado sin descanso para enfrentar estos desafíos. Visité Roraima dos veces y determiné a las autoridades federales que acompañaran la implementación de las medidas que adoptamos para enfrentar esta crisis. Todo lo hicimos para apoyar a la población de Roraima y a los migrantes venezolanos.",
+                "Reforzamos los equipos de funcionarios que actúan en la frontera. Ampliamos la presencia del Gobierno Federal en el área de seguridad y en el área social. Y reafirmo: nunca pensamos en cerrar las fronteras.",
+                "Proporcionamos documentos a los venezolanos que llegan a Brasil para que, entre otras finalidades, puedan tener acceso a nuestro mercado de trabajo.",
+                "Estamos multiplicando acciones de vacunación y de asistencia médica a Brasileños y venezolanos. Construimos diez refugios para venezolanos (dos más están casi terminados) donde los migrantes reciben alimentación y apoyo adecuado. El esfuerzo Brasileño es reconocido por organismos internacionales como la Agencia de la ONU para los Refugiados.",
+                "Intensificamos también medidas para transferir a los venezolanos que así lo deseen hacia otras regiones del territorio Brasileño. El proceso es naturalmente complejo, pero lo hemos conducido de forma ordenada y segura. Y así lo seguiremos haciendo.",
+                "En los últimos días hemos fortalecido la seguridad en Roraima con el envío de más agentes de la Fuerza Nacional, y decreté esta semana el uso de las Fuerzas Armadas, en los términos de nuestra Constitución, para garantizar la ley y el orden en determinadas regiones de aquel estado, con el objetivo de garantizar paz y tranquilidad al pueblo Brasileño y a los venezolanos.",
+                "Al mismo tiempo, en coordinación con otros países de la región y en foros como la Organización de Estados Americanos, seguimos promoviendo medidas diplomáticas que estimulen al gobierno venezolano a retomar el camino de la democracia, la estabilidad y el desarrollo. Un paso importante fue la suspensión de Venezuela del Mercosur, con base en la cláusula democrática.",
+                "El pueblo Brasileño está a la altura de este momento. El Gobierno seguirá haciendo su parte, en nombre de los valores humanos y solidarios que nos caracterizan como nación.",
+                "NOTA: Este artículo forma parte del servicio de firmas de la Agencia EFE al que contribuyen diversas personalidades, cuyos trabajos reflejan exclusivamente las opiniones y puntos de vista de sus autores."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Brasil e Itália: unidos para fechar o acordo Mercosul-União Europeia (IL SOLE 24 ORE, ITÁLIA, 18/09/2018)",
+            "subtitulo": "NA",
+            "data": "18/09/2018",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "16/06/2025"
+            ],
+            "horario_atualizado": [
+                "11h58"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/brasil-e-italia-unidos-para-fechar-o-acordo-mercosul-uniao-europeia-il-sole-24-ore-italia-18-09-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "BRASILE E ITALIA PER L’ACCORDO MERCOSUR-UE (IL SOLE 24 ORE, ITÁLIA, 18/09/2018) [ITALIANO]A tradução para o português encontra-se abaixo do artigo original, em italiano.Il Mercosur e l’Unione europea (Ue) a breve chiuderanno un accordo storico, un negoziato durato quasi vent’anni. I due blocchi totalizzano un Pil pari a 20 trilioni di dollari e rappresentano un mercato di oltre 750 milioni di persone. Se l’accordo sarà siglato, potremo migliorare le sinergie, rafforzare la competitività dei nostri rispettivi settori produttivi e aiutare a sostenere gli ideali del commercio libero e giusto.In un secolo caratterizzato dalla forte concorrenza dei mercati e dei flussi di investimento, un accordo tra Mercosur e Ue rappresenta un’importante opzione di convergenza tra i due blocchi, con l’adozione di standard e regole comuni che rafforzeranno i legami in futuro. Le opportunità di introiti, che si prospettano ai membri di entrambi i blocchi, sono immense. La stimolante congiuntura internazionale e la necessità di rivitalizzare l’economia globale sono i fattori che rendono un accordo di partenariato tra il Mercosur e l’Unione europea non solo tempestivo e auspicabile, ma anche urgente.Pochi Paesi sono così ben posizionati per essere catalizzatori per la conclusione dei negoziati come il Brasile e l’Italia. Il Mercosur ha fatto una generosa offerta di apertura del mercato, anche se scaglionata nel tempo, ai beni industriali di maggiore interesse da parte europea, oltre ad aver accettato l’accesso alle quote di produzione per molti dei suoi prodotti agricoli. La nostra aspettativa è che questo sforzo sia riconosciuto e che ci sia flessibilità anche da parte europea.",
+                "L’Italia sarà certamente uno dei principali beneficiari del futuro accordo Mercosur-Ue. Nel 2017, era la seconda fonte di importazioni brasiliane provenienti dall’Unione europea ed è stata al settimo posto per le importazioni brasiliane dal resto del mondo. La quasi totalità delle esportazioni italiane verso il Brasile è composta da manufatti, soprattutto prodotti ad alto valore aggiunto come macchinari ed attrezzature, veicoli e ricambi auto e prodotti farmaceutici. Tutti questi settori trarranno benefici se i negoziati saranno siglati.L’accordo fornirà, inoltre, un maggiore accesso ai mercati per altri prodotti italiani per i quali c’è una grande richiesta nel mercato sudamericano, quali prodotti alimentari come pasta, vini e formaggi.L’Italia sarà il Paese che beneficerà maggiormente dell’accordo per quanto riguarda le indicazioni geografiche protette (Igp). Il Mercosur sta negoziando il riconoscimento e la protezione di indicazioni geografiche di prodotti italiani, offrendo anche, per i casi più complessi, soluzioni tecniche al fine di preservare un numero limitato di Igp per prodotti che fanno parte del patrimonio storico della presenza italiana in Brasile. I guadagni saranno visibili non solo nel commercio dei beni, ma anche in servizi e investimenti. Tra il 2000 e 2015, l’Italia è stato il principale investitore in Brasile. Nel 2016, il capitale di investimento delle imprese di origine italiana in Brasile ha raggiunto 9,1 miliardi di dollari, destinati in particolare all’industria di trasformazione, al commercio e ai ricambi del settore automobilistico. Tale investimento si sta diversificando, fra gli altri, nei settori elettrico e del gas. La finalizzazione dell’accordo rafforzerà la presenza di aziende italiane in Brasile, incluse le Pmi, non solo riducendo i costi di input, ma facilitando i flussi di investimento e rafforzando la cooperazione in un ambito sicuro e trasparente.",
+                "Siamo molto vicini alla chiusura di un accordo globale, in un momento storico di crescenti incertezze nell’economia globale e in cui c’è domanda di soluzioni creative, aggreganti e in grado di stimolare gli scambi e gli investimenti. Ora è necessaria la volontà politica di superare gli ultimi ostacoli, con la consapevolezza che, oltre agli scambi settoriali, stiamo garantendo proventi importanti per le nostre economie.Questa panoramica è fondamentale per comprendere la rilevanza e il significato strategico dell’accordo Mercosur-Ue. Insieme, Brasile e Italia possono dare un contributo fondamentale per raggiungere questo importante traguardo, facendo prevalere questa visione strategica. Il risultato sarà più scambi commerciali, investimenti e prosperità per tutti.",
+                "Aloysio Nunes FerreiraMinistro degli Affari esteri del Brasile",
+                "Tradução para o portuguêsBrasil e Itália: unidos para fechar o acordo Mercosul-União EuropeiaO Mercosul e a União Europeia (UE) estão a poucos passos de fechar um acordo histórico, em um processo negociador que já dura quase vinte anos. Os dois blocos somam um PIB de quase US$ 20 trilhões e representam um mercado de mais de 750 milhões de pessoas. Se o acordo for fechado, poderemos explorar melhor complementariedades, fortalecer a competitividade dos nossos respectivos setores produtivos e ajudar a sustentar o ideário de comércio livre e justo.Em um século caracterizado pela competição acirrada por mercados e fluxos de investimentos, um acordo entre o MERCOSUL e a UE representa importante opção estratégica pela convergência entre os dois blocos, com a adoção de padrões e regras comuns que reforçarão nossos laços no longo prazo. As oportunidades de ganhos que se abrem para os membros de ambos os blocos são imensas. A conjuntura internacional desafiadora e a necessidade de redinamização da economia global são os fatores que tornam um acordo de associação MERCOSUL-UE não só oportuno e desejável como urgente.Poucos países estão tão bem situados para servir de catalisadores da conclusão das negociações como Brasil e Itália. O MERCOSUL fez oferta generosa, com abertura, ainda que escalonada no tempo, para bens industriais de maior interesse do lado europeu, além de ter aceito acesso por quotas para muitos de seus produtos agrícolas. A nossa expectativa é que esse esforço seja reconhecido e que haja também flexibilidade do lado europeu.",
+                "A Itália será certamente uma das principais beneficiadas do futuro Acordo MERCOSUL-UE. Em 2017, foi a segunda origem das importações brasileiras provenientes dos membros da UE e a sétima em origem das importações brasileiras no mundo. Quase a totalidade das exportações italianas ao Brasil é composta por bens manufaturados, concentrados em produtos de alto valor agregado como máquinas e equipamentos eletrônicos, veículos e autopeças e produtos farmacêuticos. Todos esses setores ganharão se as negociações chegarem a bom termo.",
+                "O acordo também propiciará aumento do acesso a mercados para outros produtos italianos para os quais há grande demanda no mercado sul-americano, incluindo produtos alimentícios como massas, vinhos e queijos. A Itália será o país que mais se beneficiará do acordo no que se refere às indicações geográficas. O MERCOSUL tem negociado o reconhecimento e a proteção de indicações geográficas, oferecendo soluções técnicas para preservar um número limitado de IGs que conflitariam com produtos que fazem parte da herança italiana no Brasil.Os ganhos serão visíveis não somente no comércio de bens, mas também em serviços e investimentos. Entre 2000 e 2015, a Itália foi o quarto principal investidor no Brasil. Em 2016, o capital de empresas de origem italiana investido no Brasil alcançava US$ 9,1 bilhões, direcionado especialmente ao setor de indústria de transformação e ao comércio e reparação de serviços automotores, mas vem se diversificando para setores como eletricidade e gás, entre outros. A conclusão do acordo fortalecerá a presença de empresas italianas no Brasil, inclusive das pequenas e médias, não somente ao reduzir os custos de insumos, mas também ao facilitar os fluxos de investimentos e reforçar a cooperação em um ambiente de negócios mais seguro e transparente.",
+                "Estamos muito perto de fechar um acordo abrangente, em um momento de aumento das incertezas na economia global e em que há demanda por soluções criativas, agregadoras e capazes de impulsionar o comércio e os investimentos. É preciso agora vontade política para superar os últimos obstáculos, com a consciência de que, para além das barganhas setoriais, estamos garantindo ganhos importantes para nossas economias.Essa visão de conjunto é fundamental para entender a importância e o sentido estratégico do acordo. Juntos, Brasil e Itália podem dar contribuição central para que prevaleça a visão estratégica e possamos cruzar a linha de chegada. O resultado será mais comércio, investimentos e prosperidade para todos.",
+                "Aloysio Nunes FerreiraMinistro das Relações Exteriores"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "España: Colaborador Decisivo para el Acuerdo Mercosur-UE (Expansión, 12/09/2018)",
+            "subtitulo": "NA",
+            "data": "12/09/2018",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "16/06/2025"
+            ],
+            "horario_atualizado": [
+                "12h01"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/espana-colaborador-decisivo-para-el-acuerdo-mercosur-ue-expansion-12-09-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Brasil y España están enfocados en las negociaciones del Acuerdo de Asociación Mercosur-Unión Europea con vistas a su finalización este mismo año. El acuerdo será estratégico para nuestras regiones, pudiendo consolidar un nuevo polo dinámico de la economía global, con un mercado consumidor de más de 750 millones de personas y un PIB de casi 20 billones de dólares. En un momento en el que muchos coquetean peligrosamente con el proteccionismo, ese acuerdo reforzaría nuestro compromiso con la defensa del comercio internacional como instrumento para crear renta y empleos, aumentar la competitividad y contribuir al crecimiento sostenido de nuestras economías.En un siglo caracterizado por la competición espoleada por mercados y flujos de inversiones, el acuerdo representaría también una importante",
+                "opción estratégica por la convergencia entre los dos bloques, con la adopción de patrones y reglas comunes que reforzarían nuestros lazos a largo plazo. Las oportunidades de ganancia que se abren para los miembros del Mercosur y de la UE son inmensas. La coyuntura internacional desafiante y la necesidad de redinamización de la economía global son los factores que convierten un Acuerdo de Asociación Mercosur-UE no sólo en oportuno y deseable, sino también en urgente.El acuerdo contribuirá a mantener y ampliar la presencia europea en la economía Brasileña. Brasil es el tercer mayor destino de los stocks de inversiones de la UE en el mundo, así como una de las más importantes fuentes de facturación de empresas europeas. En algunos casos –incluso de empresas españolas–, constituye el principal origen de su facturación. Existe un gran potencial inexplorado en áreas como licitaciones e indicaciones geográficas que el acuerdo ayudará a potenciar. Si las negociaciones llegan a buen puerto, constituirá el punto culminante de los esfuerzos conjuntos de Brasil y España, que comenzaron hace ya casi 23 años con la firma en Madrid del Acuerdo-Marco de Cooperación Interregional en 1995. En ese largo y arduo proceso, España ha sido –y seguirá siendo– uno de los principales puentes entre el Mercosur y la UE. Con la fundamental articulación española conseguimos, nuevamente en Madrid, relanzar las negociaciones en 2010. Y con el firme apoyo español, frecuentemente reiterado por sus máximas autoridades, pretendemos finalizar el acuerdo antes de que acabe este año.Generosa ofertaEspaña será uno de los principales beneficiados por el acuerdo, con la ampliación del acceso de sus productos manufacturados y de alto valor añadido, que componen gran parte de las importaciones Brasileñas de origen español. Con respecto a las inversiones, España fue en 2016 el tercer principal inversor en Brasil, con una fuerte presencia en el sector financiero y las comunicaciones, así como en la industria de transformación. Además, el Mercosur está negociando el reconocimiento y la protección de un vasto número de indicaciones geográficas, incluyendo nombres de importante valor comercial para España. El Mercosur ha realizado una generosa oferta, con apertura, aunque escalonada en el tiempo, a bienes industriales de mayor interés por parte europea, además de haber aceptado el acceso por cuotas para muchos de sus productos agrícolas, que, en general, no compiten con los productores europeos, sino con terceros países. Nuestra expectativa es que ese esfuerzo sea reconocido y que también haya flexibilidad por parte europea. Los países del Mercosur cuentan con España para enfrentarse a las resistencias naturales en el ámbito de la UE, tal como haremos en el Mercosur, y buscar el compromiso de sus socios y de la Comisión Europea con respecto a la superación de los pocos obstáculos que aún persisten.Estamos muy cerca de cerrar un acuerdo amplio en un momento de aumento de las inseguridades en la economía global y en que hay demanda de soluciones creativas, agregadoras y capaces de impulsar el comercio y las inversiones. Ahora es necesaria voluntad política para superar los últimos impedimentos, con la conciencia de que, más allá de negociaciones e intereses sectoriales, estamos garantizando importantes ganancias para nuestras economías. Esa visión de conjunto resulta fundamental para entender la importancia y el sentido estratégico del acuerdo. Para finalizar ese proceso y dar comienzo a una nueva fase de cooperación birregional, la colaboración con España va a resultar, una vez más, decisiva. El resultado será más comercio, más inversiones y más prosperidad para todos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Brasil e África: um compromisso permanente (Folha de S. Paulo, 10/09/2018)",
+            "subtitulo": "NA",
+            "data": "10/09/2018",
+            "horario": "12h33",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h50"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/brasil-e-africa-um-compromisso-permanente-folha-de-s-paulo-10-08-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Como a memória de alguns no Brasil tende a falhar, vale insistir: a África é prioridade da política externa. Não será difícil lembrar que tivemos, no passado recente, um ímpeto africanista que perdeu força diante da crise interna e do desinteresse em altos escalões do poder.",
+                "Há pouco mais de dois anos, o panorama era desalentador: várias embaixadas permaneciam às moscas; contas de serviços básicos atrasadas; projetos de cooperação semiparalisados; e iniciativas esparsas e sem foco.",
+                "O que mudou nos últimos dois anos? O fortalecimento das relações com os países africanos voltou a ocupar lugar de destaque nas nossas relações exteriores. Foi possível assegurar lotação adequada ou minorar a falta de funcionários.",
+                "Hoje, nossos embaixadores não correm o risco de passar pelo vexame do despejo ou de ter a luz cortada. Os projetos emblemáticos da Agência Brasileira de Cooperação estão em curso, graças à preservação do orçamento da agência. Adotou-se um código de conduta para o apoio fundamental prestado pelos setores de promoção comercial das embaixadas às empresas brasileiras.",
+                "O ímpeto anterior acertou em privilegiar a África, mas o fez de maneira atabalhoada. Baseou-se, sobretudo, na retórica dos laços históricos e culturais. Esses laços são obviamente um patrimônio, mas faltou traduzi-los em estratégia calcada não somente nos valores comuns, mas também nos interesses que cimentam parcerias duradouras.",
+                "Na estratégia para a África, o papel dos investimentos brasileiros continuará central, mas agora com padrões elevados de governança e transparência, para que a presença de nossas empresas seja fator de desenvolvimento e prosperidade.",
+                "Estive na África quatro vezes, percorri 16 países africanos, conversei com líderes políticos e empresários. Em todos os contatos, foi nítida a disposição de concretizar negócios e aprofundar a cooperação.",
+                "Faltava uma visão para a África que se encaixasse na expectativa dos nossos interlocutores africanos, que preferem ser vistos não com o olhar paternalista da falsa comiseração, mas como parceiros interessados em explorar oportunidades comerciais e de investimentos. A minha agenda na África enfatizou a busca de benefícios tangíveis. Em suma, menos retórica e mais resultados.",
+                "Viajei a países de todas as regiões do continente: de Argélia e Tunísia ao Senegal, África do Sul e Namíbia. De São Tomé e Príncipe, Cabo Verde e Angola a Moçambique, Gana e Nigéria. Fui o primeiro chanceler brasileiro a visitar o Maláui e o primeiro, em 35 anos, a visitar a Costa do Marfim. Compareci, em Moçambique, à inauguração do corredor logístico de Nacala, construído em parceria com a Vale.",
+                "Assinei acordos com os países visitados em diversas áreas, em particular com o propósito de abrir mercados e facilitar investimentos. Tratei da cooperação em comércio, investimentos, conexões aéreas, saúde, agricultura, finanças, defesa e energia.",
+                "Sob a presidência brasileira da Comunidade dos Países de Língua Portuguesa (2017-2018), ocorreram 13 encontros ministeriais e várias reuniões técnicas para acertar políticas comuns, trocar experiências e adotar acordos em áreas como turismo, energia e igualdade de gênero.",
+                "O intercâmbio com a África cresceu 20% entre 2016 e 2017, alcançando US$ 14,92 bilhões. Com a integração da Apex ao Itamaraty, nossos setores de promoção comercial ganharam musculatura e estão mais bem preparados para prospectar mercados e apoiar a internacionalização das empresas brasileiras.",
+                "Cabe aos empresários aproveitar as imensas oportunidades que se abrem. A África já cresce a ritmo superior à média mundial, possui mercado consumidor em expansão e terá influência crescente na economia global. É um continente estratégico para o Brasil e para a construção de uma ordem multipolar.",
+                "É por isso que não há tempo a perder. Munidos de visão de longo prazo, estamos dando consequência prática ao nosso compromisso permanente com a África.",
+                "*Aloysio Nunes Ferreira é Ministro das Relações Exteriores"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Texto-base para a intervenção do ministro Aloysio Nunes Ferreira na abertura do seminário Brasil-China promovido pela Folha de S. Paulo – 6 de setembro de 2018",
+            "subtitulo": "NA",
+            "data": "06/09/2018",
+            "horario": "15h54",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h50"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/texto-base-para-a-intervencao-do-ministro-aloysio-nunes-ferreira-na-abertura-do-seminario-brasil-china-promovido-pela-folha-de-s-paulo-6-de-setembro-de-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Importância da relação Brasil-China",
+                "As sólidas relações entre o Brasil e a China se fundam no reconhecimento de grandes complementariedades comerciais e econômicas e de significativas convergências entre as políticas externas dos dois países, ciosos de sua independência e autonomia.",
+                "Essas convergências, que se ampliam nesse momento de questionamento, e mesmo de ameaça, ao multilateralismo que defendemos, permitiram a criação de diversos grupos relevantes integrados por Brasil e China, com destaque para os BRICS e o BASIC. As relações bilaterais se beneficiam também da ausência de irritantes mais difíceis de contornar (como disputas territoriais e rivalidades geopolíticas)",
+                "Com a China, precisamos garantir relações simétricas e equilibradas, a despeito da crescente disparidade entre o tamanho das duas economias.",
+                "A agenda do Seminário Brasil-China, organizado pela Folha, com o patrocínio da APEX, trata da essência do que temos a refletir sobre a relação entre o Brasil e a China, pautada nos seguintes pontos:",
+                "• Como ampliar a pauta exportadora;• Como incentivar um número maior de empresas brasileiras a chegar ao mercado chinês e também a investir na China;• Como maximizar os ganhos derivados da presença do investimento chinês no Brasil;• O que podemos fazer juntos, os dois países, em matéria de inovação.",
+                "Os debates sobre a realidade chinesa e a relação entre a China e o Brasil têm-se multiplicado nos últimos anos. Isso reflete não só a relevância que a China adquiriu no cenário internacional, mas também sua visibilidade crescente no nosso país. Nossa relação está fadada a se ampliar, dada a sinergia de nossas duas economias, a identidade entre brasileiros e chineses em matéria de empreendedorismo e a empatia natural entre os nossos povos. Eu me arriscaria a dizer que se olharmos o quadro das grandes economias de renda média, poucos países terão um potencial para a cooperação bilateral tão elevado como o potencial da cooperação Brasil-China. Precisamos saber aproveitá-lo com eficiência, bom senso, entusiasmo e realismo.",
+                "O número de think tanks, universidades e instituições brasileiras que acompanham o desenvolvimento da China também se ampliou recentemente. Há alguns anos, a maioria dessas instituições olhava a China apenas com o propósito de avaliar o crescimento de sua economia e o impacto desse crescimento para nossas exportações. Hoje há um conjunto de atores, empresas e instituições no Brasil que buscam entender o país de uma forma mais profunda. Não só entender os fatores que levaram a China a se tornar segunda maior economia mundial e a contribuir com 30% do crescimento do produto no globo, mas também lançar um olhar para o futuro. É sempre mais simples explicar o passado do que buscar avaliar o alcance do que vem pela frente. Mas é necessário pensar adiante.",
+                "A China, com seus múltiplos programas apontando para o futuro, como o Made in China 2025, o One Belt One Road, a meta de chegar a ser, nas palavras do próprio presidente Xi Jinping, uma sociedade moderadamente próspera em 15 anos e um grande país socialista moderno a partir de 2035, de alguma maneira força os seus parceiros a pensarem sobre o longo prazo. Meu propósito esta manhã, no entanto, é menos ambicioso. Gostaria de lhes dar um brevíssimo relato do que pudemos fazer nos dois últimos anos e formular algumas reflexões sobre a rota adiante.",
+                "A relação com a China no período 2017-2018",
+                "Nos últimos dois anos, a relação com a China desenvolveu-se de forma muito positiva:",
+                "Recuperamos o Diálogo Estratégico de Chanceleres, que estava interrompido havia algum tempo.",
+                "Realizamos duas visitas presidenciais, além de um encontro entre os presidentes Temer e Xi Jinping à margem da reunião do BRICS.",
+                "Ampliamos a agenda econômica, nela integrando novos temas como serviços e cooperação em tecnologia digital.",
+                "Revisamos a estrutura dos vistos, passando a dar vistos de cinco anos e múltiplas entradas e começando a operar na China através dos Visa Centers.",
+                "Fortalecemos a cooperação \"pessoa a pessoa\", para utilizar um termo apreciado pelos chineses, com os acordos de produção cinematográfica e de cooperação esportiva e a realização de eventos culturais verdadeiramente inovadores.",
+                "Em outras palavras, pudemos implementar uma agenda abrangente e, em larga medida, inovadora, num contexto em que os programas tradicionais continuaram funcionando. A corrente de comércio cresceu 44,5% – enquanto a corrente Brasil-mundo cresceu apenas 25,8% – e os investimentos chineses no Brasil ampliaram-se consideravelmente. Entre 2003 e 2017, estima-se um montante de investimentos de cerca de U$ 55,4 bilhões, em um total de 102 projetos. O Brasil é o país com maior diversificação de investimentos chineses, não apenas em projetos para garantir o fornecimento de commodities, mas em projetos de longo prazo.",
+                "Tivemos, é verdade, nesses dois anos alguns problemas e divergências, que são naturais entre dois países com agenda tão intensa: a crise da carne fraca; as salvaguardas impostas pelos chineses à importação de açúcar; o anti-dumping preliminar contra o frango.",
+                "Estamos dialogando sobre os temas de defesa comercial. Tenho me empenhado pessoalmente nesse diálogo, junto com os ministros Blairo Maggi e Marcos Jorge.",
+                "O olhar para o futuro",
+                "Quando olho adiante, creio que temos as bases necessárias para ampliar o relacionamento. Há confiança mútua entre nossos dois países, uma coincidência de visões consolidadas sobre vários temas da agenda internacional, participamos do processo intenso de aprofundamento de nossas relações nos mais variados setores no âmbito do BRICS – a agenda do BRICS é, de fato, vastíssima – e estamos juntos no G20.",
+                "A interação econômica entre o Brasil e a China continuará a ser dinâmica e robusta.",
+                "Para além da pauta tradicional, precisamos, nós mesmos, brasileiros, fazer esforços para chegar ao mercado chinês nos vários segmentos de produtos processados ou itens industriais em que somos competentes. Há potencial na China para exportarmos muito mais se soubermos – governo e empresas – formular as estratégias corretas e se formos mais ambiciosos.",
+                "No mais recente encontro entre o presidente Temer e o presidente Xi Jinping, foi o próprio mandatário chinês que sugeriu chegarmos, em breve prazo, a uma corrente comercial de US$ 100 bilhões. Estamos caminhando nessa direção. Nesse contexto, estou entusiasmado com o interesse das empresas brasileiras em participar da feira de importações de Xangai, em novembro próximo.",
+                "Eu mesmo pretendo estar presente à feira.",
+                "Os investimentos chineses têm-se ampliado muito no Brasil. Nos mais variados setores: agricultura, mineração, manufatura, finanças, serviços em geral, tecnologia digital, infraestrutura, óleo e gás. Creio que isso se deve a vários fatores: a dimensão do nosso mercado, a tradição que temos em incorporar investidores estrangeiros em absoluto pé de igualdade com os nacionais, o fato de termos uma realidade econômica onde vigoram a regra da lei e o poder dos contratos. Tenho observado com satisfação que muitas empresas chinesas que operam em infraestrutura hoje conhecem bem as oportunidades que se abrem no Brasil e estão preparadas para participar de nossas licitações. Também vejo com satisfação a cooperação entre a Petrobras e as empresas chinesas tanto na exploração de óleo, como, mais recentemente nas operações downstream.",
+                "A presença de investimentos expressivos chineses e de outras nacionalidades em setores como o energético, por exemplo, vai exigir, do lado brasileiro, um trabalho permanente de aprimoramento da regulação e supervisão. Também vai exigir da diplomacia um maior acompanhamento dos temas de infraestrutura, mesmo de alguns aspectos técnicos. A experiência até o momento tem sido positiva e, em minha opinião, devemos prossegui-la.",
+                "O enriquecimento recente da nossa pauta cultural, sobretudo na indústria cinematográfica e, proximamente, na audiovisual, também é um fator a ser celebrado. Os frutos começam a ser visíveis e o interesse de produtores, artistas e profissionais da cultura é crescente, tanto aqui, como na China.",
+                "Um desafio importante para os próximos anos será lidar com o tema das novas tecnologias. A China tem surpreendido positivamente o mundo com seus programas determinados e com os resultados alcançados por diversas de suas empresas. Este é um campo em que devemos procurar dialogar com maior intensidade. Nossa embaixada relata-me que há um crescente número de empresas brasileiras e chinesas no campo da tecnologia digital que procuram entender o que está ocorrendo no outro país, buscam parcerias e a formação de joint ventures. Esse é um dado auspicioso. Mostra como o relacionamento bilateral evolui de forma dinâmica e como o sucesso que temos obtido na cooperação em setores mais tradicionais contagia o meio empresarial mais contemporâneo.",
+                "A relação política",
+                "De uma maneira geral, minha impressão é que a interação econômica entre o Brasil e a China caminha rapidamente e de forma positiva e que o maior desafio da relação política é não ficar para trás. Ao contrário, buscar antecipar-se aos fatos, dar aos agentes econômicos um sinal de que os Governos dialogam bem. Acho que conseguimos isso nos dois últimos anos, mas manter o diálogo político aceso e ativo é um tema de atenção permanente. Torna-se ainda mais importante num contexto de mudança de Governo no Brasil. Não tenho qualquer dúvida de que o relacionamento Brasil-China nas suas múltiplas vertentes terá que ocupar posição de destaque na agenda do futuro Chanceler.",
+                "Nossa moldura institucional das relações bilaterais, a chamada Comissão de Alto Nível, COSBAN, é abrangente, mas talvez algo pesada. Há um número excessivo de comitês, subcomitês e grupos. Reuni-los regularmente não é simples e quando as instâncias de nível mais baixo não se reúnem, as instâncias de nível mais elevado ficam paralisadas. Temos que preservar a COSBAN mas, ao mesmo tempo, renová-la. Essa é uma tarefa para o futuro próximo e que não deve ser adiada. Mencionei essas ideias diversas vezes a meus contrapartes chineses, inclusive à autoridade máxima chinesa na COSBAN, o vice-presidente Wan Qishan, com quem tive o prazer de me reunir em minha última visita a Pequim.",
+                "O quadro internacional que hoje se apresenta traz uma série de incertezas sobre o futuro. É impossível não se referir a elas, mesmo quando o tema central de hoje é o relacionamento bilateral Brasil-China. Até porque a China, pelos resultados de sua estratégia econômica, pela exposição internacional que tem hoje e pelos múltiplos laços econômicos que estabeleceu com praticamente todos os países passou a estar no centro das atenções.",
+                "Vivemos hoje uma mudança de paradigma, resultante de um processo acelerado de inovação tecnológica que impacta os processos produtivos, a oferta de emprego, as decisões de investimento e que terá efeitos por longo tempo adiante. Ao mesmo tempo, há, neste momento, um movimento de releitura de muitos aspectos das relações internacionais. Primordialmente no terreno econômico-comercial, mas não exclusivamente nele.",
+                "Nossa expectativa é de que as relações econômico-comerciais em esfera global continuem a ser guiadas pelos princípios básicos da transparência nas políticas e nas ações, acesso a mercados, condições equitativas de apoio à produção, proteção de direitos legítimos, num ambiente de cooperação, concertação e entendimento.",
+                "Temos acompanhado com preocupação as controvérsias de natureza comercial entre as grandes economias. O Brasil espera que possamos recuperar o mais brevemente possível um ambiente de previsibilidade e de harmonia no comércio internacional, que garanta aos países bases suficientemente sólidas para formular políticas e às empresas um ambiente saudável para tomar decisões de investimento. Nossa visão também – e nisso coincidimos substantivamente com a visão chinesa – é de que a comunidade internacional precisa saber preservar o valor e o papel das instâncias multilaterais. Parece banal dizê-lo, mas não há alternativa possível ao multilateralismo, ao diálogo e a entendimentos que levem em conta a pluralidade e diversidade das nações.",
+                "Quero concluir sublinhando que nossa relação com a China é excelente e continua a oferecer espaços para ampliação, inovação e criatividade. Espero que deste seminário possam sair ideias, comentários e propostas que nos permitam abrir novas portas."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

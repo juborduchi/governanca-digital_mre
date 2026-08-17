@@ -1,0 +1,130 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do presidente da República, Michel Temer, durante cerimônia do Dia Internacional em Memória das Vítimas do Holocausto – São Paulo, 29 de janeiro de 2017",
+            "subtitulo": "NA",
+            "data": "30/01/2017",
+            "horario": "00h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-cerimonia-do-dia-internacional-em-memoria-das-vitimas-do-holocausto-sao-paulo-29-de-janeiro-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Eu quero pedir licença ao governador, ao prefeito, a Dom Odilo (...), aos ministros, autoridades religiosas, autoridades diplomáticas, presidente da Assembleia. Quero pedir licença para saudar a todos na pessoa dos sobreviventes. Eles é que merecem na verdade a nossa saudação inicial e a nossa homenagem. Eu quero dizer também, eu não quero ser repetitivo, na verdade se eu aqui me manifestasse por escrito ou dissesse palavras referentes esta solenidade, eu iria reprisar aquelas palavras que tão adequadamente foram ditas pelos oradores que me antecederam.",
+                "Eu, portanto não quero ser pretencioso, mas quero referendar e secundar todas as palavras, senhora ministra, que foram aqui mencionadas. Portanto, muito rapidamente, o que eu pretendo é, na verdade, dizer o que se passou na minha mente, no meu espírito, no meu raciocínio, ao longo dessa solenidade.",
+                "E de logo, me pareceu que este era um ato religioso. Religioso no seu sentido vocabular. O religião que vem do latim, religo, religare, exatamente o que acontece aqui. Nós estamos fazendo uma religação entre pessoas e entre o passado e o futuro. Porque recordar o Holocausto, relembrá-lo na sua dor, em toda angústia, é preparar o futuro. Em outras palavras, é o que foi dito aqui. É importantíssimo que nós tenhamos sempre essa ideia.",
+                "E quando eu verificava as senhoras e senhores sobreviventes, me passava pela mente a dor que eles devem ter sentido no momento em que sofreram as aguras daquelas prisões cruéis, do tempo do nazismo. Imaginei eu, quantas e quantas recordações estes que aqui acenderam as velas como sobreviventes, trazem no seu peito, no seu coração, no seu espírito, e que serve para nós todos como lição. Lição que aqui foram expendidas. Lições que dizem o seguinte: Olha aqui, nós temos que relembrar permanentemente o Holocausto. Portanto, passe um dia, passe um meses, passem anos ou passem séculos, nós deveremos sempre de recordá-lo. Porque é uma lição para o futuro e uma lição para o presente.",
+                "Quantas e quantas palavras foram ditas aqui, para revelar a intolerância que existe no mundo, não é? E eu estou repetindo a palavra, para que este ato que está sendo naturalmente registrado pela imprensa, possa percorrer todos os cantos e recantos no nosso País e quem sabe, possa atingir o exterior, na medida em que este momento, é o momento da revelação da tolerância, da temperança. Daquilo que deve, na verdade, unir e reunificar as pessoas.",
+                "Por isso que eu, saí hoje de Brasília com esta sensação, digamos, espiritual, com essa sensação que não passava pela minha mente, mas passava pelo meu coração, e que foi confirmado aqui, pela voz e pelas canções que acabamos de ouvir. Eu percebia a maviosidade daqueles que se expressavam. Eu percebia que as palavras ditas, não nasciam da mente, mas nasciam do coração. E isto é exata e precisamente o sentimento judaico. Essa aliança extraordinária que a nação judaica tem entre si, em todas as comunidades do mundo deve servir de exemplo para nós brasileiros e para todas as nações do mundo.",
+                "Por isso que eu agradeço, imensamente a Deus, por ter feito que eu saísse de Brasília para vir aqui, dizer como todos disseram: \"Shalom\"."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Declaração à imprensa do presidente da República, Michel Temer, aos jornalistas em Portugal",
+            "subtitulo": "Lisboa-Portugal, 10 de janeiro de 2017",
+            "data": "10/01/2017",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "15h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/declaracao-a-imprensa-do-presidente-da-republica-michel-temer-aos-jornalistas-em-portugal",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Quero dizer, transmitir ao presidente Marcelo Rebelo de Sousa as condolências não só do governo brasileiro, mas de  todo o povo do Brasil. E, tendo em vista, em primeiro lugar, as relações muito sólidas entre Brasil e Portugal.",
+                "E salientando, especialmente, que esta conjugação histórica entre Brasil e Portugal, que vem de naturalmente de há muito tempo, foi reforçada no período em que sua Excelência, o ex-presidente, ex-ministro, ex-parlamentar, Mário Soares, intensificou enormemente as relações com o nosso país. Tanto que fez as mais variadas amizades, até pessoais com presidentes do Brasil.",
+                "Acompanha-me o presidente José Sarney, que tornou-se seu grande amigo. Como também trago as condolências do presidente Fernando Henrique, que era grande amigo dele, com quem chegou até a publicar um livro: \"Os diálogos entre Mário Soares e Fernando Henrique Cardoso\".",
+                "Então, ao trazer as condolências do povo brasileiro, este nosso gesto serve mais uma vez para reforçar a ligação entre Brasil e Portugal enaltecida ao longo do tempo pela figura exponencial, mais do que portuguesa internacional, do grande português Mário Soares.",
+                "Muito obrigado a vocês."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

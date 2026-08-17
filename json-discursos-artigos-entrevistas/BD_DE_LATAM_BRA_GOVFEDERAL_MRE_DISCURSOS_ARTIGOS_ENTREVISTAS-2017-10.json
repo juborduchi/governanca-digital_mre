@@ -1,0 +1,357 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Riqueza ambiental (Folha de São Paulo, 23/10/2017)",
+            "subtitulo": "NA",
+            "data": "23/10/2017",
+            "horario": "11h37",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-artigos/michel-miguel-elias-temer-lulia-2016-2018/riqueza-ambiental-folha-de-sao-paulo-23-10-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Assinei no último fim de semana, durante visita ao nosso belíssimo Pantanal, patrimônio nacional e da humanidade, a maior e mais inovadora iniciativa ambiental do governo -a conversão de multas na preservação da natureza.",
+                "No curto prazo, cerca de R$ 4,5 bilhões devidos aos cofres públicos poderão ser diretamente aplicados em ações efetivas de recuperação ambiental.",
+                "Tal volume de recursos, que não dependerá do Tesouro Nacional, é uma verdadeira revolução para o setor. Hoje, a maior parte das multas não é paga, sendo alvo de litígio durante anos nos tribunais.",
+                "Agora, mediante desconto e sob critérios do Ministério do Meio Ambiente e do Ibama (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis), as multas se transformarão em investimentos ecológicos em todo o país.",
+                "Já temos parceiros —a começar por órgãos públicos e estatais— interessados em aplicar cerca de R$ 1 bilhão em projetos nas bacias do São Francisco, Iguaçu e Alto Paraguai.",
+                "Além de proteger as nascentes e os cursos d' água, essa primeira iniciativa vai garantir ocupação e renda para as populações ribeirinhas -engajadas em programas de reflorestamento de matas ciliares com o sugestivo nome de \"Plantadores de Rios\".",
+                "Como nos demais setores, também no meio ambiente adotamos ao longo desses 16 meses de governo um conjunto de medidas modernizantes, sempre em diálogo com a sociedade, governos locais e organismos internacionais.",
+                "Também acabei de editar uma medida provisória que cria um fundo com recursos de compensação ambiental (devidos pelas obras de infraestrutura que impactam a natureza), a ser administrado pelo Instituto Chico Mendes.",
+                "A nossa lista de realizações é extensa. Ampliamos áreas de reservas e parques nacionais, fechamos Candiota (RS), a maior termelétrica a carvão do país, ao mesmo tempo em que incentivamos a produção de energia limpa; exigimos a reparação dos danos do desastre de 2015 em Mariana (MG), e investimos mais de R$ 50 milhões em ações de controle na Amazônia.",
+                "Como reflexo disso, também na semana passada, anunciamos, com base no monitoramento oficial por satélites, a redução de 16%, em relação a 2016, do desmatamento da floresta amazônica. Foi a primeira vez em cinco anos que revertemos essa curva. As ações de conservação da Amazônia e a participação da população local no processo de valorizar a \"floresta em pé\", como costuma dizer o ministro Sarney Filho, serão apresentadas pelo Brasil na próxima Conferência das Partes (COP 23) sobre mudança do clima, marcada para novembro, em Bonn, na Alemanha.",
+                "Estamos honrando os compromissos firmados no Acordo de Paris, cujas metas são observadas em nossas políticas públicas.",
+                "É isso que nos garantirá, como destacado neste encontro de autoridades e ambientalistas do qual participei em Miranda (MS), investimentos bilionários do Fundo Global para o Meio Ambiente não só no bioma do Pantanal, mas também da Caatinga e do Pampa.",
+                "O potencial ambiental do Brasil é inegável e precisa ser sustentavelmente manejado.",
+                "Conscientes disso, acabamos também de sancionar um projeto de lei, originário do Legislativo, que criou o Produto Interno Verde (PIV).",
+                "Agora, nós poderemos calcular e dimensionar, frente aos demais países, o nosso patrimônio ecológico. Uma riqueza que certamente nos destacará —e que é vital não só para nós, mas também para o futuro do planeta.",
+                "MICHEL TEMER é presidente da República. Foi vice-presidente (governo Dilma) e ocupou por três vezes a presidência da Câmara dos Deputados"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Mercosul: mais comércio, menos barreiras (El Cronista - Argentina, 25/10/2017) [Espanhol]",
+            "subtitulo": "NA",
+            "data": "25/10/2017",
+            "horario": "12h41",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h51"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/mercosul-mais-comercio-menos-barreiras-el-cronista-argentina-25-10-2017-espanhol",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Mercosur: más comercio, menos barreras",
+                "por Aloysio Nunes Ferreira, Ministro de Relaciones Exteriores de Brasil",
+                "El Mercosur pasa por una refundación que busca transformar a Sudamérica en una amplia área de libre comercio. Hoy ya existen resultados concretos para presentar.",
+                "Primero, en un ejercicio inédito, los países del bloque identificaron 78 trabas internas, 57 de las cuales fueron eliminadas durante el último año. Entre las principales medidas están la retomada de la importación de cítricos argentinos por Brasil y la reapertura del mercado argentino para la carne bovina brasileña. Durante la presidencia pro tempore brasileña, se están tratando las 21 medidas remanentes.",
+                "En segundo lugar, trabajamos para evitar el surgimiento de nuevas barreras. Para ello, se presentaron propuestas para agilizar las cuestiones regulatorias, de manera que reglamentos técnicos, sanitarios y fitosanitarios no dificulten el comercio. Un paso importante es concluir la modernización de los procesos y normas de elaboración de reglamentos del bloque.",
+                "Brasil propuso un proyecto sobre Iniciativas Facilitadoras de Comercio del Mercosur. La próxima etapa será discutir un protocolo sobre la coherencia regulatoria del bloque.",
+                "Un tercer ejemplo es la reanudación de las negociaciones externas. En este momento estoy fuertemente empeñado, junto con los demás cancilleres del Mercosur, en concluir un acuerdo con la Unión Europea (UE), en profundizar los lazos con la Alianza del Pacífico y en avanzar en nuevos frentes de negociación. Recordemos que, gracias a los acuerdos celebrados por el bloque, Sudamérica se tornará hasta 2019 un área de libre comercio, con la supresión de casi todas las barreras tarifarias. El Mercosur firmó en julio un acuerdo con Colombia para ampliar la liberalización del comercio del 84% al 97% de la pauta. La presidencia pro tempore brasileña trabaja actualmente por un entendimiento con México, el único país de la Alianza del Pacífico con el cual no hay acuerdo de libre comercio.",
+                "El cuarto ejemplo es el rescate de la agenda original del bloque. En abril de este año se firmó el Protocolo de Cooperación y Facilitación de Inversiones, que brinda a los inversores del Mercosur garantías de que tendrán el mismo tratamiento de los inversores nacionales. También retomamos las negociaciones del Protocolo de Contrataciones Públicas.",
+                "Hay otros temas relevantes que deben ser retomados: el debate sobre comercio electrónico (paralizado desde 2010); la nueva ronda negociadora de comercio de servicios (que no ocurre desde 2009); la negociación de un acuerdo sobre la protección de indicaciones geográficas; reactivación de la comisión de Pymes; y la elaboración de un Código del Consumidor del Mercosur.",
+                "El momento es de coincidencia entre los fundadores del bloque, permitiendo que los temas sean tratados sin tabúes, respetando las posiciones de cada país, pero siempre con un objetivo común: el avance del Mercosur. En ese sentido, Brasil no eludirá abordar con sus socios cuestiones como la plena inclusión de los sectores automotriz y azucarero en las disciplinas del bloque.",
+                "Con esos esfuerzos, el Mercosur retomará su papel preponderante en las estrategias nacionales de desarrollo económico e inserción internacional."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "A diplomacia do biofuturo (O Estado de S. Paulo, 23/10/2017)",
+            "subtitulo": "NA",
+            "data": "23/10/2017",
+            "horario": "11h53",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/a-diplomacia-do-biofuturo-o-estado-de-s-paulo-23-10-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Até 2030 a bioenergia precisará ter sua participação duplicada na matriz energética global e seu uso triplicado nos meios de transportes. Projeções elaboradas pela Agência Internacional de Energia Renovável e pela Agência Internacional de Energia indicam que ela será necessária em larga escala, mesmo considerando outras soluções concomitantes, como eficiência energética, energia solar e eólica, eletrificação dos transportes, cidades sustentáveis e maior uso do transporte público.",
+                "O setor de transportes – responsável por cerca de um quarto das emissões globais de dióxido de carbono (CO2) – figura entre os principais desafios para a construção de matriz energética mais sustentável nas próximas décadas. E uma das soluções mais eficazes e de mais rápida implementação para esse setor é a ampliação do uso de biocombustíveis, que produz resultados imediatos na redução da emissão de gases de efeito estufa mesmo em mistura parcial com combustíveis fósseis.",
+                "Obstáculos políticos e econômicos, porém, têm dificultado a transição para economia mais limpa no que diz respeito à bioenergia. A difusão de falsa dicotomia entre produção de alimentos e de combustíveis – além da insistente prática do protecionismo agrícola – tem impedido a constituição de mercado internacional para biocombustíveis e sua transformação em commodity global.",
+                "A revolução tecnológica que está em curso poderá mudar substancialmente esse panorama. O caso do etanol celulósico ou de segunda geração (E2G) é bom exemplo, já alcançando o estágio de produção em escala comercial no Brasil, nos Estados Unidos e na Itália. Outras tecnologias promissoras começam também a deixar os laboratórios e a atingir escalas de demonstração. O País está na vanguarda da inovação tecnológica na produção de combustível limpo e ambientalmente prudente, fato que contribui para liderança em desenvolvimento sustentável.",
+                "A segunda geração de biocombustíveis utiliza como insumo a celulose, a matéria verde que compõe a maior parte da biomassa das plantas. Avanços no uso da celulose podem tornar viável a produção de biocombustíveis em larga escala em diversos países que, de outra forma, não reuniriam as condições para replicar a bem-sucedida experiência brasileira com o etanol de cana-de-açúcar. O aproveitamento da celulose, sem prejuízo de outras formas de biotecnologia, é essencial para o desenvolvimento da bioeconomia, seja como alternativa, seja como complemento da indústria petroquímica na produção de plásticos, químicos e medicamentos.",
+                "Subsiste o desafio de alcançar escala de produção. Será preciso aperfeiçoar os processos em todas as etapas da cadeia produtiva e proporcionar ambiente de negócios favorável ao setor. Nessa nascente corrida tecnológico-industrial, o Brasil pode largar entre os líderes mundiais, desde que decisões corretas sejam tomadas.",
+                "É importante esclarecer que não há conflito de interesses ou concorrência entre a primeira e a segunda geração de biocombustíveis. O etanol de cana- de-açúcar, de primeira geração, é sustentável, não compete com alimentos e traz benefícios climáticos e ambientais. Essa fase continuará como base da produção no setor, com eficiência incrementada pela segunda geração. O desenvolvimento de uma avançada bioeconomia global, que se fortalece com biocombustíveis de segunda geração e bioprodutos, será de grande benefício para o País, que reúne as condições para ser um dos mais competitivos produtores mundiais.",
+                "O Itamaraty, em coordenação com outras áreas do governo e com o setor privado, tem liderado o esforço de disseminação global da bioeconomia de baixo carbono. Exemplo disso, foi lançada em novembro de 2016 a Plataforma para o Biofuturo, iniciativa multilateral que pretende acelerar o reconhecimento do papel dos biocombustíveis de baixo carbono e da bioeconomia na transição energética global. O Brasil conseguiu mobilizar outros 19 países, incluídas as maiores economias do planeta e paíseschave para a expansão dos biocombustíveis, como Estados Unidos, China, França, Índia, Reino Unido, Indonésia, Itália e Argentina, para avançar nesse empreendimento.",
+                "O Brasil tem muito orgulho de coordenar a Plataforma para o Biofuturo, com apoio de seus parceiros internacionais. Esse mandato está sendo implementado por meio da negociação de uma Declaração de Visão, que deverá emitir forte sinal para o mercado sobre o papel relevante da bioeconomia nas próximas décadas, da construção de diagnóstico pormenorizado sobre o estado global dessa bioeconomia e da organização de conferências internacionais para troca de experiências e convergência de políticas. Por essa razão São Paulo sediará nos próximos dias 24 e 25 a primeira Cúpula para o Biofuturo (Biofuture Summit).",
+                "A Plataforma para o Biofuturo já tem correspondente doméstico em gestação, na forma do programa RenovaBio, que pretende reformular as políticas nacionais de biocombustíveis, com foco na redução de emissões e no estímulo à inovação e à eficiência energética.",
+                "Levar adiante essa agenda, simultaneamente nos planos interno e externo, deverá impulsionar o desenvolvimento de nossos setores agrícola, industrial e biotecnológico. A Plataforma afirmará também a posição de vanguarda do Brasil em energia limpa, com efetiva contribuição do País à construção de economia global social e ambientalmente sustentável, em consonância com os objetivos da Conferência de Paris.",
+                "O Acordo de Paris representou um marco na evolução da consciência global em favor da promoção do desenvolvimento sustentável e da economia de baixo carbono. Sem a utilização em larga escala da bioenergia não será possível atingir as metas de Paris, vitais para a humanidade, e a Plataforma representa um importante passo nessa direção.",
+                "ALOYSIO NUNES FERREIRA, Ministro das Relações Exteriores, é senador licenciado (PSDB-SP)"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Brasil e África, parceria natural (Folha de S. Paulo, 11/10/2017)",
+            "subtitulo": "NA",
+            "data": "11/10/2017",
+            "horario": "12h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/brasil-e-africa-parceria-natural-folha-de-s-paulo-11-10-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "As relações com a África constituem prioridade permanente da política externa brasileira. Cinco meses após ter visitado África do Sul, Botsuana, Maláui, Moçambique, Namíbia e São Tomé e Príncipe, realizarei novo périplo pelo continente, visitando, entre 11 e 16 deste mês, outros importantes parceiros do Brasil: Gana, Nigéria, Costa do Marfim e Benin.",
+                "Além disso, participarei de reunião da OMC (Organização Mundial do Comércio) no Marrocos e de reunião ministerial do fórum Ibas (Índia, Brasil e África do Sul) na África do Sul. Em julho, durante a presidência pro-tempore da CPLP (Comunidade dos Países de Língua Portuguesa), organizamos reunião ministerial em Brasília, quando me reuni com representantes de seis países africanos.",
+                "Além dos profundos laços humanos e culturais que nos unem, desejamos continuar a aprofundar nosso relacionamento comercial. No momento em que nossa economia dá sinais de recuperação, meu segundo périplo africano inscreve-se no esforço de ampliar o diálogo político e comercial com países de grande potencial, de modo a contribuir para o processo de retomada do crescimento.",
+                "O Brasil precisa consolidar sua presença no continente africano com visão estratégica, apostando no dinamismo crescente da região como parceiro prioritário na busca da prosperidade e do desenvolvimento.",
+                "Com taxas de crescimento econômico acima da média global, a África constitui um mercado que não pode ser ignorado, não apenas por sua relevância presente, mas por seu potencial futuro. O continente conta atualmente com 1,2 bilhão de consumidores, dos quais 350 milhões já integram a classe média. Em 2050, o mercado africano terá 2,5 bilhões de pessoas.",
+                "A média de crescimento do PIB africano entre 2008 e 2016 foi de 4%, e a perspectiva continua a ser de forte desempenho nas próximas décadas. As exportações brasileiras para a África somaram US$ 7,83 bilhões em 2016, em sua maior parte compostas por manufaturados (40,9%) e semimanufaturados (30%). A corrente total de comércio alcançou US$ 12,43 bilhões, com superávit em favor do Brasil de US$ 3,23 bilhões.",
+                "Muitas empresas brasileiras investem hoje em países africanos, mas creio que podemos fazer mais. Na viagem de maio, participei de seminários empresariais em Moçambique e na África do Sul. Em agosto, foram realizados seminários em Gana e na Nigéria.",
+                "Tanto a África quanto o Brasil têm grande contribuição a dar e muito a aprender por meio da cooperação técnica para o desenvolvimento.",
+                "A cooperação técnica Sul-Sul representa uma estrada de duas vias, com potencial de fomentar o desenvolvimento sustentável de nossas sociedades. O projeto \"Cotton 4+Togo\", de cooperação na área de cultivo de algodão com países da África Ocidental, constitui um bom exemplo: ao contribuir para o aumento da produção de algodão africano, o Brasil também se beneficia, por meio do acesso a novos cultivares e da troca de experiências com agências governamentais e produtores africanos.",
+                "Durante minha visita, pretendo encorajar esse diálogo também em outras áreas em que o Brasil possui reconhecimento internacional, como na de políticas sociais, de modo a ampliar nossa agenda de intercâmbio de conhecimento e de melhores práticas.",
+                "A parceria entre o Brasil e a África deve ser semeada e nutrida. As bases de um relacionamento amplo, intenso e equilibrado são construídas a partir da diplomacia, do diálogo, e da aproximação entre sociedades, governos e empresários, seja em Brasília, nas capitais africanas ou em organismos multilaterais.",
+                "Tenciono contribuir para o aprofundamento desse processo nesta minha viagem. É assim que continuaremos avançando no estreitamento das margens do \"rio chamado Atlântico\" —na icônica imagem do africanista, acadêmico e diplomata Alberto da Costa e Silva—, gerando benefícios concretos para o Brasil e para a África, bem como para o restante da comunidade internacional.",
+                "ALOYSIO NUNES FERREIRA (PSDB-SP) é ministro das Relações Exteriores"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Mercosul: mais comércio, menos barreiras (O Estado de S. Paulo, 7/10/2017)",
+            "subtitulo": "NA",
+            "data": "07/10/2017",
+            "horario": "13h01",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/mercosul-mais-comercio-menos-barreiras-o-estado-de-s-paulo-7-10-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Graças à nova convergência de visões entre os sócios-fundadores, o Mercosul passa por uma refundação. Um de seus aspectos notáveis é a derrubada de barreiras que travam o comércio dentro do bloco e impedem o acesso de nossos produtos a outros mercados do planeta. Essa remodelação pretende transformar a América do Sul numa ampla área de livre-comércio.",
+                "Hoje já há resultados concretos para apresentar. Cito quatro exemplos.",
+                "Primeiro, num exercício conjunto inédito, por meio do Plano de Ação para o Fortalecimento do Mercosul Comercial e Econômico, os países do bloco identificaram 78 entraves internos. Desse total, 57 (ou 73%) já foram derrubados e receberam tratamento satisfatório no último ano. Entre as principais medidas já superadas estão as restrições na importação pelo Brasil de cítricos argentinos e o anúncio do país vizinho à reabertura de seu mercado para a carne bovina brasileira.",
+                "Quero, durante a presidência pro tempore, dar continuidade ao tratamento das 21 medidas remanescentes. O caminho trilhado, agora, está na contramão do passado recente, em que obstáculos ao comércio eram criados e se acumulavam, sem nenhum tipo de encaminhamento satisfatório.",
+                "Em segundo lugar, o Brasil tem trabalhado para adotar mecanismos que evitem o surgimento de novas barreiras. Para isso, foi apresentado neste ano um conjunto de propostas para dar agilidade às questões regulatórias, de forma a impedir que regulamentos técnicos, sanitários e fitossanitários sejam pretextos para dificultar o comércio.",
+                "Um passo importante é concluir a modernização dos processos e da norma que dispõe sobre a elaboração e revisão de regulamentos do bloco. Para tanto, o Brasil propôs um projeto sobre Iniciativas Facilitadoras de Comércio do Mercosul. Essas ações constituem medidas complementares de cunho voluntário, cooperativo, flexível e interinstitucional em matéria regulatória. A próxima etapa será a de promover discussões sobre um protocolo acerca da coerência e boas práticas regulatórias dentro do Mercosul.",
+                "Um terceiro exemplo é a plena retomada da agenda de negociações externas. Há dez anos atrasadas, as negociações foram contaminadas por considerações de cunho ideológico. Neste momento, estou fortemente empenhado, junto com os demais chanceleres das nações fundadoras, em concluir um acordo com a União Europeia, em aprofundar os laços com a Aliança do Pacífico e em avançar em novas frentes negociadoras com países desenvolvidos e em desenvolvimento de diferentes regiões do planeta. Isso ajudará a aumentar a produtividade da economia brasileira e trará novas oportunidades de acesso a outros mercados.",
+                "Vale lembrar que, graças aos acordos celebrados pelo bloco com outros países vizinhos, a América do Sul se tornará até 2019, como mencionei anteriormente, uma ampla área de livre-comércio, com a supressão de praticamente a totalidade das barreiras tarifárias à entrada de nossos produtos nos mercados da região. Em julho, o Mercosul assinou novo acordo com a Colômbia para ampliar a liberalização do comércio de 84% para 97% da pauta tarifária. A presidência brasileira pro tempore trabalha atualmente por um novo entendimento com o México, o único país da Aliança do Pacífico com o qual ainda não há acordo de livre-comércio.",
+                "O quarto exemplo é o resgate de temas da agenda original do bloco que estavam paralisados. Em abril deste ano foi assinado o Protocolo de Cooperação e Facilitação de Investimentos, que propicia aos investidores nos demais países do Mercosul garantias legais de que seus investimentos terão o mesmo tratamento dispensado aos investidores nacionais.",
+                "Também foram retomadas as negociações do Protocolo de Contratações Públicas, que deve ser concluído até o fim de 2017 e contribuirá para criar mais oportunidades de negócio para as empresas de nossos países. No âmbito do protocolo, cada país integrante do Mercosul propõe o escopo da sua abertura de mercado, as entidades públicas que participarão do arranjo e os bens e serviços eventualmente excluídos, iniciativa inédita no âmbito do bloco. Para 2018 está prevista, por sua vez, a conclusão de mecanismo de proteção mútua de indicações geográficas.",
+                "Na pauta. Há outras matérias relevantes para a integração econômico-comercial que, na avaliação da presidência brasileira, devem ser retomadas: o debate sobre comércio eletrônico (que não ocorre desde 2010); nova rodada negociadora do comércio de serviços (que não ocorre desde 2009); a negociação de um acordo sobre a proteção recíproca de indicações geográficas; a reativação da comissão de micro, pequenas e médias empresas; e ações na área de defesa do consumidor, como a elaboração de um Código do Consumidor do Mercosul.",
+                "Todas essas matérias, relegadas a um segundo plano no passado recente, trarão, no curto e no médio prazos, resultados positivos para os cidadãos e agentes econômicos dos países-membros do bloco.",
+                "O momento atual do bloco é de coincidência de objetivos entre os países fundadores, permitindo que todos os temas sejam tratados sem tabus nem preconceitos, respeitando as posições e os limites de cada país, mas sempre em busca de um objetivo comum: o avanço do Mercosul. É nesse sentido que o Brasil não se furtará a abordar com seus sócios-fundadores questões estruturais, como a plena inclusão dos setores automotivo e açucareiro nas disciplinas do bloco. Com a continuidade dos esforços, o bloco seguramente retomará seu papel preponderante nas estratégias nacionais de desenvolvimento econômico e inserção internacional.",
+                "O Mercosul tem sido, e continuará a ser, formidável instrumento para a defesa da democracia, da estabilidade política e do progresso de nossa região.",
+                "ALOYSIO NUNES FERREIRA, MINISTRO DAS RELAÇÕES EXTERIORES, É SENADOR LICENCIADO PELO PSDB (SP)"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

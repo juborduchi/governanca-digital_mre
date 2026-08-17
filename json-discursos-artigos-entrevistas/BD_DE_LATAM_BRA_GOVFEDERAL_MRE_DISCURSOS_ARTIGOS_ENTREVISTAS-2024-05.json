@@ -1,0 +1,792 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na abertura do Seminário “Encontros: 200 anos de amizade Brasil-EUA” - Brasília, 28 de maio de 2024",
+            "subtitulo": "NA",
+            "data": "28/05/2024",
+            "horario": "12h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "28/05/2024"
+            ],
+            "horario_atualizado": [
+                "12h11"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-abertura-do-seminario-201cencontros-200-anos-de-amizade-brasil-eua201d-brasilia-28-de-maio-de-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Senhora Secretária-Geral das Relações Exteriores, Embaixadora Maria Laura da Rocha,",
+                "Senhora Embaixadora Maria Luisa Escorel de Moraes, Secretária de Europa e América do Norte,",
+                "Senhora Embaixadora Maria Luíza Viotti, Embaixadora do Brasil em Washington,",
+                "Senhor Embaixadora Elizabeth Bagley, Embaizadora dos Estados Unidos em Brasília,",
+                "Senhor Abrão Neto, Presidente da Câmara de Comércio Americana para o Brasil – a Amcham Brasil,",
+                "Senhora Celita Procópio de Carvalho, Presidente do Conselho de Curadores da Fundação Armando Álvares Penteado,",
+                "Senhora Pilar Procópio de Carvalho Guillon Liotti, Conselheira do Museu de Arte Brasileira,",
+                "Senhoras e senhores membros do corpo diplomático,",
+                "Senhoras e senhores,",
+                "Em primeiro lugar, queria aqui solicitar a indulgência dos senhores e das senhoras para estender uma homenagem pessoal ao Embaixador Rubens Ricupero, que nos honra aqui com sua presença neste evento.",
+                "Desnecessário enumerar as diversas altas funções que o Embaixador ocupou em sua destacada carreira, tendo sido, além de Ministro da Fazenda e Ministro do Meio Ambiente, também Secretário-Geral da UNCTAD.",
+                "Hoje a função que me cabe destacar é a de Embaixador do Brasil em Washington, sendo um dos antecessores da Embaixadora Maria Luíza Viotti no posto. Foi também Embaixador do Brasil em Roma e Representante Permanente junto às Nações Unidas em Genebra.",
+                "O Embaixador Ricupero segue sendo – e, arrisco dizer, para sempre será – uma referência intelectual indispensável para os integrantes desta Casa.",
+                "Não podemos jamais esquecer que, nos dias sombrios recentemente atravessados, o Embaixador ofereceu luzes onde naquele momento prosperava o obscurantismo, chegando mesmo a emprestar seu nome a um grupo de expoentes da política externa brasileira que cobrou respeito às tradições da nossa diplomacia.",
+                "Tive alegria ao saber, ontem, que sua “magnum opus”, o livro “A diplomacia na construção do Brasil”, verdadeira carta náutica para os estudiosos da política externa brasileira, está em processo de tradução para o inglês.",
+                "Tal edição fraqueará acesso à riqueza de conhecimento ali contido para um público mais amplo, inclusive nos Estados Unidos, que poderá adquirir uma compreensão mais profunda a respeito da inserção internacional do Brasil e do papel que o País pode desempenhar no mundo.",
+                "Senhoras e senhores,",
+                "Há duzentos anos, José Silvestre Rebello entregava suas cartas credenciais ao Presidente James Monroe, em Washington. Naquele momento, passou a ser formalmente reconhecido como Encarregado de Negócios do Brasil nos Estados Unidos da América, tendo sido um pouco depois o primeiro ministro plenipotenciário do Brasil em Washington.",
+                "Mais importante: por meio daquele ato, o governo norte-americano reconheceu formalmente a Independência do Brasil, conquistada pela luta de brasileiros e brasileiras. Os Estados Unidos figuram, dessa forma, entre os primeiros países a fazê-lo.",
+                "O episódio marcou uma das primeiras vitórias da diplomacia brasileira, no que foi a sua pioneira grande tarefa: assegurar a aceitação do país no concerto das nações.",
+                "O Secretário de Estado dos Negócios Estrangeiros do Império, Luiz José de Carvalho e Mello – primeiro Visconde da Cachoeira – comemorou não só o reconhecimento em si, mas também a força que ele emprestava às nossas negociações com os países europeus.",
+                "Quis o destino que uma de nossas amizades mais longevas viesse a se tornar, também, uma das mais importantes e sólidas. Hoje nos reunimos para celebrar tudo o que o Brasil e os Estados Unidos construíram juntos desde aquele memorioso dia de 26 de maio de 1824.",
+                "Reconhecida ao Brasil a condição de Estado independente, a relação bilateral passou a envolver interesses econômicos cada vez mais intensos, com a consolidação dos Estados Unidos como grande parceiro comercial.",
+                "Os dois países também desempenharam papel importante, por exemplo, no desenvolvimento do movimento pan-americanista – que estaria na origem da Organização dos Estados Americanos, a OEA.",
+                "Outro momento simbólico na evolução da nossa parceria deu-se no início do século XX, durante a gestão do Barão do Rio Branco à frente do Itamaraty.",
+                "O patrono da nossa diplomacia entendeu que cabia ao Brasil, naquela altura, “entrar resolutamente na esfera das grandes amizades internacionais”, como escreveu em artigo de imprensa.",
+                "Para o Barão, não havia dúvida de que uma das principais “grandes amizades” haveria de ser justamente com os Estados Unidos.",
+                "A decisão de estreitamento das relações com Washington esteve baseada em convergência de valores, mas sobretudo em considerações de natureza realista e pragmática.",
+                "Apesar da evidente inspiração que os Estados Unidos representavam para a nascente República brasileira nos primeiros anos do século XX, as decisões de Rio Branco estiveram assentadas, em primeiro lugar, em considerações do interesse nacional brasileiro, e não apenas em afinidades ou simpatias.",
+                "Em 1916, os EUA ultrapassariam a Europa como principal parceiro do Brasil no comércio de bens, posto que ocupariam por quase cem anos, até 2009, quando aquela posição passou a ser ocupada pela República Popular da China.",
+                "Teve início a chegada de empresas norte-americanas ao Brasil, as quais viriam a prestar contribuição importante ao nosso desenvolvimento industrial nas décadas subsequentes.",
+                "Os Estados Unidos seguem sendo a principal fonte de investimentos externos diretos na economia brasileira; e o Brasil também se tornou um importante investidor no mercado norte-americano, gerando um estoque não-desprezível de empregos naquele país.",
+                "Duzentos anos depois, não podemos perder de vista as lições que aprendemos juntos e as transformações que testemunhamos em nossa caminhada.",
+                "Brasil e Estados Unidos lutariam ainda, lado a lado, contra o nazifascismo na Segunda Guerra Mundial.",
+                "O Brasil foi, aliás, o único país da América Latina e Caribe a enviar tropas para o esforço de guerra no continente europeu.",
+                "Ao final da Guerra, estivemos juntos também nos esforços de construção de uma nova ordem internacional baseada no Direito Internacional, no multilateralismo e na igualdade soberana entre os Estados, de que a criação das Nações Unidas foi o exemplo mais bem acabado.",
+                "Senhoras e senhores,",
+                "Não pretendo alongar-me em divagações históricas, mas penso que essas referências iniciais nos ajudam a entender a amizade Brasil-Estados Unidos e seu sentido no presente e no futuro.",
+                "Por um lado, a memória desses duzentos anos aponta para a relevância e a abrangência das nossas relações; por outro, nos relembra a importância de que sua condução seja feita de maneira sóbria e desassombrada, com ambos os países orientados pela consecução de seus interesses nacionais e dos valores que compartilhamos, em busca de convergências e consensos que beneficiem ambas as sociedades.",
+                "Em cada um dos grandes temas que afetam a comunidade internacional – para não dizer o conjunto da humanidade –, Brasil e Estados Unidos têm suas posições, que frequentemente, mas não necessariamente, coincidem, cada quais fundadas em leituras próprias dos respectivos interesses nacionais.",
+                "Quando nos encontramos em lados distintos de um argumento, o importante é que, como dois países amigos, mantenhamos abertos os canais de diálogo, para que os pontos de vistas possam ser comparados e contrastados no espírito de encaminhar objetivamente os problemas.",
+                "Países de dimensões continentais, com amplas riquezas naturais, somos democracias multiétnicas, que aprenderam a acolher povos de outras regiões e culturas.",
+                "Enfrentamos desafios compartilhados, da promoção da igualdade racial ao combate à mudança do clima.",
+                "Nossos governos são ambos comprometidos em fazer com que a necessária descarbonização de nossas economias seja acompanhada de oportunidades econômicas e geração de emprego e de renda, inclusive em benefício dos mais necessitados.",
+                "No plano bilateral, temos trabalhado para buscar sinergias entre nossas políticas públicas e nossos objetivos de política interna e externa.",
+                "A visita do Presidente Lula a Washington, em fevereiro de 2023, com cerca de 40 dias no cargo, em atendimento ao convite do Presidente Joe Biden, inscreveu-se na longeva tradição de visita de Chefes de Estado brasileiros à capital norte-americana, muitas vezes em reciprocidade às visitas de presidentes dos Estados Unidos ao Brasil: são catorze visitas de dez ocupantes da Casa Branca, desde que Herbert Hoover visitou o Rio de Janeiro em 1928.",
+                "Em setembro passado, por exemplo, o Presidente Lula e o Presidente Biden encontraram-se em Nova York e lançaram uma Parceria pelos Direitos dos Trabalhadores e Trabalhadoras, um tema historicamente caro a ambos.",
+                "A Parceria cobre também temas tradicionais, como o combate ao trabalho forçado e ao trabalho infantil e da discriminação no local do trabalho.",
+                "Mas vai além: trata, também, de tópicos que dialogam diretamente com os novos desafios inerentes à economia do século XXI.",
+                "Reflete, nesse sentido, o entendimento de que a transição digital e a transformação ecológica devem trazer benefícios e gerar oportunidades, inclusive empregos de qualidade, para todas e todos.",
+                "Somos atores de primeira grandeza em agendas internacionais como a produção de alimentos, o combate à mudança do clima e a geração de energia limpa.",
+                "Seguimos empenhados em desenvolver iniciativas que possam explorar esse grande potencial de ação conjunta entre Brasil e Estados Unidos.",
+                "Na área de energia limpa, por exemplo, assinamos, ainda em 2007, um memorando de entendimento para avançar a cooperação em biocombustíveis.",
+                "Dezesseis anos depois, na Cúpula do G20 em Nova Délhi, lançamos a Aliança Global para Biocombustíveis, ao lado de outros parceiros. Possibilidades para aprofundar nossa cooperação nessa área continuam na ordem do dia.",
+                "Senhoras e senhores,",
+                "A amizade construída entre nossos países vai além dos governos e dos contatos oficiais. Traduz-se, também, em laços interpessoais – pela via do turismo, do intercâmbio acadêmico e das nossas diásporas, por exemplo.",
+                "Abrigamos uma comunidade importante de imigrantes norte-americanos, e temos nos Estados Unidos a maior comunidade de brasileiros no exterior.",
+                "No trágico contexto das enchentes que atingiram o Rio Grande do Sul, essa comunidade brasileira radicada nos Estados Unidos mobilizou-se para acudir seus conterrâneos – um esforço ao qual se somaram, também, tanto o governo norte-americano como entidades privadas e demais cidadãos daquele país.",
+                "Agradecemos esse apoio, reconfortados com essa demonstração de solidariedade e de força dos laços humanos entre nossas populações, em um momento de dificuldade.",
+                "Caras amigas, caros amigos,",
+                "A evolução das nossas relações deve ser vista, também, à luz dos desenvolvimentos maiores das últimas décadas.",
+                "A ordem mundial passou por transformações importantes: do mundo bipolar da Guerra Fria, com seus duros reflexos para o Brasil e a América Latina e Caribe, passamos por uma longa transição, culminando na formação de uma ordem crescentemente multipolar, na qual diversos países desempenham papel de relevo em suas regiões e, em diferentes agendas, possuem também alcance global.",
+                "O Brasil busca sempre contribuir na busca por soluções coletivas para os desafios contemporâneos.",
+                "Na esfera regional, temos impulsionado a revitalização do processo de integração sul-americana.",
+                "Sediamos a Cúpula dos Presidentes da América do Sul, em Brasília, em maio passado, e a Cúpula da Amazônia, em Belém, três meses depois.",
+                "Temos buscado, nesse contexto, apoiar o diálogo e a busca por soluções para desafios regionais, em diálogo constante com nossos vizinhos e com mecanismos regionais de integração.",
+                "Temos, também, buscado dar nossa contribuição para o equacionamento de questões globais, como tem deixado claro o exercício da nossa presidência do G20, cujas prioridades são: o combate à fome e à pobreza, a promoção do desenvolvimento sustentável e a reforma da governança global.",
+                "Lançamos a Aliança Global contra a Fome e a Pobreza e a Força Tarefa contra a Mudança do Clima.",
+                "Em setembro, em Nova York, tomaremos o passo inédito de realizar reunião ministerial do G20 com a participação aberta a todos os países-membros das Nações Unidas, em um verdadeiro chamado à ação em favor da reforma das instituições de governança global.",
+                "Em 2025, sediaremos, em Belém do Pará, a COP-30 da Convenção-Quadro das Nações Unidas sobre a Mudança do Clima – a maior reunião do calendário multilateral. Levaremos, pela primeira vez, a COP até a Amazônia. Esperamos que seja um encontro rico e produtivo.",
+                "Temos hoje mais a oferecer, em termos de cooperação e parceria, nas mais diversas áreas.",
+                "Nas últimas décadas, ganharam força, nos dois países, agendas que nos unem em termos de valores e prioridades, seja no que se refere à proteção das nossas instituições democráticas, à promoção da igualdade racial ou no que diz respeito ao combate à mudança do clima.",
+                "A estabilização macroeconômica do Brasil, nos últimos trinta anos, também permitiu uma transformação na natureza do nosso diálogo. Hoje, autoridades dos nossos dois países discutem fortalecimento da democracia, transformação ecológica e inteligência artificial.",
+                "O tamanho da economia brasileira, a diversidade e solidez do nosso parque produtivo e a pujança do nosso agronegócio continuam a servir de combustível para um diálogo bilateral frutífero em torno de temas econômico-comerciais, inclusive com um foro institucionalizado de reunião entre presidentes de grandes empresas dos dois países – o “CEO Forum”.",
+                "Senhoras e senhores,",
+                "Os desígnios universalistas da nossa política externa, esboçados inicialmente nos anos 60 e 70, deram frutos, permitindo-nos cumprir, com folga, o desejo de Rio Branco de “entrar resolutamente na esfera das grandes amizades internacionais”, para retomar a frase que citei no início da minha intervenção.",
+                "Nessas amizades – no plural –, não buscamos exclusivismos, mas oportunidades para defender os princípios e valores que nos são caros e promover o interesse nacional, com benefícios tangíveis para brasileiros e brasileiras.",
+                "Devemos creditar ao Presidente Lula, em seus dois primeiros mandatos – e novamente neste terceiro – a expansão e o fortalecimento de uma teia de relacionamentos que se estende por todas as regiões do mundo.",
+                "À luz dessas novas realidades, nossas relações com os EUA evoluíram para uma parceria madura, com diálogo constante e franco sobre a totalidade da agenda internacional: dos dossiês regionais ao multilaterais, dos direitos humanos à cooperação de saúde, dos temas ambientais aos político-militares, das questões comerciais à agenda de energia.",
+                "Nos últimos anos, nossa parceria passou a incluir um elemento novo: a necessidade comum de proteger as instituições democráticas frente a ameaças nascidas do extremismo político.",
+                "É uma convergência que deve inspirar o futuro da nossa amizade: as duas maiores democracias das Américas, de mãos dadas contra o extremismo, a violência política, o negacionismo, a exclusão das minorias e de grupos historicamente vulneráveis, a disseminação mal-intencionada de meias-verdades, inverdades e mentiras na arena pública.",
+                "Que esse espírito continue a pautar nossos trabalhos.",
+                "Muito já foi construído, mas há espaço para mais.",
+                "Que nos próximos duzentos anos possamos seguir aprofundando nossa cooperação, buscando oportunidades para benefício mútuo – e, quando necessário for, equacionando nossas diferenças da melhor forma possível, como apenas dois velhos amigos são capazes de fazer.",
+                "Amigos e amigas,",
+                "Minha carreira profissional foi marcada de forma indelével por minhas passagens pelos Estados Unidos.",
+                "Foi a Embaixada do Brasil em Washington meu primeiro posto diplomático, entre o fim dos anos setenta e o início dos anos oitenta, onde me desempenhei como Terceiro, Segundo e Primeiro Secretário.",
+                "Quase trinta anos depois, tive o privilégio de regressar à capital norte-americana, dessa vez como Embaixador do Brasil nos Estados Unidos, designado pelo Presidente Lula.",
+                "Com base nessas experiências – e em tantas outras interações com interlocutores norte-americanos ao longo dos anos –, convenci-me de que Brasil e Estados Unidos podem atuar conjuntamente para impulsionar a reforma da governança global, de forma que as estruturas decisórias reflitam não só a atual configuração do poder mundial, senão de tornar a ordem internacional mais justa, harmônica e equilibrada.",
+                "Não será diferente nos Governos do Presidente Lula e do Presidente Biden.",
+                "Este é, aliás, um dos momentos em que se deve recorrer à força dessa amizade bicentenária para avançar temas caros aos povos do Brasil e dos Estados Unidos, mas também em favor da defesa da justiça social, do fortalecimento da democracia, da preservação do meio ambiente e, de forma mais ampla, da promoção da paz e da concórdia, dentro e entre os membros da comunidade internacional.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na reunião do Conselho Ministerial da OCDE - Paris, 3/5/2024",
+            "subtitulo": "Sessão 5.2: Possíveis caminhos em direção ao crescimento sustentável e inclusivo diante das crises globais interligadas",
+            "data": "03/05/2024",
+            "horario": "12h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "03/05/2024"
+            ],
+            "horario_atualizado": [
+                "12h34"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-reuniao-do-conselho-ministerial-da-ocde-paris-3-5-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Obrigado, Senhor Presidente",
+                "Caros colegas,",
+                "Os desafios globais da atualidade apresentam um sério risco à Agenda 2030 para o Desenvolvimento Sustentável. A COVID-19, a mudança no clima e os conflitos tiveram grande impacto na produção de alimentos, na saúde, na educação e no meio ambiente. É preciso acelerar a implementação dos ODS. Para isso, é fundamental implementar iniciativas transformadoras que criem oportunidades para reforçar o compromisso com a Agenda 2030.",
+                "O engajamento e compromisso firme e revigorado do Brasil com a Agenda 2030 para o Desenvolvimento Sustentável evidencia-se pelo fato de que a Presidência brasileira do G20 em 2024 escolheu o desenvolvimento sustentável como uma de suas três prioridades, além da inclusão social e do combate à fome e à pobreza; e da reforma da governança global.",
+                "Nesse sentido, o Brasil propôs uma Força-Tarefa para o estabelecimento de uma Aliança Global contra a Fome e a Pobreza. Agradecemos todo o apoio da OCDE na qualidade de organização convidada a fazer parte do Grupo de Trabalho e esperamos que ela possa aderir à Aliança, quando esta for lançada.",
+                "Além disso, após assumir a presidência do G20, o Brasil criou a Iniciativa do G20 sobre Bioeconomia (GIB). O GIB está estruturado em três eixos: ciência, tecnologia e inovação; uso sustentável da biodiversidade; e o papel da bioeconomia na promoção do desenvolvimento sustentável.",
+                "A nosso ver, a bioeconomia é um dos instrumentos com maior potencial para promover o desenvolvimento sustentável nas suas três dimensões, tanto nos países desenvolvidos como nos países em desenvolvimento.",
+                "O Brasil também está totalmente comprometido com a implementação dos Objetivos de Desenvolvimento Sustentável. Lançamos diversos programas com o intuito de gerar avanços concretos na implementação dos ODS no Brasil, como o Programa Bolsa Família, o Plano Brasil Sem Fome, o Plano de Transformação Ecológica, o Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal e o Programa de Aceleração do Crescimento.",
+                "O Brasil, ademais, conduzirá sua segunda Revisão Nacional Voluntária sobre a implementação dos ODS durante o Fórum Político de Alto Nível sobre Desenvolvimento Sustentável, em 2024. Isso representará uma oportunidade valiosa para que todas as nações troquem experiências entre si.",
+                "Para concluir, faço referência ao discurso do Presidente Lula na Assembleia Geral da ONU no ano passado, quando anunciou a criação do ODS 18, que visa combater o racismo e promover a igualdade racial.",
+                "As nossas ações demonstram que, com vontade política e objetivos claros, podemos implementar os ODS em todo o mundo.",
+                "Obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na reunião do Conselho Ministerial da OCDE - Paris, 2/5/2024",
+            "subtitulo": "Sessão 1; Alcançando uma Economia e Sociedade Sustentáveis e Inclusivas - Formulação de Políticas Baseadas em Evidências Sobre Desafios Comuns",
+            "data": "02/05/2024",
+            "horario": "12h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "02/05/2024"
+            ],
+            "horario_atualizado": [
+                "12h35"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-reuniao-do-conselho-ministerial-da-ocde-paris-2-5-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Obrigado, Sr. Presidente,",
+                "Caros colegas,",
+                "Como país em desenvolvimento, o Brasil confere prioridade absoluta à agenda do desenvolvimento sustentável em suas três dimensões – social, ambiental e econômica –, incluindo o imperativo da erradicação da pobreza.",
+                "Preocupa-nos seriamente a forma como nós, a comunidade internacional, estamos não apenas ficando para trás; estamos, de fato, retrocedendo na consecução de muitos dos ODS, que são cruciais para os países em desenvolvimento.",
+                "Hoje, enfrentamos também o desafio das transições energética e digital, que podem aumentar as desigualdades dentro e entre os países. Devemos aumentar a nossa colaboração e coordenação a fim de transformá-las em novas oportunidades de investimento, criar novos empregos dignos e aumentar o padrão de vida das nossas populações.",
+                "Para que obtenham ganhos econômicos associados a novas tecnologias, os países em desenvolvimento devem promover a criação das capacidades necessárias, tanto no setor público como no privado.",
+                "Isso abrange não apenas competências científicas e técnicas, mas também políticas nacionais, regulamentos e infraestruturas nacionais adequados. A cooperação internacional é também um instrumento fundamental nesse esforço.",
+                "Nesse contexto, a promoção do desenvolvimento sustentável de forma integral é mais urgente do que nunca.",
+                "Para o Brasil, o desenvolvimento sustentável implica um ambiente saudável e uma economia socialmente inclusiva, que gere oportunidades para todos, incluindo os mais vulneráveis.",
+                "Senhor Presidente,",
+                "A presidência brasileira do G20 adotou o lema “Construindo um Mundo Justo e um Planeta Sustentável”.",
+                "O país definiu três eixos principais para a sua presidência do G20: combate à fome, à pobreza e à desigualdade; desenvolvimento sustentável nas suas três dimensões (econômica, social e ambiental); e reforma da governança global.",
+                "Alinhado a esses objetivos, o Brasil criou duas forças-tarefa no âmbito do G20: a Aliança Global contra a Fome e a Pobreza e a Mobilização Global contra a Mudança do Clima",
+                "Agradecemos todo o apoio da OCDE na qualidade de  organização convidada a integrar o Grupo de Trabalho contra a fome e a pobreza e esperamos que a Organização possa aderir à Aliança quando esta for lançada.",
+                "Nas palavras do Presidente Lula, acabar com a fome é um desafio para todo o planeta e um dos obstáculos mais aterradores ao desenvolvimento, que só poderemos superar com vontade política e com o fortalecimento do multilateralismo.",
+                "Obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Cerimônia em memória aos trinta anos do falecimento de Ayrton Senna",
+            "subtitulo": "NA",
+            "data": "01/05/2024",
+            "horario": "16h44",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/cerimonia-em-memoria-aos-trinta-anos-do-falecimento-de-ayrton-senna-1",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Excelentíssimo Senhor Vice-Presidente do Conselho de Ministros e Ministro dos Negócios Estrangeiros e da Cooperação Internacional da República Italiana, Antonio Tajani,",
+                "Excelentíssimo Senhor Ministro dos Negócios Estrangeiros da Áustria, Alexander Schallenberg,",
+                "Senhor Prefeito de Imola, Marco Panieri,",
+                "Senhor Stefano Domenicali, Presidente e Diretor Executivo do Grupo Fórmula Um,",
+                "Senhor Gian Carlo Minardi, Presidente do Autódromo de Imola,",
+                "Senhor Bruno Senna,",
+                "Senhor Rudolf Ratzenberger, [Em italiano] Inicialmente, gostaria de expressar, em nome do Presidente do Brasil, Luiz Inácio Lula da Silva, e meu próprio nome, o mais sincero agradecimento do Governo brasileiro pelo gentil convite formulado pelo Ministro Antonio Tajani, para celebrar a vida e o legado de Ayrton Senna da Silva.",
+                "[Em inglês] Permitam-me, por favor, passar agora ao inglês.",
+                "É com pesar que nos reunimos hoje também para homenagearmos um colega de Senna, Roland Ratzenberger, morto neste mesmo circuito, durante treino classificatório para o Grande Prêmio de San Marino, naquele fatídico final de semana. Ao lado do Ministro Schallenberg, tenho a honra de celebrar a vida daquele promissor automobilista que, como Senna, nos deixou prematuramente. Ministro Tajani, Todo brasileiro de uma certa idade sabe exatamente onde estava e o que fazia na manhã de 1º de maio de 1994. Ao assistirmos, estarrecidos, pela televisão, ao falecimento do Ayrton nesta Curva Tamburello, soubemos instintivamente que um luto nacional abateria o País. Soubemos também que uma dor individual tomaria conta de cada um de nós naquele e em muitos dias posteriores. São coisas difíceis de explicar e fáceis de sentir.",
+                "Naquela mesma tarde, São Paulo e Palmeiras — dois dos maiores times de futebol do Brasil — enfrentaram-se em partida decisiva. Os torcedores dos times rivais uniram-se antes do início do jogo em um só coro: “Senna, Senna, Senna”. Não houve quem não se emocionasse.",
+                "Ayrton Senna foi muito mais do que um ídolo da Fórmula 1. Herói para gerações de brasileiros, foi modelo de excelência, de perseverança e de integridade. Ao longo de sua brilhante carreira, coroada por três títulos mundiais de Fórmula 1, conquistou admiradores em todo o planeta, ajudando a popularizar o automobilismo em escala global.",
+                "O tricampeonato mundial, suas 41 vitórias e 65 pole positions são sem dúvida números impressionantes, mas não são suficientes para explicar a admiração e a reverência universal que Ayrton conquistou ainda em vida. Senna também contava – e ainda conta – com a admiração virtualmente unânime de seus pares. Em 2009, foi eleito, em consulta feita a 217 pilotos da modalidade pela revista inglesa Autosport, o melhor piloto de Fórmula 1 de todos os tempos.",
+                "No ano passado, Ayrton Senna foi declarado, por lei, Patrono do Esporte Brasileiro. Tal título, em um país que tem em seu panteão atletas como Pelé, Martha, Ronaldo, Oscar Schmidt, Maria Esther Bueno, Gustavo Kuerten e muitos outros, demonstra a extensão do impacto de Senna na vida da nação. Senhoras e senhores, A história é repleta de enigmas. O desaparecimento de um grande ídolo – um homem que tantas e tantas vezes hasteou a bandeira do Brasil literalmente no lugar mais elevado do pódio – coincidiu quase perfeitamente com o início de uma fase esplendorosa de nossa história nacional.",
+                "Naquele mesmo ano de 1994, logramos derrotar a hiperinflação. Elegemos, em eleições livres, justas, competitivas e ordeiras, três convictos democratas – um sociólogo de reputação internacional, o Presidente Fernando Henrique Cardoso; o maior líder popular de nossa história, o Presidente Lula; e uma guerrilheira que havia combatido ainda na juventude a ditadura militar, a Presidenta Dilma Rousseff, a cujo governo tive a honra de servir como Ministro do Exterior — para nada menos do que seis mandatos presidenciais consecutivos.",
+                "Conquistamos dois de nossos cinco títulos mundiais de futebol. Por vinte anos ininterruptos, experimentamos uma rara combinação de crescimento econômico, preservação do valor da moeda nacional, distribuição de oportunidades, redução das profundas injustiças sociais e econômicas que assombram historicamente o povo brasileiro, construção de uma diplomacia proporcional às nossas dimensões e aspirações nacionais – tudo em um ambiente profundamente democrático, em que grassavam amplas liberdades individuais. Amigos e amigas, Rememorando os trinta anos de sua partida prematura, voltamos a nos despedir, ainda enlutados, de Ayrton Senna, no local onde o destino quis que ele nos deixasse. Estivesse vivo, contaria hoje 64 anos, ainda muito jovem. Nesse período, quantas pole positions, quantos pódios, quantas vitórias, quantos títulos, quantas alegrias, quantos exemplos concretos de caráter, determinação e amor ao Brasil teria o Ayrton brindado ao povo brasileiro e a todos aqueles que o admiravam?",
+                "Este é o importante legado que celebramos hoje.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Discurso do Presidente Lula por ocasião do Dia da África na presença do presidente do Benim, Patrice Talon",
+            "subtitulo": "Discurso lido pelo presidente da República, Luiz Inácio Lula da Silva, por ocasião do Dia da África na presença do presidente do Benim, Patrice Talon, em Brasília, em 23 de maio de 2024",
+            "data": "23/05/2024",
+            "horario": "13h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h28"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/discurso-do-presidente-lula-por-ocasiao-do-dia-da-africa-na-presenca-do-presidente-do-benim-patrice-talon",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "O Brasil e a África estão unidos na dor pelas mortes e destruição causadas pelas enchentes no Rio Grande do Sul e no Burundi, no Quênia e na Tanzânia.",
+                "Quero manifestar nossa solidariedade e agradecer as mensagens de apoio recebidas dos nossos irmãos africanos.",
+                "Amigos e amigas,",
+                "É uma satisfação contar com o corpo diplomático africano neste almoço em homenagem ao Dia da África e uma honra ter o presidente do Benim, Patrice Talon, como convidado especial.",
+                "Em Uidá, cidade natal do presidente Talon, está uma das “portas do não retorno” que existem na costa africana. Elas têm esse nome porque se acreditava que quem passava por elas jamais regressaria.",
+                "Sobrevivendo às condições desumanas impostas pela escravidão, alguns conseguiram voltar, levando consigo um pouco do Brasil.",
+                "O Benim abriga uma das maiores comunidades de “retornados” do continente, repleta de Souzas, Silvas, Santos e Carvalhos.",
+                "Aqueles que aqui permaneceram fincaram raízes em nossa identidade, transformando o Brasil no terceiro país com maior população negra no mundo.",
+                "Cultivamos nossa história comum na Casa do Benim em Salvador e vamos fazer o mesmo por meio da Casa do Brasil em Uidá, criando ali um polo cultural vibrante.",
+                "Firmamos hoje memorando de entendimento em artes, cultura e patrimônio para preservar esse elo.",
+                "Nossos laços se forjaram a partir do sofrimento, mas hoje servem para encurtar a distância entre os dois lados do “rio chamado Atlântico” – feliz expressão do diplomata Alberto Costa e Silva, falecido no ano passado.",
+                "Quem aproxima as margens desse rio são as pessoas.",
+                "São os mais de duzentos estudantes benineses atualmente inscritos no Programa Estudante-Convênio que escolheram o Brasil para se formar.",
+                "São os interessados no turismo de memória, que será facilitado pelo memorando em turismo e pelo adendo ao acordo sobre serviços aéreos que assinamos hoje.",
+                "São também os empresários, com quem contamos para ampliar e diversificar nossa pauta comercial e de investimentos.",
+                "E são, enfim, os técnicos que têm a missão de manter e expandir o legado de um dos mais exitosos programas de cooperação brasileiros, que vem beneficiando o setor algodoeiro do Benim e de mais 17 países africanos.",
+                "Tenho certeza de que esse intercâmbio crescerá com a reabertura da embaixada do Benim em Brasília e com a criação de um núcleo brasileiro de cooperação para todo o continente em Adis Abeba, onde estarão presentes agências como a ABC, a EMBRAPA e a Fiocruz.",
+                "É com esse espírito que sediaremos, a convite da União Africana, a Conferência Regional da Diáspora e dos Afrodescendentes das Américas e do Caribe, no final de agosto, em Salvador.",
+                "O Brasil tem muito a aprender e a contribuir nos debates sobre memória, restituição, reparação e reconstrução.",
+                "O fortalecimento dos vínculos entre a África e sua 6ª região, da qual o Brasil orgulhosamente faz parte, pode se transformar em um vetor positivo de apoio ao Haiti.",
+                "Com o Quênia e o Benim assumindo a dianteira na missão policial da ONU, reafirmamos nosso compromisso com a estabilidade e a prosperidade haitianas e estamos à disposição para oferecer apoio logístico à operação.",
+                "No momento em que as atenções se concentram na Ucrânia e em Gaza, não podemos deixar que o mundo se esqueça do Haiti, nem de outras tragédias humanitárias como a do Sudão.",
+                "Senhoras e senhores,",
+                "O talentoso historiador brasileiro José Flávio Sombra Saraiva – que nos deixou há poucos dias – disse que o Brasil havia se convertido no “porta-voz da África no sistema internacional”.",
+                "Não temos a pretensão de falar por ninguém. Mas somos parceiros naturais da África e também enxergamos o mundo por lentes africanas.",
+                "Isso nos leva a incorporar a perspectiva do continente à nossa atuação global, como estamos fazendo na presidência no G20.",
+                "Juntamente com a União Africana, que participa pela primeira vez como membro pleno do grupo, temos alertado sobre o problema do endividamento.",
+                "O que vemos hoje é uma absurda exportação líquida de recursos dos países mais pobres para os países mais ricos.",
+                "Não há como investir em educação, saúde ou adaptação à mudança do clima se parte expressiva do orçamento é consumido pelo serviço da dívida.",
+                "O grupo de trabalho sobre arquitetura financeira do G20 promoverá, em junho, um debate com especialistas africanos, cujos resultados levaremos para a reunião de ministros das Finanças do G20.",
+                "Se os 3 mil bilionários do planeta pagassem 2% de impostos sobre o rendimento das suas fortunas, poderíamos gerar recursos suficientes para alimentar as 340 milhões de pessoas que, segundo a FAO, enfrentam insegurança alimentar severa na África.",
+                "Muitos países em desenvolvimento já formularam políticas eficazes para erradicar a fome e a pobreza.",
+                "Nosso objetivo, no G20, é mobilizar recursos para ampliá-las e adaptá-las a outras realidades.",
+                "Por isso, convidamos os países africanos a se somarem à nossa Aliança Global de Combate à Fome e à Pobreza, que estará aberta a adesões a partir de julho.",
+                "Estamos determinados a apoiar a África a desenvolver seu imenso potencial agrícola.",
+                "Aderimos, recentemente, ao Compacto Lusófono do Banco Africano de Desenvolvimento, que visa a apoiar empreendedores africanos e elevar sua capacidade produtiva.",
+                "Apesar de não sermos historicamente responsáveis pela mudança do clima, precisamos lutar juntos pela ampliação das metas de financiamento na COP de Baku e pela adoção de NDCs mais ambiciosas na COP de Belém em 2025.",
+                "Em agosto passado, os demais países amazônicos, ao lado da República Democrática do Congo e da República do Congo, lançaram a declaração “Unidos por nossas Florestas”.",
+                "O Brasil está trabalhando no desenho de um mecanismo – o Fundo Florestas Tropicais para Sempre – para remunerar países em desenvolvimento que mantêm suas florestas em pé.",
+                "Reiteramos nosso convite para que mais países africanos se unam à declaração e considerem aderir ao fundo.",
+                "Assim como no caso das florestas, temos que abordar a questão da transição energética a partir dos nossos interesses.",
+                "Sem agregar valor aos recursos naturais, estaremos fadados a reeditar a relação de dependência entre o Norte e o Sul.",
+                "A ordem internacional requer instituições capazes de responder aos desafios da atualidade.",
+                "Em setembro, faremos em Nova York uma reunião de ministros das Relações Exteriores do G20, aberta a todos os membros da ONU, para lançar um “chamado à ação” pela reforma da governança global.",
+                "Não faz sentido que a América Latina e a África não tenham representação permanente em órgãos importantes como o Conselho de Segurança.",
+                "Não podemos permitir que esse tipo de anomalia também se torne a regra no tratamento da Inteligência Artificial.",
+                "É necessário um modelo de governança capaz de conter os riscos dessa tecnologia e facilitar o acesso do Sul Global a esses benefícios.",
+                "Amigos e amigas,",
+                "Em fevereiro, tive a honra de discursar na Cúpula da União Africana.",
+                "Levei a mensagem de que o Brasil voltou a caminhar ao lado da África.",
+                "Minha missão de vida sempre foi e é combater as desigualdades.",
+                "A América Latina e a África têm de enfrentar as injustiças que, dentro e fora dos nossos países, continuam reproduzindo lógicas excludentes.",
+                "Afinal, como disse o nigeriano Chinua Achebe], se não gostamos de uma história, podemos escrever a nossa própria história.",
+                "Por isso convido todos vocês a fazer um brinde a nosso ilustre convidado e desejo um feliz dia da África a todos e todas.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Declaração do presidente Lula à imprensa durante visita do primeiro-ministro do Japão - 3 de maio de 2024",
+            "subtitulo": "NA",
+            "data": "03/05/2024",
+            "horario": "17h13",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h28"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/declaracao-do-presidente-lula-a-imprensa-durante-visita-do-primeiro-ministro-do-japao-3-de-maio-de-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Bem, eu quero começar essa entrevista pedindo licença ao primeiro-ministro japonês, ao nosso visitante ilustre Fumio Kishida, para falar um pouco do Brasil e dizer para a imprensa o seguinte.",
+                "As primeiras palavras do ministro Fumio Kishida na reunião que fizemos foi de solidariedade ao povo do estado do Rio Grande do Sul, que está sendo vítima de uma das maiores enchentes que nós temos conhecimento.",
+                "Nunca antes na história do Brasil tinha havido uma quantidade de chuva num único local. Só para se ter uma ideia, primeiro-ministro, já são 235 municípios que estão afetados pela corrente da água e pela chuva. Metade do estado.",
+                "Já tem 35 óbitos, 74 pessoas desaparecidas, e as pontes do Rio Guaíba, quem é brasileiro conhece o que é o Rio Guaíba, já estão a uma altura de 4 metros e meio. Elas foram interditadas porque a água já ocupou todas as pontes.",
+                "Todo mundo sabe que eu estive em Porto Alegre ontem, a gente não conseguia enxergar quase que um palmo à frente do nariz. Era muita chuva e muita névoa, muita neblina, mas nós fomos com vários ministros, não só prestar solidariedade, mas nós fomos assumir o compromisso público de que o Governo Federal não deixará faltar nenhum apoio para que a gente possa recuperar os estragos que essa chuva está causando no estado.",
+                "A única coisa que a gente não pode recuperar são as vidas, sabe, que foram perdidas, mas também nós queremos daqui transmitir aos familiares a nossa solidariedade, ao povo gaúcho a nossa solidariedade, e voltar a afirmar ao governador do Estado que o governo brasileiro, o Governo Federal e seus 37 ministros estaremos à disposição para tentar ajudar o estado do Rio Grande do Sul.",
+                "Por isso, primeiro-ministro, muito obrigado pela sua solidariedade e eu tenho certeza que no Rio Grande do Sul também mora uma quantidade razoável de descendentes de japoneses.",
+                "Bem, essa visita do primeiro-ministro Fumio Kishida é uma visita importante. O Japão tem tanta gente no Brasil que o ministro não pode ficar muito tempo sem visitar o Brasil. Não são todas as cidades japonesas que tem a quantidade de habitantes japoneses que tem aqui no Brasil.",
+                "Então, acho que todo primeiro-ministro japonês, todo, quando ganhar as eleições, ele tem que fazer a visita no Japão, tem que visitar alguns países, mas o Brasil é o país que mais tem imigrantes japoneses. A maior cidade depois do Japão é o Brasil.",
+                "Então, os ministros japoneses precisam, de vez em quando, vir visitar o Brasil. Da mesma forma, os empresários japoneses. Os empresários japoneses, sobretudo aqueles que querem fazer investimentos em novas tecnologias, que querem fazer investimentos, sabe, nessa coisa nova chamada inteligência artificial, que querem fazer investimentos nessa nova indústria de dados.",
+                "O Brasil é um país que oferece todas as possibilidades na construção de parceria entre empresários brasileiros e empresários japoneses. Eu digo todo dia, primeiro-ministro, que para nós, brasileiros, o comércio bom não é só aquele que você só vende e que você não compra nada. O comércio bom é aquele que é uma via de duas mãos. Você vende e você compra, e que esse comércio tenha um certo equilíbrio para que os dois países se sintam confortáveis, sabe, com a sua política de relação comercial.",
+                "Eu disse ao primeiro-ministro Fumio aqui, o problema é que nós já tivemos, entre Brasil e Japão, uma relação comercial, um fluxo na balança comercial de quase US$ 18 bilhões, e hoje caiu para US$ 11 bilhões.",
+                "É pouco para um país que é a terceira economia do mundo, para um país que vai ser a oitava economia do mundo, é pouco pela quantidade de habitantes que têm o Japão, é pouco pela quantidade de habitantes que tem o Brasil, e é pouco pela população que tem poder de compra para consumir as coisas boas produzidas nos nossos países.",
+                "Eu lembro, eu não queria perder a oportunidade de contar essa pequena história aqui. O primeiro-ministro japonês que eu recebi era o primeiro-ministro Koizumi (Junichiro Koizumi). E o Brasil estava tentando vender frutas há 28 anos para o Japão. E o Japão não comprava frutas brasileiras por causa do preconceito contra a chamada mosca do fruto.",
+                "E na hora do almoço, eu preparei uma bandeja de mangas, as mais bonitas que tinham sido produzidas na safra brasileira, para colocar entre eu e o primeiro-ministro japonês. E também mandei preparar uma bandeja de manga já cortada, pronta para comer.",
+                "E aí o primeiro-ministro Koizumi ficou admirando a beleza das mangas, o tamanho das mangas, sabe? Estava muito entusiasmado. Aí eu falei: \"Primeiro-ministro, experimenta um pedaço de manga.\" E ele então pegou o garfo, pegou um pedaço de manga, colocou na boca, mastigou, falou: \"Muito boa\".",
+                "Eu falei: \"Pois é, primeiro-ministro, é muito boa, mas nós estamos há 28 anos tentando exportar para o Japão e vocês não compram nossa manga aqui. Vocês vão comprar na Malásia, sei lá onde, mas aqui vocês não compram\".",
+                "O que eu sei é que quatro ou cinco meses depois, nós exportamos a primeira carga de frutas para o Japão e muitas mangas que saíram do aeroporto de Petrolina, em Pernambuco, para exportar para o Japão.",
+                "E é assim que a gente vai fazendo as coisas acontecerem. Ninguém ama o que não conhece. Ninguém gosta do que nunca experimentou. E muitas vezes nós fazemos muito preconceito um contra os outros sem que a gente se conheça.",
+                "Então essa visita do primeiro-ministro Fumio Kishida ao Brasil, com um grupo de empresários, que vai amanhã a São Paulo conversar com os empresários em São Paulo, que vai ao Ibirapuera ter um encontro com a comunidade japonesa.",
+                "E eu pedi para ele ir ao bairro da Liberdade para conhecer o Japão dentro do Brasil. Vá a um restaurante na Liberdade para comer a melhor comida japonesa no Brasil, feita por japoneses, descendentes de japoneses no Brasil. Porque são dois milhões e setecentos mil, sabe, entre japoneses e descendentes de japoneses aqui no Brasil. É muita coisa. E nós temos duzentos e onze mil brasileiros no Japão, aproximadamente, ou duzentos e treze.",
+                "Então, essa reunião de hoje, para mim, é muito gratificante. Primeiro porque eu comecei agradecendo ao primeiro-ministro que me convidou para o G7 em Hiroshima. Eu confesso que eu tinha vontade de conhecer Hiroshima, conheci Hiroshima, visitei o túmulo em homenagem aos povos que morreram em Hiroshima, e pude participar de uma reunião muito importante em Hiroshima.",
+                "E também eu comecei agradecendo ao primeiro-ministro porque o Japão tomou uma atitude extraordinária que o Japão aboliu a exigência de vistos de brasileiro para viajar para o Japão. Significa que o brasileiro agora pode viajar para o Japão, conhecer o Japão, conhecer as ilhas do Japão, conhecer o povo japonês, ver como esse país é desenvolvido.",
+                "E eu acho que foi um avanço extraordinário na relação Brasil-Japão que vamos completar 130 anos de relações diplomáticas, 130 anos. O primeiro-ministro me convidou para ir ao Japão em 2025. Em 2025, a gente completa uma parceria estratégica que a gente faz e vai ter o Ano da Cultura Brasil-Japão.",
+                "Eu disse ao primeiro-ministro: \"Tudo bem, eu já aceitei ir ao Japão em 2025\". Não vou levar você, Alckmin, porque a gente não pode viajar junto, e eu espero que a gente faça uma grande festa no Japão, entre a comunidade japonesa e a comunidade brasileira, pra gente selar definitivamente essa parceria estratégica.",
+                "O Brasil não quer que o Japão fique vendo o Brasil como se fosse um país menor, como se fosse um país pobre, como se fosse... Não, o Japão tem que enxergar o Brasil do tamanho que ele é. O Brasil é um país grande, não apenas do ponto de vista territorial, não apenas do ponto de vista fronteiriço, não apenas do ponto de vista da sua floresta, não apenas do ponto de vista da sua riqueza de minerais.",
+                "O Brasil é um país grande porque o Brasil tem um povo extremamente trabalhador e um povo generoso. Eu, sem falta de respeito a nenhum país, eu acho que existe pouca gente no mundo com alegria e com despojamento do povo brasileiro. Por isso é importante o Japão adotar o Brasil como parceiro preferencial, como parceiro estratégico. Pra gente vender mais, a gente comprar mais.",
+                "Eu, por exemplo, acho que... Eu não sei o que vocês jantaram ontem à noite, mas, pelo amor de Deus, se estiverem em São Paulo… Alckmin, você vai estar lá. Você foi governador daquele estado, você é o ministro de desenvolvimento, você é o vice-presidente. Por favor, leve o primeiro-ministro Fumio pra comer um churrasco no melhor restaurante de São Paulo, para que na semana seguinte ele comece a importar nossa carne, para poder gerar mais desenvolvimento.",
+                "A nossa carne é de qualidade e é mais barata do que a carne que vocês compram. Eu nem sei o preço, mas tenho certeza que a nossa é mais barata. E qualidade extrema. Esse ministro da Agricultura (Carlos Fávaro) faz um churrasco que, se o primeiro-ministro comesse, não iria querer voltar pro Japão.",
+                "Então, eu estou muito gratificado com essa reunião. Quero dizer aos empresários japoneses que estão aqui que esse país resolveu ser grande, o Brasil resolveu ser desenvolvido, o Brasil quer sair do grupo de países em vias de desenvolvimento. Nós queremos nos transformar num país altamente desenvolvido, nós queremos estar entre as seis maiores economias do mundo, nós temos estabilidade jurídica, nós temos estabilidade fiscal, nós temos estabilidade econômica, nós temos estabilidade social, e a gente tem uma coisa sagrada que é previsibilidade.",
+                "Aqui, a gente não faz nada nas caladas da noite. Aqui, todo mundo sabe o que a gente vai fazer, porque o nosso compromisso, agora que não somos mais um país do terceiro mundo, agora que não somos mais um país em vias de desenvolvimento, agora, orgulhosamente, primeiro-ministro, nós somos um país do Sul global. Isso dá um status maior ao Brasil, porque os países que antes estavam em desenvolvimento começaram a crescer, gostaram de crescer, o povo está gostando de ganhar mais, o povo está gostando de trabalhar mais, o povo está gostando de ter acesso aos bens materiais que ele produz.",
+                "Eu lembro que eu era presidente da República quando surgiu a questão da TV digital. Tinha o modelo americano, tinha o modelo japonês e tinha o modelo europeu. Aqui na América do Sul, quase todos os países estavam adotando o modelo europeu. E o Brasil resolveu adotar o modelo japonês. E eu conversei com todos os presidentes, do Chávez (Hugo Chávez, ex-presidente da Venezuela) ao Kirchner (Néstor Kirchner, ex-presidente da Argentina), mostrando a importância de adotar o modelo japonês. Que o Japão viria a montar aqui na América do Sul e no Brasil uma fábrica de semicondutores. Tudo isso foi mostrado.",
+                "Ainda não aconteceu a fábrica de semicondutores. Mas como eu estou vivo e sou jovem, eu acredito que os empresários japoneses haverão de saber que não se pode perder o mercado como brasileiro e a influência que o mercado brasileiro tem em outros mercados. Porque, para nós, no Brasil não adianta crescer sozinho. A gente não quer ser rico cercado de pobres. A gente quer que todo mundo cresça, sabe, igual.",
+                "A gente quer que os países vizinhos do Brasil se desenvolvam. A gente quer que todo mundo cresça e tenha oportunidade. E agora que o mundo está atônito discutindo a questão do clima. Que o mundo está se dando conta de que ou a gente cuida do planeta ou ele não cuida mais de nós, as pessoas estão percebendo que a discussão sobre o aquecimento global é uma coisa mais séria do que uma coisa teórica, a América do Sul se apresenta como um lugar de ouro para investimento, para discussão da transição energética, para discussão da transição climática e para produzir a energia limpa que se queira produzir.",
+                "Por isso eu queria que os empresários japoneses que vieram ao Brasil pensassem. Quando estiverem pensando em fazer algum investimento, olhem para o mapa do mundo e falem: \"É o Brasil que eu vou fazer investimento, porque é lá que o japonês ficou, é lá que o japonês encostou, é lá que o japonês está morando e é lá que nós temos quase 3 milhões de habitantes\".",
+                "E aí nós ficaremos agradecidos. Vamos começar a investir no Japão. Os nossos empresários vão crescer. E tudo vai melhorar entre Japão e Brasil. É com essas palavras que eu quero agradecer a visita do Japão nesse dia muito importante para nós.",
+                "Primeiro-ministro, muito obrigado. Tenha certeza que você levará do Brasil o que nós temos de melhor, que é muito, mas muito amor no coração para distribuir com todos os irmãos do planeta Terra.",
+                "Muito obrigado, querido."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "maria-laura-da-rocha-2023"
+            ],
+            "titulo": "Intervenção da Senhora Secretária-Geral das Relações Exteriores na abertura da exposição “Encontros: 200 Anos de Amizade Brasil-Estados Unidos”",
+            "subtitulo": "Brasília, 28 de maio de 2024",
+            "data": "28/05/2024",
+            "horario": "18h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "28/05/2024"
+            ],
+            "horario_atualizado": [
+                "18h59"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/maria-laura-da-rocha-2023/intervencao-da-sra-secretaria-geral-das-relacoes-exteriores-na-abertura-da-exposicao-201cencontros-200-anos-de-amizade-brasil-estados-unidos201d",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Senhora Presidente do Conselho de Curadores da FAAP, Celita Procópio de Carvalho,",
+                "Senhor Presidente da AMCHAM Brasil, Abrão Neto,",
+                "Senhoras e senhores,",
+                "É com muita alegria que os recebo no Palácio Itamaraty para a inauguração desta exposição fotográfica em homenagem aos 200 anos de amizade entre Brasil e Estados Unidos.",
+                "Agradeço à Fundação Armando Álvares Penteado – FAAP pelo trabalho de concepção artística desse projeto. Talvez vocês não saibam, mas a FAAP tem um longo histórico de exposições organizadas no Palácio Itamaraty, sobre os mais diversos temas: o design brasileiro, nossa diversidade religiosa e a vida do Barão do Rio Branco, entre outros. É uma alegria poder retomar a antiga parceria do Ministério das Relações Exteriores com essa instituição de referência no cenário cultural brasileiro.",
+                "Saúdo também os nossos parceiros da Câmara Americana de Comércio para o Brasil – Amcham Brasil, bem como das empresas patrocinadoras, cujo apoio foi fundamental para a execução desse projeto. É uma satisfação poder contar com o suporte da Amcham não apenas para as comemorações do dia de hoje, mas para o aprofundamento constante das relações Brasil-Estados Unidos.",
+                "Faço ainda um agradecimento especial ao nosso caro embaixador Gonçalo Mourão, cuja visão e dedicação foram fundamentais para tornar essa exposição uma realidade.",
+                "A exposição foi concebida como espaço de aprendizado e de reflexão, e dá destaque a momentos cruciais de nossa trajetória: desde os primeiros contatos até os desafios e conquistas contemporâneos; desde as relações políticas entre governos até as trocas culturais e comerciais entre nossos povos.",
+                "Trata-se de uma pequena amostra do universo de recordações que apenas um relacionamento de 200 anos pode proporcionar. É a história de relações complexas, como todas as amizades longevas, e um registro do que puderam construir, juntas, as duas maiores democracias do continente.",
+                "É, também, um convite a que possamos refletir sobre a importância e a intensidade dessa relação nos dias atuais, e sobre todo o seu potencial – para os próximos 200 anos e além.",
+                "Agradeço a presença de todos e desejo que aproveitem a visita. Muito obrigada."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "maria-laura-da-rocha-2023"
+            ],
+            "titulo": "Discurso da Secretária-Geral, Embaixadora Maria Laura da Rocha, no encerramento do Seminário \"Encontros: 200 Anos de Amizade Brasil-Estados Unidos\"",
+            "subtitulo": "Brasília, 28 de maio de 2024",
+            "data": "28/05/2024",
+            "horario": "17h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "28/05/2024"
+            ],
+            "horario_atualizado": [
+                "17h40"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/maria-laura-da-rocha-2023/discurso-da-secretaria-geral-embaixadora-maria-laura-da-rocha-no-encerramento-do-seminario-encontros-200-anos-de-amizade-brasil-estados-unidos",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Ao encerrarmos o seminário \"Encontros - 200 anos de amizade Brasil-Estados Unidos\", registro minha alegria por essa jornada tão rica em trocas de ideias e perspectivas sobre os principais aspectos do relacionamento entre nossos países. Creio que os trabalhos capturaram a essência do que devem ser as relações entre Brasil e Estados Unidos: diálogo franco, intercâmbio de perspectivas e intensa colaboração.",
+                "Começamos nosso dia com o painel sobre Relações Políticas, que nos ofereceu um panorama sobre o imenso potencial da nossa parceria. As intervenções deixaram claro que as relações Brasil-EUA, hoje, alcançaram um estágio tal que nos permite abordar, de forma construtiva, a totalidade da agenda internacional: dos direitos humanos à segurança internacional; do comércio ao desenvolvimento sustentável; dos dossiês regionais aos grandes desafios globais dos nossos tempos. Foi, penso, a introdução perfeita para os painéis temáticos que se seguiram, nos quais pudemos explorar vários desses temas mais a fundo.",
+                "No painel sobre Democracia, Direitos Humanos e Igualdade Racial, por exemplo, discutimos valores fundamentais que ambos os países buscam reforçar, bem como nosso compromisso contínuo com a justiça e a equidade. O debate reforçou o chamado comum por vigilância atenta e defesa inabalável das nossas instituições democráticas. Evidenciou, também, que a promoção da igualdade racial permanece essencial para a superação completa do racismo estrutural que segue presente em nossas sociedades, decorrente do nosso passado escravista compartilhado.",
+                "O painel sobre Interseções Culturais demonstrou como nossas culturas e histórias têm se entrelaçado ao longo dos séculos. Nesse caso, nossa herança africana comum voltou à discussão, vista por sua influência central na cultura de nossos dois países. Os laços culturais servem como pontes fundamentais entre nossas sociedades. Qualquer debate sobre as nossas relações bilaterais ficaria incompleto sem uma reflexão a seu respeito.",
+                "No painel seguinte, sobre Comércio e Investimentos, foram ressaltadas as relações econômicas e comerciais entre nossos países, que continuam a contribuir para o crescimento e a geração de oportunidades aqui e lá. Os EUA são o nosso segundo maior parceiro no comércio de bens, o principal destino para nossas exportações de serviços e maior fonte de investimentos estrangeiros diretos no Brasil. O painel deixou claro que há potencial para ainda mais. A participação de altos executivos, e o próprio apoio da Amcham Brasil às comemorações do bicentenário de relações Brasil-Estados Unidos, refletem o grande interesse do setor privado em seguir avançando na exploração dessas oportunidades, que podem trazer benefício às duas sociedades.",
+                "Por fim, no painel sobre Desenvolvimento Sustentável, reafirmamos nosso compromisso com o futuro do nosso planeta. Discutimos como a colaboração entre Brasil e Estados Unidos pode contribuir para os esforços globais para um desenvolvimento mais sustentável – com geração de emprego e renda, especialmente para os mais vulneráveis, mas sem comprometer o meio ambiente e as perspectivas para as novas gerações. Brasil e Estados Unidos são duas potências na produção de energia limpa e precisarão assumir papel de destaque no processo de transição global para uma economia de baixo carbono.",
+                "Senhoras e senhores,",
+                "Esse seminário ainda destacou a importância de olharmos para o futuro. Já construímos muito juntos, mas ainda há trabalho a fazer.",
+                "Os ingredientes para o aprofundamento da nossa parceria estão dados: somos duas grandes democracias diversas e multiétnicas; estamos ligados por fortes laços humanos – pela via da cultura, da Academia, do comércio e das nossas diásporas; e temos muito em comum em nossos objetivos de política externa: a geração de renda, emprego e oportunidades, par a par com a promoção do desenvolvimento sustentável; o combate à desigualdade e à fome; a luta contra a mudança do clima e a promoção da transição energética; a defesa da democracia e dos direitos humanos. É imprescindível que continuemos a construir sobre as fundações sólidas da nossa história comum.",
+                "Agradeço à FUNAG pelo apoio para a realização deste seminário. Um agradecimento especial, também, à Câmara Americana de Comércio para o Brasil – Amcham Brasil, e a todos os patrocinadores cujo apoio generoso possibilitou a organização desse dia festivo de comemorações do bicentenário de relações Brasil-EUA. Agradeço também à Fundação Armando Alvares Penteado – FAAP, bem como a todos os palestrantes, moderadores, participantes e organizadores que tornaram este evento possível.",
+                "Sejamos ambiciosos. Que o futuro das relações Brasil-Estados Unidos seja marcado por espírito de cooperação e amizade ainda mais forte. Ao caminharmos juntos, beneficiamos não somente nossas sociedades, mas o mundo como um todo.",
+                "Muito obrigada."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "maria-laura-da-rocha-2023"
+            ],
+            "titulo": "Discurso da Senhora Secretária-Geral das Relações Exteriores por ocasião da II Reunião de Consultas de Cartagena+40 - Brasília, 16/05/2024",
+            "subtitulo": "NA",
+            "data": "16/05/2024",
+            "horario": "11h15",
+            "datatime": "NA",
+            "data_atualizado": [
+                "16/05/2024"
+            ],
+            "horario_atualizado": [
+                "11h19"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/maria-laura-da-rocha-2023/discurso-da-senhora-secretaria-geral-das-relacoes-exteriores-por-ocasiao-da-ii-reuniao-de-consultas-de-cartagena-40-brasilia-16-05-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Senhoras e senhores,",
+                "O Brasil orgulha-se de ter feito parte, há quase quarenta anos, do pequeno grupo de países que adotou a Declaração de Cartagena de 1984, que se tornaria marco fundamental no quadro global de proteção e refúgio.",
+                "Retomamos hoje o espírito solidário da América Latina e do Caribe nessa matéria, agora sob a liderança do Chile, que sucede Brasil, México e Costa Rica.",
+                "Agradeço imensamente ao Chile pela iniciativa de assumir a presidência de Cartagena+40. Agradeço igualmente ao Alto Comissariado das Nações Unidas para os Refugiados (ACNUR) pelo apoio não só na realização dessas consultas em Brasília, mas também na implementação do Plano de Ação do Brasil durante toda a década em que estivemos à frente do processo.",
+                "Nosso compromisso é aprofundar o legado humanitário da Declaração e consolidar nossa tradição de solidariedade por meio da criação de instrumento regional estratégico e eficaz para a proteção de pessoas refugiadas, deslocadas e apátridas.",
+                "Senhoras e senhores,",
+                "As fortes chuvas e enchentes no Rio Grande do Sul demonstram a realidade do deslocamento de pessoas por desastres naturais – um desafio contemporâneo que exigirá diálogo e coordenação internacional com vistas a acelerar a implementação de medidas para mitigar os impactos ambientais e a tornar os países mais preparados na resposta a eventos dessa natureza.",
+                "Aproveito a ocasião para agradecer a ajuda oferecida pelos países amigos nos esforços de socorro à população gravemente afetada pelo desastre ambiental no Rio Grade do Sul. Agradecemos também todas as manifestações internacionais de solidariedade e de profunda tristeza com a perda de vidas e os danos causados em centenas de municípios no sul.",
+                "Essa tragédia acontece em um dos estados do Brasil com maior presença de pessoas refugiadas e migrantes. Em Porto Alegre, há um Comitê Estadual de Migrantes e Refugiados. Além disso, seis universidades gaúchas são parte da Cátedra Sergio Vieira de Melo, uma das quais abriga atualmente 1.300 deslocados pelo desastre, brasileiros e migrantes.",
+                "Tenho informações de que três organizações lideradas por refugiados estão atuando no enfrentamento da calamidade no Rio Grande do Sul, em apoio aos resgates e na coleta de doações. Atos de solidariedade como esses fortalecem o nosso tecido social.",
+                "Não posso, assim, deixar de registrar a importância crucial da natureza inclusiva e participativa do processo consultivo de Cartagena. As contribuições de organizações lideradas por refugiados e da sociedade civil são fundamentais. Igualmente importantes são os representantes da academia, do setor privado, dos diferentes níveis de governo, do sistema das Nações Unidas e outros organismos internacionais ou regionais, das defensorias e instituições nacionais de promoção e proteção dos Direitos Humanos.",
+                "Dez anos atrás, em Brasília, adotamos a Declaração e o Plano de Ação do Brasil (PAB), no marco dos 30 anos da Declaração de Cartagena. Estabelecemos compromissos ambiciosos para a região. Colocamos em prática os princípios de solidariedade, cooperação internacional e responsabilidade compartilhada, posteriormente incluídos no Pacto Global sobre Refugiados. Também foi inovadora a inclusão da apatridia como nova área de proteção, juntamente com o refúgio de qualidade e a promoção de soluções duradoras, além da participação do Caribe na estratégia regional de proteção.",
+                "O Brasil orgulha-se de sua contribuição nacional à implementação do Plano de Ação do Brasil no último decênio, mas também dos avanços observados em toda a região durante a última década.",
+                "O Brasil adotou uma nova Lei de Migração, em 2017, que consolidou uma política migratória baseada nos princípios de universalidade, interdependência dos direitos humanos e rejeição da criminalização da migração. O princípio do “non refoulement” foi também assegurado. Foram estabelecidos procedimentos simplificados para a concessão de nacionalidade a pessoas apátridas e criados vistos de acolhida humanitária.",
+                "Finalmente, a “Operação Acolhida” e sua inovadora estratégia de interiorização fazem parte da contribuição brasileira para os desafios comuns da região.",
+                "A esse respeito, o Brasil reitera a natureza pacífica, apolítica e humanitária do reconhecimento da condição de refugiado. Reafirmamos igualmente o princípio internacional de que o refúgio não deve ser interpretado como ato político inamistoso.",
+                "Senhoras e senhores,",
+                "Nossa região passou por profundas transformações que agravaram a já difícil situação das pessoas que buscavam proteção: solicitantes de refúgio, pessoas refugiadas, deslocadas internamente, retornadas e apátridas. O número de pessoas deslocadas à força tem aumentado exponencialmente e continua a gerar desafios sem precedentes. A resposta regional a esses desafios deve estar à altura de nossas tradições humanitárias.",
+                "Cartagena é mais do que uma Declaração ou uma definição regional de pessoa refugiada. Seu foco em ações estratégicas, em soluções inovadoras e em boas práticas contribuem para a união de toda a América Latina e o Caribe.",
+                "O mundo precisa do nosso exemplo de proteção e de acolhida humanitária, em contexto internacional em que proliferam exemplos de políticas migratórias que limitam o acesso ao refúgio e à proteção internacional e aumentam deportações e retornos forçados.",
+                "O direito de solicitar e receber refúgio e os princípios de non-refoulement, não discriminação e unidade familiar devem ser respeitados por toda a comunidade internacional, tanto em tempos de guerra quanto de paz.",
+                "Muito obrigada."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

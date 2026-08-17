@@ -1,0 +1,653 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Discurso proferido pela Presidenta da República, Dilma Rousseff, por ocasião da abertura do Debate de Alto Nível da 69ª Assembleia Geral das Nações Unidas (ONU) – Nova York, 24 de setembro de 2014",
+            "subtitulo": "NA",
+            "data": "24/09/2014",
+            "horario": "20h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/discurso-proferido-pela-presidenta-da-republica-dilma-rousseff-na-abertura-do-debate-de-alto-nivel-da-69-assembleia-geral-das-nacoes-unidas-onu-nova-york-24-de-setembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Discurso da Presidenta da República, Dilma Rousseff, na abertura do Debate de Alto Nível da 69ª Assembleia Geral das Nações Unidas (ONU)",
+            "subtitulo": "Nova Iorque-EUA, 24 de setembro de 2014",
+            "data": "24/09/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/discurso-da-presidenta-da-republica-dilma-rousseff-na-abertura-do-debate-de-alto-nivel-da-69a-assembleia-geral-das-nacoes-unidas-onu",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Embaixador Sam Kutesa, Presidente da 69ª Assembleia Geral das Nações Unidas,",
+                "Senhor Ban Ki-moon, Secretário-Geral das Nações Unidas,",
+                "Excelentíssimos Senhores e Senhoras Chefes de Estado e de Governo,",
+                "Senhoras e Senhores,",
+                "Para o Brasil – que tem a honra e o privilégio de abrir este debate – é grande a satisfação de ver na Presidência desta Sessão da Assembleia Geral um filho da África.  Os brasileiros, somos ligados por laços históricos, culturais e de amizade ao continente africano, cuja contribuição foi e é decisiva para a construção da identidade nacional de meu país.",
+                "Senhor Presidente,",
+                "Abro este Debate Geral às vésperas de eleições, que vão escolher, no Brasil, o Presidente da República, os Governos estaduais e grande parte de nosso Poder Legislativo. Essas eleições são a celebração de uma democracia que conquistamos há quase trinta anos, depois de duas décadas de governos ditatoriais. Com ela, muito avançamos também na estabilização econômica do país.",
+                "Nos últimos doze anos, em particular, acrescentamos a essas conquistas a construção de uma sociedade inclusiva baseada na igualdade de oportunidades.",
+                "A grande transformação em que estamos empenhados produziu uma economia moderna e uma sociedade mais igualitária. Exigiu, ao mesmo tempo, forte participação popular, respeito aos Direitos Humanos e uma visão sustentável de nosso desenvolvimento.",
+                "Exigiu, finalmente, uma ação na cena global marcada pelo multilateralismo, pelo respeito ao Direito Internacional, pela busca da paz e pela prática da solidariedade.",
+                "Senhor Presidente,",
+                "Há poucos dias, a FAO informou que o Brasil saiu do mapa da fome.",
+                "Essa mudança foi resultado de uma política econômica que criou 21 milhões de empregos, valorizou o salário básico, aumentando em 71%  seu poder de compra nos últimos 12 anos. Com isso,  reduzimos a desigualdade.",
+                "Trinta e seis milhões de brasileiros deixaram a miséria desde 2003; 22 milhões somente no meu governo. Para esse resultado contribuíram também políticas sociais e de transferência de renda reunidas no Plano Brasil Sem Miséria.",
+                "Na área da saúde, logramos atingir a meta de redução da mortalidade infantil, antes do prazo estabelecido pelas Metas do Milênio.",
+                "Universalizamos o acesso ao ensino fundamental. Perseguimos o mesmo objetivo no ensino médio. Estamos empenhados em aumentar sua qualidade, melhorando os currículos e valorizando o professor.",
+                "O ensino técnico avançou com a criação de centenas de novas escolas e a formação e qualificação técnico-profissional de 8 milhões de jovens, nos últimos 4 anos.",
+                "Houve uma expansão sem precedentes da educação superior: novas Universidades Públicas e mais de 3 milhões de alunos contemplados com bolsas e financiamentos que garantem o acesso a  universidades privadas.",
+                "Ações afirmativas permitiram o ingresso massivo de estudantes pobres, negros e indígenas na nossa Universidade.",
+                "Finalmente, os desafios de construção de uma sociedade do conhecimento ensejaram a criação de um programa, o Ciência sem Fronteiras, pelo qual mais de 100 mil estudantes de  pós-graduação e de graduação são enviados às melhores universidades do mundo.",
+                "Por iniciativa presidencial, o Congresso Nacional aprovou lei que destina 75% dos royalties e 50% do fundo de recursos do petróleo e do pré-sal para a educação e 25% para a saúde.",
+                "Vamos transformar recursos finitos, não renováveis –  como o petróleo e o gás -  em algo perene: a educação,  conhecimento científico , tecnológico e inovação. Esse será o nosso passaporte para o futuro.",
+                "Senhor Presidente,",
+                "Não descuramos da solidez fiscal e da estabilidade monetária e protegemos o Brasil frente à volatilidade externa.",
+                "Assim, soubemos dar respostas à grande crise econômica mundial, deflagrada em 2008. Crise do sistema financeiro internacional, iniciada após a quebra do Lehman Brothers e, em seguida, transformada em muitos países em crise de dívidas soberanas.",
+                "Resistimos às suas piores consequências: o desemprego, a redução de salários, a perda de direitos sociais e a paralisia do investimento.",
+                "Continuamos a distribuir renda, estimulando o crescimento e o emprego, mantendo investimentos em infraestrutura.",
+                "O Brasil saltou da 13ª posição para a 7ª maior economia do mundo e a renda per capita mais que triplicou. A desigualdade caiu.",
+                "Se em 2002, mais da metade dos brasileiros era pobre ou muito pobre, hoje 3 em cada 4 brasileiros integram a classe média e os extratos superiores.",
+                "No período da crise, enquanto o mundo desempregava centena de milhões de trabalhadores, o Brasil gerou 12 milhões de empregos formais.",
+                "Além disso, nos consolidamos como um dos principais destinos de investimentos externos.",
+                "Retomamos o investimento em infraestrutura numa forte parceria com o setor privado.",
+                "Todos esses ganhos estão ocorrendo em ambiente de solidez fiscal. Reduzimos a dívida líquida de aproximadamente 60% para 35% do Produto Interno Bruto.",
+                "A dívida externa bruta em relação ao PIB caiu de 42% para 14%.",
+                "As reservas internacionais foram multiplicadas por 10 e assim, nos tornamos credores internacionais.",
+                "A taxa de inflação anual também tem se situado nos limites da banda de variação mínima e máxima fixada pelo sistema de metas em vigor no Brasil.",
+                "Senhor Presidente,",
+                "Ainda que tenhamos conseguido resistir às consequências mais danosas da crise global, ela também nos atingiu, de forma mais aguda, nos últimos anos.",
+                "Tal fato decorre da persistência, em todas as regiões do mundo, de consideráveis dificuldades econômicas, que impactam negativamente nosso crescimento.",
+                "Reitero o que disse, no ano passado na abertura do Debate Geral. É indispensável e urgente retomar o dinamismo da economia global. Ela deve funcionar como instrumento de indução do crescimento, do comércio internacional e da diminuição das desigualdades entre países, e não como  fator de redução do ritmo de crescimento econômico e de distribuição da renda social.",
+                "No que se refere ao comércio internacional, impõe-se um compromisso de todos com um programa de trabalho para a conclusão da Rodada de Doha.",
+                "É imperioso também, Senhor Presidente, pôr fim ao descompasso entre a crescente importância dos países em desenvolvimento na economia mundial e sua insuficiente participação nos processos decisórios das instituições financeiras internacionais,  como o Fundo Monetário e o Banco Mundial. É inaceitável a demora na ampliação do poder de voto dos países em desenvolvimento nessas instituições. O risco que estas instituições correm é perder sua legitimidade e sua eficiência.",
+                "Senhor Presidente,",
+                "Com grande satisfação o Brasil abrigou a VI Cúpula dos países Brics. Recebemos os líderes  da China, da India, da Rússia e da África do Sul num encontro fraterno, proveitoso que aponta para importantes perspectivas para o futuro.",
+                "Assinamos acordos de constituição do Novo Banco de Desenvolvimento e do Arranjo Contingente de Reservas.",
+                "O Banco atenderá às necessidades de financiamento de infraestrutura dos países Brics e dos países em desenvolvimento.",
+                "O Arranjo Contingente de Reservas protegerá os países dos Brics de volatilidades financeiras.",
+                "Cada instrumento terá um aporte de US$ 100 bilhões.",
+                "Senhor Presidente,",
+                "A atual geração de líderes mundiais – a nossa geração – tem sido chamada a enfrentar também importantes desafios vinculados aos temas da paz,  da segurança coletiva e do meio ambiente.e",
+                "Não temos sido capazes de resolver velhos contenciosos nem de impedir novas ameaças.",
+                "O uso da força é incapaz de eliminar as causas profundas dos conflitos. Isso está claro na persistência da Questão Palestina; no massacre sistemático do povo sírio; na trágica desestruturação nacional do Iraque; na grave insegurança na Líbia; nos conflitos no Sahel e nos embates na Ucrânia. A cada intervenção militar não caminhamos para a Paz mas, sim, assistimos ao acirramento desses conflitos.",
+                "Verifica-se uma trágica multiplicação do número de vítimas civis e de dramas humanitários. Não podemos aceitar que essas manifestações de barbárie recrudesçam, ferindo nossos valores éticos, morais e civilizatórios.",
+                "Tampouco podemos ficar indiferentes ao alastramento do vírus ebola no oeste da África. Nesse sentido, apoiamos a proposta do Secretário-Geral de estabelecer a Missão das Nações Unidas de Resposta Emergencial ao ebola. O Brasil será inteiramente solidário a isso.",
+                "Senhor Presidente,",
+                "O Conselho de Segurança tem  encontrado dificuldade em promover a solução pacífica desses conflitos. Para vencer esses impasses será necessária uma verdadeira reforma do Conselho de Segurança, processo que se arrasta há muito tempo.",
+                "Os 70 anos das Nações Unidas, em 2015, devem ser a ocasião propícia para o avanço que a situação requer. Estou certa de que todos entendemos os graves riscos da paralisia e da inação do Conselho de Segurança das Nações Unidas.",
+                "Um Conselho mais representativo e mais legítimo poderá ser também mais eficaz. Gostaria de reiterar que não podemos permanecer indiferentes à crise israelo-palestina, sobretudo depois dos dramáticos acontecimentos na Faixa de Gaza. Condenamos o uso desproporcional da força, vitimando fortemente a população civil, mulheres e crianças.",
+                "Esse conflito deve ser solucionado e não precariamente administrado, como vem sendo.  Negociações efetivas entre as partes têm de conduzir à solução de dois Estados – Palestina e Israel – vivendo lado a lado e em segurança, dentro de fronteiras internacionalmente reconhecidas.",
+                "Em meio a tantas situações de conflito, a América Latina e o Caribe buscam enfrentar o principal problema que nos marcou, por séculos  – a desigualdade social. Fortalecem-se as raízes democráticas e firma-se a busca de um crescimento econômico mais justo, inclusivo e sustentável. Avançam os esforços de integração, por meio do Mercosul, da UNASUL e da CELAC.",
+                "Senhor Presidente,",
+                "A mudança do clima é um dos grandes desafios da atualidade. Necessitamos, para vencê-la, sentido de urgência, coragem política e o entendimento de que cada um deverá contribuir segundo os princípios da equidade e das responsabilidades comuns, porém diferenciadas.",
+                "A Cúpula do Clima, convocada  em boa hora pelo Secretário-Geral, fortalece as negociações no âmbito da Convenção-Quadro.",
+                "O Governo brasileiro se empenhará para que o resultado das negociações leve a um novo acordo equilibrado, justo e eficaz. O Brasil tem feito a sua parte para enfrentar a mudança do clima.",
+                "Comprometemo-nos, na Conferência de Copenhague, em 2009, com uma redução voluntária das nossas emissões em 36% a 39%, na projeção até 2020. Entre 2010 e 2013, deixamos de lançar na atmosfera, a cada ano, em média, 650 milhões de toneladas de dióxido de carbono por ano. Alcançamos em todos esses anos as quatro menores taxas de desmatamento da nossa história. Nos últimos 10 anos, reduzimos o desmatamento em 79%, sem renunciar ao desenvolvimento econômico, nem à inclusão social.",
+                "Mostramos que é possível crescer, incluir, conservar e proteger. Uma conquista como essa  resulta do empenho - firme e contínuo – do governo, da sociedade e de agentes públicos e agentes privados. Esperamos que os países desenvolvidos - que têm a obrigação não só legal, mas também política e moral de liderar pelo exemplo, demonstrem de modo inequívoco e concreto seu compromisso de combater esse mal que aflige a todos nós.",
+                "Na Rio+20, tivemos a grande satisfação de definir uma nova agenda, baseada em Objetivos de Desenvolvimento Sustentável, aplicáveis tanto a países desenvolvidos quanto aos em desenvolvimento.",
+                "Será crucial definirmos meios de implementação que correspondam à magnitude das dificuldades que nós nos comprometemos a superar. Precisamos ser ambiciosos em matéria de financiamento, cooperação, construção de capacidades nacionais e transferência de tecnologias, sobretudo em favor dos países menos desenvolvidos.",
+                "Destaco, nesse contexto, a necessidade de estabelecer um mecanismo para o desenvolvimento, transferência e disseminação de tecnologias limpas, ambientalmente sustentáveis.",
+                "Senhor Presidente,",
+                "Ao lado do desenvolvimento sustentável e da paz, a ordem internacional que buscamos construir funda-se em valores. Entre eles, destacam-se o combate a todo o tipo de discriminação e exclusão.",
+                "Temos um compromisso claro com a valorização da mulher no mundo do trabalho, nas profissões liberais, no empreendedorismo, na atividade política, no acesso à educação entre tantos outros. O meu governo combate incansavelmente a violência contra a mulher em todas suas formas. Consideramos o século 21, o século das mulheres.",
+                "Da mesma maneira, a promoção da igualdade racial é o resgate no Brasil dos séculos de escravidão a que foram submetidos os afro-brasileiros, hoje mais da metade de nossa população.",
+                "Devemos a eles um inestimável legado permanente de riquezas e valores culturais, religiosos e humanos. Para nós, a miscigenação é um fator de orgulho.",
+                "O racismo, mais que um crime inafiançável é uma mancha que não hesitamos em combater, punir e erradicar. O mesmo empenho que temos  em combater a violência contra as mulheres e os negros, os afrobrasileiros, temos também contra a homofobia. A Suprema Corte do meu país reconheceu a união estável entre pessoas do mesmo sexo, assegurando-lhes todos os direitos civis, daí decorrentes.",
+                "Acreditamos firmemente na dignidade de todo ser humano e na universalidade de seus direitos fundamentais. Estes devem ser protegidos de toda seletividade e de toda politização tanto no plano interno como no plano internacional.",
+                "Outro valor fundamental é o respeito à coisa pública e o combate sem tréguas à corrupção.",
+                "A história mostra que só existe uma maneira correta e eficiente de combater a corrupção: o fim da impunidade com o fortalecimento das instituições que fiscalizam, investigam e punem atos de corrupção, lavagem de dinheiro e outros crimes financeiros.",
+                "Essa é uma responsabilidade de cada governo. Responsabilidade que assumimos, ao fortalecer nossas instituições.",
+                "Construímos o Portal Governamental  da Transparência que assegura, ao cidadão, acessar os gastos governamentais em 24 horas.",
+                "Aprovamos a Lei de Acesso à Informação que permite ao cidadão, o acesso a qualquer informação do governo, exceto aquelas relativas à soberania do país.",
+                "Fortalecemos e demos autonomia aos órgãos que investigam e também ao que faz o controle interno do governo.",
+                "Criamos leis que  punem tanto o corrupto, como o corruptor. O fortalecimento de tais instituições é essencial  para o aprimoramento de uma governança aberta e democrática.",
+                "A recente reeleição do Brasil para o Comitê Executivo da \"Parceria para o Governo Aberto\" vai nos permitir contribuir também para governos mais transparentes no plano mundial.",
+                "Senhor Presidente,",
+                "É indispensável tomar medidas que protejam eficazmente os direitos humanos tanto no mundo real como no mundo virtual, como preconiza a resolução desta Assembleia sobre a privacidade na era digital.",
+                "O Brasil e a Alemanha provocaram essa importante discussão em 2013 e queremos aprofundá-la nesta Sessão. Servirá de base para a avaliação do tema o relatório elaborado pela Alta Comissária de Direitos Humanos. Em setembro de 2013, propus aqui, no debate geral, a criação de um marco civil para a governança e o uso da Internet com base nos princípios da liberdade de expressão, da privacidade, da neutralidade da rede e da diversidade cultural.",
+                "Noto, com satisfação, que a comunidade internacional tem se mobilizado, desde então, para aprimorar a atual arquitetura de governança da internet. Passo importante nesse processo foi a realização, por iniciativa do Brasil, da Reunião Multissetorial Global sobre o Futuro da Governança da Internet - a NETmundial - em São Paulo, em abril deste ano.",
+                "O evento reuniu representantes de várias regiões do mundo e de diversos setores. Foram discutidos os princípios a seguir e as ações a empreender para garantir que a internet continue a evoluir de forma aberta, democrática, livre, multissetorial e multilateral.",
+                "Senhor Presidente,",
+                "Os Estados-membros e as Nações Unidas têm, hoje, diante de si, desafios de grande magnitude. Estas devem ser as prioridades desta Sessão da Assembleia Geral. O ano de 2015 desponta como um verdadeiro ponto de inflexão.",
+                "Estou certa de que não nos furtaremos a cumprir, com coragem, com  lucidez, nossas altas responsabilidades na construção de uma ordem internacional alicerçada na promoção da Paz, no desenvolvimento sustentável, na redução da pobreza e da desigualdade.",
+                "O Brasil está pronto e plenamente determinado a dar sua contribuição.",
+                "Muito obrigada."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Discurso proferido pela Presidenta da República, Dilma Rousseff, por ocasião da Cúpula do Clima das Nações Unidas – Nova York, 23 de setembro de 2014",
+            "subtitulo": "NA",
+            "data": "23/09/2014",
+            "horario": "18h44",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/discurso-proferido-pela-presidenta-da-republica-dilma-rousseff-durante-cupula-do-clima-das-nacoes-unidas-nova-york-estados-unidos-23-de-setembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Discurso proferido pela Presidenta da República, Dilma Rousseff, por ocasião da Cúpula do Clima das Nações Unidas – Nova York, 23 de setembro de 2014",
+            "subtitulo": "NA",
+            "data": "23/09/2014",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/discurso-proferido-pela-presidenta-da-republica-dilma-rousseff-durante-cupula-do-clima-das-nacoes-unidas-nova-york-23-de-setembro-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Declaração do Presidente Fernando Henrique Cardoso à imprensa por ocasião de visita do Primeiro-Ministro de Portugal, António Guterres",
+            "subtitulo": "BRASÍLIA, PALÁCIO DO PLANALTO. 5 DE SETEMBRO DE 2001",
+            "data": "05/09/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "30/12/2024"
+            ],
+            "horario_atualizado": [
+                "14h00"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/declaracao-do-presidente-fernando-henrique-cardoso-a-imprensa-por-ocasiao-de-visita-do-primeiro-ministro-de-portugal-antonio-guterres",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Quero expressar a satisfação do Governo e do povo brasileiro por estarmos recebendo, uma vez mais, o Primeiro-Ministro de Portugal, António Guterres, na realização do que nós aqui chamamos, imitando o vocabulário português, de uma Cimeira, ou seja, uma reunião de Cúpula entre os dois Governos. Essa Cimeira se reúne anualmente. Portugal é o único país com o qual o Brasil tem este tipo de relacionamento, que implica uma possibilidade enorme. De fato, existe uma possibilidade entre nossos povos. Em primeiro lugar, as nossas culturas, as nossas economias e possibilidade política também, posto que, no plano internacional, o Brasil e Portugal têm trabalhado juntos esses anos todos. Em particular, tenho um apreço muito especial pelo Primeiro-Ministro Guterres, a quem considero - e não por estar na presença dele, porque eu o digo sempre - um dos principais líderes mundiais. Tivessem outros países, de maior porte que Portugal, a sorte de terem um líder da estatura de Guterres e já teríamos caminhado mais no sentido de um sistema económico mundial global mais justo, mais solidário, menos assimétrico. Tivessem os líderes a mesma visão que tem o Primeiro-Ministro de Portugal, e o Brasil e Portugal, Mercosul e União Europeia já teríamos caminhado mais na direção daquio que nós almejamos, que é de um tratado de comércio que permita uma aproximação ainda maior entre nossas economias. Mas, a despeito de haver dificuldades, o fato é que a existência de Portugal, e a existência em Portugal de um Governo como este, chefiado pelo Primeiro-Ministro - e rendo minhas homenagens ao Presidente Jorge Sampaio, também, a quem muito prezo -, já nos tem ajudado bastante. Nas nossas discussões, nesta manhã, que não foram discussões, foram explicações recíprocas e sempre convergentes, ficou claro que o caminho é de ampliar a cooperação entre Brasil e Portugal, entre o Mercosul e a União Europeia. Nos próximos meses estaremos ativos tanto na preparação da reunião que haverá no Emirado de Catar, que a Organização Mundial do Comércio vai patrocinar para a discussão de uma nova rodada de negociações multilaterais de comércio, quanto na relação entre a União Europeia e o Mercosul nós estaremos trabalhando ativamente para lograr os êxitos que os nossos povos merecem. Obrigado e ofereço a palavra ao Primeiro-Ministro, António Guterres.",
+                "[Seguem-se palavras do Primeiro-Ministro de Portugal].",
+                "Primeiro-Ministro: Gostaria, em primeiro lugar, de agradecer, de uma forma muito sentida e muito emocionada, essa excepcional recepção, o calor humano e a amizade com que o Presidente Fernando Henrique Cardoso e seu Governo nos recebem sempre. E as palavras tão gentis e tão amigas que pronunciou. Penso que esse encontro foi muito importante em três níveis. Em primeiro lugar, porque nos permitiu estabelecer uma estratégia de cooperação que vai, agora, ser concretizada no plano técnico, através de consultas permanentes, naquilo que podemos chamar de tentativa de estabelecimento de uma arquitetura das relações internacionais, conforme a visão comum dos dois Governos. Visão que é inteiramente coincidente e visão que passa, em primeiro lugar, pela regulação de um processo de globalização que tenha uma rodada de negociações da Organização Mundial do Comércio, e, com êxito, um papel essencial do estabelecimento de regras multilaterais. Em segundo lugar, seja acompanhado de uma aceleração das negociações entre a União Europeia e o Mercosul, ultrapassando as atuais dificuldades, no sentido de ser possível o estabelecimento da uma lógica de articulação triangular no espaço atlântico, com o Mercosul e a América do Sul em seu torno, com a União Europeia, com os Estados Unidos e os países que a eles se associam, mas baseada no equilíbrio, baseada numa lógica de igualdade e de multipolaridade, que é indispensável para uma arquitetura mais justa das relações internacionais. Brasil e Portugal vão trabalhar, e vão trabalhar em detalhes, na aproximação de posições concretas nestes domínios, nos quais, como é sabido, Portugal é representado pela União Europeia. Mas procuraremos, dentro da União Europeia, e já demos alguns passos significativos nesse domínio, nomeadamente uma proposta de reforma da política agrícola comum. Procuraremos, dentro da União Europeia, criar as condições de êxito para estes dois objetivos: a possibilidade de a Organização Mundial do Comércio desempenhar o seu papel de regulador multilateral e o êxito das negociações União Europeia/ Mercosul como pilar de uma nova arquitetura. O segundo aspecto que eu queria sublinhar é a importância da entrada em vigor do novo tratado. Tratado de Amizade, Cooperação e Consulta. É um tratado celebrado entre duas democracias, que substitui os acordos celebrados entre duas ditaduras. E é bom não esquecer os irritantes problemas que tratados já não adaptados aos tempos modernos criaram, na última década, entre os dois países e que, agora, são definitivamente removidos.",
+                "Para sublinhar a importância desse tratado, estou em condições de anunciar à opinião pública brasileira, ao povo do Brasil, através de sua comunicação social, que há, neste momento, um acordo firme de um conjunto de forcas políticas que constituem uma maioria superior a dois terços na Assembleia da República de Portugal para, no quadro da revisão constitucional extraordinária, que vai ser efetuada para adaptar a legislação portuguesa ao Tribunal Penal Internacional, introduzir na Constituição portuguesa as regras de reciprocidade de direitos políticos e de igualdade de direitos políticos no espaço lusófono. Essas medidas permitirão que, pela primeira vez na História, aproveitando as disposições já existentes na Constituição brasileira, elementos, cidadãos do Brasil possam vir, em breve, a ser membros do Parlamento português ou até do Governo português, e cidadãos portugueses possam vir, também, em breve, por exemplo, a ser membros do Congresso brasileiro ou do Governo brasileiro. Era, talvez, a última questão que estava por se resolver no relacionamento político entre os dois países. Posso anunciar-vos que existe, hoje, um consenso político em Portugal para permitir alterar a Constituição portuguesa no sentido de uma total identidade de pontos de vista com o Brasil. O terceiro aspecto que eu gostaria de sublinhar é o da concretização desta visão comum rio quadro da globalização e deste novo assentar em bases modernas o nosso relacionamento político e aproveitar esses dois fatos para uma intensificação muito grande do nosso relacionamento. No plano das sociedades civis, quer nos quadros do investimento, do turismo, da cultura como no plano político, ternos um conjunto vastíssimo de acordos, que vão desde o transporte aéreo à Justiça e que revelam um trabalho muito aprofundado de cooperação entre os dois Governos, correspondente ao que é, hoje, o sentimento de irmandade entre os dois países. Quero sublinhar, enfim, que a visão que o Brasil tem vindo a imprimir na liderança que tem sabido realizar, sob a Presidência, do Presidente Fernando Henrique Cardoso, no quadro do Mercosul e da América do Sul, é uma visão que nós partilhamos inteiramente. E gostaríamos que Portugal, com a humildade que reconhecemos em relação às nossas capacidades, como membro da União Europeia, possa dar um contributo útil para que essa mundivisão, essa perspectiva de uma arquitetura mais justa e multipolar das relações internacionais se possam vir a concretizar.",
+                "Jornalista: Presidente Fernando Henrique: é verdade que as relações políticas entre os dois países seguem um bom caminho? E não é mesmo verdade que há ainda alguns entraves no plano das relações económicas? Por exemplo, os empresários portugueses que têm já uma forte participação na economia brasileira queixam-se, por exemplo, de entraves burocráticos, nomeadamente no que concerne à concessão de vistos de trabalho para entrar aqui, no Brasil. O Senhor pensa que, de alguma forma, o seu Executivo está em condições de minorar esses entraves burocráticos, que garanta uma melhor participação dos empresários portugueses no Brasil? Presidente: Pois não. Não apenas os empresários portugueses se queixam de entraves burocráticos, mas também os empresários brasileiros se queixam dos mesmos entraves. Eu até diria que também me queixo dos entraves burocráticos, para mostrar a dificuldade que há em resolver, às vezes, pequenos problemas. Mas, certamente, a disposição do Governo é de solucioná-los. No que diz respeito à questão de vistos de entrada, há uma legislação complexa. E, na medida que havia, como ainda há, preocupação com oferta de emprego, há sempre alguma tendência a resistir à concessão de vistos. Mas o Ministro do Trabalho está atento para que isso não se transforme em um obstáculo à expansão das empresas, notadamente das portuguesas.",
+                "Jornalista: Presidente, essa modificação que está sendo estudada na Constituição portuguesa, no Brasil também teria que ser alterada, não é? Presidente: Não. Nós já temos. A Constituição do Brasil já permite. Permite, na medida em que haja reciprocidade. Como Portugal estará dando reciprocidade, a partir daí, se você quiser ser deputada em Portugal, pode se candidatar. Algo mais?",
+                "ornalista: Por parte dos setores empresariais portugueses com investimentos no Brasil há alguma preocupação pela estabilidade do real. O Senhor Presidente diz o que sobre a estabilidade da moeda brasileira? Presidente: Pois não. Efetivamente, neste ano, o real perdeu valor ante o dólar, mais ou menos em 25%, algo por aí, um pouco mais ou um pouco menos. Não sei se você se recorda, mas, nos últimos dois anos, o franco francês passou a valer 7,25, 7,7 francos para um dólar. O que aconteceu? Nada de muito grave. Aqui, efetivamente, como o câmbio é flutuante, temos que nos habituar a que, quando há pressão dos mercados sobre a moeda local, ela perde valor ante o dólar. Depois, recupera esse valor ou não. Depende das circunstâncias. A primeira consequência, neste momento, dessa desvalorização foi aumentar a competitividade. Então, os empresários portugueses que estão aqui e quiserem exportar ganham corh isso. A outra consequência não é tão boa assim. Qual é? A de ter alguma transferência dessa perda para os preços internos. Na verdade, até agora, a inflação está relativamente sob controle. Imaginamos que, neste ano, ela se mantenha dentro da meta. A meta fixada tinha sido, creio eu, de 4% e 2% a mais ou a menos. Deve estar nos 2% a mais, por volta de 6%. Ou seja, não houve a transferência da desvalorização do dólar para os preços, porque a economia não é mais indexada. Então, apenas a parte da produção local que, efetivamente, é composta de produtos importados é que pode sofrer algum percalço. Mas é passageiro. Neste momento, essa pressão sobre o dólar é visivelmente especulativa. Especulativa não no sentido de que se esteja jogando contra a moeda. Não há corrida contra o real. É em função do quadro da Argentina, do próprio país. Na medida em que a crise de energia foi sendo absorvida e bem conduzida e a população muito solidária; na medida em que a situação da Argentina parece estar já em um momento de maior alívio, provavelmente o que vai haver é uma tendência contrária, um equilíbrio maior, que vai levar o real a se valorizar. Nitidamente, o real, neste momento, está subvalorizado e é possível que se corrija, daí por diante.",
+                "Não vejo nisso um problema maior. Por isso, mencionei o franco - o franco, não o ex-ditador, a moeda francesa. Nada mais?",
+                "Jornalista: Tenho uma pergunta.",
+                "Presidente: Faça.",
+                "Jornalista: O senhor citou, Presidente, a próxima rodada da OMC. Gostaria de saber em que termos vocês trataram desse assunto, se vocês trataram. E se existe o apoio de Portugal para aquelas questões que o Brasil considera prioritárias, como, por exemplo, aquela questão dos subsídios agrícolas, do protecionismo.",
+                "Presidente: A primeira parte, eu respondo. A segunda, quem pode responder é o Primeiro-Ministro. Nós tratamos, sim, dessa questão. E, até por sugestão do Primeiro-Ministro Guterres, vamos organizar um grupo contínuo de avaliação e de trabalho entre brasileiros e portugueses. Isso se desdobrará nas nossas Embaixadas, em Bruxelas e em Genebra, para o acompanhamento dessas questões. Porque temos uma visão comum, como o próprio Primeiro-Ministro acabou de dizer aqui, de que precisamos trabalhar por um sistema global que seja mais simétrico e - para utilizar a expressão que foi, inicialmente, do Primeiro-Ministro Lionel Jospin - dar uma cara humana à globalização. Cara humana se dá dando condições de acesso aos mercados. Agora, quanto à opinião sobre a política agrícola comum, prefiro que o Primeiro-Ministro diga ele próprio. Primeiro-Ministro: A situação do Brasil e de Portugal é distinta, na medida em que o Brasil participa diretamente nas negociações comerciais e Portugal é representado pela União Europeia. Portanto, aquilo em que nós cremos é trabalhar no interior da União Europeia para que as posições da União Europeia possam evoluir no sentido que favoreça, quer o êxito da rodada da OMC, quer o progresso rápido das negociações com o Mercosul. Nesse sentido, reconhecemos que uma das questões mais delicadas tem a ver com as consequências da política agrícola comum. E, por isso, Portugal apresentou, recentemente, uma proposta de reforma da política agrícola comum, que, naturalmente, é a nossa base de trabalho e de contributo para uma forma que será indispensável, dado o alargamento da União e as consequências que esse alargamento terá na vida interna da agricultura europeia. Mas a proposta portuguesa, se fosse aceita, estamos convencidos de que resolveria uma grande parte das dificuldades ainda existentes. Em qualquer caso, é uma base de trabalho que desejamos seja um dos elementos de pressão e influência no interior da Europa para criar condições compatíveis para que os acordos indispensáveis sejam possíveis. Gostaria, aqui, de dizer com muita clareza: a Europa tem de perceber que o êxito das negociações com o Mercosul é uma questão estratégica, vital para a própria influência da Europa na cena internacional. Se as negociações entre a Europa e o Mercosul falharem, a Europa perde, e perde significativamente, na sua capacidade de intervenção na escala mundial, porque precisamos de uma estrutura multipolar. E uma estrutura multipolar exige a capacidade de um inter-regionalismo aberto com aqueles que têm efetiva capacidade de afirmação na escala mundial. E o Mercosul é uma dessas entidades. Se perdermos esta oportunidade, não tenho dúvidas de que o mundo ficará condenado a uma lógica politicamente desestruturada, com uma única potência hegemónica.",
+                "Presidente: Última questão.",
+                "Jornalista: Senhor Presidente, pegando as palavras do Senhor Primeiro-Ministro no esquema multipolar, não acha que a Europa deve ser o interlocutor privilegiado do Brasil, até para contrabalançar um certo asfixiamento por parte dos Estados Unidos, que são a potência hegemónica daqui, da região?",
+                "Presidente: Eu acho que a Europa deve ser, realmente, o interlocutor privilegiado do Brasil. Nós temos feito um esforço nessa direção. Isso nos interessa. Não porque nos sintamos asfixiados.",
+                "Jornalista: Eu falei em tentativa.",
+                "Presidente: Na verdade, os Estados Unidos estão oferecendo também um acordo, que é a Alça. O problema do Brasil é semelhante ao que disse o Primeiro-Ministro: é que, para que nós possamos ter uma ação mais efetiva em nível global, precisamos estar relacionados não com um só pólo, mas com os vários pólos. É nesse sentido que é fundamental que haja uma interlocução privilegiada com a Europa. Não para nós não falarmos com os Estados Unidos, mas para que nós possamos falar no mesmo tom de voz com todos os países do mundo. Muito obrigado aos Senhores."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Discurso do Presidente Fernando Henrique Cardoso no almoço em homenagem ao Primeiro-Ministro de Portugal, António Guterres",
+            "subtitulo": "PALÁCIO ITAMARATY, BRASÍLIA, DF. 5 DE SETEMBRO DE 2001",
+            "data": "05/09/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "30/12/2024"
+            ],
+            "horario_atualizado": [
+                "14h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/discurso-do-presidente-fernando-henrique-cardoso-no-almoco-em-homenagem-ao-primeiro-ministro-de-portugal-antonio-guterres",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Permita-me, antes de tudo, Primeiro-Ministro e amigo António Guterres, partilhar com Vossa Excelência e sua ilustre comitiva minha satisfação pelo êxito de mais uma edição da prática de consultas que inauguramos cinco anos atrás, no início de nossos mandatos. Recordo o entusiasmo com que então discutíamos o objetivo de renovar o relacionamento entre Brasil e Portugal. Não nos contentávamos em prestar o tributo de sempre às afinidades históricas, por importantes que fossem e continuem a ser para a fluidez de nosso diálogo. Queríamos mais, bem mais. Percebíamos o quanto as mudanças em curso no Brasil e em Portugal prometiam para o adensamento da nossa parceria, em todos os campos, da economia à cultura, da educação à ciência e tecnologia. Mas jamais ditamos, de nossos gabinetes, a agenda do futuro. A ideia sempre foi a de trabalhar para que as sociedades nacionais assumissem as rédeas do processo e imprimissem ao relacionamento latitude e ritmo próprios.",
+                "E assim foi feito. Demos as sinalizações necessárias. Lembro, por exemplo, a ênfase com que Vossa Excelência fez saber ao empresariado português a confiança que depositava no Plano Real e nas oportunidades que se ofereciam no Brasil para o investimento produtivo. Muito por conta de seu estímulo e do trabalho de seus assessores, como o ex-Ministro Pina Moura, podemos hoje saudar a estupenda evolução da presença portuguesa na economia brasileira, onde os números falam por si só. Em 1995, o estoque das inversões limitava-se a 350 milhões de dólares. Até 1997, não ultrapassava i bilhão de dólares. Quatro anos mais tarde, aproxima-se da casa de 8 bilhões de dólares, o que representa um crescimento em menos de seis anos de quase 8.000%, posicionando Portugal entre os cinco maiores investidores no Brasil. E convém ter presente que parte expressiva 4° investimento português se dá em parceria com empresas brasileiras, como nos campos de energia elétrica, serviços bancários, cimentos e exploração de petróleo. A mensagem de confiança e de estímulo dos dois Governos também se fez sentir no campo da cultura, sob a égide do V Centenário. Um exemplo é o Projeto Resgate, de imenso interesse para a historiografia nacional. O pesquisador brasileiro passou a dispor de acesso ao inestimável acervo do Arquivo Histórico Ultramarino sobre a experiência colonial. Não há como ignorar, tampouco, a importância do Tratado de Amizade, Cooperação e Consulta.",
+                "Do reconhecimento de títulos universitários à regularização das oportunidades de trabalho, muitos são os benefícios para brasileiros e portugueses do acordo-quadro firmado em Porto Seguro. Com a troca hoje dos instrumentos de ratificação, o Tratado logo fará parte do cotidiano dos dois povos. Outros desdobramentos podem ser lembrados para confirmar quão produtiva tem sido a sequência de Cimeiras. Elas aprofundam pontos de convergência, identificam novos espaços de cooperação e também permitem uma atuação coordenada em vertentes de interesse especial para nossa ação externa, como o projeto de associação entre o Mercosul e a União Europeia^ Quanto mais estreita a aproximação entre Brasil e Portugal, maior a contribuição que podemos prestar para uma integração equilibrada de nossos blocos. O Brasil conta com Portugal para que a Europa se revele sensível à expectativa do Mercosul por maior acesso ao mercado agrícola europeu.",
+                "O pleito é antigo, mas sua relevância não poderia ser mais atual. Não podemos deixar que interesses setoriais comprometam a constituição daquilo que pode ser a mais extensa e populosa zona de livre-comércio do globo. Brasil e Portugal também estão de mãos dadas no objetivo de fazer prosperar a Comunidade dos Países de Língua Portuguesa. A CPLP nos permite traduzir história em concertação política. É um instrumento de afirmação da lusofonia, para proveito dos povos irmãos da África e da Ásia. Brasil e Portugal não têm faltado ao povo timorense, que acaba de dar testemunho de sua maturidade política com a realização ordenada e pacífica de eleições para a Assembleia Constituinte. Estive no Timor no início deste ano, em uma visita memorável que reafirmou o compromisso do Brasil em cooperar na montagem do novo Estado. Muito nos anima a perspectiva de ter o Timor como o oitavo membro da CPLP.",
+                "Não menos prioritária é a cooperação que se busca prestar no âmbito da Comunidade para prevenção e tratamento da Aids. A experiência que o Brasil acumulou nesse campo está à inteira disposição das comunidades lusófonas da África. O combate à Aids é emblemático da necessidade imperiosa de se combater o fundamentalismo do mercado. A Organização Mundial do Comércio acatou a posição do Brasil de que o acesso a medicamentos contra o vírus HIV não deve ser coibido pela busca de lucros excessivos.",
+                "O instituto de patentes, sacralizado por muitos, cedeu lugar a considerações humanitárias, ao bom senso. Estou certo de que outras vitórias são possíveis na luta por uma globalização menos impiedosa, mais solidária, com rosto humano, como afirmei em Quebec, Compartilho com o Primeiro-Ministro António Guterres a visão de uma social-democracia renovada, que se preocupa com a busca da eficiência, sem renunciar ao ideal de uma convivência social mais fraterna e igualitária. Temos alguns desafios imediatos pela frente, a começar pela discussão de uma nova rodada de negociações da OMC. Nossa expectativa é a de que não se privilegiem áreas onde poucos têm a ganhar. As obrigações e os benefícios devem ser para todos. Não pode haver outro critério de legitimidade, senão este, para negociações de tamanha relevância.",
+                "Senhoras e Senhores, recordei, em sessão solene da Assembleia da República Portuguesa, há pouco mais de um ano, que a aproximação entre nossos povos foi construída sob o signo do universalismo, de interesses e valores ecuménicos. Isso pautou nossa formação - plural e multiétnica - e também deu lastro ao exercício da democracia, ao cultivo do diálogo e da tolerância. Esse mesmo signo serve ao propósito de interagir com o mundo, sem excluir parceiro algum, mas também sem ser excluído. O Brasil quer se fazer escutar no mundo do futuro, ao lado de Portugal e dos demais países lusófonos. Convido todos os presentes a que levantem suas taças e me acompanhem em um brinde à saúde e à felicidade do Primeiro-Ministro António Guterres. E brindemos também ao progresso de nossos povos e à amizade que sabemos perene entre Brasil e Portugal.",
+                "Muito obrigado"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Discurso do Presidente Fernando Henrique Cardoso na sessão de abertura da Cúpula Mundial sobre Desenvolvimento Sustentável",
+            "subtitulo": "JOANNESBURGO, ÁFRICA DO SUL, 2 DE SETEMBRO DE 2002",
+            "data": "02/09/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h52"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/discurso-do-presidente-fernando-henrique-cardoso-na-sessao-de-abertura-da-cupula-mundial-sobre-desenvolvimento-sustentavel",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Somos milhares aqui, mas certamente expressamos preocupações e ansiedades de milhões de pessoas. Na verdade, de toda a humanidade. Por isso, gostaria de cumprimentar o Governo da África do Sul e, em especial, o meu amigo, Presidente Thabo Mbeki, por sua liderança na realização desta reunião de cúpula. Há dez anos, no Rio de Janeiro, iniciamos uma ambiciosa jornada. Esse empreendimento visionário consagrou a necessidade de incorporar considerações ambientais aos projetos de desenvolvimento. Hoje estamos reunidos não apenas para reafirmar esses princípios, mas sobretudo para assumir compromissos com ações concretas. O Brasil vem a Joannesburgo com olhos postos no futuro, mas com as mãos prontas para o trabalho de agora. Seria imoral assistir passivamente à destruição dos complexos ecossistemas de que depende a vida na Terra. Precisamos explorar os recursos naturais com racionalidade. Há resistências, há oposições a serem vencidas. É nossa tarefa comum vencer o poder da inércia ou da indiferença.",
+                "É imprescindível encontrar o equilíbrio entre prosperidade económica, proteção do meio ambiente e justiça social. Só há uma resposta possível: um novo paradigma de desenvolvimento. Um paradigma que esteja baseado no princípio das responsabilidades comuns mas diferenciadas. Nossa aspiração ao desenvolvimento e ao bem-estar não pode limitar o direito das gerações futuras de fazerem suas próprias escolhas. Queremos preservar a biodiversidade, não apenas por seu valor intrínseco, mas também por seus benefícios, que devem ser repartidos com as comunidades detentoras dos recursos. O mesmo princípio vale para a proteção dos conhecimentos tradicionais. Por isso, estamos propondo a criação do Fundo para a Diversidade Biológica, que começará com modestos, quase simbólicos, recursos financeiros dos países detentores de maior biodiversidade. Esse Fundo estará, naturalmente, aberto a contribuições de outros países, organizações e empresas. Há cerca de duas semanas, criamos, na Amazónia setentrional, a maior área de proteção de floresta tropical do mundo - o Parque Nacional do Tumucumaque. Desejo convidar a comunidade internacional a apoiar essa iniciativa. Orgulhoso de sua extraordinária diversidade biológica, o Brasil não fugirá de suas responsabilidades.",
+                "Queremos uma matriz energética mais limpa. Para tanto, o Brasil trouxe a esta Conferência a proposta de que, até 2010,10% de toda a energia utilizada no mundo seja de fontes renováveis. Os países da América Latina e do Caribe comprometeram-se com essa meta. Espero que esse seja o caminho para todas as nações. É preciso deter o processo de aquecimento global. Temos a expectativa de que entre em vigor, no mais breve prazo, o Protocolo de Quioto. Junto minha voz à do Chanceler Federal da Alemanha no apelo a todas as nações, especificamente as do G-8, para que ratifiquem o Protocolo de Quioto. O Brasil deseja trabalhar junto com seus parceiros - como já começamos a fazer com a Alemanha - no sentido de viabilizar projetos concretos de cooperação sob a égide do Mecanismo de Desenvolvimento Limpo do Protocolo de Quioto.",
+                "Temos que encontrar resposta ao problema dos padrões insustentáveis de produção e consumo, que, infelizmente, ainda convivem com níveis desumanos de pobreza. O novo desenvolvimento que buscamos é baseado nos valores da justiça, da igualdade e da cooperação. O desenvolvimento não será sustentável se for injusto. Nem será sustentável se estiver constrangido pelas dificuldades de uma globalização assimétrica. A luta pela sustentabilidade passa pela construção de trocas internacionais mais equitativas, menos excludentes. Passa por uma maior previsibilidade e estabilidade dos fluxos de capitais. Pelo maior acesso a mercados para os países em desenvolvimento. Precisamos fortalecer as parcerias internacionais para gerar melhores oportunidades de emprego. Por tudo isso, precisamos de uma cooperação internacional fortalecida, para que o comércio seja, de fato, um motor do crescimento e do desenvolvimento.",
+                "Daí a nossa luta contínua contra o protecionismo no mundo desenvolvido. Daí o combate permanente aos subsídios agrícolas e todo tipo de barreira tarifária ou não-tarifária. São imperativos fundamentais na luta pela erradicação da pobreza. O acordo alcançado em Doha sobre direitos de propriedade intelectual e saúde pública foi um sinal de esperança. Foi muito importante para o Brasil, bem como para a África e diversas outras partes do mundo que sofrem a tragédia da AIDS e outras doenças. Percorremos uma longa trajetória desde a Conferência do Púo. O desenvolvimento sustentável foi alçado a uma posição de destaque na agenda internacional.",
+                "A mensagem é clara: temos que agir. Senhoras e Senhores, gosto do conceito de \"cidadania planetária\".",
+                "Cabe-nos ir além da perspectiva meramente nacional, por mais legítima que seja. Aqui estou para honrar o compromisso do Brasil com o legado da Rio-92. A implementação efetiva e abrangente da Agenda 21 deve ser nossa máxima prioridade; seu cumprimento só será garantido pela colaboração entre os Governos, em todos os níveis, e a sociedade civil. Sabemos o que é necessário fazer. Haveremos de enfrentar decisões políticas difíceis. Estamos tomando essas decisões, com coragem, no Brasil. Este é o momento. A responsabilidade é nossa, não apenas dos países em desenvolvimento, mas de todas as nações do mundo. Sem hesitação. Com sentido de urgência e ações concretas. Muito obrigado"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Discurso do Presidente Fernando Henrique Cardoso na cerimónia de assinatura de atos entre Argentina e Brasil",
+            "subtitulo": "PALÁCIO DO PLANALTO, BRASÍLIA, DF, 26 DE SETEMBRO DE 2002",
+            "data": "26/09/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/discurso-do-presidente-fernando-henrique-cardoso-na-cerimonia-de-assinatura-de-atos-entre-argentina-e-brasil",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Breves palavras de saudação pela presença do Presidente da Argentina e de agradecimento pelos esforços que vêm sendo feitos na Argentina, para que possa voltar a ter o ímpeto, que é normal desse país, na sua vida económica, na sua vida política; de agradecimento pela continuada relação positiva entre o Brasil e a Argentina e, sobretudo, Presidente Duhalde, pelo fato de que nós, hoje, assinamos documentos que têm um significado, eu ousaria dizer, histórico. Porque, num momento de tanta dificuldade, num momento em que tão poucos acreditavam que nós fossemos capazes de levar adiante nossas negociações e de manter viva a chama do Mercosul, o documento ora firmado mostra que o Brasil e a Argentina, uma vez mais, são capazes de resolver suas questões comerciais, ainda dentro de conjunturas muito desfavoráveis, mantendo a nossa crença firme no Mercosul -, o Mercosul como instrumento de cooperação entre os quatro países diretamente ligados a ele, com a presença continuada e crescente do Chile e da Bolívia; o Mercosul que aspira, agora, crescentemente, a firmar um acordo também com os países do Pacto Andino, de tal maneira que nós possamos ter, aqui, na América do Sul, um tratado de comércio que crescentemente facilite as nossas inter-relações. Fiquei muito satisfeito de escutar hoje a possibilidade de nós mesmos, antes do término do meu mandato e antes do fim deste ano, avançarmos ainda mais. Usando a expressão utilizada nesses últimos meses, que foi a \"limpeza da mesa\", \"limpeza das pedras\", espero que, quem sabe, nós possamos ter antecipado o livre comércio, num momento em que todos pensavam que era quase impossível manter esse tipo de negociação firme.",
+                "Os acordos hoje feitos, não só no setor automotivo, mas nos vários setores, foram abarcados pelas nossas negociações - sobretudo o mecanismo de revitalização do CGR em condições absolutamente seguras, porque o respaldo é do Tesouro Nacional, com a intermediação do Banco Nacional de Desenvolvimento Económico, de tal maneira que o Banco Central, na prática, operacionaliza o mecanismo de comércio, cuja responsabilidade maior é do Governo. E o Governo não tem a preocupação apenas no dia-a-dia: o Governo tem a preocupação no largo prazo.",
+                "As relações entre o Brasil e a Argentina são relações estratégicas, são relações que visam à constituição, no largo prazo, de uma comunidade de interesses cada vez mais enraizada e que não se restringe ao âmbito do comércio, nem se restringe ao âmbito financeiro; que tem a ver com a amizade entre os nossos povos, com os valores que nos orientam, a democracia acima de todos os valores e a solidariedade como uma forma continuada de cimentar e de alimentar os nossos propósitos",
+                "Queria, portanto, apenas reiterar, diante da imprensa brasileira e argentina - e, provavelmente, internacional -, que nós estamos aqui, no dia de hoje, outra vez, simbolicamente e praticamente, dizendo: vamos, sim, continuar juntos no nosso relacionamento positivo, continuar juntos na nossa crença nas nossas sociedades, na recuperação das nossas economias e nos nossos propósitos de mantermos o Mercosul com um instrumento de cooperação da América do Sul - da América do Sul com a América do Norte, com o México, com a América Central, com os Estados Unidos, com o Canadá, com o Nafta, com a União Europeia. E mais ainda: tomamos a decisão de continuarmos no caminho de Brasil e Argentina, de disputarmos, em conjunto, terceiros mercados com a China, com a índia e onde mais seja. Já iniciamos esse processo e vamos fortalecer nossas posições comuns na reunião de Santa Cruz de Ia Sierra, no chamado Grupo de Cairns. Vamos, portanto, mostrar ao mundo que acreditamos em nós próprios. E só quem acredita em si merece o respeito dos demais. Muito obrigado"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Discurso do Presidente Fernando Henrique Cardoso  no almoço oferecido em homenagem ao Presidente da República Argentina, senhor Eduardo Duhalde",
+            "subtitulo": "PALÁCIO ITAMARATY, BRASÍLIA, DF, 26 DE SETEMBRO DE 2002",
+            "data": "26/09/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h07"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/discurso-do-presidente-fernando-henrique-cardoso-no-almoco-oferecido-em-homenagem-ao-presidente-da-republica-argentina-senhor-eduardo-duhalde",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Pública"
+            ],
+            "paragrafos": [
+                "Ao renovar as boas-vindas a Vossa Excelência, Presidente Duhalde, eu gostaria de transmitir uma mensagem muito especial de amizade e de confiança ao povo e ao governo da Argentina. Sua visita nos anima a reafirmar a unidade irreversível que estamos construindo entre nossos países. Esteja seguro, Senhor Presidente, de que o Brasil acredita na recuperação da Argentina e em sua capacidade de crescer. A Argentina tem uma história de progresso e de pujança económica, de lutas sociais e de riqueza cultural. Esse património é a garantia de que, mesmo nas circunstâncias mais adversas, é possível vencer as crises. Infelizmente, o apoio da comunidade internacional tem sido tímido. Os organismos financeiros ainda não fizeram tudo que podiam para ajudar a Argentina. Espero que venham a fazê-lo o mais breve possível.",
+                "Por coincidência, Brasil e Argentina preparam-se para mudanças de governo. Mudanças costumam dar margem a expectativas e a ansiedades, nem sempre por motivos racionais. Mas trazem nervosismo aos mercados. Nada, porém, justifica as absurdas variações cambiais dos últimos dias e tampouco o aumento sem precedentes do famigerado risco-país. É como se a continuidade democrática em nossos países, pela qual tanto lutamos, ficasse agora sujeita a avaliações, supostamente idóneas, de consultores e operadores de mercado. Isso, sem dúvida, seria uma involução.",
+                "O que determina o rumo de um país é a vontade soberana de seu povo, queiram ou não os especuladores. Quando se olha a situação real da economia, fica evidente que esses fenómenos são resultado apenas de jogo de interesses - interesses que não são dos nossos países, nem são dos nossos povos. Por isso, Presidente Duhalde, quero expressar o reconhecimento do Brasil pelo empenho de seu governo em atravessar com êxito este momento delicado da História argentina e da nossa História.",
+                "Quero saudar os integrantes da comitiva que o acompanham, seus Ministros, e, muito especialmente, a honra de ter trazido até nós os senhores Governadores, que fazem parte da sua comitiva, os seus altos funcionários e homens de negócios, cuja presença aqui, entre nós, simboliza a crença da Argentina em seu relacionamento com o Brasil. Simboliza a mesma crença no Mercosul.",
+                "O Brasil reafirma, também, seu compromisso com a Argentina, com o Mercosul, não simplesmente porque o fortalecimento do nosso projeto de integração é um sinal positivo para os investidores internacionais. Sabemos que o mercado ampliado de nossos países e a contribuição do Mercosul para a estabilidade política e económica da região são valorizados lá fora. Mas esse compromisso é parte de uma crença maior. É a crença em nosso destino comum, em nossa capacidade de construirmos, juntos, o futuro. E é com essa crença e esse compromisso, que temos encontrado solução para os problemas que naturalmente surgem de uma relação tão intensa quanto a nossa. Hoje, estamos, novamente, tendo provas disso.",
+                "Renovamos o acordo automotivo, superamos as restrições comerciais através do esforço que ficou consagrado como o de \"limpar a mesa\". A mesa agora está limpa e convida a nos debruçarmos sobre ela, para trabalharmos em novos projetos conjuntos, para planejarmos os próximos passos de nossa integração. Flexibilizamos as normas relativas ao financiamento do comércio. E essa é uma grande conquista, que permite ampliar os horizontes no nosso intercâmbio em um momento de dificuldade, não apenas no plano regional, mas também no plano global. É o que continuaremos a fazer nos mais variados campos - transportes, energia, educação e cultura, ciência e tecnologia - com cooperação fronteiriça. Estamos avançando também na integração com os demais parceiros da América do Sul.",
+                "Confio em que, ainda no meu Governo, possamos concluir as negociações com a Comunidade Andina. Isso confirma que o Mercosul há de ser um alicerce do desenvolvimento em toda a região sul-americana, corno tem sido sempre um alicerce da paz e da democracia. Presidente Duhalde, a Argentina sempre foi uma referência fundamental na minha vida académica e na minha vida política. Às pesquisas de sociólogo pude acrescentar a vivência de homem público, o que me aproximou ainda mais deste vizinho querido. Como Presidente do Brasil, dediquei muitas horas do meu dia-a-dia à Argentina, à construção de nossa aliança estratégica e ao fortalecimento da nossa confiança. Continuarei, pela vida afora, com essa dedicação. E tenho certeza de que, dentro de poucos meses, meu sucessor estará fazendo o mesmo. Acredito que o Brasil e a Argentina devem enfrentar juntos os desafios da globalização: integrar cadeias produtivas, aumentar sua competitividade e disputar juntos os mercados internacionais.",
+                "O Brasil não contempla nenhuma iniciativa ou projeto regional sem a parceria com a Argentina. Os entendimentos a que chegamos nesta visita de Vossa Excelência servem de resposta aos céticos e aos pessimistas.",
+                "A cooperação Brasil-Argentina não comporta nem pessimismo nem medo ou desânimo diante das adversidades. Juntos, participamos das negociações sobre a Alça e sobre a possibilidade de um acordo de livre comércio com a União Europeia. Juntos, combatemos o apego dos países ricos ao protecionismo, em particular nos produtos agrícolas. E, se juntos podemos fazer tudo isso, é porque muitas afinidades e interesses nos aproximam. Dispomos de uma estrutura económica sofisticada, capaz de atrair investimentos produtivos e de absorver novas tecnologias. Tenho, por isso, confiança sem limites no futuro da nossa integração. Por todas essas razões, peço aos presentes que me acompanhem num brinde ao Presidente Duhalde, ao Mercosul e à amizade permanente entre o Brasil e a Argentina."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

@@ -1,0 +1,702 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "carlos-alberto-franco-franca"
+            ],
+            "titulo": "Discurso do Ministro das Relações Exteriores na Reunião do Grupo de Notáveis para uma Parceria Econômica Estratégica Brasil-Japão (Wise Group)",
+            "subtitulo": "08 de junho de 2022",
+            "data": "08/06/2022",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "21/01/2025"
+            ],
+            "horario_atualizado": [
+                "12h43"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/carlos-alberto-franco-franca/discurso-do-ministro-das-relacoes-exteriores-na-reuniao-do-grupo-de-notaveis-para-uma-parceria-economica-estrategica-brasil-japao-wise-group",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Senhoras e Senhores que acompanham este encontro,",
+                "Gostaria inicialmente de felicitar o Grupo de Notáveis pela organização anual deste mecanismo de diálogo, que demonstra o compromisso de seus membros com o constante avanço das relações Brasil-Japão, de nosso relacionamento com um país que desempenhou papel importante na formação cultural e humana do Brasil.",
+                "Desde nosso último encontro, em setembro passado, acontecimentos de grande impacto no cenário internacional reforçaram a necessidade de ampliar nossa cooperação. Após os choques decorrentes da pandemia de covid-19, o conflito na Ucrânia trouxe novos abalos nas cadeias globais de produção, bem como nos mercados de energia, de alimentos e de insumos agrícolas.",
+                "Temos urgência em buscar fontes limpas e sustentáveis de energia, um empreendimento tanto nosso quanto global, que contribuirá para a contenção da tendência de alta global dos preços de alimentos e insumos agrícolas, como fertilizantes. Será fundamental diversificar parcerias para garantir o dinamismo das cadeias internacionais de agregação de valor. Destaco, nesse contexto, as complementaridades existentes entre as economias brasileira e japonesa.",
+                "Vemos a transição para uma economia de baixo carbono como oportunidade para estreitar laços em áreas como biocombustíveis, em particular para aviação. Outros fortes candidatos são os segmentos de ferro-gusa verde; alumínio de baixo carbono; biomassa para geração elétrica; e hidrogênio verde. É encorajador observar as parcerias desenvolvidas nos últimos meses entre empresas japonesas e brasileiras. O Brasil apoiará esses esforços para a transição energética, em prol de um novo modelo de desenvolvimento sustentável, que traga prosperidade tanto para uma economia já altamente desenvolvida como a japonesa, quanto para uma economia com ampla envergadura de desafios a superar, como a brasileira.",
+                "Nos últimos anos, tem-se comprovado a importância da inovação tecnológica e de sua ampla difusão na sociedade para a manutenção da competitividade das atividades econômicas. As cadeias de agregação de valor tornam-se cada vez mais intensivas em conteúdo de ponta. O Brasil trabalha para tornar-se parceiro do Japão também na inovação, buscando transcender seu potencial como mercado consumidor. É um de nossos principais desafios a superar.",
+                "Precisamos reforçar o dinamismo de nossas relações comerciais. Seguimos empenhados em explorar a possibilidade de um Acordo de Parceria Econômica MERCOSUL-Japão, iniciativa que conta com o decidido apoio do Grupo de Notáveis.",
+                "Acreditamos que um Acordo de Parceria Econômica contribuirá, em particular, para os esforços de estabilidade dos preços de alimentos. Por meio de acordos comerciais, o Japão já abriu seu mercado a vários outros países. O Brasil almeja condições de acesso equivalentes às de nossos concorrentes, de forma a alcançarmos, brasileiros e japoneses, acesso mais amplo de nossas populações aos produtos mais competitivos de lado a lado.",
+                "O Brasil e o MERCOSUL são o elo que falta na rede de acordos comerciais do Japão. Acreditamos, portanto, que nosso comércio bilateral dispõe de potencial para crescer em ritmo igual ou superior àquele registrado com outros países da Ásia.",
+                "Senhoras e Senhores, proponho encararmos esta oportunidade de aproximação no campo comercial como um canal para avançarmos em outros segmentos, tanto econômicos quanto políticos e culturais, de nossa agenda bilateral, tão rica no passado, forte no presente e promissora no futuro. Agradeço ao Grupo de Notáveis pela oportunidade dessa discussão e faço votos de que possamos, em breve, retomar as reuniões presenciais do grupo, se possível no Brasil.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, na videoconferência da 14ª Cúpula do BRICS - Brasília/DF, 23 de junho de 2022",
+            "subtitulo": "NA",
+            "data": "23/06/2022",
+            "horario": "12h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h16"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-na-videoconferencia-da-14a-cupula-do-brics-brasilia-df-23-de-junho-de-2022",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Senhores Presidentes, primeiro-ministro senhor Xi Jinping, senhor Cyril Ramaphosa,Vladimir Putin, Narendra Modi.",
+                "Senhoras e senhores,",
+                "É uma honra participar, pela quarta vez, da Cúpula do BRICS.",
+                "Ao agradecer a presidência chinesa pela organização deste encontro, saúdo o Presidente Xi Jinping e o povo chinês, que tão bem me receberam durante minha visita à China em 2019.",
+                "Naquela ocasião, pudemos avançar na Parceria Estratégica entre Brasil e China, com benefícios concretos para os nossos povos, como demonstrado pela nossa cooperação durante a pandemia de COVID-19.",
+                "Saúdo, ademais, meus colegas Cyril Ramaphosa, da África do Sul, Vladimir Putin, da Rússia, quando me recebeu muito bem em fevereiro deste ano em seu país , e Narendra Modi, da Índia, países com os quais o Brasil também mantém relações estratégicas em múltiplas áreas, da política ao comércio, da tecnologia e inovação à saúde pública.",
+                "Nossas relações têm contribuído para a prosperidade de nossas economias e para o bem-estar de nossos povos.",
+                "Devemos somar esforços em busca da reforma das organizações internacionais, como o Banco Mundial, o FMI e o Sistema das Nações Unidas, em especial o seu Conselho de Segurança. O peso crescente das economias emergentes e em desenvolvimento deve ter a devida e merecida representação.",
+                "Para o Brasil, o BRICS é um modelo de cooperação baseado em ganhos para todas as partes envolvidas e a comunidade internacional como um todo.",
+                "Por essa razão, devemos eleger as prioridades com responsabilidade e transparência. O BRICS, além de representar um fator de estabilidade e prosperidade no cenário internacional, deve contribuir para a geração de emprego e renda e para o bem-estar de nossas populações.",
+                "Senhores presidentes, Senhor primeiro-ministro,",
+                "O BRICS surgiu em meio a uma das mais graves crises financeiras da história. Naquele contexto, a pujança das economias emergentes mostrou-se fundamental para a recuperação da economia internacional.",
+                "Em meu governo, venho orientando a política externa brasileira em prol do desenvolvimento socioeconômico do Brasil e de nossos parceiros. É preciso estar atento para que o exercício diplomático siga sempre com foco no objetivo maior de produzir prosperidade e paz.",
+                "Tenho esperança de que, em breve, poderemos encontrar-nos pessoalmente para tratar desses e de tantos outros temas de relevo para nossas agendas bilaterais e multilaterais. Enquanto essa possibilidade não se concretiza, reitero a disposição do Brasil para que, mesmo no formato virtual, possamos ter um diálogo produtivo e para que a 14ª Cúpula do BRICS seja plenamente exitosa.",
+                "Muito obrigado a todos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, na reunião por videoconferência, do BRICS Business Forum 2022 - Brasília/DF, 22 de junho de 2022",
+            "subtitulo": "NA",
+            "data": "21/06/2022",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "15h47"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-na-reuniao-por-videoconferencia-do-brics-business-forum-2022-brasilia-df-22-de-junho-de-2022",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Senhor Xi Jinping,",
+                "Senhor Cyril Ramaphosa,",
+                "Senhor Vladimir Putin,",
+                "Senhor Narendra Modi,",
+                "Senhor Ren Hongbin,",
+                "Senhoras e senhores empresários,",
+                "É uma satisfação participar de mais um Fórum Empresarial do BRICS.",
+                "Parabenizo os organizadores pela escolha do tema deste ano, “Aprofundando a parceria de negócios do BRICS para criar conjuntamente um futuro melhor para o desenvolvimento global”.",
+                "Além de ser atual, esse tema reflete bem os objetivos do Brasil para o BRICS.",
+                "Felicito e agradeço, também, a Confederação Nacional da Indústria e a seção brasileira do Conselho Empresarial do BRICS pela condução dos trabalhos de cooperação empresarial.",
+                "Em meu governo, temos implementado medidas para tornar o Marco Regulatório Econômico mais seguro, previsível e transparente.",
+                "Também buscamos melhorar a inserção do Brasil nos fluxos internacionais de comércio e investimentos.",
+                "A Lei da Liberdade Econômica e a Reforma da Previdência estão entre os muitos avanços que logramos nessa direção.",
+                "A aproximação entre nossas comunidades empresariais é uma de nossas prioridades para o BRICS.",
+                "Ao se conhecerem melhor, nossos empresários poderão fechar negócios que resultarão em ganhos recíprocos, inclusive para os trabalhadores de nossos países.",
+                "Uma das metas de meu governo tem sido ampliar a participação do setor privado na economia, promovendo investimentos em infraestrutura, incentivando o empreendedorismo e reduzindo restrições à livre atividade econômica.",
+                "O Banco do BRICS, conhecido como “NDB”, tem potencial de contribuir para o crescimento de nossas economias e a melhoria das nossas infraestruturas.",
+                "A abertura do escritório regional do NDB no Brasil permitirá a ampliação de sua atuação no país, principalmente em áreas como infraestrutura, energia renovável e mobilidade urbana.",
+                "Os esforços do NDB no combate à pandemia também foram muito importantes.",
+                "O Brasil está comprometido em consolidar-se como polo seguro e estável para investimentos.",
+                "Nosso processo de ingresso na OCDE será mais um passo nesse sentido. Estamos determinados a participar de forma construtiva na definição dos rumos da economia global.",
+                "Senhoras e senhores,",
+                "O atual contexto internacional é motivo de preocupação, em razão dos riscos aos fluxos de comércio e investimentos e à estabilidade das cadeias de abastecimento de energia e alimentos.",
+                "A resposta do Brasil a esses desafios não é se fechar ao resto do mundo.",
+                "Pelo contrário, temos procurado aprofundar nossa integração econômica.",
+                "É uma satisfação compartilharmos com nossos parceiros do BRICS esse mesmo espírito de cooperação.",
+                "Quero manifestar minha admiração pelas atividades do Fórum Empresarial, do Conselho Empresarial e da Aliança Empresarial de Mulheres do BRICS.",
+                "Tenho certeza de que o trabalho desempenhado aqui gerará bons resultados.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Declaração do Presidente da República, Jair Bolsonaro, a embaixadores estrangeiros no Brasil - Brasília, 18 de junho de 2022",
+            "subtitulo": "NA",
+            "data": "18/06/2022",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "06/10/2025"
+            ],
+            "horario_atualizado": [
+                "13h15"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/declaracao-do-presidente-da-republica-jair-bolsonaro-a-embaixadores-estrangeiros-no-brasil-brasilia-18-de-junho-de-2022",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "O Brasil é um país fantástico. 8,5 milhões de quilômetros, riquíssimo em biodiversidade, minerais, terras agricultáveis, áreas para turismo, água potável, uma coisa enorme chamada Amazônia. Ou seja, o Brasil, pela sua extensão territorial, pelas suas riquezas, está integrado no mundo todo. O Brasil faz negócios com praticamente o mundo todo, tem adotado uma posição de equilíbrio em conflitos, buscamos a paz, trabalhamos por isso, preservamos a nossa democracia. Até o momento, uma só palavra minha houve fora do que eu chamo de 4 linhas da nossa Constituição. Nós respeitamos as leis.",
+                "Me elegi Presidente da República gastando menos de US$ 1 milhão. Repito, gastando menos que US$ 1 milhão e dentro de um leito de hospital, após sofrer um atentado de uma facada de um elemento de esquerda e cujo inquérito não foi concluído, apesar dos enormes indícios de interesses outros se fazerem presentes. Mas isso é uma questão interna nossa, gostaria de ver esse inquérito concluído para chegar nos mandantes, a tentativa de homicídio.",
+                "Sou capitão do exército brasileiro, fiquei 15 anos no exército, fui vereador no Rio de Janeiro por 2 anos e 28 anos dentro da Câmara dos Deputados. Conheço muito bem nosso sistema. Conheço muito bem a política brasileira. Fiz uma campanha sem recurso, mas que começou 4 anos antes do pleito, depois da reeleição da senhora Dilma Rousseff. E, andando pelo Brasil sozinho, 3 anos sozinho andando pelo Brasil, juntando multidões, fiz a minha campanha.",
+                "Tudo que vou falar aqui, está documentado, nada da minha cabeça. O que eu mais quero para o meu Brasil é que a sua liberdade continue a valer também, obviamente, depois das eleições. O que eu mais quero, por ocasião das eleições, é a transparência. Porque nós queremos que o ganhador seja aquele que realmente seja votado. Nós temos um sistema eleitoral que apenas 2 países no mundo usam. No passado, alguns países tentaram usar, começaram até a usar esse sistema e rapidamente foi abandonado. Repito, o que nós queremos são eleições limpas, transparentes, onde o eleito realmente reflita a vontade da sua população.",
+                "Teria muita coisa a falar aqui mas eu quero me basear exclusivamente em um inquérito da Polícia Federal e foi aberto após o 2º turno das eleições de 2018, onde um hacker falou que tinha havido fraude por ocasião das eleições. Falou que ele tinha invadido, o grupo dele, o TSE. O Tribunal Superior Eleitoral. Obviamente, quando se fala em manipulação de números após eleições, quem manipula é quem ganhou. Não seria eu o manipulador. E a Polícia Federal começou, então, a apurar. Se houve ou não manipulação e de quem seria a responsabilidade.",
+                "Então, tudo começa nesta denúncia que foi de conhecimento do Tribunal Superior Eleitoral, onde o hacker diz, claramente, que ele teve acesso a tudo dentro do TSE. Disse mais: obteve acesso aos milhares de código-fontes, que teve acesso à senha de um ministro do TSE, bem como de outras autoridades, várias senhas ele conseguiu. E obviamente, a senhora ministra do TSE na época e também do Supremo Tribunal Federal, Rosa Weber, fez com que o inquérito fosse instalado.",
+                "Então, temos aqui a instauração do inquérito. Segundo o TSE, os hackers ficaram por 8 meses dentro dos computadores do TSE. Com código-fonte, com senhas e muito à vontade dentro do Tribunal Superior Eleitoral. E, diz ao longo do inquérito que eles poderiam alterar nomes de candidatos, tirar voto de um, transferir para outro. Ou seja, o sistema, segundo documento do próprio Tribunal Superior Eleitoral e conclusão da Polícia Federal, é um processo aberto a muitas maneiras de se alterar o processo de votação. Então, de imediato, a Polícia Federal pediu o tal de Logs, né, que é a impressão digital do que acontece dentro do sistema informatizado. O que é natural também, é que o órgão invadido fornecer os Logs independente de pedidos. A Polícia Federal pediu os Logs que podiam ser entregues no mesmo dia ou no dia seguinte, mas, sete meses depois, segundo documentos comigo, o TSE informou que os Logs haviam sido apagados.",
+                "E, uma coisa muito importante, esse inquérito, aberto no mês seguinte do segundo turno eleições de 2018, até hoje não foi concluído ainda. Diz aqui o próprio TSE e conclusões da própria Polícia Federal: ‘O atacante invasor conseguiu copiar toda a base de dados’. Repito, conseguiu a senha de um ministro do Tribunal Superior Eleitoral. Também a senha do coordenador de Infraestrutura, Cristiano Andrade, que é a pessoa de confiança do chefe de TI chamado Giuseppe Janino.",
+                "Então, prosseguindo, o invasor teve acesso a toda a no TSE toda a base de dados por 8 meses. É uma coisa que, com todo o respeito, eu sou o presidente da República do Brasil, eu fico envergonhado de falar isso aí. O que é comum, né, acontecer em alguns países do mundo, é o chefe do Executivo conspirar para conseguir uma reeleição. Estamos fazendo exatamente o contrário, porque temos pela frente 3 meses até as eleições. Mais na frente, tudo que eu falo aqui ou é conclusão da PF ou é diretamente informações prestadas pelo TSE.",
+                "O senhor secretário atesta, categoricamente, que o invasor obteve domínio sobre usuários e senhas, que permite a alteração de dados de partidos e candidatos. Até mesmo a sua exclusão, no contexto do processo eleitoral’. Ou seja, esse grupo de invasores puderam até mesmo excluir nomes e, mais, trocar votos entre candidatos. E o que aconteceu depois de tudo isso? Eu tive acesso a esse inquérito no ano passado, divulguei, é um inquérito que não tem qualquer classificação sigilosa e, ao divulgar, o ministro Alexandre de Moraes abre o inquérito para me investigar sobre vazamento. Em depoimento, o delegado encarregado do inquérito foi bem claro, o inquérito não tinha qualquer classificação sigilosa. Foi instada a Corregedoria da Polícia Federal, que disse a mesma coisa. E como envolvia um outro deputado, que teve acesso a esse documento, também, a Procuradoria da Câmara dos Deputados, que o inquérito não tinha qualquer classificação sigilosa.",
+                "O que nós entendemos aqui no Brasil é que, quando se fala em eleições, elas têm que ser totalmente transparentes, coisa que não aconteceu em 2018. Também, a Polícia Federal, depois que demorou 7 meses para o TSE informar que os Logs já haviam sido apagados, repito, eles poderiam ser fornecidos de forma espontânea ou através do requerimento, no mesmo dia, ou no dia seguinte.",
+                "Então, 7 meses depois, o TSE informou que os Logs tinham sido apagados. E a Polícia Federal concluiu, pela total falta de colaboração do TSE para com a apuração, do que os hackers tinham feito ou não por ocasião das eleições de 2018. E repito, até hoje esse inquérito não foi concluído. Entendo que não poderíamos ter tido eleições em 2020 sem apuração total do que aconteceu lá dentro. Porque o sistema é completamente vulnerável, segundo o próprio TSE, e obviamente a conclusão da Polícia Federal.",
+                "Só 2 países do mundo usam esse sistema eleitoral nosso. Vários outros países ou não usam ou começaram a usá-lo ou chegaram à conclusão de que não era o sistema confiável porque ele é inauditável. É impossível fazer uma auditoria em eleições aqui no Brasil. E, agora, a fotografia de alguns países, com toda certeza tem gente aqui da Inglaterra, França, Irlanda. Alemanha, Hong Kong, Coréia do Sul, Japão. Olha, o pessoal está acompanhando a apuração. No Brasil, não tem como acompanhar a apuração. Eu não sei o que vem fazer os observadores de fora aqui. Vão fazer o quê? Vão observar o que? Se o sistema é falho, segundo o próprio TSE, é inauditável também segundo uma auditoria externa pedido por um partido político, no caso, o PSDB, em 2014. E, com todo respeito, 8 meses passeando dentro dos computadores do TSE, esse grupo de hacker, será que o TSE não sabia? Vamos continuar? Mais outros países: Taiwan, Rússia, Suíça, Noruega, Itália, Israel. O pessoal tem o que observar. Aqui no Brasil os observadores que, porventura, vierem para cá, eu queria saber o que eles vão observar aqui.",
+                "Em 2014, a conclusão foi de que houve uma dúvida grave. Quem ganhou as eleições? Daria um capítulo, mas eu não vou entrar nesse capítulo aqui. Já está bem bastante curioso o que aconteceu em 2014. A Polícia Federal, nesses momentos, recomendou o voto impresso. Manteriam o sistema eleitoral nosso, mas seria impressora do lado da urna. Onde não haveria contato manual por parte do eleitor e, após a confirmação do voto, o papel cairia dentro de uma urna e essa urna seria então utilizada na mais na frente para uma contagem física caso houvesse dúvidas sobre quem ganhou as eleições. Então, a documentação do próprio TSE também conclui aqui que não há como fazer uma correspondência entre um eleitor específico e seu voto. Ninguém quer descobrir o voto daquela pessoa para quem ela escreveu ali ou para quem ela queria votar, não é isso. Esse sistema aqui é impossível fazer qualquer relação com correlação entre o eleitor e o seu voto. Aqui mais uma vez junto, parecer da Polícia Federal em 2018 recomendando que fossem evitados todos os esforços para que possa existir o voto impresso para fins de autoria, também ignorados. Por 4 vezes o parlamento brasileiro, com a minha participação em todas elas, nós aprovamos o voto impresso ao lado da urna eletrônica sem contato manual do eleitor com o voto, e o Supremo Tribunal Federal disse que era inconstitucional. Inconstitucional no quê?",
+                "Deixo claro que quando se fala em ministro Fachin, ele foi o responsável por tornar Lula elegível. Numa interpretação de um dispositivo constitucional, o Lula estava preso, e o Supremo entendeu que a prisão só poderia acontecer em última instância na 4ª instância. Então, ele foi condenado em 1ª instância, 2ª instância, 3ª instância, todos os placares por unanimidade e estava cumprindo pena de prisão. Com a reinterpretação do Supremo Tribunal Federal, ele foi para rua. Mas como ele, Lula, estava em liberdade, mas as condenações estavam valendo, o próprio ministro Fachin, relator do processo, resolveu tornar o Lula elegível. Então, por 3 a 2, o Supremo Tribunal Federal não inocentou, simplesmente anulou os julgamentos voltando para a 1ª instância, o senhor Luiz Inácio Lula da Silva. Ao voltar para a 1ª instância, ele reconquistou a possibilidade de ser elegível.",
+                "Em setembro de 2021, o ministro Barroso, por portaria, resolve convidar algumas instituições, entre elas Forças Armadas, a participarem de uma comissão de transparência eleitoral. As Forças Armadas não se meteram nesse processo. Foram convidados. Ao serem convidadas, nós temos um comando de defesa cibernética que todos os outros países têm também e, como foram convidados, começaram a trabalhar para apresentar soluções, sugestões, para que o ocorrido nas eleições de 2018 não viesse ocorrer novamente.",
+                "Continua então o senhor Barroso me atacando. Deixo bem claro, por que que o senhor Barroso foi escolhido pelo governo do PT para ser ministro do Supremo Tribunal Federal? Porque ele trabalhou para que o terrorista César Battisti ficasse no Brasil. E, no último dia do presidente Lula em 2010, Battisti conseguiu a condição de refugiado no Brasil, graças ao trabalho do Barroso, que era advogado naquela época, o terrorista César Battisti prevaleceu no Brasil. Graças a isso, certamente pegou confiança no Partido dos Trabalhadores e foi indicado para o Supremo Tribunal Federal.",
+                "Então, essa acusação que eu vazei dados por inquérito, que é ostensivo, não tem qualquer classificação sigilosa. É uma acusação simplesmente infundada. Carece de base, de amparo legal. É uma acusação mentirosa, nada existe no inquérito. O inquérito como o próprio depoimento do delegado encarregado mesmo da corregedoria da PF e da Procuradoria da Câmara dizendo do inquérito não tinha qualquer cartão sigilosa. E, se tivesse, estava errado. Porque, quando se fala em eleições, vem à nossa cabeça transparência. E o senhor Barroso também com o seu Fachin, começaram a andar pelo mundo me criticando, como se estivesse preparando um golpe por ocasião das eleições. É exatamente o contrário o que está acontecendo. O Barroso, nos Estados Unidos, faz uma palestra como se livrar de um presidente. Ele era presidente do Tribunal Superior Eleitoral e do Supremo Tribunal Federal. A gente não tem notícias de pessoas que ocupam essa Corte nos países e que fique falando, dando entrevista, dando palestras e colocando a sua opinião pessoal sobre esse ou aquele governo. Lamentável a ação do ministro Barroso pelo mundo. Isso atrapalha o Brasil. Repito, os senhores nunca ouviram uma só palavra minha de censurar a mídia. De derrubar página alguém que me critique, de prender deputado, nunca mandei prender nenhum deputado. Quem prendeu foi outro colega deles, Alexandre Moraes.",
+                "(Reprodução de vídeo. Um jornalista faz uma pergunta ao Ministro Luís Roberto Barroso) – Com as informações que temos até agora, dá para saber se haverá resultado hoje ou só amanhã? Quem que faz a manutenção do supercomputador que você mencionou? É a própria equipe do TSE ou uma empresa terceirizada?",
+                "Ministro Luís Roberto Barroso – Eu vou pedir ao nosso secretário de TI, José, se você puder comparecer ali ao microfone e explicar. Houve um problema de Infraestrutura, que é a hora que eu estava atendendo, mas eu não gostaria de dar uma explicação equivocada.",
+                "José – Esse computador é instalado por meio de um serviço, ele faz justamente esse papel da nuvem computacional. Ou seja, é um supercomputador. Ele é contratado por uma empresa, essa empresa é a Oracle, ela instala esse computador e mantém ele em funcionamento. É um serviço justamente e não é uma aquisição. Portanto, a manutenção, a conservação, o suporte, o bom funcionamento dentro do equipamento é de responsabilidade da empresa.",
+                "Barroso – É uma contratação de um serviço, como explicou o nosso secretário, ok?",
+                "Bem, não é o Tribunal Superior Eleitoral que conta os votos, é uma empresa terceirizada. Eu acho que nem precisava continuar essa explanação aqui. Nós queremos obviamente, estamos lutando para apresentar uma saída para isso tudo. Nós queremos confiança e transparência no Sistema Eleitoral Brasileiro.",
+                "Aqui uma reunião com o ministro Fachin, com alguns dos senhores ou representantes alertando-os contra-acusações levianas. O que eu estou falando aqui não tem nada de leviano. Esse inquérito, tem uma cópia comigo e quem porventura quiser ter acesso a ele eu forneço a cópia. Eu repito: não tem qualquer classificação sigilosa o que está dentro dele.",
+                "E aqui é o que eu já falei: ‘Fachin assina acordo do TSE com entidade estrangeira para observação das eleições’. Eu peço aos senhores, o que essas pessoas vêm fazer no Brasil? Vão vir observar o quê? Que o voto é totalmente informatizado vem da área de ilegalidade. Vem dizer que tudo ocorreu numa normalidade. Eu teria dezenas e dezenas de vídeos para passar para os senhores por ocasião das eleições de 2018 onde o eleitor ia votar e simplesmente não conseguia votar. Ou quando ele apertava o número 1, e depois ia apertar o número 7, aparecia o 3 e o voto ia para outro candidato. O contrário ninguém reclamou. Temos quase 100 vídeos de pessoas reclamando que foram votar em mim e, na verdade, o voto foi para outra pessoa, nenhum vídeo falando de outro candidato e porventura apareceu meu nome.",
+                "Nós queremos corrigir falhas. Nós queremos transparência. Nós queremos democracia de verdade. Agora, eu estou sendo acusado o tempo todo pelo Barroso, Fachin, Alexandre de Moraes, com uma pessoa que quer dar o golpe. Eu estou questionando antes porque temos tempo ainda de resolver esse problema. Com a própria participação das Forças Armadas que foram convidadas pelo Tribunal Superior Eleitoral. Os senhores devem estranhar: ‘O que as Forças Armadas estão fazendo no processo eleitoral?’. Nós fomos convidados. E eu sou o chefe supremo das Forças Armadas. Nós jamais com esse convite iríamos participar apenas para dar ares de legalidade. O Comando de Defesa Cibernética, que vocês devem ter equivalente nos países de vocês, é algo extremamente sério. Pessoas extremamente mais que habilitadas, confiáveis.",
+                "Depois de convidar as Forças Armadas, o trabalho das Forças Armadas junto com o comando de defesa cibernética, que é algo louvável, confiável e verdadeiro, o ministro Fachin disse que as sugestões da Forças Armadas serão avaliadas depois de 2022, todas sugestões apresentadas para as Forças Armadas podem ser cumpridas até 2 de outubro e, se tiver qualquer despesa extra, o Poder Executivo arranja recurso para tal. Sempre ouvimos, em especial da esquerda, que ‘democracia não tem preço’.",
+                "Por que uma declaração como essa? Será que já está antevendo que o candidato dele, que ele tornou elegível, vai ganhar as eleições? E o lado de cá teria uma reação? Que o resultado das eleições se cumpre. Nós estamos tentando antecipar um problema que interessa para todo mundo. O mundo todo quer estabilidade democrática no Brasil. Os senhores todos querem continuar representando os seus países, porque o Brasil é um país que interessa para todo mundo. Nós alimentamos mais de 1 bilhão de pessoas pelo mundo com o nosso o agronegócio. Repito: Temos negócios com o mundo todo, é um país fantástico. Tenho muito a falar sobre o Brasil. Vocês bem acompanham o que bem acontece aqui em nossa pátria. E nós, se o povo resolver voltar ao que era antes, paciência. Agora, em um sistema eleitoral como esse, que apenas 2 países o adotam, outros estudaram e abandonaram, outros fizeram uma outra eleição e desistiram. Nós não queremos isso para o Brasil. Nós não queremos que após as eleições um lado ou outro questione os resultados das eleições.",
+                "Como vocês viram no começo aqui, eu ando pelo Brasil todo. Sou muito bem recebido em qualquer lugar. Ando no meio do povo. O outro lado não. Sequer toma café ou almoça no restaurante do hotel. Come no seu quarto. Porque não tem aceitação. Agora, pessoas que devem favores a ele, não querem um sistema eleitoral transparente. Pregam o tempo todo que imediatamente após anunciar o resultado das eleições, os respectivos chefes de estado dos senhores devem reconhecer imediatamente o resultado das eleições.",
+                "Depois das Forças Armadas serem convidadas para participar da Comissão da Transparência Eleitoral, o Fachin, quem tornou o Lula elegível, disse que quem trata das eleições do Brasil são as ‘forças desarmadas’. Então, por que nos convidaram? Achavam que iam dominar as Forças Armadas? Será que se esqueceram que eu sou o chefe supremo das Forças Armadas? Será que esqueceram da responsabilidade das nossas Forças Armadas, que goza de um conceito excepcional perante a opinião pública? Jamais as Forças Armadas participariam de uma farsa. Jamais seriam moldura de uma fotografia. E olha uma coisa inacreditável. O que que o Fachin disse, o homem que tornou Lula elegível: ‘sempre foi advogado do MST ‘, grupo terrorista que até pouco tempo atrás era bastante ativo no Brasil, ‘A auditoria não é instrumento para rejeitar resultado das eleições’.",
+                "Para que serve a auditoria? Eu tenho vergonha de falar isso para vocês. Eu tenho vergonha de estar falando. Eu sou obrigado a conversar com os senhores. Agradeço a presença e penhoradamente. E sei que os senhores todos querem a estabilidade democrática em nosso país. E ela só será conseguida por eleições transparentes, confiáveis.",
+                "O ministro Alexandre de Moraes: ‘Manda quem prender quem disseminar as fake news nas eleições de 2022’. Que que é fake news? É o que eles acham que é a fake news. Como já aconteceu comigo, botaram uma página minha de revista uma matéria de uma revista falando sobre AIDS e vírus covid e ele achou que aquilo é fake news e está aí processando. Eu não sei onde ele acha que ele pode parar. Nós temos a paz, tranquilidade, o respeito que não tem da outra parte para conosco. Eu não sei o que faz uma pessoa agir dessa maneira. Quem escolhe as pessoas para dizer o que esse ou aquele candidato coloca em sua página, que é fake news ou não, é o próprio TSE, que desmonetiza a página, que derruba outras, que sugere prisões, que caça parlamentar por coisas que não tem tipificação na lei, como caçaram o deputado por fake news, que cria a própria jurisprudência de interesse deles mesmos para prejudicar o nosso lado.",
+                "Bolsonaro pausa o discurso para exibir um vídeo.",
+                "Atentar contra as eleições, a democracia. Quem faz isso? O próprio TSE, ao esconder o inquérito de 2018. Não pode um magistrado ameaçar quem quer que seja. Quando ele diz que existe gabinete do ódio, que seria algo do meu governo, diz que tem um ministro que falou, mas não diz o nome do ministro, não apresenta uma só matéria que poderia ter sido produzida no tal do gabinete do ódio. O que ele quer com isso? Para que tirar os ânimos entre o Poder Judiciário e o Poder Executivo? E não é o comportamento de um magistrado, a ameaça. Se disse que existe gabinete do ódio, que apresente uma só matéria que poderia ter sido produzida por um gabinete vinculado ali na presidência da República. É lamentável esse comportamento ameaçando, quer amedrontar quem? Quer fazer valer esse processo eleitoral onde próprio TSE diz que ele é vulnerável? Onde a própria Polícia Federal disse com documentação do próprio TSE que aquilo é mais que um queijo suíço, é uma peneira. Porque eles convidam as Forças Armadas e depois não querem mais as nossas sugestões.",
+                "Jornal O Estado de S.Paulo: ‘Ministro do Supremo Tribunal Federal formam cela política para combater o governo Bolsonaro’. Quem diz não sou eu. Tem a própria imprensa, que sempre esteve ao lado deles, acaba deixando transparecer uma verdade cristalina. As ações contra o nosso governo são inúmeras. Eu recebo uma interferência por semana no meu governo. Você dá prazo para explicar por 48 horas porque que eu não porque não fiz isso, porque não fiz aquilo. E ajuizada por parlamentares de esquerda, de centro esquerda brasileiro, tentando o tempo todo desestabilizar o governo. Então, a presença dos senhores aqui, que eu agradeço mais uma vez, com qual intenção nossa? Nosso objetivo é transparência nas eleições. Quem ganhar, o outro lado tem que se conformar, estamos a 3 meses das eleições.",
+                "As propostas sugeridas pelas Forças Armadas praticamente estancam a possibilidade manipulação de números, como sugere o próprio TSE, por ocasião das eleições de 2018. Eu não quero falar do que eu acho que aconteceu. Eu estou simplesmente em cima dos autos. Estou me comportando aqui o outro magistrado deveria se comportar. Com esse inquérito, como eu convidei o presidente do TSE a comparecer a esse evento, não veio. Convidei o presidente de todos os poderes, né? Presente aqui o presidente do STM. Não compareceram, tudo bem. Agora, isso que está acontecendo é de interesse de todo o povo brasileiro.",
+                "A desconfiança do sistema eleitoral não tem lado. Nós não podemos enfrentar eleições a mando da desconfiança. Nós queremos ter a certeza de que quem eleitor votou, o voto vai exatamente para aquela pessoa. O próprio TSE diz que, em 2018, os números podem ter sido alterados. Os hackers tiveram acesso a uma dezena de senhas, por 8 meses. Eles não perceberam? 8 meses. 7 meses depois que a Polícia Federal pede os Logs, que são as impressões digitais da cena, do fato, 7 meses depois os Logs foram apagados. Poderiam ser entregues os lotes no mesmo dia, por iniciativa do próprio TSE, nem precisava ser provocado pela Polícia Federal. Em 7 meses depois, foram apagados.",
+                "O próprio ministro Barroso chama o chefe da TI e ele responde que os votos são contabilizados por uma empresa terceirizada. Que empresa é essa? Temos um nome? Sim, temos um nome. Mas cadê a confiança? Eleições são questões de segurança nacional. Nós não queremos instabilidade no Brasil. O Brasil está voando.",
+                "Nos comportamos muito bem durante a pandemia. Nos comunicamos e fazemos negócios com o mundo todo. Nos mantivemos em função de equilíbrio em situações complexas pelo mundo. Nós garantimos a segurança alimentar para mais de 20% da população mundial. Também a segurança energética, o Brasil desponta como um exemplo para o mundo.",
+                "O que nós queremos? Paz, tranquilidade. Agora, por que um grupo de 3 pessoas apenas querem trazer instabilidade para o nosso país? Não aceitam nada, as sugestões das Forças Armadas que foram convidadas, são perfeitas. Chega à perfeição absoluta? Talvez não. Que nem um sistema informatizado pode dar garantia de 100% de segurança. As Forças Armadas, a qual sou comandante, ninguém mais do que nós, queremos estabilidade em nosso país. E por que agem de maneira diferente? E nós vemos claramente, o ministro Fachin, que foi quem tornou o Lula elegível e agora é presidente do TSE. O ministro Barroso foi advogado do terrorista Battisti, que recebeu aqui o acolhimento do presidente Lula em dezembro de 2010. O ministro Alexandre de Moraes advogou no passado a grupos que, se eu fosse advogado, não advogaria. É um direito dele advogar para quem quer que seja, mas eu não faria esse trabalho. Tem posição de um comportamento que não se adequa ao sistema democrático, uma ameaça. ‘Vou caçar o registro, vou prender. Quem duvidar eu prendo’. Olha, quem está duvidando do que está acontecendo, não sou eu. É o próprio Tribunal Superior Eleitoral que ele agora não quer deixar que se aperfeiçoe, que ele realmente mostre no dia 2 de outubro do corrente ano, os números reais das eleições pelo Brasil.",
+                "Então, o que eu tinha a falar aos senhores era isso. Eu vou pedir ao ministro Carlos França que o extrato disso chegue na embaixada dos senhores. Quem quiser o processo na íntegra, eu entrego também. Porque ele não tem qualquer grau de sigilo. Me sinto até envergonhado desse momento, dado o que está acontecendo em nosso país.",
+                "Isso que vocês ouviram aqui acontece no Brasil todo, como eu disse, o povo gosta da gente. Não pago um centavo para ninguém participar de absolutamente nada. É um povo que, cristão no Brasil, é um povo ordeiro, trabalhador, tem seus problemas, mas acima de tudo quer paz. Quer a segurança. E tem encontrado em mim isso daí. Diferentemente, do que algumas notícias de jornais transmitem, o que é natural, infelizmente, no mundo todo. Temos boa imprensa no Brasil também, mas o que ressalta aos olhos são as acusações.",
+                "Então, a gente lamenta o que vem acontecendo, vou convidar integrantes da Câmara, Senado, do Tribunal de Justiça, do Tribunal de Contas da União, do Tribunal Superior do Trabalho, a participar de conversas comigo sobre esse inquérito que, curiosamente, não foi fechado até o presente momento, para que nós possamos ter paz e tranquilidade e confiança por ocasião das eleições no corrente ano.",
+                "Muito obrigado a todos os senhores."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, no Encontro com a comunidade brasileira em Orlando (EUA)",
+            "subtitulo": "Orlando (EUA), 11 de junho de 2022.",
+            "data": "11/06/2022",
+            "horario": "11h02",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "15h47"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-no-encontro-com-a-comunidade-brasileira-em-orlando-eua",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Bom dia e muito obrigado a todos vocês.",
+                "Eu tenho um pedido mais do que Salomão pediu no passado, que foi a sabedoria .Eu peço também, força para resistir e coragem para decidir.",
+                "O mundo vive problemas sérios, na questão econômica com pós-pandemia e uma guerra, reflexo para todos nós. Mas, entendo que tem algo mais importante do que isso, que o primeiro momento a gente vive, o segundo é mais complexo.",
+                "Entendo, em muitos países está havendo uma luta do bem contra o mal. Nós temos algo muito importante para defender: temos princípios, temos uma tradição e temos uma liberdade.",
+                "Nós somos contra o aborto, contra a ideologia de gênero, contra a legalização das drogas; defendemos a família, a propriedade privada, a liberdade do armamento. Somos pessoas normais. Podemos até viver sem oxigênio, mas jamais sem liberdade. É com esse espírito, que ao longo de 28 anos, lutei dentro do Parlamento, e há 3 anos, à frente do Executivo Federal.",
+                "Algumas pessoas importantes me acompanham nessa viagem, como o presidente da Câmara, Arthur Lira, duas parlamentares, alguns ministros, e isso é muito bom. Essa experiência de fora do Brasil é muito bem-vinda.",
+                "Ontem estive com o presidente Joe Biden, que é o presidente dos Estados Unidos.Tive um excelente relacionamento com o Trump no passado, mas as políticas são e têm que ser duradouras.",
+                "O povo sempre decide. Eleições limpas, confiáveis e transparentes, é o que nós queremos para o nosso Brasil. Aqui trouxe a mensagem que é de conhecimento dele e muito de vocês: Hoje, o mundo passa fome sem o Brasil. O Brasil é uma potência na energia de transição, o hidrogênio verde, é uma realidade. Já começa a sair da prancheta, sonhos nossos de um passado não muito distante, e a confiança é que o mundo tem no governo brasileiro, na sua equipe, por acima de tudo, honrar contratos, e dar a devida retaguarda e estabilidade política também.",
+                "Vocês, em grande parte, aqui estão com um objetivo, e nós esperamos que tenham bastante felicidade nesse objetivo. Por vezes, somos obrigados a deixar a nossa terra natal, buscando alternativas em locais distantes, mas vocês bem sabem, não existe país mais bonito, acolhedor e com um povo maravilhoso que o nosso Brasil.",
+                "Como chefe do Executivo, eu tenho que zelar por todos, até aqueles que nos atacam, que não sabem o que é, ou não querem ver o que será do nosso país se não formos para um caminho de um outro grande país, o país mais rico do mundo, em reserva de petróleo, ali mais ao norte do Brasil.",
+                "Não basta termos um país rico, se a sua política, às suas autoridades tem um outro pensamento, tem o poder pelo poder. A democracia é maravilhosa, mas devemos zelar por ela todos os dias, e não de 4 em 4 anos.",
+                "Eu peço a Deus que esteja no caminho certo para que possamos cada vez mais nos orgulhar da nossa Pátria. Estamos indo muito bem na economia. Eu, talvez, tenha sido o único chefe de Estado do mundo contra a política de lockdown. Compramos as vacinas para quem quis e não exigir, não obriguei que ninguém as tomasse. Isso chama-se liberdade.",
+                "Nós devemos decidir o nosso futuro, cada um da sua forma, pensamento, que a liberdade que nós temos, termina apenas onde começa a do outro. Repito, ninguém tem o que nós temos.",
+                "Nas minhas viagens pelo mundo, uma das mais marcantes foi Israel. Eu sempre digo no Brasil: Olha o que eles não têm, eles não têm nada. Não tem biodiversidade, não têm florestas, não têm terras agricultáveis, não têm minérios, mas olha o que eles são, agora olhe o que nós somos, nós temos tudo. Temos tudo, e olha o que nós não somos. Onde está o problema? O problema está nas decisões que cada um de vocês tomam. Decisões nas quais, por vezes, nós somos escravos dela até para eternidade. Devemos decidir, não com a emoção ou com o coração, mas com a razão. Se assim agirmos, podemos esperar o bem para todos nós, até para aqueles que pensam de maneira diferente. Devemos aprender com o erro dos outros e não buscar soluções que não deram certo em nenhum outro país do mundo. Vocês bem sabem do que eu estou falando.",
+                "Estive aqui na pré-campanha, fui muito bem recebido, assim como é pela comunidade japonesa em 3 cidades do Japão, comandado por um brasileira que estava lá. Essa andança pelo mundo nos traz experiências diferentes que levamos para a nossa terra, e o que eu mais peço a vocês: Orações e entendimento, porque nós não podemos errar.",
+                "Creio que aquela primeira fase da passagem bíblica do João 8:32, já é uma realidade, a verdade. A outra que diz: por falta de conhecimento, o meu povo pereceu.",
+                "Entendo que vocês hoje já conhecem o que é a política de verdade no Brasil, e a última, está mais afeta a mim. Sei da minha responsabilidade, dos desafios e da missão que Deus botou para que eu cumprisse. É aquela passagem que diz: Nada temais, nem mesmo a morte, a não ser a morte eterna.",
+                "Muito obrigado a todos vocês por esse momento.",
+                "Deus abençoe os Estados Unidos e o Brasil."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, na Cerimônia de Inauguração do Vice-Consulado do Brasil em Orlando (EUA)",
+            "subtitulo": "Orlando (EUA), 11 de junho de 2022",
+            "data": "11/06/2022",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "15h47"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-na-cerimonia-de-inauguracao-do-vice-consulado-do-brasil-em-orlando-eua",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Senhor Prefeito de Miami, Francis X. Suarez, satisfação em revê-lo, fiquei muito feliz em reencontrá-lo.",
+                "Prezado Arthur Lira, presidente da Câmara, senhoras deputadas, ministros,",
+                "É uma cerimônia simples, mas de extrema importância para um pedaço do nosso Brasil. Não apenas os 400 mil que reside na região, bem como em época de férias multiplica-se por 3 esse efetivo. Quem aqui trabalha, já falei com ministro França, que esse efetivo tem que ser reforçado. Eu tenho noção disso porque já trabalhei em algo parecido com isso no Exército Brasileiro. É, esse nosso pedaço do Brasil faz um bem enorme para os nossos irmãos que estão por aqui, porque eles procuram os mais diversos serviços, por vezes tinham que viajar dezenas, aliás centenas de quilômetros para ver seu problema resolvido.",
+                "Aqui também, Lira teremos urnas que, como no mundo todo, em 2018, nós ultrapassamos a 90% os votos conseguidos nessas regiões. E aqui é um retrato da grande parte sadia do povo brasileiro, que busca oportunidades, que não conseguem em seu país, ou o que acompanha os parentes, bem sucedido fora do mesmo.",
+                "Eu confessei para o Joe Biden que desde criança eu sempre admirei o povo americano. Temos muita identidade, em especial na questão de valores no tocante à liberdade de religião, e essa Liberdade também, que é o bem maior que qualquer um povo pode ter: a liberdade de expressão é a liberdade na sua forma mais ampla possível.",
+                "E falei também com ele que sobre o mundo vem sofrendo com alguns que procuram cercear esse bem maior, e o Brasil não foge disso. Mas, entendo que temos um grande apoio no Parlamento, tem um executivo que eu posso falar que é unânime, porque eu decido, e nós buscamos manter essa identidade do Brasil para com o mundo.",
+                "A todos vocês que trabalham aqui, os servidores, prezado França, parabéns pela sua iniciativa. Sempre falei desde o começo, nós temos que nos antecipar a problemas, e isso é importantíssimo, até na questão de obras no Brasil. Eu falei que não quero uma grande obra para mim, eu quero é concluir obras.",
+                "E uma das coisas fantásticas que concluímos foi a transposição do São Francisco, a obra começou com o Dom Pedro; mas entendo que a Presidência é uma missão, uma missão de Deus, porque não é fácil estar à frente do Executivo, eu era feliz na Câmara e não sabia, lá dá para você ter seus momentos de tranquilidade durante a semana, aqui, raro o domingo que eu tenho um momento de tranquilidade, mas é passageiro.",
+                "Eu só peço a Deus, Arthur Lira, lá na frente, bem lá na frente, poder entregar para quem me suceder, democraticamente, um Brasil bem melhor do que aquele que recebi em janeiro de 2019.",
+                "Um abraço nos homens, um beijo nas mulheres.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, na Plenária da IX Cúpula das Américas - Los Angeles (EUA), 10 de junho de 2022",
+            "subtitulo": "NA",
+            "data": "10/06/2022",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "15h47"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-na-plenaria-da-ix-cupula-das-americas-los-angeles-eua-10-de-junho-de-2022",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Senhor presidente Joe Biden,",
+                "Senhor Antony Blinken, Secretário de Estado,",
+                "Senhores chefes de Estado e de governo,",
+                "Senhor Luis Almagro, Secretário-Geral da Organização dos Estados Americanos (OEA),",
+                "Prezado Deputado Arthur Lira, presidente da Câmara dos Deputados do Brasil, e ministros que me acompanham,",
+                "Senhoras e senhores,",
+                "Agradeço o convite dos Estados Unidos para participar desta reunião de líderes democráticos das Américas.",
+                "A Cúpula das Américas é oportunidade para tratarmos os desafios da pós-pandemia, do desenvolvimento sustentável, da transição energética, da transformação digital, da imigração, bem como da democracia e dos direitos humanos.",
+                "Estamos atentos aos problemas econômicos que afetam o mundo, como a inflação e o desemprego e, principalmente, ao bem mais precioso para o ser humano: a sua liberdade, aí incluídos a liberdade de expressão, de trabalho e de culto religioso.",
+                "O Brasil se engajou fortemente no processo negociador das declarações a serem discutidas e aprovadas nesta Cúpula. Vamos trabalhar juntos para que essas propostas conduzam a novas agendas de cooperação para o crescimento econômico nas Américas.",
+                "O Brasil alimenta 1 bilhão de pessoas, garantimos a segurança alimentar de um sexto da população mundial. Uma realidade: sem o nosso agronegócio, parte do mundo passaria fome.",
+                "O Brasil não apenas evitou uma crise alimentar ao garantir acesso a fertilizantes, mas também desempenhou um papel de liderança na busca de soluções internacionais em favor da segurança alimentar.",
+                "Somos um dos países que mais preservam o meio ambiente e suas florestas. Temos a matriz energética mais limpa e diversificada do mundo. Mesmo preservando 66% de nossa vegetação nativa e usando apenas 27% do nosso território para a pecuária e agricultura, somos uma potência agrícola sustentável.",
+                "Não necessitamos da Região Amazônica para expandir nosso agronegócio. Somente no bioma amazônico, 84% da floresta está intacta, abrigando a maior biodiversidade do planeta. Os nossos desafios são proporcionais ao nosso tamanho. Lembro que a área da região amazônica equivale a toda a Europa Ocidental.",
+                "Nenhum país do mundo possui uma legislação ambiental tão completa e restritiva. Nosso Código Florestal deve servir de exemplo para outros países. Afinal, somos responsáveis pela emissão de menos de 3% carbono do planeta, mesmo sendo a 10ª economia do mundo.",
+                "Para proteção das florestas, o Governo Federal reforçou o combate ao desmatamento e estabeleceu a operação Guardiões do Bioma Amazônia, sob a coordenação e controle do Ministério da Justiça.",
+                "Com o lançamento do Programa Metano Zero, fomos o primeiro país a implementar compromissos assumidos durante a COP-26, com financiamento específico para estruturar projetos de tratamento de resíduos orgânicos de aves, suínos, laticínios, cana-de-açúcar e de aterros sanitários, a fim de reduzir 30% das emissões totais de metano no Brasil.",
+                "Somos pioneiros na transição energética, tendo iniciado a descarbonização há quase meio século, com biocombustíveis e outras fontes. Em 2021, batemos recordes de instalação de energia Eólica (21 Gw) e Solar (14 Gw). Hoje, 85% da energia gerada no Brasil vem de fontes renováveis. Temos o potencial de produção excedente de energia eólica no mar na ordem de 700 Gw, equivalente a 4 vezes a nossa atual capacidade instalada ou 50 Itaipus. As eólicas, na costa do nosso nordeste, poderão produzir hidrogênio e amônia verde para exportação. Neste momento em que países desenvolvidos recorrem a combustíveis fósseis, o Brasil assume papel fundamental como fornecedor de energia totalmente limpa rumo a uma nova economia neutra em emissões.",
+                "Atualmente, vemos no Brasil, e em parte do mundo, um ataque claro às liberdades individuais por opinar de forma diferente.",
+                "Deixo aqui uma mensagem de compromisso do Brasil com a integração das Américas, como continente próspero e democrático. Ao longo de meu mandato, o Brasil manteve-se presente nos foros hemisféricos e regionais, trabalhando pela democracia, pela liberdade e pela prosperidade econômica e social.",
+                "Neste ano em que o Brasil comemora duzentos anos de Independência, afirmamos que temos um governo que acredita em Deus, respeita os seus militares, é favorável à vida desde a sua concepção, defende a família e deve lealdade ao seu povo.",
+                "No Brasil já se entende que a liberdade é um bem maior que a própria vida, pois um homem ou mulher sem liberdade não tem vida.",
+                "Se me permitem, antes de concluir, algumas informações de interesse de todos nós e, por que não dizer, do mundo. Desde o último domingo, quando tivemos informação que dois cidadãos, um britânico, Dom Phillips, e um brasileiro, Bruno Araújo, desapareceram na região do Vale do Javari, e desde o primeiro momento, naquele mesmo domingo, as nossas Forças Armadas e Polícia Federal têm se destacado na busca incansável da localização dessas pessoas. Pedimos a Deus que sejam encontrados com vida.",
+                "Dizer a todos que o Brasil é um país que continua concedendo vistos humanitários a afegãos, haitianos, ucranianos, sírios e venezuelanos.",
+                "Falar um pouco do potencial nosso, das Américas, prezado Marito, o nosso lago de Itaipu, brevemente, estará apto a piscicultura onde, somente pelo lado do brasileiro, nós ampliaremos a nossa oferta de mercado em torno de 40%. Assim tem tratado com vossa excelência o nosso secretário da pesca, Jorge Seif.",
+                "Dizer ao presidente argentino, prezado Fernández, continua em frente o nosso acordo de gás de Vaca Muerta. Pode ter certeza que será bom para os nossos dois países, e nós não deixaremos de continuar importando gás da Bolívia.",
+                "Dizer também aos prezados presidentes da Guiana, Irfaan Ali, e do Suriname, Chan Santokhi, que a nossa ida recentemente aos seus países visa colaborar na exploração de petróleo e gás dos seus países. Os senhores têm algo de fantástico que Deus lhes deu: reservas em óleo e gás equivalente a 90% das reservas brasileiras. Tenho certeza que juntos, e com outros parceiros bem escolhidos, os seus países, realmente, se despontarão no cenário econômico mundial.",
+                "Dizer que ontem estive com o presidente Biden numa bilateral ampliada e depois numa mais reservada com pouquíssimas pessoas. Ficamos por 30 minutos sentados, numa distância inferior de 1 metro e sem máscara. Senti do presidente Biden muita sinceridade e muita vontade em resolver certos problemas que fogem, obviamente, de total responsabilidade de cada um de nós, mas juntos poderemos buscar alternativas para pôr um fim nesses conflitos, e eu acredito que todos, trabalhando dessa maneira, atingiremos os nossos objetivos, em especial o governo americano.",
+                "A experiência de ontem com presidente Biden foi simplesmente fantástica, estou realmente maravilhado e acreditando em suas palavras e naquilo que foi tratado reservadamente entre nós.",
+                "A todos, muito obrigado e que Deus abençoe os nossos países."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, no Encontro dos Presidentes Jair Bolsonaro e Joe Biden - Los Angeles (EUA), 09 de junho de 2022",
+            "subtitulo": "NA",
+            "data": "09/06/2022",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "15h47"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-no-encontro-dos-presidentes-jair-bolsonaro-e-joe-biden-los-angeles-eua-09-de-junho-de-2022",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Pública"
+            ],
+            "paragrafos": [
+                "Senhor Presidente Biden, é uma satisfação muito grande, mais uma vez, visitar o seu país.",
+                "Temos muita coisa em comum, como, por exemplo, amamos a liberdade, somos democratas, comungamos os mesmos valores, e queremos o bem de nossos povos e a paz no mundo.",
+                "O Brasil é um país gigantesco, de proporções territoriais, uma das maiores do mundo; temos uma riqueza no coração do Brasil, a nossa Amazônia, que é maior que a Europa Ocidental, com riquezas incalculáveis, biodiversidades, riquezas minerais, água potável e uma fonte de oxigênio.",
+                "Por vezes nos sentimos ameaçados, a nossa soberania naquela área, mas o Brasil preserva muito bem o seu território; 2/3 do Brasil são preservados, mais de 85% da Amazônia também. A nossa legislação ambiental é bastante rígida e fazemos o possível para cumpri-la para o bem do nosso país.",
+                "Hoje o Brasil se apresenta como uma realidade concreta para o mundo. Podemos, brevemente, sermos um dos maiores exportadores de energia limpa, energia de hidrogênio verde e também temos outras questões, como, por exemplo, o Brasil alimenta mais de 1 bilhão de pessoas pelo mundo com uma agricultura de ponta, mecanizada e com tecnologiaa incomparável em todo mundo. O mundo, hoje, ouso dizer, que depende muito do Brasil para sua sobrevivência.",
+                "A questão ambiental, temos nossas dificuldades, mas fazemos o possível para atender aos nossos interesses e também, por que não dizer, a vontade do mundo; mas, como disse, somos um exemplo para o mundo na questão ambiental. Além da segurança alimentar e da energia limpa, bem como, na questão ambiental, o Brasil é um gigante que se apresenta para o mundo como a solução para muitos problemas.",
+                "Temos interesse enorme em cada vez mais se aproximar dos Estados Unidos. Vivemos há quase 200 anos em parceria. Alguns momentos nos afastamos, por questão ideológica, mas tenho certeza que, no momento, com nossa chegada ao governo, nunca tivemos uma oportunidade tão grande pelas afinidades que nosso governo tem.",
+                "Este ano, temos eleições no Brasil e nós queremos, sim, eleições limpas, confiáveis e auditáveis para que não sobre nenhuma dúvida após o pleito, e tenho certeza que ele será realizado nesse espírito democrático.",
+                "Cheguei pela democracia e tenho certeza que quando eu deixar o governo, que também será de forma democrática. O Brasil e os Estados Unidos têm tudo para selar suas relações comerciais, materializando o eixo norte e sul, que os nossos países se complementam e temos tudo para realmente nos integrarmos cada vez mais e sermos o exemplo para o mundo.",
+                "No mais, o Brasil ainda é dependente de algumas coisas de outros países; sempre adotamos uma posição de equilíbrio; queremos a paz e tudo nós faremos para que a paz seja alcançada. Lamentamos os conflitos, mas eu tenho um país para administrar e pela sua dependência temos que sempre sermos cautelosos, porque as consequências da pandemia, com a equivocada política do “fica em casa, a economia a gente vê depois”, agravada por uma guerra a 10 mil quilômetros de distância do Brasil, as consequências econômicas são danosas para todos nós, e lá no Brasil, em especial para com os mais humildes que enfrentam uma inflação em alimentos, bem como, em energia.",
+                "Então senhor presidente Joe Biden, nós trouxemos e estamos à disposição para colaborar com uma construção de uma saída deste episódio que não queremos entre Ucrânia e Rússia, porque nós deveremos, pretendemos, torcemos e oramos para que saiamos o mais rapidamente dessa situação, para que, não só o Brasil, o mundo retorne à normalidade.",
+                "É o que eu tinha de apresentar, prezado companheiro, chefes de nação, para o bem dos nossos povos.",
+                "Muito obrigada pela oportunidade e por essa bilateral que começaremos daqui a pouco."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, na Cerimônia alusiva às obras da Ponte da Integração Brasil-Paraguai",
+            "subtitulo": "Foz do Iguaçu/PR, 3 de junho de 2022",
+            "data": "03/06/2022",
+            "horario": "20h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "15h47"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-na-cerimonia-alusiva-as-obras-da-ponte-da-integracao-brasil-paraguai",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Amigos de Foz do Iguaçu, do Paraná, do nosso Paraguai, boa tarde a todos.",
+                "Prezado Marito, presidente do Paraguai, país irmão e amigo, temos algo em comum que nos une mais ainda, somos paraquedistas.",
+                "Prezado Dom Sérgio, prezado governador Ratinho, autoridades, senhores e senhoras.",
+                "Eu chamo Itaipu mais que binacional, tem um outro país aqui envolvido, um país chamado Paraná, do presidente Ratinho Junior.",
+                "Tudo que fazemos aqui, consultamos, conversamos e buscando cordialmente o de acordo, afinal de contas uma sugestão a mais sempre é muito bem-vinda.",
+                "Itaipu Binacional, um exemplo para o mundo, de geração de energia de fonte renovável.",
+                "O Brasil é exemplo para o mundo na preservação ambiental, dois terços do nosso território são preservados, e temos a segunda maior matriz energética proporcional, perdemos apenas para um país, mas avançamos nessa área, temos um vasto campo pela frente com uma energia eólica e solar cada vez mais presente em nosso meio.",
+                "Essa ideia de Itaipu foi lá atrás dos governos militares do Brasil e do Paraguai, obras fantásticas feitas em parceria, e elas realmente mais do que promovem os nossos países, não dão a garantia, a certeza da geração de energia. Itaipu Binacional cada vez mais aparece e em especial na região, mais do que uma geradora de energia, uma empresa que toca obras.",
+                "Eu costumo dizer, o presidente de Itaipu Binacional é o melhor secretário que o governador Ratinho tem, é um casamento que só nos dá alegria.",
+                "Há pouco concluímos aqui a extensão do aeroporto de Foz do Iguaçu, visitamos agora há pouco quase no final a obra da boiadeira, há décadas parada e agora estamos vendo essa grandiosidade de engenharia que nos orgulha a todos, que vai integrar mais ainda o Brasil com o nosso Paraguai. Assim, como já temos a ordem de serviço para uma outra ponte em Porto Murtinho.",
+                "Itaipu então binacional é uma empresa que faz mais do que gerar energia, gera progresso e gera integração.",
+                "Então a todos envolvidos meu muito obrigado pela presença, pelo carinho, pela consideração, dizer-lhes que a recíproca, também é verdadeira, tenho um profundo amor e consideração por todos aqui do nosso Paraná.",
+                "Muito obrigado a todos vocês e que Deus abençoe o nosso Brasil."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

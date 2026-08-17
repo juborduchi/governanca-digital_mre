@@ -1,0 +1,916 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira no  Seminário “Relações Internacionais, Política Externa e Direitos LGBTQIA+\" - 25/06/2024",
+            "subtitulo": "NA",
+            "data": "25/06/2024",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "25/06/2024"
+            ],
+            "horario_atualizado": [
+                "10h41"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-no-seminario-201crelacoes-internacionais-politica-externa-e-direitos-lgbtqia-25-06-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Pública"
+            ],
+            "paragrafos": [
+                "Senhoras e Senhores,",
+                "Sejam todas e todos bem-vindos ao primeiro seminário sobre “Relações Internacionais, Política Externa e Direitos LGBTQIA+”.",
+                "Nestas rápidas palavras de abertura, gostaria de fazer algumas reflexões que espero possam contribuir para os debates de hoje. Neste ano, completei 50 anos de serviços prestados ao Ministério de Relações Exteriores do Brasil.",
+                "O serviço exterior, aqui e em qualquer outro país, oferece o privilégio de conhecer diferentes regiões, países, culturas e sociedades e acumular vasta experiência. Vivenciar essa diversidade cultural foi das maiores recompensas nesse meio século de vida dedicado à diplomacia. E a diversidade é uma constante não apenas entre os países, mas no interior deles.",
+                "Vivi distintos momentos não apenas da vida política do Brasil, mas das relações internacionais. Testemunhei períodos de otimismo, outros de apreensão, mas nenhum mais desafiador do que o atual.",
+                "A escalada de crises climático-sanitárias, desigualdades socioeconômicas, tensões geopolíticas e conflitos internacionais geram angústia social crescente, potencializada por mídias sociais e inteligência artificial. Nesse contexto, movimentos políticos de apelo ao discurso de ódio a grupos vulneráveis vêm crescendo em todas as regiões.",
+                "Para muitos, isso justificaria evitar questões de trato complexo na política internacional, na política interna brasileira e na política interna da grande maioria dos países. Acredito, no entanto, que é justamente nessas circunstâncias que devemos reafirmar o compromisso com a dignidade da pessoa humana, com a universalidade do respeito à vida e com a democracia entendida como o respeito à diferença.",
+                "Ao reafirmá-los, recordo que esses princípios foram fruto da longa crise da primeira metade do século XX. Também naquela época, vivemos saltos tecnológicos, mudanças de padrões sociais, tensões geopolíticas e movimentos políticos extremistas. O horror dos campos de concentração do nazi-fascismo levou a desumanização às últimas consequências e inspirou uma mudança de mentalidade.",
+                "Cabe recordar que pessoas LGBTQIA+, marcadas com triângulos rosas invertidos em seus uniformes em prisões e campos de concentração, também sofreram desse flagelo. À época, “questões de costume” também foram consideradas parte menor da crise. Sabemos, hoje, que não eram. Reafirmar a dignidade da pessoa humana, de toda e qualquer pessoa, é fundamental para o enfrentamento das crises simultâneas que vivemos hoje.",
+                "Em 67 países do mundo, as relações homoafetivas são criminalizadas. Nos demais, mesmo quando não há criminalização, pessoas LGBTQIA+ têm direitos humanos elementares restringidos por serem quem são. Sofrem limitações no mundo do trabalho, no acesso a direitos sociais e também são alvos de violência e assassinatos.",
+                "Não há estatísticas internacionais confiáveis sobre o número de pessoas LGBTQIA+ assassinadas por ano no mundo. Poucos países mantém dados desagregados por orientação sexual e identidade de gênero. Sabemos, contudo, que o Brasil é o país com maior número registrado de assassinatos de pessoas LGBTQIA+.",
+                "Isso mostra que o Estado brasileiro, diferentemente da grande maioria dos países, faz o seu dever em manter dados desagregados, mas também demonstra a gravidade do problema. O governo Lula criou a Secretaria Nacional dos Direitos LGBTQIA+, liderada pela Senhora Symmy Larrat, cuja presença nos honra nesta abertura, justamente para melhor promover os direitos desse grupo populacional.",
+                "Em muitos momentos do debate internacional, na ONU e na OEA, o Brasil liderou iniciativas de reconhecimento de direitos das pessoas LGBTQIA+. Em outros momentos, o País adotou posicionamentos distintos. Como todos os países, o Brasil vive tensões e contradições nesse tema.",
+                "O que posso garantir é que, no governo do Presidente Lula e na minha gestão à frente do Itamaraty, estamos fazendo grande esforço de ajuste de políticas públicas para reafirmar o compromisso com os direitos humanos das pessoas LGBTQIA+, tanto no Ministério de Relações Exteriores quanto em outras áreas de governo.",
+                "Agradeço a participação do público que nos acompanha neste seminário, inclusive “online”, às autoridades internacionais, autoridades do Estado brasileiro e representantes da sociedade civil, que muito nos honram com suas presenças neste seminário.",
+                "Desejo profícuo debate a todas e a todos.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Intervenção do senhor Ministro de Estado na Audiência Pública da Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados (CREDN)",
+            "subtitulo": "Brasília, 19 de junho de 2024",
+            "data": "19/06/2024",
+            "horario": "09h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "19/06/2024"
+            ],
+            "horario_atualizado": [
+                "16h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/intervencao-do-senhor-ministro-de-estado-na-audiencia-publica-da-comissao-de-relacoes-exteriores-e-de-defesa-nacional-da-camara-dos-deputados-credn",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Excelentíssimo Senhor Presidente da Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados (CREDN), Deputado Lucas Redecker (PSDB-RS),",
+                "Excelentíssimos Senhores Vice-Presidentes da CREDN, Deputado General Girão (PL/RN) e Deputado Florentino Neto (PT/PI),",
+                "Excelentíssimo Deputado Arlindo Chinaglia (PT/SP), ex-presidente desta Casa,",
+                "Excelentíssimas Senhoras Deputadas, Senhores Deputados,",
+                "Senhoras e Senhores,",
+                "É uma satisfação e uma honra retornar a esta Casa e a esta Comissão, a convite de Vossa Excelência, Deputado Lucas Redecker, após a minha última vinda em dezembro do ano passado.",
+                "Ao parabenizar Vossa Excelência pela presidência desta Comissão, permita-me reiterar a importância e o apreço que o Itamaraty confere aos trabalhos da CREDN. O debate franco, o diálogo constante e a cooperação com esta Comissão e, por meio dela, o conjunto da Câmara dos Deputados têm sido importantes nos mais diversos temas relacionados à política externa brasileira.",
+                "Sendo esta a minha vinda regimental anual, farei um breve balanço das atividades da política externa do Governo brasileiro, liderado pelo Presidente Lula, no ano passado. Pretendo, também, tratar das prioridades da política externa para o ano em curso e para 2025, além de comentar os principais temas em destaque na agenda internacional, conforme solicitado pelos requerimentos aprovados.",
+                "Senhor Presidente,",
+                "Antes de tudo, eu quero começar esta apresentação me referindo à atuação do Itamaraty, dentro dos esforços do governo brasileiro como um todo, para fazer frente ao que já foi considerado o maior desastre socioambiental de nossa história. Estou me referindo às inundações no estado do Rio Grande do Sul – seu estado natal.",
+                "As chuvas torrenciais geraram rastro de destruição, cerca de 176 mortes, 806 feridos, 39 desaparecidos, e mais de 400 mil desabrigados. Afetaram - e continuam a impactar - a vida de mais de 2,4 milhões de brasileiras e brasileiros que moram no estado. Quero deixar registrados os sentimentos do Ministério das Relações Exteriores a todas as pessoas que perderam seus entes queridos, suas casas, negócios, memórias, enfim, a todos os atingidos. O Presidente Lula inclusive adiou sua planejada visita de Estado ao Chile, prevista para princípios de maio, para ficar no Brasil coordenando a resposta a esse desastre.",
+                "Como os senhores sabem, o Itamaraty possui vasta experiência na coordenação e apoio a brasileiros em situações de emergência no exterior. A recente Operação Voltando em Paz, que trouxe de volta ao Brasil cerca de 1.560 brasileiros que estavam em Israel e na Palestina, é uma demonstração disso.",
+                "O conjunto do Ministério das Relações Exteriores tem trabalhado de forma coordenada na resposta à catástrofe no Rio Grande do Sul.",
+                "Aceitamos todas as ofertas de ajuda que tinham possibilidade de implementação e fizemos todo o possível para assegurar que a ajuda chegasse ao seu destino.",
+                "Esse tem sido um processo contínuo e o Itamaraty busca atuar, como sempre, de forma coordenada, tanto em nível interministerial, quanto federativo. Aliás, uma das marcas do governo do Presidente Lula tem sido a reconstrução da institucionalidade da relação entre o Governo Federal, os Estados e os Municípios. E o Ministério das Relações Exteriores, de igual forma, tem também dedicado esforços para aprimorar a articulação federativa da política externa.",
+                "Recebemos quase uma centena de mensagens de solidariedade e ofertas de doações de países amigos. Algumas ofertas se operacionalizaram imediatamente. Há diversas outras ofertas aceitas e ainda em tramitação.",
+                "Aproveito para agradecer a cada um dos países que se mostraram solidários ao Brasil nesse momento de grande comoção nacional.",
+                "Senhor Presidente,",
+                "Esse desastre foi mais um sinal de alerta sobre a necessidade de avançarmos, em passo acelerado, na agenda do clima, meio ambiente e sustentabilidade.",
+                "Essa é uma área na qual nosso país tem liderança e protagonismo. Foi por esse motivo que determinei, logo no início de minha gestão à frente do Ministério, a criação de uma Secretaria de Clima, Energia e Meio Ambiente.",
+                "É esse o espírito em que buscamos desenvolver a “diplomacia para a Amazônia”, no ano passado, que culminará com a Conferência do Clima, em 2025 na cidade de Belém, a chamada COP-30.",
+                "Senhoras Deputadas e Senhores Deputados,",
+                "Quero rapidamente passar em revista o primeiro ano da política externa determinada pelo Presidente Lula. O objetivo central foi o de reposicionar o Brasil no Mundo, devolvendo o país ao seu devido lugar na comunidade internacional. Avalio que concluímos com êxito essa tarefa.",
+                "O Presidente Lula e eu próprio mantivemos mais de duzentas interações com contrapartes de todas as regiões do mundo, na forma de participação em Cúpulas, visitas realizadas ou recebidas, reuniões bilaterais, telefonemas e outros contatos.",
+                "O ponto de partida foi, como não poderia deixar de ser, a nossa própria região, em linha com o mandamento constitucional de integração latino-americana.",
+                "Buscamos revitalizar a parceria com nossos sócios estratégicos do MERCOSUL. Regressamos à Comunidade de Estados Latino-americanos e do Caribe - a CELAC. Lançamos nova agenda de cooperação e integração na América do Sul com o Consenso de Brasília, adotado na Reunião de Presidentes de Países da América do Sul, realizada aqui em Brasília, em 30 de maio do ano passado. Em agosto, sediamos a Cúpula da Amazônia, em Belém, com os chefes de Estado dos países membros do Tratado de Cooperação Amazônica.",
+                "Fortalecemos, também, relações com parceiros desenvolvidos, como os países europeus e os Estados Unidos - com quem estamos celebrando neste mês duzentos anos de relações diplomáticas.",
+                "A visita do Presidente Lula a Washington, em fevereiro do ano passado, teve um significado especial no sentido de lançar um sinal forte de parceria renovada dos países que são as duas maiores democracias do continente. Essa cooperação foi reforçada no encontro que os presidentes Lula e Biden mantiveram em Nova York, em setembro do ano passado, quando lançaram a inédita “Parceria pelos Direitos dos Trabalhadores e Trabalhadoras”, que visa à promoção do trabalho digno.",
+                "No marco das celebrações do bicentenário, organizamos, no dia 28 de maio, aqui em Brasília, no Palácio do Itamaraty, um seminário com painéis dedicados aos principais temas da agenda bilateral que congregou acadêmicos, autoridades, empresários e demais atores da sociedade civil.",
+                "Além disso, demos novo impulso à vocação universalista da nossa política externa. Isso envolveu um exercício de repensar e redimensionar nossas relações de cooperação com países da África, continente com o qual mantemos profundos laços históricos, culturais e comerciais. Nesse mesmo espírito, retomamos o engajamento com o Oriente Médio e com a Ásia.",
+                "Como as senhoras e os senhores se recordarão, o Presidente Lula realizou, em abril do ano passado, uma Visita de Estado à China, nosso principal parceiro comercial, principal destino de nossas exportações agrícolas, e uma das principais fontes de investimentos estrangeiros diretos no Brasil. A visita contou com a participação de ampla delegação empresarial (e também parlamentar). Foi marcada pela obtenção de resultados concretos, tanto políticos, como econômico-comerciais: foram assinados acordos que, juntos, somam mais de R$ 50 bilhões em investimentos. Neste ano de 2024, celebramos 50 anos de relações diplomáticas bilaterais Brasil-China. Neste período, as trocas comerciais evoluíram de modestos 19 milhões de dólares em 1974 ao primeiro lugar no ranking de nosso comércio bilateral com todos os países do mundo, atingindo um total de 157 bilhões de dólares em 2024.",
+                "Na esfera comercial, graças à ação coordenada do Ministério das Relações Exteriores em conjunto com o Ministério da Agricultura e Pecuária, conseguimos abrir, no ano passado, 78 novos mercados para produtos agropecuários, em 39 países, distribuídos pelos cinco continentes. Já nestes primeiros seis meses do corrente ano, obtivemos acesso a mais 66 mercados, totalizando 144 aberturas de mercado em 51 países desde o início do terceiro mandato do presidente Lula. Isso se reflete em mais atividade econômica, emprego e renda aqui no Brasil.",
+                "Ainda na diplomacia comercial, quero ressaltar a conclusão do Acordo de Livre Comércio entre Mercosul e Singapura, o primeiro dessa natureza que o bloco assina desde 2011. É nosso o objetivo atualizar o Mercosul, concluir as negociações em curso, a exemplo da negociação Mercosul-União Europeia e Mercosul-EFTA, além de abrir novas frentes de negociação.",
+                "No plano multilateral econômico, participei, neste ano, da 13º Conferência Ministerial da Organização Mundial do Comércio (OMC), em Abu Dhabi, nos Emirados Árabes Unidos. Nossa atuação teve como parâmetro geral a defesa da Organização Mundial do Comércio e do sistema multilateral de comércio, em linha com a atuação histórica do Brasil e com a prioridade atribuída pela presidência brasileira do G20 ao fortalecimento da governança global.",
+                "Quero destacar, ainda, que a diplomacia brasileira voltou a dar ênfase às coalizões de geometria variável.",
+                "A retomada do Fórum de Diálogo Índia, Brasil, África do Sul – IBAS, criado em 2003, é um exemplo dessa leitura da realidade internacional. A presidência brasileira do mecanismo, assumida em março do ano passado, tem priorizado o fortalecimento de uma agenda estratégica entre três grandes democracias do Sul Global, que articulam o Atlântico e o Índico. Vamos sediar a Cúpula do IBAS, após o G20, em nível de Chefe de Estado, em novembro próximo, no Rio de Janeiro. Esta reunião contará, pela primeira vez, com sessão de engajamento externo.",
+                "Do mesmo modo, não podemos deixar de mencionar nosso renovado engajamento com o BRICS. Ao longo dos últimos 15 anos, o grupo tem sido uma das principais plataformas político-diplomáticas e de cooperação econômica de que o Brasil dispõe para promover seus interesses em nível global e avançar no processo de reforma do sistema internacional.",
+                "O BRICS não tem por objetivo criar uma nova ordem global, muito pelo contrário, tem um patrimônio de ações voltadas à cooperação e reforma das instituições, de modo a torná-las mais democráticas, representativas e equitativas.",
+                "A expansão recente do grupo, acordada na Cúpula de Joanesburgo em agosto de 2023, tende a reforçar esse peso global. Foram admitidos, nessa ocasião, Arábia Saudita, Emirados Árabes Unidos, Irã, Etiópia, e Egito.",
+                "No campo econômico, por exemplo, com a expansão para 10 membros, o novo BRICS ampliado representa 34% do comércio exterior do Brasil. Claramente, portanto, isso pode se traduzir em maiores oportunidades de fluxos de comércio e investimentos para o Brasil. A Rússia tem presidido o grupo neste ano e convocou a Cúpula do BRICS para outubro próximo, na cidade de Kazan. Em 2025, a presidência do grupo BRICS caberá ao Brasil.",
+                "Recalibramos, também, nosso engajamento e intensificamos nosso protagonismo no tratamento dos principais temas da agenda global, com destaque para a esfera multilateral.",
+                "Em alguns casos, restauramos nosso padrão histórico de votação, em linha com os princípios constitucionais e a linha tradicional da diplomacia brasileira.",
+                "Na Organização Mundial da Saúde, atuamos com dedicação e firmeza e estamos negociando as regras do tratado de pandemias de modo a garantir que os erros que dificultaram a resposta à Covid-19 não venham a se repetir.",
+                "Renovamos, ademais, nosso compromisso com o fortalecimento do multilateralismo e a promoção da reforma da governança internacional, a começar pelo Conselho de Segurança das Nações Unidas, órgão máximo capaz de velar pela paz e segurança internacional.",
+                "Senhoras e senhores,",
+                "Neste segundo ano de governo do presidente Lula, o Itamaraty está empenhando esforços para não apenas consolidar iniciativas lançadas no ano passado, mas ir além.",
+                "O Brasil se tornou um pólo de atração de muitos países, como tem sido evidenciado pelo alto número de visitas recebidas desde o ano passado. Isso abre novas possibilidades de parcerias políticas e econômicas em prol do desenvolvimento sustentável do Brasil, assim como dos nossos parceiros.",
+                "O principal exemplo disso é a presidência brasileira do G20, eixo principal da política externa em 2024. Nosso lema é “Construindo um Mundo Justo e um Planeta Sustentável”.",
+                "Até o momento, já realizamos 62 reuniões tanto presenciais quanto virtuais, em nível técnico e ministerial, nas cidades-sede das cinco regiões do País. Temos previstas mais 75 reuniões até a Cúpula do G20, que terá lugar na cidade do Rio de Janeiro nos dias 18 e 19 de novembro próximo.",
+                "A liderança brasileira do agrupamento, que congrega as 19 maiores economias do mundo, mais a União Europeia e a União Africana, tem sido oportunidade para projetarmos, de forma criativa, nossa visão sobre temas prioritários da agenda internacional nesse contexto conturbado.",
+                "O governo brasileiro definiu três temas prioritários para nossa presidência do G20: inclusão social e combate à fome e à pobreza; transição energética e a promoção do desenvolvimento sustentável; e a reforma das instituições de governança global. Essas prioridades foram aprovadas por unanimidade pelos demais membros do G20.",
+                "Nos dias 21 e 22 de fevereiro passado, durante a primeira reunião de chanceleres do G20, no Rio de Janeiro, tivemos a oportunidade de discutir com profundidade a reforma da governança global.",
+                "Posteriormente, no dia 26 de fevereiro, em São Paulo, os ministros das finanças do G20 se reuniram para discutir a arquitetura financeira internacional, inclusive temas como evasão fiscal, tributação internacional, finanças sustentáveis, entre outros.",
+                "Estamos trabalhando para operacionalizar três iniciativas prioritárias lançadas pelo Brasil. Em primeiro lugar, a Aliança Global contra a Fome e a Pobreza, que tem por objetivo mobilizar uma massa crítica de países em torno de compromissos voltados para a erradicação da pobreza e da fome no mundo. Em segundo lugar, a Força-Tarefa para a Mobilização Global contra as Mudanças Climáticas, que buscará incentivar a formação de um grupo de países dedicados a assumir compromissos ambiciosos de redução de gases de efeito estufa tendo em vista a COP 30 em Belém. Quanto ao objetivo de reforma da governança global, faremos uma reunião inédita de chanceleres do G20, que será a segunda do ano e se realizará em Nova York, logo após a abertura da Assembleia Geral das Nações Unidas, para promover debates sobre esse tema. A abertura desta reunião será feita pelo Presidente Lula em companhia do Secretário Geral das Nações Unidas, António Guterres, e estará aberta à participação de todos os Estados-membros da ONU.",
+                "Quero também mencionar que o senhor Presidente da República foi convidado, pelo governo do Peru, a participar da Cúpula dos Líderes do Fórum de Cooperação Econômica da Ásia-Pacífico – a APEC – que se reunirá em Lima, imediatamente antes da Cúpula do G20.",
+                "Criada na década de 80, a APEC congrega 21 economias, inclusive os EUA e a China. Seu objetivo principal é a liberalização do comércio e dos investimentos na região da Ásia-Pacífico. As prioridades da presidência de turno peruana são promover uma zona de livre comércio Ásia-Pacífico, a transição da economia informal para economia formal, o hidrogênio verde, entre outros. Há pontos de contato entre a APEC e o G20, e não preciso enfatizar a importância, para o Brasil, em especial em termos de comércio, da região da Ásia-Pacífico, destino de 43% das nossas exportações.",
+                "Senhor Presidente,",
+                "A agenda externa continua intensa em 2024.",
+                "Acabo de regressar de viagens bilaterais ao Marrocos, Turquia e Grécia, e ainda à Rússia, onde participei da reunião de chanceleres do BRICS. Em seguida, acompanhei o Senhor Presidente da República na Cúpula do G7 na Itália.",
+                "Quero começar comentando o G7, grupo de países composto por Estados Unidos, Reino Unido, França, Alemanha, Itália, Japão e Canadá, e com o qual mantemos relações políticas importantes e um intercâmbio comercial de cerca de 140 bilhões de dólares. O Presidente Lula é o único chefe de Estado a ter participado das 8 edições do G7 durante seus primeiros dois mandatos. Participou, no ano passado, da Cúpula do G7 em Hiroshima e, agora, da Cúpula do grupo na Itália. São, portanto, 10 convites do G7 ao Presidente Lula, o que demonstra o interesse dos países do grupo no Brasil.",
+                "O encontro do G7 em Apúlia, na Itália, foi importante para alavancar o potencial dos membros do G7 em favor das prioridades de nossa presidência de turno do G20. Esse foi o tom da intervenção do Presidente Lula durante a sessão plenária. À margem, o presidente Lula reuniu-se com o Papa Francisco, que também foi convidado de honra para a Cúpula do G7, com quem tratou especificamente do combate à fome e à desigualdade e dos desafios da inteligência artificial. O Presidente manteve, ainda, reuniões bilaterais com o primeiro-ministro da Índia, Narendra Modi, o presidente da Turquia, Recep Erdogan, o presidente da França, Emmanuel Macron, a presidente da Comissão Europeia, Ursula Von der Leyen, o chanceler Federal da Alemanha, Olaf Scholz, além da anfitriã, a presidente do Conselho de Ministros da República Italiana, Giorgia Meloni.",
+                "No dia anterior ao G7, o Presidente Lula foi a Genebra para participar, como orador principal, do Fórum Inaugural da Coalizão Global para a Justiça Social da Organização Internacional do Trabalho (OIT). A Coalizão é copresidida pelo Presidente Lula e pelo diretor-geral da Organização Internacional do Trabalho, a OIT. Essa Coalizão tem o mesmo espírito da iniciativa “Parceria pelos Direitos dos Trabalhadores e Trabalhadoras”, lançada pelo presidente Lula e pelo presidente Biden no ano passado, como já mencionei.",
+                "Realizei, nos dias 6 e 7 de junho, visita oficial ao Marrocos a convite do chanceler Nasser Bourita. Repassamos o conjunto da agenda bilateral e firmamos acordos e memorandos de entendimento. Saudamos a reabertura da conexão aérea, suspensa durante a pandemia de Covid-19, entre Casablanca e São Paulo, que acontecerá a partir do mês de outubro do corrente ano, e que facilitará os fluxos comerciais e turísticos entre nossos países. O Marrocos já é o terceiro maior parceiro do Brasil no continente africano, após a Argélia e o Egito. Nosso intercâmbio comercial alcançou US$ 2,7 bilhões em 2023.",
+                "Também estive em Nizhny Novgorod, na Rússia, nos dias 10 e 11 de junho, para a reunião de chanceleres do BRICS. Essa foi a primeira reunião em formato ampliado, com os novos membros.",
+                "Saí de lá com convicção reforçada de que o BRICS hoje materializa a crescente influência do Sul Global nos assuntos internacionais. Tivemos oportunidade de discutir cooperação econômica e financeira em moeda local, entre outros temas candentes da agenda internacional. O Presidente Lula já confirmou que irá à reunião dos Líderes do BRICS, a realizar-se em Kazan, na Rússia, em outubro próximo. No ano que vem, como já disse, competirá ao Brasil presidir o agrupamento.",
+                "No dia 12 de junho visitei Ancara, na Turquia, para reuniões com meu homólogo, o Ministro dos Negócios Estrangeiros. A Turquia é parceiro estratégico do Brasil desde 2010, e nossas relações passam por momento importante de aproximação. O comércio entre Brasil e Turquia alcançou, em 2023, a importante marca de US$ 4,7 bilhões, com superávit brasileiro de US$ 2,2 bilhões. Tive a oportunidade de ser recebido pelo presidente da República da Turquia, o Presidente Erdogan. A propósito, durante o G7, o Presidente Lula convidou o presidente Erdogan a visitar o Brasil e participar de Fórum Empresarial Brasil-Turquia no próximo ano.",
+                "De Ancara, fui a Atenas também para visita oficial, e lá pude examinar, com o meu homólogo, o ministro das relações exteriores da Grécia, as oportunidades de aprofundar o diálogo político com aquele país, com o qual compartilhamos valores e posições, inclusive no plano multilateral. Queremos aprofundar também os laços econômicos com ampliação do comércio, cujo fluxo em 2023 atingiu US$ 500 milhões. Valorizamos o reiterado apoio da Grécia a um assento permanente para o Brasil no Conselho de Segurança das Nações Unidas reformado. A Grécia também tem sido importante voz também em favor da conclusão das negociações entre o Mercosul e a União Europeia.",
+                "Mas a agenda internacional já estava intensa desde o início do ano.",
+                "Começando pela Ásia, recebi em Brasília, já no início do mês de janeiro, visita do Ministro dos Negócios Estrangeiros da China, Wang Yi, com quem copresidi a IV Reunião do Diálogo Estratégico Global Brasil-China. O encontro foi muito produtivo e permitiu que discutíssemos os preparativos para a VII Sessão Plenária da Comissão Sino-Brasileira de Alto Nível de Concertação e Cooperação, a COSBAN, o principal mecanismo de diálogo regular Brasil-China.",
+                "E, nos dias 4 a 7 de junho, o Vice-Presidente da República Geraldo Alckmin realizou visita oficial à China, acompanhado de representantes de 21 ministérios e agências governamentais. Copresidiu, com o Vice-Presidente da China, a VIII Plenária da COSBAN, que resultou na assinatura de 8 instrumentos intergovernamentais e no anúncio de 29 resultados, além de 10 atos do setor privado, nas áreas de agricultura, finanças, entre outras.",
+                "O Vice-Presidente Geraldo Alckmin também participou do Seminário Empresarial Brasil-China, em 5 de junho. A China é o principal parceiro comercial do Brasil há 15 anos. O comércio bilateral alcançou US$ 157 bilhões em 2023, recorde histórico. Temos com a China o nosso maior superávit, 51 bilhões de dólares, que é, sozinho, mais da metade de todo o superávit global brasileiro. O Brasil é o país que recebe mais investimentos chineses na América Latina, com 48% do total da região, com estoque acumulado em quase US$ 72 bilhões entre 2007 e 2022.",
+                "Aguardamos a visita de Estado do Presidente Xi Jinping em novembro próximo, quando celebraremos os 50 anos de relações bilaterais. Essa visita ocorrerá imediatamente após a Cúpula do G20, que será no Rio de Janeiro, nos dias 18 e 19 de novembro.",
+                "Em abril, realizei visitas oficiais a Bangladesh e Vietnã, acompanhado de missão empresarial. Foi, por sinal, a primeira visita de um chanceler brasileiro a Bangladesh, país para onde exportamos, em 2023, US$ 2,1 bilhões, cifra que não é muito distante das exportações brasileiras para a França, que alcançam US$ 2,9 bilhões. Para o Vietnã, as exportações brasileiras no ano passado foram de US$ 3,7 bilhões, cifra que se aproxima aos US$ 4 bilhões exportados para a Itália, por exemplo. Temos oportunidades de promover também bens de alto valor agregado, além de tecnologias na área da transição energética, como a do uso em larga escala do etanol. A propósito, o Itamaraty, junto com a União da Indústria de Cana-de-Açúcar e Bioenergia (UNICA) e o Arranjo Produtivo Local do Álcool (APLA), organizou, no Vietnã e em Bangladesh, exitosos eventos de promoção do Etanol denominados “Ethanol Talks”.",
+                "No dia 3 de maio, o Primeiro-Ministro do Japão, Fumio Kishida, realizou visita oficial ao Brasil. No dia 4 de maio, presidiu o Fórum Empresarial Brasil-Japão com o vice-presidente Geraldo Alckmin.  Parceiro Estratégico e Global do Brasil há uma década, o Japão foi, em 2023, nosso 2º sócio comercial na Ásia e o 9º no mundo, com intercâmbio comercial de quase US$ 12 bilhões e superávit brasileiro de US$ 1,5 bilhão. O Japão é o 8º maior investidor externo no Brasil pelo critério de controlador final, com estoque de cerca de US$ 28,5 bilhões. Vale sempre ter presente a dimensão humana de nossas relações. O Brasil conta com a maior população nipo-descendente fora do Japão, estimada em cerca de 2,7 milhões de pessoas. O Japão, por sua vez, abriga a 5ª maior comunidade brasileira no exterior, com mais de 211 mil nacionais.",
+                "Criamos, também neste ano, a posição de delegado permanente do Brasil junto à Associação das Nações do Sudeste Asiático (ASEAN), bloco de 10 países representativo de uma das regiões mais dinâmicas do mundo. A ASEAN é composta por Tailândia, Malásia, Singapura, Filipinas, Indonésia, Vietnã, Camboja, Brunei, Mianmar e Laos, totalizando população de mais de 670 milhões de habitantes. Nosso comércio com o bloco tem aumentado consistentemente e alcançou a cifra de US$ 37 bilhões de dólares no ano passado. Isso é quase o equivalente ao comércio do Brasil com os sócios do Mercosul, que foi de 40 bilhões de dólares no ano de 2023.",
+                "Outra prioridade para este ano, conforme orientações recebidas do Presidente Lula, são as relações com o continente africano.",
+                "Em fevereiro, o Presidente realizou visita ao Egito, país com o qual celebramos, neste ano, cem anos de relações diplomáticas. Mantemos um importante fluxo comercial da ordem de quase 3 bilhões de dólares. O Presidente regressou à sede da Liga dos Estados Árabes no Cairo, após 20 anos de seu primeiro discurso naquele foro – o primeiro e único, até então, realizado por um chefe de Estado brasileiro. A Liga Árabe congrega 22 países membros. No ano passado o comércio do Brasil com conjunto dos países da Liga Árabe foi da ordem de US$ 30 bilhões.",
+                "Em seguida, o Presidente esteve em Adis Abeba, na Etiópia, para uma visita de Estado importante e para participar como convidado especial da Cúpula da União Africana. Foi o único chefe de Estado de fora da região a ter sido convidado para tomar a palavra, além do Primeiro-Ministro da Palestina. O Presidente também manteve uma série de reuniões bilaterais com os países da região.",
+                "Estamos muito satisfeitos que a União Africana tenha escolhido Salvador, na Bahia, para sediar o encontro da 6ª Região da Conferência da diáspora africana e afrodescendentes, que se realizará de 29 a 31 de agosto próximo, em preparação ao 9º Congresso Pan-Africano, a ser realizado em Lomé. Essa reunião será realizada em Salvador, com a participação de representantes dos países do continente africano, das Américas e do Caribe. Sendo o Brasil o maior país com população negra fora da África, é muito forte e simbólico que Salvador sedie esse evento presencial. O Itamaraty está organizando, em conjunto com o Ministério da Igualdade Racial, o segmento de alto nível governamental, para o qual todos os chanceleres de países membros da União Africana e das Américas foram convidados.",
+                "Em abril, quero destacar a visita que recebi da chanceler da África do Sul, Naledi Pandor. Copresidimos a 7ª reunião da Comissão Mista Brasil-África do Sul, quando tivemos a oportunidade de revisar os principais temas da pauta bilateral. Trata-se de parceiro estratégico desde 2010, além de sócio no BRICS e no IBAS, além de membro do G20. Em 2023, o comércio bilateral totalizou US$ 2,2 bilhões de dólares, tendo as exportações brasileiras somado US$ 1,6 bilhão de dólares. Graças a esses esforços bilaterais, foram retomados os voos diretos entre São Paulo e Joanesburgo e São Paulo e Cidade do Cabo, também interrompidos durante a pandemia de Covid-19. Reuni-me novamente com a Ministra Pandor à margem da reunião de chanceleres do BRICS, na semana passada.",
+                "Em maio, o Presidente Lula recebeu em Brasília o Presidente do Benim, Patrice Talon. Eu já havia recebido o chanceler do Benim, em março passado, para preparar a visita presidencial. As relações são históricas e basta mencionar que, no Benim, existe um monumento conhecido como “A Porta do Não Retorno” em Uidá, monumento que simboliza o sofrimento dos muitos que foram escravizados e enviados ao Brasil. Além do encontro com o presidente Lula, a agenda do presidente Talon possibilitou sua participação, como convidado de honra, em almoço em celebração ao Dia da África no Itamaraty, além de visitas a Salvador e São Luís do Maranhão no dia 25 de maio. Em Salvador, o presidente Talon foi recebido pelo governador e visitou a Casa do Benim. Em São Luís, esteve igualmente com autoridades locais e visitou a Casa das Minas. A Casa teria sido fundada por Nã Agontimé, esposa do Rei Agonglô e Rainha-mãe do Daomé, atual Benim, que foi trazida escravizada para o Brasil no século XVIII.",
+                "Tampouco descuidamos neste ano das relações com os parceiros europeus. Com a União Europeia, em particular, mantemos comércio de patamar elevado, acima de 90 bilhões de dólares. Posso afirmar que fizemos importantes avanços na negociação do Acordo entre o Mercosul e a União Europeia durante a presidência “pro tempore” brasileira do Mercosul, no ano passado, o que demonstra o engajamento do Brasil e dos sócios do Mercosul. Seguimos comprometidos com a conclusão deste importante acordo, o que, esperamos, possa ocorrer ainda este ano. Esse foi um dos temas que o Presidente Lula tratou nas conversas que manteve, à margem da Cúpula do G7, na Itália, com o presidente da França, Emmanuel Macron, a presidente da Comissão Europeia, Ursula Von der Leyen, o chanceler Federal da Alemanha, Olaf Scholz, e a presidente do Conselho de Ministros da Itália, Giorgia Meloni.",
+                "Continuamos igualmente comprometidos com as negociações entre MERCOSUL e o EFTA, a Associação Europeia de Livre Comércio. Esse grupo de países é integrado por Suíça, Islândia, Liechtenstein e Noruega, congregando uma população de 15 milhões de pessoas e um PIB de US$ 1,5 trilhão de dólares.",
+                "No mês de março, o presidente recebeu visita do presidente do Governo da Espanha, Pedro Sánchez. Brasil e Espanha compartilham valores fundamentais, entre os quais a defesa da democracia e a inclusão social. A Espanha consolidou-se como o segundo maior investidor no país, com presença nos setores energético, bancário, de telecomunicações, e de seguros, entre outros.",
+                "Também em março, o presidente da França, Emmanuel Macron, realizou visita de três dias ao Brasil, com agendas em Belém, no estado do Rio de Janeiro - no Complexo Naval de Itaguaí -, em São Paulo e em Brasília. Trata-se de um parceiro estratégico de grande relevância com quem mantemos amplo leque de cooperação. Na ocasião, os presidentes Lula e Macron acompanharam o lançamento ao mar do submarino Tonelero, o terceiro dos quatro submarinos com propulsão convencional desenvolvidos no âmbito do Programa de Desenvolvimento de Submarinos, o PROSUB, da Marinha do Brasil. Destaco, ainda, que a França ocupa a posição de 3º maior investidor no Brasil, com cerca de US$ 38 bilhões. Em 2023, a corrente de comércio alcançou US$ 8,5 bilhões.",
+                "Em fins de abril, realizei périplo pela Europa.",
+                "Comecei em Lisboa para representar o governo brasileiro nas comemorações dos 50 anos da Revolução dos Cravos, que marca o início da redemocratização de Portugal. Mantive, ainda, reunião com o chanceler Paulo Rangel. Portugal também é importante parceiro comercial do Brasil na Europa, com fluxo de US$ 4,7 bilhões de dólares.",
+                "Nos dias 29 e 30 de abril, realizei visita oficial à Suíça, onde fui recebido pelo meu homólogo, o conselheiro Federal Ignazio Cassis, e outras autoridades. A Suíça é importante investidor no Brasil, com estoque de investimentos, em 2022, de cerca de US$ 24 bilhões. Mais de 600 empresas de origem suíça geram cerca de 65 mil empregos no Brasil. Em 2023, a corrente de comércio bilateral somou US$ 4,2 bilhões, com expansão de 13% em relação ao ano anterior. Tratei, também, das negociações do Acordo Comercial entre o Mercosul e o EFTA com o Conselheiro Federal para Economia, Educação e Pesquisa da Suíça, Guy Parmelin.",
+                "No dia 1º de maio, em Ímola, participei, a convite do governo italiano, da cerimônia em memória aos trinta anos do falecimento de Ayrton Senna, nosso herói que nos deixou prematuramente naquele fatídico final de semana em Ímola. À margem deste ato, reuni-me com o chanceler da Itália, Antonio Tajani, quando discutimos o G7, conflito Israel-Palestina e Guerra na Ucrânia. Encontrei-me, também, nessa ocasião, com o chanceler da Áustria, Alexander Schallenberg.",
+                "Da Itália, fui a Paris, para participar da reunião Ministerial da OCDE. À margem da reunião ministerial, mantive encontros bilaterais com o chanceler de Luxemburgo, o chanceler da França e a Ministra da Sustentabilidade e do Meio Ambiente de Singapura. Participei, ainda, de reunião informal de ministros da Organização Mundial de Comércio, na qual foi debatida a situação da Organização após a 13a Conferência Ministerial, ocorrida em Abu Dhabi no último mês de fevereiro.",
+                "Ao mesmo tempo, seguimos conferindo especial ênfase à cooperação e à integração na América Latina e Caribe.",
+                "Em 28 de fevereiro, o Presidente Lula visitou a Guiana para participar da 46ª Cúpula da Comunidade do Caribe, a CARICOM, em Georgetown. É entidade que congrega 15 países membros do Caribe e com a qual mantemos importante intercâmbio comercial. Manteve, ainda, reunião bilateral com o presidente da Guiana, Irfaan Ali.",
+                "A propósito, o Brasil aceitou o convite para organizar, no ano que vem, a Reunião Anual de Governadores do Banco de Desenvolvimento do Caribe, o BDC. O Banco conta hoje com importante ativo e capital e 28 membros, entre os quais os quinze integrantes da CARICOM. O Brasil ingressou na instituição com participação acionária de cerca de 2%. Será oportunidade, também, para organizarmos, em paralelo, a Cúpula Brasil-países do Caribe.",
+                "Em 1º de março, o Presidente Lula participou da Cúpula da CELAC - a Comunidade de Países Latino-Americanos e Caribenhos – em Kingstown, São Vicente e Granadinas. A CELAC, como grupo, tem também importante dimensão comercial para o Brasil, com intercâmbio total da ordem de 83 bilhões de dólares.",
+                "Em suma, nosso objetivo é trabalhar por uma região onde não prevaleçam conflitos ou isolamentos, buscando soluções negociadas para os desafios que compartilhamos.",
+                "É nesse contexto que se enquadram nossas relações com a Venezuela, país com o qual mantemos mais de 2.000 Km de fronteiras terrestres em plena Amazônia. Nossa Embaixada em Caracas foi reaberta no ano passado, e a Embaixadora Glivânia de Oliveira assumiu suas funções neste ano. Isso nos possibilita prover assistência consular aos mais de 15 mil brasileiros que vivem por lá. E também nos permite seguir, in loco, a situação política no país vizinho. Estamos comprometidos com os Acordos de Barbados, dos quais o Brasil foi uma das testemunhas na figura do Assessor Especial da Presidência da República, Embaixador Celso Amorim. Temos mantido interlocução com governo e oposição. Todos parecem considerar que a realização de eleições em 28 de julho próximo é a melhor forma de enfrentar a crise venezuelana.",
+                "Consideramos importante que esse processo conte com ampla presença de observadores internacionais, conforme previsto nos Acordos de Barbados, com vistas à boa aceitação dos resultados, à superação da crise no país e a normalização de sua situação, nos planos interno e externo. Entre os organismos internacionais que foram convidados, encontram-se a ONU, a própria CELAC, a CARICOM, a União Africana, os BRICS, a União Interamericana de Organismos Eleitorais e o Centro Carter dos Estados Unidos. Também nos foi dirigido um convite para que indicássemos observadores eleitorais. Quem quer que seja que vença a eleição do próximo mês de julho, governo ou oposição, precisará ter sua legitimidade aceita por todos, daí a importância da participação de observadores internacionais.",
+                "A propósito, foi graças a esses mecanismos e canais de diálogo reabertos que o Brasil conseguiu contribuir para desarmar tensões entre a Venezuela e a Guiana sobre a disputada região do Essequibo. Isso se deveu muito à iniciativa do Presidente Lula durante a Cúpula do Mercosul em dezembro último no Rio de Janeiro, ao propor ao presidente de turno da CELAC, o primeiro-ministro de São Vicente e Granadinas, Ralph Gonsalves, que abordasse a questão com ambas as partes, fazendo uma intermediação entre Guiana e Venezuela em nome da CELAC.",
+                "Atendendo a esse chamado para criar um espaço de entendimento, os presidentes Maduro e Irfaan Ali se reuniram em dezembro e concordaram, na Declaração de Argyle, em não recorrer à força para resolver o contencioso bilateral. Comprometeram-se, ainda, a manter negociações com vistas a encontrar solução diplomática permanente. Realizei, em Brasília, em 25 de janeiro, a I Reunião da Comissão Conjunta de Chanceleres e Técnicos da Guiana e da Venezuela. Esta Comissão foi criada no contexto da Declaração de Argyle. Também nessa reunião ambas as partes reafirmaram o seu compromisso com a paz e com o diálogo contínuo. É preciso ressaltar também que a interferência de atores extrarregionais, a qualquer um dos lados, deve ser evitada. Precisamos de diplomacia nesta questão, e não de armas.",
+                "Representei o governo brasileiro na posse do presidente da Argentina, Javier Milei, no final de dezembro de 2023. Eu próprio já encontrei a Chanceler Diana Mondino cinco vezes. Antes mesmo da posse, recebi sua visita na qualidade de chanceler designada, e mantivemos encontros à margem do Mercosul no Paraguai, na reunião de chanceleres do G20, no Rio de Janeiro, na OMC e na OCDE, em Paris, além de vários telefonemas. Em março, tive a honra de recebê-la, Diana Mondino, Chanceler da Argentina, em Brasília, para primeira visita oficial. Seguimos trabalhado nos mais diferentes níveis com nossos aliados estratégicos, especialmente a Argentina.",
+                "Acompanhamos com preocupação a situação no Haiti. Nossa Embaixada segue aberta em Porto Príncipe, com a proteção de destacamento de fuzileiros navais, para que possamos dar nosso apoio e contribuição e à estabilização no país. No contexto do agravamento da situação de segurança e do fechamento prolongado do aeroporto internacional de Porto Príncipe, realizamos, em 10 de abril, operação de evacuação de sete brasileiros que manifestaram a intenção de deixar o país rumo à República Dominicana. Outros 59 nacionais decidiram permanecer no país ou sair por meios próprios. No aspecto político, saudamos o estabelecimento do Conselho Presidencial de Transição e a nomeação de um primeiro-ministro, passo fundamental para a estabilização política do país. Esperamos que o Conselho cumpra sua tarefa crucial de liderar o Haiti até a realização das eleições. Estamos abertos a contribuir para a Missão Multinacional de Apoio à Segurança (MSS) mandatada pelo Conselho de Segurança das Nações Unidas. Considero muito positiva a iniciativa do Quênia de liderar a Missão Multinacional de Apoio à Segurança e a intenção de Antígua e Barbuda também de se juntar a esta Missão, além de Bahamas, Barbados e Jamaica.",
+                "Em abril, o Presidente Lula fez importante visita à Colômbia, onde manteve reunião bilateral com o presidente Gustavo Petro e participou da cerimônia de abertura da 36ª Feira Internacional do Livro de Bogotá, da qual o Brasil foi o país homenageado. Compartilhamos fronteira de quase 1.700 quilômetros e temos um potencial amazônico exuberante e extraordinário.",
+                "Em 2023 estive por duas vezes em Assunção, em março e em agosto, nesta ocasião por ocasião da Posse do Presidente Santiago Peña. Em 2024, voltei ao Paraguai em pelo menos 3 ocasiões: durante a Presidência paraguaia do Mercosul e, posteriormente, nos meses de abril e maio, para negociações sobre Itaipu. Em abril e maio deste ano, estive acompanhado do Ministro de Minas e Energia, Alexandre Silveira, quando tratamos com nossas contrapartes paraguaias sobre Itaipu. Tive ainda o prazer de receber o chanceler Rubén Ramírez, do Paraguai, em agosto de 2023, e em fevereiro de 2024, por ocasião da 1ª reunião de Chanceleres do G20, no Rio de Janeiro.",
+                "Passando para o Oriente Médio, quero destacar o périplo que realizei na região, entre 15 e 20 de março, incluindo Amã, na Jordânia, Ramala, na Palestina, Beirute, no Líbano, e Jedá, na Arábia Saudita. Em todas essas ocasiões, reuni-me com meus homólogos, passando em revista os principais pontos da agenda bilateral, sobretudo em temas de cooperação técnica, comércio e investimentos.",
+                "Como não poderia deixar de ser, tratamos também de questões regionais, em particular o conflito israelo-palestino e a crise humanitária que atinge a Faixa de Gaza e sua população.",
+                "Senhoras e Senhores Deputados,",
+                "Passados oito meses desde os ataques terroristas realizados pelo Hamas contra a população civil em Israel, a violência, a destruição e a morte continuam a imperar entre Israel e Palestina, colocando em risco a estabilidade regional.",
+                "O Itamaraty e o Presidente Lula transmitiram condolências e solidariedade aos familiares dos nacionais brasileiros e de filhos de nacionais brasileiros que perderam a vida no dia 7 de outubro.",
+                "Ressaltei, aqui nesta Comissão em dezembro passado, que nada - absolutamente nada - justifica o recurso à violência, sobretudo contra civis.",
+                "Graças ao intenso trabalho diplomático, conseguimos retirar nossos nacionais tanto de Israel como da Palestina por meio da Operação “Voltando em Paz”. Repatriamos 1.560 cidadãos brasileiros. O Itamaraty segue acompanhando e prestando ajuda aos nacionais que ainda estão em áreas de risco.",
+                "Desde 7 de outubro, portanto, o Brasil busca manter a postura de equilíbrio, em linha com o direito internacional e nossa tradição diplomática. Condenamos os atentados terroristas de 7 de outubro, por um lado, e exortamos o governo de Israel a exercer contenção em sua reação, por outro lado, em vista da necessidade de proteção da população civil em Gaza.",
+                "Os números, contudo, são alarmantes. Quando estive nesta Comissão em dezembro passado, eram 18 mil mortos palestinos. Agora, já são 37 mil mortos, dos quais mais de 15 mil crianças e 9 mil mulheres, cerca de 10 mil desaparecidos e 84 mil feridos em Gaza, em razão dos ataques israelenses. E os ataques a Rafah e na Cisjordânia estão agravando, ainda mais, essa tragédia humanitária.",
+                "O governo brasileiro lamenta que, em meio à tragédia humanitária na Faixa de Gaza, ainda tenha havido disposição de segmentos extremistas da sociedade israelense, para praticar atos inflamatórios e provocativos, que contribuem apenas para afastar ainda mais as perspectivas de paz na região.",
+                "Estou me referindo especificamente à incursão de centenas de ativistas israelenses na Esplanada das Mesquitas (“Haram-El-Sharif”), no dia 5 de junho corrente. Nossa posição é clara. Defendemos o respeito ao status quo histórico da Esplanada das Mesquitas e à custódia haxemita dos sítios sagrados islâmicos e cristãos de Jerusalém Oriental.",
+                "Há investigações em curso no âmbito da Corte Internacional de Justiça com base na Convenção contra o Genocídio e há necessidade urgente de entrada de ajuda humanitária.",
+                "Além disso, em 24 de maio, o procurador-chefe do Tribunal Penal Internacional solicitou mandados de prisão contra o primeiro-ministro de Israel, o ministro da Defesa de Israel e líderes do Hamas por crimes de guerra e contra a humanidade cometidos durante a guerra na Faixa de Gaza.",
+                "Na semana passada, o Conselho de Segurança aprovou resolução apresentada pelos Estados Unidos com um plano de cessar fogo em Gaza, com 14 votos a favor e uma única abstenção. A resolução endossa proposta de cessar-fogo anunciada em 31 de maio pelo presidente dos Estados Unidos, Joe Biden. Conclama Israel e o Hamas a implementarem, imediata e completamente, o plano de cessar fogo proposto, dividido em três fases. A primeira fase prevê cessar-fogo completo, a libertação de reféns e o retorno dos civis palestinos a todas as áreas de Gaza, inclusive no norte. A segunda fase prevê o fim das hostilidades, a libertação de reféns remanescentes e a completa retirada das forças israelenses de Gaza. E a fase 3 prevê o início de plano de reconstrução para Gaza e o retorno de restos mortais que ainda permaneçam em Gaza.",
+                "O Governo brasileiro está apelando a toda a comunidade internacional para que apoie esforços que visem a pôr fim a esse trágico conflito.",
+                "Em iniciativa liderada pelos EUA, o Brasil assinou, com outros 17 países, dois documentos conjuntos – um em abril, outro em junho deste ano – defendendo a urgência da libertação dos reféns israelenses.",
+                "A atual escalada de violência põe em evidência, também, a urgência de buscar solução política justa e duradoura para o conflito. Ou seja, a solução de dois Estados, com um Estado palestino coeso e viável, convivendo em paz e segurança, lado a lado com Israel, com base nas fronteiras de 1967.",
+                "Fui a Nova York, em abril deste ano, para a sessão do Conselho de Segurança das Nações Unidas que discutiu a admissão da Palestina como membro pleno da ONU. Votamos a favor, mas a medida foi vetada no Conselho de Segurança.",
+                "No dia 10 de maio, a Assembleia Geral da ONU pronunciou-se de forma muito sólida, com 143 votos a favor da resolução que pede o reconhecimento da Palestina como um Estado soberano e defende a entrada do país nas Nações Unidas como membro pleno da Organização. Esperamos que o Conselho de Segurança e, especialmente, os que se opuseram possam reconsiderar sua posição.",
+                "Senhor Presidente,",
+                "Com relação ao conflito na Ucrânia, o Brasil continua a defender o diálogo e uma solução pacífica, respaldada pelo Direito Internacional. Essa mensagem é consistentemente transmitida a nossos parceiros russos e ucranianos.",
+                "Condenamos a violação da integridade territorial ucraniana tanto no Conselho de Segurança como na Assembleia Geral das Nações Unidas. Ao mesmo tempo, defendemos que seja criado espaço de diálogo entre as partes para uma solução negociada para o conflito, que leve em conta as legítimas preocupações de segurança das partes.",
+                "Somos também firmemente contra a aplicação de sanções unilaterais que não apenas violam o direito internacional, mas também geram efeitos negativos sistêmicos sobre a segurança alimentar e energética, sobretudo dos países em desenvolvimento.",
+                "O Brasil tem participado das diferentes reuniões e discussões sobre o encaminhamento de solução diplomática.",
+                "Temos trabalhado em defesa da constituição de um arcabouço processual que permita conduzir um diálogo e uma negociação entre as partes. Não foi o que identificamos na denominada Cúpula da Paz, realizada no último fim de semana, em 15 e 16 de junho corrente, na Suíça, uma vez que um dos lados não foi convidado para o evento. O Brasil, contudo, no espírito construtivo, esteve presente na reunião, por meio da Embaixadora em Berna, que atuou como observadora.",
+                "De nossa parte, apresentamos, em conjunto com a China, um documento intitulado “Entendimentos Comuns sobre a Resolução Pacífica da Crise na Ucrânia”, adotado em 23 de maio passado.",
+                "Trata-se de documento que reúne princípios básicos que poderiam contribuir para a formação do referido arcabouço processual. Apela especificamente às partes para (i) não expandir o campo de batalha; (ii) não escalar os combates; e (iii) não inflamar a situação.",
+                "Já notamos uma boa receptividade ao documento, que está aberto a manifestação, apoio e adesão de outros países.",
+                "Senhores Deputados, Senhor Presidente,",
+                "Como as senhoras e senhores podem ver, a agenda de política externa de 2024 está exigindo bastante do Itamaraty e dos demais ministérios da Esplanada. Além da execução das prioridades de 2024, também já estão em andamento os preparativos para os grandes eventos que sediaremos em 2025, com destaque para a COP30 do Clima, a Cúpula do BRICS e a Cúpula do Mercosul.",
+                "Quero registrar aqui o meu apreço constante pelo quadro de funcionários do serviço exterior brasileiro. Diplomatas, oficiais de chancelaria, assistentes de chancelarias e demais funcionários têm atuado de forma consistente em prol dos interesses do Brasil.",
+                "Estamos sempre buscando aperfeiçoar nosso funcionamento como instituição, aprimorando os métodos de trabalho, de gestão de pessoal e de progressão funcional.",
+                "Tenho dedicado especial atenção e estamos conduzindo estudos no sentido de reparar desequilíbrios estruturais das carreiras, de modo a garantir fluxo de ascensão funcional e também ajudar a tornar o Itamaraty mais diverso e inclusivo.",
+                "Portanto, o apoio constante desta Comissão será fundamental para que possamos continuar aprovando os atos internacionais, o diálogo institucional e as relações interparlamentares.",
+                "São essas as observações que queria trazer sobre os aspectos que Vossa Excelência levantou, Senhor Presidente, e sobretudo o relato que tencionava fazer. Fico, naturalmente, à disposição de todos os senhores para troca de ideias e esclarecer dúvidas que eventualmente sejam apresentadas.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na primeira sessão de trabalho da reunião de Ministros de Relações Exteriores dos BRICS",
+            "subtitulo": "Nizhny Novgorod, Rússia, 10/6/2024",
+            "data": "10/06/2024",
+            "horario": "10h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "10/06/2024"
+            ],
+            "horario_atualizado": [
+                "10h53"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-primeira-sessao-de-trabalho-da-reuniao-de-ministros-de-relacoes-exteriores-dos-brics",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "(Versão original em inglês)",
+                "Distinguished Ministers, dear colleagues,",
+                "Minister Sergey Lavrov, thank you for hosting us in Niznhy Novgorod, capital of the sunset, a city so evocative of Russia’s origins.",
+                "It’s a pleasure to meet the original fellow BRICS members again, who are companions of many years, and to warmly welcome our colleagues the Foreign Ministers of Egypt, Ethiopia, Iran and the United Arab Emirates.",
+                "As we gather for the first time as an enlarged BRICS family, allow me to express my sadness for the tragic passing of His Excellency President Ebrahim Raisi and of my dear friend, Minister Hossein Amirabdollahian, with whom I always had a very positive dialogue. Please, Minister Ali Bagheri Kani, extend our heartfelt condolences to their families and friends on behalf of Brazil.",
+                "This meeting takes place against the background of a world in disarray. A world that has failed to overcome hunger and poverty, is heading towards a tipping point in global warming, and has not prevented the eruption of conflicts and humanitarian disasters.",
+                "This is a time when the United Nations and other multilateral institutions are either sidelined or paralyzed, and international law, including basic humanitarian principles, are being blatantly disregarded, as we are witnessing in Gaza.",
+                "Brazil values its bilateral relations with each one of the eight countries around this table, and we collaborate closely with each one in international organizations, as well as in platforms like the G20. BRICS, which materializes the growing influence of the Global South in international affairs, is no exception.",
+                "We may be seen as an improbable group of countries destined to remain divided by geography, culture and politics. Yet, against all odds, our convergence has expanded over the years. Despite our differences, we have been able to find common ground and collaborate in many fields.",
+                "Dialogue is urgently needed today. The fact that this grouping has attracted the interest of so many countries, especially the ones that join us for the first time around this table is a testimony to the success of BRICS.",
+                "How is this possible?",
+                "The key is cohesion, which we should strive to preserve. This means adhering to the “BRICS’s spirit”, which is mutual respect, understanding each other’s interests and aspirations, sovereign equality, solidarity, openness, inclusiveness, strengthened collaboration and consensus.",
+                "The Johannesburg II Summit Declaration provides a solid basis for moving forward. I am confident that the Kazan Summit will reaffirm the main tenets of our fruitful collaboration under the three pillars: political security; economic and financial cooperation; and cultural and people-to-people cooperation.",
+                "Upon accepting the invitation to join the BRICS family, the new members have energized this grouping and embraced the “BRICS Spirit”. Our enlarged family should join forces on a vast array of topics. I wish to highlight two of them.",
+                "First, our leaders have called for Finance Ministers and Central Bank Governors to consider the issue of local currencies, payment instruments and platforms. This is a topic that was raised by President Lula in Johannesburg, and on which Brazil expects the new members to be fully engaged. It will also certainly be an important topic of Brazil’s BRICS Presidency next year.",
+                "Second, we have been calling for the strengthening of multilateralism for many years. Crucial to that is our consensus on the comprehensive reform of the UN, including its Security Council, as carefully drafted in the Johannesburg II Summit Declaration. This is a key issue, a BRICS cornerstone, so to speak. We should find means on collaborating more to move this topic forward in the United Nations.",
+                "Mr. President,",
+                "We have been tasked by our leaders to develop the partner country model.",
+                "A new category of association to BRICS would respond to the growing interest in joining BRICS by many countries of the Global South. Our sherpas have been discussing possible guiding principles, standards, criteria and procedures. We trust we will reach consensus by the Kazan Summit.",
+                "At this stage, our focus should be not on specific country lists, but on what will be the degree of participation of partner countries in BRICS, whether they will attend only BRICS Summits and Foreign Minister’s meetings or also other BRICS meetings and activities. We should also agree on certain criteria for partner countries, such as geographical balance.",
+                "Will the partner country be required to adhere to all BRICS declarations and instruments? Or will we require them to abide by some basic BRICS understandings?",
+                "I am confident that we can reach an agreement, to be decided by our leaders in Kazan. To that effect it is important that we acknowledge that BRICS needs time to adjust to its enlarged format.",
+                "We have to make sure that the new family members are fully accommodated in the vast array of BRICS institutions, including the New Development Bank.",
+                "I intend to present further comments on this issue under the next topic.",
+                "Rest assured, Mr. President, that Brazil remains fully committed to working constructively under your guidance to complete the task that was entrusted to us.",
+                "Brazil values BRICS, which has become indispensable in advancing the interests of the Global South. We will remain fully and constructively engaged in strengthening this platform.",
+                "Thank you.",
+                "(Tradução para o português)",
+                "Distintos Ministros, caros colegas,",
+                "Ministro Sergey Lavrov, obrigado por nos receber em Niznhy Novgorod, a capital do pôr do sol, uma cidade que tanto evoca as origens da Rússia.",
+                "É um prazer reencontrar os companheiros originais do BRICS, que são companheiros de muitos anos, e dar calorosas boas-vindas aos nossos colegas, os Ministros de Negócios Estrangeiros do Egito, da Etiópia, do Irã e dos Emirados Árabes Unidos.",
+                "Ao nos reunirmos pela primeira vez como uma família alargada do BRICS, permitam-me expressar a minha tristeza pelo trágico falecimento de Sua Excelência o Presidente Ebrahim Raisi e do meu querido amigo, o Ministro Hossein Amirabdollahian, com quem sempre tive um diálogo muito positivo. Por favor, Ministro Ali Bagheri Kani, apresente nossas mais sinceras condolências aos seus familiares e amigos em nome do Brasil.",
+                "Este encontro tem como pano de fundo um mundo em desordem. Um mundo que não conseguiu superar a fome e a pobreza caminha para um ponto crítico no aquecimento global, sem ter conseguido impedir o surgimento de conflitos e catástrofes humanitárias.",
+                "Este é um momento em que as Nações Unidas e outras instituições multilaterais estão sendo marginalizadas ou paralisadas, e o direito internacional, incluindo princípios humanitários básicos, estão sendo flagrantemente desrespeitados, como estamos testemunhando em Gaza.",
+                "O Brasil valoriza suas relações bilaterais com cada um dos oito países ao redor desta mesa e colaboramos de maneira próxima com cada um em organizações internacionais, bem como em plataformas como o G20. Os BRICS, que materializam a crescente influência do Sul Global nos assuntos internacionais, não são exceção.",
+                "Podemos ser vistos como um grupo improvável de países destinados a permanecer divididos pela geografia, pela cultura e pela política. No entanto, contra todas as probabilidades, a nossa convergência expandiu-se ao longo dos anos. Apesar das nossas diferenças, conseguimos encontrar pontos em comum e colaborar em muitos campos.",
+                "O diálogo é urgentemente necessário hoje. O fato de este agrupamento ter atraído o interesse de tantos países, especialmente daqueles que se juntam a nós pela primeira vez nesta mesa, é um testemunho do sucesso dos BRICS.",
+                "Como isso é possível?",
+                "A chave é a coesão, que devemos esforçar-nos para preservar. Isto significa aderir ao “espírito dos BRICS”, que é respeito mútuo, compreensão dos interesses e aspirações de cada um, igualdade soberana, solidariedade, abertura, inclusão, fortalecimento da colaboração e consenso.",
+                "A Declaração da II Cúpula de Joanesburgo proporciona uma base sólida para o avanço. Estou confiante de que a Cúpula de Kazan reafirmará os princípios da nossa colaboração produtiva no âmbito dos três pilares: segurança política; cooperação econômica e financeira; e cooperação cultural e interpessoal.",
+                "Ao aceitarem o convite para ingressar na família BRICS, os novos membros dinamizaram este agrupamento e abraçaram o “Espírito BRICS”. Nossa família ampliada deveria unir forças em um vasto conjunto de tópicos. Desejo destacar dois deles.",
+                "Em primeiro lugar, os nossos líderes fizeram um apelo aos Ministros das Finanças e aos Governadores dos Bancos Centrais para considerarem a questão das moedas locais, instrumentos de pagamento e plataformas. Este é um tema levantado pelo presidente Lula em Joanesburgo e no qual o Brasil espera que os novos membros estejam totalmente engajados. Certamente também será um tema importante da presidência brasileira do BRICS no próximo ano.",
+                "Em segundo lugar, temos feito chamados pelo fortalecimento do multilateralismo há muitos anos. Crucial para isso é o nosso consenso sobre a reforma abrangente da ONU, incluindo o seu Conselho de Segurança, tal como foi cuidadosamente redigido na Declaração da II Cúpula de Joanesburgo. Esta é uma questão fundamental, uma pedra angular dos BRICS, por assim dizer. Deveríamos encontrar meios de colaborar mais para fazer avançar este tema nas Nações Unidas.",
+                "Sr. Presidente,",
+                "Fomos incumbidos pelos nossos líderes de desenvolver o modelo de países parceiros.",
+                "Uma nova categoria de associação ao BRICS responderia ao crescente interesse em aderir ao BRICS por parte de muitos países do Sul Global. Nossos sherpas têm discutido possíveis princípios orientadores, padrões, critérios e procedimentos. Acreditamos que chegaremos a um consenso na Cúpula de Kazan.",
+                "Neste momento, o nosso foco não deveria ser em listas de países específicos, mas em qual será o grau de participação dos países parceiros no BRICS, se participarão apenas nas cúpulas do BRICS e nas reuniões dos Ministros dos Negócios Estrangeiros ou também em outras reuniões e atividades do BRICS. Deveríamos também chegar a acordo sobre determinados critérios para os países parceiros, como o equilíbrio geográfico.",
+                "O país parceiro será obrigado a aderir a todas as declarações e instrumentos do BRICS? Ou exigiremos que cumpram alguns entendimentos básicos do BRICS?",
+                "Estou confiante de que poderemos chegar a um acordo, a ser decidido pelos nossos líderes em Kazan. Para isso, é importante reconhecermos que o BRICS precisa de tempo para se ajustar ao seu formato ampliado.",
+                "Temos de garantir que os novos membros da família sejam totalmente acomodados no vasto conjunto de instituições do BRICS, incluindo o Novo Banco de Desenvolvimento",
+                "Pretendo apresentar mais comentários sobre esse assunto no próximo tópico.",
+                "Tenha certeza, Senhor Presidente, de que o Brasil continua totalmente comprometido em trabalhar construtivamente sob sua orientação para completar a tarefa que nos foi confiada.",
+                "O Brasil valoriza o BRICS, que se tornou indispensável na promoção dos interesses do Sul Global. Continuaremos totalmente e construtivamente empenhados no fortalecimento desta plataforma.",
+                "Obrigado"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Discurso do presidente Lula no segmento externo da Cúpula do G7, na Itália",
+            "subtitulo": "Discurso do presidente Luiz Inácio Lula da Silva durante o segmento de engajamento externo da Cúpula do G7, na Itália, em 14 de junho de 2024",
+            "data": "14/06/2024",
+            "horario": "11h54",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h27"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/discurso-do-presidente-lula-no-segmento-externo-da-cupula-do-g7-na-italia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Quero agradecer à primeira-ministra Giorgia Meloni pelo convite para participar deste segmento ampliado.",
+                "Na última reunião similar de que participei na Itália, na Cúpula de L´Áquila em 2009, enfrentávamos uma crise financeira global que expôs os equívocos do neoliberalismo.",
+                "Hoje o Brasil preside o G20 num contexto de múltiplos e novos desafios.",
+                "Conduzir uma revolução digital inclusiva e enfrentar a mudança do clima são dilemas existenciais do nosso tempo.",
+                "Precisamos lidar com essa dupla transição tendo como foco a dignidade humana, a saúde do planeta e um senso de responsabilidade com as futuras gerações.",
+                "Na área digital, vivenciamos concentração sem precedentes nas mãos de um pequeno número de pessoas e de empresas, sediadas em um número ainda menor de países.",
+                "A inteligência artificial (IA) acentua esse cenário de oportunidades, riscos e assimetrias.",
+                "Seus benefícios devem ser compartilhados por todos.",
+                "Interessa-nos uma IA segura, transparente e emancipadora.",
+                "Que respeite os direitos humanos, proteja dados pessoais e promova a integridade da informação.",
+                "Que potencialize as capacidades dos Estados de adotarem políticas públicas para o meio ambiente e que contribua para a transição energética.",
+                "Uma IA que também tenha a cara do Sul Global, que fortaleça a diversidade cultural e linguística e que desenvolva a economia digital de nossos países.",
+                "E, sobretudo, uma IA como ferramenta para a paz, não para a guerra.",
+                "Necessitamos de uma governança internacional e intergovernamental da inteligência artificial, em que todos os Estados tenham assento.",
+                "Os países africanos são parceiros indispensáveis no enfrentamento desses e de outros desafios.",
+                "Com seus 1,5 bilhão de habitantes e seu imenso e rico território, a África tem enormes possibilidades para o futuro.",
+                "A força criativa de sua juventude não pode ser desperdiçada cruzando o Saara para se afogar no Mediterrâneo.",
+                "Buscar melhores condições de vida não pode ser uma sentença de morte.",
+                "Além da União Africana, que integra o G20 pela primeira vez como membro pleno, convidamos Angola, Egito e Nigéria a participar das reuniões durante nossa presidência.",
+                "Muitos países africanos estão próximos da insolvência e destinam mais recursos para o pagamento da dívida externa do que para a educação ou a saúde.",
+                "Isso constitui fonte permanente de instabilidade social e política.",
+                "Sem agregar valor a seus recursos naturais, os países em desenvolvimento seguirão presos na relação de dependência que marcou sua história.",
+                "O Estado precisa recuperar seu papel de planejador do desenvolvimento.",
+                "Promover o emprego decente e a inclusão social são alguns dos temas que tratei ontem na Conferência Internacional do Trabalho, em Genebra.",
+                "A Parceria para o Direito dos Trabalhadores que levamos adiante com o Presidente Biden tem essa finalidade.",
+                "É nesse contexto de combate às desigualdades que se insere a proposta de tributação internacional justa e progressiva que o Brasil defende no G20.",
+                "Já passou da hora dos super-ricos pagarem sua justa contribuição em impostos.",
+                "Essa concentração excessiva de poder e renda representa um risco à democracia.",
+                "Muitos países em desenvolvimento já formularam políticas eficazes para erradicar a fome e a pobreza.",
+                "Nosso objetivo, no G20, é mobilizar recursos para ampliá-las e adaptá-las a outras realidades.",
+                "O apoio de todos os presentes nesta reunião à Aliança Global contra a Fome e a Pobreza, que lançaremos na Cúpula do G20 no Rio de Janeiro, será fundamental para dar fim a essa chaga que ainda assombra a humanidade.",
+                "Senhoras e senhores,",
+                "As instituições de governança estão inoperantes diante da realidade geopolítica atual e perpetuam privilégios.",
+                "O ano de 2023 viu o gasto com armamentos subir em relação a 2022, chegando a 2,4 trilhões de dólares.",
+                "Em Gaza, vemos o legítimo direito de defesa se transformar em direito de vingança.",
+                "Estamos diante da violação cotidiana do direito humanitário, que tem vitimado milhares de civis inocentes, sobretudo mulheres e crianças.",
+                "Isso nos levou a endossar a decisão da África do Sul de acionar a Corte Internacional de Justiça.",
+                "O Brasil condenou de maneira firme a invasão da Ucrânia pela Rússia.",
+                "Já está claro que nenhuma das partes conseguirá atingir todos os seus objetivos pela via militar.",
+                "Somente uma conferência internacional que seja reconhecida pelas partes, nos moldes da proposta de Brasil e China, viabilizará a paz.",
+                "O G7, o BRICS e o G20 reúnem as maiores economias do planeta.",
+                "O futuro que compartilharemos dependerá de nossa capacidade de superar desigualdades e injustiças históricas para vencer as batalhas que a humanidade enfrenta hoje.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Discurso do presidente Lula durante lançamento da Coalizão Global para Justiça Social no âmbito da 112ª Conferência Internacional do Trabalho",
+            "subtitulo": "Discurso lido pelo presidente da República, Luiz Inácio Lula da Silva, durante lançamento da Coalizão Global para Justiça Social no âmbito da 112ª Conferência Internacional do Trabalho, em Genebra (Suíça), em 13 de junho de 2024",
+            "data": "13/06/2024",
+            "horario": "12h54",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h28"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/discurso-do-presidente-lula-durante-lancamento-da-coalizao-global-para-justica-social-no-ambito-da-112a-conferencia-internacional-do-trabalho",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "É com grande satisfação que participo da 112a (centésima décima segunda) Conferência Internacional do Trabalho.",
+                "Retorno à OIT com esperança renovada na atuação conjunta de governos, trabalhadores e empregadores para superar tempos adversos.",
+                "Não foram poucas as vezes em que o mundo voltou seus olhos para a OIT em busca de soluções ao longo de seus 100 anos de história.",
+                "Esta é uma das primeiras organizações internacionais a ganhar o prêmio Nobel da Paz, em 1969.",
+                "Foi nesta assembleia, em maio de 2003, que escolhi fazer meu primeiro discurso em um organismo das Nações Unidas como chefe de estado.",
+                "E foi aqui que nos reunimos para discutir a crise do emprego causada pelo colapso financeiro de 2008.",
+                "Desta vez, vivemos um contexto global muito mais complexo.",
+                "Nossas sociedades ainda se recuperam dos efeitos da pandemia de COVID-19 em ritmos muito desiguais.",
+                "Novas tensões geopolíticas se somam a conflitos existentes em diferentes partes do planeta.",
+                "As transições energética e digital já impacientam trabalhadores de todos os países.",
+                "Os efeitos da mudança climática têm deteriorado a qualidade de vida ao redor do mundo.",
+                "2,4 bilhões de trabalhadores são afetados diretamente pelo calor excessivo.",
+                "O papel da OIT e de seu arranjo tripartite é ainda mais relevante hoje do que quando foi criada.",
+                "Nunca, nunca a justiça social foi tão crucial para a humanidade.",
+                "É central resgatar o espírito da Declaração da Filadélfia, adotada há 80 anos atrás.",
+                "Nela consignamos que o trabalho não deve ser tratado como mercadoria, mas sim fonte de dignidade.",
+                "O bem-estar de cada um depende do bem-estar de todos.",
+                "Como afirmou o Papa Francisco, não há democracia com fome, nem desenvolvimento com pobreza e nem justiça na desigualdade.",
+                "Por isso, aceitei o convite do diretor-geral Gilbert para copresidir a Coalizão Global para a Justiça Social.",
+                "Ela será instrumental para implementar a Agenda 2030 para o Desenvolvimento Sustentável.",
+                "O ODS 8 sobre “Trabalho Decente para Todos” não está avançando na velocidade e na escala necessárias para o cumprimento de seus indicadores.",
+                "Apesar das projeções da taxa de desemprego mundial para este ano e o próximo apontarem modesta diminuição de 5% para 4,9%, não devemos nos iludir.",
+                "A informalidade, a precarização e a pobreza são persistentes.",
+                "O número de pessoas em empregos informais saltou de aproximadamente 1,7 bilhão, em 2005, para 2 bilhões neste ano.",
+                "A renda do trabalho segue em queda para os menos escolarizados.",
+                "As novas gerações não encontram espaço no mercado.",
+                "Muitos não estudam, nem trabalham. Há elevado desalento.",
+                "Quase 215 milhões – mais do que a população do Brasil – vivem em extrema pobreza mesmo estando empregados.",
+                "As desigualdades de gênero, raça, orientação sexual e origem geográfica são agravantes desse cenário.",
+                "Em todo o mundo, as mulheres são um dos elos mais vulneráveis da cadeia do trabalho.",
+                "A máxima “salário igual para trabalho igual” ainda é uma utopia.",
+                "Mais de meio bilhão de mulheres em idade ativa estão fora da força de trabalho devido à divisão desigual das responsabilidades familiares e dos cuidados.",
+                "Dos 280 milhões de migrantes em todo o mundo, 80% vivem no Sul Global.",
+                "Em muitos casos, as remessas desses trabalhadores superam os investimentos estrangeiros em seu país de origem.",
+                "Quase 650 bilhões de dólares foram enviados por imigrantes a países de baixa renda e média renda.",
+                "Esses recursos são fundamentais, mas insuficientes.",
+                "Temos uma arquitetura financeira disfuncional, que alimenta desigualdades.",
+                "Os bancos de desenvolvimento investem muito pouco.",
+                "Senhoras e senhores,",
+                "Há um provérbio antigo que afirma que “se queremos paz, temos de nos preparar para a guerra”.",
+                "Ao lançar a pedra fundamental da OIT, nossos antecessores sabiam e subverteram essa lógica ao consagrar o lema “se desejas a paz, cultiva e nao permita a injustiça”.",
+                "Essa máxima é ainda mais pertinente hoje.",
+                "As guerras na Ucrânia, em Gaza e tantos outros conflitos esquecidos nos afastam desse ideal.",
+                "Trabalhadores que deveriam dedicar-se a suas vidas e famílias são direcionados para frentes de batalha de onde ninguém sabe se irá voltar e quem sairá vencedor.",
+                "Foi assim na Primeira Guerra Mundial, de cujos escombros saíram a Liga das Nações e a própria OIT.",
+                "A Segunda Guerra Mundial terminou com 70 milhões de mortos, 3% da população da época – majoritariamente jovens e com pouca idade.",
+                "O ano de 2023 viu o gasto com armamentos subir 7% em relação a 2022, chegando a 2,4 trilhões de dólares.",
+                "A irracionalidade de um conflito na Europa reacende os temores de uma catástrofe nuclear.",
+                "Em Gaza, há mais de 37 mil vítimas fatais. A maioria são mulheres e crianças.",
+                "Esse conflito também acumula o triste recorde de mortes de trabalhadores humanitários. Por isso é importante afirmar: o mundo precisa de paz e prosperidade E nao de guerra.",
+                "Em 2024, o maior número de eleitores da História se dirigirá às urnas.",
+                "Quase metade da população mundial participará de processos eleitorais, renovando as esperanças de um futuro melhor.",
+                "A democracia e a participação social são essenciais para a conquista de direitos trabalhistas.",
+                "Sem a democracia, um torneiro mecânico jamais teria chegado à Presidência da República de um país como o Brasil.",
+                "Os ataques à democracia historicamente implicaram a perda de direitos.",
+                "Não é mera coincidência que meu país foi investigado por violar normas desta Organização durante o governo de meu antecessor.",
+                "O extremismo político ataca e silencia minorias, negligencia os mais vulneráveis e vende muita ilusão.",
+                "A negação da política deixa um vácuo a ser preenchido por aventureiros que espalham a mentira e o ódio.",
+                "A contestação da ordem vigente não pode ser privilégio da extrema direita.",
+                "A bandeira anti-hegemônica precisa ser recuperada pelos setores populares progressistas e democratas.",
+                "Recuperar o papel do Estado como planejador do desenvolvimento é uma tarefa urgente.",
+                "A mão invisível do mercado só agrava desigualdades.",
+                "O crescimento da produtividade não tem sido acompanhado pelo aumento dos salários, gerando insatisfação e muita polarização.",
+                "Não se pode discutir economia e finanças sem discutir emprego e renda.",
+                "Precisamos de uma nova globalização - uma globalização de face humana.",
+                "A justiça social e a luta contra as desigualdades são prioridades da presidência do Brasil do G20 que se realizara em novembro próximo.",
+                "Fiz questão de convidar a OIT para contribuir com as discussões do Grupo.",
+                "Estamos discutindo como promover uma transição justa e utilizar as tecnologias emergentes para melhorar o universo laboral.",
+                "Nossa iniciativa prioritária, a Aliança Global contra a Fome e a Pobreza, busca acelerar os esforços para eliminar essas chagas.",
+                "O Brasil está impulsionando a proposta de taxação dos super-ricos nos debates do G-20.",
+                "Nunca antes o mundo teve tantos bilionários. Estamos falando de 3 mil pessoas que detêm quase US$ 15 trilhões em patrimônio.",
+                "Isso representa a soma dos PIBs do Japão, da Alemanha, da Índia e do Reino Unido.",
+                "É mais do que se estima ser necessário para os países em desenvolvimento lidarem com a mudança climática.",
+                "A concentração de renda é tão absurda que alguns indivíduos possuem seus próprios programas espaciais.",
+                "Não precisamos buscar soluções em Marte. É a Terra que precisa do nosso cuidado.",
+                "As enchentes que levaram destruição ao Sul do Brasil, ao Quênia e à China, e as secas na Amazônia, na Europa e no continente africano mostram que o planeta já não aguenta mais.",
+                "A crise climática será prioridade da COP-30 que será feita na cidade de Belém em um estado da Amazônia.",
+                "As florestas tropicais não são santuários para o deleite da elite global.",
+                "Tampouco podem ser tratadas como depósitos de riquezas a serem exportadas.",
+                "Debaixo de cada árvore vivem trabalhadoras e trabalhadores que precisam de emprego e renda.",
+                "A sociobioeconomia, a industrialização verde e as energias renováveis são grandes oportunidades para ampliar o bem-estar coletivo e efetivar a transição justa que defendemos.",
+                "Ações e políticas voltadas para o desenvolvimento de habilidades digitais e sustentáveis serão fundamentais em uma economia global cada vez mais descarbonizada e intensiva em tecnologia.",
+                "Nas revoluções industriais anteriores, aprendemos que inovações tecnológicas podem ampliar os horizontes da humanidade.",
+                "Mas foi a luta dos trabalhadores que disciplinou e democratizou seu uso.",
+                "A inteligência artificial transformará radicalmente nosso modo de vida.",
+                "Teremos que atuar para que seus benefícios cheguem a todos e nao apenas aos mesmos paises que sempre ficam com a parte melhor.",
+                "Do contrário, tenderá a reforçar vieses e hierarquias geopolíticas, culturais, sociais e de gênero.",
+                "Um terço da população mundial está fora da Internet, e parcela ainda maior não usufrui de conectividade significativa.",
+                "A diversidade linguística ainda não está adequadamente representada no ambiente digital.",
+                "O poder computacional necessário para mover suas engrenagens é desigualmente distribuído.",
+                "Seu insumo essencial sãk nossos dados, nossa atenção e nosso tempo, e é disputado ferozmente por um punhado de empresas.",
+                "Nenhum país é capaz de resolver sozinho os dilemas que afetam toda a sociedade internacional.",
+                "Precisamos buscar as melhores experiências onde quer que elas estejam para que a gente possa colocar em pratica no mundo inteiro.",
+                "O Brasil se inspirou no governo espanhol, sob a liderança de de Pedro Sanchez, para regular o trabalho por aplicativos de transporte e promover um acordo sobre jornadas de trabalho, salários e previdência social.",
+                "O presidente Biden mostrou-se um grande aliado na construção de um novo marco para a construção de uma relação entre capital e trabalho.",
+                "Esse é o sentido da Parceria para o Direito dos Trabalhadores que lançamos na ONU, no ano passado, ao lado do Diretor-Geral, nosso companheiro Houngbo.",
+                "Queremos pavimentar o caminho para um novo contrato social, que coloque o ser humano no centro das políticas.",
+                "Em meu terceiro mandato, tenho renovado o compromisso com o mundo do trabalho.",
+                "Tenho certeza de que retomamos as políticas de valorização do salário mínimo, de erradicação do trabalho infantil e de combate a formas contemporâneas de escravidão.",
+                "Aprovamos uma lei sobre igualdade de remuneração entre homens e mulheres e nos somamos ao chamado da OIT para que mais países, sindicatos e empresas integrem a Coalizão Internacional pela Igualdade Salarial.",
+                "Também estamos formulando um Plano Nacional de Cuidados que considera as desigualdades de classe, gênero, de raça, idade, deficiências e territórios, com olhar especial para o mundo do trabalho doméstico.",
+                "Temos uma política forte de geração de emprego e de reindustrialização do país, com responsabilidade fiscal.",
+                "Somente a indústria automobilística anunciou investimentos de 25 bilhões de dólares, o que não acontecia no Brasil há mais de 40 anos.",
+                "Um país que gera condições de investimento está protegendo seus trabalhadores, está gerando emprego e permitindo que a massa salarial cresça.",
+                "Quando a economia cresce, o desemprego diminui e a renda aumenta.",
+                "São 2,2 milhões de empregos formais criados desde o início do meu governo.",
+                "O desemprego no primeiro trimestre deste ano foi o menor desde 2014.",
+                "Senhoras e senhores,",
+                "Ao longo de mais de um século, a OIT contribuiu para inúmeras conquistas que elevaram o padrão de qualidade de vida das pessoas e fortaleceram a paz, segurança e prosperidade.",
+                "A Coalizão Global que estamos lançando hoje será uma ferramenta central para construir uma transição com justiça social, trabalho decente e igualdade.",
+                "Isso será particularmente importante neste contexto de transição para uma ordem multipolar, que exigirá mudanças profundas nas instituições.",
+                "Por isso o Brasil vai trabalhar pela ratificação da Emenda de 1986 à Constituição da OIT, que propõe eliminar os assentos permamentes dos países mais industrializados no Conselho da Organização.",
+                "Não faz sentido apelar aos países em desenvolvimento para que contribuam para a resolução das crises que o mundo enfrenta hoje sem que estejam adequadamente representados nos principais órgãos de governança global.",
+                "Nossas decisões só terão legitimidade e eficácia se tomadas e implementadas democraticamente.",
+                "Esse é o melhor caminho a seguir para garantir o desenvolvimento sustentável, os direitos dos mais vulneráveis e a proteção do planeta.",
+                "Vamos semear a justiça e colher a paz de que o mundo tanto precisa.",
+                "Muito obrigado.",
+                "*Cotejar com versão oral"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Discurso do presidente Lula por ocasião da visita oficial do presidente da Croácia, Zoran Milanović",
+            "subtitulo": "Discurso do presidente da República, Luiz Inácio Lula da Silva, por ocasião da visita oficial do presidente da Croácia, Zoran Milanović, em Brasília, em 3 de junho de 2024",
+            "data": "03/06/2024",
+            "horario": "14h06",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h28"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/discurso-do-presidente-lula-por-ocasiao-da-visita-oficial-do-presidente-da-croacia-zoran-milanovic",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Quero expressar minha satisfação em receber o presidente Zoran Milanović em sua visita oficial ao Brasil.",
+                "Sua visita reflete a amizade entre nossos país, fortalecida pela recente gestão do ministro Mauro Vieira como embaixador em Zagreb.",
+                "Em nossa reunião de hoje recebi do presidente Milanović as condolências por ocasião das trágicas enchentes no Rio Grande do Sul.",
+                "Aproveito esta oportunidade em que estão presentes os embaixadores europeus residentes em Brasília para reiterar meus agradecimentos por todo o apoio e solidariedade que recebemos nessas últimas semanas.",
+                "Essas catástrofes confirmam que já vivemos as consequências das mudanças climáticas que alguns ainda teimam em negar.",
+                "Essa prioridade estará presente nos grandes eventos que sediaremos neste ano e no próximo, o G20 e a COP 30.",
+                "A meta do Acordo de Paris, de manter o aquecimento global entre um grau e meio e dois, já é insuficiente.",
+                "Esse é uma mensagem que vamos reforçar no dia Mundial do Meio Ambiente, que celebramos em breve.",
+                "Precisaremos de renovada ambição para o anúncio das novas Contribuições Nacionalmente Determinadas (NDCs) na COP 30 em Belém.",
+                "O Brasil vai liderar pelo exemplo. Apresentaremos contribuições robustas.",
+                "Nosso compromisso em zerar o desmatamento da Amazônia até 2030 está sendo cumprido.",
+                "A Croácia também está buscando avançar na área de hidrogênio de baixo carbono. Temos muito interesse na troca de experiências sobre transição energética.",
+                "Mas muitos países do Sul Global não terão condições de assumir metas arrojadas sem financiamento e transferência de tecnologia.",
+                "Países em desenvolvimento vão precisar de 4 a 6 trilhões de dólares ao ano para seus esforços de adaptação.",
+                "Esse é um tema que teremos que enfrentar já na COP de Baku.",
+                "Captar mais recursos, contudo, não será suficiente se eles não forem acessíveis.",
+                "O Grupo de Trabalho de Finanças Sustentáveis do G20 vai aprimorar a governança dos fundos multilaterais na área ambiental para que eles respondam de forma simples, ágil e efetiva às necessidades dos países mais vulneráveis.",
+                "A Aliança Global contra a Fome e a Pobreza será outro dos principais resultados da presidência brasileira do G20. Ela estará aberta a todos os países e organizações internacionais.",
+                "O apoio da Croácia e da União Europeia será de grande valia para que a Aliança traga bem-estar, segurança alimentar, a dignidade a milhões de pessoas ao redor do mundo.",
+                "Com o “G20 Social”, queremos escutar e acolher a visão da sociedade civil: jovens, trabalhadores, empresários, povos indígenas, parlamentares, cientistas, acadêmicos e representantes de outros grupos vulneráveis.",
+                "Estamos comprometidos com o empoderamento econômico das mulheres, no âmbito do recém-criado grupo de trabalho dedicado exclusivamente ao tema.",
+                "Senhoras e senhores,",
+                "Nossas regiões estão ameaçadas pelo extremismo político, pela manipulação da informação, pela violência que ataca e silencia minorias.",
+                "O processo de renovação política na União Europeia se aproxima. Em poucos dias as 720 vagas do Parlamento Europeu estarão em disputa.",
+                "A vitalidade da democracia é fundamental no momento em que vivemos. Para vencer o totalitarismo será preciso unir todos os democratas.",
+                "No Brasil, mantemos viva a memória de Vladimir Herzog, jornalista nascido na cidade croata de Osijek, que se tornou um dos símbolos da luta contra a ditadura militar.",
+                "União Europeia e Brasil coincidem na importância atribuída por ambos ao multilateralismo, à promoção da paz e ao respeito aos direitos humanos.",
+                "O Brasil condenou de maneira firme a invasão da Ucrânia pela Rússia.",
+                "Uma desescalada seria um passo necessário para que as partes possam retomar o diálogo direto.",
+                "Apoiamos a realização de uma conferência internacional que seja reconhecida tanto pela Ucrânia como pela Rússia.",
+                "No caso de Gaza, o Brasil continuará trabalhando por um cessar-fogo permanente que permita a entrada da ajuda humanitária em Gaza e pela libertação imediata de todos os reféns pelo Hamas.",
+                "Foi com grande pesar que recebemos a notícia do falecimento do brasileiro Michel Niesembaum.",
+                "A violação cotidiana do direito humanitário é chocante e tem vitimado milhares de civis inocentes, sobretudo mulheres e crianças.",
+                "É fundamental que a comunidade internacional trabalhe para a solução de dois estados, vivendo lado a lado em segurança.",
+                "O recente reconhecimento do Estado Palestino por Espanha, Noruega e Irlanda é um passo importante nessa direção.",
+                "Caro presidente Milanović,",
+                "Uma das maiores riquezas brasileiras é a diversidade de sua população, e parte dessa diversidade tem sua origem na Europa.",
+                "Cerca de 80 mil brasileiros têm origem croata e estão concentrados nos estados de São Paulo, Rio de Janeiro e Paraná.",
+                "Os vínculos humanos nos aproximam do continente europeu.",
+                "A única rivalidade transatlântica que perdura entre nós é sobre quem tem a hegemonia futebolística mundial.",
+                "A Croácia entrou recentemente na lista dos poucos países que derrotaram o Brasil em um mundial.",
+                "O Senhor esteve presente na cerimônia de abertura do Mundial de 2014 em São Paulo.",
+                "Como sede da Copa do Mundo Feminina de Futebol em 2027, o Brasil terá novamente a oportunidade de sublinhar o esporte como instrumento de aproximação e da promoção da boa-vontade e da dignidade humana, sem diferenças de raça, cor ou credo.",
+                "É com esse espírito de fraternidade que saúdo o Presidente Zoran, sua esposa e o povo croata.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "maria-laura-da-rocha-2023"
+            ],
+            "titulo": "Intervenção da Senhora Secretária-Geral das Relações Exteriores na  Sessão Plenária da 54ª Assembleia Geral da OEA - 26/06/2024",
+            "subtitulo": "NA",
+            "data": "26/06/2024",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "28/06/2024"
+            ],
+            "horario_atualizado": [
+                "11h00"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/maria-laura-da-rocha-2023/intervencao-da-secretaria-geral-na-sessao-plenaria-da-54a-assembleia-geral-da-oea-26-06-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Pública"
+            ],
+            "paragrafos": [
+                "Antes de mais nada, em nome do governo brasileiro, condeno, nos mais firmes termos, o lamentável episódio ocorrido no dia de ontem na Bolívia. A democracia, um dos pilares da OEA, é inegociável, e o governo brasileiro será intransigente em sua defesa.  Manifesto, nesse sentido, assim como já o fez o presidente Luiz Inácio Lula da Silva, nossa profunda solidariedade ao legítimo e democraticamente eleito governo do presidente Luis Arce.",
+                "Tenho a satisfação de expressar, em nome do governo brasileiro, nossos agradecimentos ao Paraguai por sediar esta Assembleia Geral. Estou segura de que o encontro propiciará oportunidade de discussão construtiva sobre temas centrais para os países e as populações da região.",
+                "O Brasil participa desta Assembleia imbuído da convicção da relevância e da legitimidade da OEA para atuar, com respeito à soberania dos Estados-membros, em seus quatro pilares estratégicos: democracia; direitos humanos; segurança multidimensional; e desenvolvimento integral.",
+                "Parabenizamos o Paraguai pela escolha do lema desta Assembleia: Integração e Segurança para o Desenvolvimento Sustentável da Região. Os desafios atuais no nosso hemisfério e no mundo, nos campos da segurança e do desenvolvimento sustentável, demandam mais integração, não menos.",
+                "As ameaças na esfera da segurança vêm se multiplicando, com ramificações cada vez mais preocupantes e implicações, inclusive, para a integridade das instituições públicas e da democracia, em diferentes países do mundo, inclusive nas Américas.",
+                "Nossa região tem testemunhado graves atentados ao Estado de Direito. O crime, o tráfico de drogas, armas e pessoas, assim como a lavagem de dinheiro e a corrupção de agentes públicos e privados constituem ameaças cada vez mais presentes. O combate a esses flagelos depende da cooperação regional e global, sempre com respeito ao direito internacional e aos direitos humanos.",
+                "Por meio de seu conjunto de tratados e mecanismos no campo da segurança multidimensional, a OEA oferece plataforma privilegiada para enfrentarmos com sucesso e respeito às instituições democráticas essas ameaças ao bem-estar e à estabilidade de nossos países.",
+                "A OEA desenvolve projetos importantes nessa direção, em áreas como: registro civil e identidade no Haiti; concessão de bolsas de estudo; e cooperação técnica em temas migratórios. Essas e outras iniciativas, levadas a cabo pela Secretaria Executiva de Desenvolvimento Integral, em temas como inovação, empreendedorismo feminino, cooperação educacional e produtividade, entre outras, são contribuições relevantes e devem continuar a ser impulsionadas. O Brasil somou-se a várias dessas iniciativas, por meio da cooperação, junto à Secretaria Executiva de Desenvolvimento Integral, em assuntos como pequenas e médias empresas, educação e monitoramento marinho.",
+                "As discussões sobre os múltiplos desafios suscitados pela emergência climática merecem destaque. A OEA está muito bem posicionada para abordar o tema em suas três dimensões e para contribuir com iniciativas tangíveis, ancoradas no princípio das responsabilidades comuns, porém diferenciadas. Para tanto, precisaremos de novas fontes de financiamento, que nos permitam dar o salto tecnológico para uma economia de baixo carbono.",
+                "E necessitamos agora. Os efeitos da mudança do clima já se fazem sentir com força em nossos países, onde eventos climáticos extremos causam destruição e perdas de vidas humanas, como ocorreu, recentemente, no Estado brasileiro do Rio Grande do Sul.",
+                "Nesse contexto, faz-se fundamental fortalecer os mecanismos de resposta humanitária de emergência, inclusive por meio da Junta Interamericana de Defesa (JID). Também é preciso ampliar os esforços de reconstrução pós-desastres.",
+                "No campo da cooperação hemisférica, o Brasil tem a expectativa de que a Agência Interamericana para a Cooperação e o Desenvolvimento (AICD) tenha seu papel fortalecido como ponto focal de cooperação internacional da OEA. O recém aprovado Plano de Ação para a Cooperação da OEA 2024-2027 proporcionará novo impulso a essa agenda, que considero da maior relevância.",
+                "Senhor Presidente, caros colegas,",
+                "A OEA é um espaço privilegiado de encontro de todos os países do continente americano. É, por isso, uma plataforma que deve ser utilizada para gerar convergências, na busca de soluções para desafios comuns. Queremos uma Organização que adote métodos de trabalho transparentes, capazes de assegurar processos decisórios inclusivos e legítimos. Precisamos de uma Organização moderna e eficiente. Os recursos investidos devem gerar resultados concretos para nossos Estados e populações, além de cumprirem requisitos de transparência e prestação de contas.",
+                "O Brasil vem dando contribuição concreta nessa direção. No ano passado, a delegação brasileira leu, no Conselho Permanente, a Declaração Conjunta sobre Compromissos Compartilhados para Assegurar Negociações Abertas, Transparentes e Inclusivas. A adesão ao documento por 17 delegações revela o anseio dos Estados Membros por caminhar no rumo do aprimoramento dos métodos de trabalho da Organização.",
+                "O Brasil também defende a eliminação da duplicação de tarefas e a busca de sinergias entre processos conexos com os mandatos emanados das diferentes reuniões ministeriais da Organização. Favorecemos amplo diálogo entre os órgãos da OEA e o processo de seguimento das Cúpulas das Américas, para que o produto que entreguemos a nossos cidadãos seja sempre da maior qualidade. A celebração, no próximo mês de dezembro, na República Dominicana, do 30º aniversário do Processo de Cúpulas das Américas constituirá uma boa oportunidade para refletir sobre como podemos melhorar essa interação, de modo que as atividades da OEA reflitam as prioridades definidas pelos chefes de Estado e de Governo da região.",
+                "Com esse espírito, estamos engajados nas discussões sobre a revisão da gestão e da governança da Organização, realizada por consultoria externa. Esse exercício oferecerá oportunidade para realizar reformas que aumentem a eficiência e a eficácia da gestão dos nossos recursos financeiros e humanos.",
+                "Não podemos deixar de lembrar, ainda, do impacto positivo do Sistema Interamericano de Direitos Humanos na vida dos cidadãos e cidadãs. Sua capacidade de proteger e promover direitos universais, oferecendo reparação e garantias de não repetição de violações, é um exemplo de regime internacional que faz a diferença. Os 65 anos da Comissão Interamericana de Direitos Humanos e os 45 anos da Corte Interamericana de Direitos Humanos, comemorados este ano, são motivo de orgulho para nossa região e um modelo para o mundo.",
+                "No pilar relativo à democracia, a OEA deve atuar no fortalecimento das instituições democráticas, especialmente no atual contexto em que ações que visam a promover a desinformação e a desestabilização ameaçam o sistema representativo. A OEA deve agir com imparcialidade e rigor em suas missões de observação eleitoral e promover o contínuo intercâmbio sobre a implementação da Carta Democrática Interamericana. O Brasil participa desses esforços, com espírito construtivo, favorecendo o compartilhamento de boas práticas, inclusive diante de novos desafios como o uso de plataformas digitais e da inteligência artificial para disseminar notícias falsas, tema que merece nossa mais elevada atenção.",
+                "A defesa da democracia e da vontade popular na Guatemala é um exemplo recente de que a OEA pode fazer a diferença, quando existe engajamento construtivo de todos. Essa perspectiva cooperativa, de se estender a mão, no lugar do automatismo da punição, constitui um instrumento fundamental para manter a relevância da Organização em crises internas e risco de ruptura da ordem democrática.",
+                "É por isso que devemos trabalhar para que todos os países das Américas voltem ao seio da OEA: para que o engajamento e o diálogo produzam a progressiva implementação dos padrões interamericanos sabidamente avançados nos campos dos direitos humanos e da democracia.",
+                "Devemos recordar ainda que  a América Latina e o Caribe são um espaço de paz e cooperação. Somos contra medidas coercitivas unilaterais, que penalizam populações de países da região. É injusta a manutenção do bloqueio contra Cuba, com sérias consequências de natureza humanitária em pleno coração do Caribe. E é injustificada a manutenção do país caribenho em uma lista unilateral de países que promovem o terrorismo, quando sabemos que Cuba colabora ativamente para a promoção da paz, do diálogo e da integração regional.",
+                "Por fim, mas não menos importante, o governo brasileiro gostaria de salientar a necessidade de a Organização conceder maior destaque ao seu pilar do desenvolvimento integral. Passadas diversas décadas da fundação da OEA, o subdesenvolvimento, a pobreza e mesmo a fome seguem afligindo as Américas. Em nome do presidente Lula, gostaria aqui de transmitir a mensagem de que não apenas é importante, como é urgente, promover o desenvolvimento e acabar com a miséria no nosso continente.",
+                "Senhor presidente, caros colegas,",
+                "Uma OEA eficiente, legítima e relevante depende de processos decisórios transparentes e gestão moderna. Depende também de recursos humanos valorizados, liderança competente, diálogo constante entre o Secretariado e os Estados Membros, e de um canal de comunicação eficaz com a sociedade civil.",
+                "Daqui até a próxima Assembleia Geral ordinária, participaremos de um processo eleitoral para a escolha dos novos secretário-geral e secretário-geral adjunto.",
+                "O Brasil defende um esforço conjunto de reflexão, de modo a que nossas escolhas atendam aos requisitos da Carta da OEA e às altas expectativas de nossas sociedades.",
+                "A OEA encontra-se em um momento de busca de maior eficiência e legitimidade. Esse processo requererá futuros ocupantes de cargos de liderança com habilidades gerenciais, experiência diplomática e alto padrão moral e ético. Também é essencial o compromisso com o estrito respeito à Carta, aos padrões derivados das convenções interamericanas e aos mandatos aprovados pelos Estados membros.",
+                "Além disso, não apenas no Secretariado, mas, como um todo, nas posições de chefia e de maior responsabilidade, devemos buscar a promover maior representatividade feminina.",
+                "No ano em que comemoramos o Trigésimo aniversário da Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher, a Convenção de Belém do Pará – verdadeiro divisor de águas na luta pela superação da discriminação de gênero na nossa região –, não podemos esquecer o longo caminho que ainda temos a percorrer para que as mulheres possam exercer plenamente seus direitos.",
+                "E não posso mencionar Belém sem me lembrar do saudoso embaixador João Clemente Baena Soares, que, em 1994, testemunhou com alegria, na sua querida cidade, a adoção dessa convenção histórica, no seu último ano de mandato, quando fechava seu ciclo como secretário-geral da Organização. O legado do embaixador Baena Soares seguirá nos inspirando na busca de uma OEA de todos os Estados Americanos.",
+                "Uma OEA em que a diplomacia, o diálogo e o entendimento sejam o principal veículo para construir uma região pacífica, segura, próspera e democrática para nossos povos.",
+                "Muito obrigada, senhor presidente."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "maria-laura-da-rocha-2023"
+            ],
+            "titulo": "Discurso da Ministra, substituta, das Relações Exteriores em Jantar oferecido pela Abertura da Exposição na 35ª Bienal no Museu Nacional da República",
+            "subtitulo": "Brasília, 13/06/2024",
+            "data": "13/06/2024",
+            "horario": "21h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "14/06/2024"
+            ],
+            "horario_atualizado": [
+                "12h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/maria-laura-da-rocha-2023/discurso-da-ministra-substituta-das-relacoes-exteriores-em-jantar-oferecido-pela-abertura-da-exposicao-na-35a-bienal-no-museu-nacional-da-republica",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Senhoras e senhores,",
+                "É com imensa satisfação que recebo a todos e todas nesta noite, em nome do Ministro Mauro Vieira, para celebrar a abertura, em Brasília, da itinerância da 35ª edição da Bienal de São Paulo: coreografias do impossível. Esta ocasião reflete a profunda cooperação estabelecida entre o Itamaraty, por meio do Instituto Guimarães Rosa, e a Fundação Bienal de São Paulo.",
+                "Temos orgulho de ter, neste ano, o primeiro brasileiro – e também primeiro latino-americano – como curador-geral da exposição principal da Bienal de Veneza, Adriano Pedrosa. Sua atuação resultou na inclusão de obras de 28 artistas nacionais na exposição principal da Bienal de Veneza, o mais importante evento das artes visuais no mundo. A 60ª edição da Bienal de Veneza foi marcada, ainda, pela curadoria do Pavilhão do Brasil por artistas indígenas, renomeado neste ano como 'Pavilhão Hãhãwpuá', nome ancestral do território brasileiro em língua pataxó, e dedicado inteiramente à arte indígena contemporânea.",
+                "Quero expressar, ainda, meus sinceros agradecimentos à Fundação Bienal de São Paulo pela reforma do Pavilhão do Brasil na Bienal de Veneza, importante obra dos arquitetos Giancarlo Palanti e Henrique Mindlin. Essa iniciativa resultou em espaço renovado e representativo, que enaltece a diversidade e a criatividade de nossos artistas. Assim como as “coreografias do impossível”, expostas agora no Museu da República, a colaboração entre o Itamaraty e a Fundação Bienal de São Paulo tem permitido ressignificar as realidades políticas, econômicas, sociais e culturais do Brasil, de sua produção cultural e de nosso povo.",
+                "A itinerância da 35ª edição da Bienal de São Paulo, a segunda mais antiga do mundo, terá percorrido, ao final de seu périplo, as cidades de Buenos Aires, La Paz, Luanda, entre diversas outras, destacando o rico panorama artístico brasileiro em âmbito global.",
+                "Por fim, gostaria de estender meus agradecimentos ao Museu Nacional da República, especialmente à diretora Sara Seilert, pela calorosa recepção e pela valiosa cooperação na exposição que foi inaugurada no dia de hoje. É por meio de parcerias como esta que fortalecemos os laços culturais e promovemos o intercâmbio artístico entre nações.",
+                "Que esta noite seja marcada por momentos de inspiração e frutíferas trocas de ideias. Obrigada a todos por compartilharem conosco esta ocasião tão especial."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

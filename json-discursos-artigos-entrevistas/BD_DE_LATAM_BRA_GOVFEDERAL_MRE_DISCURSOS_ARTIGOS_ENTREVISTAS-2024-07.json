@@ -1,0 +1,1555 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira no Seminário Nacional de lançamento do IV Plano Nacional de Enfrentamento ao Tráfico de Pessoas - 30/07/2024",
+            "subtitulo": "NA",
+            "data": "30/07/2024",
+            "horario": "16h13",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-no-seminario-nacional-de-lancamento-do-iv-plano-nacional-de-enfrentamento-ao-trafico-de-pessoas-30-07-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Senhor Ministro da Justiça e Segurança Pública, Ricardo Lewandowski,",
+                "Agradeço a oportunidade de participar desta importante conferência.",
+                "O lançamento do IV Plano Nacional de Enfrentamento ao Tráfico de Pessoas é oportunidade para recordarmos a tarefa coletiva de enfrentar este crime tão aviltante contra a dignidade humana. Trata-se de uma tarefa que nos deve unir nos níveis doméstico e internacional, e para a qual o Itamaraty se orgulha de contribuir.",
+                "Senhor Ministro,",
+                "A comunidade internacional ratificou seu rechaço ao tráfico de pessoas por meio do Protocolo à Convenção de Palermo. A importante dimensão transnacional deste crime, no entanto, exige não apenas criminalizar a conduta de maneira uniforme, mas também de reforçar cotidianamente a cooperação internacional em seu enfrentamento.",
+                "É nesse contexto que o Itamaraty tem buscado dar sua contribuição aos esforços do governo brasileiro para o enfrentamento do tráfico de pessoas. Temos buscado atuar, para tanto, em duas frentes principais.",
+                "De um lado, acompanhando continuamente as discussões conceituais e normativas sobre o tema nos foros internacionais, especialmente no âmbito da Convenção de Palermo. De outro, prestando assistência aos cidadãos brasileiros que são vítimas de tráfico de pessoas no exterior.",
+                "Temos nos esforçado para coordenar de forma mais eficaz esses dois aspectos da atuação do Itamaraty. Um dos mecanismos para alcançar esse objetivo é a ampliação da rede de acordos bilaterais para o enfrentamento ao tráfico de pessoas, que foi incluída como uma das ações prioritárias do IV Plano Nacional.",
+                "Em conjunto com o Ministério da Justiça e Segurança Pública, elaboramos um modelo de acordo bilateral sobre o tema, que apresentaremos aos países onde há incidência de vítimas brasileiras. Esperamos, com isso, estabelecer uma base legal para várias ações conjuntas, incluindo a troca de informações migratórias, a programação de operações coordenadas, além da promoção do acesso à justiça e do atendimento às vítimas. Em paralelo a este esforço, já assinamos, este ano, um acordo com a Bolívia e um memorando de entendimento com a Colômbia sobre o tema.",
+                "Senhor Ministro,",
+                "Não poderia deixar de expressar o compromisso do Itamaraty com a proteção dos brasileiros no exterior. Somente em 2023, nossa rede consular atendeu a 206 casos de tráfico de pessoas, repatriando muitas das vítimas para o Brasil. O trabalho para a assistência às vítimas de tráfico de pessoas pela rede consular brasileira pauta-se pelo respeito à dignidade das pessoas, pela não discriminação, pela preservação da privacidade e pela garantia dos direitos humanos.",
+                "Buscamos, ademais, formas de prevenir que nossos nacionais se tornem vítimas deste crime no exterior. Exemplo disso é o recente lançamento, em conjunto com o Ministério da Justiça e Segurança Pública e a Organização Internacional para Migrações (OIM), da cartilha \"Tráfico de Pessoas e Orientações para o Trabalho no Exterior\", que visa a orientar a população sobre o trabalho seguro no exterior e evitar a vitimização.",
+                "Senhor Ministro,",
+                "Agradeço, uma vez mais, o convite para participar deste Seminário Nacional e reafirmo o compromisso do Itamaraty em intensificar sua contribuição para o combate ao tráfico de pessoas e a proteção das vítimas deste grave crime.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira  na Reunião Ministerial  Força-Tarefa do G20 para o estabelecimento de uma Aliança Global contra a fome e a pobreza",
+            "subtitulo": "NA",
+            "data": "24/07/2024",
+            "horario": "11h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/07/2024"
+            ],
+            "horario_atualizado": [
+                "17h31"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-reuniao-ministerial-forca-tarefa-do-g20-pra-o-estabelecimento-de-uma-alianca-global-contra-a-fome-e-a-pobreza",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "É uma enorme satisfação recebê-los no Rio de Janeiro, minha cidade natal, para esta última reunião da Força-Tarefa do G20 para o estabelecimento de uma Aliança Global Contra a Fome e a Pobreza.",
+                "A satisfação é ainda maior ao dar os primeiros passos da Aliança Global neste espaço tão especial, o Galpão da Cidadania.",
+                "Próximo desse local, encontra-se o Cais do Valongo, um triste porto de chegada de pessoas escravizadas ao Rio de Janeiro. Hoje, no entanto, este prédio abriga a Ação da Cidadania, organização fundada em 1993 pelo sociólogo Herbert de Souza, o Betinho, cuja história de combate à fome e às desigualdades no Brasil é uma referência para todos nós.",
+                "Organizar aqui uma reunião das maiores economias do mundo, além de países e organizações convidadas, é uma maneira de rememorar e valorizar a cultura negra e afrodescendente do nosso país, bem como ocasião para manifestarmos nosso firme compromisso com a luta pelos direitos humanos e pela cidadania plena, e principalmente pelo direito humano à alimentação.",
+                "Senhoras e senhores,",
+                "Segundo o relatório do Estado da Segurança Alimentar e Nutrição no Mundo de 2024, apresentado hoje pela manhã, mais de 700 milhões de pessoas em todo o mundo ainda enfrentam a fome todos os dias.",
+                "Ou seja: um em cada três seres humanos está subnutrido. O diagnóstico geral da insegurança alimentar e nutricional no mundo é claro. Deriva da pobreza, das desigualdades, das mudanças climáticas, das crises econômicas, dos conflitos nas suas diversas manifestações.",
+                "Diante desses fatores, nos distanciamos cada vez mais do cumprimento dos Objetivos de Desenvolvimento Sustentável, principalmente do ODS 1, de erradicação da pobreza, e do ODS 2, de fome zero. A plena implementação dos ODS tornou-se uma meta longínqua para muitos países.",
+                "O Brasil está profundamente preocupado com a situação internacional atual. Aproveito a ocasião para expressar nossa consternação diante da situação do Haiti, da Faixa de Gaza e do Sudão, entre tantas regiões que enfrentam hoje insegurança alimentar e nutricional em níveis catastróficos.",
+                "Neste momento, gostaria de convidar o presidente do Banco Intermericano de Desenvolvimento, Ilan Goldfajn, que falará em nome tanto do BID quanto do Banco Africano de Desenvolvimento, em coordenação com seu presidente, Sr.  Akinwumi Adesina, para apresentar uma proposta importante sobre a utilização dos Direitos Especiais de Saque (SDRs) em benefício da luta contra a fome e a pobreza na América Latina e no Caribe, bem como na África.",
+                "[Intervenção do Presidente do BID, Ilan Goldfajn]",
+                "Muito obrigado presidente Goldfajn por essa promissora proposta, que demonstra o potencial dos bancos regionais de desenvolvimento para serem parceiros e agentes centrais da implementação da Aliança Global.",
+                "Senhoras e Senhores,",
+                "Um cenário bastante desolador em muitas regiões do mundo demonstra que é passada a hora de adotarmos medidas eficazes para acabar com a fome e com a pobreza, mazelas globais, mas que atingem de forma particularmente dura os grupos marginalizados e em situação de vulnerabilidade.",
+                "Isso é particularmente verdadeiro para mulheres e meninas, povos indígenas, afrodescendentes, pessoas com deficiência, jovens e pessoas idosas, pessoas em situação de rua, migrantes, refugiados, além de tantos outros.",
+                "A criação da Aliança Global Contra a Fome e a Pobreza é um projeto ambicioso, que representa o compromisso brasileiro com o objetivo de erradicar, de uma vez por todas, a fome e a pobreza. No entanto, a Aliança Global não é um projeto do Brasil, é um projeto de todos nós.",
+                "Por meio da Aliança, buscaremos fortalecer parcerias globais, mobilizar recursos, compartilhar conhecimentos e experiências exitosas no combate à fome e à pobreza.",
+                "Trabalharemos para assegurar uma governança inclusiva, democrática, participativa e transparente em nível internacional para a Aliança Global. O Comitê Mundial de Segurança Alimentar, com quem esperamos seguir contando no desenvolvimento da Aliança, é um modelo que podemos seguir.",
+                "Senhoras e Senhores,",
+                "Hoje, aqui reunidos, promoveremos resultados concretos e enfatizaremos nosso propósito comum de combate à fome e à pobreza. Endossaremos, em breve, o Documento Fundacional que permitirá a criação da Aliança Global contra a Fome e a Pobreza.",
+                "O lançamento formal da Aliança, previsto para novembro próximo, ocorrerá no momento em que as Diretrizes Voluntárias para Apoiar a Realização Progressiva do Direito Humano à Alimentação Adequada, adotadas pela FAO em 2004, completam 20 anos.",
+                "A Aliança Global contra a Fome e a Pobreza responde a anseios das populações dos nossos países e às expectativas de nossas sociedades. Os olhos do mundo estão sobre nós. Não podemos fracassar nesse processo.",
+                "Gostaria de registrar o especial agradecimento do governo brasileiro às delegações de todos os países participantes da Força-Tarefa do G20 pelo engajamento demonstrado nas rodadas de negociação, que nos permitiram chegar a esta reunião ministerial com uma proposta consensual e ambiciosa para apresentar às nossas sociedades. Esperamos que todos os países se possam somar à Aliança que, a partir de hoje, estará aberta a adesões.",
+                "Senhoras e senhores,",
+                "Há 30 anos, Betinho fundou a Ação da Cidadania com um sonho: um Brasil sem fome. Orientados pela liderança do nosso presidente Lula e pelo apoio e engajamento de todos os países e instituições aqui presentes, materializamos nosso compromisso de tornar o mundo um lugar mais digno e justo para todas e todos.",
+                "Que a Aliança Global Contra a Fome e a Pobreza ajude a realizar, no Brasil e no mundo, o sonho de Betinho, que é o sonho de Josué de Castro, de Graziano da Silva, do Presidente Lula, de todas e todos nós. Mais que isso, que a Aliança Global e seus futuros membros se unam para a realização de um sonho ainda maior: um mundo sem fome e sem pobreza.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na Sessão sobre Redução das Desigualdades e Cooperação - Reunião Ministerial de Desenvolvimento do G20 - 23/07/2024",
+            "subtitulo": "NA",
+            "data": "23/07/2024",
+            "horario": "10h18",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-sessao-sobre-reducao-das-desigualdades-e-cooperacao-reuniao-ministerial-de-desenvolvimento-do-g20-23-07-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Senhoras e senhores,",
+                "Gostaria de destacar o engajamento e compromisso firme e revigorado do Brasil com a Agenda 2030 para o Desenvolvimento Sustentável. A agenda do desenvolvimento sustentável em suas três dimensões – social, ambiental e econômica –, incluindo o imperativo da erradicação da pobreza, é prioridade absoluta para o Brasil.",
+                "Estamos em um momento dramático na agenda do desenvolvimento sustentável. Em 2023, chegamos à metade do período da Agenda 2030, mas não só estamos atrasados, como até recuamos na consecução de muitos dos Objetivos de Desenvolvimento Sustentável (ODS), como a erradicação da pobreza e da fome.",
+                "O mundo está cada vez mais desigual. O 1% mais rico do mundo ficou com quase 2/3 de toda riqueza gerada desde 2020, segundo dados da Oxfam. Os 10% mais ricos são responsáveis por metade das emissões de carbono no planeta. Em 2020, vimos um aumento da desigualdade global pela primeira vez em décadas, com incremento de 0,7% do índice Gini global.",
+                "Como disse o Presidente Lula na abertura da 78ª Assembleia Geral da Nações Unidas, “Se tivéssemos que resumir [nossos desafios] em uma única palavra esses desafios, ela seria desigualdade. A desigualdade está na raiz desses fenômenos ou atua para agravá-los.”",
+                "Por esse motivo, a Presidência Brasileira do Grupo de Trabalho de Desenvolvimento do G20 priorizou como eixo central a redução da desigualdade. Queremos lutar por um mundo mais justo, com igualdade de oportunidades para todos, independentemente de idade, gênero, deficiência, raça, etnia, origem, religião, condição econômica ou outra.",
+                "Em seu discurso na Assembleia Geral da ONU em 2023, o presidente Lula anunciou a criação voluntária do ODS 18, com o objetivo de alcançar a igualdade étnico-racial na sociedade brasileira. No momento em que, lamentavelmente, presenciamos manifestações de racismo e discriminação, inclusive no esporte, o Brasil segue comprometido em promover a igualdade étnico-racial, que é não apenas um objetivo nobre, mas um imperativo para construir um mundo mais justo, inclusivo e sustentável.",
+                "O Brasil está profundamente comprometido com a implementação dos Objetivos de Desenvolvimento Sustentável. Retomamos recentemente vários programas com o objetivo de gerar avanços concretos na implementação dos ODS no Brasil, como o Programa Bolsa Família, o Plano Brasil sem Fome, o Plano de Transformação Ecológica, o Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal e o Plano de Aceleração do Crescimento.",
+                "Senhoras e senhores,",
+                "O estabelecimento de novas parcerias horizontais e a ampliação da cooperação trilateral entre os membros do G20 é fundamental para apoiar e acelerar a implementação da Agenda 2030 das Nações Unidas para o Desenvolvimento Sustentável, como plano de ação para as pessoas, para o planeta e para a prosperidade.",
+                "A ampliação de ações concretas de cooperação, em suas diversas modalidades e vertentes, é essencial para alcançarmos os objetivos ambiciosos estabelecidos na Agenda 2030. Durante o primeiro semestre da presidência de turno brasileira, o Grupo de Trabalho de Desenvolvimento (DWG) do G20 dedicou-se com grande interesse também ao tema prioritário da cooperação trilateral.",
+                "Registramos valiosas reflexões e contribuições, que muito agradecemos, para apoiar a elaboração de uma iniciativa de intercâmbio de experiências e boas práticas de cooperação trilateral a ser adotada voluntariamente por países membros, países convidados e organismos internacionais.",
+                "Além dos tradicionais modelos bilaterais de cooperação, países com diferentes perfis de desenvolvimento e de distintas regiões geográficas podemos unir esforços para complementar ações concretas em diversas áreas do conhecimento, ao tempo em que devemos buscar reduzir a sobreposição de ações e elevar a efetividade das iniciativas de cooperação que faremos de forma conjunta.",
+                "O Brasil está pronto para contribuir com ideias e propostas concretas nessa direção. O G20, em sua condição de fórum de cooperação internacional, tem um papel crucial a desempenhar na facilitação de um diálogo construtivo e na promoção de ações colaborativas que possam transformar em realidades nossa visão compartilhada de um futuro sustentável.",
+                "A ampliação de parcerias de cooperação trilateral, com a participação ativa de países membros, países convidados e organizações internacionais, é um passo decisivo nessa direção.",
+                "Assim, encorajo a todas e a todos a apoiar os nossos esforços visando ao combate à fome e à pobreza, à redução das desigualdades e vulnerabilidades, e ao fomento da inclusão e equidade sociais. O Brasil tem-se batido fortemente por isso na sua presidência de turno do G20. Unidos em torno desses objetivos, acredito que podemos, sim, construir um mundo mais justo, inclusivo, equitativo e sustentável para todos e todas.",
+                "Obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do  Ministro Mauro Vieira na abertura do evento \"Estados do Futuro\", à margem da Reunião Ministerial de Desenvolvimento do G20",
+            "subtitulo": "Rio de Janeiro, 22 de julho",
+            "data": "22/07/2024",
+            "horario": "14h59",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/07/2024"
+            ],
+            "horario_atualizado": [
+                "18h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-abertura-da-sessao-do-evento-states-of-the-future",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Senhoras e senhores,",
+                "A promoção de debate sobre o papel do Estado e sobre o Estado do futuro em paralelo à Reunião de Ministros de Desenvolvimento do G20 é extremamente oportuna.",
+                "Além de constituir momento de construção da agenda de desenvolvimento e de redução da desigualdade no G20, a reunião de Ministros de Desenvolvimento oferece oportunidade de reflexão sobre a importância e a centralidade das capacidades estatais para impulsionar o desenvolvimento sustentável e inclusivo.",
+                "Nesse sentido, o evento “States of the Future” promove valioso diálogo e amplia o debate mantido no G20 sobre a relevância do papel do Estado na agenda de desenvolvimento. Ao mesmo tempo, o tema vai ao encontro das prioridades da presidência brasileira do grupo.",
+                "Senhoras e senhores,",
+                "Para a presidência brasileira do G20 durante o ano de 2024, o presidente Lula estabeleceu as seguintes prioridades:",
+                "1) inclusão social e combate à fome e à pobreza;",
+                "2) transições energéticas e promoção do desenvolvimento sustentável em suas dimensões econômica, social e ambiental; e",
+                "3) promoção da reforma das instituições de governança global, partindo do diagnóstico de que precisamos de um ambiente internacional mais propício à paz, à cooperação e à busca de meios efetivos para solucionar os imensos desafios globais.",
+                "Enfrentamos, atualmente, diversas crises, que se agravam mutuamente. Suas soluções requerem mais cooperação internacional.",
+                "Entre os desafios mais urgentes estão (i) a fome, a pobreza e a desigualdade; (ii) os conflitos armados, com consequências humanitárias catastróficas; (iii) os retrocessos nos padrões de vida em muitas regiões do mundo; (iv) a inflação alta nos países ricos e seu impacto para as taxas de juros e para o investimento em economias em desenvolvimento; (v) a crise da dívida pública nos países pobres; (vi) a alta volatilidade nos preços de alimentos e energia; e (vii) uma crise climática que já não é uma ameaça distante, mas, sim, uma realidade incontornável.",
+                "Para o Brasil, é preciso trazer de volta ao centro da agenda internacional a temática do desenvolvimento - nas suas dimensões social, econômica e ambiental.",
+                "Temos a convicção de que reconhecer a centralidade dos temas de desenvolvimento é fundamental para conectar as nossas decisões à vida das pessoas, especialmente daquelas que mais precisam de apoio.",
+                "Além de ampliarmos a nossa capacidade de cooperação interestatal, é preciso também repensar o papel do Estado, que deve estar capacitado para fazer frente a esses desafios e crises, bem como para tratar novos e emergentes temas. É, assim, essencial superar a percepção do Estado como mero prestador eficiente de serviços e recuperar a sua função de articulador das diversas forças e setores da sociedade.",
+                "A Presidência Brasileira do G20 tem colocado ênfase no papel de políticas públicas como principal motor para promoção do desenvolvimento inclusivo e sustentável. Por exemplo, a Aliança Global contra a Fome e a Pobreza tomará medidas concretas para integrar um conjunto de políticas públicas domésticas que provaram ser bem-sucedidas em países em desenvolvimento. A Aliança buscará incorporar políticas de transferências de renda, programas de alimentação escolar, apoio à agricultura familiar, sistemas de cadastro único para pessoas e famílias de baixa renda e mecanismos de seguridade social, entre outras medidas.",
+                "Também estamos empenhados em aperfeiçoar a coordenação das fontes de financiamento internacional com as necessidades e prioridades dos países em desenvolvimento. Resultado dessa prioridade é a maior cooperação entre as trilhas de finanças e de sherpas ao longo da presidência brasileira do G20.",
+                "Senhoras e senhores,",
+                "O diálogo e o engajamento com a sociedade civil constitui valiosa dimensão da política externa do Presidente Lula e da diplomacia pública do Itamaraty. Na atual gestão, o Itamaraty retomou o apoio à participação da sociedade civil em grandes debates de política externa, como demonstram os Diálogos Amazônicos, a Cúpula Social do Mercosul e os diversos grupos de engajamento do G20.",
+                "O processo aberto e inclusivo de consultas da presidência brasileira do G20 culminará com a Cúpula do G20 Social, grande evento a ser realizado às vésperas da Cúpula de Líderes.",
+                "Em consonância com essa prioridade conferida ao diálogo com a sociedade civil, será realizada, na tarde do dia 26 de julho, no âmbito deste evento, mesa de diálogo específica sobre política externa como política pública.",
+                "Na ocasião, pretende-se promover discussão sobre maneiras de aprimorar e ampliar o diálogo entre o Itamaraty e a sociedade civil. Como demonstra a criação da Assessoria de Participação Social e Diversidade do Ministério das Relações Exteriores, estamos engajados no debate sobre a maior institucionalização da participação social na política externa. Aproveito para agradecer à Ministra Esther Dweck e ao Ministério da Gestão e Inovação pelo convite para participar desse relevante evento para a presidência brasileira do G20 e pelo apoio na promoção da mesa de diálogo.",
+                "Acreditamos que um Estado moderno, transparente e aberto à sociedade civil é fundamental para a construção de um Brasil mais justo, moderno e sustentável para todos, que não deixa ninguém para trás.",
+                "Obrigado a todas e a todos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na Sessão sobre Acesso a Água e Saneamento da Reunião Ministerial de Desenvolvimento do G20",
+            "subtitulo": "Rio de Janeiro, 22 de julho",
+            "data": "22/07/2024",
+            "horario": "09h10",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/07/2024"
+            ],
+            "horario_atualizado": [
+                "18h55"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-sessao-sobre-acesso-a-agua-e-saneamento-da-reuniao-ministerial-de-desenvolvimento-do-g20",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Darei início agora ao pronunciamento do Brasil em capacidade nacional.",
+                "Senhoras e senhores Ministros e representantes de Organizações Internacionais,",
+                "Senhoras e senhores,",
+                "Água potável e saneamento básico são cruciais não apenas para o progresso econômico e social, mas também para a garantia dos direitos humanos, incluindo o direito à saúde e a um meio ambiente limpo, saudável e sustentável. O Brasil detém uma das maiores reservas de água potável do planeta e, ao mesmo tempo, abriga a região semiárida mais densamente povoada do mundo, além de diversas comunidades em situação de vulnerabilidade, incluindo os povos indígenas. Esse cenário nos impõe o duplo desafio de preservar nossos recursos hídricos e de garantir uma melhor distribuição de sua utilização.",
+                "A água é um recurso vital sem o qual não há crescimento ou futuro. A falta de saneamento adequado resulta na proliferação de doenças previsíveis, como a diarreia e a cólera, que são responsáveis por elevado número de internações hospitalares e mortes no nosso país. Para as comunidades afetadas, a carência de serviços básicos amplifica a pobreza e as dificuldades existentes.",
+                "Para o Brasil, alcançar o Objetivo de Desenvolvimento Sustentável (ODS) número 6, que visa a garantir disponibilidade e manejo sustentável da água e saneamento para todos, é uma prioridade de política pública que requer investimento, participação social e gestão transparente. Investir em saneamento e no fornecimento de água potável é investir em saúde, reduzindo a incidência de doenças e melhorando a qualidade de vida da nossa população.",
+                "O desenvolvimento sustentável do Brasil está, portanto, diretamente vinculado à gestão eficiente dos recursos hídricos. A agricultura, a indústria e a geração de energia são setores fundamentais para a nossa economia, que dependem das nossas bacias hidrográficas. Além de políticas públicas eficazes e investimentos robustos em infraestrutura, é necessário implementar programas de educação e conscientização sobre a importância do uso responsável e da preservação dos recursos hídricos. Essa é uma responsabilidade coletiva que requer a participação do governo, das empresas, das organizações da sociedade civil e de cada cidadão brasileiro.",
+                "O Brasil tem buscado cumprir a meta de levar água potável a 99% da população, bem como a coleta e o tratamento de esgoto a 90% da população, até 2033 - objetivos plasmados na recente lei que alterou as disposições sobre o setor no país.",
+                "Se os desafios ainda são enormes, o trabalho tem trazido frutos. A ONU-Água reconheceu o Brasil, ao lado de Gana e Singapura, pelo progresso rumo ao cumprimento do ODS 6.",
+                "Acreditamos ser possível construir um Brasil mais justo, saudável e sustentável para todos, com todos trabalhando juntos para garantir acesso a esses recursos essenciais sem deixar ninguém para trás.",
+                "Obrigado a todas e a todos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na XXIX Reunião Ordinária do Conselho de Ministros da CPLP - São Tomé, 19/07/2024",
+            "subtitulo": "NA",
+            "data": "19/07/2024",
+            "horario": "10h55",
+            "datatime": "NA",
+            "data_atualizado": [
+                "19/07/2024"
+            ],
+            "horario_atualizado": [
+                "11h52"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-xxix-reuniao-ordinaria-do-conselho-de-ministros-da-cplp-sao-tome-19-07-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Senhoras e senhores,",
+                "É uma grande satisfação participar desta reunião do Conselho de Ministro da CPLP.",
+                "Ao cumprimentar o Ministro Gareth Guadalupe, parabenizo o governo de São Tomé e Príncipe pela presidência de turno da Comunidade e pelos esforços para implementar as decisões tomadas na 14ª Cúpula dos Chefes de Estado e de Governo. Agradeço, também, a generosa hospitalidade.",
+                "Aproveito, ainda, para cumprimentar o Secretário-Executivo Zacarias da Costa, em nome de quem saúdo o dedicado trabalho do Secretariado Executivo da CPLP.",
+                "Senhoras e senhores,",
+                "Não posso deixar de agradecer as mensagens de solidariedade e as doações dos países amigos da CPLP, em momento de grande comoção nacional como o gerado pela catástrofe no Rio Grande do Sul. As chuvas torrenciais geraram rastro de destruição, com mortos, feridos e desabrigados. Afetaram - e continuam a impactar - a vida de mais de 2,4 milhões de brasileiras e brasileiros que moram no estado. Esperamos continuar a contar com o apoio e colaboração dos amigos da CPLP, agora na fase de reconstrução das áreas atingidas.",
+                "Senhoras e senhores,",
+                "Há quase um ano, o Presidente Luiz Inácio Lula da Silva encerrava, aqui em São Tomé, seu primeiro périplo pelo continente africano neste seu terceiro mandato.",
+                "Sua presença na 14ª Cúpula foi expressão concreta da retomada e da revalorização de nossa participação nesta Comunidade.",
+                "Felicito novamente o ministro Guadalupe, desta vez pela oportuna escolha do tema que orienta esta reunião, mantendo o foco da nossa Comunidade na construção de um legado de prosperidade e sustentabilidade para as futuras gerações.",
+                "Para os jovens, a CPLP precisar fazer muito mais do que exaltar nossos laços históricos e nossa herança cultural compartilhada.",
+                "Nossa Comunidade precisa buscar caminhos e soluções para questões que afetam diretamente a juventude lusófona, em quatro continentes. O Brasil tem demonstrado seu compromisso com essa população, por meio da cooperação.",
+                "A área educacional, por exemplo, é das mais tradicionais no âmbito da CPLP. O Brasil orgulha-se de ter formado mais de 1.700 estudantes da Comunidade em cursos de graduação ao abrigo do Programa de Estudante-Convênio (PEC-G).",
+                "Para estimular ainda mais a mobilidade acadêmica, atualizamos as regras do Programa, com medidas para melhorar a experiência dos estudantes e para ampliar as possibilidades de participação de nacionais de países africanos membros da CPLP. Estabelecemos, também, a modalidade de Português como Língua Estrangeira, que ampliará a promoção e a difusão do nosso idioma.",
+                "O governo do Presidente Lula criou, ademais, uma instituição especificamente voltada para o intercâmbio acadêmico e científico com o mundo lusófono. Na Universidade da Integração Internacional da Lusofonia Afro-brasileira – UNILAB, do Ceará, milhares de estudantes, professores e pesquisadores constroem, há quatorze anos, um espaço privilegiado de troca de conhecimentos e enriquecimento mútuo.",
+                "Temos de estimular que estudantes brasileiros e lusófonos estudem juntos temas contemporâneos essenciais para nosso desenvolvimento – como a inteligência artificial, as novas fontes de energia, o processo de aceleração de partículas e o desenvolvimento de vacinas e medicamentos.",
+                "É dessa forma que pretendemos avançar no século XXI, unidos para resolver os desafios que enfrentamos, identificando soluções e utilizando fórmulas inovadoras e criativas para superá-los.",
+                "A adoção da Carta da CPLP de Direitos e Princípios em Ambientes Digitais, nesse contexto, é um instrumento essencial para essa aspiração.",
+                "Como tem dito o Presidente Lula, o Brasil defende “uma revolução digital inclusiva”, que reduza os hiatos digitais. Apoiaremos, portanto, as atividades previstas na Carta, com vistas a aprimorar a acessibilidade, o acesso, a educação, a criação de capacidade, o multilinguismo e a preservação cultural nos ambientes digitais.",
+                "Outro tema de especial atenção do Brasil no âmbito da CPLP é a saúde. A pandemia da Covid-19 nos deixou a lição de que é preciso esforço coordenado na prevenção e superação de crises sanitárias, que não são exclusividade de apenas um país e devem ser tratadas de forma coletiva.",
+                "Manifesto minha especial satisfação com a adoção da resolução sobre a Rede da CPLP de Programas de Treinamento em Epidemiologia de Campo. Proposta brasileira, a Rede contribuirá para o compartilhamento de experiências e a capacitação de profissionais, conforme estabelecido no Plano Estratégico de Cooperação em Saúde da CPLP.",
+                "Igualmente, o governo brasileiro atribuiu especial relevância à questão da mobilidade. O Brasil deu passo importante na efetiva implementação do Acordo de Mobilidade da CPLP ao regulamentá-lo internamente. Como sabem, desde outubro passado, os cidadãos dos países da CPLP gozam de regime diferenciado e facilitado na obtenção de residência. O mesmo diploma estabelece facilidades adicionais de entrada em território nacional para integrantes das comunidades acadêmica, científica, cultural e empresarial dos Estados-membros da CPLP.",
+                "Reforçamos, assim, nosso compromisso com o aprofundamento dos laços que unem os povos de língua portuguesa e com a livre circulação de pessoas em nosso espaço comum.",
+                "Na mesma linha, quero destacar o trabalho realizado na consolidação da agenda econômica da CPLP, desde a criação deste quarto pilar da Comunidade. Ao longo do último ano, instituições de excelência brasileiras, como a Agência Brasileira de Promoção de Exportações (APEX) e o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE), têm contribuído para dar materialidade à nova agenda. Iniciativas como essas são particularmente importantes no contexto da atual presidência, centrada na juventude e na promoção de oportunidades, capacitação e geração de emprego.",
+                "Senhoras e senhores,",
+                "Em 2024, o Brasil tem a honra - e a responsabilidade - de presidir o G20. Sob o lema \"Construindo um Mundo Justo e um Planeta Sustentável\", o Presidente Lula elencou três temas como eixos centrais:",
+                "- o combate à fome, à pobreza e à desigualdade;",
+                "- o desenvolvimento sustentável e as transições energéticas; e",
+                "- a reforma das instituições de governança global.",
+                "É com satisfação que observo que as prioridades elencadas pela presidência brasileira do G20 estão em sinergia com as da presidência são-tomense da CPLP.",
+                "O Plano de Atividades da Estratégia de Segurança Alimentar e Nutricional da CPLP, por exemplo, dialoga com a “Aliança Global Contra a Fome e a Pobreza”, que lançaremos na próxima semana, no Rio de Janeiro.",
+                "A iniciativa do G20 coordenará ações e parcerias técnicas e financeiras para apoiar a implementação de programas escolhidos a partir de uma “cesta” de experiências exitosas em políticas de combate à fome e à pobreza.",
+                "Aproveito esta reunião para convidar os amigos da CPLP a aderirem a essa iniciativa. Recordo que, em demonstração do compromisso brasileiro com o tema, realizamos doação de cem mil euros para o Plano de Atividades da Estratégia de Segurança Alimentar e Nutricional da CPLP. Promovemos, ademais, resolução adotada hoje, que é mais um passo para erradicar a fome em nossos países e garantir que nossa população tenha acesso à alimentação adequada e saudável.",
+                "Ainda no âmbito do G20, convido, também, os países membros da CPLP para participarem de reunião em 25 de setembro, à margem da 79ª Assembleia Geral das Nações Unidas, em Nova York. Será a primeira vez em que o G20 se reunirá dentro da sede das Nações Unidas, em sessão aberta para todos os membros da organização, para promover um “chamado à ação” em favor da reforma da governança global.",
+                "Caros amigos,",
+                "Discussões sobre a reforma da governança global reforçam que, para além dos tradicionais modelos bilaterais de cooperação, países como os nossos, com diferentes perfis de desenvolvimento e em distintas regiões geográficas, podem – e devem - unir esforços para complementar ações concretas em diversas áreas do conhecimento, como as aqui mencionadas, para elevar o impacto das iniciativas de cooperação que fazemos de forma conjunta.",
+                "Podemos, sim, construir um mundo mais justo, inclusivo, equitativo e sustentável para todos. E contamos com a CPLP para tanto.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira durante a LXIV Reunião do Conselho do Mercado Comum - CMC Assunção, 7/7/2024",
+            "subtitulo": "NA",
+            "data": "07/07/2024",
+            "horario": "13h42",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-durante-a-lxiv-reuniao-do-conselho-do-mercado-comum-cmc-assuncao-7-7-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "​Senhoras e senhores ministros, Quero começar transmitindo o meu agradecimento e o de toda a delegação brasileira ao meu amigo Rubén Ramírez e à delegação paraguaia pela acolhida que nos proporcionaram aqui. Gostaria também de destacar o excelente trabalho da presidência paraguaia à frente do MERCOSUL, neste semestre.",
+                "Para mim, é uma grande satisfação voltar ao Paraguai, pela quarta vez neste ano. É, aliás, a segunda vez em que nós, os ministros das Relações Exteriores dos Estados Partes do MERCOSUL, nos reunimos aqui, no contexto da presidência pro tempore paraguaia.",
+                "Não posso começar esse meu pronunciamento sem me referir, logo de início, à tentativa de golpe de estado ocorrida, há pouco mais de 10 dias, na república da Bolívia. Quero aqui me solidarizar com minha contraparte e amiga Celinda Sosa. No Brasil também tivemos de enfrentar, ainda nos primeiros dias deste terceiro mandato do presidente Lula, uma tentativa de reverter, por meio da violência, a vontade soberana do povo, expressa nas urnas. No Brasil, assim como na Bolívia, a democracia venceu – e tenho certeza de que sairá mais forte.",
+                "Caras e caros Ministros,",
+                "No último semestre, celebramos os 33 anos do Tratado de Assunção. São mais de três décadas de conquistas, a começar pela multiplicação por dez do comércio entre os Estados Partes; são 33 anos de integração econômica, cooperação política e cultural, e fortalecimento da identidade regional. Alcançamos benefícios palpáveis em áreas que vão da circulação de pessoas à integração fronteiriça; da cooperação judicial e consular ao trabalho e emprego; da seguridade social à educação; do transporte às comunicações, entre muitas outras. Saúdo a presidência paraguaia por ter marcado essa efeméride com seminário de alto nível, em que discutimos não só os êxitos alcançados e os desafios que enfrentamos, como também as perspectivas para o futuro do bloco. Agradeço à presidência paraguaia por ter promovido essa necessária reflexão.",
+                "Celebraremos, também, no mês de agosto, já sob a presidência uruguaia, o aniversário de 20 anos do Tribunal Permanente de Revisão do MERCOSUL, que o Brasil tem a honra de presidir neste ano de 2024. O Tribunal tem papel fundamental na garantia do cumprimento das normas estabelecidas em nossos acordos. Por isso, indicamos como árbitra uma brasileira do mais alto nível, que tem trajetória jurídica exemplar e atuou no Supremo Tribunal Federal por mais de dez anos. Transmito minha saudação especial à árbitra brasileira, a Ministra Rosa Weber. Recordo que a Ministra era a presidente da Suprema Corte do Brasil durante os atentados contra a democracia brasileira, no 8 de janeiro de 2023. Sua presidência, neste ano de aniversário do TPR, muito nos honra e demonstra o compromisso do governo brasileiro com o MERCOSUL e sua institucionalidade.",
+                "A propósito, quero trazer para este Conselho, de maneira clara, a visão do Brasil sobre a institucionalidade do bloco. Devemos trabalhar de forma constante e construtiva para fortalecer -- e não para diminuir -- as instituições do MERCOSUL, em particular os órgãos que tratam de temas tão importantes, como Instituto de Políticas Públicas em Direitos Humanos, o IPPDH, e o Instituto Social do MERCOSUL.",
+                "Quando assinamos, aqui nesta cidade, no ano de 2005, o Protocolo de Assunção sobre o compromisso com a promoção e a proteção dos direitos humanos no MERCOSUL, nos comprometemos a ampliar a cooperação regional nessa área. E, para atingir esse objetivo, criamos o IPPDH, em 2009. Ressalto a importância de ampliarmos as atividades do Instituto e de muni-lo com todos os meios necessários para a contínua promoção dos direitos humanos em nossa região.",
+                "O Brasil orgulha-se de ter uma mulher, Andressa Caldas, a presidi-lo. Andressa Caldas conta com formação e experiência reconhecidas na área de direitos humanos e integra, há vários anos, a própria equipe do IPPDH.",
+                "O Instituto Social do MERCOSUL, com sede aqui em Assunção, igualmente merece o apoio de todos os Estados Partes. Nossas sociedades enfrentam desafios enormes, como a desigualdade econômica e social, com graves consequências para nossas populações, especialmente as parcelas mais vulneráveis. Por isso, é preciso reforçar o ISM, que oferece um espaço para pensarmos, de forma conjunta, soluções concretas em matéria de política social.",
+                "Senhoras e senhores,",
+                "Tivemos um semestre com muitos avanços concretos. Destaco a criação do Comitê ad hoc sobre Medidas que Afetam o Comércio Intrazona, bem como do Comitê ad hoc sobre Áreas de Controle Integrado. O primeiro deverá identificar eventuais restrições ao livre fluxo de comércio entre os Estados Partes e propor medidas para superá-las.",
+                "Já o comitê encarregado das áreas de controle integrado contribuirá para melhorar a vida dos cidadãos que atravessam nossas fronteiras por terra. Mais uma vez, vemos que o MERCOSUL avança, paralelamente, em duas frentes complementares e indissociáveis, que são o bom fluxo de nosso comércio regional e a mobilidade de nossos cidadãos.",
+                "Felicitamos a presidência paraguaia pelos esforços para retomar os trabalhos do Grupo ad hoc de Micro, Pequenas e Médias Empresas, que não se reunia desde 2018. Esperamos que, no semestre que se inicia, seja possível a organização de nova reunião desse grupo.",
+                "Importante, também, foi a criação do Grupo ad hoc sobre Propriedade Intelectual, dada a crescente importância desse assunto para a promoção da inovação e do desenvolvimento econômico. Esperamos que seu trabalho possa ser iniciado prontamente.",
+                "O Brasil apoia a proposta do Paraguai de criar Subgrupo de Trabalho sobre Comércio e Gênero, a respeito do qual, contudo, ainda não foi possível lograr consenso. Esperamos poder avançar, no segundo semestre, de maneira mais concreta, nesse tema tão caro a nossas democracias, que devem ser cada vez mais inclusivas e igualitárias.",
+                "Ao mencionar esse assunto, não posso deixar de registrar que, durante a 13ª Conferência Ministerial da Organização Mundial do Comércio, em Abu Dhabi, em fevereiro último, o Brasil aderiu ao Arranjo Global sobre Comércio e Gênero, a convite do Chile. Muito me orgulha ver países da nossa região caminhando na direção da inclusão da mulher empreendedora. Importantes iniciativas nesse sentido têm avançado também no âmbito da ALADI. Esse caminho é indispensável para um comércio internacional mais justo.",
+                "Quero mencionar também a realização da 12ª edição do Foro Empresarial do MERCOSUL, no último dia 1º de julho. Esta edição do Foro reuniu, de forma virtual, representantes dos setores privado e público, para tratar de temas como a integração comercial de bens e serviços; economia criativa; manufaturas leves; e logística fluvial. Consideramos muito positiva a participação do setor privado nas discussões de políticas adotadas em nossos países. Esses debates fortalecem, sem dúvida, a integração.",
+                "Quero tecer alguns comentários a respeito de outro importante instrumento de nosso bloco: o Fundo de Convergência Estrutural do MERCOSUL - o FOCEM -, que continua a funcionar a pleno vapor para promover a redução das assimetrias entre os Estados Partes do bloco. Em 2023, o Brasil transferiu cerca de 99 milhões de dólares ao fundo e saldou dívida que acumulávamos há muitos anos. Os efeitos positivos que esperamos produzir com esse novo aporte poderão ser sentidos, especialmente, pelas comunidades fronteiriças dos países do nosso bloco.",
+                "No intuito de continuar a fortalecer o FOCEM, apresentamos uma candidatura para preencher o cargo de coordenador-executivo da “Unidade Técnica FOCEM”. Consideramos que o senhor Luciano Wexell Severo, do Ministério do Planejamento e Orçamento do Brasil, tem todas as qualidades, e a experiência necessária, para exercer essa função. Esperamos contar com o apoio dos demais sócios para aprovar a sua designação nesta sessão do CMC.",
+                "Celebro, a propósito, a assinatura, que realizaremos hoje, dos convênios de complementação financeira e técnica entre o MERCOSUL e o FONPLATA. Quando vigentes, esses convênios permitirão ao Fundo do MERCOSUL receber do Fundo da Bacia do Prata cooperação técnica para o aprimoramento da execução de seus projetos. Além disso, viabilizarão empréstimos do FONPLATA em condições mais favoráveis ao FOCEM.",
+                "Caras e caros colegas,",
+                "O MERCOSUL, nos seus mais de 30 anos de existência, é, ao mesmo tempo, uma obra consolidada e um projeto inacabado. Algumas poucas pendências, se bem que fundamentais, precisam ser resolvidas. Refiro-me, principalmente, a dois setores que permanecem excluídos da nossa união aduaneira: os setores automotivo e açucareiro. São setores que representam importante parcela do comércio intrabloco e deveriam beneficiar-se de um comércio livre de impostos de importação.",
+                "Em relação ao setor automotivo, precisamos harmonizar e aprimorar os avanços que obtivemos em diferentes acordos bilaterais, de modo a integrá-los plenamente à nossa união aduaneira. Esse esforço exigirá um compromisso renovado de todos os Estados Partes, além de um planejamento coordenado para garantir que os benefícios dessa inclusão sejam distribuídos de forma equitativa entre todos os países do bloco.",
+                "Já a incorporação do setor açucareiro, que se relaciona diretamente com vários outros setores da indústria alimentícia e energética, poderia fortalecer cadeias de valor. Esse é a verdadeira proteção que podemos dar a nossos produtores.",
+                "No que diz respeito à integração regional, o Brasil tem grande satisfação por ter assumido a coordenação das negociações de um acordo comercial entre o MERCOSUL e a República Dominicana, que hoje é a sétima economia da América Latina e do Caribe. Esperamos poder avançar no lançamento das negociações desse acordo ainda durante este semestre. Recordo, ainda, que, em seu discurso de posse, o novo presidente do Panamá, Raúl Mulino, expressou seu desejo de negociar um acordo de livre comércio com o MERCOSUL. Sua presença na Cúpula de Chefe de Estados, amanhã, reforça a mensagem panamenha e representa clara oportunidade para avançarmos em direção a negociações concretas durante a presidência uruguaia.",
+                "A atualização e o aprofundamento dos acordos que temos com nossos Estados Associados são compromissos da agenda de relacionamento externo em que também podemos avançar. No caso do Chile, por exemplo, concluímos, recentemente, a negociação sobre o regime de origem do acordo entre o MERCOSUL e aquele país, que permitirá a ampliação das trocas comerciais no setor automotivo. A crescente concorrência com atores externos de peso, como a China, é um importante desafio que será melhor enfrentado por meio de maior integração comercial intrarregional.",
+                "No caso da nossa agenda de negociações extrarregionais, mantivemos o dinamismo alcançado no último ano. Esse sucesso é fruto da estratégia acertada de dar prioridade às frentes com resultados possíveis, o que permitiu a conclusão do Acordo MERCOSUL-Singapura em dezembro último.",
+                "Congratulo a PPTP pelo êxito no lançamento das negociações de um Acordo de Parceria Econômica Abrangente com os Emirados Árabes Unidos. Vemos grande potencial nas discussões com esse país, que se posiciona como um dos importantes parceiros comerciais e grandes investidores no Brasil e nos países do MERCOSUL. Nossa expectativa é que seja conferida prioridade a essa frente, com vistas à conclusão das tratativas ainda em 2024. Para isso, podem contar com o engajamento do governo brasileiro.",
+                "No caso das relações com a União Europeia, constato que, não obstante as eleições realizadas para o parlamento europeu, nosso objetivo de alcançar um acordo ambicioso e equilibrado segue vigente. Foi possível estabelecer uma dinâmica positiva nessa negociação e, inclusive, chegamos a entendimentos em temas centrais para o Brasil, como compras governamentais. Vemos os próximos meses como grande oportunidade para lograr os avanços necessários para a conclusão de um acordo que buscamos há mais de duas décadas.",
+                "Registro, ainda, as discussões mantidas com a Associação Europeia de Livre Comércio (EFTA) e o Japão. Embora as tratativas estejam em estágios diferentes, vislumbramos o seu potencial, desde que tais parceiros respondam adequadamente às preocupações do MERCOSUL.",
+                "Finalmente, é com grande alegria que informo termos depositado, no último dia 3 de julho, a ratificação do acordo MERCOSUL-Palestina, o que permitirá que o acordo entre vigência no começo do mês de agosto.",
+                "Por fim, gostaria de reafirmar o compromisso do Brasil com um MERCOSUL cada vez mais integrado com nossos irmãos da América do Sul e da América Latina e do Caribe, bem como com importantes parceiros em todo o mundo. Para enfrentar os desafios globais e fortalecer a nossa região, devemos, primeiramente, fortalecer nosso bloco, com instituições robustas, maior integração de nossas cadeias produtivas, mais cooperação e, acima de tudo, com a constante defesa dos nossos princípios fundadores: a paz e a democracia como elementos-chave do processo de integração.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Discurso do presidente Lula no pré-lançamento da Aliança Global contra a Fome e a Pobreza",
+            "subtitulo": "Discurso lido pelo presidente Luiz Inácio Lula da Silva na reunião da Força Tarefa da Aliança Global contra a Fome e a Pobreza, em 24 de julho de 2024, no Rio de Janeiro",
+            "data": "24/07/2024",
+            "horario": "12h49",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h27"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/discurso-do-presidente-lula-no-pre-lancamento-da-alianca-global-contra-a-fome-e-a-pobreza",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Participar dessa reunião ministerial da Força Tarefa, que lança as bases para a Aliança contra a Fome e a Pobreza, é um dos momentos mais relevantes dos 18 meses deste meu terceiro mandato.",
+                "Neste espaço tão simbólico – o Galpão da Cidadania – damos um passo decisivo para recolocar esse tema de uma vez por todas no centro da agenda internacional.",
+                "Ao longo dos séculos, fome e pobreza estiveram cercadas de preconceitos e interesses.",
+                "Muitos viam os pobres como um “mal necessário” e mão-de-obra barata para produzir as riquezas das oligarquias.",
+                "Falsas teorias os consideravam responsáveis pela própria pobreza, atribuída a uma indolência inata, sem qualquer evidência nesse sentido.",
+                "Foram ignorados por governantes e setores abastados.",
+                "Mantidos à margem da sociedade e do mercado.",
+                "Os que não puderam ser incorporados à produção e ao consumo ainda hoje são tidos como um estorvo.",
+                "Quando muito, tornaram-se objeto de medidas compensatórias paliativas.",
+                "Nas últimas décadas, a globalização neoliberal agravou esse quadro.",
+                "Nunca tantos tiveram tão pouco e tão poucos concentraram tanta riqueza.",
+                "Em pleno século 21, nada é tão absurdo e inaceitável quanto a persistência da fome e da pobreza, quando temos à disposição tanta abundância, tantos recursos científicos e tecnológicos e a revolução da inteligência artificial.",
+                "Esta é uma constatação que pesa em nossas consciências.",
+                "Nenhum tema é mais atual e mais desafiador para a humanidade.",
+                "Não podemos naturalizar tais disparidades.",
+                "A fome é a mais degradante das privações humanas. É um atentado à vida, uma agressão à liberdade.",
+                "A fome, como dizia o grande cientista social brasileiro Josué de Castro “é a expressão biológica dos males sociais”.",
+                "Os dados divulgados hoje pela FAO sobre o estado da insegurança alimentar no mundo são estarrecedores.",
+                "A pobreza extrema aumentou pela primeira vez em décadas.",
+                "O número de pessoas passando fome ao redor do planeta aumentou em mais de 152 milhões desde 2019.",
+                "Isso significa que 9% da população mundial (733 milhões de pessoas) estão subnutridas.",
+                "O problema é especialmente grave na África e na Ásia, mas ele também persiste em partes da América Latina.",
+                "Mesmo nos países ricos, aumenta o apartheid nutricional, com a pobreza alimentar e a epidemia de obesidade.",
+                "Em 2023, 29% da população mundial (2,3 bilhões de pessoas) enfrentou graus moderados ou severos de restrição alimentar.",
+                "A fome tem o rosto de uma mulher e a voz de uma criança.",
+                "Mesmo que elas preparem a maioria das refeições e cultivem boa parte dos alimentos, mulheres e meninas são a maioria das pessoas em situação de fome no mundo.",
+                "Muitas mulheres são chefes de família, mas ganham menos.",
+                "Trabalham mais no setor informal, se dedicam mais aos cuidados não-remunerados, e têm menos acesso à terra que os homens.",
+                "A discriminação étnica, racial e geográfica também amplifica a fome e a pobreza entre populações afrodescendentes, indígenas e comunidades tradicionais.",
+                "Crises recorrentes e simultâneas agravam esse quadro.",
+                "A pandemia de Covid-19 aumentou drasticamente a subnutrição, e esses níveis elevados se mantêm inalterados.",
+                "Conflitos armados interrompem a produção e distribuição de alimentos e insumos, contribuindo para o aumento dos preços.",
+                "Eventos climáticos extremos ceifam vidas, devastam cultivos e infraestruturas.",
+                "Subsídios agrícolas em países ricos solapam a agricultura familiar no Sul Global.",
+                "O protecionismo discrimina contra os produtos de países em desenvolvimento.",
+                "Mas a fome não resulta apenas de fatores externos.",
+                "Ela decorre, sobretudo, de escolhas políticas.",
+                "Hoje o mundo produz alimentos mais do que suficiente para erradicá-la.",
+                "O que falta é criar condições de acesso aos alimentos.",
+                "Enquanto isso, os gastos com armamentos subiram 7% no último ano, chegando a 2,4 trilhões de dólares.",
+                "Inverter essa lógica é um imperativo moral, de justiça social, mas também essencial para o desenvolvimento sustentável.",
+                "No Brasil, combatemos a fome por meio de um novo contrato social, que coloca o ser humano no centro da ação de governo.",
+                "Retomamos as políticas de valorização do salário mínimo, de erradicação do trabalho infantil e de combate a formas contemporâneas de escravidão.",
+                "Temos uma sólida política de geração de postos de trabalhos formais. O desemprego é o mais baixo em uma década.",
+                "Aprovamos uma lei sobre igualdade de remuneração entre homens e mulheres.",
+                "Formulamos um Plano Nacional de Cuidados que considera as desigualdades de classe, gênero, raça, idade, deficiências e territórios, com olhar especial para trabalhadores e trabalhadoras domésticos.",
+                "Programas como o Bolsa Família, de Aquisição de Alimentos e de Alimentação Escolar permitem que refeições saudáveis cheguem aos mais vulneráveis, estimulem a produção agrícola e promovam o desenvolvimento local.",
+                "A agricultura familiar é componente essencial dessa estratégia. São quase 5 milhões de propriedades rurais de até 100 hectares produzindo parte expressiva dos alimentos consumidos no país.",
+                "Em síntese, tomamos a decisão política de colocar os pobres no orçamento.",
+                "Como resultado, só em 2023 retiramos 24 milhões e 400 mil pessoas da condição de insegurança alimentar severa.",
+                "Ainda temos mais de 8 milhões de brasileiras e brasileiros nessa situação.",
+                "Este é o compromisso mais urgente do meu governo: acabar com a fome no Brasil, como fizemos em 2014.",
+                "Meu amigo Diretor Geral da FAO, pode ir se preparando para anunciar em breve que o Brasil saiu novamente do Mapa da Fome.",
+                "Senhoras e senhores,",
+                "A Aliança Global contra a Fome e a Pobreza nasce dessa vontade política e desse espírito de solidariedade.",
+                "Ela será um dos principais resultados da presidência brasileira do G20.",
+                "Seu objetivo é proporcionar renovado impulso às iniciativas existentes, alinhando esforços nos planos doméstico e internacional.",
+                "Queremos colocar os Objetivos de Desenvolvimento Sustentáveis de volta nos trilhos.",
+                "Em 2008, o G20 foi fundamental para evitar o colapso da economia internacional.",
+                "Agora, os líderes mundiais têm diante de si a oportunidade de responder a esse outro desafio sistêmico.",
+                "Precisamos de soluções duradouras, e devemos pensar e agir juntos.",
+                "A Aliança representa uma estratégia de conquista da cidadania.",
+                "A melhor maneira de executá-la é promovendo a articulação de todos os atores relevantes.",
+                "Com esse fim, reunimos as duas trilhas, de Finanças e dos Sherpas, nesta Força Tarefa.",
+                "É gratificante ver aqui hoje ministros de trinta países membros e convidados ao lado de organizações internacionais e bancos de desenvolvimento.",
+                "O papel das Nações Unidas e, particularmente, da FAO, do FIDA e do Programa Mundial de Alimentos será decisivo.",
+                "Vamos seguir dialogando com governadores, prefeitos, sociedade civil e setor privado.",
+                "Nossa melhor ferramenta será o compartilhamento de políticas públicas efetivas.",
+                "Muitos países também tiveram êxito em combater a fome e promover a agricultura e queremos que esses exemplos possam ser conhecidos e utilizados.",
+                "Aproveitaremos essas experiências e o conhecimento acumulado e ampliar o alcance dos nossos esforços.",
+                "Nenhum programa vai ser mecanicamente transposto de um lugar a outro.",
+                "Vamos sistematizar e oferecer um conjunto de projetos que possam ser adaptados às realidades específicas de cada região.",
+                "Toda adaptação e implementação deverá ser liderada pelos países receptores, porque cada um conhece seus problemas.",
+                "Eles devem ser os protagonistas de seu sucesso.",
+                "A Aliança será gerida com base em um secretariado alojado nas sedes da FAO em Roma e em Brasília.",
+                "Sua estrutura será pequena, eficiente e provisória, formada por pessoal especializado e funcionará até 2030, quando será desativada.",
+                "Metade dos seus custos serão cobertos pelo Brasil. Quero registrar minha gratidão aos países que já se dispuseram a contribuir com este esforço.",
+                "A Aliança tampouco criará fundos novos. Vamos direcionar recursos globais e regionais que já existem, mas estão dispersos.",
+                "Recebemos com satisfação os anúncios feitos hoje pelo Banco Interamericano de Desenvolvimento e pelo Banco Africano de Desenvolvimento.",
+                "Ambas as instituições estabelecerão um mecanismo financeiro inovador para o uso do capital híbrido dos Direitos Especiais de Saque em apoio à Aliança Global Contra a Fome e a Pobreza.",
+                "É gratificante saber que a segurança alimentar será um tema central na agenda estratégica do Banco Mundial nos próximos anos e que a Associação Internacional para o Desenvolvimento fará nova recomposição de capital para ajudar os países mais pobres.",
+                "Todos os que queiram se somar a esse esforço coletivo são bem-vindos.",
+                "A Aliança Global nasce no G20, mas é aberta ao mundo.",
+                "Senhoras e senhores,",
+                "Em 22 de julho de 1944, há exatos 80 anos, encerrava-se a Conferência de Bretton Woods.",
+                "Desde então, a arquitetura financeira global mudou pouco e as bases de uma nova governança econômica não foram lançadas.",
+                "A representação distorcida na direção do FMI e do Banco Mundial é um obstáculo ao enfrentamento dos complexos problemas da atualidade.",
+                "Sem uma governança mais efetiva e justa, na qual o Sul Global esteja adequadamente representado, problemas como a fome e a pobreza serão recorrentes.",
+                "Essa é outra prioridade da nossa presidência do G20.",
+                "Lidar com a desigualdade também será parte desse esforço.",
+                "A riqueza dos bilionários passou de 4% do PIB mundial para quase 14% nas últimas três décadas.",
+                "Alguns indivíduos controlam mais recursos do que países inteiros.  Outros possuem programas espaciais próprios.",
+                "Vários países enfrentam um problema parecido. No topo da pirâmide, os sistemas tributários deixam de ser progressivos e se tornam regressivos.",
+                "Os super-ricos pagam proporcionalmente muito menos impostos do que a classe trabalhadora.",
+                "Para corrigir essa anomalia, o Brasil tem insistido no tema da cooperação internacional para desenvolver padrões mínimos de tributação global, fortalecendo as iniciativas existentes e incluindo os bilionários.",
+                "Juntamente com a União Africana, que participa pela primeira vez como membro pleno do G20, temos alertado sobre o problema do endividamento.",
+                "O que vemos hoje é uma absurda exportação líquida de recursos dos países mais pobres para os mais ricos.",
+                "Não se pode financiar o bem-estar coletivo, se parte expressiva do orçamento é consumido pelo serviço da dívida.",
+                "A fome e a mudança do clima são dois flagelos que se agravam mutuamente.",
+                "Quem sente fome tem sua existência aprisionada na dor do presente. Torna-se incapaz de pensar no amanhã.",
+                "Reduzir vulnerabilidades socioeconômicas pavimenta o caminho para a transição justa, constrói resiliência frente a eventos extremos e fortalece os esforços contra o aquecimento global.",
+                "A transição energética e a descarbonização do planeta são oportunidades nessa luta contra a fome.",
+                "Senhoras e senhores,",
+                "O lema da presidência brasileira do G20 “Construindo um Mundo Justo e um Planeta Sustentável\" parece inalcançável, mas hoje damos um passo decisivo para sua realização.",
+                "A fome e a pobreza inibem o exercício pleno da cidadania e enfraquecem a própria democracia.",
+                "Erradicá-las equivale a uma verdadeira emancipação política para milhões de pessoas.",
+                "Enquanto houver famílias sem comida na mesa, crianças nas ruas e jovens sem esperança, não haverá paz.",
+                "Um mundo justo é um mundo em que as pessoas têm acesso desimpedido à alimentação, à saúde, à moradia, à educação e empregos decentes.",
+                "Essas são condições imprescindíveis para construir sociedades prósperas, livres, democráticas e soberanas.",
+                "Espero revê-los em novembro, aqui no Rio de Janeiro, para a reunião de Cúpula do G20.",
+                "Será uma ocasião para lançar oficialmente a Aliança Global e anunciar seus membros fundadores.",
+                "Eu quero dizer que eu conto com todos e todas vocês para o sucesso, mas eu queria terminar cunhando uma frase que eu tenho tentado repetir em todos os encontros que eu faço. Os economistas, os governantes, as pessoas que têm poder de decisão, as pessoas que dirigem bancos de investimentos, bancos que fazem crédito, precisam compreender uma coisa: é que muito dinheiro na mão de poucos simboliza miséria, simboliza prostituição, simboliza analfabetismo, simboliza empobrecimento e simboliza fome.",
+                "Agora, o contrário: pouco dinheiro na mão de muitos significa exatamente o contrário. Significa sociedade próspera, sociedade com emprego, sociedade consumindo e sociedade vivendo com decência, sabe? Uma ética imprescindível para a sobrevivência humana.",
+                "Eu, quando falo isso, eu fico emocionado porque a fome não é uma coisa natural. A fome é uma coisa que exige decisão política. Nós, governantes, não podemos olhar o tempo inteiro só para quem está próximo de nós.",
+                "É preciso que a gente consiga fazer uma radiografia e olhar aqueles que estão distantes, aqueles que não conseguem chegar perto dos palácios, aqueles que não conseguem chegar perto de ministros. Aqueles que não conseguem chegar numa escola, aqueles que são vítimas de preconceito todo santo dia.",
+                "Essa gente precisa ser olhada. E não é possível que, na metade do século 21, quando a gente já está discutindo até inteligência artificial sem conseguir consumir a inteligência natural que todos nós temos, a gente ainda seja obrigado a fazer uma discussão, dizendo para os nossos dirigentes políticos do mundo inteiro: “Por favor, olhem os pobres, porque eles são seres humanos. Eles são gente e eles querem ter oportunidade.”",
+                "Muito obrigado pela presença de vocês. Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Declaração à imprensa do presidente Lula por ocasião da visita de Estado do presidente da Itália, Sergio Mattarella",
+            "subtitulo": "Declaração à imprensa do presidente Luiz Inácio Lula da Silva por ocasião da visita de Estado do presidente da Itália, Sergio Mattarella, em Brasília, em 15 de julho de 2024",
+            "data": "15/07/2024",
+            "horario": "13h07",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h27"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/declaracao-a-imprensa-do-presidente-lula-por-ocasiao-da-visita-de-estado-do-presidente-da-italia-sergio-mattarella",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Excelentíssimo senhor presidente da República da Itália, Sergio Mattarella. Quero cumprimentar os companheiros da delegação italiana e as companheiras. E quero cumprimentar os companheiros da delegação brasileira aqui presentes, sobretudo os nossos embaixadores, os nossos reitores e os nossos ministros.",
+                "É motivo de grande satisfação poder retribuir a hospitalidade com que fui recebido na Itália, pelo presidente Mattarella, no ano passado.",
+                "Este ano, novamente, por ocasião do G7, contei com a generosa acolhida da primeira-ministra Giorgia Meloni.",
+                "O presidente Sergio Mattarella vem ao Brasil pela primeira vez em um momento particularmente auspicioso.",
+                "Esta visita representa o ponto alto da celebração dos 150 anos da imigração italiana, que tornou as trajetórias dos nossos países para sempre.",
+                "Esses laços se reforçam por meio de demonstrações de amizade e solidariedade, como ocorreu em relação às enchentes que afetaram o Rio Grande do Sul.",
+                "Por isso, presidente, eu queria de público agradecer ao governo italiano por toda a ajuda que vocês fizeram para atender o sofrimento do povo brasileiro no estado do Rio Grande do Sul. Pode ter certeza, presidente, que foi de muita, mas de muita valia e de muita importância, e eu tenho certeza que o povo gaúcho, o povo brasileiro, será eternamente grato ao povo italiano por sua generosidade.",
+                "Nós somos muito gratos pela doação de 25 toneladas de ajuda humanitária que recebemos do governo da Itália.",
+                "O material doado certamente aliviou a enorme perda sofrida pela população gaúcha, que reúne uma parcela numerosa de mais de 35 milhões de descendentes de italianos no Brasil.",
+                "Na presidência do G20 e do G7, respectivamente, Brasil e Itália têm a oportunidade de liderar a busca por soluções para os problemas compartilhados.",
+                "Na reunião de hoje, discutimos alguns dos complexos desafios da atualidade.",
+                "Manifestei minha satisfação com a vitória das forças progressistas nas recentes eleições no Reino Unido e na França. Ambas são fundamentais para a defesa da democracia e da justiça social contra as ameaças do extremismo.",
+                "A guerra na Ucrânia e o conflito em Gaza mostram que abrir mão do diálogo e da diplomacia leva a consequências nefastas.",
+                "País sede da FAO e do Programa Mundial de Alimentos, a Itália convidou o Brasil a participar do Grupo de Trabalho sobre a Segurança Alimentar do G7.",
+                "Retribuí a confiança convidando a Itália para se somar à Aliança Global de Combate à Fome e à Pobreza que lançaremos no Brasil por ocasião do G20.",
+                "O pioneirismo italiano em mecanismos de troca de dívida por alimentos será muito valioso para nossa iniciativa.",
+                "Outra causa que nos une é a da transição justa, em especial a convicção no potencial da bioenergia.",
+                "Vamos seguir trabalhando juntos na Aliança Global para os Biocombustíveis lançada no ano passado, na Índia, para disseminar o conhecimento e a tecnologia necessários para ampliar o uso dessa alternativa.",
+                "Itália e Brasil estão entre as dez maiores economias do mundo.",
+                "Dois países dessa estatura devem ter um fluxo de comércio e investimentos à altura da sua riqueza.",
+                "Nossa corrente de comércio, de aproximadamente 10 bilhões de dólares, só agora retornou aos níveis registrados há uma década.",
+                "Compartilhei com o presidente Mattarella o desejo de diversificar a pauta e incrementar as exportações brasileiras.",
+                "A retomada, em breve, do Conselho Brasil-Itália de Cooperação e Desenvolvimento Econômico, Industrial e Financeiro poderá contribuir muito nesse sentido.",
+                "Como fiz na recente Cúpula do Mercosul em Assunção, reiterei ao presidente italiano o interesse do Brasil em concluir, o quanto antes, um acordo com a União Europeia que seja equilibrado e que contribua para o desenvolvimento das duas regiões.",
+                "E explicitei que o avanço das negociações depende de os europeus resolverem suas próprias contradições internas.",
+                "Medidas como a taxa de carbono imposta de forma unilateral pela União Europeia podem afetar cinco dos dez produtos brasileiros mais exportados para o mercado italiano.",
+                "A redução das emissões de CO2 é um imperativo, mas não deve ser feita com base em medidas unilaterais que vão impactar as vidas dos produtores brasileiros e dos consumidores italianos.",
+                "A Itália é uma importante fonte de investimentos para o Brasil – as quase 1.500 empresas italianas instaladas aqui geram mais de 150 mil empregos diretos.",
+                "Desde o início deste mandato, trabalhamos para atrair ainda mais investimentos. Vemos interesse renovado da indústria automotiva pelo Brasil.",
+                "No ano passado, o grupo Stellantis, resultante da fusão Fiat Chrysler e da Peugeot, anunciou investimento de 30 bilhões de reais para modernização e ampliação de suas fábricas no Brasil.",
+                "É o maior investimento da indústria automotiva em toda a América do Sul.",
+                "Um setor em que a Itália já está bem posicionada é o de energia. Os parques eólicos e fotovoltaicos de empresas italianas e o interesse delas em hidrogênio verde mostram o potencial a ser explorado nessa área.",
+                "Um exemplo é o investimento de mais de 2 bilhões de reais no Complexo Eólico Aroeira, na Bahia, feito pela Enel.",
+                "Abrir novas frentes de cooperação não significa abandonar nossa tradicional colaboração em outras áreas.",
+                "No passado, a cooperação tecnológica no desenvolvimento do caça AMX permitiu à Embraer um salto na produção de jatos.",
+                "Hoje, a empresa tem condições de colaborar com a força aérea italiana por meio do fornecimento de aeronaves C-390 Millenium.",
+                "A maior força propulsora dos vínculos entre a Itália e o Brasil são nossas sociedades.",
+                "E é do nosso interesse aproximá-las por meio de medidas simples que apoiem esse intercâmbio.",
+                "Por isso, estou satisfeito com a assinatura, hoje, de acordo de reconhecimento recíproco de carteiras de habilitação.",
+                "Espero que esse instrumento incentive o turismo e os negócios e facilite a rotina dos brasileiros que vivem na Itália e dos italianos que moram no Brasil.",
+                "A USP e a EMBRAPA também assinaram acordos Memorandos de Entendimento com a Universidade de Turim nas áreas de cooperação acadêmica e pesquisa em segmentos da cadeia agroalimentar.",
+                "Em 2007, no meu segundo mandato, firmamos uma parceria estratégica que deu novo impulso ao relacionamento Brasil-Itália.",
+                "Quero que esta visita represente a renovação dessa parceria, inaugurando um período de contato intenso e dinâmico entre Brasil e Itália.",
+                "O presidente Mattarella ainda viajará para o Rio Grande do Sul e passará pelo Rio de Janeiro, São Paulo e Salvador nesta sua primeira visita ao Brasil.",
+                "Estou certo de que será capaz de formar uma boa perspectiva da diversidade, das riquezas culturais e naturais, e do potencial do nosso querido Brasil.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Declaração Conjunta dos Presidentes do Estado Plurinacional da Bolívia e da República Federativa do Brasil - Santa Cruz, 9 de julho de 2024",
+            "subtitulo": "NA",
+            "data": "10/07/2024",
+            "horario": "18h02",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h27"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/declaracao-conjunta-dos-presidentes-do-estado-plurinacional-da-bolivia-e-da-republica-federativa-do-brasil-santa-cruz-9-de-julho-de-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "DECLARAÇÃO CONJUNTA DOS PRESIDENTES DO ESTADO PLURINACIONAL DA BOLÍVIA E DA REPÚBLICA FEDERATIVA DO BRASIL",
+                "",
+                "Santa Cruz, 9 de julho de 2024",
+                "Em atenção ao convite do Presidente do Estado Plurinacional da Bolívia, Luis Alberto Arce Catacora, o Presidente da República Federativa do Brasil, Luiz Inácio Lula da Silva, realizou visita oficial ao país, ocasião em que os mandatários abordaram os principais temas da agenda bilateral, regional e internacional.",
+                "Na oportunidade, os chefes de Estado destacaram o alto nível das relações diplomáticas, que se refletem na reativação dos mecanismos de diálogo bilateral, bem como nos princípios da irmandade e da fraternidade entre nossos povos.",
+                "Reafirmaram seu compromisso com a democracia e o respeito à ordem constitucional como pilares fundamentais das suas sociedades e condenaram qualquer tentativa de desestabilizar ou interromper o período de mandato de um governo legitimamente eleito.",
+                "O Presidente Luiz Inácio Lula da Silva reiterou seu rechaço ao golpe militar de estado fracassado de 26 de junho na Bolívia.",
+                "Ao agradecer o convite, o Presidente do Brasil comprometeu-se a participar dos eventos do bicentenário da Bolívia, a serem celebrados em 2025, considerando que o bicentenário é fonte de inspiração para a região, pelas conquistas alcançadas em termos de desenvolvimento e inclusão social.",
+                "Ambos os Mandatários:",
+                "Acordo de Cooperação entre a República Federativa do Brasil e o Estado Plurinacional da Bolívia para fortalecer o Combate ao Tráfico de Pessoas, Contrabando de Migrantes e Crimes Conexos",
+                "Acordo Complementar ao “Acordo Básico de Cooperação Técnica, Científica e Tecnológica entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia” para o projeto “Fortalecimento em gestão migratória”",
+                "Ajuste Complementar ao “Acordo Básico de Cooperação Técnica, Científica e Tecnológica entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia” para o projeto “Estratégia Brasil-Bolívia de capacitação do pessoal encarregado da luta contra o narcotráfico”",
+                "Protocolo de Intenções entre o Ministério da Saúde da República Federativa do Brasil e o Ministério da Saúde e Esportes do Estado Plurinacional da Bolívia sobre a Coordenação no Âmbito do Acesso Recíproco aos Serviços de Saúde Pública",
+                "Memorando de Entendimento entre o Ministério de Minas e Energia da República Federativa do Brasil e o Ministério de Hidrocarbonetos e Energias do Estado Plurinacional da Bolívia sobre a Modificação da Operação da Usina Hidrelétrica de Jirau em Cota 90 m",
+                "Memorando de Entendimento entre o Ministério de Minas e Energia da República Federativa do Brasil e o Ministério de Hidrocarbonetos e Energias do Estado Plurinacional da Bolívia para Promover o Desenvolvimento de Interconexões Elétricas entre Ambos os Países",
+                "Terceira Alteração ao “Memorando de Entendimento em Matéria de Energia entre o Ministério de Minas e Energia do Brasil e o Ministério de Hidrocarbonetos e Energia da Bolívia”",
+                "Carta de Intenção entre as Autoridades do Ministério de Mineração e Metalurgia do Estado Plurinacional da Bolívia e o Ministério de Minas e Energia da República Federativa do Brasil",
+                "Memorando de Entendimento entre o Ministério da Agricultura e Pecuária da República Federativa do Brasil e o Ministério de Desenvolvimento Rural e Terras do Estado Plurinacional da Bolívia",
+                "Acordo de cooperação para a comercialização de fertilizantes e cloreto de sódio entre o Ministério da Agricultura e Pecuária da República Federativa do Brasil e o Ministério de Hidrocarbonetos e Energia do Estado Plurinacional da Bolívia",
+                "Ao final da reunião, o presidente Luiz Inácio Lula da Silva agradeceu ao presidente Luis Arce Catacora pela solidariedade demonstrada pelo governo e povo bolivianos com a população afetada pelas enchentes ocorridas no estado do Rio Grande do Sul em maio passado, bem como pela generosa doação de bens de primeira necessidade às vítimas desse desastre natural.",
+                "Da mesma forma, agradeceu ao presidente Luis Alberto Arce Catacora e ao povo boliviano pela calorosa hospitalidade oferecida durante sua estadia na cidade de Santa Cruz de la Sierra, no Estado Plurinacional da Bolívia.",
+                "Luiz Inácio Lula da Silva",
+                "Presidente da República Federativa do Brasil",
+                "Luis Alberto Arce Catacora",
+                "Presidente do Estado Plurinacional",
+                "da Bolívia"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Discurso do presidente Lula durante o Fórum Empresarial Bolívia - Brasil em Santa Cruz de La Sierra",
+            "subtitulo": "Discurso lido pelo presidente Luiz Inácio Lula da Silva durante o Fórum Empresarial Bolívia - Brasil em Santa Cruz de La Sierra, no dia 9 de julho de 2024",
+            "data": "09/07/2024",
+            "horario": "19h36",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h27"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/discurso-do-presidente-lula-durante-o-forum-empresarial-bolivia-brasil-em-santa-cruz-de-la-sierra",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Há uma coisa que nós precisamos nunca esquecer.",
+                "Vou citar dois exemplos.",
+                "Quando eu deixei a Presidência da República do Brasil, dia 31 de dezembro de 2010, a economia brasileira crescia 7,5%, o comércio varejista crescia 13% e a gente estava vendendo 3,8 milhões de carros por ano no Brasil.",
+                "Quinze anos depois, eu voltei à Presidência do Brasil e o crescimento era quase negativo. A gente produzia apenas 1,8 milhão de carros por ano, menos da metade do que a gente produzia em 2010 e a inflação estava à mercê da vulnerabilidade.",
+                "Muita gente diz que eu tenho sorte. Como todo time bom de futebol, a gente tem que ter um atacante que tem sorte para marcar um gol e um goleiro que tenha sorte para não deixar os adversários marcarem um gol.",
+                "E é isso que está acontecendo no Brasil, mas na Bolívia também não é diferente. A Bolívia viveu um momento de ouro. A Bolívia chegava a causar inveja aos outros países da América do Sul, quando nós nos demos conta do crescimento da política de inclusão social da Bolívia, quando nos demos conta do controle inflacionário da Bolívia, quando nós nos demos conta do crescimento do PIB da Bolívia e, mais importante, quando nós nos demos conta de que a Bolívia tinha mais reservas internacionais do que o PIB.",
+                "Isso acabou no Brasil e acabou na Bolívia.",
+                "Por quê?",
+                "Há uma mágica em economia? Não. Economia não tem mágica. Economia tem algumas palavras mágicas que não podemos desperdiçá-las. As primeiras palavras mágicas para uma economia dar certo são estabilidade e credibilidade política. A segunda palavra chave para que um país dê certo, a economia cresça e tudo aconteça bem, é estabilidade na economia. A terceira palavra mágica é estabilidade fiscal. A quarta palavra mágica é a gente ter estabilidade jurídica. E a quinta palavra mágica é a gente ter estabilidade social.",
+                "São esses cinco componentes mais a palavra chave que interessa a todos os empresários: previsibilidade. As pessoas têm que saber o que vai acontecer no dia a dia de cada país.",
+                "Quero dizer a vocês que a minha vinda à Bolívia é porque aprendi muito nos meus mandatos na Presidência da República. Tive a satisfação de presidir o Brasil no momento de maior integração da nossa querida América do Sul. E eu voltei na perspectiva de fazer com que a gente faça melhor do que fez na última vez.",
+                "E é por isso que eu vim aqui e convidei os empresários e pedi ao companheiro Jorge Viana para convidar o máximo de empresários que ele pudesse. E fiz questão de trazer a presidente da Petrobras, porque eu sei a importância que a Petrobras já teve na política. E que ainda pode ter na medida em que ela não queira só ganhar dinheiro, mas ajudar na prospecção, na investigação, no investimento.",
+                "E eu trouxe o ministro das Minas e Energia para discutir a questão dos minerais da Bolívia, do lítio, da transição energética tão falada e propalada no mundo. Nunca se falou tanto em energia renovável no mundo, nunca se falou tanto em transição energética, nunca se falou tanto em hidrogênio verde como agora.",
+                "Isso fez com eu trouxesse o ministro aqui para que ele estabeleça com empresários bolivianos algum trabalho concreto. Fiz questão de trazer meu ministro da Agricultura, que é um homem do agronegócio brasileiro. Fiz questão de trazê-lo porque a agricultura brasileira tem muito a ver com a agricultura da Bolívia.",
+                "Aliás, nessa cidade de Santa Cruz de La Sierra parece que temos muitos empresários brasileiros criando gado, plantando arroz, plantando feijão, plantando soja. Igual temos no estado do Mato Grosso, estado vizinho da Bolívia. Muitas vezes as pessoas são as mesmas, muitas vezes as pessoas são brasileiras que estão aqui. Alguns já naturalizados, outros ainda não naturalizados.",
+                "O que nós temos que fazer é tentar saber quais as similaridades que existem entre nós para que a gente possa, enquanto governo, facilitar com que haja mais implemento, mais investimento, mais financiamento, mais produção, mais emprego, mais renda, mais crescimento, que é o que move uma nação.",
+                "É por isso que fiz questão de trazer o secretário-executivo do ministro da Indústria e Comércio. O ministro nunca pode vir porque ele é o vice-presidente e não pode viajar comigo. Ainda eu vou, ele não vai. Aonde ele vai, eu não vou. Mas a gente tem muito interesse em fazer com a Bolívia possa participar do processo de crescimento e de desenvolvimento do Brasil.",
+                "Quem me conhece sabe que não é apenas discurso. Eu já cansei de dizer. Um país do tamanho do Brasil, com a população do Brasil, com a base intelectual do Brasil, um país com a base industrial que tem o Brasil e com o potencial agrícola do Brasil não pode crescer sozinho. É preciso que o Brasil faça com que nossos parceiros cresçam juntos. Não queremos ser uma ilha de prosperidade cercada de miséria por todos os lados.",
+                "Se os americanos tivesse feito isso durante muito tempo, os americanos não teriam a América Central empobrecida, a América Latina empobrecida. Exportando trabalhador para fazer o trabalho pesado e que agora passaram a ser inimigos. Antigamente, latino-americano era bem-vindo aos Estados Unidos.",
+                "Mas agora resolveram dizer que nós, latino-americanos, estamos prejudicando a economia americana.",
+                "Então, só tem uma solução, companheiros e companheiros, empresárias, empresários, dirigentes políticos. Só tem uma solução: é a gente evitar que nosso povo seja nômade, andando atrás de oportunidades, andando atrás de emprego, andando atrás de comida. Nós temos que garantir, em cada país, a oportunidade de as pessoas terem a chance de trabalhar e viver tranquilamente.",
+                "Se a gente garantir condições ninguém vai ficar perambulando pelo mundo a não ser de férias, a não ser viagem de conhecimento, de visitas. Mas ninguém vai ficar viajando pelo mundo para procurar um lugar para comer, para procurar um lugar para trabalhar, se a gente não oferecer em quantidade.",
+                "Quero que vocês saibam, eu disse isso de manhã. Durante muito tempo, os empresários da América do Sul tiveram medo do Brasil, tiveram medo dos empresários brasileiros. Durante muito tempo, o Brasil também não ligava para a América do Sul. O Brasil vivia como elite imponente, olhando a Europa, olhando os Estados Unidos, não via nem o continente africano. E a América do Sul era sinal de problema, sinal de pobreza, era tratada com certo desdém. Desde 2003, quando assumi a Presidência, eu disse ao companheiro Celso Amorim: nós vamos mudar a geopolítica brasileira, mas não vamos desprezar a Europa, que é muito importante.",
+                "Aliás, quero dizer aos empresários que se depender do que fizemos até agora, este ano nós vamos firmar o apoio da União Europeia com o Mercosul. Da nossa parte está totalmente pronto, da nossa parte está tudo acordado. O que falta agora são os europeus se arranjarem, diminuírem as divergências entre eles, porque nós estamos prontos para recebê-los.",
+                "A gente estava cansado deles dizerem que era nós que não queríamos fazer acordo, que era a América do Sul que não queria fazer acordo. Pois bem, nós nos preparamos, fizemos a proposta, está aprovada a proposta, agora depende da companheira Ursula von der Leyen, que é a chefe da Delegação Europeia, vir sentar na mesa e a gente fechar, finalmente, um acordo que espera mais de 30 anos entre o Mercosul e a União Europeia.",
+                "E isso num momento extraordinário, em que a Bolívia passa a ser membro pleno, sabe, do Mercosul. Isso vai ser muito importante, presidente Arce, para a Bolívia, isso será muito importante, da mesma forma que nós temos que tentar ver quais os nossos irmãos que vão entrar nos BRICs, porque os BRICs são importantes agora, o BRICs não é mais só uma reunião de países grandes, não.",
+                "Os BRICs agora representam o Sul Global. A palavra é chique: Sul Global. Ou seja, porque a gente quer competir em igualdade de condições não apenas pelo tamanho da nossa população, mas pelo PIB e pelo que a gente representa no comércio mundial. E nós precisamos nos fazer respeitar nesse momento em que o mundo precisa de coisas novas que somente nós temos para oferecer.",
+                "Quem quiser mais alimento é aqui nesse continente que a gente tem capacidade de produzir e de qualidade. Ninguém pode mais falar que a carne da América do Sul é ruim, que a carne da Bolívia é ruim, que a carne do Brasil é ruim, porque nós produzimos carne de qualidade igualzinho eles, com mais saúde, porque é um gado verde criado na base saudável de comer grama. Um pouquinho de ração também ajuda, de vez em quando.",
+                "Ninguém pode ignorar e dizer não, porque a América do Sul só exporta commodities, porque a América do Sul não exporta manufaturados, não tem problema. É preciso parar com essa disputa pequena entre o commodities e indústria de manufaturados.",
+                "Por que isso? A gente já parou pra pensar quanto de tecnologia tem num grão de soja hoje? A gente já parou pra pensar quanto de engenharia genética tem na criação de um pollo, na criação de um porco, na criação de uma cabra, na criação de uma vaca, um boi? Tem muito investimento em genética pra melhorar a qualidade da carne, a qualidade de leite, e o mundo vai precisar cada vez mais de alimento.",
+                "Eu rezo todo dia, meus amigos, para que cada dia até os indianos voltem a comer carne, até voltem a comer porque nós temos o que vender, nós temos onde criar, nós temos como produzir. E sabemos. E temos conhecimento tecnológico extraordinário.",
+                "Um Brasil que tem uma empresa como a Embrapa é motivo de orgulho para qualquer lugar do mundo dizer que teve a assistência da Embrapa. Pois bem, companheiros e companheiras, é com esse clima de otimismo que eu estou aqui na Bolívia. Quero dizer olhando na cara de cada um de vocês. Eu tenho 78 anos de idade, já fui presidente duas vezes. Aliás, eu digo que só tem mais experiência do que eu na presidência, duas pessoas. O Imperador D. Pedro II, que ficou 69 anos no poder, e o Getúlio Vargas, que governou de 1930 a 1945 e depois de 1950 a 1954. O restante ninguém tem mais experiência do que eu na Presidência da República.",
+                "E daí o meu otimismo, o meu otimismo de que a economia na América do Sul vai voltar a crescer, de que a economia brasileira vai voltar a crescer, de que a inflação vai ser estável, de que o PIB vai crescer. E quando cresce o PIB a gente tem que fazer distribuição de renda. O crescimento do PIB tem que ser dividido entre o conjunto da população.",
+                "Porque senão você eterniza um grupo menor muito rico e um grupo maior muito pobre. Uma outra frase que eu queria que vocês guardassem, para nunca esquecerem: muito dinheiro, na mão de poucos, significa miséria, significa pobreza, significa desnutrição, significa analfabetismo, significa mortalidade infantil, significa desemprego. Agora, pouco dinheiro na mão de muitos significa exatamente o contrário. Significa crescimento econômico, significa consumo, significa geração de emprego, significa participação na renda do país.",
+                "E é isso que vai acontecer. E é por isso que eu estou aqui na Bolívia para dizer: a Bolívia será o que ela quiser ser. O que nós precisamos é garantir, primeiro estabilidade política, depois estabilidade fiscal, estabilidade econômica, estabilidade jurídica e estabilidade social. Se a gente garantir esses quesitos, não há porquê a Bolívia não ter uma economia pujante e vocês voltarem a ter reservas extraordinárias até porque vocês já fizeram isso. Você era o ministro da economia quando a economia cresceu, presidente Arce. Agora que você é presidente, tem que fazer crescer outra vez.",
+                "Eu tenho que tomar cuidado, porque senão eu não paro de falar, eu vou ler o meu discurso aqui. Eu quero dizer para vocês que eu estou feliz. Se vocês tiverem dúvida de um ser humano feliz, de um ser humano otimista, olhe para esse jovem que está falando com vocês. Esse jovem de 78 anos que tem o desejo de viver 120. Eu converso com Deus todo dia. Eu não quero ir lá, o discurso é bom, mas eu não quero. Eu quero ficar aqui nessa terra sofrida. Eu quero ficar amassando o barro por uns 120 anos para a gente poder consertar a nossa querida América do Sul.",
+                "Portanto, queridos companheiros, minha visita à Bolívia não seria completa sem um evento empresarial deste porte.",
+                "Em uma situação normal, eu iniciaria este discurso exaltando as oportunidades de comércio e investimentos entre nossos países.",
+                "Mas a tentativa de golpe sofrida há poucos dias pela Bolívia demanda uma reflexão sobre a democracia.",
+                "O setor produtivo tem plena consciência da importância do estado de direito para o bom funcionamento da economia.",
+                "A resiliência das instituições nacionais frente ao 26 de junho na Bolívia e ao 8 de janeiro no Brasil demonstra que não há margem para retrocessos.",
+                "Sem estabilidade política e jurídica não há desenvolvimento social e econômico.",
+                "Assim como a pobreza e as desigualdades estão na origem de instabilidades de toda ordem.",
+                "Os empresários sabem que podem ser tão vítimas das arbitrariedades de um regime autoritário quanto os trabalhadores.",
+                "Nossos países são a prova de que é possível crescer com distribuição de renda sem abrir mão de direitos.",
+                "A Bolívia quintuplicou seu PIB entre 2005 e 2023. E a renda per capita quase quadruplicou.",
+                "No caso do Brasil, na esteira da Constituição Cidadã de 1988, superamos os fantasmas da inflação e da dívida externa.",
+                "Reduzir o déficit fiscal sem comprometer a capacidade de investimento público é um compromisso da minha gestão.",
+                "Contrariando os pessimistas, o PIB do Brasil cresceu 2,5% nos últimos 12 meses.",
+                "O Programa de Aceleração do Crescimento prevê que serão investidos recursos da ordem de 320 bilhões de dólares, 75% dos quais até 2026.",
+                "A nova política industrial brasileira se propõe a aumentar a complementaridade com os vizinhos e adensar nossas cadeias produtivas.",
+                "O desenvolvimento de infraestruturas comuns é a base para um continente mais próspero e unido.",
+                "Investiremos na integração física por meio de rotas multimodais que cruzarão toda a América o Sul, ligando os oceanos Atlântico e Pacífico. E que nós vamos poder transitar nossos produtos por muitos mares deste mundo, sem ter nenhum problema de barreiras.",
+                "E podem estar certos de que isso em grande parte vai acontecer no meu governo. Não é um discurso, é quase que uma profissão de fé, que nós vamos fazer isso acontecer.",
+                "É preciso transformar os discursos teóricos em coisas práticas. E coisas práticas quem faz são vocês, empresários.",
+                "Duas das cinco rotas previstas passarão pela Bolívia, incontornável por sua centralidade neste continente.",
+                "Até o final de meu mandato, quero concluir a principal, a rota rodoviária do Quadrante Rondon, que integra os estados do Acre, de Rondônia e do Mato Grosso, à Bolívia e ao Peru.",
+                "Quando a interconexão ferroviária entre Santa Cruz e Cochabamba for completada, as cargas que saem do porto de Santos poderão chegar diretamente ao Pacífico.",
+                "A conclusão desses corredores permitirá uma economia de, no mínimo, mil dólares para cada contêiner brasileiro exportado para a Ásia, bem como a redução no tempo de transporte de mercadorias em, pelo menos, quinze dias.",
+                "A Ponte sobre o rio Mamoré, um compromisso histórico do Brasil, finalmente vai sair do papel.",
+                "Temos em curso estudos que também permitirão o acesso da Bolívia ao Atlântico por meio de hidrovias na bacia Amazônica e na Bacia do Paraguai-Paraná.",
+                "O gasoduto Brasil – Bolívia é um patrimônio estratégico que pode ser aproveitado para transportar gás do campo de Vaca Muerta, na Argentina, até o Brasil, suprindo demanda da indústria nacional.",
+                "Também poderá contribuir para abastecer as plantas para produção de fertilizantes que queremos construir no Mato Grosso e aqui em Santa Cruz de la Sierra.",
+                "Nosso importante comércio bilateral pode crescer ainda mais e se diversificar com a integração física e energética do continente.",
+                "Em 2023, a corrente de comércio alcançou 3,3 bilhões de dólares. O Brasil foi o segundo maior fornecedor da Bolívia e o maior destino de suas exportações.",
+                "Essas cifras serão ainda maiores com a adesão da Bolívia ao Mercosul, ratificada ontem na Cúpula de Assunção.",
+                "Com sua entrada no Sistema de Pagamentos em Moeda Local, reduziremos a dependência do dólar e os custos de transação nas operações de câmbio entre os nossos países.",
+                "Essa é uma medida de grande utilidade, sobretudo para pequenas e médias empresas do nosso continente.",
+                "Na área de produtos agrícolas, nossas trocas ainda estão aquém de seu potencial. Com práticas sustentáveis, podemos garantir a segurança alimentar e promover o desenvolvimento rural dos dois lados da fronteira.",
+                "Além de fornecer material genético, rações e tecnologias de manejo, o Brasil tem interesse em avançar no diálogo sobre a certificação sanitária para exportação de proteína animal.",
+                "E temos muito o que aprender com a experiência boliviana de extrativismo, beneficiamento e comercialização de castanha, como ficou evidente com a realização, ontem, do Fórum Bilateral, com a participação de empresas dos dois países e da Embrapa.",
+                "Articular a promoção conjunta da castanha no mercado internacional é só um exemplo do muito que podemos fazer juntos.",
+                "OpPresidente Arce e eu queremos que as indústrias da Bolívia e do Brasil se desenvolvam, para que não fiquemos vendendo apenas produtos primários.",
+                "A energia renovável é fundamental para o processo de reindustrialização.",
+                "Bolívia e Brasil são abençoados com recursos energéticos e minerais abundantes.",
+                "Investir em energia solar, eólica, hidrelétrica é imperativo da transição energética e uma grande oportunidade para criar empregos de qualidade para nossos jovens.",
+                "O Brasil optou pelos biocombustíveis há quarenta anos, muito antes que a discussão sobre alternativas a combustíveis fósseis ganhasse atenção.",
+                "A tecnologia e a experiência brasileira nessa área podem contribuir para acelerar a transição ecológica aqui.",
+                "Não falo apenas sobre o aumento da demanda boliviana por etanol em função da recente atualização no percentual permitido para mistura na gasolina, que passou de 12% para 25%.",
+                "O Brasil que contribuir para a modernização e ampliação das seis usinas de açúcar e etanol que existem na Bolívia, cinco delas aqui na região de Santa Cruz.",
+                "Também podemos exportar máquinas e implementos agrícolas adaptados à produção local.",
+                "Não é preciso buscar uma caldeira ou um trator na China, quando há opções no âmbito do Mercosul.",
+                "É urgente fazer do bloco uma plataforma para nossa participação nos mercados mundiais de minerais estratégicos e componentes de alta tecnologia.",
+                "Queremos agregar valor ao lítio e a outros minerais críticos aqui mesmo no coração da América do Sul.",
+                "Compartilhamos a maior floresta tropical do mundo, uma reserva de biodiversidade incomparável e fonte de conhecimento e tecnologias valiosas.",
+                "Como países amazônicos e membros da Organização do Tratado de Cooperação Amazônica (OTCA) devemos alicerçar nossa visão de desenvolvimento sustentável na bioeconomia e na biotecnologia.",
+                "Fomentá-las pressupõe o uso adequado desses recursos, em harmonia com a natureza e com os povos da floresta, como pactuamos na Cúpula da Amazônia em agosto passado.",
+                "A batata, a quinoa, a chia, as castanhas da Amazônia, todos são produtos que os povos originários na Bolívia e no Brasil ajudaram a desenvolver ao longo de séculos e que ganharam o mundo.",
+                "Brasil e Bolívia devem exportar sustentabilidade!",
+                "Em Belém, na COP-30, vamos mostrar ao mundo todo o potencial de nossa região, ao aliar nossas riquezas naturais ao compromisso político, no mais alto nível, com metas ambiciosas de transição para economias de baixo carbono.",
+                "Nossa fronteira é a 8ª maior do mundo, com mais de 3.400 km de extensão, do Pantanal à Amazônia.",
+                "É preciso levar dignidade, bem-estar e emprego às populações fronteiriças.",
+                "Assinamos hoje um protocolo de intenções que permitirá que bolivianos e brasileiros usem os sistemas de saúde públicos nos dois países.",
+                "Retomamos todos os mecanismos bilaterais para combate ao crime transnacional.",
+                "Vamos garantir que brasileiros e bolivianos possam conviver nas nossas fronteiras livres da violência e da ameaça do crime organizado.",
+                "Senhoras e senhores,",
+                "A participação numerosa de empresários e empresárias que vejo aqui é a expressão do empreendedorismo latino-americano, da força da integração regional, e do potencial econômico-comercial de nossos países.",
+                "O sucesso do encontro confirma que o setor privado está plenamente engajado nesse projeto de desenvolvimento.",
+                "Peço aos líderes empresariais aqui presentes que busquem conhecer e aproveitar oportunidades na Bolívia e no Brasil.",
+                "Vamos aproveitá-las, superar os desafios e construir um futuro do qual nossos filhos e netos se orgulharão.",
+                "Amigos e amigas, vou terminar dizendo que nós vamos fazer a integração que nós quisermos fazer. Basta que a gente não sonhe pequeno, porque quem sonha pequeno quando acorda pensa que teve um pesadelo. Nós temos que sonhar grande, do tamanho dos nossos países, do tamanho de nossas vontades, do tamanho de nossos desejos, para que a gente possa, conjuntamente, transformar esse sonho em realidade.",
+                "Muito obrigado e boa sorte.",
+                "* Cotejar com versão oral"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Declaração à imprensa do presidente Lula após reunião bilateral com o presidente da Bolívia, Luis Arce",
+            "subtitulo": "Íntegra da declaração do presidente Luiz Inácio Lula da Silva após reunião bilateral com o presidente da Bolívia, Luis Arce, em Santa Cruz de La Sierra, na ´Bolívia, em 9 de julho de 2024",
+            "data": "09/07/2024",
+            "horario": "15h18",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h27"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/declaracao-a-imprensa-do-presidente-lula-apos-reuniao-bilateral-com-o-presidente-da-bolivia-luis-arce-1",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Meu caro amigo Luis Arce Catacora, presidente do Estado Plurinacional da Bolívia, e sua senhora Lourdes Brigida Durán Romero, minha querida companheira Janja, ministros e ministras que me acompanham nessa viagem à Bolívia, ministros e ministras da Bolívia que participaram desse evento. Eu quero dizer ao companheiro presidente da Bolívia de que nós estamos começando uma nova era na relação Brasil-Bolívia.",
+                "Antes de eu ler o meu pronunciamento, eu quero dizer à imprensa, tanto da Bolívia quanto do Brasil, de que vocês têm um papel extremamente importante em acompanhar o que foi assinado aqui e acompanhar o que vai ser executado daqui pra frente. Primeiro, porque nós estamos convencidos de que a integração não é mais uma retórica de discurso em época eleitoral. A integração é uma necessidade de sobrevivência dos países da América do Sul, do Brasil e da Bolívia.",
+                "Nós assinamos acordo aqui e temos consciência de que o que nós fizemos aqui tem como perspectiva melhorar a qualidade de vida do povo da Bolívia e melhorar a qualidade de vida do povo do Brasil. É por isso que nós estamos assinando esse documento. É porque é preciso dar uma chance, no século 21, para que Brasil, Bolívia e outros países da América do Sul deixem de ser tratados como países em via de desenvolvimento ou países do terceiro mundo.",
+                "Nós não temos toda a riqueza tecnológica que outros países têm, mas nós temos riquezas que a natureza nos permitiu e nos deu de presente que o mundo hoje necessita e que essa riqueza é encontrada na nossa querida América do Sul. Seja na produção de alimentos, seja na exploração de minerais críticos, seja na questão energética que o mundo precisa de uma transição, seja na produção de hidrogênio verde, seja na eólica, seja na solar, seja na biomassa, seja no biocombustível, ou seja, nós temos que oferecer ao mundo alguma coisa que eles não têm.",
+                "E é isso que o povo da Bolívia espera do Brasil. E é isso que o povo brasileiro espera da Bolívia. Companheiro Arce, a partir de agora nós decidimos que nós vamos nos ligar, telefonar, uma vez a cada dois meses. Cada problema que os ministros tiverem na execução dos nossos programas, nós temos que saber imediatamente. Porque se a gente não trabalhar com muita disposição, muitas vezes, uma simples má-vontade burocrática não permite que um bom projeto siga em frente.",
+                "E nós estamos trabalhando de forma muito, mas muito competente, para que a gente possa ter uma integração marítima, uma integração ferroviária, uma integração rodoviária, para que a Bolívia possa ir para o Pacífico, possa ir para o Atlântico, para que o Brasil possa ir para o Pacífico. Ou seja, nós queremos abrir o nosso continente para o mundo e queremos participar do desenvolvimento.",
+                "Bem, eu quero começar agradecendo ao presidente Arce por me receber neste momento em que as instituições bolivianas mostraram seu valor frente a uma grave ameaça.",
+                "Depois de quinze anos, desde a última vez em que estive na Bolívia como presidente, minha vinda simboliza mais que a retomada de uma relação de amizade.",
+                "Ela representa também a comunhão dos dois países cuja trajetória tem importantes paralelos.",
+                "Assim como no Brasil, a democracia boliviana prevaleceu após um longo caminho entrecortado por golpes e ditaduras.",
+                "Mas o que julgávamos que era o fim da estrada provou ser ainda um terreno movediço.",
+                "Em 2022, o Brasil completou o bicentenário de sua independência num dos momentos mais sombrios da sua história.",
+                "Em vez de celebrar, fomos tomados por uma onda de extremismo que desembocou no 8 de janeiro na tentativa de golpe.",
+                "O povo boliviano já havia provado desse gosto amargo com o golpe de Estado de 2019 e agora se viu acometido pela tentativa de golpe de 26 de junho.",
+                "Às vésperas de comemorar o seu bicentenário em 2025, a Bolívia não pode voltar a cair nessa armadilha.",
+                "Não podemos tolerar devaneios autoritários e golpismos.",
+                "Temos a enorme responsabilidade de defender a democracia contra as tentativas de retrocesso.",
+                "Em todo o mundo, a desunião das forças democráticas só tem servido à extrema direita.",
+                "Os exemplos recentes na França, a confirmar, e no Reino Unido demonstram o imperativo de superar diferenças em prol de um objetivo comum.",
+                "Isso também se aplica à integração regional.",
+                "Quanto mais sólida for nossa parceria, menor será o apelo dos que pregam divisões.",
+                "O bom funcionamento do Mercosul, que agora tem a satisfação de acolher a Bolívia como membro pleno, concorre para a prosperidade comum.",
+                "Esperamos também poder receber logo e muito rapidamente de volta a Venezuela.",
+                "A normalização da vida política venezuelana significa estabilidade para toda a América do Sul.",
+                "Por isso, fazemos votos de que as eleições transcorram de forma tranquila e que os resultados sejam reconhecidos por todos.",
+                "Bolívia e Brasil estão no coração sul-americano. A integração física e energética da região passa necessariamente pelos nossos países.",
+                "O engajamento boliviano é chave para a conclusão do conjunto de rotas que o Brasil tem chamado de Quadrante Rondon.",
+                "Com a construção da ponte binacional sobre o rio Mamoré, o transporte de bens ficará mais barato, beneficiando em particular os estados do Beni e Pando (na Bolívia) e Rondônia e Acre (no Brasil).",
+                "As propostas brasileiras para melhorar a navegabilidade no canal Tamengo e no rio Paraguai também visam facilitar nossa conexão.",
+                "A Bolívia segue sendo o principal fornecedor de gás natural do Brasil.",
+                "Conversamos sobre a possibilidade de ampliar investimentos nessa área e incrementar o volume exportado para o mercado brasileiro.",
+                "O Brasil também importa fertilizantes da Bolívia. Queremos fortalecer essa parceria com a implantação de uma fábrica de nitrogenados entre Corumbá e Puerto Quijarro.",
+                "Felicitei a Bolívia pela opção em investir em biocombustíveis e reiterei a disposição do Brasil de compartilhar sua experiência e tecnologia, de modo a contribuir para a transição justa da Bolívia.",
+                "No centro dessa transição, também estarão os minerais críticos.",
+                "A Bolívia tem grandes reservas de lítio, enquanto o Brasil possui terras raras, nióbio, cobalto, entre outros. Há pouco tempo, descobriu-se em solo brasileiro o terceiro maior depósito de manganês do planeta.",
+                "Como bem descreveu Eduardo Galeano, pelas veias abertas da América Latina correram o ouro de Minas e a prata de Potosí, que enriqueceram outras partes do mundo.",
+                "Juntos, podemos nos inserir de forma soberana nas cadeias de valor de recursos estratégicos e evitar que esse histórico de espoliação continue se repetindo no nosso continente.",
+                "Além do excelente relacionamento bilateral, Bolívia e Brasil partilham de visões de mundo convergentes, o que nos faz parceiros naturais em diversos temas.",
+                "A prioridade conferida à redução das desigualdades e à promoção da segurança alimentar é um deles.",
+                "Por isso, fiz questão de convidar a Bolívia a participar da Cúpula do G20 em novembro e a se somar à Aliança Global de Combate à Fome e à Pobreza que será lançada pela presidência brasileira.",
+                "O presidente Arce também manifestou o interesse boliviano de ingressar nos BRICS.",
+                "A questão da ampliação do grupo continuará a ser discutida na Cúpula de Kazan, na Rússia, em outubro. O Brasil vê como muito positiva a inclusão da Bolívia e de outros países de nossa região.",
+                "Compartilhamos com a Bolívia nossa maior fronteira, de 3.400 quilômetros, e dois dos nossos mais importantes biomas, a Amazônia e o Pantanal.",
+                "Infelizmente, a mudança do clima e o crime organizado não respeitam limites.",
+                "Disse ao presidente Arce que já temos uma excelente cooperação no âmbito da Organização do Tratado de Cooperação Amazônica e que também podemos trabalhar juntos para combater os incêndios no Pantanal.",
+                "Assinamos hoje diversos projetos para fortalecer a capacidade de agentes públicos de combater o tráfico de pessoas e de drogas e melhorar a gestão migratória.",
+                "Também iniciamos negociação para viabilizar o acesso de brasileiros à saúde pública na Bolívia, e da mesma forma que bolivianos podem utilizar o Sistema Único de Saúde no Brasil.",
+                "Conversamos sobre a importância de garantir segurança jurídica a brasileiros na Bolívia, para que eles continuem colaborando com o desenvolvimento econômico deste país.",
+                "A Polícia Federal e o Consulado da Bolívia em São Paulo estão trabalhando juntos para regularizar a situação migratória dos milhares de bolivianos que tanto têm contribuído para dinamizar nossa economia e enriquecer nossa cultura.",
+                "É esse espírito de intercâmbio e cooperação que pauta a relação entre o Brasil e a Bolívia. Estou certo de que nosso diálogo e amizade crescerão e nos aproximarão cada vez mais.",
+                "Companheiros e companheiras, uma coisa que eu quero lembrar aqui é que a primeira ponte entre Brasil e Bolívia foi construída no meu governo na cidade de Brasileia, no Acre. A primeira ponte. E a primeira ponte, depois de 500 anos, entre Brasil e Peru, foi feita também no meu governo.",
+                "E se Deus quiser, e Deus nos ajudar, eu tenho certeza que nós vamos inaugurar algumas obras extraordinárias da integração definitiva do nosso continente. Porque, na verdade, nós temos que ter consciência. Os bolivianos têm que ter consciência. Não existe saída individual para nenhum país na América do Sul. Ou nós nos juntamos, formamos um bloco, tomamos decisões conjuntas e executamos as decisões, ou nós vamos continuar mais um século sendo país apenas em vias de desenvolvimento.",
+                "E eu quero terminar dizendo ao povo da Bolívia. Eu sei que vocês desejam prosperidade. Eu sei que vocês esperam desenvolvimento. Eu sei que vocês esperam melhores empregos, mais salários, mais saúde, mais educação. O mesmo espera o povo brasileiro. E é por isso, companheiro Arce, que, orgulhosamente, nós assinamos esse acordo. E por isso que eu quero terminar dizendo: hoje começa uma nova era entre Brasil e Bolívia."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Discurso do presidente Lula na 64ª Cúpula de chefes de Estado do Mercosul e de Estados Associados",
+            "subtitulo": "Discurso lido pelo presidente Luiz Inácio Lula da Silva na sessão plenária dos presidentes do Mercosul e Estados Associados, em Assunção, no Paraguai, em 8 de julho de 2024",
+            "data": "08/07/2024",
+            "horario": "12h19",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h27"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/discurso-do-presidente-lula-na-64a-cupula-de-chefes-de-estado-do-mercosul-e-de-estados-associados",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Quero agradecer de coração a calorosa acolhida dispensada à minha delegação e a mim pelo presidente Santiago Peña e sua equipe.",
+                "Retornar à cidade onde o MERCOSUL foi lançado sempre nos motiva a refletir sobre o estado da integração.",
+                "Há menos de quinze dias, um membro de nosso bloco sofreu uma tentativa de golpe.",
+                "A democracia prevaleceu graças à firmeza do governo boliviano, à mobilização do seu povo e ao rechaço da comunidade internacional.",
+                "O MERCOSUL permaneceu mais uma vez unido em defesa da plena vigência do estado de direito, consagrada no Protocolo de Ushuaia.",
+                "A reação unânime ao 26 de junho na Bolívia e ao 8 de janeiro no Brasil demonstram que não há atalhos à democracia em nossa região.",
+                "Mas é preciso permanecer vigilantes.",
+                "Falsos democratas tentam solapar as instituições e colocá-las a serviço de interesses reacionários.",
+                "Enquanto nossa região seguir entre as mais desiguais do mundo, a estabilidade política permanecerá ameaçada.",
+                "Democracia e desenvolvimento andam lado-a-lado.",
+                "Os bons economistas sabem que o livre-mercado não é uma panaceia para a humanidade.",
+                "Quem conhece a história da América Latina reconhece o valor do estado como planejador e indutor do desenvolvimento.",
+                "No mundo globalizado não faz sentido recorrer ao nacionalismo arcaico e isolacionista.",
+                "Tampouco há justificativa para resgatar as experiências ultraliberais que apenas agravaram as desigualdades em nossa região.",
+                "Esta é a décima nona Cúpula do MERCOSUL de que participo como chefe de Estado.",
+                "Nunca nos deparamos com tantos desafios, seja no âmbito regional, seja em nível global.",
+                "Nos últimos anos, permitimos que conflitos e disputas, muitas vezes alheios à região, se sobreponham à nossa vocação de paz e cooperação.",
+                "Voltamos a ser uma região balcanizada e dividida, mais voltada para fora do que para si própria.",
+                "Num contexto de acirramento da competição geoestratégica, a questão que se impõe é se nossos países querem se integrar ao mundo unidos ou separados.",
+                "Não vejo contradição entre participar da economia global e cooperar entre vizinhos.",
+                "Minha aposta no MERCOSUL como plataforma de inserção internacional e de desenvolvimento do Brasil permanece inabalável.",
+                "Nosso bloco é um projeto ambicioso e que gerou muitos frutos desde seu lançamento.",
+                "O comércio entre nós multiplicou-se dez vezes e hoje já é de 49 bilhões de dólares.",
+                "É preciso pensar grande, como nossos antecessores ousaram fazer nesta capital há 33 anos.",
+                "O MERCOSUL será o que quisermos que seja.",
+                "Não nos cabe apequená-lo com propostas simplistas que o debilitam institucionalmente",
+                "Nossos esforços de atualização devem apontar para outra direção.",
+                "Temos uma agenda inacabada, que envolve dois importantes setores de nossas economias excluídos do livre comércio.",
+                "Os avanços para a inclusão do setor automotivo ainda são insuficientes.",
+                "No setor açucareiro, que engloba o desenvolvimento dos biocombustíveis, não logramos sair das discussões teóricas.",
+                "Precisamos de uma integração regional profunda, baseada no trabalho qualificado e na produção de ciência, tecnologia e inovação para geração de emprego e renda.",
+                "A adesão plena da Bolívia tem enorme valor estratégico e faz do nosso bloco ator incontornável no contexto da transição energética.",
+                "Somos ricos em recursos minerais e possuímos abundantes fontes de energia limpa e barata.",
+                "Temos tudo para nos tornar um elo importante na cadeia de semicondutores, baterias e painéis solares.",
+                "Podemos formar uma aliança de produtores de minerais críticos para que os benefícios do processamento desses recursos fiquem em nossos países.",
+                "A governança regional de dados no MERCOSUL é vital para nossa soberania futura e para o desenvolvimento da Inteligência Artificial.",
+                "É preciso habilitar nossa região a desenvolver capacidade própria de coletar, processar e armazenar dados, insumo fundamental para avançar no desenvolvimento tecnológico e na digitalização da indústria regional.",
+                "Atualização do bloco também implica em uma ambiciosa agenda comercial externa.",
+                "Na presidência brasileira, assinamos o acordo de livre comércio com Singapura, o primeiro entre o nosso bloco e um país asiático.",
+                "Sob a liderança do presidente Santiago Peña, foi lançado processo de negociação com os Emirados Árabes Unidos.",
+                "Só não concluímos o Acordo com a União Europeia porque os europeus ainda não conseguiram resolver suas próprias contradições internas.",
+                "Nos orgulhamos de ser o primeiro país do bloco a ratificar o Acordo de Livre Comércio com a Palestina, mas não posso deixar de lamentar que isso ocorra no contexto em que o povo palestino sofre com as consequências de uma guerra totalmente irracional.",
+                "Espero que neste ano possamos aprofundar o diálogo sobre um acordo abrangente com a China.",
+                "Aprimorar o Sistema de Pagamentos em Moeda Local será importante tarefa da próxima presidência pro tempore.",
+                "Maior harmonização nos procedimentos adotados pelos nossos bancos centrais para esse tipo de operação reduzirá custos e beneficiará sobretudo pequenas e médias empresas do nosso continente.",
+                "O FOCEM permanece instrumento chave para a redução das nossas disparidades e assimetrias. Cabe aproveitá-lo em todo seu potencial.",
+                "O Brasil saldou, no ano passado, a totalidade de sua dívida com o Fundo, permitindo uma nova rodada de projetos.",
+                "Já selecionamos oito iniciativas no valor de 70 milhões de dólares, contemplando saneamento, desenvolvimento produtivo para geração de emprego e renda, mobilidade urbana e infraestrutura social para aldeias indígenas.",
+                "É isso que faz a diferença na vida das pessoas.",
+                "Um pseudo “aggiornamento” que afasta o MERCOSUL de suas bases sociais nos enfraquece.",
+                "Apagar a palavra gênero de documentos só agrava a violência cotidiana sofrida por mulheres e meninas.",
+                "Para superar flagelos como a fome, a pobreza e as desigualdades, é importante contar com um Instituto Social forte, com meios para estabelecer metas e ações concretas.",
+                "O Instituto de Políticas Públicas de Direitos Humanos deve dispor dos recursos necessários para apoiar nossos países na complexa tarefa de garantir diretos e dignidade.",
+                "Fortalecer a relação com o PARLASUL também contribuirá tanto na internalização e implementação de normas do bloco, como na aproximação com diferentes segmentos sociais.",
+                "Não podemos vir a cada Cúpula de Chefes de Estado apenas para discursar. É preciso ouvir.",
+                "Por isso, o Brasil defende o fortalecimento da Cúpula Social, que é uma das principais plataformas de interação com representantes da sociedade civil.",
+                "Meus amigos, minhas amigas,",
+                "A crise climática nos aproxima muito rapidamente de um cenário catastrófico.",
+                "No último um ano e meio, vivemos secas históricas na Amazônia, nos Pampas e no Pantanal brasileiro e boliviano, que também padeceram com incêndios nos últimos dias.",
+                "Há poucas semanas, o Rio Grande do Sul sofreu enormes perdas humanas e materiais com inundações sem precedentes, que também impactaram o Uruguai.",
+                "Além de agradecer a solidariedade de todos os sócios do MERCOSUL que ofereceram prontamente os mais diversos tipos de ajuda humanitária, quero fazer um chamado por maior engajamento e ambição climática.",
+                "É muito oportuna a adesão do MERCOSUL, nesta Cúpula, ao Memorando de Entendimento sobre cooperação em gestão integral de risco de desastres.",
+                "Somos o continente com a maior floresta tropical e as maiores reservas de água doce do mundo.",
+                "Este ano, na COP-16, em Cáli, mostraremos também a magnitude da biodiversidade sul-americana.",
+                "No próximo, o Brasil sediará COP 30, em Belém.",
+                "Serão oportunidades para o MERCOSUL e a América do Sul apresentar uma visão coletiva sobre os desafios do desenvolvimento sustentável.",
+                "Temos a autoridade moral para nos fazer ouvir e a responsabilidade histórica de liderar pelo exemplo.",
+                "Já estamos na metade da presidência brasileira do G20.",
+                "A lamentável reversão dos avanços no combate à pobreza e à fome dos últimos anos é uma preocupação compartilhada.",
+                "Em duas semanas farei a apresentação da Aliança contra a Fome e a Pobreza no âmbito do Grupo, que será aberta em breve a todos os países.",
+                "Espero contar com o apoio de todos vocês como membros da Aliança.",
+                "Senhoras e senhores,",
+                "O MERCOSUL é resiliente e tem sobrevivido aos difíceis anos de desintegração.",
+                "Pensar igual nunca foi critério para engajamento construtivo nas tarefas do bloco.",
+                "A diversidade de opiniões, sem extremismos e intolerância, é bem-vinda porque fortalece nossas democracias e nos conduz a escolhas melhores.",
+                "O MERCOSUL é e seguirá sendo a grande aposta de inserção internacional e de desenvolvimento do Brasil.",
+                "Quero, por fim, parabenizar a presidência paraguaia pelo comando firme e pragmático dos trabalhos do MERCOSUL ao longo deste semestre e desejar ao meu colega Lacalle Pou sucesso na sua presidência a partir de agora.",
+                "O querido presidente Pepe Mujica costuma dizer que “é preciso construir vínculos em nossa região para que possamos, juntos, ser ouvidos em nível internacional. Os desafios que temos como humanidade requerem, mais do que nunca, esforços coletivos e propostas inovadoras”",
+                "Que suas palavras inspirem todos nós a olhar para o MERCOSUL como fonte de soluções para os nossos desafios e desenvolvimento.",
+                "Precisamos de um mundo de paz.",
+                "Essa é a razão do nosso engajamento em prol de uma solução para o conflito entre Rússia e Ucrânia que efetivamente envolva as duas partes.",
+                "O apoio do Brasil à África do Sul em sua ação na Corte Internacional de Justiça visa a por fim à matança indiscriminada de mulheres e crianças em Gaza.",
+                "Encerro com o registro da vitória das forças progressistas nas recentes eleições no Reino Unido e na França. Ambas são fundamentais para a defesa da democracia e da justiça social contra as ameaças do extremismo.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "14": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Entrevista concedida pelo presidente Lula após visita oficial à Bolívia",
+            "subtitulo": "Transcrição da entrevista concedida pelo presidente Luiz Inácio Lula da Silva após visita oficial à Bolívia, em Santa Cruz de La Sierra, no dia 9 de julho de 2024",
+            "data": "09/07/2024",
+            "horario": "15h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h54"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-entrevistas/luiz-inacio-lula-da-silva-2023-2026/entrevista-concedida-pelo-presidente-lula-apos-visita-oficial-a-bolivia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Jornalista: Valeu a pena a visita, presidente?",
+                "Presidente Lula: É uma visita muito importante para um país que acredita na integração da América do Sul, para um país que trabalhou tanto como nós trabalhamos, para criar um bloco econômico forte, capaz de negociar com outros blocos.",
+                "Nós estamos praticamente fechados com o acordo da União Europeia com o Mercosul. Agora depende só da União Europeia e não depende mais de nós. E nós pretendemos que o bloco seja mais forte para a gente negociar com outros países. Porque é importante que a América do Sul compreenda que somente integrada a gente pode sair, sabe, do grau de pobreza que a gente foi submetido durante 500 anos.",
+                "Então é isso: eu estou otimista, acho que a gente tem muita coisa para fazer com a Bolívia, mas muita coisa mesmo, em vários campos. Na atividade empresarial, na exploração do lítio, na produção de energia limpa, na melhoria da nossa capacidade de entrosamento na área da agropecuária, na área da agricultura. Então eu estou otimista.",
+                "Acho que fizemos bons acordos, e eu acho que agora eu pedi para a imprensa, inclusive, cobrar, cobrar de mim, cobrar do presidente da Bolívia, e cobrar dos ministros porque nós assinamos acordos. Esses acordos agora têm que funcionar para que a gente possa voltar a ter um crescimento virtuoso na América do Sul.",
+                "Um abraço."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "15": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Entrevista do presidente Lula a jornalistas na chegada à Bolívia para visita oficial ao país",
+            "subtitulo": "Entrevista do presidente Lula a jornalistas na chegada à Bolívia para visita oficial ao país, em Santa Cruz de La Sierra, em 8 de julho de 2024",
+            "data": "09/07/2024",
+            "horario": "10h37",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h54"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-entrevistas/luiz-inacio-lula-da-silva-2023-2026/entrevista-do-presidente-lula-a-jornalistas-na-chegada-a-bolivia-para-visita-oficial-ao-pais",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Pergunta: Como é que o Brasil pode ajudar a Bolívia?",
+                "Presidente Lula: Deixa eu falar uma coisa para vocês, eu não posso dar duas entrevistas no mesmo dia. Acabei de falar lá em Assunção. Amanhã, depois da reunião, eu converso com vocês, tá?",
+                "Pergunta: Como é que o Brasil pode ajudar a Bolívia?",
+                "Presidente Lula: Veja, eu acho que o Brasil pode ajudar como vem ajudando. O Brasil é um país que tem interesse em fazer com que os países exitem o progresso. O Brasil pode ajudar a Bolívia em muita coisa. A gente pode ajudar a Bolívia transferindo tecnologia, transferindo suprimentos e máquinas agrícolas a preços mais compatíveis, a gente pode fazer com que haja exploração de minerais na Bolívia em benefício da própria Bolívia. A gente pode fazer com que a Petrobras volte a prospectar gás para melhorar a situação da Bolívia. Além disso, nós temos interesse em fazer hidrovias junto com a Bolívia, fazer a ponte com a Bolívia. Temos interesse de fazer uma hidrelétrica junto com a Bolívia. É esse o papel de um país do tamanho do Brasil que tem 3.600 quilômetros de fronteira com a Bolívia. Ou seja, cuidar da Bolívia, cuidar do Brasil, é cuidar de dois países irmãos e acho que esse é um papel que está reservado. Mas hoje, na verdade, eu estou feliz com a vitória da esquerda na França.",
+                "Pergunta: Faz quinze anos que o senhor não vem aqui.",
+                "Presidente Lula: Veja, eu às vezes fico triste porque faz quinze anos que eu não venho aqui. Imagina que as coisas tivessem evoluído, tivessem tido mais investimento, que o Brasil tivesse cuidado melhor dos seus parceiros, porque eu acredito muito na questão da integração, eu acredito que não há saída individual para nenhum país da América do Sul. Ou nós aprendemos a agir como bloco e saímos da mesmice e nos transformamos numa região desenvolvida, competitiva, ou a gente vai continuar pobre. Esse é o dilema que nós estamos vivendo. Então, eu acho que a Bolívia de hoje, pelo que eu conheço de dados econômicos, a situação está mais difícil do que estava há dez anos atrás.",
+                "Do ponto de vista das divisas da Bolívia, ou seja, não há mais a reserva que havia, o PIB não cresceu como estava crescendo. Tudo isso eu acho que pode mudar, porque o Brasil também piorou. E o Brasil, nós passamos um ano consertando o Brasil. E agora o Brasil vai fazer as coisas acontecerem da forma mais positiva possível. Eu tenho dito o seguinte: nós precisamos de crescimento econômico, distribuição de riqueza, geração de renda, aumento de salário para as pessoas e fazer com que as pessoas possam viver mais tranquilamente no Brasil, e na Bolívia, e no Uruguai, e no Paraguai, e na Argentina.",
+                "Pergunta: Isso é uma democracia, presidente. O país sofreu uma tentativa de golpe na semana passada. O senhor também veio demonstrar apoio à democracia?",
+                "Presidente Lula: É imperdoável, é imperdoável a tentativa de golpe. Ou seja, graças a Deus, eu acho que o povo boliviano garantiu a democracia e acho que a solidariedade internacional foi muito importante. É inimaginável você pensar que na metade do primeiro quarto do século 21, você achar que vai resolver o problema dando golpe, que os militares podem ser a solução. Para que? A solução está no fortalecimento da democracia, está na participação da sociedade civil, está no voto do eleitor boliviano, brasileiro e assim por diante. Não existe milagre. O que existe é respeito à democracia, que é o sistema que pode permitir alternância de poder. O povo elege um hoje, amanhã ele não gosta, não elege ele, elege o outro e assim vai.",
+                "Pergunta: Para intermediar a discussão entre Evo Morales [ex-presidente da Bolívia] e o presidente Arce [presidente da Bolívia], como é que se resolve isso?",
+                "Presidente Lula: Olha, veja, como se resolve qualquer conflito entre dois seres humanos. Ou seja, eu não conversei ainda com o presidente Arce. Encontrei com ele em Assunção mas não conversei. Eu, amanhã, eu vou me dar conta por inteiro de como está a situação política na Bolívia. Como está a divergência entre eles, quem são os candidatos de oposição. Ou seja, naquilo que a gente puder ajudar para construir a unidade e fortalecer a democracia, esse eu acho que é o papel do Brasil.",
+                "A Bolívia no Mercosul é importante. É um passo muito importante para a Bolívia, um passo importante para o Mercosul, porque o Mercosul tem que ser o caminho natural daqueles que acreditam que juntos nós poderemos formar um bloco econômico forte, que a gente possa ter uma indústria forte. Ou seja, é só acreditar. Agora, com esse momento da transição energética que o mundo está precisando e aqui na América do Sul o nosso potencial é extraordinário. Ou seja, nós temos mais florestas, temos mais possibilidade de produzir energia verde, temos mais possibilidade de produzir hidrogênio verde, temos mais possibilidade de produzir alimento. Então, eu acho que chegou a vez da gente mostrar que a gente tem valor e que a gente quer deixar de ser pequeno. A gente quer ser grande. Isso passa pela unidade dos países, passa pela integração, e é isso que eu vou brigar."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "16": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Entrevista do presidente Lula a jornalistas depois da Cúpula do Mercosul em Assunção, no Paraguai",
+            "subtitulo": "Transcrição de entrevista concedida pelo presidente Luiz Inácio Lula da Silva a jornalistas em Assunção, no Paraguai, depois da 64ª Cúpula de Chefes de Estado do Mercosul",
+            "data": "09/07/2024",
+            "horario": "10h16",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h54"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-entrevistas/luiz-inacio-lula-da-silva-2023-2026/entrevista-do-presidente-lula-a-jornalistas-depois-da-cupula-do-mercosul-em-assuncao-no-paraguai",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Pergunta: Presidente, faz um saldo do Mercosul, por favor.",
+                "Presidente Lula: Primeiro, eu acho que foi muito importante a reunião do Mercosul, porque ela tem perspectivas extraordinárias de novos acordos. Eu estou muito otimista com relação ao possível acordo com a União Europeia. Eu estou muito otimista com a possibilidade de a gente construir um acordo com a China. Nós trouxemos o Panamá para participar e o Panamá está pensando em entrar no Mercosul. Participou — interessante que a Guiana, que representa o Caricom, participou nessa reunião. E transferimos a Presidência para o presidente do Uruguai, que eu espero que tenha a mesma sorte que o Santiago (Santiago Peña, presidente do Paraguai) teve, de fazer com que o Mercosul continue se fortalecendo.",
+                "Você sabe que eu sou muito otimista com relação ao nosso processo de integração. A gente às vezes anda um passo, às vezes recua um passo, mas o dado concreto é que tem uma consciência política hoje de que juntos nós temos muito mais chances de formarmos um bloco, sabe, economicamente forte, politicamente respeitado e do ponto de vista cultural, para ser levado muito a sério. É isso que aconteceu.",
+                "Pergunta: Presidente, a ausência do Milei [Javier Milei, presidente da Argentina] não atrapalha a integração do bloco?",
+                "Presidente Lula: A ausência de um presidente não atrapalha se o país está presente. Eu acho que quem perde não comparecendo não são os que vieram, é quem não veio. Quem não veio desaprende um pouco, quem não veio não sabe o que está acontecendo. Eu acho que eu sempre que tenho uma reunião com outros Chefes de Estado eu faço questão de participar porque eu sempre estou aprendendo alguma coisa. Eu sempre converso com gente que está mais preparada do que eu.",
+                "Então, eu acho que como nós somos um bloco em construção de países em vias de desenvolvimento, apesar de fazermos parte do Sul Global, eu acho que quem perde é quem não vem. Uma bobagem imensa, um presidente de um país importante como a Argentina não participar da reunião com o Mercosul. É triste, é triste para a Argentina. Agora uma coisa é verdade: nós, do Mercosul, vamos tentar, estamos trabalhando o fortalecimento do Mercosul com a Argentina. Porque nós acreditamos na importância da Argentina. A Argentina é um país extremamente importante para o sucesso do Mercosul. E aí se o presidente participa ou não, não interessa. O que interessa é o seguinte: é que o povo argentino precisa do Mercosul. E o Mercosul precisa do povo argentino.",
+                "Pergunta: E o fato de ele ter ido para a CPAC no final de semana, o Javier Milei? O que ele falou lá.",
+                "Presidente Lula: Não sei. Sinceramente, é o tipo de reunião que não me interessa, sinceramente. Eu acho que no final, acho que no final das contas, o presidente da República perdeu tempo fazendo uma coisa de extrema direita tão desagradável, é tão antissocial, é tão antipovo, é tão antidemocrático. Eu não sei o que as pessoas ganham participando disso.",
+                "Pergunta: O que aconteceu no Reino Unido e na França, é uma resposta para esses conservadores?",
+                "Presidente Lula: Aí sim, agora você fez a pergunta inteligente. Agora você fez a pergunta. Eu, primeiro, estou muito feliz com a vitória do Labour Party na Inglaterra. É uma coisa muito interessante, há 14 anos que eles estavam afastados do governo, e eles agora voltaram ao governo e voltaram com a maioria avassaladora. Ou seja, acho que nem eles mesmo esperavam tanta força no processo eleitoral, é um avanço importante.",
+                "E depois, o que aconteceu na França é aquela coisa maravilhosa do que representa a democracia. Ou seja, quando parecia que tudo estava confuso, quando parecia que tudo estava dando errado, eis que o povo se manifesta e o povo vem para a rua e diz: nós queremos, sabe, que os setores democráticos continuem governando a França, a gente não quer extrema direita, a gente não quer fascista, a gente não quer nazista, a gente quer democracia. Foi isso que aconteceu na França, então estou muito feliz.",
+                "Agora espero, espero que o meu amigo Macron (Emmanuel Macron), que o meu amigo Mélenchon (Jean-Luc Mélenchon, líder de esquerda na França) que o meu amigo François Hollande (ex-presidente da França) e que tantos outros companheiros da França se coloquem de acordo para montar um governo que possa atender aos interesses do povo francês. É isso que eu espero, eu acho que foi uma coisa muito importante nesse final de semana, que aconteceu no mundo, e tudo que acontece na França é tudo muito importante porque todos nós somos um pouco filhos da Revolução Francesa.",
+                "Pergunta: Presidente, em relação às eleições nos Estados Unidos? E a Bolívia?",
+                "Presidente Lula: Olha, eu espero que a gente possa fortalecer um pouco a relação Brasil e Bolívia. O Brasil tem 3.600 km de fronteira com a Bolívia. A Bolívia é um país importante. A Bolívia é um país que o Brasil precisa ajudar a Bolívia a se desenvolver, a se industrializar. Nós precisamos discutir como é que vai se explorar os materiais, os minerais críticos que a Bolívia tem, como é que vai se utilizar todo o potencial mineral da Bolívia, o potencial de gás. E o Brasil pode ajudar, ajudando a Bolívia a explorar, mas também ajudando a desenvolver a Bolívia, porque é preciso gerar desenvolvimento.",
+                "No caso do Brasil, eu quero dizer para vocês que eu não consigo pensar o Brasil crescendo sozinho. O Brasil tem que crescer e junto com o Brasil têm que crescer os nossos vizinhos.",
+                "Então, a minha ida à Santa Cruz de la Sierra, é um voto de confiança na Bolívia, para dizer para o povo da Bolívia que o Brasil está junto. Estou muito feliz que o golpe não deu certo na Bolívia, muito feliz com a manutenção do presidente de Arce (Luis Arce), e vamos aguardar que o processo eleitoral defina quem vai ser o presidente da República. O que eu quero é paz. O que eu quero é paz e muita tranquilidade.",
+                "Pergunta: O Evo Morales, o senhor encontra?",
+                "Presidente Lula: Eu não sei se o Evo Morales está em Santa Cruz de la Sierra, não sei, mas a hora que o Evo quiser conversar comigo, é só me telefonar.",
+                "Pergunta: O presidente tem um discurso muito forte em defesa do tema de gênero no Mercosul, também falou sobre a defesa dos institutos sociais, muito forte no seu discurso agora. A gente pode entender que há uma divergência em relação a esse tema com um dos Estados Partes?",
+                "Presidente Lula: Mas se existe divergência, ela existe para a gente construir a convergência. Não tem nenhum problema que tenha divergência, ou seja, nós não somos obrigados a estarmos de acordo com tudo ao mesmo tempo. O que é importante é que a gente tenha a maturidade de que aquilo que seja importante para o funcionamento do bloco prevaleça. Eu acho que a questão de gênero é uma questão, sabe, tão séria, tão séria, tão séria no mundo de hoje, porque há muitos séculos a gente não via o crescimento da violência contra a mulher, da violência contra meninas, como a gente está vendo hoje. Então a questão de gênero é uma necessidade de estar em todos os discursos, em todos os programas, de toda a movimentação política do mundo. E a questão da participação social: gente, a novidade desse processo de integração é a participação social. Não custa nada os presidentes dos países ouvirem os dirigentes sindicais, ouvirem o movimento social fazerem a sua pauta de reivindicação, nos criticar. Isso é tudo saudável para a democracia, então nós vamos continuar defendendo e vamos fortalecer.",
+                "Perguntas de vários jornalistas ao mesmo tempo.",
+                "Presidente Lula: Deixa eu falar, nem vocês nem eu entendem quando todo mundo fala ao mesmo tempo. Uma só.",
+                "Pergunta: Quais as expectativas em relação às eleições dos Estados Unidos e se o presidente Joe Biden deveria retirar a candidatura?",
+                "Presidente Lula: Deixa eu dizer, é muito difícil um cidadão de outro país dar palpite sobre a candidatura de um outro presidente de um outro país. Veja, somente o Biden tem o direito de tomar posição sobre ele. Somente o Biden se conhece perfeitamente bem. Somente ele sabe o que ele tem, o que ele não tem, se ele pode ou não pode. Portanto, ele é que vai tomar decisão. Eu digo, se eu fosse eleitor americano, eu votaria no Biden, mas eu não sou, sou brasileiro, ainda vou continuar votando em mim.",
+                "Pergunta: Como anda a relação do Brasil com o Paraguai?",
+                "Presidente Lula: Eu acho que o Paraguai é aquilo que eu chamo de irmão, irmão menor, irmão mais novo. O Brasil, desde que eu tomei posse em 2003, eu já convivi com muitos presidentes do Paraguai. Eu quero dizer para vocês que a minha relação com o Paraguai é uma relação não só de amizade, mas é uma coisa quase que de irmandade, porque eu acho que o crescimento do Brasil tem que estar ligado ao crescimento do Paraguai, ao crescimento do Uruguai, ao crescimento da Bolívia, ao crescimento da Argentina, ao crescimento dos países que são fronteiriços com o Brasil. Então o Paraguai é um país importante para nós, eu tive relações extraordinárias com o Lugo (Fernando Lugo, ex-presidente do Paraguai), eu tenho relações extraordinárias com o Santiago e vou continuar tendo relação porque o Brasil precisa fazer com que todos nós cresçamos juntos. Por isso, o Paraguai é um país irmão.",
+                "Pergunta: E Itaipu?Presidente Lula: Itaipu não tem mais problema. Itaipu agora só tem que produzir a energia de que o povo precisa."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

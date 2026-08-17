@@ -1,0 +1,1208 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro das Relações Exteriores por ocasião da reunião de Ministros da Saúde do G20",
+            "subtitulo": "NA",
+            "data": "31/10/2024",
+            "horario": "15h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2024"
+            ],
+            "horario_atualizado": [
+                "17h08"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-das-relacoes-exteriores-por-ocasiao-da-reuniao-de-ministros-da-saude-do-g20",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Este encontro representa mais uma etapa fundamental da presidência brasileira, que culminará com a Cúpula de Líderes, em novembro, aqui no Rio de Janeiro. Entre as nossas prioridades está a luta contra as desigualdades em todas as suas formas. Essa preocupação permeia os três eixos definidos como centrais pelo Presidente Lula: a inclusão social e o combate à fome e à pobreza; o enfrentamento da mudança do clima e o desenvolvimento sustentável; e a reforma da governança global.",
+                "Em relação ao primeiro eixo, adotamos, em julho último, as bases para a Aliança Global contra a Fome e a Pobreza, que já está aberta a adesões e será oficialmente lançada em novembro.",
+                "É um projeto que o Presidente Lula tem muito perto de seu coração, e de todo o seu governo.",
+                "Sua premissa é que a fome e a pobreza não são fatalidades. A comunidade internacional tem todas as condições para garantir uma existência digna a cada ser humano. O que é necessário é vontade política, e a Aliança é o catalisador dessa vontade. Cuidar da saúde das pessoas também é parte fundamental desse esforço. Na pandemia de COVD-19, ficaram evidentes a disparidade de meios para prevenir e combater emergências sanitárias. Os obstáculos ao acesso a vacinas e medicamentos mostraram uma das faces mais perversas da desigualdade.  Em apenas dois anos, a pandemia de COVID-19 apagou uma década de ganhos na expectativa de vida, segundo o relatório Estatísticas Mundiais de Saúde de 2024 da OMS.",
+                "Estamos em um momento crítico, igualmente, na agenda do desenvolvimento sustentável. Não estamos avançando na velocidade e na escala necessárias para cumprir, até 2030, muitos de nossos objetivos comuns, como é o caso do ODS 3 sobre “Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades”.",
+                "Esse dado revela a urgência em promover avanços em saúde em nível global.",
+                "É fundamental redobrar o apoio à conclusão das negociações de instrumento internacional sobre prevenção, prontidão e resposta a pandemias, no âmbito da OMS. É chegada a hora de retomar a ambição originalmente estabelecida de adotar um tratado que efetivamente modifique o “status quo”. Um tratado sobre pandemias que tenha a vida humana em seu centro, em posição superior a interesses comerciais ou financeiros.​Em claro reforço ao multilateralismo, o G20 tem demostrado capacidade de desempenhar papel significativo em fazer avançar compromissos políticos em diversas áreas. Parabenizo, assim, as diretrizes ambiciosas que estão consignadas nas Declarações Ministeriais que devem ser adotadas hoje:- a Declaração do Rio de Janeiro de Ministros de Saúde do G20; e - a Declaração Ministerial do G20 sobre Mudança do Clima, Saúde e Equidade, e sobre Abordagem “Uma Só Saúde”. Também felicito a todos vocês pela criação da Coalizão Global para a Produção Local e Regional, Inovação e Acesso Equitativo. Todas essas iniciativas deste grupo de trabalho do G20 desempenharão papel crucial na redução das desigualdades em saúde, ampliando o acesso a vacinas, medicamentos, diagnósticos e outras tecnologias de saúde, especialmente para as populações mais vulneráveis. Quero cumprimentar também este grupo por ter promovido amplo processo participativo às organizações da sociedade civil em suas discussões. Sabemos que as “fake news” em matéria de saúde são particularmente prejudiciais. A participação social é fundamental e contribui para maior transparência e o combate à desinformação. Esse compromisso com maior transparência nos trabalhos do G20 esteve igualmente na origem da iniciativa que tomamos de realizar em setembro passado, pela primeira vez, a reunião dos chanceleres do G20 em Nova York, aberta a todos os membros das Nações Unidas.  Nela aprovamos o “Chamado à Ação” pela Reforma da Governança Global. Nosso “Chamado à Ação” é claro: a capacidade individual e coletiva dos Estados em responder aos desafios globais depende de instituições multilaterais mais fortes, coordenadas e representativas da realidade atual. O Sul Global precisa estar e ter os seus interesses representados nos principais foros de decisão. Nosso objetivo é tornar mais robusta e inclusiva a atual arquitetura global de saúde, com a Organização Mundial da Saúde com papel coordenador. Essa arquitetura deve estar baseada no princípio da equidade e na promoção dos direitos humanos, incluindo o acesso universal à saúde. Quero concluir renovando meus agradecimentos à Ministra Nísia e a todos os países aqui presentes pelos resultados alcançados e pelo processo colaborativo e participativo do Grupo de Trabalho, que hoje se encerra sob a presidência brasileira. É com confiança que olho para este encontro esperando que possamos avançar juntos em direção a um mundo mais saudável, sustentável e justo para todos. Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Participação do Ministro Mauro Vieira no debate aberto do Conselho de Segurança da ONU sobre a situação no Oriente Médio, inclusive Palestina",
+            "subtitulo": "NA",
+            "data": "29/10/2024",
+            "horario": "15h02",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/participacao-do-ministro-mauro-vieira-no-debate-aberto-do-conselho-de-seguranca-da-onu-sobre-a-situacao-no-oriente-medio-inclusive-palestina",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "A ordem internacional do pós-guerra está desmoronando diante de nossos olhos. Os fundamentos estabelecidos após dois conflitos globais estão sendo corroídos.",
+                "Os eventos que se desenrolam no Oriente Médio não são apenas mais um capítulo em um antigo conflito. Eles refletem de forma clara uma crise mais profunda, onde o poder prevalece sobre o direito, e os princípios destinados a proteger a paz são ofuscados.",
+                "É por isso que o Presidente Lula convocou uma resposta vigorosa aos graves desafios de nosso tempo. Como ele enfatizou na abertura da 79ª sessão da Assembleia Geral, o mundo precisa de uma revisão abrangente da Carta das Nações Unidas.",
+                "Uma conferência de revisão da Carta pode parecer ambiciosa, mas reflete o espírito que fundou a ONU. O Artigo 109 deixa claro que nenhum sistema deve permanecer estático em um mundo em constante mudança.",
+                "Senhor Presidente,",
+                "O dever do Conselho é proteger toda a humanidade, não apenas atender a alguns poucos.",
+                "Sua incapacidade de agir de forma decisiva permitiu que atrocidades continuassem impunes, com populações inteiras pagando o preço. Isso não é mera retórica. Está refletido nos crimes cometidos contra civis em Gaza e no Líbano.",
+                "Senhor Presidente,",
+                "Mais de 43.000 palestinos e 2.500 libaneses já perderam a vida devido às fraturas de uma ordem global que, cada vez mais, falha em cumprir suas promessas.",
+                "O Brasil tem sido enfático ao pedir o fim da escalada de violência no Oriente Médio. Desde que assumimos a presidência deste Conselho em outubro do ano passado, quando Israel foi atingido por um ataque terrorista, testemunhamos uma escalada incessante de violência.",
+                "A resposta de Israel ao 7 de outubro ultrapassou qualquer senso de proporção. Mais bombas foram lançadas sobre Gaza do que em Dresden, Hamburgo e Londres durante a Segunda Guerra Mundial. Isso não é autodefesa; é punição coletiva e aniquilação.",
+                "Todos testemunhamos violações flagrantes e rotineiras do direito humanitário internacional em Gaza.",
+                "Áreas civis são indiscriminada e desproporcionalmente alvejadas em operações militares, levando à destruição de infraestrutura crítica e ao sofrimento de inocentes.",
+                "Fome e doenças se espalham à medida que o fornecimento de bens que suprem necessidades básicas é interrompido.",
+                "Até mesmo aqueles protegidos pelas Convenções de Genebra – trabalhadores humanitários, médicos e pessoal de saúde – estão sendo mortos. Jornalistas foram baleados e seus veículos de imprensa silenciados.",
+                "Senhor Presidente,",
+                "A Corte Internacional de Justiça emitiu medidas provisórias ordenando que Israel interrompa ações que possam violar a Convenção sobre Genocídio e facilite a entrega de ajuda humanitária.",
+                "Além disso, a Resolução 2735 (2024) exige um cessar-fogo completo, a retirada das forças israelenses de áreas densamente povoadas em Gaza e o retorno seguro dos civis palestinos às suas casas.",
+                "Essas não são recomendações; são obrigações vinculantes segundo o direito internacional.",
+                "Quando diretrizes mandatórias dos mais altos órgãos jurídicos e políticos são ignoradas impunemente, isso sinaliza uma perigosa desintegração da governança global.",
+                "A consequência desse desprezo é mais perda de vidas e destruição inimaginável.",
+                "Quando me dirigi a este Conselho há um mês, alertei que o Líbano estava à beira de um conflito. Hoje, lamentamos a perda de milhares de vidas inocentes, incluindo dois adolescentes brasileiros.",
+                "Em apenas 30 dias, o número de deslocados no Líbano multiplicou-se por dez.",
+                "Desde a última vez em que estive nesta cadeira, tenho me dedicado à tarefa urgente de repatriar milhares de nossos cidadãos com dupla nacionalidade do Líbano, completando nove voos de resgate em aviões da Força Aérea Brasileira, enfrentando crescentes riscos de segurança, incluindo ataques aéreos israelenses em território libanês. Milhares ainda aguardam repatriação.",
+                "Senhor Presidente,",
+                "A expansão da guerra de Gaza para o Líbano revela um padrão familiar de desrespeito pela lei. Ataques contra a UNRWA e agora contra a UNIFIL são uma rejeição flagrante do sistema multilateral e de tudo o que a Carta das Nações Unidas representa.",
+                "Esta não é a primeira vez que a UNIFIL é atacada. Não devemos esquecer o bombardeio israelense ao complexo da UNIFIL em Qana, em 1996, onde 106 civis que buscavam refúgio foram mortos.",
+                "Esta tragédia serve como uma lição crítica do que ocorre quando a comunidade internacional permite que tais violações fiquem impunes.",
+                "Quando falhamos em responsabilizar os perpetradores, pavimentamos o caminho para que a história se repita.",
+                "Por isso, o Brasil condena, nos termos mais fortes, os recentes ataques deliberados contra o pessoal e a infraestrutura da missão de paz no Líbano.",
+                "O Brasil também condena a decisão do Knesset de aprovar ontem leis contra a UNRWA. Ao tentar desmantelar serviços essenciais para os palestinos, essas leis agravam o sofrimento de um povo já devastado e contrariam o pedido da Corte Internacional de Justiça para que Israel facilite o acesso a assistência humanitária em Gaza.",
+                "Esforços para enfraquecer a UNRWA não são apenas ataques a uma instituição, mas à própria sobrevivência e dignidade do povo palestino. Atacar a UNRWA não eliminará o status de refugiado do povo palestino, nem a responsabilidade da comunidade internacional de proteger aqueles que precisam.",
+                "Devemos rejeitar essa lei pelo que ela realmente é – um precedente perigoso que enfraquece o multilateralismo e abre caminho para uma maior erosão da ordem global.",
+                "Senhor Presidente,",
+                "Quando o direito internacional é violado, os responsáveis devem enfrentar as consequências. É nosso dever, como Estados-membros da ONU, garantir que a justiça seja aplicada, que investigações sejam realizadas, que responsabilidades sejam atribuídas e que penalidades sejam impostas para prevenir a impunidade e manter o Estado de Direito. Devemos defender a justiça, não apenas clamar por ela.",
+                "Diante de um caso plausível de genocídio e do ataque indiscriminado contra civis, a comunidade internacional não pode mais ser cúmplice fornecendo armas que possibilitem tais crimes. O mesmo vale para armas que prolongam a ocupação ilegal dos territórios palestinos.",
+                "Não podemos permitir que o veto se torne um escudo para a impunidade.",
+                "Senhor Presidente,",
+                "Cada vez que este Conselho se reúne para discutir o Oriente Médio, a situação se torna mais grave. Novas frentes surgem, mais vidas inocentes são perdidas, e a crise se aprofunda. Os recentes ataques ao Irã só reforçam o risco crescente de uma catástrofe regional.",
+                "Estamos caminhando para um mundo onde as futuras gerações herdarão apenas um legado de conflitos e sofrimentos sem fim. Quantas vidas inocentes serão contabilizadas na próxima vez que nos reunirmos? Quanto mais sofrimento permitiremos?",
+                "A guerra não trará paz ao Oriente Médio. A paz virá através de um compromisso decisivo com a diplomacia, fundamentado na justiça e no respeito pelo direito internacional.",
+                "Enquanto enfrentamos a escalada de violência e a expansão do conflito, o apelo do Presidente Lula para uma revisão da Carta da ONU ressoa mais urgentemente do que nunca. Devemos às futuras gerações assegurar que este órgão tenha a força e o mandato para defender a justiça, proteger a humanidade e garantir uma paz duradoura.",
+                "É hora de dar os passos ousados necessários para tornar a paz não apenas uma aspiração, mas uma realidade para todos.",
+                "Obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na AGNU sobre a necessidade de pôr fim ao embargo econômico, comercial e financeiro dos Estados Unidos contra Cuba",
+            "subtitulo": "NA",
+            "data": "29/10/2024",
+            "horario": "12h13",
+            "datatime": "NA",
+            "data_atualizado": [
+                "29/10/2024"
+            ],
+            "horario_atualizado": [
+                "12h33"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-agnu-sobre-necessidade-de-por-fim-ao-embargo-economico-comercial-financeiro-dos-estados-unidos-contra-cuba",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Dou as mais calorosas boas-vindas ao Ministro das Relações Exteriores de Cuba, Sua Excelência, Senhor Bruno Rodríguez Parrilla.",
+                "O Brasil se associa à intervenção de Uganda em nome do Grupo dos 77 e China.",
+                "Minha delegação também acolhe com satisfação o relatório do Secretário-Geral sobre a necessidade de pôr fim ao embargo contra Cuba.",
+                "O tema que nos ocupa hoje é de grande relevância para Cuba, nossa região e, por seu amplo significado, para todo o sistema multilateral.",
+                "O Brasil sustenta firmemente que as únicas sanções legítimas amparadas pelo direito internacional são aquelas adotadas pelo Conselho de Segurança no âmbito do Capítulo VII da Carta das Nações Unidas.",
+                "Hoje, como tantas vezes antes, o Brasil reitera sua firme, categórica e constante oposição ao embargo econômico, comercial e financeiro imposto contra Cuba. Rejeitamos também a aplicação extraterritorial de leis nacionais discriminatórias.",
+                "O embargo causou um sofrimento incalculável ao povo cubano, dificultou o desenvolvimento sustentável de Cuba e, como em muitos outros casos semelhantes, afetou principalmente os mais vulneráveis. A persistência dessa medida afeta diretamente o exercício dos direitos humanos do povo cubano, limitando o acesso a bens essenciais, como medicamentos e tecnologias indispensáveis para o desenvolvimento.",
+                "O repúdio ao embargo econômico contra Cuba é, praticamente, um consenso internacional, e com razão.",
+                "Os líderes da América Latina e do Caribe, reunidos na VIII Cúpula da Comunidade de Estados Latino-Americanos e Caribenhos, em 1º de março de 2024, em São Vicente e Granadinas, enviaram uma mensagem clara: pôr fim ao embargo. A Declaração de Kingstown solicitou o fim do bloqueio econômico, comercial e financeiro contra Cuba e exigiu sua exclusão das listas unilaterais de países supostamente patrocinadores do terrorismo internacional.",
+                "Senhor Presidente,",
+                "O Brasil acompanha com grande preocupação a atual situação de emergência energética em Cuba, agravada pelo embargo e pela recente passagem do furacão Oscar, que causou perdas humanas e destruição significativa na região oriental de Cuba. Expresso a plena solidariedade do Brasil ao povo e ao governo cubanos nestes momentos difíceis, e nossas sinceras condolências às famílias das vítimas.",
+                "Para ajudar a mitigar essa situação, o Brasil ativou medidas de cooperação e assistência, buscando soluções para fornecer combustíveis e alimentos à população cubana através de diversos canais. Em setembro de 2023, durante a 47ª Cúpula do G77 e China em Havana, Brasil e Cuba assinaram uma \"Carta de Intenções\" para estabelecer um programa de cooperação na área agrícola. A operação incluiu a doação de arroz e leite em pó a Cuba, destinados a melhorar a segurança alimentar. O Brasil forneceu 20.000 toneladas de arroz e 3.116 toneladas de leite em pó, distribuídos à população cubana para ajudar a cobrir suas necessidades alimentares básicas.",
+                "É evidente que as severas sanções impostas injustificadamente a Cuba, tanto pelo embargo quanto por sua inclusão na lista de \"Estados patrocinadores do terrorismo\", contribuíram ainda mais para agravar essa situação. Essas medidas, que já penalizam injustamente o povo cubano, agora impedem uma resposta adequada à crise humanitária gerada pelo furacão.",
+                "Por todas essas razões, instamos os Estados Unidos a reconsiderarem sua política em relação a Cuba: a eliminar as sanções, retirar Cuba da lista de Estados patrocinadores do terrorismo e fomentar um diálogo construtivo baseado no respeito mútuo e na não interferência.",
+                "O Brasil continuará comprometido com uma solução baseada nos princípios de solidariedade e cooperação, pois acreditamos firmemente que o fim do embargo será fundamental para que Cuba possa superar os desafios que enfrenta e garantir o bem-estar de seu povo.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na Sessão Plenária da Cúpula do BRICS com países convidados - Kazan, 24 de outubro de 2024",
+            "subtitulo": "NA",
+            "data": "24/10/2024",
+            "horario": "09h32",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/10/2024"
+            ],
+            "horario_atualizado": [
+                "16h46"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-sessao-plenaria-da-cupula-do-brics-com-paises-convidados-kazan-24-de-outubro-de-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "É um prazer estar ao lado de países amigos do BRICS.",
+                "O interesse que despertamos é ao mesmo tempo um motivo de orgulho e um lembrete da nossa responsabilidade.",
+                "O BRICS não é uma simples sigla inventada por um economista.",
+                "Por trás dessas cinco letras, há uma realidade palpável construída ao longo de décadas de esforços por um mundo mais equânime.",
+                "O BRICS deve muito ao G77 e ao Movimento Não-Alinhado.",
+                "Somos herdeiros dos que lutaram por uma Nova Ordem Econômica Internacional e dos que conceberam os Objetivos de Desenvolvimento Sustentável.",
+                "Somos os vetores dinâmicos do crescimento econômico que o mundo vem experimentando neste século.",
+                "O Sul Global também é uma força positiva para a paz.",
+                "No passado, a Liga Árabe capitaneou uma Iniciativa pela Paz que representava uma opção equilibrada e realista para a resolução do conflito entre Israel e Palestina.",
+                "Hoje, o Egito tem sido imprescindível para que a ajuda humanitária chegue a quem precisa em Gaza, enquanto o Catar atua como ponte entre o Hamas e as autoridades israelenses.",
+                "Foi o Brasil quem, na presidência do Conselho de Segurança, em outubro passado, primeiro propôs uma resolução sobre a atual situação, rejeitada pelo veto de um único país.",
+                "Foi a África do Sul quem, com coragem, recorreu à Corte Internacional de Justiça para dar um basta no genocídio que vem sendo perpetrado contra o povo palestino.",
+                "Foram os países do Sul Global que votaram a favor da resolução da Assembleia Geral da ONU que pede a cessação das hostilidades.",
+                "Enquanto isso, o papel desempenhado por outros países tem sido, no mínimo, decepcionante, para não dizer conivente.",
+                "Os que se arrogam defensores dos direitos humanos fecham os olhos diante da maior atrocidade da história recente.",
+                "Deixam, assim, desmoronar a autoridade do Conselho de Segurança e a integridade do Direito Internacional Humanitário.",
+                "Não haverá paz enquanto não houver um Estado palestino independente.",
+                "A decisão sobre sua existência foi tomada há 75 anos pelas Nações Unidas.",
+                "Mas a mesma ONU que criou o Estado de Israel hoje se vê de mãos atadas.",
+                "Não há justificativa para atos terroristas como os praticados pelo Hamas.",
+                "Mas a reação desproporcional de Israel tornou-se punição coletiva ao povo palestino.",
+                "Já foram lançados sobre Gaza mais explosivos do que os que atingiram Dresden, Hamburgo e Londres na Segunda Guerra Mundial.",
+                "À medida que a violência se alastra para o Líbano, será necessária máxima cautela para que esse conflito não se transforme em uma guerra total.",
+                "Evitar uma escalada também é crucial no conflito na Ucrânia.",
+                "Essa é a mensagem que o entendimento Brasil-China busca promover, junto com mais onze países.",
+                "Formamos um clube da paz para fomentar o diálogo e buscar uma solução duradoura.",
+                "Essa solução duradoura só virá com o respeito ao direito internacional, incluindo os propósitos e princípios consagrados na Carta da ONU, e o papel central das Nações Unidas no sistema internacional.",
+                "Precisamos de paz para voltar a nos concentrar nos maiores desafios do nosso tempo.",
+                "O Brasil é, por princípio, contrário às sanções coercitivas unilaterais, que violam o direito internacional e causam danos ilegítimos às populações dos países afetados. O caso de Cuba é emblemático da irracionalidade dessas medidas, que há mais de seis décadas afetam o desenvolvimento econômico do país e, nos tempos recentes, contribuem para agravar a situação energética, alimentar e de saúde do país caribenho.",
+                "Renovamos nossa solidariedade com o povo cubano e fazemos um apelo para que sejam imediatamente flexibilizadas essas medidas e, sobretudo, para que Cuba seja retirada da lista unilateral de Estados que patrocinam o terrorismo, o que, como sabemos, é injusto e injustificado.",
+                "O Brasil escolheu a inclusão social, o enfrentamento da mudança do clima e a reforma da governança global como prioridades na sua presidência do G20.",
+                "Convidamos todos a aderirem à Aliança Global contra Fome e a Pobreza, que vai mobilizar recursos para a implementação de políticas de eficácia comprovada contra esses flagelos.",
+                "Também conclamamos a todos a elevarem o grau de ambição de suas Contribuições Nacionalmente Determinadas para conter o aquecimento global.",
+                "No caminho até a COP30, em Belém, podemos ser mais ousados sem abrir mão do princípio das responsabilidades comuns, mas diferenciadas.",
+                "Temos de unir forças para não ficar para trás na transição energética e na revolução digital.",
+                "Não podemos nos limitar à posição de meros fornecedores de recursos naturais, reproduzindo a lógica extrativista de séculos atrás.",
+                "Tampouco nos convém a condição de expectadores da evolução da Inteligência Artificial, sem participar de sua regulação, nem ser remunerados pelo uso de nossos dados.",
+                "Neste ano, a presidência do G20 aprovou um importante “Chamado à Ação sobre a Reforma da Governança Global”, que contou com o endosso de muitos dos países aqui presentes.",
+                "O Brasil considera apresentar à Assembleia Geral proposta de convocação de uma Conferência de Revisão da Carta da ONU, com base no seu artigo 109.",
+                "Queremos explorar esses temas ao longo de nossa presidência do BRICS, no ano que vem, que terá como lema “Fortalecendo a Cooperação do Sul Global por uma Governança mais Inclusiva e Sustentável”.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Briefing do Ministro Mauro Vieira ao corpo diplomático sobre a Aliança Global Contra a Fome e a Pobreza e o Chamado à Reforma da Governança Global",
+            "subtitulo": "NA",
+            "data": "18/10/2024",
+            "horario": "11h16",
+            "datatime": "NA",
+            "data_atualizado": [
+                "18/10/2024"
+            ],
+            "horario_atualizado": [
+                "12h58"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/briefing-do-ministro-mauro-vieira-ao-corpo-diplomatico-sobre-a-alianca-global-contra-a-fome-e-a-pobreza-e-chamado-a-reforma-da-governanca-global",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Muito bom dia. Agradeço a todos pela presença nessa reunião, que tem por objetivo transmitir informações adicionais sobre a Aliança Global contra a Fome e a Pobreza e sobre o “Chamado à Ação” sobre a Reforma da Governança Global. Também aproveitaremos essa ocasião para convidar países e organizações internacionais a aderirem a ambas as iniciativas antes da Cúpula de Líderes do G20 no Rio de Janeiro, a ser realizada nos dias 18 e 19 de novembro.",
+                "Senhoras e senhores,",
+                "Durante o ano de 2024, o Brasil trabalhou com determinação para conseguir avanços concretos durante sua presidência de turno do G20, cujas ações foram concentradas em três eixos definidos como prioritários pelo Presidente Lula: (i) a inclusão social e o combate à fome e à pobreza; (ii) o desenvolvimento sustentável e as transições energéticas; e (iii) a reforma das instituições de governança global.",
+                "Como vem afirmando o Presidente Lula, no coração dessas prioridades está a luta contra a desigualdade em todas as suas formas. A desigualdade entre pessoas, que ainda condena milhões de seres humanos à fome e à miséria. A desigualdade entre países, que faz com que os países em desenvolvimento partam em desvantagem em relação aos países ricos na sua justa luta por um futuro melhor para seus povos. E a desigualdade entre regiões, que se reflete nas estruturas de governança global, em que um pequeno número de países das regiões mais ricas do planeta ainda têm mais direitos e privilégios, enquanto outras regiões, como a África e a América Latina, não são representadas adequadamente.",
+                "Sobre o primeiro eixo, gostaria de comentar sobre a Aliança Global contra a Fome e a Pobreza. A Aliança servirá para coordenar os esforços dos governos nacionais na erradicação da fome que assola mais de 700 milhões de pessoas no mundo.",
+                "Concebida no contexto dos esforços de implementação da Agenda 2030 e como instrumento para acelerar o alcance dos Objetivos de Desenvolvimento Sustentável 1 (pobreza) e 2 (fome), a Aliança Global está centrada na ideia de coordenar esforços para a implementação nacional, em larga escala, de políticas públicas de reconhecida eficácia, reunidas em uma “cesta de políticas” de referência.",
+                "A estrutura da Aliança é composta por três pilares principais: o Pilar Nacional, voltado para o compromisso dos países na adoção de políticas comprovadas de combate à fome e à pobreza; o Pilar Financeiro, que visa identificar e mobilizar recursos para apoiar os países-membros; e o Pilar de Conhecimento, que facilita a troca de experiências e a assistência técnica.",
+                "Na Reunião Ministerial da Força-Tarefa do G20 sobre o referido tema, realizada em 24 de julho, no Rio de Janeiro, com participação do Senhor Presidente da República, foi endossada, de forma unânime, a criação da Aliança e sua estrutura institucional, por meio dos seus documentos constitutivos. O lançamento formal da iniciativa ocorrerá durante a Cúpula do G20, no dia 18 de novembro, no Rio de Janeiro, mas a Aliança já se encontra aberta a adesões.",
+                "Os documentos aprovados estabelecem o desenho e base operacional da Aliança, e a abrem para adesão de TODOS os países do mundo e organismos multilaterais interessados.",
+                "Os documentos constitutivos são:",
+                "O conjunto de documentos da Aliança, disponíveis em inglês, francês, espanhol e português, foram entregues por nossas embaixadas nas respectivas capitais e podem ser acessados online no website do G20.",
+                "Senhoras e senhores,",
+                "Gostaria de chamar sua particular atenção para o último documento que mencionei: a Declaração de Compromisso, que é o documento necessário para formalizar a adesão à Aliança.",
+                "A Aliança está aberta para que todos se tornem membros. Alguns dos países aqui presentes hoje já anunciaram sua adesão e entregaram sua Declaração de Compromisso, a exemplo de Alemanha, Bangladesh, Etiópia, Zâmbia, o que agradeço.",
+                "Mas, para que a Aliança possa ser o instrumento efetivo que queremos, para que essa iniciativa necessária frutifique, precisamos da adesão de TODOS.",
+                "Peço a vocês que transmitam a suas capitais a importância que o Brasil atribui à Aliança Global, que é um projeto prioritário do Presidente Lula, que tem a luta contra a fome muito perto de seu coração, e de todo o seu governo.",
+                "O Brasil convida a todos para aderirem como membros fundadores antes do lançamento formal da Aliança, que ocorrerá, como mencionei, na Cúpula de Líderes do G20, em 18 de novembro.",
+                "Para aderir, basta apresentar a Declaração de Compromisso. Trata-se de documento político voluntário, flexível e não vinculante. Não precisa ser assinado e pode ser alterado a qualquer momento.",
+                "De nossa parte, neste momento em que o Brasil ainda atua como secretariado da Aliança, as Declarações de Compromisso devem passar por um rápido processo de revisão técnica. Idealmente, gostaríamos de receber a primeira versão das Declarações de Compromisso de seus países e organizações até os primeiros dias de novembro, para que possam ser finalizados, contabilizados e publicados no site da Aliança no dia do lançamento oficial.",
+                "Os países que aderirem antes da Cúpula de Líderes terão a oportunidade de influenciar diretamente a estrutura de governança da Aliança, participando da escolha da Junta de Campeões (“Board of Champions”) e das decisões que irão moldar o futuro da iniciativa, em especial neste momento inicial de sua formação.",
+                "Além disso, os membros fundadores terão acesso prioritário aos parceiros que oferecem apoio técnico e financeiro aos membros, para a implementação, ampliação ou melhora de seus programas nacionais condizentes com a Cesta de Políticas da Aliança.",
+                "Este é o momento para nos mobilizarmos de forma coordenada, unindo esforços e recursos para enfrentar os desafios que se agravam globalmente.",
+                "A adesão tempestiva à Aliança não é apenas um ato de solidariedade, mas também de liderança e compromisso com um futuro mais equitativo e livre da fome e pobreza.",
+                "Senhoras e senhores,",
+                "Além da Aliança Global, gostaria de aproveitar essa oportunidade para falar outro dos eixos principais para a presidência brasileira do G20: a reforma da governança global.",
+                "O mundo hoje é radicalmente diferente do mundo de oito décadas atrás, quando a ONU e as principais organizações internacionais foram fundadas. Nossa capacidade de responder aos desafios globais com os quais nos deparamos hoje é prejudicada, em particular, pela crise de representatividade que afeta o sistema multilateral. Precisamos atualizar com urgência as instituições globais.",
+                "Por esse motivo, o Brasil, na condição de presidente de turno do G20, propôs a adoção de um “Chamado à Ação” pela reforma da governança global, documento que foi aberto à adesão de todos os membros da ONU.",
+                "O referido documento foi adotado por consenso no G20 durante a segunda reunião de ministros das Relações Exteriores da presidência brasileira do Grupo, realizada à margem do segmento de alto nível da Assembleia Geral das Nações Unidas, em Nova York, no dia 25 de setembro.",
+                "Foi a primeira vez em sua história que o G20 se reuniu dentro da sede das Nações Unidas, na Sala do Conselho Econômico e Social (ECOSOC), em reunião aberta a todos os membros da organização.",
+                "O Presidente Lula abriu os trabalhos da reunião, juntamente com o Secretário-Geral António Guterres, o presidente da África do Sul, Cyril Ramaphosa – na condição de próximo presidente de turno do G20 –, e o presidente da Assembleia Geral, Philémon Yang.",
+                "Participaram da reunião, ao todo, 80 delegações, sendo 63 chefiadas pelos respectivos ministros das Relações Exteriores e sete, pelos dirigentes máximos das organizações internacionais convidadas.",
+                "O Chamado à Ação sobre a Reforma da Governança Global foi o primeiro documento plenamente consensual a ser aprovado em uma reunião de ministros das Relações Exteriores do G20, formato de reunião que existe desde 2012. Além de todos os membros do G20, outros 32 países já expressaram publicamente o seu endosso ao documento.",
+                "O Chamado à Ação está organizado em três capítulos sucintos, tratando das reformas (i) das Nações Unidas, (ii) da arquitetura financeira internacional e (iii) do sistema multilateral de comércio.",
+                "Destaco os seus principais pontos em cada uma dessas áreas.",
+                "Reforma das Nações Unidas:",
+                "Reforma da Arquitetura Financeira Internacional:",
+                "Reforma do Sistema Multilateral de Comércio:",
+                "Peço a vocês que transmitam a suas capitais, igualmente, a importância que o Brasil atribui à essa iniciativa em favor da reforma da governança global.",
+                "O endosso ao documento pode ser feito mediante Nota Verbal dirigida pelos seus governos à Embaixada do Brasil nas suas capitais ou à Missão do Brasil em Nova York, bem como por meio de comunicação à presidência brasileira do G20 aqui em Brasília.",
+                "O Brasil convida a todos para aderirem ao Chamado a Ação até a Cúpula de Líderes do G20, em 18 de novembro, ocasião em que o Presidente Lula anunciará a lista de países que endossam o documento.",
+                "Senhoras e senhores,",
+                "Ao agradecer a sua atenção, coloco a mim e à minha equipe à disposição para responder, nesse momento, a perguntas sobre a Aliança Global contra a Fome e a Pobreza e ao Chamado à Ação sobre a Reforma da Governança Global.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira por ocasião do Fórum Brasil - África - São Paulo, 14 de outubro de 2024",
+            "subtitulo": "NA",
+            "data": "14/10/2024",
+            "horario": "12h35",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-por-ocasiao-do-forum-brasil-africa-sao-paulo-14-de-outubro-de-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "É com grande satisfação que participo da abertura do Fórum Brasil-África 2024, que está em sua 12a edição, organizado anualmente pelo Instituto Brasil-África (IBRAF), sob a liderança do professor João Bosco Monte. Este é seguramente um dos principais espaços de debate entre lideranças brasileiras e africanas sobre questões contemporâneas de interesse compartilhado.",
+                "O tema central desta 12ª edição são os \"Investimentos em Infraestrutura para o Desenvolvimento Sustentável no Brasil e na África\". Vejo com satisfação a presença de representantes de governos, investidores, empresários e líderes de diferentes países e setores.",
+                "Senhoras e senhores,",
+                "Desde o início do atual governo do Presidente Luiz Inácio Lula da Silva, o engajamento com a África tem sido prioritário para o Brasil. Em 2023, o Senhor Presidente da República visitou Angola, África do Sul, Cabo Verde e São Tomé e Príncipe. Em fevereiro deste ano, visitou o Egito e a Etiópia. Em Adis Abeba, discursou na abertura da 37ª Cúpula da União Africana, um fato excepcional e ilustrativo da relação especial do Brasil com todo o continente africano.",
+                "Além das visitas ao continente, o Presidente reuniu-se, em diferentes ocasiões, com 11 de seus pares africanos.",
+                "Nesse período, tive também a oportunidade de reunir-me com 20 de meus homólogos do continente. Essa intensa agenda de visitas reflete a densidade das relações Brasil-África, que ainda podem ser dinamizadas.",
+                "Tivemos, ainda, a honra de sediar, em agosto passado, em Salvador, a Conferência da Diáspora Africana nas Américas. Ao todo, mais de 50 delegações, de países africanos e das Américas e de organizações internacionais participaram do encontro. As diferentes vozes foram traduzidas em uma Carta de Recomendações que servirá como insumo para as discussões no 9º Congresso Pan-africano, a ter lugar no Togo, no ano próximo.",
+                "Estou seguro de que o século XXI será o século da África. Cientes do enorme potencial econômico do continente, os países africanos deram início, em 2021, à maior área de livre comércio da atualidade em termos de Estados signatários, 54 ao todo, e em termos de população, com um mercado de 1,3 bilhão de pessoas e um produto interno bruto combinado de US$ 3,5 trilhões. A previsão é que em 2050 a população africana aumente dos atuais 1,3 bilhão para quase 2,5 bilhões de habitantes. Em contraste, China, Estados Unidos e Europa enfrentarão o desafio do envelhecimento populacional, uma tendência global com impactos econômicos significativos nessas regiões.",
+                "Além disso, o continente dispõe de mais de 60% das terras aráveis não utilizadas do mundo; é rico em recursos naturais, inclusive em matérias-primas necessárias para novas tecnologias verdes, como minerais críticos; e possui população jovem, de cerca de 20 anos de idade em média, e em rápido crescimento.",
+                "A África é cada vez mais inovação, produção de conhecimento, crescimento econômico, dinamismo social.",
+                "Atentos a essas enormes potencialidades, as grandes economias do mundo têm-se aproximado cada vez mais da África e anunciado grandes investimentos.",
+                "Isso não apenas reflete a importância do continente. Mais do que isso, prenuncia também a iminente multiplicação das oportunidades de negócios na África, inclusive para as empresas brasileiras que souberem inserir-se nessas novas cadeias de produção.",
+                "Embora a presença econômica do Brasil na África ainda esteja bastante aquém do seu potencial, temos com os países do continente um trunfo imaterial, algo imprescindível para o sucesso de qualquer parceria de longo prazo: a confiança mútua, fruto das antigas relações entre nossos povos.",
+                "O Brasil possui a maior população de pessoas afrodescendentes do mundo fora da África. Para nós, as questões africanas não são vistas de longe ou de fora, mas de dentro, pois são parte constitutiva de quem somos. Sangue africano corre em nossas veias, sotaques africanos temperam nosso idioma, a cultura africana enriquece nosso imaginário. Estamos do outro lado do oceano, mas os sonhos e aspirações de nossos povos estão em sintonia.",
+                "E essa sintonia, aliada à solidez dos fundamentos da economia brasileira e o potencial do continente africano, certamente poderá gerar muita prosperidade dos dois lados do Atlântico. Recordo, aliás, a metáfora do grande africanista, o diplomata Alberto da Costa e Silva, de que o Atlântico não é um oceano que nos separa, mas um rio que une nossos povos e nossos destinos.",
+                "O Brasil tem hoje um potencial único no planeta. Encontra-se num contexto regional pacífico e goza de excelente inserção nos mercados internacionais. Tem credenciais singulares quanto ao uso de energia renovável em sua matriz. Conta com capacidade de alimentar o mundo de forma sustentável e de produzir vários dos insumos necessários às transições pelas quais precisa passar a economia mundial.",
+                "E buscamos fazer isso de forma sustentável, de forma compatível com a transição energética. Não queremos apenas reindustrializar, mas neoindustrializar. O novo Programa de Aceleração do Crescimento, o PAC, com valor total que pode chegar a mais de R$ 1,68 trilhão apenas nos próximos anos, está abrindo oportunidades de investimentos privados, brasileiros e estrangeiros, em projetos estruturantes para a economia brasileira.",
+                "No bojo desse processo de neoindustrialização  da economia brasileira, são muitas as oportunidades de cooperação com a África.",
+                "Nosso objetivo é fazer parte da trajetória de prosperidade africana.",
+                "Queremos estabelecer com a África parcerias nas dimensões econômica, social e ambiental. Queremos avançar em comércio e investimentos; empreendedorismo e incentivo a “startups”; agroindústria e agricultura sustentável, voltada para a segurança alimentar; ciência, tecnologia e inovação; transição verde, entre muitos outros campos. Nossa visão é a de uma nova economia, centrada nas pessoas, que promova o emprego dos jovens e oportunidades de trabalho decente.",
+                "Para tanto, nossos empresários e investidores precisam construir novas parcerias, de modo a criar um fluxo de investimentos no Atlântico Sul que beneficie ambos os lados.",
+                "No ano passado, o fluxo comercial Brasil-África foi de cerca de US$ 20,4 bilhões. Há muito espaço para crescimento. As ligações aéreas e marítimas precisam ser ampliadas para facilitar o comércio, e já há desenvolvimentos promissores nessa área. Além dos voos da “Ethiopian Airlines” e da TAAG Linhas Aéreas, de Angola, em 2023, a Latam e “South Africa Airways” retomaram os voos entre o Brasil e a África do Sul. A “Royal Air Maroc” voltará a conectar São Paulo (Guarulhos) e Casablanca a partir de dezembro próximo. Esperamos que novas rotas sejam abertas, ligando outras cidades africanas e brasileiras no futuro. Registro, também, o recente acordo aéreo celebrado com o Egito.",
+                "Senhoras e senhores,",
+                "O crescimento demográfico e a implementação da Zona de Livre Comércio Continental Africana criarão necessidades de infraestrutura. Uma grande população concentrada em cidades precisará cada vez mais de mobilidade urbana e interurbana, comunicações, logística e infraestrutura de cargas.",
+                "O investimento anual em infraestrutura no continente é de mais de US$ 100 bilhões, mas a estimativa é de que há um déficit de financiamento anual de US$ 130 a US$ 170 bilhões. Para que o Brasil possa contribuir com a criação de infraestrutura necessária ao desenvolvimento dos países africanos, precisamos recriar mecanismos, suprimidos em anos recentes, para ampliar a presença de empresas brasileiras no continente.",
+                "Para citar um exemplo, o Brasil aderiu recentemente ao Compacto Lusófono do Banco Africano de Desenvolvimento (BAD). Trata-se de mecanismo que visa a justamente fortalecer os empreendedores africanos, as pequenas e médias empresas do continente. Também voltamos a contribuir com USD 10 milhões para o Fundo Africano de Desenvolvimento do Banco Africano de Desenvolvimento na última recomposição de seu capital.",
+                "Existem, ainda, oportunidades de cooperação entre instituições financeiras sub-regionais latino-americanas, como a Corporação Andina de Fomento (CAF) e o Fundo Financeiro para Desenvolvimento da Bacia do Prata (FONPLATA), com suas contrapartes africanas.",
+                "Refletindo sobre o tema central desta 12ª edição do Fórum, não posso deixar de mencionar que, em maio de 2023, durante reunião de presidentes da América do Sul, em Brasília, o presidente Lula ressaltou a necessidade de que os países da nossa região retomassem os esforços de integração de suas infraestruturas.",
+                "O Ministério das Relações Exteriores e o Ministério do Planejamento e Orçamento têm-se empenhado em cumprir esse mandato, promovendo a agenda regional de integração da infraestrutura, tanto física quanto digital, por meio do projeto dos “Cinco Eixos de Integração Sul-Americana”.",
+                "Os cinco eixos, que cortam o Brasil e a América do Sul, de norte a sul, abrangem projetos em todos os modais. Serão construídos aeroportos, pontes, viadutos, estradas, além de vias de fibra óptica e interconexões elétricas. Do lado brasileiro, estamos lidando com uma carteira de quase duzentos projetos, que contribuirão para concretizar o antigo objetivo de integrar-nos aos países vizinhos e conectar os oceanos Atlântico e Pacífico.",
+                "Tais empreendimentos, que fortalecem a conectividade entre o Brasil e o continente africano, em especial em seu lado oriental, podem ter um impacto significativo no escoamento de bens e produtos, além de abrir novas oportunidades de negócios. Países como Quênia, Tanzânia e Uganda têm demonstrado crescimento econômico expressivo, tornando-se destinos atraentes para exportadores e investidores brasileiros.",
+                "Além dos orçamentos públicos nacionais, bancos regionais de fomento, como a CAF, o BID e o FONPLATA, além do BNDES, também colaboram com esses esforços, e poderão destinar, nos próximos anos, mais de US$ 10 bilhões em empréstimos para projetos voltados à integração sul-americana.",
+                "Senhoras e senhores,",
+                "Queremos incentivar o empresário brasileiro a investir na África e atrair o empresário da África para participar da economia brasileira.",
+                "Segundo dados mais atualizados do Banco Central, o estoque de Investimento Estrangeiro Direto de países africanos no Brasil mais do que triplicou em anos recentes, saltando de US$ 2,3 bilhões, em 2021, para US$ 7,2 bilhões, em 2022.",
+                "Exemplos de investimentos africanos anunciados no país incluem a expansão do Terminal 3 do Aeroporto Internacional de Guarulhos (SP), por companhia da África do Sul, e fábrica de fertilizantes no Maranhão, por empresa do Marrocos.  Já o estoque de investimentos do Brasil na África alcançou US$ 2,1 bilhões em 2022, sendo Angola, até o presente, o maior destino desses investimentos.",
+                "Também é notável a expansão para o continente de empresas brasileiras como a WEG, que, presente na região há muitos anos, abriu uma fábrica de motores elétricos na Argélia. A Embraer conta com um centro de treinamento regional em Joanesburgo, investimento que contribui para impulsionar vendas da empresa brasileira. A Positivo estabeleceu fábrica de informática em Ruanda e o Grupo Miramar de comunicação inaugurou nova sede regional em Maputo.",
+                "Neste ano de 2024, a Petrobras adquiriu a participação em três blocos exploratórios de petróleo e gás na Zona Econômica Exclusiva de São Tomé e Príncipe. A operação, que marca a retomada da atividade exploratória da empresa brasileira no continente africano, está em sintonia com os objetivos do governo do presidente Lula de aumentar nossa presença no continente africano.",
+                "A relação comercial entre o Brasil e o continente vem retomando ritmo de expansão. A ApexBrasil tem hoje 14 projetos setoriais com foco em sete países africanos. No Mapa de Oportunidades, uma ferramenta gratuita disponibilizada pela Apex, são identificadas 5.848 oportunidades para exportações brasileiras nos 54 países africanos, cobrindo grande variedade de setores, como alimentos e bebidas, petróleo, minério de ferro, veículos e manufaturas de ferro ou aço.",
+                "Com o objetivo de diversificar mercados e ampliar o fluxo comercial, o Ministério das Relações Exteriores realizou em 2023 missões empresariais ao Egito, Quênia e Etiópia. Em agosto último, nova missão empresarial brasileira esteve na Namíbia, em Botsuana, em Moçambique e na Tanzânia.",
+                "Graças a gestões do Ministério das Relações Exteriores e de outros órgãos do governo federal, novos mercados africanos foram abertos a produtos brasileiros. Como exemplo, menciono o Egito, com algodão, feijão, carne, frango e laticínios. Na Argélia, houve abertura para importação de bovinos vivos, no Marrocos, para pescados e material genético avícola e, na Zâmbia, também para bovinos vivos e material genético bovino.",
+                "A recente inclusão da cooperação econômica e empresarial como quarto pilar da Comunidade dos Países de Língua Portuguesa (CPLP) abre, por sua vez, novas perspectivas, que o Brasil participará com grande interesse.",
+                "Senhoras e senhores,",
+                "De 2024 a 2026, o Brasil está organizando sequência de grandes eventos de importância para os países em desenvolvimento, em geral, e os países africanos, em particular, como o G20, em 2024, a Cúpula do BRICS e a COP30, em 2025, além da reunião ministerial da Zona de Paz e Cooperação do Atlântico Sul, a ZOPACAS, em 2026.",
+                "Abro um breve parêntese para destacar a importância da ZOPACAS, estabelecida em 1986 com o objetivo de promover a cooperação regional, a manutenção da paz e a segurança dos 24 países do Atlântico Sul em ambas as margens do continente americano e do continente africano. Sua atuação é fundamental para a promoção da segurança marítima e o desenvolvimento sustentável na região. As recentes instabilidades no Golfo da Guiné, por exemplo, reforçam a necessidade de intensificar a cooperação e as iniciativas conjuntas entre os países que compartilham esse entorno estratégico.",
+                "A presidência brasileira do G20 tem conferido grande prioridade ao continente africano. O documento sobre os bancos multilaterais de desenvolvimento, que visa a torná-los melhores, maiores e mais eficazes, está prestes a ser aprovado, o que gerará efeitos positivos para a África.",
+                "Como presidente do G20, o Brasil convidou Angola, Egito e Nigéria a participarem das reuniões que têm ocorrido ao longo deste ano. A entrada da União Africana como membro pleno do G20, iniciada durante a presidência brasileira, contou com o apoio do Brasil, assim como a adesão do Egito e da Etiópia ao BRICS.",
+                "Juntamente com a União Africana, temos alertado sobre o problema do endividamento. Como bem disse o Presidente Lula, o que vemos hoje é uma absurda exportação líquida de recursos dos países mais pobres para os países mais ricos. Um “Plano Marshall às avessas”. Não há como investir em educação, saúde ou adaptação à mudança do clima se parte expressiva do orçamento é consumida pelo serviço da dívida.",
+                "Outra questão que se coloca é a da taxação dos super-ricos. Se os 3 mil bilionários do planeta pagassem 2% de impostos sobre o rendimento das suas fortunas, poderíamos gerar recursos suficientes para alimentar as 340 milhões de pessoas que, segundo a FAO, enfrentam insegurança alimentar severa na África.",
+                "Essa proposta, além de ser moralmente inatacável, também faz sentido do ponto de vista econômico. Taxar os super-ricos redistribuirá recursos de maneira mais eficiente pelo mundo. Tanto é, que boa parte dos chamados super-ricos apoia essa medida, conforme várias pesquisas de opinião recentes.",
+                "A Aliança Global contra a Fome e a Pobreza, proposta pelo Brasil como presidente do G20, tem recebido apoio de diversos países africanos. Assim como nós, eles enxergam na iniciativa uma possibilidade de erradicar a fome e a pobreza, reduzir as desigualdades e contribuir para revitalizar parcerias globais para o desenvolvimento sustentável.",
+                "Imaginem o enorme potencial - até agora represado - que será liberado na África e no Brasil e em outros países do Sul Global, se conseguirmos erradicar a fome e a pobreza no mundo até 2030. Imaginem como não vão desabrochar nossas populações, quando não tiverem de se preocupar com o que vão comer no dia seguinte, mas puderem canalizar sua energia, seu talento e sua criatividade para a solução de grandes problemas atuais, como o da crise climática.",
+                "Senhoras e senhores,",
+                "Quero falar um pouco também sobre os instrumentos de cooperação do Brasil, que abrangem áreas como cultura, formação e desenvolvimento científico e industrial. São eles a Agência Brasileira de Cooperação (ABC), o Instituto Guimarães Rosa (IGR), a Agência Brasileira de Promoção de Exportações e Investimentos (ApexBrasil), a Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA), a Fundação Oswaldo Cruz (FIOCRUZ) e o Serviço Nacional de Aprendizagem Industrial (SENAI). Vale destacar que a ABC e o IGR fazem parte da estrutura do Ministério das Relações Exteriores.",
+                "Nossa cooperação técnica remonta a mais de três décadas e mantém sólido compromisso de horizontalidade. Um terço dos cerca de 700 projetos de cooperação atualmente executados pelo Brasil encontram-se no continente africano, com posição de destaque para os Países Africanos de Língua Oficial Portuguesa (PALOPs). Moçambique é o maior beneficiário da cooperação brasileira com recursos da ABC na África, cobrindo áreas diversificadas, como saúde, agricultura, educação, formação profissional, entre outros, além de projetos estruturantes.",
+                "Mas a cooperação técnica do Brasil com a África pode e deve ser uma via de mão dupla. Há diversas áreas, como a medicina tropical e o combate a doenças negligenciadas, em que temos muito a aprender com nossos parceiros africanos.",
+                "De igual maneira, vemos grandes sinergias na área educacional.",
+                "A participação de estudantes africanos nos programas de mobilidade acadêmica do Brasil, especialmente no Programa de Estudantes-Convênio (PEC), tem fortalecido os laços históricos e culturais que nos unem. A interação de estudantes e professores brasileiros com os milhares de jovens africanos que passaram por nossas universidades nas últimas décadas vem fomentando diálogo intercultural que é crucial para a construção de uma sociedade mais inclusiva e global.",
+                "O Ministério das Relações Exteriores está particularmente engajado, lado a lado com o Ministério da Educação, em modernizar e ampliar os programas e oportunidades de mobilidade acadêmica e de cooperação educacional.",
+                "Continuamos buscando parcerias para expandir as possibilidades de bolsas de estudo e de financiamento para potenciais participantes dos programas que não tenham condições financeiras de vir ao Brasil. Como resultado, temos em 2024 um número recorde de candidatos do continente africano para cursos de graduação no Brasil. Essa demanda histórica corresponde ao também recorde de vagas oferecidas pelas universidades brasileiras: 109 universidades públicas e privadas em todas as unidades da federação ofereceram mais de 8.000 vagas para cursos de graduação do Programa de Estudantes-Convênio.",
+                "E aqui eu gostaria de fazer menção ao Instituto Brasil África, que, no papel de facilitador da aproximação entre o Brasil e o continente africano, desenvolve um ecossistema de formação técnica com diversos programas voltados para o treinamento de jovens profissionais africanos. Um deles é o “Programa de Treinamento Técnico de Jovens” (“Youth Technical Training Program”) (YTTP, na sigla em inglês), que utiliza metodologia e materiais voltados para o desenvolvimento profissional e com foco na transferência de conhecimento, habilidades e tecnologias nas quais o Brasil é referência mundial.",
+                "Na edição deste ano, o YTTP deverá receber mil jovens de países africanos, para treinamentos no Brasil, em áreas como agricultura, desenvolvimento rural, saúde, educação, tecnologia da informação, esporte e empreendedorismo.",
+                "Senhoras e senhores,",
+                "Como se vê, a agenda é intensa – e com imenso potencial. A retomada da política para a África pelo governo do Presidente Lula em seu terceiro mandato representa uma visão integrada e equilibrada de nossa política externa, na medida em que está associada à universalidade e à retomada de políticas internas. A África é hoje tema, direta ou indiretamente, de praticamente todas as pastas do governo.",
+                "Como bem apontou o presidente Lula no discurso de abertura da 37a Cúpula da União Africana, em fevereiro deste ano, “não há Sul Global sem a África”. Por isso, “retomar a aproximação do Brasil com a África é recuperar laços históricos e contribuir para a construção de uma nova ordem mundial, mais justa e solidária”. Contem com o Ministério das Relações Exteriores para tanto. Essa é nossa missão.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Discurso do presidente Lula em Sessão Plenária Aberta da XVI Cúpula do BRICS, na Rússia",
+            "subtitulo": "Discurso lido e transmitido para a Sessão Plenária Aberta da Cúpula do BRICS, realizada em Kazan (Rússia), no dia 23 de outubro de 2024",
+            "data": "23/10/2024",
+            "horario": "10h01",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h24"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/discurso-do-presidente-lula-em-sessao-plenaria-aberta-da-xvi-cupula-do-brics-na-russia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Mesmo sem estar pessoalmente em Kazan, quero registrar minha satisfação em me dirigir aos companheiros do BRICS. Quero agradecer o apoio que os membros do grupo têm estendido à presidência brasileira do G20.",
+                "Seu respaldo foi fundamental para avançar em iniciativas que são cruciais para a redução das desigualdades, como a taxação de super-ricos.",
+                "Nossos países implementaram nas últimas décadas políticas sociais exitosas que podem servir de exemplo para o resto do mundo.",
+                "A Aliança Global contra a Fome e a Pobreza já está em fase avançada de adesões.",
+                "Convido todos a se somarem à iniciativa, que nasceu no G20, mas está aberta a outros participantes.",
+                "O BRICS é ator incontornável no enfrentamento da mudança do clima.",
+                "Não há dúvida de que a maior responsabilidade recai sobre os países ricos, cujo histórico de emissões culminou na crise climática que nos aflige hoje.",
+                "É preciso ir além dos 100 bilhões anuais prometidos e não cumpridos, e fortalecer medidas de monitoramento dos compromissos assumidos.",
+                "Os dados da ciência exprimem um sentido de urgência sem precedentes.",
+                "O planeta é um só e seu futuro depende da ação coletiva.",
+                "Também cabe aos países emergentes fazer sua parte para limitar o aumento da temperatura global a um grau e meio.",
+                "Na COP 30, em Belém, vamos juntos mostrar que é possível conciliar maior ambição em nossas Contribuições Nacionalmente Determinadas com o princípio das responsabilidades comuns, mas diferenciadas.",
+                "Na presidência brasileira do BRICS, queremos reafirmar a vocação do bloco na luta por um mundo multipolar e por relações menos assimétricas entre os países.",
+                "Não podemos aceitar a imposição de “apartheids” no acesso a vacinas e medicamentos, como ocorreu na pandemia, nem no desenvolvimento da Inteligência Artificial, que caminha para tornar-se privilégio de poucos.",
+                "Precisamos fortalecer nossas capacidades tecnológicas e favorecer a adoção de marcos multilaterais não excludentes, em que a voz dos governos prepondere sobre interesses privados.",
+                "O BRICS foi responsável por parcela significativa do crescimento econômico mundial nas últimas décadas.",
+                "Juntos, somos mais de 3,6 bilhões de pessoas, que integram mercados dinâmicos com elevada mobilidade social.",
+                "Representamos 36% do PIB global por paridade de poder de compra. Contamos com 72% das terras raras do planeta, 75% do manganês e 50% do grafite.",
+                "Entretanto, os fluxos financeiros continuam seguindo para nações ricas.",
+                "É um Plano Marshall às avessas, em que as economias emergentes e em desenvolvimento financiam o mundo desenvolvido.",
+                "As iniciativas e instituições do BRICS rompem com essa lógica.",
+                "A atuação do Conselho Empresarial contribuiu para ampliar o comércio entre nós.",
+                "As exportações brasileiras para os países do BRICS cresceram doze vezes entre 2003 e 2023.",
+                "O BRICS é hoje a origem de quase um terço das importações do Brasil.",
+                "A Aliança Empresarial de Mulheres está criando redes para fomentar o empoderamento econômico feminino e combater as desigualdades de gênero que persistem.",
+                "Por meio do Mecanismo de Cooperação Interbancária, nossos bancos nacionais de desenvolvimento vão estabelecer linhas de crédito em moedas locais, que reduzirão os custos de transação de pequenas e médias empresas.",
+                "O Novo Banco de Desenvolvimento (o NDB), que neste ano completa dez anos, tem investido na infraestrutura necessária para fortalecer nossas economias e promover uma transição justa e soberana.",
+                "Sob a liderança da companheira Dilma Rousseff, o NDB conta atualmente com uma carteira de quase 100 projetos e com financiamentos da ordem de 33 bilhões de dólares.",
+                "Ele foi pensado para ser bem-sucedido onde as instituições de Bretton Woods continuam falhando.",
+                "Em vez de oferecer programas que impõem condicionalidades, o NDB financia projetos alinhados a prioridades nacionais.",
+                "Em vez de aprofundar disparidades, sua governança se assenta na igualdade de voto.",
+                "Agora é chegada a hora de avançar na criação de meios de pagamento alternativos para transações entre nossos países.",
+                "Não se trata de substituir nossas moedas. Mas é preciso trabalhar para que a ordem multipolar que almejamos se reflita no sistema financeiro internacional.",
+                "Essa discussão precisa ser enfrentada com seriedade, cautela e solidez técnica, mas não pode ser mais adiada.",
+                "Muitos insistem em dividir o mundo entre amigos e inimigos. Mas os mais vulneráveis não estão interessados em dicotomias simplistas.",
+                "O que eles querem é comida farta, trabalho digno e escolas e hospitais públicos de acesso universal e de qualidade.",
+                "É um meio ambiente sadio, sem eventos climáticos que ponham em risco sua sobrevivência.",
+                "É uma vida de paz, sem armas que vitimam inocentes.",
+                "Como disse o presidente Erdogan na Assembleia Geral da ONU, Gaza se tornou “o maior cemitério de crianças e mulheres do mundo”.",
+                "Essa insensatez agora se alastra para a Cisjordânia e para o Líbano.",
+                "Evitar uma escalada e iniciar negociações de paz também é crucial no conflito entre Ucrânia e Rússia.",
+                "No momento em que enfrentamos duas guerras com potencial de se tornarem globais, é fundamental resgatar nossa capacidade de trabalhar juntos em prol de objetivos comuns.",
+                "Por isso, o lema da presidência brasileira será “Fortalecendo a Cooperação do Sul Global para uma Governança mais Inclusiva e Sustentável”.",
+                "Companheiros, espero vê-los na próxima Cúpula para construir mais um capítulo da nossa história comum.",
+                "Muito obrigado presidente Putin e muito obrigado aos companheiros que estão em Kazan."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "maria-laura-da-rocha-2023"
+            ],
+            "titulo": "Discurso da Secretária-Geral das Relações Exteriores no lançamento da candidatura do Brasil à Organização Ibero-Americana da Juventude",
+            "subtitulo": "NA",
+            "data": "30/10/2024",
+            "horario": "16h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "31/10/2024"
+            ],
+            "horario_atualizado": [
+                "16h39"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/maria-laura-da-rocha-2023/discurso-da-secretaria-geral-das-relacoes-exteriores-no-lancamento-da-candidatura-do-brasil-a-organizacao-ibero-americana-da-juventude",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Sejam muito bem-vindos!",
+                "Saúdo especialmente todos os jovens, cuja presença, hoje, no Itamaraty, é muito importante.",
+                "Estamos cada vez mais seguros do papel fundamental e estratégico a ser desempenhado pela juventude nas discussões sobre temas da agenda internacional.",
+                "Necessitamos contar com a contribuição e participação dos jovens nos processos de tomada de decisão, de modo a orientar a ação de todos os países. Não há como falar em mudança climática, reforma da governança global, Agenda 2030 e tantos outros temas sem a efetiva presença dos jovens.",
+                "Precisamos trabalhar juntos para ampliar cada vez mais nossa capacidade de articulação com as representações e lideranças da juventude.",
+                "Nesse sentido, a candidatura do brasileiro Alexandre Pupo à Secretaria-Geral da Organização Ibero-Americana da Juventude, que temos a satisfação de lançar neste evento, constitui oportunidade para reafirmar a importância de fortalecer essa valiosa rede da juventude, em particular na comunidade ibero-americana. Ao compartilhar sua trajetória e perspectiva, Alexandre Pupo demonstrará o potencial da cooperação a ser desenvolvida no âmbito da Organização, com o pleno apoio do governo brasileiro.",
+                "Há muito a fazer para ampliar a participação da juventude. Temos algumas boas práticas e resultados concretos. Em agosto, na Cúpula do Y20 - que é o grupo de engajamento de jovens do G20 - as lideranças da juventude trataram de questões fundamentais e publicaram comunicado com enfoque em temas como (i) o sistema de governança global; (ii) o combate à fome e à pobreza; (iii) a eliminação da desigualdade; (iv) a mudança climática, a transição energética e o desenvolvimento sustentável; (v) a inovação e o futuro do trabalho.",
+                "O Brasil inovou ao contar com a valiosa contribuição de jovens repórteres na cobertura de notícias do G20, disponível na página do agrupamento na Internet. Essa iniciativa da Secretaria de Comunicação da Presidência da República permitiu que estudantes da rede pública de ensino produzissem conteúdo jornalístico sobre vários eventos. Ao publicarem matérias e trazerem seus questionamentos sobre os assuntos mais relevantes para o futuro do planeta, esses alunos e alunas também divulgam o G20 junto a suas comunidades e famílias e compartilham novas perspectivas sobre a agenda internacional no âmbito da sociedade brasileira.",
+                "Nas Nações Unidas, a juventude também ganha protagonismo. Tive a satisfação de receber, no Itamaraty, há poucos meses, o Subsecretário-geral Adjunto da ONU para temas da juventude, o uruguaio Felipe Paullier, que atua para promover o engajamento significativo, inclusivo e eficaz de jovens e organizações lideradas por jovens.",
+                "Em setembro, no contexto da semana de alto nível da Septuagésima Nona Assembleia Geral da ONU, os líderes mundiais celebraram o Pacto para o Futuro, acordo internacional de grande relevância diante dos desafios atuais.",
+                "O capítulo sobre juventude do Pacto firmou o compromisso (i) de investir no desenvolvimento social e econômico dos jovens; (ii) de promover, proteger e respeitar os direitos humanos; e (iii) de incentivar a sua inclusão e integração na sociedade.",
+                "Jovens entre 15 e 29 anos no Brasil, hoje, representam cerca de um quarto de toda a população e quase um terço da juventude ibero-americana. São os desafios comuns que nos mobilizam a fortalecer o trabalho da OIJ, mediante o lançamento da candidatura de Alexandre Pupo.",
+                "O Brasil entende que pode contribuir para o fortalecimento da Organização, que é o único organismo internacional orientado especificamente para a juventude. Esse objetivo implica ampliar o diálogo, a participação e a cooperação, tornando a OIJ referência global em matéria de juventude. Trata-se de projeto coletivo, a ser realizado com a presença efetiva dos jovens de toda a comunidade ibero-americana.",
+                "Reitero a confiança do Brasil nos jovens. A construção de um futuro mais justo e sustentável somente é possível com o empenho da juventude, sua energia, seu dinamismo, sua coragem e sua criatividade.",
+                "Muito obrigada."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "maria-laura-da-rocha-2023"
+            ],
+            "titulo": "Discurso da Ministra, substituta, das Relações Exteriores na sessão de abertura da Reunião Ministerial de Comércio e Investimentos do G20",
+            "subtitulo": "NA",
+            "data": "25/10/2024",
+            "horario": "09h35",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/maria-laura-da-rocha-2023/discurso-da-ministra-substituta-das-relacoes-exteriores-na-sessao-de-abertura-da-reuniao-ministerial-de-comercio-e-investimentos-do-g20",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "É uma honra para o Ministério das Relações Exteriores ser coanfitrião da Reunião Ministerial de Comércio e Investimentos do G20.",
+                "A presidência brasileira do G20, como sabem, faz parte de uma sequência em que quatro países em desenvolvimento presidem o grupo.",
+                "Aproveito para agradecer à Índia e à África do Sul pelo apoio que prestaram ao Brasil, como membros da Troika, ao longo de todo o ano.",
+                "Destaco esse ponto também para ressaltar que os países em desenvolvimento vêm assumindo responsabilidades crescentes na busca de soluções para os desafios de nosso tempo.",
+                "Na trilha de comércio e investimentos do G20, essa questão se apresenta claramente a partir da premência dos temas que discutiremos hoje.",
+                "Trataremos aqui de temas relacionados à inclusão social e à equidade de gênero no comércio internacional; à sinergia necessária entre comércio, investimento e o desenvolvimento sustentável; e ao apoio ao multilateralismo e à reforma da Organização Mundial do Comércio.",
+                "Ao longo do ano, nossas equipes trabalharam com afinco e de forma colaborativa para construir um ambiente propício não apenas ao comércio justo e à atração de investimentos de qualidade, mas também ao crescimento inclusivo e sustentável, em linha com a Agenda 2030.",
+                "Agradeço a todos pelo incansável empenho e, especialmente, aos nossos queridos países convidados, que trouxeram uma perspectiva mais ampla e diversa para nossos debates.",
+                "Agradeço, igualmente, às organizações internacionais convidadas, que contribuíram com sua experiência e seus conhecimentos especializados.",
+                "Estou segura de que a discussão, pelo G20, dos temas selecionados realça a importância da cooperação internacional e do multilateralismo e reforça nosso compromisso compartilhado de navegar, com senso de urgência e pragmatismo, o intrincado cenário do comércio e dos investimentos internacionais.",
+                "Se pretendemos responder a desafios globais, como tensões geopolíticas, fragmentação do comércio, corridas protecionistas e aumento da pobreza e das desigualdades, e se pretendemos que essas respostas tenham verdadeiro alcance global, o multilateralismo precisa ser fortalecido.",
+                "Além disso, é importante lembrar que os temas da trilha de comércio e investimentos refletem as três prioridades da presidência brasileira do G20: a inclusão social e o combate à pobreza e à fome; a transição energética e o desenvolvimento sustentável em todos os seus três pilares; e a reforma das instituições de governança global.",
+                "A trilha de comércio e investimentos também logrou cumprir outro importante objetivo ao qual se propôs a presidência brasileira: promover o diálogo com a sociedade civil e sua participação nas atividades do grupo.",
+                "As contribuições da comunidade empresarial, por meio da parceria com o B20, enriqueceram os debates e confirmaram que os temas escolhidos neste ano estão alinhados com as preocupações e com os interesses da sociedade civil.",
+                "Também agradeço a colaboração do B20 e do W20 para a prioridade que atribuímos ao incremento da participação das mulheres no comércio internacional.",
+                "Eu os convido a fazer suas considerações sobre os quatro temas de trabalho da trilha de comércio e investimentos, reconhecendo os desafios presentes, mas com os olhos voltados para o futuro.",
+                "Da parte do Brasil, acreditamos que a única maneira eficaz de construir um futuro promissor para o planeta que compartilhamos é garantindo a participação de todos, principalmente daqueles mais vulneráveis, em bases equitativas.",
+                "Desejo a todos um dia muito proveitoso de discussões.",
+                "Muito obrigada."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "maria-laura-da-rocha-2023"
+            ],
+            "titulo": "Discurso da Secretária-Geral, Embaixadora Maria Laura da Rocha, na  XI Reunião Anual de Avaliação do Programa de Cooperação Sul-Sul Brasil-OIT",
+            "subtitulo": "NA",
+            "data": "15/10/2024",
+            "horario": "11h31",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/maria-laura-da-rocha-2023/discurso-da-secretaria-geral-emb-maria-laura-da-rocha-na-abertura-da-xi-reuniao-anual-de-avaliacao-do-programa-de-cooperacao-sul-sul-brasil-oit",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Senhoras e senhores, bem-vindas e bem-vindos a esta cerimônia de abertura da XI Reunião Anual de Avaliação do Programa de Cooperação Sul-Sul Brasil-Organização Internacional do Trabalho (OIT).",
+                "Agradeço à Agência Brasileira de Cooperação (ABC), deste Ministério das Relações Exteriores, e à OIT pela organização deste evento.",
+                "Cumprimento o Senhor Wellington Dias, Ministro do Desenvolvimento, Assistência Social, Família e Combate à Fome, o Senhor Francisco Macena, Secretário Executivo do Ministério do Trabalho e Emprego, o Senhor Alessandro Pereira Lordêllo, Diretor do Departamento de Políticas de Saúde e Segurança Ocupacional, do Ministério da Previdência Social, e o Embaixador Ruy Pereira, Diretor da ABC.",
+                "Cumprimento, igualmente, o Senhor Antônio Lisboa, representante dos trabalhadores e Secretário de Relações Internacionais da Central Única dos Trabalhadores - a CUT -, e o Senhor Pablo Carneiro, representante dos empregadores e Gerente de Assuntos Trabalhistas da Confederação Nacional da Indústria (CNI).",
+                "A singularidade da OIT, ao ser a única Organização das Nações Unidas que congrega, além de representantes governamentais, representantes de empregadores e empregados, certamente enriquece o debate e nossa reflexão conjunta sobre temas importantes do mundo do trabalho e da justiça social. Assim ganhamos em pluralidade e possibilidade de convergência das nossas iniciativas e ações.",
+                "Ao estender os meus cumprimentos aos representantes da OIT aqui presentes na pessoa da Senhora Ana Virginia Moreira Gomes, Diretora Regional da Organização para a América Latina e o Caribe, saúdo e agradeço a parceria que desenvolvemos com a OIT em tantas áreas e, há quinze anos, na modalidade Sul-Sul trilateral.",
+                "Para o Brasil, a cooperação Sul-Sul, ao longo das últimas décadas, tornou-se um elemento-chave para a promoção do desenvolvimento sustentável em todas as suas dimensões. Essa modalidade de cooperação tem permitido a capacitação de instituições públicas nacionais para interação com entes congêneres estrangeiros e a concepção de formatos inovadores de parcerias, favorecendo o estabelecimento, no âmbito do mandato da OIT, de uma rede global que reflete o compromisso do Brasil com a solidariedade internacional e a redução das desigualdades, também no mundo do trabalho.",
+                "O Brasil conduz suas ações de cooperação pelo mandato da Constituição Federal, que prevê a cooperação internacional “para o progresso da humanidade”. Buscamos, assim, uma ordem internacional mais justa, em favor da paz e da prosperidade dos povos.",
+                "Em cumprimento a esse mandato constitucional, o Governo brasileiro, por meio da ABC e em parceria com ministérios e órgãos públicos, tem contribuído significativamente para o desenvolvimento sustentável e inclusivo de países em desenvolvimento e de menor desenvolvimento relativo, por meio de projetos de cooperação bilateral e trilateral.",
+                "O modelo de cooperação Sul-Sul desenvolvido pelo Brasil, pautado na horizontalidade, solidariedade, não condicionalidade, troca de conhecimentos e governança compartilhada, prioriza temas como a erradicação da fome e da pobreza, o desenvolvimento socioeconômico e tecnológico e a promoção do trabalho decente, como estratégia para o desenvolvimento.",
+                "Nesse sentido, recordo o engajamento do Governo brasileiro à recém-lançada Coalizão Global para a Justiça Social. Foi com grande satisfação que o Presidente Lula participou, em junho deste ano, da 112ª (centésima décima segunda) Conferência Internacional do Trabalho, em Genebra, para o lançamento da Coalizão Global, a qual copreside, juntamente com o Diretor Geral da OIT, Gilbert Houngbo.",
+                "A Coalizão Global busca coordenar esforços de seus integrantes e de outros parceiros internacionais para a promoção da agenda de trabalho decente e o enfrentamento das desigualdades sociais, com foco na consecução dos Objetivos de Desenvolvimento Sustentável da Agenda 2030. Atualmente, já soma 263 associados, entre governos, representações dos trabalhadores e dos empregadores, organizações internacionais e regionais, organizações não governamentais, instituições acadêmicas e empresas.",
+                "O Brasil, membro fundador da OIT e um dos Estados que mais ratificou convenções internacionais do trabalho, tem a Coalizão Global como iniciativa capaz de priorizar a justiça social nas grandes discussões internacionais e abrir novas frentes de cooperação em políticas sociais.",
+                "Não por acaso, o Programa de Cooperação Sul-Sul Brasil-OIT tem novo marco programático intitulado “Justiça Social para o Sul Global”, lançado ainda em junho de 2023 e totalmente alinhado às prioridades estratégicas tanto da OIT quanto do País.",
+                "Senhoras e Senhores,",
+                "A cooperação brasileira só encontra sua tradução completa na prática graças à colaboração incansável dos ministérios que nos acompanham. Agradeço ao Ministério do Trabalho e Emprego, ao Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome e ao Ministério da Previdência Social pelo compartilhamento do nosso mais valioso ativo, que é o conhecimento, para fazer com que o nosso Programa tenha, efetivamente, impacto concreto e positivo na vida das pessoas.",
+                "Desejo uma reunião produtiva, para que o nosso Programa com a OIT possa prosperar e evidenciar ainda mais as virtudes desse modelo de cooperação internacional para o desenvolvimento sustentável, em especial para os países do Sul Global.",
+                "Muito obrigada!"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "CNN Entrevistas com Mauro Vieira, ministro das Relações Exteriores - 13 de outubro de 2024",
+            "subtitulo": "NA",
+            "data": "13/10/2024",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "06/03/2025"
+            ],
+            "horario_atualizado": [
+                "13h33"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/mauro-vieira-2023/cnn-entrevistas-com-mauro-vieira-ministro-das-relacoes-exteriores-13-de-outubro-de-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Daniel Rittner: Olá, sejam todos muito bem-vindos ao CNN Entrevistas. Eu sou Daniel Rittner, ao lado de Jussara Soares, entrevistou o ministro das Relações Exteriores, Mauro Vieira. Formado em Direito pela Universidade Federal Fluminense e pelo Instituto Rio Branco, Mauro Vieira tem quase 52 anos de carreira a serviço da política externa do país. Foi embaixador do Brasil na Argentina, nos Estados Unidos, representante permanente do país nas Nações Unidas, em Nova Iorque e, mais recentemente, embaixador do Brasil na Croácia.",
+                "Já havia sido ministro das Relações Exteriores entre 2015 e 2016, no governo Dilma Rousseff, cargo que voltou a desempenhar desde janeiro do ano passado, indicado pelo presidente Lula. Desde então, vem conduzindo a diplomacia brasileira em um cenário internacional cada vez mais desafiador e, eu diria, até hostil. O chanceler Ministro Mauro Vieira, muito obrigado pela sua presença. Entrevista aqui conosco.",
+                "Ministro Mauro Vieira: Eu que agradeço o convite.",
+                "D.R: Passo a bola imediatamente aqui para a Jussara Soares começar.",
+                "Jussara Soares: Obrigada, Ministro pela sua presença. E vamos começar falando justamente da operação de repatriação dos brasileiros no Líbano. Agora são o senhor disse nesta semana que são 7000 brasileiros interessados em voltar ao país. Qual é a previsão de quantos voos serão necessários para trazer os brasileiros que estão lá?",
+                "E queria saber também se o governo estuda a possibilidade de evacuar esses brasileiros que estão lá para outros países vizinhos. Na impossibilidade de continuar fazendo esses voos.",
+                "Pois não há esse número de 7500 ou 7000. É resultado dos contatos que a Embaixada do Brasil no Líbano, em Beirute, mantém regularmente com a comunidade brasileira. São cerca de 20.000 brasileiros que vivem no Líbano com o cônjuge brasileiro, com cônjuges libaneses, com filhos nascidos no Líbano ou com parentes libaneses.",
+                "E então é uma comunidade muito grande e que tem um contato constante com a embaixada. A embaixada vem trabalhando sobre a possibilidade dessa operação de repatriação já há algum tempo. Não é de agora, já tem alguns meses, eu diria desde julho agosto, quando vimos que a situação no Oriente Médio estava cada vez mais tensa e a resposta dos que manifestaram uma intenção de vir é em torno de 7000.",
+                "Mas isso não quer dizer que sejam 7000, porque agora, depois que começamos, a intenção não é a operação. Nós temos consultado diretamente as pessoas que responderam a esses questionários e até agora nós temos um horizonte de cerca de 3000. Serão necessários no mínimo dez, doze voos, como foi o caso da operação. Essa é a segunda operação de repatriação nesse terceiro mandato do presidente Lula.",
+                "No ano passado, nós tivemos que executar também uma operação semelhante na Palestina, na Faixa de Gaza e também em Israel. Foram 1560 pessoas, aproximadamente com 12 voos. Eu acredito que seja mais ou menos o número e é esse a esses brasileiros que estão no Líbano têm possibilidades diferentes. O aeroporto do Líbano, de Beirute, ainda está aberto, com voos da companhia libanesa para a Europa.",
+                "Os que têm possibilidades, a embaixada tem e é desejada desde o início da operação, sugerindo que partam por meios próprios. E então há essa possibilidade que partam pela Europa e depois de lá, para o Brasil, algum desse desses números. Então isso só se vai saber exatamente a cada voo, quando se começa a contatar os eventuais passageiros.",
+                "D.R: Ministro, a gente gostaria de analisar mais detidamente com o senhor essa escalada no conflito no Oriente Médio, porque nunca havíamos visto, por exemplo, antes de tudo o que aconteceu, um ataque do Irã a Israel ou às sanções? Os ataques, as operações que Israel tem feito dessa magnitude. Já se pode dizer que a gente tem um conflito total no Oriente Médio ou o alerta vermelho ainda não acendeu? A gente está a um passo ainda, a quem disso?",
+                "Olha, essa situação é muito grave e veio escalando essa semana, na segunda feira, completamos 365 dias do ataque do Hamas, do ataque classificado pelo Brasil como ataque terrorista e que vitimou um número grande de cidadãos israelenses.",
+                "Nós também criticamos a questão da reação de Israel, que é desproporcionada, sem dúvida nenhuma. Agora víamos também que isso estava se expandindo para outras regiões, para o Líbano já há algum tempo. Não foi manchete de televisão ou de jornais, mas já há vários meses, já desde o início do ano, a linha azul da ONU tinha sido desrespeitada e já havia presença de Israel dentro do território libanês. Então isso nos levou a preparar com muito cuidado e antecedência essa operação para justamente atender a necessidade dos brasileiros. Eu quero crer que ainda tenhamos possibilidades de negociar alguma coisa, seja na ONU, seja com os principais atores políticos na região que possam frear essa ação. Iniciativa essa, essa onda de violência, que se possa ter um acordo de cessar fogo e que, sobretudo, se possa dar atenção aos mais necessitados e possa dar assistência humanitária.",
+                "E ainda a questão dos reféns israelenses em mãos, que ainda há cerca de 80 de 100, não tenho certeza, ainda são reféns do Hamas. Eu acho que todo este conjunto que espero que seja objeto de uma negociação importante entre os atores da região e com, evidentemente, o apoio das Nações Unidas. Eu acho que é indispensável se fortalecer e dar voz ativa à nação, às Nações Unidas nesse conflito, porque com armas nós não somos solucionarmos esse problema. Nós somos favoráveis à solução de dois estados entre Israel e Palestina. E pela força não chegaremos lá.",
+                "J.S: Tem uma questão que o Brasil defende a solução de dois Estados. Mas a gente está vivendo um conflito entre Israel. Mas há um ano e estamos com traumas tanto do lado israelense quanto do lado palestino. Ainda é possível acreditar que essa solução de dois estados ela é possível?",
+                "Ela é possível ou ela está consolidada nas resoluções da ONU e uma posição também consolidado de muitíssimos países em todos os continentes e temos que continuar pedindo essa solução de dois Estados e ajudando, colaborando para que isso possa acontecer. Mas para o Brasil é a única solução possível. Não há possibilidade de se ter paz na região se você não tiver dois estados convivendo da melhor forma possível, em paz e cada qual se ocupando de suas respectivas coisas.",
+                "",
+                "D.R: Essa é a solução ideal. O Brasil defende historicamente essa, essa posição. Ela está consolidada em resoluções da ONU, mas na vida real existe um ressentimento muito grande de lado a lado, principalmente depois do 7 de outubro do ano passado. Porque, claro, os israelenses têm mais desconfianças em relação aos palestinos e vice-versa. Por razões que são legítimas. Além disso, o senhor esteve recentemente duas vezes, aliás, mas esteve recentemente ali na região dos conflitos e seus interlocutores me relatavam que, num sobrevoo, ficaram muito impressionados ali com a quantidade de assentamentos judaicos na área da Cisjordânia que ainda está, digamos, em disputa. E tudo isso torna a solução de dois Estados um cenário ideal, mas muito improvável. Não é isso?",
+                "Olha, mas nós temos que recorrer à diplomacia. Nós temos que recorrer às sanções internacionais, à ONU. É verdade. Há uma quantidade enorme. Não sei exatamente quantos, mas há pelo menos 800.000 israelenses vivendo em assentamentos na Palestina, o que é totalmente legal pelas resoluções da ONU e inclusive pelas ações movidas na Corte Internacional de Justiça, que consideraram ilegal.",
+                "Então, eu acho que existe. Mas nós temos que trabalhar através do diálogo, da negociação, para que possa ser criado definitivamente e consolidado o Estado palestino e que sinta se resolva a questão dos assentamentos a partir daí, mas com zelo. Mas é, sem dúvida nenhuma uma questão muito clara e consolidada nos organismos internacionais, na ONU e para os Estados, que é a solução de dois Estados.",
+                "",
+                "D.R: Justo a gente dizer também que estamos hoje mais distantes da solução de dois Estados do que estávamos em 7 de outubro. Não?",
+                "Olha, a solução de dois estados é dificultada pelos assentamentos. Quanto a isso, não há dúvida nenhuma. Agora, de 7 de outubro para cá, obviamente, os ânimos estão cada vez mais acirrados. Você diz, com razão, de que há um ressentimento por parte do Estado de Israel dos israelenses, mas também já havia há muitos anos um ressentimento e uma dificuldade de parte dos palestinos.",
+                "A Faixa de Gaza esteve bloqueada e está até hoje constantemente, e a presença, inclusive de forças militares dentro da Palestina, dado que se chama de West Bank à margem ocidental, é muito grande. Então, ali há a necessidade da participação de países da ONU e dos países que querem promover a paz, justamente para aproximar as duas, os dois países, as duas populações. Para que supere essas dificuldades. É o primeiro passo para se criar um clima de entendimento e a criação de dois estados e depois resolver a questão dos assentamentos.",
+                "J.S: Isso queria trazer a informação que completamos ali quatro meses sendo embaixador do Brasil em Israel. Que condições precisa haver para que o Brasil volte a ter um embaixador? Um embaixador lá em Telavive? Tem uma possibilidade algum no horizonte de que isso possa ocorrer em algum curto prazo?",
+                "Não, por enquanto não. Nós já tiramos o embaixador porque tivemos um momento de desentendimento político com o governo do atual primeiro ministro e retiramos porque o nosso embaixador foi submetido a uma situação que não tem nada a ver com as regras diplomáticas e. Mas temos lá um embaixador, um encarregado de negócios, que é um ministro da carreira diplomática muito competente e atuante, que continua desempenhando plenamente as suas funções.",
+                "D.R: Então designação de um novo embaixador, só com uma troca, eventualmente do governo Netanyahu?",
+                "Não, vai depender. Eu acho que depende de nós. No momento, não estamos considerando.",
+                "D.R: Ministro migrando. É triste que a gente tenha que migrar de um conflito para outro na ordem internacional e falar de tantas guerras. Mas existem outras em curso. Infelizmente. Rússia, Ucrânia é uma delas. O Brasil, junto com a China, apresentou uma proposta de paz de seis pontos. Mas eu tenho a alegria de conhece-lo há muitos anos e aprendi algumas coisas nessa cobertura de Itamaraty da diplomacia. Uma delas é que quando os dois lados estão mutuamente ali, insatisfeitos com alguma proposta, isso é um ótimo sinal, porque é sinal de um acordo equilibrado e minimamente justo que a gente percebe o presidente excelente que da Ucrânia, criticando muito o Brasil. A política externa brasileira é a proposta de paz. China e Rússia, China, China, Brasil. Do lado russo, não há o mesmo nível de críticas a essa proposta. Isso não é um sinal evidente de uma proposta desequilibrada. Se um critica tanto a proposta, e o outro não critica, é porque está pendendo para um lado, não?",
+                "Não, não creio. A proposta brasileira com a China não é uma proposta, é um movimento. Foi um, foi lançado, inclusive foi lançado em Pequim, mas agora em Nova Iorque, à margem da Assembleia Geral da ONU, houve uma reunião em que estava presente o ministro do Exterior da China. Estava eu presente, estava presente o assessor especial do Presidente da República, embaixador Celso Amorim, que foi quem anunciou essa iniciativa, essa iniciativa em Pequim, essa iniciativa é apenas um conjunto de alguns poucos princípios básicos iniciais, que dariam um espaço para que se fale um pouco sobre a paz.",
+                "E ela não. Não. Expansão das áreas sobre conflito. Não há não aumento da agressão e enfim, inclusive não o não recurso a armas de destruição em massa, enfim, criar um espaço de diálogo entre os países, entre os dois lados e que se leve algum resultado até então. Devo dizer que todas as iniciativas eram unilaterais. Só levavam em conta as propostas da Ucrânia sem a presença da Rússia. O nosso objetivo, com essa iniciativa com a China, é de criar um espaço em que se tenha os dois lados, se possa chegar a uma solução. A solução militar não nos levará a parte alguma. Vai continuar a haver destruição, mortes, destruição de infraestrutura, enfim, sofrimento. E não vai levar a lugar nenhum. Só o diálogo diplomático pode levar  a alguma coisa.",
+                "D.R: Mas a proposta atual que foi colocada na mesa, congela o status quo e, portanto, reconhece, digamos, a ocupação indevida dos territórios ucranianos pelos russos.",
+                "Mas a posição do Brasil é muito clara desde o início, inclusive tomada pelo presidente Lula antes de ser sequer candidato à Presidência da República, quando começou a guerra e daqui a pouco tem três anos, Eles, declarou contra e criticou justamente a invasão territorial, que é um princípio que consta da nossa Constituição a integridade territorial agora é o suposto.",
+                "Já é mais do que o momento de se começar a conversar e para conversar sobre o assunto tem que ter os dois lados. Agora, isso não quer dizer de forma alguma que a proposta brasileira impõe condições de congelar o status quo. Não é poder conversar sobre a situação. Se você não tem os dois lados para conversar, não é um diálogo, é um monólogo. É essa a nossa posição.",
+                "J.S: Ministro, mas o Brasil, embora reitere a posição de neutralidade, basicamente vem sendo muito criticado por dizer, por uma avaliação de que o Brasil não é tão duro com Putin. Por outro lado, o governo brasileiro, as posições governo brasileiras são criticadas por Zelensky. Essa situação não deslegitima o Brasil como um negociador dessa solução.",
+                "Não, o Brasil no primeiro, não se arvora em negociador ou num país que tem que estar na primeira linha. Nós damos sugestões e estamos prontos a conversar. E se formos convidados para algum tipo de negociação? Agora, acreditamos que para haver uma conversa efetiva que nos leve a algum lugar, precisa ter os dois lados. O Brasil condenou a agressão territorial, continua, continua criticando e condenando. Agora precisamos encontrar alguma solução. E o presidente Lula se encontrou. Já falou por telefone, já se encontrou com o presidente da Ucrânia, presidente Zelensky. E eu me encontrei com o anterior Ministro das Relações Exteriores da Ucrânia e falei com ele várias vezes por telefone. Estive agora em Nova Iorque com o novo ministro. Já havia falado com ele por telefone também, nós mantemos um diálogo fluido.",
+                "D.R: Por que o Brasil é tão percebido? E aí eu não falo de ser, mas de parecer. Principalmente por que o Brasil é tão percebido como contra a Ucrânia e às vezes visto como pró Rússia. Essa foi a ideia?",
+                "Eu acho que é. Eu acho que é uma percepção equivocada, porque não sei se esse que vocês estão lá estavam esperando, se os que criticam dessa forma estavam esperando que nós assumíssemos uma posição para um lado tão forte como vários países já assumiram. Nós, o presidente Lula já deixou isso muito claro, que nós queremos colaborar dentro das nossas possibilidades. E se fomos chamados para uma solução, mas não para cerrar as posições. Mas é uma percepção totalmente equivocada.",
+                "D.R: E que é isso. A gente recebe muitas críticas de Zelensky, mas a gente não recebe críticas de Putin e do governo russo. Aí dá uma percepção de desequilíbrio.",
+                "Talvez as críticas, de um lado, sejam exageradas.",
+                "",
+                "No próximo mês temos aqui o G-20 no Brasil e o presidente da Rússia, Vladimir Putin, é um dos convidados. Mas tudo isso acabou criando uma expectativa por causa até do pedido de prisão do Tribunal Penal Internacional. A verdade, quero saber Vladimir Putin virá ou não ao G20? Já há uma sinalização do governo russo sobre isso.",
+                "A Rússia é membro nato do G20, portanto ele está mais do que convidado. Virá se quiser ou se puder, isso depende dele. Não sei te responder nesse momento.",
+                "D.R: Como é que o governo brasileiro lida com a possibilidade, com um de mandato de prisão internacional estabelecido pelo Tribunal Penal Internacional, O Brasil é signatário, internalizou o Estatuto do Tratado que criou o TPI. Como é que o Brasil lidaria com essa possibilidade? Esse risco que existe dado o mandado de prisão contra Vladmir Putin? Existe alguma forma jurídica de dar algum tipo de conforto ao governo russo para isso?",
+                "Formas sempre há. Inclusive porque há uma tradição de tratamento de chefes de Estado com uma série de privilégios e imunidades. Mas no Brasil é, como você disse, membro do do TPI, a Rússia não, e vários outros países, os Estados Unidos não é, a China, não é a Rússia também não e vários outros, não, não são só esses três. Agora, nós sempre, agora o processo é um pedido preventivo, praticamente. É um processo em andamento, não é o único contra chefes de Estado, há vários outros. Então eu acredito que vai depender da decisão do presidente da Rússia de vir ou de não ver.",
+                "D.R: Mas a sinalização, pelo menos do governo brasileiro, ao Kremlin, é que se ele vier, ele não será preso.",
+                "Ah, eu não sei o que pode acontecer, se algum juiz poderá dar uma medida ou um pedido de prisão ou não, eu só não sei o que vai acontecer.",
+                "D.R: Então não dá pra garantir, também.",
+                "Eu não posso atuar dentro da futurologia. O que vai acontecer eu não sei.",
+                "D.R: Mas então existe essa possibilidade. Quer dizer, existe a possibilidade de Putin se pisar em solo brasileiro, ele não está descartado, algum mandado de prisão aqui de um juiz de primeira instância? Digamos.",
+                "Pode haver isso. Eu não, eu não posso limitar, cercear um juiz, nem imaginar ou adivinhar o que vão fazer. Podem haver tantas outras coisas podem acontecer.",
+                "D.R: Ministro, ele vai chegar aqui e vai preso do Brasil?",
+                "Aí não, não acontecerá isso. Não sei. Não. Eu não posso dizer se ele virá ou se não virá, eu já te disse. Podemos perguntar se poderiam entrevistar, vocês poderiam entrevistar alguma autoridade russa e perguntar. Eu não sei ainda. Agora devo te dizer que todos os chefes de Estado têm internacionalmente proteção e privilégios e imunidades, inclusive em Nova Iorque, que as Nações Unidas estão no território americano, há um acordo de set que obriga a conceder tratamento diferenciado e com imunidades ao chefe de Estado que participam das assembleias da ONU. Então, é a mesma coisa.",
+                "J.S: Ministro, toda vez que o Brasil se empenha em algum debate internacional, a exemplo do conflito envolvendo Israel e também a questão da Venezuela, isso acaba virando uma munição para a oposição, para a direita brasileira, e até uma crítica internamente da ala política do governo, que talvez o presidente Lula não devesse se expor tanto nessas discussões justamente por essas críticas políticas e essa munição política que acaba virando. Qual a sua opinião sobre isso? Presidente Lula deve se seguir insistindo nesses temas?",
+                "Olha, os temas todos de interesse da esfera internacional devem ser discutidos e eu acho que a atuação do presidente Lula é sempre pela, pelo diálogo, pela diplomacia e pela ajuda à comunidade internacional para que se promova iniciativas que visem a sanar as dificuldades entre os países ou dentro dos países quando fomos chamados. Nós somos e nunca tivemos uma atitude intervencionista e em nenhuma circunstância, em nenhum lugar. Mas queremos sim, colaborar e contribuir para uma solução negociada de todos os conflitos. Essa é a nossa posição.",
+                "J.S: Só a questão mesma, porque virou todos esses conflitos que a gente está acompanhando, a própria Venezuela vira um debate interno, político, interno e isso afeta a população.",
+                "D.R: E isso afeta a população e o Presidente.",
+                "J.S: Exatamente. A gente, eu fiz um levantamento justamente no auge, logo depois das eleições venezuelanas, e a gente observa justamente isso, que há uma cobrança ao presidente Lula nesses temas, por esses posicionamentos. Eu sei que senhor trata de outra área, não da questão política, mas isso, como isso é avaliado dentro do governo, desse empenho do presidente nisso é possível ter uma blindagem em relação a ele nesses temas?",
+                "Olha, a posição do presidente Lula é muito clara e a posição do governo é a posição que ele já teve nos dois mandatos anteriores. É uma posição de primeiro se manter fiel aos princípios que orientam a política externa brasileira. O presidente Lula, não há dúvida que é um grande democrata,está no terceiro mandato é um homem que participou de inúmeras eleições, perdeu três a Presidência, ganhou três, é favorável a alternância de poder, respeita as decisões da Justiça, inclusive quando são contrárias a ele, injustamente impostas, nós vemos isso, luta pela democracia no Brasil. E isso são os mesmos princípios que orientam a posição dele com relação a política externa, as posições com todos os conflitos. Você pode ver que são tomadas a partir dessas linhas que eu mencionei.",
+                "D.R: Ministro, a gente tem esse assunto muito complexo, delicado, que é a Venezuela, também se insere em um dos temas ali em que cada vez que o presidente se expõe, a popularidade dele também acaba sendo chamuscada, mas vou deixar isso para o segundo bloco e vou só continuar um pouco ali no tema Rússia, porque nós temos a cúpula dos BRICS vindo que será na Rússia. O presidente tem essa agenda internacional prevista, o governo russo aparentemente sugere também uma nova expansão dos BRICS. O Brasil aceita?",
+                "Os BRICS um espaço, uma plataforma importantíssima, já teve a primeira expansão no ano passado e eu acho que só acrescentou, só contribuiu para a projeção dos BRICS. É um grupo que detém grande parte da população mundial grande, uma proporção enorme do PIB mundial. Enfim, é um grupo muito importante. É um grupo de articulação e de cooperação muito importante. Será discutido agora na próxima cúpula em Casã, que é justamente-  O presidente parte e eu acompanharei no final da próxima semana para a Rússia, uma permanência de dois dias e meio, aonde isso vai continuar sendo discutido. Nós somos favoráveis a discutir a expansão, uma nova expansão.",
+                "A expansão e o funcionamento. Toda a mecânica dessa organização, que originalmente era um cinco e que era feita muito, eram reuniões com um tom muito informal ou sem uma estrutura. A ampliação para muitos países criaria uma dificuldade no primeiro momento, mas nós estamos agora com dez membros, estamos vendo a possibilidade de aumento, de acréscimo a um grande número, quase 40 países que já demonstraram interesse de participar do BRICS. Se nós formos aceitar todos de uma só vez, vai ser difícil. Nós, eu digo o grupo BRICS, não o Brasil. Vai ser difícil porque não há uma estrutura, não há um secretariado, passa a ser uma nova organização.",
+                "D.R: Mas qual a avaliação do governo brasileiro sobre uma nova ampliação, que seja gradual?",
+                "A nova base é exatamente a nossa posição de examinar na cúpula próxima de Kazan as propostas de ampliação e ter um processo que seja gradual e que possa acrescentar, que possa incorporar, novos membros dentro desses 40 que já se manifestaram favoravelmente, que nós temos que ver o ritmo e as condições.",
+                "D.R: Mas o Brasil, então, não descartaria. Se mantém, o Brasil favorável a uma inclusão gradual?",
+                "Não, não. O Brasil nunca foi contrário, nem na primeira expansão, nem numa eventual segunda.",
+                "J.S: Nisso, vou aproveitar aqui um tempinho para fazer a última pergunta desse bloco. Acredito. O senhor faz semana que vem com o presidente Lula para o BRICS. Em que avião que os senhores vão viajar? Afinal de contas, o avião presidencial teve uma questão ali no México e senhor estava na comitiva, queria aproveitar para saber em que avião vocês vão viajar e se o senhor defende o novo avião presidencial, já que você viaja tanto, também.",
+                "Quanto o avião vai ser usado, eu não sei, a Força Aérea que vai dizer. Não há um avião só, há mas de um. E esse avião do presidente que teve esse problema e efetivamente eu estava a bordo, não foi não, não passamos um susto, não foi nenhuma, houve uma pane sim do motor, mas não foi, não houve uma crise, um pânico dentro do avião. Voltamos ao aeroporto da Cidade do México e isso, passamos para o avião reserva. A Força Aérea tem vários aviões, eu não sei qual será e mas eu sou totalmente favorável a compra de um novo avião e não pode ser um, tem que ser dois, que tem que ter um reserva. Primeiro, para um país da dimensão continental do Brasil, e um país com a projeção que o Brasil tem no mundo, é absolutamente indispensável ter um meio de transporte rápido, seguro que ele possa ir e voltar no menor tempo possível. E não é só o país da dimensão do Brasil, da presença internacional. É um número grande de reuniões internacionais, de organismos internacionais que têm se multiplicado nos últimos anos, e o Brasil não pode estar ausente em nada disso. Então, eu acho que é absolutamente necessário um novo avião presidencial.",
+                "D.R: Ministro, vou fazer uma pequena pausa aqui. O senhor toma uma água, renova o fôlego para a gente entrar no segundo bloco, no que a gente considera aqui o espaço natural de liderança do Brasil, a América do Sul cada vez mais complicada. Já voltamos.",
+                "[...]",
+                "D.R: O CNN Entrevistas está de volta, hoje recebemos o ministro das Relações Exteriores, Mauro Vieira, e a gente retoma aqui, ministro, com o assunto da Venezuela. Já se passaram dois meses das eleições, o governo venezuelano jamais apresentou as atas eleitorais, o Tribunal Eleitoral da Venezuela, o Conselho Nacional Eleitoral e os resultados já foram reconhecidos pela Suprema Corte do país, e agora?",
+                "Continuaremos conversando com a Venezuela sempre que formos chamados ou procurados e com outro grupo de países com que temos mantido contatos. O Brasil tem se articulado desde o início, logo depois das eleições, com a Colômbia e com o México, para justamente buscar um diálogo que possa permitir um consenso social e político dentro da Venezuela. Há forças de oposição e do governo e tanto a Colômbia como o México estão interessados em continuar esse diálogo. E volto a insistir que a posição de diálogo e de concertação, a posição tradicional do Brasil, que não creio que seja adequado, me adiantando, talvez seja uma pergunta que você me faça, um recrudescimento ou rompimento de relações diplomáticas com um vizinho grande da importância que é a Venezuela, como aconteceu no governo passado, em que fechamos a embaixada, os três consulados e os 20 e poucos mil brasileiros que residem lá ficaram abandonados. O presidente Lula me instruiu logo no primeiro segundo dia do seu governo a reabrir a embaixada e assim nós fizemos. Vamos continuar então, portanto, conversando e contribuindo para o consenso nacional dentro da Venezuela.",
+                "J.S: Ministro, diante do que a gente observa nesses últimos dois meses, a gente vê que tem uma resistência de Nicolás Maduro, que, até onde se sabe, a gente falou muito num eventual telefonema de Maduro com o presidente Lula, o presidente Gustavo Petro. E na ocasião, López Obrador do México. E esse telefonema, essa conversa conjunta nunca ocorreu. Ou seja, o que se sabe é que Maduro nunca foi a uma mesa, a mesa de negociação. Ele está disposto a negociar? Ainda é possível pensar numa solução negociada?",
+                "Olha, não, não posso falar da disposição do presidente Maduro porque não, não estive com ele, não perguntei. Nós tivemos a disposição de falar, houve reuniões, contatos entre os três presidentes do México, Colômbia e Brasil e houve um primeiro contato antes das eleições, inclusive, e depois das eleições nós estávamos com uma posição, estamos com uma posição clara e estamos esperando para ver os próximos passos. Não, não podemos nos antecipar a nada, mas estamos prontos a continuar dialogando com as autoridades mexicanas que desejem contactar. Nós mantemos, eu não deixei de ter contatos com o ministro das Relações Exteriores da Venezuela. Temos também contatos com a oposição que nos faz chegar comentários, enfim, sempre com uma atitude positiva e tentando encontrar uma forma de diálogo, porque não há outra.",
+                "D.R: É possível compreender todo o esforço do governo brasileiro para alguma solução negociada. Mas precisa ver a disposição no regime de Maduro para essa, para esse diálogo, e aparentemente, não existe. Não apresentou as atas, pelo contrário, a oposição fez um levantamento exaustivo, árduo, muito difícil de apresentar as atas eleitorais. Criou um site para isso, foi reconhecido pelo Centro Carter, que estava no acordo de Barbados, reconhecido ali como um ator para observar as eleições. O Centro Carter disse que as atas são verdadeiras e que Edmundo Gonzáles ganhou. Por que a gente não reconhece?",
+                "Porque, em primeiro lugar, o Brasil reconhece Estados. Nós reconhecemos a Venezuela, estabelecemos relações diplomáticas há mais ou menos 180 anos atrás e nós não nos manifestamos a cada lá, a cada eleição, em cada país. As eleições são decisões e são escolhas internas, domésticas. Nós continuamos dispostos a conversar, inclusive nós participamos das observações do mecanismo de observação eleitoral, O presidente mandou o seu assessor especial, Celso Amorim, a Caracas, onde ele esteve quatro ou cinco dias, acompanhou as eleições, descreveu para o governo e para o presidente o clima em que havia o que foi não só por outras fontes, tivemos a mesma informação, que foi um clima de tranquilo. Não houve nenhum tipo de conflito, de atrito durante o dia das eleições e ele esteve com os dois candidatos, esteve com Edmundo Gonzáles, esteve também com o presidente Maduro e todos concordaram que esperavam as atas. Então nós estamos ainda abertos.",
+                "D.R: Só complementar, o candidato da oposição diz que foi forçado a assinar uma carta e acabou pedindo asilo na Espanha. Com quem que o governo brasileiro hoje conversaria do lado da oposição? Com Edmundo Gonzáles, com Maria Corina Machado ou com mais alguém?",
+                "Olha, eu não sei porque motivos, se houve a pressão ou não. Eu sei que o candidato saiu como se, ele está exilado. O governo venezuelano deve ter concordado, porque se não, ele não poderia ter saído num avião da Força Aérea de um terceiro país. Há um certo clima de perplexidade internacional desde esse momento. Agora nós estamos prontos a continuar conversando com o governo, com oposição. Nós temos inúmeros contatos com a oposição—",
+                "D.R: Inclusive Maria Corina?",
+                "Com Maria Corina e com outros. Tem um coordenador da mesa de unidade que tem contatos constantes, inclusive com a União Europeia, com a CELAC, nós participamos e ouvimos tudo isso e contribuímos dentro das nossas medidas para facilitar e promover um diálogo.",
+                "J.S: Uma dúvida: a saída de Gonzáles da Venezuela não dificulta esse processo? Buscar uma solução com oposição e governo, já que o próprio candidato foi para a Espanha.",
+                "Pois é isso que causa uma certa perplexidade e nós temos que esperar ver o que vai acontecer agora.",
+                "J.S: Ministro, eu tenho uma dúvida que é o seguinte: digamos que eventualmente maduro tope conversar. Vai lá conversar com Brasil, México e Colômbia e a oposição também. Quais as propostas que poderão ser apresentadas por uma solução negociada de fato?",
+                "Olha essa opções teriam que ser acertadas de comum acordo. Eu acho que se poderia, o Brasil sugeriu e foi criado por iniciativa do presidente Lula, em 2003, logo que ele assumiu um grupo de amigos da Venezuela para resolver a questão que envolvia justamente as eleições, a posse após a posse do, aliás, já tinha tomado posse em 2002, do presidente Chaves e da tentativa de golpe de Estado que houve. Nós participamos de um grupo de amigos que, como o presidente Lula diz, é da Venezuela e não do Chaves, inclusive tinha países que tinham regimes contrários de opositores da Venezuela. Nós, acho que temos que pensar em algo do gênero que esteja presente o governo, a oposição e todos que posso conversar e saber o que cada um quer, o que cada um espera, o que se cada um pode fazer.",
+                "D.R: Esse é um formato interessante do seu ponto de vista. Caso obviamente, caso o governo Maduro aceite criar um grupo de amigos, um novo grupo de amigos da Venezuela, eu estou chamando assim com o Brasil, com, digamos, com a Colômbia e alguns outros países. Esse é um caminho na sua visão?",
+                "Isso pode ser um caminho, mas depende de uma concertação em todas as partes. Precisa que todas as partes queiram e que possam atuar nesse sentido. Nós, sozinhos não devemos fazer nada, porque o que foi feito no passado foi muito contraproducente, não só pelo governo anterior brasileiro, mas por um número enorme de governos da nossa região que reconheceram um ou outro presidente da República numa atitude de que não contribuiu pra nada. Uma coisa quase que infantil de reconhecer uma outra pessoa, uma outra entidade física, como Presidente da República, sem ter o voto popular, porque não tinha, foi eleito diretamente por uma assembleia e que não levou nada, só levou o recrudescimento da situação e só levou justamente a suspensão das relações diplomáticas.",
+                "D.R: Eu entendo o que o senhor está colocando, mas o tempo joga a favor de Maduro porque já se passaram dois meses, não há o menor sinal de definição, o mandato dele acabará, ele é o presidente de fato, tem um mandato que vai até janeiro, mas, tudo o mais constante, ele continuará no cargo em janeiro e tudo continuará igual. A oposição sendo cada vez mais reprimida. E então?",
+                "Mas estamos dentro desse prazo, não podemos nos apressar, nós temos que respeitar os tempos da diplomacia, que são diferentes do tempo cronológico. Acho que temos que conversar e temos que buscar uma solução. O que mais se pode fazer? Eu te pergunto.",
+                "D.R: Outros países fizeram, outros países não seguiram a posição brasileira, que até coloca um pouco em xeque, será que o Brasil ainda continua sendo um líder da América do Sul? Porque, à exceção do Brasil e da Colômbia, outros países não seguiram a posição e reconheceram Edmundo Gonzáles ou adotaram uma postura mais crítica com Maduro.",
+                "E o resultado foi que deixaram os seus cidadãos vivendo na Venezuela abandonados, o Brasil teve que assumir a responsabilidade de cuidar dos cidadãos desses países, de dois países, na Venezuela, porque nós mantemos uma embaixada ativa, conversando e criando um diálogo. Se todos virarem as costas, o que é que vai acontecer? Nós estamos esperando uma solução. Eu não acho que a decisão dos outros países tenha sido a melhor, porque justamente você limita inclusive, o número de países que possa participar de uma conversa, de um grupo de amigos ou como o nome quer ser dado a um grupo que possa discutir a questão com o governo e oposição e no cenário internacional.",
+                "J.S: Ministro, se essa solução não vier, o senhor disse que 10 de janeiro é, até 10 de janeiro, tem tempo, que é a data da posse presidencial. Mas se essa solução não vier, o Brasil estará presente nessa cerimônia de posse?",
+                "Isso é futurologia. Eu não sei se vai haver esse, não vai haver como vai ser. Não sei, Isso vamos esperar, os tempos diplomáticos têm o seu caminho próprio.",
+                "J.S: Só um outro ponto em relação a Venezuela. O Brasil assumiu a custódia da embaixada da Argentina, onde estão abrigados—",
+                "E Do Peru também.",
+                "J.S: E do Peru, também, na Argentina estão os opositores de Maduro. O Brasil está negociando a saída desses opositores. Como se faz a negociação?",
+                "Desde antes que o Brasil assumisse a representação dos interesses da Argentina, nós vínhamos negociando e sugestionando intensamente, desde o primeiro momento, pusemos à disposição todos os meios para retirá-los e trazer para o Brasil, para a Argentina, para onde fosse e cooperando com o interesse que eu acho que é enorme da Argentina, é um dado a sério e grave você ter seis pessoas refugiadas dentro de sua própria embaixada, tendo ocorrido justamente porque o asilo diplomático é um instituto que é preservado e levado seriamente na nossa região. Agora, o pior de tudo que isso aconteceu no momento em que deixou de ter, de haver relações diplomáticas entre os dois países. Então a Argentina nos pediu que nos encarregássemos nós, de acordo com as convenções de Viena, comunicamos ao governo venezuelano, que nos aceitou e nós estamos exercendo a proteção dos interesses, o cuidado com os interesses da Argentina e do Peru. Na Argentina há essa peculiaridade de que há seis refugiados, mas estamos já há dois meses com essa função e que, evidentemente, é uma responsabilidade a mais. Quer dizer, é mais uma questão que nós estamos nos ocupando lá e isso é justamente a prova que nós temos interesse. Primeiro, ajudar os todos os vizinhos e estabelecer um mecanismo que resolva as situações na Venezuela.",
+                "Mas não deixamos de um dia de gestionar pela libertação, pelo salvo conduto para que possam sair da Venezuela.",
+                "D.R: Ministro a gente esbarrou nesse tema de Argentina e estamos realmente nos encaminhando para o final desta entrevista. Mas não gostaria de deixar de abordar o futuro não só das relações bilaterais. Brasil-Argentina. O senhor vai dizer claro, recebeu a chanceler Diana Mondino, que as relações estão bem Estado-Estado, mas a gente nota uma frieza por parte dos dois líderes mutuamente. E isso acho que coloca um panorama sobre esse ambiente sul americano, que é o nosso ambiente ali, de suposta liderança, de suposto conforto. Como você define a América do Sul hoje? É um ambiente mais hostil do que se esperava, do que o senhor encontrou lá no passado, quando foi chanceler do governo Dilma e mais hostil do que se esperava quando foi designado chanceler agora?",
+                "Agora, olha em primeiro lugar, o Brasil não se arvora em líder de nada. O Brasil é o país com a dimensão que tem, com a projeção que tem e só tem interesse em cooperar com os vizinhos. Eu acho que eu, não é à toa que o patrono da diplomacia brasileira é o Barão do Rio Branco, o grande exemplo das nove negociações fronteiriças que acrescentaram, aumentaram o território brasileiro por meio da negociação e do recurso a mecanismos multilaterais e da participação nessas reuniões levou o Brasil a conseguir o reconhecimento sobre os territórios que que pedia e que para acertar as fronteiras com os países. Estamos todos cientes disso,não há dúvida que o Brasil não quer ser líder de nada e não é líder de nada. As relações do Brasil com a Argentina fluem normalmente e eu tenho contatos com a chanceler mundial nos ministros outros têm contatos em várias áreas, várias iniciativas estão caminhando bem, que poderão ser anunciadas em breve e em várias áreas, as mais variadas. Portanto, eu acho que as relações correm de uma forma normal, natural. Teremos em breve, em dezembro deste ano, a cúpula do Mercosul novamente, em que cinco países da região estão estarão presentes. Eu acho que a nossa, como vê o nosso entorno, nós continuamos tendo relações. Houve, tivemos agora em Nova Iorque a reunião do Consenso de Brasília à margem da ONU. Isso independente da posição política e da postura política de cada país. Não há nada que bloqueie a conversa e os encontros, como nessa reunião.",
+                "D.R: Uma perguntinha, Jussara, me deixa fazer uma última porque o senhor falou de uma reunião em dezembro Cúpula do Mercosul, antes disso tem G20 e a visita bilateral também do presidente da China, XI Jinping.",
+                "Sim.",
+                "D.R: Última pergunta. Se eu puder resumir em 30 segundos, um minuto, o Brasil avalia, aceita a entrada na nova Rota da Seda no Belt and Road Initiative?",
+                "Isso é um tema que há muito tempo existe e nós conversamos muito, tomamos, não tomamos nenhuma posição sobre isso e é um tema que está sendo ainda conversado. E esse é o primeiro tema. O segundo tema, que é muito importante, que mostra a importância do Brasil das relações com a China e que o presidente XI Jinping não costuma participar das reuniões do G20, mas virar a cúpula do G20 porque vai fazer depois uma importante visita bilateral, uma visita de Estado em retribuição a visita que o presidente Lula fez no ano passado à China. Isso mostra a pujança da nossa relação, que é antiga, vem de longo tempo, com a cooperação em áreas muito importantes, como ciência e tecnologia. Isso hoje mais cedo me referi com você ao meu período de assessor do ministro da Ciência Tecnologia de então, Renato Archer, que assinou um importantíssimo acordo com a China de cooperação em matéria espacial e satélites que até hoje funciona—",
+                "D.R: O senhor não respondeu, se entramos ou não na Nova Rota da Seda.",
+                "Não há decisões ainda. Nós estamos examinando tudo há muito tempo. Eles nos propõe há muito tempo e nós estamos examinando.",
+                "D.R: Ministro, eu agradeço aqui a sua visita aos estúdios da CNN, por esta entrevista. Obrigado pela atenção, pelo seu tempo e volte numa próxima oportunidade, por favor, que não seja a última, tá bem?",
+                "De forma alguma, eu estarei sempre pronto para voltar. E conversar, continuar conversando com vocês. Muito obrigado pelo convite.",
+                "D.R: Agradeço a sua presença, em nome da minha colega analista Jussara Soares. Obrigado. Até a próxima.",
+                "",
+                "Disponível, em vídeo, em: https://www.youtube.com/watch?v=5sDPDwrDcxw"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "Bom Dia, Ministro - Mauro Vieira. Brasília, 09 de outubro de 2024",
+            "subtitulo": "NA",
+            "data": "09/10/2024",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "02/04/2025"
+            ],
+            "horario_atualizado": [
+                "16h50"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/mauro-vieira-2023/bom-dia-ministro-mauro-vieira-09-de-outubro-de-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Karine Melo: Em um contexto de guerra, mais uma vez o Brasil comanda uma operação de resgate de brasileiros, desta vez no Líbano. Até agora, três aviões já foram a Beirute e os dois primeiros trouxeram aí 456 pessoas e seis pets ao Brasil. Mas no cenário internacional, o Brasil também está atuando em muitas outras frentes. No final deste mês, o presidente Lula viaja para Kazan, na Rússia, para participar da reunião do BRICS e nos dias 18 e 19 de novembro, o Brasil sedia a cúpula do G20 no Rio de Janeiro.",
+                "Para falar de toda essa pauta e muito mais, a gente recebe pela segunda vez o ministro das Relações Exteriores, Mauro Vieira. Ministro, muito obrigada pela gentileza da entrevista. Bom dia!",
+                "ME: Bom dia, Karine! É um prazer estar mais uma vez aqui com vocês. Muito obrigado pelo convite.",
+                "KM: A gente que agradece, Ministro, a sua disponibilidade. Bom, queria começar então com esse resgate de brasileiros no Oriente Médio. Ontem mais um voo partiu em direção ao Líbano. Queria saber qual é a perspectiva de mais esse resgate, Ministro.",
+                "ME: Bem, essa é a segunda operação de resgate para repatriar brasileiros neste terceiro mandato do presidente Lula. Você se lembra bem que no ano passado tivemos uma operação semelhante com os brasileiros que estavam tanto na Faixa de Gaza como na Palestina, na Cisjordânia e também em Israel, e foi uma operação muito bem-sucedida. Como dessa vez foi organizada entre o Ministério das Relações Exteriores e o Ministério da Defesa e com uma participação indispensável da Força Aérea Brasileira, que proporcionou, proporciona o avião e todo o apoio logístico. Dessa vez começamos também, na semana passada, já fizemos dois voos, você mencionou, chegou ontem o segundo voo. No total, foram 450 e poucas pessoas que vieram. A Força Aérea tem capacidade para transportar 500 por semana. O avião tem uma capacidade de 230 passageiros para cada voo e hoje será realizado o terceiro voo. O avião C 330 da Força Aérea Brasileira decolou de Lisboa por volta das 07h00, horário de Brasília de hoje, e está voando em direção a Beirute, aonde chegará e fica entre no máximo duas, três horas no aeroporto para receber os passageiros, carregar suas malas e partir e novamente faz uma escala em Lisboa para reabastecer e virá a São Paulo.",
+                "A grande maioria dos brasileiros residentes no Líbano são de São Paulo ou do Paraná, da região de Foz do Iguaçu. Então, os voos têm sido diretos para São Paulo e é uma operação de grande vulto. Será maior do que foi a operação na Palestina e na faixa de Gaza, em Israel, quando foram 1560 pessoas aproximadamente, que foram resgatados. Nesse, as nossas projeções expectativas são maiores e eu me arriscaria a dizer que em torno de 3000 pessoas estão em contato com a embaixada. A Embaixada do Brasil em Beirute tem um sistema de contato por e-mail ou por WhatsApp. Tem grupos que reúnem os brasileiros na região. São cerca de 20.000 brasileiros que vivem em Beirute e arredores e outras cidades do Líbano, e já um número grande manifestou interesse de voltar.",
+                "Eu acredito que até a realização dos voos, alguns desistem por razões variadas, mas eu me arriscaria a projetar em torno de 3000 que realmente precisarão desse apoio do governo brasileiro que será dado.",
+                "KM: Ministro, essa projeção se falou em mais de 20.000 brasileiros no Líbano e há uma expectativa de 3000. Esse número, ele muda? O que acontece? Esses brasileiros já manifestam interesse em vir? São os que primeiro manifestaram esse interesse?",
+                "ME: Sim, a embaixada tem uma rede de comunicação. Eu mesmo estive em visita ao Oriente Médio em março desse ano e estive em Beirute. Estive lá numa reunião feita no Centro Cultural do Brasil. A Embaixada promoveu uma reunião importante, grande, com brasileiros residentes no Líbano nas mais diversas regiões. Então, há um contato constante, um diálogo entre a embaixada e a comunidade brasileira. É evidente que há muitos que estão localizados numa região que está mais exposta ao conflito, que é o Vale do Bekaa, o sul do Líbano, e nos contatos com a embaixada, a embaixada não é de agora, já há alguns meses nós começamos um trabalho de alertar a população para os problemas, as dificuldades que poderiam advir da expansão e da contaminação do conflito na Palestina para os países da região e cerca de 7000 pessoas disseram que eventualmente teriam interesse de sair. Agora, esse número não é absoluto e não quer dizer que sairão todos esses, porque são as mais diversas situações, como familiares que não podem sair e a evolução dos próprios acontecimentos. A projeção mais, vamos dizer, concreta da embaixada, nos aponta para um número em torno de 3000 pessoas.",
+                "KM: A gente pode voltar a esse assunto a qualquer momento, claro. Mas para a gente fechar essa primeira pergunta, Ministro, eu queria saber a respeito de o Brasil não estar só resgatando pessoas. Donativos também foram mandados, insumos na área de saúde e essas doações elas são solicitadas ou o Brasil já se prontifica e manda?",
+                "ME: Bem, primeiro voo para o resgate, foram despachados uma quantidade de São Paulo, da cidade de São Paulo, cerca de dez toneladas de medicamentos que tinham sido recolhidos pela apuração do consulado do Líbano, no Rio de Janeiro, em São Paulo, e por donativos da comunidade brasileira de origem libanesa. Também já foi informado de donativos, doações de roupas, vestimentas e outros tipos. Agora, nesse primeiro voo foram 10.000. Evidente que nós temos a disponibilidade de levar donativos, temos possibilidade de levar outros medicamentos, outras doações que surjam. Mas no primeiro voo já foram dez toneladas de medicamentos que é muito importante, muito relevante e uma prova da solidariedade da comunidade brasileira, descendente de libaneses e da sociedade brasileira como um todo.",
+                "KM: Maravilha! Então, boa notícia. Amanhã então, mais um voo chega ao Brasil, chega a São Paulo resgatando aí mais um grupo, o terceiro grupo de brasileiros no Líbano.",
+                "Ministro, vamos começar então a viajar o país?",
+                "ME: Pois não.",
+                "KM: Então vamos. Vamos a Rádio Nacional. Vamos falar também com Brasília, Amazônia e Alto Solimões, porque o Valter Lima já nos espera. Bom dia para você, Valter.",
+                "Valter Lima: Olá Karine, bom dia também para você e muito bom dia também, Ministro. Bem, Ministro, o nosso país já sediou a Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento a Rio 92. E agora, passados mais de 30 anos, de novo a nação se prepara para mostrar ao mundo a trigésima Conferência das Nações Unidas sobre Mudanças Climáticas, que acontecerá no ano que vem em Belém, no Pará. Ou seja, os temas dos debates, tanto dos que ocorreram na Eco 92, quanto dos que irão ser debatidos na capital paraense, aparentemente se assemelham, contudo, os tempos são outros. Nesse contexto, como o senhor, ministro, situa o Brasil quanto ao seu protagonismo nos debates relacionados com a situação climática no mundo, como também sobre a preservação global do meio ambiente?",
+                "ME: Muito obrigado Valter, por sua pergunta. Você tem toda razão. O Rio 92 foi um grande marco. Depois tivemos a Rio+30, que foi em 2012, que foi uma avaliação dos resultados da Rio 92 e agora teremos a COP 30, que será realizada em Belém do Pará. Foi uma decisão do presidente Lula de candidatar o Brasil e de escolher desde logo a cidade de Belém, porque ele queria que fosse realizada a COP, essa importante reunião, na Amazônia, para chamar a atenção do mundo para a Amazônia, a importância da Amazônia. Aliás, devo dizer que o presidente Lula tomou essa decisão antes, inclusive de tomar posse.",
+                "Após a eleição, ele participou como convidado dos governadores brasileiros, do grupo de governadores brasileiros do Nordeste e do presidente do Egito. Ele participou da COP 27 em Sharm El Sheikh. Aliás, tive a honra de participar também de acompanhá-lo, ele me convidou para acompanhá-lo nessa reunião e neste momento, ele lançou a candidatura do Brasil para sediar a COP 30. Foi um trabalho diplomático intenso para obter a aprovação e a votação positiva dos membros do acordo da ONU sobre Mudanças Climáticas para que o Brasil fosse, então, a sede da reunião.",
+                "Aprovada a sede do Brasil, começamos intensamente os trabalhos não só em Belém, para preparar as cidades para esse evento e nisso temos contado com a colaboração e a participação intensa e a liderança do governador Helder Barbalho, que tem sido um elemento importante para a organização dessa reunião e, também, trabalhando junto com o Ministério do Meio Ambiente o Itamaraty tem tomado iniciativas importantes na área da preservação do meio ambiente. Essa reunião vai ser muito importante. Vai ser um momento de avaliação dos resultados aprovados na COP de Paris.",
+                "Foi celebrado o Acordo de Paris em 2015 e vai ser um momento muito importante, porque inclusive o Brasil poderá apresentar importantes resultados, como são os decorrentes da reunião da Organização do Tratado de Cooperação Amazônica (OTCA) que o presidente Lula promoveu já ano passado em Belém do Pará e essa organização tem sede em Brasília reúne os países amazônicos: o Brasil, a Bolívia, o Peru, o Equador, a Colômbia, a Venezuela, o Suriname e a Guiana. São os oito países que dividem a Amazônia. 60% do território da Amazônia está no Brasil. Portanto, o Brasil tem um papel muito importante. E essa organização, que tem cerca de 45 anos, foi criada também por inspiração do Brasil para promover a preservação e a cooperação entre os países, a troca de informações. Há um grande laboratório em Brasília, na sede dessa organização, que faz o monitoramento da Amazônia, que pode acompanhar todos os eventos climáticos, incêndios, enfim, é uma plataforma importante que nós oferecemos para os demais países, em conjunto com os demais países, para explorar a possibilidade de cooperar e preservar a Amazônia. Isso é um exemplo muito importante para o mundo. E, inclusive, nós tivemos também a iniciativa. O presidente Lula propôs uma declaração entre os países detentores de grandes florestas tropicais, que inclui também o Congo e a Indonésia, que possuem também vastas extensões de florestas tropicais. Portanto, eu acho que o Brasil é um ator importante, tem muito o que contribuir nesta discussão da questão da mudança climática.",
+                "KM: São Paulo Rádio Bandeirantes. Pedro Gambassi, Bom dia!",
+                "Pedro Gambassi: Tudo bem, Karine? Bom dia! Bom dia, ministro. As agências internacionais estão falando que o presidente dos Estados Unidos, Joe Biden, vai fazer uma ligação com o primeiro ministro Benjamin Netanyahu, para discutir a retaliação de Israel ao ataque da semana passada do Irã, que foi interceptado pelo sistema de defesa israelense. A gente tem também a Rússia, que apoia o Irã, como o senhor Ministro e a diplomacia brasileira veem essa possibilidade de ampliação do conflito lá no Oriente Médio?",
+                "ME: Bom dia, Pedro. Obrigado por essa pergunta que é muito oportuna. Bem, o Brasil tem sido muito vocal e em primeiro, condenar os atos de violência que levaram ao início desse conflito, que foi o ataque do Hamas há exatamente um ano atrás, mas também tem criticado constantemente a reação desproporcional de Israel. Isso tem levado a uma outra situação que sempre foi nossa preocupação, que é a contaminação de outros países da região. É o que está a acontecendo agora com o Líbano e que tem acontecido com outras ações que têm ocorrido na região.",
+                "Eu espero que a conversa telefônica do presidente Biden como primeiro ministro de Israel surta efeitos da mesma forma que o governo russo possa também, em suas conversas e suas interações com o governo iraniano, conter qualquer ataque ou qualquer outro tipo de ação militar, porque disso ninguém sai ganhando. Só vai haver mais mortes, só vai haver mais perdas humanas, perdas de inclusive de infraestrutura nos países. Só para mencionar rapidamente o número de mortos no conflito na Palestina já passa de 41.000. No Líbano, já há mais de 1 milhão, 1.200.000 deslocados, há mais de duas mil mortes. Enfim, o resultado dessas ações leva só a perdas, destruição e mortes. E é isso que o Brasil, por sua tradição diplomática, tenta evitar, tenta combater, critica e está sempre pronto a manter um diálogo, conversa com qualquer país que queira e qualquer grupo de países que queira trabalhar por uma solução pacífica e negociada de todas as diferenças.",
+                "KM: Se você chegou agora, você está no canal Gov. Esse é o Bom dia, Ministro que conversa hoje com o Ministro das Relações Exteriores, Mauro Vieira.",
+                "Ministro, vamos à Rádio Metrópoles, aqui de Brasília. Gabriela Oliva Bom dia para você! Bem-vinda.",
+                "Gabriela Oliva: Obrigada. Bom dia, Karine! Bom dia, ministro. Quais são as atuais articulações do Brasil com a Colômbia e o México em relação à crise política e eleitoral na Venezuela? O Brasil ainda reconhece Nicolás Maduro como presidente ou há ali uma revisão dessa posição em vista das recentes eleições? Obrigada.",
+                "ME: Obrigado. Eu que agradeço a você, Gabriela, por sua pergunta. Olha, o Brasil tem há algum tempo, desde do mês de julho, das eleições na Venezuela e mesmo antes feito grandes articulações na região com o México e com a Colômbia para se encontrar um diálogo sobre a questão da Venezuela e o Brasil desde antes se envolveu nas negociações que levaram ao acordo de Barbados, em que o governo da Venezuela e a oposição chegaram a um modus vivendi para a realização das eleições.",
+                "Você poderia perguntar porque o Brasil tem interesse ou participa disso? Tem interesse porque nós temos uma enorme fronteira com a Venezuela, justamente dentro da Amazônia, que eu acabei de falar da importância da Amazônia para o Brasil, para a região. Há muitos brasileiros, cerca de 20.000 brasileiros vivendo na Venezuela. São pelo menos 500.000 venezuelanos vivendo atualmente no Brasil.",
+                "No passado, nos últimos anos, houve uma grande chegada ao Brasil, um número grande elevado de venezuelanos que chegaram ao Brasil e 500.000, cerca de 500.000 ficaram no Brasil e outros muitos viajaram para outros países da região, países de língua espanhola e sendo um país vizinho com tão grande fronteira, um grande produtor de petróleo e um país que é tem uma relação importante com o Brasil. O Brasil participou inclusive da observação das eleições. O assessor especial do presidente Lula, o embaixador Celso Amorim, passou quatro dias, acompanhou todo o movimento eleitoral, foi testemunha do ambiente do dia da votação que, segundo relatórios de todos, inclusive de outros observadores, transcorreu em calma.",
+                "Não houve nada de inesperado e nós continuamos conversando para buscar agora um diálogo mais próximo, mais intenso, entre o governo e a oposição. O presidente Lula se reuniu em telefonemas com o presidente, então presidente do México, há pelo um mês atrás, o presidente López Obrador e o presidente da Colômbia, Gustavo Petro, para conversarem, buscarem uma forma de criar um diálogo mais forte, mais intenso, entre o governo e a oposição na Venezuela para superar as diferenças, as dificuldades havidas.",
+                "Você perguntou sobre o reconhecimento. O Brasil não reconhece governos, nós reconhecemos os Estados. Os governos são consequências dos processos políticos em cada país. Portanto, nós temos interesses grandes na Venezuela, há, inclusive, interesses econômicos. Há empresários brasileiros que investem na Venezuela e nós vamos continuar nesse diálogo, buscando encontrar um ponto de equilíbrio dentro da sociedade venezuelana, com o governo, nas suas articulações com o governo.",
+                "KM: De Brasília, nós vamos a Belém do Pará, vamos à Rádio Liberal. Olá Rodolfo Sousa, bom dia.",
+                "Rodolfo Sousa: Bom dia, Karine. Bom dia para o Ministro. Bom dia colegas que nos acompanham. Ministro, teve um assunto que chamou a atenção no ano passado, até pela divisa territorial da Guiana aqui com o Pará, que é a questão ainda envolvendo Venezuela, mas que na parte Essequiba, a Guiana Essequiba que é uma disputa territorial e isso chamou a atenção dos paraenses pelo fato de uma entrada por terra da Venezuela poder acontecer pelo Brasil e passar aqui pelo Estado do Pará, caso isso viesse a acontecer. Eu queria que você falasse como é que está essa situação dessa disputa entre venezuelanos e a população, a questão da Guiana que chama a atenção aqui da nossa população paraense.",
+                "ME: Muito obrigado, Rodolfo. Eu sei que sendo de Belém do Pará, que é uma região próxima e fronteiriça, é uma questão de muito interesse. Eu queria dizer que isso não é uma questão nova, é só uma questão, já que se arrasta desde o século XIX. Houve acordos nessa ocasião, quando a Guiana era ainda uma colônia britânica. Nós mesmos tivemos. Todos sabem que o Barão do Rio Branco atuou, de uma forma decisiva e intensamente em oito importantes questões fronteiriças, que garantiu ao Brasil uma faixa, uma grande faixa territorial em várias regiões do Sul até justamente a região da fronteira com Venezuela e Guiana, sempre pela negociação por meios pacíficos e por arbitragens internacionais.",
+                "Houve ainda um segundo acordo, em torno de 1960, 60 e poucos, pouco antes da independência da Guiana, e é um tema que é discutido entre os dois países. Há foros internacionais para isso. Além do diálogo direto bilateral entre os dois países, está também a Corte Internacional de Justiça, que, situada na área que é o Fórum Internacional, é a mais alta instância judiciária para discutir esse tipo de assunto.",
+                "O Brasil participou ativamente também de um mecanismo, aliás, proposto pelo presidente Lula no ano passado, na cúpula do Mercosul, no Rio de Janeiro, estava o assunto da questão da disputa da região do Essequibo, muito presente nos jornais, nos meios de comunicação. E o presidente Lula propôs, na ocasião, que o então presidente da CELAC, que é a comunidade dos Estados latino americanos e do Caribe, que era nesse momento, o primeiro ministro de São Vicente e Granadinas, Ralph Gonsalves, que ele, na posição de presidente da CELAC, convocasse uma reunião com as duas partes e alguns observadores para se chegar a um modus vivendi.",
+                "Isso foi feito, o Brasil foi um dos países, vamos chamar assim, na linguagem diplomática, garantes. Um dos países que esteve presente testemunhou e apoiou esse movimento no sentido de ser fazer uma declaração em que os dois países renunciavam a qualquer iniciativa militar, uso de força, e se dispunham a discutir e criar mecanismos que pudesse levar a uma solução pacífica, como é, aliás, como são os princípios que norteiam a política externa brasileira.",
+                "Está no artigo quarto da Constituição Federal, que estabelece todos os princípios, entre os quais a solução pacífica das controvérsias, a não interferência em assuntos internos de outros países, a preservação da integridade territorial dos países, então, são princípios orientadores e como parte desse mecanismo, foi realizado também aqui no Brasil, em janeiro de 2024, uma reunião em que eu presidi, na qualidade de representante do governo brasileiro como representante, o presidente Lula, uma reunião dos ministros das Relações Exteriores, tanto da Venezuela como da Guiana, para se criar um ambiente de distensão de conversas e procurar sobre tudo aspectos que pudessem levar a cooperação maior entre os dois países e que, portanto, se facilitasse uma solução.",
+                "Essa é a situação com esses compromissos assumidos. Tanto aqui em Brasília, nessa reunião de ministros, como na reunião, que aconteceu sob a presidência da CELAC do primeiro ministro Ralph Gonsalves, eu acho que nós estamos com um canal de comunicação muito bom e não acredito que haja nenhum outro tipo de problema maior nesse momento e que a questão a negociação e a discussão das diferenças entre os dois estados possa ser encaminhado por esse mecanismo.",
+                "KM: Ministro, quero aproveitar o momento atual do Brasil, que é um momento de eleições municipais. A gente teve a fatura liquidada em algumas cidades, agora, no primeiro turno, mas temos aí um segundo turno pela frente e esses períodos atraem também muita atenção internacional, inclusive a presença de observadores. Queria que o senhor nos dissesse a importância disso e que países já se espelharam no Brasil ou se espelham ou têm interesse nesse processo aqui.",
+                "ME: É uma pergunta muito oportuna, porque acabamos de ter o primeiro turno das eleições municipais e contamos aqui no Brasil com uma equipe com um grupo de observação da Organização dos Estados Americanos, a OEA. E essa missão de observação veio ao Brasil a convite da presidenta do Superior Tribunal Eleitoral, a ministra Cármen Lúcia, e ela foi chefiada por um experiente e importante diplomata uruguaio, que inclusive já foi embaixador em Brasília, o embaixador Agustín Espinosa, que veio, esteve em Brasília, esteve em São Paulo, esteve em Goiás, observou as eleições, eu o recebi.",
+                "É tradição que, sobretudo a missão da OEA seja recebida no ministério e sempre havendo possibilidade também pelo Presidente da República. E essa missão esteve aqui durante oito dias. Já voltaram cada um dos seus países de origem. É uma missão composta por integrantes da OEA, portanto, de todos os países latino americanos. Eles já observaram, fizeram um relatório preliminar. Haverá um relatório final depois do segundo turno, extenso em detalhes, mas já expressaram a satisfação com o resultado das eleições, com a qualidade do sistema brasileiro, do sistema eleitoral, com a eficiência dos equipamentos, das máquinas e com a ordem e tranquilidade e paz com que ocorreram as eleições.",
+                "Então isso é só motivo de orgulho, porque, afinal de contas, há tantos anos que nós temos um sistema tão sólido, tão reconhecido internacionalmente e de que nós damos tanto valor que é bom que as missões de observação venham e constatem isso. Agora é normal missão de observação. Aliás, falamos há pouco da Venezuela, na Venezuela houve também uma missão da OEA, nós mandamos uma missão que foi que eu disse que foi chefiada pelo embaixador Celso Amorim, assessor especial do presidente Lula. Foi integrada também por técnicos do Superior Tribunal Eleitoral e outros países mandaram, o Centro Carter enviou e outras organizações, à Venezuela, e é absolutamente normal e no segundo turno das eleições teremos novamente a mesma missão da OEA, que virá para concluir essa missão de observação.",
+                "E creio que é uma contribuição muito importante para o processo democrático, pro processo eleitoral e, sobretudo,  no nosso caso, para que seja divulgado amplamente o sistema que nós temos de votação, porque é reconhecido internacionalmente da melhor qualidade, excelente, inviolável, portanto a lisura e inclusive o apoio técnico que há no sistema de votação eletrônica é algo que é objeto de interesse de vários países que pedem inclusive cooperação técnica para conhecer melhor e para implantar em seus países.",
+                "É fantástico que num país de 210 milhões de habitantes e não sei, 160 milhões, talvez de eleitores, 4 horas após as eleições, se tenha o resultado preciso e que não é contestado porque é tão preciso e tão controlado em municípios como o de São Paulo, com milhões e milhões de votos que no mesmo dia se tenha o resultado. Em muitos países, às vezes leva um mês para se apurar a mão e contar manualmente. Então eu acho que é um sistema excepcional, que foi desenvolvido com tecnologia brasileira ao longo dos anos. Eu mesmo só votei para presidente da República em papel uma vez, depois sempre foi eletrônico, portanto, é um sistema que tem pelo menos 30 anos ou perto disso e é um sistema reconhecido internacionalmente e que é comprovado a cada eleição, a cada dois anos no Brasil.",
+                "KM: É isso. Bom dia ministro hoje com o ministro das Relações Exteriores, Mauro Vieira. Ministro, vamos então ao Rio de Janeiro, a Rádio Antena Esportiva. Oi Antônio Viana, bom dia!",
+                "Antônio Viana: Bom dia, Karine. Bom dia, senhor Ministro. Então, o Brasil tem historicamente mantido uma postura de neutralidade em relação aos conflitos internacionais. Em relação à guerra da Ucrânia não tem sido diferente. Gostaria de saber como o Brasil vai fazer para equilibrar a constante pressão internacional para tomar um lado com a política de não intervenção.",
+                "ME: Muito obrigado, Antônio, por sua pergunta. O Brasil não tem uma posição de neutralidade nesse caso, porque nós condenamos desde o início a invasão russa e justamente a agressão ao território da Ucrânia. Eu já tinha mencionado mais no início que a integridade territorial é um dos princípios norteadores da política externa brasileira que está na Constituição, na Constituição Federal. Então, não poderia ser de outra forma. Nós condenamos e continuamos condenando. A lei, apesar disso, o próprio presidente Lula, ainda antes de ser candidato à Presidência, porque o conflito na Ucrânia vai completar três anos em fevereiro, ele não era ainda candidato e ele se manifestou contrário à invasão, criticou a invasão e pediu a preservação, a integridade territorial da Ucrânia.",
+                "E reiterou essa posição logo que tomou posse como presidente. Inclusive recebeu tanto uma missão na sua posse, uma missão da Ucrânia, chefiada pela ministra do Comércio Internacional da Ucrânia e vice primeira ministra, da mesma forma que recebeu uma missão da Rússia com a presidente do Senado da Rússia. Mas ele passou, depois reiterar essa condenação, ele também começou a dizer, já como Presidente da República, que era chegado o momento de se sentar e promover conversas que levassem a uma negociação e à paz. E isso foi feito, o Brasil participou intensamente de vários mecanismos. Houve um mecanismo em Copenhague que teve várias reuniões buscando uma solução, uma formulação de uma solução. Depois, houve uma outra reunião também em Jeddah, na Arábia Saudita, e ultimamente, esse ano, no verão europeu, acho que foi no mês de junho ou julho, na Suíça, houve mais uma reunião.",
+                "O Brasil participou de todas. Foi como observador e sempre se ofereceu para participar de qualquer grupo de países que queiram promover a paz. Nós nunca nos arrogamos uma posição de líderes ou de promotores sozinhos, de qualquer projeto ou de países que adotassem uma posição específica, como um projeto, com um plano de paz. Não. Nós queremos é participar de um conjunto de países que estejam dispostos a justamente discutir a paz e criar condições para que haja negociações. Essa é a nossa posição, que é muito clara, e nós continuamos a ter relações com ambos os lados, tanto com a Ucrânia. Temos embaixador brasileiro na Ucrânia, temos embaixador da Ucrânia no Brasil. Da mesma forma, na Rússia.",
+                "KM: Ministro, vamos ao Mato Grosso, vamos a Lucas do Rio Verde. Sabe terra de quem? Do ministro Carlos Fávaro. Terra do coração do ministro Carlos Fávaro. Vamos à Rádio Agro. Simone Flores, bem-vinda! Bom dia para você!",
+                "Simone Flores: Bom dia, Karine. Bom dia, ministro. E eu gostaria de perguntar ao ministro porque a COP 29 em Baku vai trazer à tona discussões que são cruciais sobre o equilíbrio entre a produção agrícola e preservação ambiental. Mato Grosso, que é um dos maiores produtores de commodities do Brasil e grande exportador, acaba tendo um destaque. Como o Brasil e, particularmente, essa direção para o Mato Grosso pretende se posicionar nas negociações climáticas em termos de sustentabilidade, preservação ambiental, sem que isso prejudique a sua competitividade no mercado global de alimentos.",
+                "ME: Pois não. Muito obrigado, Simone, por sua pergunta e vindo de uma região que é justamente a terra do Ministro Fávaro, faz todo sentido. Um grande amigo, grande companheiro no gabinete do presidente Lula. Olha, o Brasil tem uma posição muito firme na questão ambiental, mas também, ao mesmo tempo, é um dos maiores produtores, se não o maior produtor de muitos produtos agrícolas de origem do campo. E não há incompatibilidade nisso. Nós temos uma legislação muito clara, muito forte e que controla justamente as condições de produção, as áreas, eu não vejo e não existe contradição em ser um grande produtor e exportador dos maiores aliados do mundo, não só de produtos agrícolas como de proteína animal e as políticas de proteção ambiental.",
+                "O Brasil não precisa derrubar uma árvore sequer para aumentar exponencialmente sua produção agrícola, que já é enorme, gigantesca. Mas há milhões de hectares de terras que estão degradadas, que estão sendo recuperadas nesse momento pelo governo, por ações do governo. E nós não precisamos de forma alguma, há um mito em torno disso também, de que vai se plantar não sei quantas tipos de produtos na Amazônia, que não é. Eu me lembro de no passado uma coisa de agora se falar de plantação de cana de açúcar na Amazônia. É impossível. Não, não nasceria. Não criaria um pé sequer de cana. E não falta terra no Brasil para plantar cana e plantar qualquer outro tipo de produto. E é uma preocupação do governo federal, do presidente Lula a preservação da Amazônia através de ações diretas do governo, ações multilaterais como nas COPS ou na OTCA, Organização do Tratado da Cooperação Amazônica, como também já mencionei, e as metas que ele próprio declarou que seriam as metas de seu governo de acabar o desmatamento, de preservar as regiões.",
+                "Então eu acho que é muito clara a posição e é uma questão que tem um equacionamento no Brasil já claro e reconhecido, e pelas ações do governo, inclusive pela grande extensão territorial, pelas imensas áreas agrícolas que nós já temos, sem precisar de avançar em outras regiões que são protegidas.",
+                "KM: Vou aproveitar, Ministro, que a gente está falando aí com a terra do agro, Lucas do Rio Verde, para a gente falar um pouquinho uma coisa que é pouco falada. O ministro Mauro Vieira tem viajado aí para o Golfo Pérsico, para o Sudeste Asiático, onde há um potencial muito grande, né, ministro? Para a abertura de novos mercados para o Brasil. E eu queria que o senhor nos dissesse que mercados são esses, o que está consolidado já aqui? O Que o Brasil conseguiu avançar nesses mercados?",
+                "ME: Pois não, muito obrigado. O Brasil tem procurado expandir seus mercados em novas regiões, saindo dos parceiros tradicionais, não abandonando os parceiros tradicionais. Nós temos na União Europeia, nos Estados Unidos e na China, são parceiros mais do que tradicionais, importantíssimos fluxos comerciais. Mas nós estamos também avançando em outras regiões, como, por exemplo, a ASEAN, que é a Associação dos países do Sudeste Asiático. São dez países com os quais o Brasil tem relações importantes. Serão 11 em breve, porque o Timor Leste vai ser admitido como membro.",
+                "Mas são países muito importantes, como por exemplo, Indonésia, Camboja, Vietnã, Filipinas e Malásia, países os quais eu já visitei este ano, e ainda mais Cingapura, Tailândia, Brunei, Darussalam, Myanmar, Laos e Timor Leste, como mencionei. Esse grupo de países é um importantíssimo parceiro do Brasil, para dar uma ideia, em 2002, o comércio do Brasil com esses dez países da ASEAN era de um pouco menos de 3 bilhões de dólares. 20 anos depois, em 2023, foi de 34 bilhões de dólares.",
+                "É um crescimento exponencial importantíssimo. E, evidentemente, também, mais me referindo à pergunta anterior, produtos do agro são componentes importantíssimos desse fluxo de comércio. Então eu acho que é uma nova zona, uma nova área de comércio e também de concertação política. São países importantes. Nós vamos receber esse ano alguns, por exemplo, o chefe, o primeiro ministro da Malásia, virá para a reunião do G20. Quer dizer, são importantes atores também políticos internacionais. E o que eu queria dizer também com relação a isso é que o superávit brasileiro nessa região específica é muito importante. É muito relevante. É algo da ordem de 10 bilhões de dólares.",
+                "Agora, não é só a nossa expansão, quer dizer, a nossa participação mais ativa em novas áreas, como é a região do ASEAN, para a qual, aliás, nomeamos um embaixador específico que está desde o final do ano passado, de meados do ano passado e acreditado junto à sede do ASEAN, que é em Jacarta, capital da Indonésia. Nós temos um embaixador que atua junto a esses países através da organização em Jacarta e em contato com os outros países aonde nós já temos embaixadas, porque nós temos embaixadas residentes em oito desses dez países. Agora, não é só essa região. A região do Golfo também é muito importante. Eu acabei de participar há poucas semanas ou um mês, talvez de uma reunião muito importante, que o Brasil foi convidado a uma reunião do Conselho de Cooperação do Golfo com o Brasil.",
+                "O Conselho de Cooperação do Golfo reúne a Arábia Saudita, o Qatar, o Omã, o Kuwait, Barein, são os seis membros. São países com uma altíssima renda per capita, com um grande PIB, grandes produtores e exportadores de petróleo e também clientes cada vez mais, que se fixam mais como clientes tradicionais das importações brasileiras e foi um ato, foi um gesto também muito importante de reconhecimento da importância e da presença do Brasil, porque nós também temos, somos atores ativos nessa região. Nós temos embaixadas residentes em todos esses países, mas foi um gesto importante. Eu recebi no início do ano o secretário geral do Conselho de Cooperação do Golfo, que trouxe uma carta me convidando para uma reunião de uma reunião que foi realizada agora há um mês atrás, de um diálogo Conselho de Cooperação do Golfo com o Brasil. É uma reunião muito importante, em que discutimos os interesses de cada país, não só comerciais como de investimentos, porque também esses países são países que são grandes investidores, com uma grande capacidade de investimento no exterior, com seus fundos nacionais, seus fundos soberanos.",
+                "E, além disso, também coordenamos posições com relação a organismos internacionais. A atuação deste grupo na ONU, do Brasil, da ONU, enfim, uma plataforma de discussão de interesses não só econômicos e financeiros, mas também de coordenação política. E para dar uma ideia da relevância, eles têm poucos diálogos desse tipo o Conselho de Cooperação do Golfo, o CCG, com um país. E neste dia em que eu estive, nesses dois dias que eu estive na Arábia Saudita, foram realizadas três reuniões desse tipo com três países que são atores importantes no mundo. Foi Brasil, o Conselho de Cooperação do Golfo, Índia, o Conselho de Cooperação do Golfo e o terceiro foi a Rússia, a Cooperação do Golfo. Foram três reuniões importantes de três importantes sócios, desses países da região.",
+                "KM: Ou seja, Sudeste Asiático e Golfo Pérsico são clientes que todo mundo quer ter, que dinheiro não é problema, né ministro?",
+                "ME: Não, nenhum.",
+                "KM: Então cliente dos sonhos. Então tomara que o Brasil prospere nessas negociações. Ministro, vamos ao Paraná. CBN, Maringá, Luciana Penha. Bem-vinda! Bom dia para você!",
+                "Luciana Penha: Bom dia! Vocês me ouvem?",
+                "KM: Sim, perfeitamente.",
+                "LP: Bom dia, Karine. Bom dia, Ministro. Obrigada pela oportunidade. Ministro, aqui no Paraná, em Foz do Iguaçu está uma das maiores comunidades libanesas do Brasil. Na segunda feira, um grupo de repatriados chegou a Foz do Iguaçu. Ontem viria um outro grupo. Eu gostaria de saber se o senhor sabe se há mais brasileiros de Foz do Iguaçu, no Líbano que querem voltar ao Brasil. Como está a situação deles? E queria saber também se o senhor vê o risco de conflito nuclear com a possibilidade de o Irã acelerar o processo de enriquecimento de urânio?",
+                "ME: Bem, muito obrigado, Luciana. Efetivamente, nos dois primeiros voos, um que chegou ontem e o primeiro que chegou no domingo, havia um grande número, eu diria que a grande maioria de brasileiros originários da região de Foz do Iguaçu, do Paraná, e depois uma outra parcela de São Paulo, o mesmo no voo de ontem. Há mais ainda há uma grande concentração nesta região. Não é a única no Brasil, porque também libaneses há muitos em São Paulo, no Rio de Janeiro e em outras regiões do país. Mas, sem dúvida nenhuma, o estado do Paraná é a residência de um grande número de brasileiros que estavam vivendo lá e também um grande número de brasileiros que são descendentes de imigrantes libaneses e sírios, desde o início do século XX.",
+                "E o Brasil, o governo brasileiro, por decisão do presidente Lula, continuará efetuando essa operação para repatriar os brasileiros com o apoio da Força Aérea Brasileira, até onde seja necessário e possível. Possível porque as condições podem evidentemente piorar, podem se agravar e há uma hipótese de que espalhe. É uma hipótese ainda não confirmada ou não imediata, mas o espaço aéreo pode ser fechado se houver uma intensificação de ataques. Eu não creio em ataques nucleares. Eu creio que as armas nucleares são armas de dissuasão e não para o uso. Chega. Já vimos uma ocasião em que foram usadas, que levou ao encerramento ao final da Segunda Guerra Mundial. Eu acho que todo o mal feito já provou de que as armas nucleares devem ser banidas, como aliás, é também um princípio da Constituição brasileira que proíbe ao Estado brasileiro desenvolver armas nucleares ou de possuir armas nucleares.",
+                "Eu espero que a diplomacia funcione. Eu espero que as organizações internacionais possam atuar de maneira forte e encontrar uma solução para essa questão, e que o Líbano possa voltar a ser o país pujante e florescente, com uma grande economia, um grande centro financeiro como foi no passado e que continue a ter as relações mais próximas, inclusive com intercâmbios diretos com o Brasil, já que somos sociedades tão parecidas, tão próximas e com uma grande contribuição.",
+                "As estimativas são de que haja no Brasil 8 milhões de brasileiros de origem libanesa. Isso é um dado importantíssimo. Isso é praticamente três vezes a população do Líbano. E, portanto, eu acho que nós nos orgulhamos muito da presença dessa colônia no Brasil e da contribuição que sempre deram para a sociedade brasileira. Portanto, o nosso esforço é todo no sentido de buscar um entendimento e uma solução pacífica e esperando e rezando para que não haja, evidentemente, nenhum recurso a armas desse tipo.",
+                "KM: Ministro, vamos ao Nordeste, a Maceió, Rádio Gazeta. Marcos Rodrigues.",
+                "Marcos Rodrigues:  Ministro, Aconteceu no mês passado aqui em Maceió, um grande evento aí da articulação do G20, aonde foi discutido a transformação digital como catalisadora de avanços sociais. Isso foi debatido no B20 que reuniu o mundo dos negócios, mais discutindo essa questão que é essencial para que o Brasil também dê passos importantes. Como é que anda o nosso relacionamento com os grandes conglomerados econômicos e países para tentar também avançar nessa questão de novos contratos, negócios digitais que garantam renda, mas principalmente inclusão para o nosso país.",
+                "ME: Muito obrigado, Marcos. Eu posso garantir que um dos papéis, um dos das funções do G20, é justamente essa, de promover discussões importantes e profundas nas mais diferentes áreas. A inclusão digital é fundamental. Não haverá processo de desenvolvimento, de crescimento, se não houver a inclusão social. Isso sobretudo num país da dimensão do Brasil, do tamanho do Brasil, em que é impossível de se ter no mundo de hoje educação, saúde e bem-estar sem haver uma inclusão social, sem haver uma possibilidade de participar nas estruturas do Estado por via digital, o G20 discute essa área e muitas outras. E, sem dúvida, essa não é uma área específica de atuação do Itamaraty, são outros ministérios, mas justamente o Itamaraty durante a presidência brasileira, nós temos o Sherpa que são duas, vamos dizer, duas trilhas, uma financeira e outra de Sherpas de área política. E nós coordenamos as reuniões de todos os grupos, inclusive para que se possa produzir no final, na reunião que acontecerá no dia 18, 19 de novembro, no Rio de Janeiro, dos chefes de Estado, dos países do G20 e dos diretores gerais, dos secretários gerais, das organizações internacionais que estão convidadas, além dos Estados convidados, para que se possa chegar a um documento importante que dê orientações, que dê princípios e regras para o convívio, para o desenvolvimento dos países, para o continente, para a continuidade das relações e também para passar isso como uma herança para a próxima presidência, que é a da África do Sul.",
+                "Eu queria só registrar que houve uma coincidência muito positiva, que foi ter quatro países em desenvolvimento, quatro países, o chamado sul global na presidência do G20, o primeiro foi a Indonésia, depois foi a Índia, no ano passado. Esse ano o Brasil e no próximo ano será a África do Sul. Com isso, nós teremos quatro países que vão dirigir seu trabalho, sua organização, durante as respectivas presidências de G20, para os assuntos que são fundamentais, que são importantes. E a inclusão digital, sem dúvida nenhuma é um desses.",
+                "Após a presidência da África do Sul, no ano que vem, começará a rotação dos 20 países membros do G20 com o criador do G20, que foi no momento foram os Estados Unidos, no momento da grande crise financeira de 2008, 2009.",
+                "KM: Ministro, a gente está chegando na reta final do Bom dia, ministro. E eu aproveito que o senhor estava falando de G20 exatamente para a gente falar um pouco do que a gente pode esperar de concreto da cúpula, ministro.",
+                "O Brasil está na presidência do G20 o último ano aí e a presidência se encerra no final deste ano. E aí, como senhor acabou de dizer, a Índia foi o último país a presidir e o próximo será a África do Sul, ambos países que também compõe o BRICS.",
+                "E aí, nesse sentido, eu quero saber, como muitos assuntos convergentes, participam de mais de um bloco esses países. Se a pauta brasileira junto com esses países se fortalece nesse momento. E queria saber o que a gente pode esperar de concreto da cúpula marcada para os dias 18 e 19 de novembro, no Rio de Janeiro?",
+                "ME: Pois não, muito obrigado, Karine. A cúpula vai culminar a presidência brasileira e eu tenho certeza que será um final muito produtivo, muito positivo e que nos orgulhará muito. Primeiro, porque nós lançaremos formalmente uma iniciativa que é do presidente Lula e que já foi anunciada numa reunião que se realizou em junho, julho deste ano, no Rio de Janeiro, que é a Aliança Global contra a Fome e a Pobreza. Isso é uma importantíssima iniciativa, e essa iniciativa é um projeto pessoal do Presidente, que teve desde os seus dois mandatos anteriores no Fome Zero, um dos programas mais importantes. E agora isso é uma articulação internacional. Essa aliança global reunirá países que queiram contribuir financeiramente, mas também reunirá, será uma espécie de plataforma para que todos os países tenham acesso aos diferentes programas que cada país possui nessa área e os programas que tenham mais êxito e então que se possa fazer recurso direto a esses países, vou dar um exemplo concreto.",
+                "Recentemente eu visitei no primeiro semestre desse ano Bangladesh, que tem um projeto, um programa de fome, de combate à fome, um Fome Zero deles, que é muito bom, muito efetivo, muito eficiente, com as características necessárias para o país, com pontos comuns como o nosso, mas com outros. E ambos os projetos têm aspectos muito positivos. Então essa plataforma da Aliança Global, como eu disse, terá não só recursos financeiros, mas terá também esse acesso ao conhecimento.",
+                "Será possível compartilhar as informações com outros países que queiram. A Aliança já tem cerca de 50 membros que anunciaram que vão aderir, quer dizer, isso é mais do que a composição do G20. Muitos organismos internacionais também participarão, como o Banco Interamericano, o Banco Mundial e outras organizações, e muitos países já anunciaram. Eu acho que isso será, sem dúvida nenhuma, uma grande, uma grande contribuição do Brasil. A questão da fome, da luta contra a pobreza, da desigualdade no mundo. Mas são outros também. Há uma grande iniciativa na área da saúde que está sendo capitaneada pela ministra Nísia Trindade e em que será também feito uma chamada a contribuição com recursos para um fundo para promoção de medicamentos e de mecanismos que possam combater pandemias como a que lamentavelmente tivemos.",
+                "Mas também não é só isso. Há várias outras iniciativas em todas as áreas. O G20 é um importante mecanismo de articulação e de troca de informação entre países que são, não só as maiores economias do mundo, mas também economias em desenvolvimento, países importantes do chamado sul global. É interessante ver que no G20 tem todo o G7. Estão presentes e muitos membros dos BRICS também. Então é um grupo que hoje, na atualidade, em que nós vemos a questão da governança global, que também é um dos temas da presidência brasileira de reforma da governança global, não só das Nações Unidas e do Conselho de Segurança, mas também dos organismos financeiros internacionais, como o Fundo Monetário, o Banco Mundial, em que os países em desenvolvimento precisam ter uma participação, a presença maior, também da organização Mundial do Comércio, que é o grande, vamos dizer, Tribunal Comercial, que é uma importante arma para a igualdade de condições para que os países possam competir comercialmente no mundo.",
+                "Eu acho que essa articulação é importantíssima e será uma grande contribuição. E temos que lembrar que o G20 foi criado num momento de grave crise financeira que levou à quebra de grandes companhias de grandes bancos, coisas que não eram esperadas, mas que aconteceram e o G20 surgiu com uma reação a essa situação. Aumentou o seu, a sua plataforma, aumentou a sua área de atuação, mas eu acho que com uma contribuição muito positiva.",
+                "KM: Ministro, quero agradecer muito sua presença aqui hoje no Bom dia, ministro e vou aproveitar já que o senhor veio aqui, demorou para o senhor voltar aqui. Vou aproveitar aqui. Vamos falar um pouquinho rapidamente já pedindo suas considerações finais, vamos falar um pouquinho do BRICS 22 a 24 de outubro em Kazan, a Rússia, neste momento tem a presidência rotativa, né? É quem preside o BRICS. E aí eu queria saber do senhor, Cuba pediu aí oficialmente a sua incorporação ao grupo como país parceiro e eu queria que o senhor falasse um pouco disso para a gente. Já quero agradecer a sua presença aqui.",
+                "ME: Muito obrigado, uma vez mais, muito obrigado pelo convite e fico muito contente de ter vindo uma segunda vez. Lamento que tenha demorado realmente um pouco, devido a toda a agenda de viagens, mas estarei sempre às ordens para voltar sempre que for necessário.",
+                "Nós vamos ter a reunião do BRICS em Kazan em poucos dias. Uma semana e meia. Vai ser uma reunião muito importante, porque vai ser a primeira reunião dos chefes de Estado com a nova configuração do BRICS, que são dez países. E eles, nessa reunião vai ser discutida, vai ser decidida a forma em que essa expansão continuará a acontecer. O Brasil é partidário e outros países membros também para que sejam criados agora, num primeiro momento, uma categoria de países associados, países de diálogos, parceiros de um diálogo com o BRICS.",
+                "E vão ser também estabelecidos as regras para que os parceiros, os novos parceiros do BRICS se associem à organização. É uma organização informal, sem um secretariado que de cada país que preside, faz todo o trabalho. Esse ano está com a Rússia. Ano que vem virá para o Brasil. O Brasil terá ano que vem dois grandes eventos, duas grandes presidências: e a do BRICS e depois a COP 30.",
+                "São dois grandes desafios. Não é só para a diplomacia brasileira. Para todo o governo são dois, dois enormes, duas enormes produções. Mas nós teremos então essa reunião em que será discutido o futuro. Não é só Cuba, mas são muitos países. Há uma lista, talvez de 30 países que têm um manifestado já por escrito para a presidência russa e para a presidência anterior, que foi a África do Sul que desejam aceder ao BRICS no momento adequado. Então isso será discutido. Mas também, o BRICS é uma plataforma muito importante, muito interessante, começando com cinco países que deram origem à sigla BRICS, mas se expandindo para outros importantes atores na comunidade internacional nesse momento. É mais um âmbito de diálogo, e o diálogo entre essas diferentes plataformas eu acho que só contribuirá para um melhor entendimento entre os países, entre as nações.",
+                "KM: Embaixador, Sucesso, viu? Obrigada!",
+                "ME: Muito obrigado!",
+                "KM: Obrigada por tudo. Até uma próxima. Espero que tenha uma brechinha aí para a gente conversar em novas oportunidades. De novo, quero agradecer também a todos os colegas que me ajudaram a fazer o Bom Dia, Ministro de hoje a gente se vê aí pelos próximos programas. São sempre muito bem-vindos. Hoje quem assina os trabalhos técnicos aqui pela rádio é ele Reynaldo dos Santos, obrigada pela sua companhia até agora. Continue no Canal Gov. Tchau.",
+                "Disponível em: https://www.youtube.com/watch?v=aUm_CoNELlw"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

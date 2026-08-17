@@ -1,0 +1,835 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "carlos-alberto-franco-franca"
+            ],
+            "titulo": "Intervenção do Ministro Carlos França na segunda sessão de trabalho da Reunião de Chanceleres e Ministros de Desenvolvimento do G20: Desenvolvimento sustentável do continente africano – Itália, 29/06/2021",
+            "subtitulo": "NA",
+            "data": "29/06/2021",
+            "horario": "09h33",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/06/2023"
+            ],
+            "horario_atualizado": [
+                "17h07"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/carlos-alberto-franco-franca/copy_of_intervencao-do-ministro-carlos-franca-na-segunda-sessao-de-trabalho-da-reuniao-de-chanceleres-e-ministros-de-desenvolvimento-do-g20-desenvolvimento-sustentavel-do-continente-africano-2013-italia-29-06-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Obrigado, Presidente,",
+                "Este debate sobre o desenvolvimento sustentável na África é iniciativa louvável da Presidência italiana. É um dos desafios mais urgentes dos nossos tempos, no centro dos esforços de cooperação internacional. Muito já foi feito, mas o continente africano precisa de muito mais, embora tenha se tornado uma das regiões do mundo que mais cresce.",
+                "Ao longo das últimas décadas, o Brasil aumentou consideravelmente a cooperação em prol do desenvolvimento sustentável na África. Nos últimos 20 anos, foram realizadas mais de 700 iniciativas com nossos parceiros africanos e 75 delas ainda estão em andamento.",
+                "Conseguimos construir um capital de confiança com nossos parceiros africanos, que conheceram o valor de nossas iniciativas e métodos de trabalho. Eles sabem que a cooperação do Brasil se pauta pela demanda e que definimos, em conjunto com as instituições locais, a forma e o conteúdo das ações de cooperação, respeitando as prioridades e políticas nacionais.",
+                "O Brasil está empenhado em fortalecer sua cooperação com a África por meio de novas iniciativas destinadas a fortalecer os sistemas institucionais em uma ampla gama de setores, como saúde, educação, produção e produtividade agrícola, segurança alimentar, ciência e tecnologia, finanças públicas, entre outros. Nossa ambição é fornecer à África as habilidades e capacidades necessárias para que projete e implemente suas próprias soluções endógenas para enfrentar os desafios do desenvolvimento sustentável.",
+                "Em nossas negociações com a África, temos aplicado princípios comuns, como respeito à soberania, não interferência em assuntos internos, parceria entre iguais e benefício mútuo. Essa escolha decorre de um princípio constitucional brasileiro segundo o qual a cooperação entre os povos é a pedra angular de nossa política externa. Como país em desenvolvimento, o Brasil está pronto para compartilhar suas experiências com nações que tenham desafios comuns.",
+                "Na África, também implementamos estruturas de cooperação trilateral, que incluem parceiros fora do continente. Essa modalidade reduz custos, amplia meios e pode oferecer soluções mais próximas da realidade dos nossos parceiros africanos.",
+                "Caros colegas,",
+                "Esta primeira reunião de Ministros do Desenvolvimento é oportunidade única para promover parceria em benefício do continente africano, uma iniciativa liderada por governos, mas aberta ao setor privado e à sociedade civil. Nossa ação deve basear-se no consenso multilateral, ao mesmo tempo que visa a resultados e desdobramentos concretos para o desenvolvimento sustentável da África. Esse é um compromisso do Governo Brasileiro e de suas instituições parceiras de desenvolvimento.",
+                "Obrigado a todos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "carlos-alberto-franco-franca"
+            ],
+            "titulo": "Intervenção do Ministro Carlos França na segunda sessão de trabalho da Reunião de Chanceleres e Ministros de Desenvolvimento do G20: Desenvolvimento sustentável do continente africano – Itália, 29/06/2021",
+            "subtitulo": "NA",
+            "data": "30/06/2021",
+            "horario": "12h38",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/06/2023"
+            ],
+            "horario_atualizado": [
+                "18h38"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/carlos-alberto-franco-franca/intervencao-do-ministro-carlos-franca-na-segunda-sessao-de-trabalho-da-reuniao-de-chanceleres-e-ministros-de-desenvolvimento-do-g20-desenvolvimento-sustentavel-do-continente-africano-2013-italia-29-06-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Obrigado, Presidente,",
+                "Este debate sobre o desenvolvimento sustentável na África é iniciativa louvável da Presidência italiana. É um dos desafios mais urgentes dos nossos tempos, no centro dos esforços de cooperação internacional. Muito já foi feito, mas o continente africano precisa de muito mais, embora tenha se tornado uma das regiões do mundo que mais cresce.",
+                "Ao longo das últimas décadas, o Brasil aumentou consideravelmente a cooperação em prol do desenvolvimento sustentável na África. Nos últimos 20 anos, foram realizadas mais de 700 iniciativas com nossos parceiros africanos e 75 delas ainda estão em andamento.",
+                "Conseguimos construir um capital de confiança com nossos parceiros africanos, que conheceram o valor de nossas iniciativas e métodos de trabalho. Eles sabem que a cooperação do Brasil se pauta pela demanda e que definimos, em conjunto com as instituições locais, a forma e o conteúdo das ações de cooperação, respeitando as prioridades e políticas nacionais.",
+                "O Brasil está empenhado em fortalecer sua cooperação com a África por meio de novas iniciativas destinadas a fortalecer os sistemas institucionais em uma ampla gama de setores, como saúde, educação, produção e produtividade agrícola, segurança alimentar, ciência e tecnologia, finanças públicas, entre outros. Nossa ambição é fornecer à África as habilidades e capacidades necessárias para que projete e implemente suas próprias soluções endógenas para enfrentar os desafios do desenvolvimento sustentável.",
+                "Em nossas negociações com a África, temos aplicado princípios comuns, como respeito à soberania, não interferência em assuntos internos, parceria entre iguais e benefício mútuo. Essa escolha decorre de um princípio constitucional brasileiro segundo o qual a cooperação entre os povos é a pedra angular de nossa política externa. Como país em desenvolvimento, o Brasil está pronto para compartilhar suas experiências com nações que tenham desafios comuns.",
+                "Na África, também implementamos estruturas de cooperação trilateral, que incluem parceiros fora do continente. Essa modalidade reduz custos, amplia meios e pode oferecer soluções mais próximas da realidade dos nossos parceiros africanos.",
+                "Caros colegas,",
+                "Esta primeira reunião de Ministros do Desenvolvimento é oportunidade única para promover parceria em benefício do continente africano, uma iniciativa liderada por governos, mas aberta ao setor privado e à sociedade civil. Nossa ação deve basear-se no consenso multilateral, ao mesmo tempo que visa a resultados e desdobramentos concretos para o desenvolvimento sustentável da África. Esse é um compromisso do Governo Brasileiro e de suas instituições parceiras de desenvolvimento.",
+                "Obrigado a todos.",
+                ""
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "carlos-alberto-franco-franca"
+            ],
+            "titulo": "Intervenção do Ministro Carlos França na Reunião de Ministros de Desenvolvimento do G20 – Itália, 29/06/2021",
+            "subtitulo": "NA",
+            "data": "30/06/2021",
+            "horario": "12h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/06/2023"
+            ],
+            "horario_atualizado": [
+                "18h38"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/carlos-alberto-franco-franca/intervencao-do-ministro-carlos-franca-na-reuniao-de-ministros-de-desenvolvimento-do-g20-2013-italia-29-06-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Obrigado, presidente.",
+                "Felicito a Presidência italiana pela iniciativa de convocar esta reunião, a primeira reunião separada dos Ministros de Desenvolvimento do G20. Esse formato eleva o perfil político das discussões sobre desenvolvimento, e espero que seja preservado nas futuras presidências.",
+                "Este encontro nos dá a oportunidade de refletir e trocar pontos de vista sobre a cooperação que nossos países oferecem aos países em desenvolvimento e de menor desenvolvimento relativo em todo o mundo.",
+                "Neste contexto, também devemos lembrar que muitos membros do G20 são economias emergentes e fornecedoras de cooperação a terceiros países, ao mesmo tempo em que enfrentam muitos dos desafios ao desenvolvimento.",
+                "A maioria das economias emergentes do G20 oferece cooperação Sul-Sul e triangular, que, sob muitos aspectos, difere das iniciativas tradicionais Norte-Sul. O Grupo de Trabalho em Desenvolvimento do G20 é, portanto, um laboratório para a convergência de nossas práticas e padrões de cooperação internacional, bem como para a identificação e compartilhamento de boas práticas que possam beneficiar não apenas os países menos desenvolvidos, mas também a maioria de nossos próprios países.",
+                "Os trabalhos realizados este ano são um bom exemplo disso.",
+                "Os trabalhos que visam ao “aumento da emissão de títulos verdes, sociais e de sustentabilidade em países em desenvolvimento” são muito promissores, uma vez que podem ajudar a mobilizar recursos adicionais, com perspectivas de longo prazo e em consonância com objetivos sociais, econômicos, ambientais e climáticos.",
+                "Pelas mesmas razões, o Brasil endossa o apoio do G20 à implementação de “Estruturas de Financiamento Nacional Integrado” (INFFs) em países em desenvolvimento e em países menos desenvolvidos, sempre tendo em mente que o envolvimento em INFFs deve ser voluntário, tuteladas pelo país e não deve estar sujeito a quaisquer condições.",
+                "O Brasil também apoia a “visão comum” para promover um maior alinhamento dos recursos liberados por iniciativas do G20, tais como as Iniciativas de Suspensão do Serviço da Dívida (ISSDs), o Quadro Comum e a possível alocação de Direitos Especiais de Saque (DESs) para os Objetivos de Desenvolvimento Sustentável (ODSs). Essas iniciativas têm a vantagem de promover maior transparência de débitos e de alocações de recursos. No entanto, a implementação desta visão comum ainda não está clara para muitos de nós e exigirá mais trabalho, em cooperação com a área financeira, até o final da Presidência italiana.",
+                "O Brasil também presta grande apoio ao fluxo de trabalho sobre “desenvolvimento territorial e localização dos ODS”. Os Objetivos de Desenvolvimento Sustentável apenas podem se tornar realidade nos níveis nacional e subnacional, com envolvimento dos governos locais, do setor privado e da sociedade civil.",
+                "Esperamos que o atual foco dos ODSs nas cidades intermediárias e na conectividade urbano-rural, assim como o estabelecimento da respectiva  Plataforma do G20 para Localização dos ODS e Cidades Intermediárias,  a ser operacionalizada pela OCDE e pela ONU-Habitat, permita uma troca frutífera de experiências entre as cidades e contribua de forma concreta para a implementação dos ODS no âmbito local.",
+                "Obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "carlos-alberto-franco-franca"
+            ],
+            "titulo": "Intervenção do Ministro Carlos França na sessão conjunta de MREs e Ministros de Desenvolvimento do G20 - Fortalecendo a segurança alimentar e a nutrição e avançando rumo a um mundo sem fome em 2030 - Itália, 29/06/2021",
+            "subtitulo": "NA",
+            "data": "30/06/2021",
+            "horario": "13h01",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/06/2023"
+            ],
+            "horario_atualizado": [
+                "18h38"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/carlos-alberto-franco-franca/intervencao-do-ministro-carlos-franca-na-sessao-conjunta-de-mres-e-ministros-de-desenvolvimento-do-g20-fortalecendo-a-seguranca-alimentar-e-a-nutricao-e-avancando-rumo-a-um-mundo-sem-fome-em-2030-italia-29-06-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Obrigado, Presidente.",
+                "",
+                "Felicito a presidência italiana por convocar esta primeira sessão conjunta de Ministros das Relações Exteriores e Ministros do Desenvolvimento do G20, com o devido enfoque na questão crucial da segurança alimentar.",
+                "Todos nós sabemos que a segurança alimentar pode ser ameaçada por um grande número de fatores. Conflitos e mudanças climáticas podem prejudicar a produção de alimentos ou sua distribuição em partes específicas do mundo, levando à fome. Os preços do petróleo bruto podem afetar os preços das commodities, causando flutuações de preços que também podem levar à insegurança alimentar, como aconteceu na crise alimentar de 2007-2008. Subsídios e medidas de apoio que distorcem o comércio internacional de alimentos também podem afetar a produção local nos países menos desenvolvidos, levando a maior insegurança alimentar.",
+                "A pandemia da COVID-19 também afetou a segurança alimentar de famílias e comunidades inteiras nos países em desenvolvimento. Devemos avaliar os reais fatores por trás desse efeito. Apesar do possível aumento nos preços dos alimentos, a pandemia afetou sobretudo a segurança alimentar por cortes de empregos e renda, privando milhões de famílias de meios para comprar alimentos saudáveis ​​e nutritivos.",
+                "Todos sabemos que, exceto em situações específicas, a insegurança alimentar decorre principalmente da falta de renda, e não da falta de alimentos.",
+                "Durante a pandemia, o comércio internacional de alimentos e suas cadeias de valor permaneceram em sua maioria abertos, garantindo a disponibilidade de alimentos e evitando graves crises alimentares em todo o mundo.",
+                "Ainda assim, em muitos países, as medidas tomadas para combater a pandemia aprofundaram as desigualdades já existentes. Famílias que dependem de ocupações informais, assim como mulheres, jovens, idosos e pessoas com deficiência foram particularmente afetadas. Mesmo em países como o Brasil, cuja produção doméstica de alimentos alimenta de forma sustentável cerca de um bilhão de pessoas em todo o mundo, a insegurança alimentar aumentou devido à perda de renda.",
+                "As medidas de apoio adotadas pelo Governo Brasileiro têm ajudado a preservar mais de 12 milhões de empregos e a manter mais de 400.000 pequenas e médias empresas abertas. O auxílio emergencial beneficiou diretamente mais de 65 milhões de brasileiros. Mesmo assim, o crescimento das necessidades financeiras para responder à pandemia e a diminuição do espaço fiscal - o chamado efeito tesoura - dificultam a manutenção de medidas de apoio adequadas. Esse mesmo fenômeno está afetando, em diferentes graus, muitas nações do mundo em desenvolvimento.",
+                "Por esse motivo, é imperativo que direcionemos tanto nossos esforços domésticos quanto nossa cooperação internacional para acelerar a vacinação em massa, o que permitirá que nossas economias e as menores de países menos desenvolvidos se recuperem mais rapidamente, criem novos empregos e aumentem os níveis de renda.",
+                "Na luta contra a pandemia da COVID-19, nenhum emprego ou fonte de renda estarão seguros até que a maioria das pessoas em todo o mundo esteja totalmente vacinada. Ninguém estará seguro até que todos estejam seguros.",
+                "",
+                "Obrigado a todos.",
+                ""
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "carlos-alberto-franco-franca"
+            ],
+            "titulo": "Intervenção do Ministro Carlos França na primeira sessão de trabalho da Reunião de Chanceleres e Ministros de Desenvolvimento do G20: Multilateralismo e governança global – Itália, 29/06/2021",
+            "subtitulo": "NA",
+            "data": "29/06/2021",
+            "horario": "07h55",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h06"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/carlos-alberto-franco-franca/copy_of_intervencao-do-ministro-carlos-franca-na-primeira-sessao-de-trabalho-da-reuniao-de-chanceleres-e-ministros-de-desenvolvimento-do-g20-multilateralismo-e-governanca-global-2013-italia-29-06-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Colegas Ministros de Negócios Estrangeiros,",
+                "Líderes de organizações internacionais,",
+                "Senhoras e senhores,",
+                "É uma honra participar, pela primeira vez, desta reunião de Ministros de Relações Exteriores do G20.",
+                "Não tenho dúvida de que, nestes tempos de múltiplas crises, o G20 desempenha papel central no apoio à governança global e ao multilateralismo.",
+                "A pandemia da COVID-19 trouxe à tona a necessidade e a urgência de reformar sistemas e organizações internacionais. Precisamos trabalhar juntos para alcançar essa meta, de maneira inclusiva e construtiva, baseada nas lições aprendidas e com vistas a um futuro mais resiliente e sustentável, de forma que sistemas e organizações multilaterais estejam mais bem preparados para mudanças futuras.",
+                "Em um renovado multilateralismo pós-COVID, organizações internacionais devem ser mais efetivas, transparentes e sujeitas a prestação de contas com governos e sociedades em geral.",
+                "O Brasil tem-se engajado no processo em curso de reforma do sistema de saúde mundial, que tem a Organização Mundial da Saúde em seu cerne. Precisamos estar mais bem preparados para detectar novas ameaças e crises sanitárias e para responder a elas. Precisamos de sistemas de saúde mais resilientes e de cadeias de produção de vacinas, insumos e outros materiais e equipamentos médicos mais diversificadas.",
+                "No curto prazo, entretanto, temos em mãos uma tarefa mais urgente. O compromisso que nossos líderes fizeram para garantir o acesso equitativo a todas as vacinas, diagnósticos e tratamentos ainda não é uma realidade. Nós temos a obrigação moral de canalizar nossos esforços e recursos para intensificar a produção e a distribuição de vacinas, tomando medidas para facilitar a produção local em países em desenvolvimento e para compartilhar parte dos estoques existentes.",
+                "Reitero o apoio do Brasil ao Acelerador de Acesso às Ferramentas COVID-19 (ACT) e congratulo-me com a presidência italiana por haver coordenado a Cúpula Mundial de Saúde, que apontou o caminho para a resposta à pandemia. Precisamos, agora, de manter o impulso na sua implementação.",
+                "O sistema internacional de comércio tem, também, desempenhado papel importante na resposta à pandemia na COVID-19. Membros do G20 concordaram que quaisquer medidas emergenciais restritivas devem ser específicas, proporcionais, transparentes e temporárias. Essa abordagem tem evitado perturbações de maior escala no comércio internacional e nas cadeias globais de valor.",
+                "Felizmente, as cadeias internacionais de alimentos e de valor permaneceram abertas, de forma a garantir a segurança alimentar pelo mundo. É nossa tarefa comum garantir que as cadeias internacionais de comércio de alimentos e de valor se tornem ainda mais abertas, eficientes, resilientes, diversificadas e confiáveis.",
+                "Para alcançar esse objetivo, os Ministros de Comércio e Investimento do G20, que se reunirão em outubro, em Sorrento, devem enviar mensagem firme à XII Conferência Ministerial da OMC, em apoio a um sistema multilateral de comércio livre, justo, baseado em regras, previsível e não-discriminatório, com a OMC em seu centro.",
+                "O G20 é, provavelmente, o fórum mais bem posicionado para construir consenso e fomentar o processo de reforma de organizações internacionais e do multilateralismo em seu conjunto. Precisamos manter o ímpeto ao dar nossa contribuição para construir um futuro melhor.",
+                "Obrigado"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "carlos-alberto-franco-franca"
+            ],
+            "titulo": "Intervenção do Ministro Carlos França na primeira sessão de trabalho da Reunião de Chanceleres e Ministros de Desenvolvimento do G20: Multilateralismo e governança global – Itália, 29/06/2021",
+            "subtitulo": "NA",
+            "data": "30/06/2021",
+            "horario": "17h11",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h12"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/carlos-alberto-franco-franca/intervencao-do-ministro-carlos-franca-na-primeira-sessao-de-trabalho-da-reuniao-de-chanceleres-e-ministros-de-desenvolvimento-do-g20-multilateralismo-e-governanca-global-2013-italia-29-06-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Colegas Ministros de Negócios Estrangeiros,",
+                "Líderes de organizações internacionais,",
+                "Senhoras e senhores,",
+                "É uma honra participar, pela primeira vez, desta reunião de Ministros de Relações Exteriores do G20.",
+                "Não tenho dúvida de que, nestes tempos de múltiplas crises, o G20 desempenha papel central no apoio à governança global e ao multilateralismo.",
+                "A pandemia da COVID-19 trouxe à tona a necessidade e a urgência de reformar sistemas e organizações internacionais. Precisamos trabalhar juntos para alcançar essa meta, de maneira inclusiva e construtiva, baseada nas lições aprendidas e com vistas a um futuro mais resiliente e sustentável, de forma que sistemas e organizações multilaterais estejam mais bem preparados para mudanças futuras.",
+                "Em um renovado multilateralismo pós-COVID, organizações internacionais devem ser mais efetivas, transparentes e sujeitas a prestação de contas com governos e sociedades em geral.",
+                "O Brasil tem-se engajado no processo em curso de reforma do sistema de saúde mundial, que tem a Organização Mundial da Saúde em seu cerne. Precisamos estar mais bem preparados para detectar novas ameaças e crises sanitárias e para responder a elas. Precisamos de sistemas de saúde mais resilientes e de cadeias de produção de vacinas, insumos e outros materiais e equipamentos médicos mais diversificadas.",
+                "No curto prazo, entretanto, temos em mãos uma tarefa mais urgente. O compromisso que nossos líderes fizeram para garantir o acesso equitativo a todas as vacinas, diagnósticos e tratamentos ainda não é uma realidade. Nós temos a obrigação moral de canalizar nossos esforços e recursos para intensificar a produção e a distribuição de vacinas, tomando medidas para facilitar a produção local em países em desenvolvimento e para compartilhar parte dos estoques existentes.",
+                "Reitero o apoio do Brasil ao Acelerador de Acesso às Ferramentas COVID-19 (ACT) e congratulo-me com a presidência italiana por haver coordenado a Cúpula Mundial de Saúde, que apontou o caminho para a resposta à pandemia. Precisamos, agora, de manter o impulso na sua implementação.",
+                "O sistema internacional de comércio tem, também, desempenhado papel importante na resposta à pandemia na COVID-19. Membros do G20 concordaram que quaisquer medidas emergenciais restritivas devem ser específicas, proporcionais, transparentes e temporárias. Essa abordagem tem evitado perturbações de maior escala no comércio internacional e nas cadeias globais de valor.",
+                "Felizmente, as cadeias internacionais de alimentos e de valor permaneceram abertas, de forma a garantir a segurança alimentar pelo mundo. É nossa tarefa comum garantir que as cadeias internacionais de comércio de alimentos e de valor se tornem ainda mais abertas, eficientes, resilientes, diversificadas e confiáveis.",
+                "Para alcançar esse objetivo, os Ministros de Comércio e Investimento do G20, que se reunirão em outubro, em Sorrento, devem enviar mensagem firme à XII Conferência Ministerial da OMC, em apoio a um sistema multilateral de comércio livre, justo, baseado em regras, previsível e não-discriminatório, com a OMC em seu centro.",
+                "O G20 é, provavelmente, o fórum mais bem posicionado para construir consenso e fomentar o processo de reforma de organizações internacionais e do multilateralismo em seu conjunto. Precisamos manter o ímpeto ao dar nossa contribuição para construir um futuro melhor.",
+                "Obrigado"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "carlos-alberto-franco-franca"
+            ],
+            "titulo": "Reunião dos Ministros das Relações Exteriores/Relações Internacionais do BRICS – Palavras de abertura – 01/06/2021",
+            "subtitulo": "NA",
+            "data": "01/06/2021",
+            "horario": "22h50",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "18h17"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/carlos-alberto-franco-franca/reuniao-dos-ministros-das-relacoes-exteriores-relacoes-internacionais-do-brics-palavras-de-abertura-01-06-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Senhor Presidente, Ministro Subrahmanyam Jaishankar,",
+                "Caros Colegas,",
+                "Gostaria de começar agradecendo à Índia por organizar esta reunião, que se tornou um marco tradicional e significativo do calendário anual de eventos internacionais.",
+                "É uma satisfação estar aqui, em minha primeira reunião do BRICS como Ministro das Relações Exteriores do Brasil. Ao longo da minha carreira, presenciei a criação deste grupo em 2006 e a sua crescente importância, com resultados concretos sendo entregues às nossas sociedades. Durante a pandemia de COVID-19, o BRICS demonstrou resiliência, mantendo suas atividades ao longo de 2020 e 2021, com espírito de cooperação efetiva e fraterna entre amigos.",
+                "O BRICS é um elemento central da política externa brasileira, tradicionalmente voltada para a promoção da paz e do desenvolvimento universais. Como economias emergentes, o Brasil e nossos parceiros do BRICS compartilham esses objetivos, ao mesmo tempo em que trabalham por metas comuns de tornar a ordem internacional verdadeiramente multilateral e representativa das aspirações de todos.",
+                "O Brasil acredita que a Declaração Conjunta sobre o Fortalecimento e a Reforma do Sistema Multilateral, a ser adotada hoje adicionalmente ao nosso tradicional Comunicado à Imprensa, prova que o BRICS continua sendo capaz de falar com uma só voz sobre os principais temas da agenda internacional. Devemos, de fato, nos engajar em negociações sérias para reformar a governança global e aumentar a representação dos países em desenvolvimento.",
+                "À Índia, gostaria de expressar nossa gratidão pela parceria que permitiu o recente lançamento do primeiro satélite 100% nacional do Brasil, o Amazônia-1. Nossa cooperação em CTI está revelando um grande potencial para ganhos mútuos. Também estamos esperançosos com relação à cooperação na produção de vacinas, que é o cerne da nossa parceria com o Instituto Serum.",
+                "Devo mencionar também nossa parceria com a China, que se revelou crucial na atual pandemia. Reforçamos nossa cooperação em vacinas, com base na aquisição de novas doses e insumos, elevando nosso comércio bilateral a níveis inusitados. Na próxima reunião da COSBAN, espero que possamos aprofundar ainda mais nosso amplo espectro de cooperação.",
+                "Também promovemos nossas relações com a Rússia ao mais alto nível, principalmente nas áreas de ciência e tecnologia e saúde pública. Esperamos que haja progresso em nossa cooperação para adquirir e produzir as vacinas Sputnik. Continuaremos apoiando o trabalho da agência reguladora brasileira nesse assunto.",
+                "Em resposta ao gentil convite do Ministro Lavrov, pretendo visitar a Federação da Rússia em breve, ainda este ano.",
+                "A África do Sul é nosso parceiro no BRICS com quem o Brasil compartilha raízes africanas comuns, desafios semelhantes e aspirações comparáveis, como a de ter maior destaque em foros internacionais. Nossa parceria ainda está aberta para melhorias adicionais, tanto no relacionamento bilateral quanto entre a África e a América do Sul. Com esse espírito, espero intensificar os contatos com a Ministra Pandor com a maior brevidade possível.",
+                "Com estas breves palavras, termino minhas considerações iniciais.",
+                "Muito Obrigado!"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "carlos-alberto-franco-franca"
+            ],
+            "titulo": "Palavras do Senhor Ministro de Estado  por ocasião da cerimônia de posse do Senhor Secretário-Geral - 04/06/2021",
+            "subtitulo": "NA",
+            "data": "04/06/2021",
+            "horario": "18h29",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "18h17"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/carlos-alberto-franco-franca/palavras-do-senhor-ministro-de-estado-por-ocasiao-da-cerimonia-de-posse-do-senhor-secretario-geral-04-06-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "",
+                "Senhor Secretário-Geral das Relações Exteriores, Embaixador Fernando Simas Magalhães,",
+                "Senhor Embaixador Otávio Brandelli,",
+                "Senhor Secretário de Comunicação e Cultura, Embaixador Paulino Franco de Carvalho Neto, em quem saúdo os colegas aqui, mas me permitiria também, porque hoje é a diretora do nosso ninho, ou como os militares chamam a AMAN de “a fábrica”, a Embaixadora Maria Stela Pompeu Brasil Frota, diretora do Instituto Rio Branco, o lar onde todos nascemos.",
+                "Eu também queria registrar aqui a presença e agradecer a presença da presidente da ADB, a Embaixadora Maria Celina de Azevedo Rodrigues, muito obrigado por sua presença aqui hoje, do presidente da ASOF, Edson Valente, e da presidente da ASMRE, minha amiga Ivonete Santiago Nery de Souza. Quando eu comecei na carreira, na DSG, Ivonete trabalhava lá, trabalhamos juntos. Não que os outros não sejam amigos, mas ela é uma amiga antiga.",
+                "Caros colegas,",
+                "A posse de um novo Secretário-Geral é momento de especial significado na vida da nossa instituição.",
+                "O Secretário-Geral, como sabemos, é o mais alto cargo no Itamaraty reservado exclusivamente a diplomatas de carreira.",
+                "É, como dizemos, o Chefe da Casa. É quem cuida para que a máquina funcione de forma precisa e suave. É quem vela para que, a todos os títulos, nosso ambiente de trabalho seja sempre o mais apropriado.",
+                "O Secretário-Geral, mais ainda, é o conselheiro de primeira e última instância do Ministro de Estado nos temas de maior relevo.",
+                "Em larga medida, é o Secretário-Geral das Relações Exteriores que dá o tom do Ministério, para dentro e para fora.",
+                "Esse, nunca será demais lembrar, é o peso da responsabilidade que traz a cadeira que foi do Visconde de Cabo Frio.",
+                "Felizmente, nossos quadros são o que temos de melhor – e estão à altura do que se espera de quem se senta naquela cadeira.",
+                "É o que revela a lista dos colegas que lá estiveram – vários aqui já mencionados.",
+                "Mais recentemente, foi o que mostrou o Embaixador Otávio Brandelli, de quem hoje nos despedimos.",
+                "O Embaixador Otávio Brandelli, que é meu colega de turma, não é? Da turma Ulysses Guimarães, que talvez traga aí no seu espírito, essa turma, toda a tenacidade, toda a habilidade que tinha esse grande político brasileiro. Turma que tem como paraninfa a Embaixadora Thereza Maria Machado Quintella, cujo pioneirismo e devoção ao trabalho sempre nos inspirou a todos nós aqui e, para além, inclusive, do talento e graça com que ela sempre desempenhou suas funções das importantes chefias da casa em que esteve à frente.",
+                "O Embaixador Brandelli, eu dizia, sempre desempenhou-se com profissionalismo. E ao lado do Ministro Ernesto Araújo, coube a ele conduzir, na Secretaria-Geral, a resposta do Ministério à circunstância – sem precedente na nossa geração – de uma pandemia. Penso, por exemplo, na eficiente repatriação de nacionais nossos. Ou mesmo na rápida adaptação dos métodos de trabalho da Casa.",
+                "Deixo o meu registro aqui, meu agradecimento pessoal ao Otávio, pelo período breve, porém intenso em que pude contar com você, Otávio, na Secretaria-Geral.",
+                "A nossa carreira é, ninguém aqui ignora, feita de ciclos. Para o ciclo que agora se encerra, você pode olhar, Otávio, com a certeza do dever cumprido.",
+                "Caros colegas do Serviço Exterior, Senhoras e Senhores,",
+                "É com alegria que estendo as boas-vindas ao Secretário-Geral.",
+                "O Embaixador Fernando Simas Magalhães é um diplomata completo. Quem o conhece sabe que não vai aí qualquer exagero de minha parte.",
+                "A sensibilidade política, o domínio dos dossiês, o equilíbrio do julgamento, a expressão dosada. São atributos que, em si raros, ainda mais raramente se veem combinados num mesmo indivíduo. E que, no entanto, no Embaixador Simas não só convivem, como ganham o sentido que lhes dá uma admirável qualidade humana.",
+                "Você tem perfeita consciência, Fernando, da dimensão dos desafios à nossa frente.",
+                "Desafios de política externa, sobretudo quanto às três urgências que o Presidente Jair Bolsonaro me instruiu a enfrentar: a urgência da saúde pública; a urgência da recuperação econômica; a urgência do desenvolvimento sustentável.",
+                "E, claro, desafios da administração da Casa: a garantia dos necessários recursos financeiros; a adequada lotação das unidades da Secretaria de Estado e dos Postos; a gestão dos fluxos de carreira; a solução das dificuldades decorrentes da aplicação do abate-teto em moeda estrangeira; a permanente atenção a outras questões que legitimamente preocupam os integrantes do nosso Serviço Exterior.",
+                "Gostaria, também, de anunciar que estou constituindo uma força-tarefa informal, sob a liderança do Embaixador José Augusto Andrade aqui presente, para rever a portaria que estabelece o atual Guia de Administração dos Postos (GAP).",
+                "Em particular, vamos propor a mudança de certos dispositivos excessivamente rígidos, que têm o efeito involuntário de impedir a boa gestão do dinheiro do contribuinte, como, por exemplo, no caso do pagamento dos salários do pessoal local em Beirute, depois da desvalorização de quase 80% da lira libanesa. O GAP, o novo GAP, será publicado no mês de julho próximo.",
+                "Em meu discurso de posse, afirmei que, diante de desafios de tamanha envergadura, me anima a convicção de que maior é nossa vontade coletiva de acertar. Pois acrescento que me anima, também, que seja Você, Fernando, a capitanear os nossos Secretários no esforço de mobilizar essa vontade – vontade que, desde que assumi o Ministério, tenho podido confirmar a cada dia.",
+                "E aqui me permito uma digressão. Eu estava ali à mesa ouvindo aqui os discursos do nosso Secretário-Geral Saliente, do Secretário-Geral Entrante, e olhava aqui vocês todos colegas e me dou conta do imenso talento que tem essa Casa. Em cada um de vocês aqui eu reconheço tanta competência, eu reconheço tanta dedicação ao Itamaraty, e que é o que realmente me dá forças aqui para imaginar de que juntos podemos chegar muito longe, podemos sair desse momento em que vivemos de crise do país, ajudar o país a sair dessa crise e ampliar ainda mais aqui a participação do Itamaraty. A contribuição que o Itamaraty pode dar à nação brasileira.",
+                "Senhor Secretário-Geral,",
+                "Seu pronunciamento de há pouco já nos indica prioridades para nosso aprimoramento institucional: atualização de procedimentos; constante ajuste das informações e análises que produzimos ao enfoque dos interesses brasileiros; aprimoramento dos canais de diálogo com a sociedade, com o conjunto da Esplanada e com o Congresso Nacional; consolidação enfim de uma efetiva política de comunicação.",
+                "São prioridades que endosso plenamente.",
+                "Como endosso a mensagem com que o Secretário-Geral concluiu suas palavras: o tempo é curto, passemos de imediato ao trabalho.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, no 24º Fórum Econômico Internacional de São Petersburgo",
+            "subtitulo": "Palácio do Planalto",
+            "data": "07/06/2021",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/12/2024"
+            ],
+            "horario_atualizado": [
+                "12h39"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-no-24o-forum-economico-internacional-de-sao-petersburgo",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Sua Excelência Senhor Vladimir Putin, Presidente da Federação da Rússia,",
+                "Senhores Chefes de Estado e de Governo,",
+                "Senhoras e Senhores,",
+                "Agradeço o convite do Presidente Putin para participar deste Fórum, que é o principal evento de economia e negócios de toda a Eurásia. Felicito sua realização como parte do esforço internacional de resposta à tripla urgência de reconstruir a saúde, a economia e a sustentabilidade globais.",
+                "O Fórum de São Petersburgo é a caixa de ressonância da nova paisagem geopolítica e geoeconômica em construção na Eurásia, região de importância decisiva e crescente, no epicentro das grandes transformações do mundo de hoje.",
+                "No contexto dos desafios da recuperação econômica impostos pela pandemia, o Fórum contribui para a criação de novas parcerias e para a consolidação de antigos vínculos, fundamentais na construção de um futuro próspero e ambientalmente sustentável.",
+                "É desejo do Brasil expandir e aprofundar as relações de amizade e cooperação com todos os países da região euroasiática, em particular com nosso anfitrião, a Rússia, parceira de longa data de meu País.",
+                "Nos próximos anos, o Brasil deve consolidar-se como o maior produtor mundial de alimentos. Mesmo no contexto da pandemia que assola o planeta, continuamos a garantir a segurança alimentar de um sexto da população mundial.",
+                "A agricultura brasileira atende aos mais altos requisitos sanitários e de sustentabilidade. Apenas 27% de nosso território é utilizado pelo agronegócio. Temos orgulho de conservar 84% de nosso bioma amazônico e 66% de nossa vegetação nativa.",
+                "Trabalhamos para potencializar nossas exportações de alimentos de qualidade para o mercado russo e de outros países da região. Nossas economias estão inseridas de forma positiva na cadeia de valor do agronegócio.",
+                "O Brasil é o maior destino das exportações de fertilizantes da Rússia, principal fornecedor de um insumo essencial para a agricultura brasileira. Queremos manter essa complementaridade, saudável para ambos os lados.",
+                "Mas há amplo potencial para diversificar nossa pauta comercial. O comércio entre Brasil e Rússia pode e deve incorporar o alto grau de desenvolvimento de nossas economias, de modo a abranger produtos de maior valor agregado em proporções crescentes.",
+                "Empreendedores de nossos países têm um papel fundamental na identificação de oportunidades novas e lucrativas. Nesse sentido, é importante aprofundarmos nossa cooperação na área de investimentos. O Brasil possui, atualmente, o melhor portfólio de investimentos em infraestrutura e energia do mundo. Convido os empresários aqui presentes a conhecerem melhor as oportunidades oferecidas ao amparo do Programa de Parceria de Investimentos do Governo brasileiro.",
+                "Continuemos trabalhando juntos para desenvolver a parceria tecnológica entre nossos países e expandir as parcerias nas áreas de defesa, espaço, energia e saúde. O Brasil está aberto a novas oportunidades de cooperação em alta tecnologia, a exemplo da nanotecnologia e materiais avançados, da inteligência artificial e da biotecnologia.",
+                "Faço votos de pleno êxito a esta edição do Fórum Econômico Internacional de São Petersburgo. E me associo às lideranças políticas e empresariais aqui presentes no empenho para a construção de uma ordem internacional baseada na prosperidade econômica, na liberdade, na paz e no desenvolvimento sustentável para todos.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-simas-magalhaes"
+            ],
+            "titulo": "Discurso do Senhor Secretário-Geral, Embaixador Fernando Simas Magalhães, por ocasião da sua cerimônia de posse - 04/06/2021",
+            "subtitulo": "NA",
+            "data": "04/06/2021",
+            "horario": "18h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "18h14"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/fernando-simas-magalhaes/discurso-do-senhor-secretario-geral-por-ocasiao-da-sua-cerimonia-de-posse-04-06-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "",
+                "Senhor Ministro de Estado,",
+                "Embaixador Otávio Brandelli, a quem agradeço pelo apoio na transição e desejo felicidades em seu futuro Posto,",
+                "Senhores Secretários,",
+                "Presidentes das Associações de Classe,",
+                "Prezados colegas diplomatas, oficiais de chancelaria, assistentes de chancelaria e demais funcionários,",
+                "Apreciadas amigas e amigos que nos acompanham hoje e que me dão essa grande honra.",
+                "Com a devida licença, gostaria de iniciar estas palavras com uma breve nota, mais de cunho pessoal. Quero referir-me ao amor e à influência de pessoas muito próximas e queridas em minha vida. Dedico este momento, em especial, ao meu saudoso pai, Embaixador Fernando Paulo Simas Magalhães, que fez de sua vida no Itamaraty um exemplo de rigor profissional e ética pública. Juntamente com minha mãe Tercília, sei que velam por mim, nesta ocasião de profunda emoção e agradecimento. Todo carinho ao meu irmão mais velho, Mário, cuja carreira de engenheiro, em algum momento, tive a inocente ilusão de poder seguir. Um de seus filhos, André, nos acompanha com brilho nesta saga diplomática familiar, está aqui e hoje representa a toda a família. Meu emocionado reconhecimento também ao irmão querido, nosso colega, Embaixador Carlos Alberto Simas Magalhães, profissional extraordinário, por quem peço as orações e a energia positiva de todos. Por fim, mas não por último, obrigado Matilde, companheira de vida, que me abençoou com três lindas crianças, Felipe, Julia e Antonia, que são para nós a fonte de toda felicidade.",
+                "Como dizia, o Itamaraty felizmente me resgatou, quando visivelmente a faculdade de engenharia se mostrava uma escolha desacertada. Ingressei muito jovem nos quadros do Ministério, aos 21 anos, e vivi cada um desses últimos 42 anos com toda vibração e entrega. O ofício de diplomata, de certa forma, é a minha segunda pele, e em respeito a esta instituição de Estado, nossa Casa, e aos seus valiosos integrantes, aceito, com humildade, o imenso e honroso desafio que o Ministro de Estado decidiu, não sem alguma audácia, colocar diante de mim.",
+                "Comecei com essa nota pessoal porque, ao longo desses anos de carreira, pude sempre reconhecer na atuação dos melhores diplomatas e chefes queridos da Casa os elevados valores daqueles que nos antecedem, e que servem de inspiração para todos nós. Vejo, em cada um deles, o traço da dedicação, da retidão profissional, do amor pela Pátria e do valor ético da entrega plena ao serviço público, muitas vezes com particular sacrifício das suas famílias. Com o receio de que algum nome me escape, e desde já apresentando minhas desculpas, presto aqui sentida homenagem a esses grandes profissionais, que me chefiaram diretamente e me ajudaram, orientaram e colocaram na trilha de serviço à diplomacia brasileira: Henrique Rodrigues Valle, Luiz Filipe de Macedo Soares, Fernando Guimarães Reis, Vera Pedrosa Martins, George Álvares Maciel, Ronaldo Sardenberg, Sebastião do Rego Barros, Rubens Ricupero, Paulo Tarso Flecha de Lima, Antonino Mena Gonçalves, Roberto Jaguaribe. Resgato, ainda, os nomes dos Chanceleres Luiz Felipe Lampreia, Antonio de Aguiar Patriota e Mauro Vieira, com quem tive uma relação particularmente estreita. Para mim, especialmente, coroa essa lista o meu grande amigo e prezadíssimo chefe e Secretário-Geral, que queria muito estar aqui hoje conosco e não pôde viajar, infelizmente, cujo aconselhamento e amizade foram uma bússola privilegiada durante cerca de dez anos de profícua convivência e aprendizado: Embaixador Osmar Chohfi. Sou grato e reconhecido a todos eles.",
+                "Nossa carreira está, é claro, ordenada e regulada normativamente, obedece a uma linha hierárquica de comando e se pauta pela obediência e lealdade aos chefes, a começar, constitucionalmente, pelo Presidente da República, a quem estendo também meu profundo agradecimento. Isso não quer em absoluto dizer, por outro lado, que a verticalização da estrutura signifique um fechamento artificial dos espaços para o diálogo sincero e respeitoso, o intercâmbio de opiniões, o compartilhamento de boas práticas, a formulação de posições em atenção ao melhor interesse do País. A Secretaria-Geral saberá recolher de forma contínua o sentimento dos colegas, as sugestões que julgarem pertinentes, as inquietações que porventura existam. Minha equipe sabe disso, e está instruída nesse sentido.",
+                "À Casa de Rio Branco dirigimos, com entrega e devoção, nossas melhores energias. Creio expressar um sentimento coletivo quando digo que não escolhemos a profissão de diplomata de forma burocrática ou aleatória, mas sim por vocação inata. Oferecemos o melhor de nosso intelecto, de nossa criatividade e de nosso talento para a causa pública, pelo bem da Nação brasileira e dos brasileiros. Contribuímos para formar uma imagem do Brasil que granjeie o respeito internacional, e que permita projetar e sustentar o justo e legítimo lugar que nos cabe no mundo, sempre atuando de forma colaborativa, solidária e negociada com todos nossos sócios. Fazemos da política exterior uma ferramenta a serviço dos preceitos constitucionais e do Estado de Direito, em respeito às obrigações internacionais assumidas e aos profundos anseios de prosperidade e justiça social, à proteção dos direitos humanos e das liberdades fundamentais.",
+                "Nossa Instituição tem alicerces sólidos na História e nos grandes nomes da construção da pátria. Sobre esses alicerces é que erigimos, geração após geração, a política exterior brasileira. Que fique claro, contudo: não o fazemos como um exercício de repetições mecânicas, alinhamentos oportunistas ou de simples defesa de posturas estáticas, e sim em obediência aos interesses nacionais em permanente evolução, à realidade de nossas demandas, à legitimidade do mandato democrático e à imperiosa necessidade de nos mostrarmos sempre sensíveis aos tempos em que vivemos. Foi graças às sólidas fundações e à capacidade de adaptação de nossa diplomacia que o Brasil pôde manter, de maneira ininterrupta e oportuna, posição privilegiada no sistema de Nações e nos principais centros de decisões multilaterais.",
+                "Ministro Carlos França,",
+                "Já o fiz em privado, mas quero de público reiterar meu penhorado reconhecimento pela confiança que em mim deposita para essa missão, e que recebo com profundo sentido de responsabilidade. Assumo abnegadamente o cargo, com consciência plena da tarefa que se impõe ao Itamaraty na atualidade. Espero honrar o nome e o exemplo de alguns dos meus grandes antecessores, que hoje celebro nas pessoas dos queridos amigos, Embaixadores Osmar Chohfi, Marcos Galvão e Sérgio Danese.",
+                "Nossas instruções estão dadas em seu discurso inaugural e na mensagem ao Itamaraty. Com o apoio que espero da Casa, e que estou certo de receber, empenharei o melhor de mim e de minha equipe para cumprir tais instruções, dentro das competências da Secretaria-Geral.  Procurarei adequar os meios para o enfrentamento das três urgências que Vossa Excelência elencou, ou de qualquer outra ação que nos for encomendada. São urgências que exigem o compromisso, a união e o engajamento pleno dos funcionários de todas as carreiras do Serviço Exterior.",
+                "Estou convencido de que o Itamaraty somente estará à altura dos imperativos da política externa se também souber enfrentar, com coragem e criatividade, suas próprias demandas como instituição. Esse será, Ministro Carlos França, meu principal objetivo à frente da Secretaria-Geral.",
+                "Caros Chefes da Casa, colegas e funcionários,",
+                "Não são poucos nem simples os desafios que enfrentamos. Muitos deles são problemas estruturais de longa data, e vão continuar a exigir nossos melhores esforços. Outros cobram necessários ajustes de rumos. Alguns estão na ordem do dia, debatidos no Congresso Nacional, levados à justiça, ventilados afoitamente na imprensa ou nas redes sociais, e vão requerer urgentes medidas de nossa parte, não só para aprimorar a convivência entre todos os integrantes do Serviço Exterior, mas sobretudo para lançar harmoniosamente as bases da própria subsistência do Itamaraty nos anos vindouros, oferecendo justa vazão a legítimas aspirações profissionais que temos. Peço a Deus que me dê forças para contribuir, no curto mandato que me toca, para um exercício significativo de valorização e crescimento institucional, que vejo como um dos chamados da minha gestão.",
+                "Pretendo, assim, concentrar-me naquelas que considero as questões mais prementes, conforme tive oportunidade de identificar em recentes conversas com os Secretários e outros Chefes da Casa. Agradeço as amplas informações e sugestões recebidas nesses encontros, que foram muito gratos, assim como as centenas de mensagens que me foram enviadas, cada uma delas com um olhar de cuidado e zelo em defesa do patrimônio diplomático pelo qual nos batemos todos os dias.",
+                "Ressalto um elemento fundamental das palavras do Ministro ao tomar posse: a necessidade imperiosa de preservarmos o espírito de coesão institucional. Essa é a linha que orientará as ações da Secretaria-Geral.",
+                "Quero dirigir também algumas palavras aos jovens diplomatas, sobretudo do alto dos 42 anos que tenho de Ministério.",
+                "Compreendo e compartilho a angústia, mais do que natural, com os gargalos da progressão da carreira. Eu mesmo a vivi alguns anos atrás, e sabemos que colegas mais antigos também a enfrentaram em diferentes momentos. Tais dificuldades são fruto, em última instância, de nosso próprio crescimento corporativo e podem apresentar-se periodicamente. O importante é que saibamos dar respostas oportunas. É preciso encontrar saídas viáveis para uma demanda que é legítima e afeta o funcionamento da Casa como um todo. Minha equipe na Secretaria-Geral e a Administração serão instruídas para que se abram ao tratamento dessa premente questão, estudem o assunto com afinco e apresentem recomendações que nos ponham no caminho de uma abordagem técnica, estrutural e sistêmica. Não subestimo as dificuldades que encontraremos pelo caminho e tampouco pretendo despertar expectativas infundadas, sobretudo em vista do horizonte temporal de minha gestão. Mas quero que saibam que podem encontrar em mim um aliado e alguém comprometido em empenhar os melhores esforços para encaminhar essa questão com sentido prático.",
+                "Caros colegas,",
+                "Acredito, como baliza de minha gestão, que juntos podemos fazer que o Itamaraty espelhe o melhor da sociedade brasileira, o amor pelo Brasil, a força dos valores que nos congrega, sua riqueza cultural, a fortaleza da convicção democrática que nos une a todos. Pretendo, dentro de minhas competências, estimular ações e iniciativas plurais, que reconheçam a diversidade de nosso corpo de funcionários, e promovam um conjunto amplo de ideias e visões de mundo, convencido que estou de que as melhores políticas e práticas são gestadas e se enriquecem a partir do embate saudável de perspectivas.",
+                "Estou também convencido de que o potencial pleno do talento humano aflora apenas em ambientes de trabalho saudáveis e participativos. As chefias têm, igualmente, o dever de exigir dos funcionários sob seu comando os mais altos padrões éticos, profissionais e de eficiência, atributos indispensáveis para a boa representação do Brasil. Não devem ser tolerados comportamentos que atentem contra a urbanidade, a civilidade e a cordura no trato interpessoal. Temos mecanismos institucionais para coibir desvios dessa natureza, mas gostaria aqui, neste momento em que estou reunido com todos vocês, de fazer um apelo para que as chefias zelem preventivamente pela qualidade do ambiente de trabalho e pelo bem-estar de seus funcionários, sobretudo nos difíceis momentos impostos pela pandemia de COVID-19.",
+                "A pandemia também pôs em evidência um problema que eu considero há muito negligenciado no Itamaraty: a saúde mental de nossos colegas e funcionários. As peculiaridades do serviço exterior expõem funcionários e suas famílias a situações de vulnerabilidade e potencializam quadros de fragilidade psíquica, podendo levar inclusive a tragédias pessoais, como tivemos a tristeza de testemunhar. Creio que é chegado o momento de darmos a devida atenção a essa questão. Tomei conhecimento de proposta em etapa final de preparação e espero poder anunciar, em breve, iniciativa nesse campo.",
+                "Estimados colegas,",
+                "Outro conjunto de preocupações se refere ao lugar do Itamaraty aos olhos da sociedade brasileira, claro que pensando sempre em como melhor representá-la. Somos chamados a refletir de forma ordenada e aberta sobre o papel de nossa chancelaria no mundo de hoje. A miríade de fontes de difusão de informações e a velocidade com que circulam essas informações constituem teste diário de nossa capacidade de identificar e filtrar o que é importante, o que é pertinente, e põem em xeque os instrumentos tradicionais da diplomacia.",
+                "Sob outra ótica, o crescente – e legítimo – engajamento de outros agentes governamentais e da própria sociedade civil em assuntos antes circunscritos aos afazeres diplomáticos também nos força, de certa forma, a sair da zona de conforto. Mas esse é um fenômeno positivo, devemos aceitá-lo com naturalidade. A acertada prioridade do Itamaraty na “diplomacia da saúde”, como foi declarada pelo Ministro Carlos França, ilustra de forma cabal a simbiose cada vez maior entre a política externa e as necessidades dos brasileiros. E também nos alerta que podemos ser cobrados, a qualquer momento, por nossa eventual inabilidade ou por nossa omissão.",
+                "Nessas circunstâncias, precisamos ampliar os canais de comunicação e diálogo, fazer-nos presentes em novos espaços de debate e afirmar nossa relevância aos olhos da sociedade brasileira como um todo. Vivemos hoje em ambiente que é dominado pela cobrança da tomada de decisões em tempos cada vez mais curtos, e por vezes a partir de conhecimentos por vezes incompletos ou marcados pela incerteza.",
+                "A pertinência da ação diplomática será sobretudo medida pela capacidade de leitura inteligente e compreensão objetiva da realidade, e de traduzir nosso ofício em informações que se mostrem precisas e úteis para a tomada de decisões em cenários que poderão mostrar-se de particular volatilidade.",
+                "A capilaridade mundial do Itamaraty, com sua rede de 218 postos, e a excelência de nosso pessoal nos posiciona de maneira privilegiada para essa tarefa. É preciso, porém, trabalhar continuamente para atualizar os métodos de trabalho e os nossos protocolos; produzir análises e propor ações ajustadas às necessidades de projeção do interesse nacional; precisamos ampliar os canais de comunicação e profissionalizar nosso relacionamento com a imprensa; estabelecer, em suma, uma efetiva política de comunicação social, para mencionar apenas algumas medidas que considero de importância imediata à frente da Secretaria-Geral.",
+                "Senhor Ministro de Estado, senhoras e senhores,",
+                "Não pretendo me alongar mais. O tempo é curto e quero começar de imediato o meu trabalho, junto a todos vocês. Contem comigo sempre.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "carlos-franca-2021-2022"
+            ],
+            "titulo": "A Política Externa como Política Pública: Prioridades (Interesse Nacional, ano 14, n. 54, julho-setembro de 2021)",
+            "subtitulo": "NA",
+            "data": "25/06/2021",
+            "horario": "11h41",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h41"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/carlos-franca-2021-2022/a-politica-externa-como-politica-publica-prioridades-interesse-nacional-ano-14-n-54-julho-setembro-de-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Carlos Alberto Franco França é diplomata, advogado e atual ministro das Relações Exteriores do Brasil. Graduou-se em Relações Internacionais (1986) e em Direito (1990) pela Universidade de Brasília.",
+                "A política externa é, antes de tudo, uma política pública. Trata-se de uma obviedade, dirão alguns. E, efetivamente, não há aí nada de novo. Talvez pelas especificidades típicas da atividade diplomática, porém, a política externa é tão frequentemente vista como uma realidade estanque, é tão frequentemente associada a abstrações alheias ao concreto do país de que emana e do mundo a que se dirige, que não será demais reafirmar: a política externa – ao lado de tantas outras – é, sim, antes de tudo, uma política pública, conduzida, no caso do Brasil, pelo presidente Jair Bolsonaro, assessorado pelo ministro das Relações Exteriores.",
+                "O passo seguinte é extrair as consequências desse fato. Se é política pública, a política externa que faz sentido é aquela que está a serviço do interesse público. No nosso caso, é aquela que atende ao conjunto dos brasileiros, que responde a suas necessidades e a seus valores. Necessidades e valores formulados, como deve ser em uma democracia, pelo governo eleito, segundo determina a Constituição. A tarefa de levar adiante política externa assim entendida é sabidamente complexa – tanto pelo dinamismo de uma sociedade diversa como a brasileira, quanto pelas indefinições de um sistema internacional que, se tem espaços certos de cooperação, tem também instâncias de inegáveis tensões. Mas, complexa que seja, a tarefa é essencial. E o desafio primeiro do Ministério das Relações Exteriores é o de auxiliar o presidente da República a desempenhá-la.",
+                "O ponto de partida, a cada etapa, é identificar aquilo que os brasileiros esperam. Aquilo que esperam no calor da hora, aquilo que esperam no longo prazo. A partir daí se opera a política externa, que, estando o Brasil e o mundo em constante transformação, é sempre obra aberta.",
+                "Hoje, como assinalei já em meu pronunciamento de posse como chanceler, a sociedade brasileira confronta-se com três grandes urgências, que o presidente Jair Bolsonaro expressamente me instruiu a atacar: o combate à pandemia, a recuperação econômica e o desenvolvimento sustentável. Não são urgências exclusivas do Brasil, é claro, mas são muito fortemente urgências também do Brasil. Neste momento, portanto, estão no topo das prioridades de nossa política externa.",
+                "Sem dúvida, nenhuma delas esgota-se na perspectiva da política externa. Todas exigem, igualmente, e em larga medida, esforços internos, esforços que são objeto de outras políticas públicas, a cargo de outros órgãos que não o Itamaraty. Por isso é fundamental o diálogo permanente e fluido que nosso Ministério mantém não só com a sociedade, mas com os demais entes do Estado – no Executivo e além dele. O Congresso Nacional, por exemplo, tem aportes cruciais a oferecer no processo de construção de uma política externa sólida e eficaz.",
+                "Cuidemos de cada uma daquelas urgências, a começar pela de natureza sanitária. A pandemia, por definição, afeta os mais diferentes quadrantes do mundo. Desse modo, nada mais natural – e necessário – do que fazer-lhe frente em coordenação com outros países. Sobretudo o acesso a vacinas e a outros insumos médicos, indispensável na luta contra a Covid-19, depende de bem articulados exercícios de cooperação internacional. Daí a diplomacia da saúde em que nos lançamos.",
+                "É consensual que o mais grave gargalo para a aquisição de produtos farmacêuticos reside atualmente nas cadeias de suprimento, que se mostram aquém das demandas impostas pela pandemia. Junto a atores centrais daquelas cadeias, entre os quais sobressaem China, Estados Unidos e Índia, temos trabalhado para assegurar as doses de imunizantes e os ingredientes farmacêuticos ativos (IFAs), necessários à continuidade de nosso programa nacional de vacinação. Da mesma maneira, temo-nos engajado pela transferência da tecnologia que nos permitirá produzir IFA no País. E, em foros como a Organização Mundial da Saúde (OMS) e a Organização Mundial do Comércio (OMC), temo-nos empenhado em otimizar o uso das capacidades instaladas mundo afora e em remover as barreiras que persistem a uma disseminação mais ampla de remédios – valendo-nos, inclusive, das flexibilidades previstas no Acordo da OMC sobre Aspectos de Propriedade Intelectual Relacionados ao Comércio (TRIPS, na sigla em inglês).",
+                "É nessa direção que apontam a Iniciativa sobre Comércio e Saúde, que integramos na OMC, e a proposta que copatrocinamos, em maio de 2021, na Assembleia Mundial da Saúde. É nessa direção que apontam, ainda, iniciativas como o ACTAccelerator, a Solidarity Call to Action e a Covax Facility. A adesão à Covax Facility deverá garantir ao Brasil 42,5 milhões de doses de vacinas.",
+                "Em suma, o Brasil atua e seguirá atuando em favor de movimento internacional que contribua para o fim da pandemia aqui e em toda parte, com atenção especial para os países em desenvolvimento. E que contribua, a partir do aprendizado da Covid-19, para que o mundo esteja mais bem preparado em face de crises sanitárias futuras.",
+                "■ Outra urgência do nosso bloco de prioridades é a recuperação econômica",
+                "Em fins de 2019, progredíamos em agenda de reformas decisiva para a retomada do crescimento e dos empregos. Aprováramos a reforma da Previdência e prosseguíamos em pauta de consolidação fiscal e aumento da produtividade. Em 2020, a pandemia chegou a nosso País. Fomos rápidos em adotar políticas monetária e fiscal consistentes, que garantiram a liquidez dos mercados e preservaram a renda das famílias. Mas, se o impacto sobre a economia brasileira foi mitigado, ele, ainda assim, como era inevitável, fez-se sentir.",
+                "Agora, nosso governo envida esforços redobrados para o que será a retomada do crescimento pós-pandemia. O rumo na frente doméstica está dado. Em síntese, é o da modernização da economia. Pois é para esse horizonte que também a política externa se volta.",
+                "Capítulo relevante é o do comércio e dos investimentos internacionais. Uma maior e melhor inserção nos fluxos globais de bens, serviços e capitais é condição para mais competitividade e mais empregos.",
+                "É nessa ordem de ideias que o Brasil defende o fortalecimento do sistema multilateral de comércio. Na mais recente Cúpula do G20, o presidente Bolsonaro enfatizou o imperativo de se revigorarem os três pilares da OMC: o das negociações, o da solução de controvérsias e o de monitoramento e transparência. No pilar das negociações, perseguimos, especialmente, normas mais rígidas contra restrições e contra subsídios distorcivos ao intercâmbio de bens agrícolas; acordo sobre facilitação de investimentos; acordo sobre comércio eletrônico que, ao promover aquela modalidade de comércio, contenha salvaguardas de proteção da privacidade; e acordo sobre regulamentação de serviços, para a harmonização e a simplificação de requisitos.",
+                "Ao mesmo tempo, vimos conduzindo, com nossos sócios, uma atualização do Mercosul. O esforço contempla uma redução gradativa da Tarifa Externa Comum e a celebração de novos instrumentos internos ao bloco, como o acordo de facilitação de comércio eletrônico. Contempla, ainda, e esta é vertente fulcral, a intensificação da agenda de negociações externas.",
+                "Concluímos as negociações de acordos de livre comércio do Mercosul com a Associação Europeia de Livre Comércio (EFTA) e, após tratativas que se estenderam por duas décadas, com a União Europeia (UE). Temos a expectativa de assiná-los no mais breve prazo. Estamos cuidando de dissipar as percepções infundadas, em determinados segmentos na Europa, de que o acordo com a UE poderia ter efeitos negativos para o meio ambiente. Conforme recorda o próprio Comissário de Comércio da UE, aquele acordo incorporou os mais completos dispositivos de desenvolvimento sustentável entre os negociados até então por Bruxelas. De mais a mais, é reconhecido o caráter sustentável da agropecuária brasileira, cuja produtividade provém da inovação tecnológica, não da depredação ambiental.",
+                "Em paralelo, tencionamos ampliar o alcance dos acordos já em vigor com o México, a Índia e Israel; estamos negociando acordos de livre comércio com o Canadá, a Coreia do Sul, o Líbano e Singapura; e exploramos o caminho para negociações abrangentes com os Estados Unidos, o Japão e o Reino Unido.",
+                "Sobre as relações com os Estados Unidos, nosso governo trabalha para internalizar o Acordo de Pesquisa, Desenvolvimento, Teste e Avaliação (RTD&E) em matéria de defesa, firmado em março de 2020 e que intensificará iniciativas bilaterais de P&D de produtos de defesa; e o Protocolo sobre Regras Comerciais e de Transparência, assinado em outubro passado, em linha com os objetivos do Acordo de Comércio e Cooperação Econômica Brasil-Estados Unidos (de 2011) e composto por três anexos: i) facilitação de comércio e administração aduaneira; ii) boas práticas regulatórias; e iii) anticorrupção. O protocolo tem por objetivo simplificação de trâmites de comércio exterior e diversificar os fluxos bilaterais de comércio e investimentos.No âmbito de nossa diplomacia econômica, a China, como é evidente, tem lugar de destaque. Estamos concentrados em ampliar e diversificar nossas trocas com aquele que já é o primeiro destino das exportações brasileiras. Esse é um dos objetivos da Comissão Sino-Brasileira de Alto Nível de Concertação e Cooperação (Cosban), mecanismo que se deverá reunir antes do fim de 2021.",
+                "Por fim, a aproximação crescente à Organização para a Cooperação e o Desenvolvimento Econômico (OCDE), com vistas a uma acessão plena, é outra via pela qual a política externa concorre para a modernização da economia brasileira. A OCDE, ademais de plataforma de definição de regras que não raro ganham curso generalizado no mundo, é celeiro de políticas públicas de qualidade. Estar ligado à OCDE significa influenciar padrões que acabam por consolidar-se em escala global e abrir-se a boas práticas em áreas que vão da gestão do Estado ao manejo de recursos naturais, passando pelo comércio e pelos investimentos.",
+                "■ A terceira urgência que mobiliza nossa política externa é o desenvolvimento sustentável",
+                "É certo que, na promoção do desenvolvimento sustentável, somos movidos, primordialmente, pela compreensão de que o planeta é um só e que urge preservá-lo para as gerações futuras. Não se pode negar, contudo, que a sustentabilidade adquire, no século XXI, ainda uma outra dimensão. Em distintas sociedades, a preocupação do consumidor com os aspectos ambientais e sociais das cadeias de produção torna-se variável de peso na equação econômica. Analogamente, fundos de investimento com atuação internacional, cada vez mais, pautam-se por critérios ambientais e sociais. Com isso, não é exagero dizer que a sustentabilidade é, hoje, para além de seu inequívoco valor intrínseco, tema de acesso a mercados e de atração de investimentos.",
+                "A boa notícia é que o Brasil não tem motivo para assumir atitude defensiva. Antes, o que se afigura aí, para nós, são oportunidades. Temos a nosso lado uma longa trajetória diplomática em torno do desenvolvimento sustentável – conceito, aliás, consagrado na Conferência do Rio de Janeiro de 1992. Acumulamos um notável patrimônio de soluções nesse domínio – agropecuária intensiva em tecnologia, matriz energética das mais limpas, rigorosa legislação de proteção ambiental. Esses são fatores que nos dotam de autoridade perante o mundo.",
+                "Autoridade que decorre, também, do nível de ambição de nossos compromissos internacionais. Em dezembro de 2020, o Brasil anunciou, ao amparo do Acordo de Paris sobre mudança do clima, como parte de sua Contribuição Nacionalmente Determinada, o compromisso de redução de 37% na emissão de gases de efeito estufa, em 2025, e de 43%, em 2030 (sobre valores de referência de 2005). Por ocasião da Cúpula dos Líderes sobre o Clima, em abril de 2021, o presidente Bolsonaro agregou, a este, três compromissos adicionais: antecipação da meta de neutralidade climática de 2060 para 2050, duplicação do orçamento de fiscalização ambiental e eliminação do desmatamento ilegal até 2030. É esse sentido de responsabilidade que continuará a orientar a atuação do Brasil.",
+                "Combate à pandemia, recuperação econômica, desenvolvimento sustentável: essas são, pois, as urgências da política externa brasileira.",
+                "Isso não quer dizer, no entanto, que nos limitemos a elas. Nesta etapa da vida nacional, são as que mais ostensivamente clamam por nossa ação diplomática, de modo que, como observei, estão no topo de nossas prioridades. Mas a lista dessas prioridades é naturalmente mais extensa e comporta múltiplos recortes. A busca da institucionalidade multilateral, ferramenta por excelência de um país que se insere no mundo pela força do argumento e sob o primado do direito; a organização do espaço sul-americano, nossa vizinhança imediata, em função das possibilidades de integração, do enfrentamento de ilícitos que não respeitam fronteiras e da plena vigência da Carta Democrática Interamericana; a cooperação com a África, continente a que somos vinculados por laços históricos e em que crescem as oportunidades econômicas; o contínuo aperfeiçoamento dos serviços consulares com que contam mais de 3,5 milhões de brasileiros em mais de 100 países.",
+                "A enumeração ainda não é exaustiva. Mas, somada às urgências que resumidamente apresentei, já dá a medida do universo de prioridades de nossa política externa. Política pública, reitero, que, reflexo da pluralidade do Brasil e intimamente imbricada com outras políticas públicas, só se realiza no diálogo também para dentro do País."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

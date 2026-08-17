@@ -1,0 +1,753 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira-2015-2016"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira por ocasião da assinatura do Acordo de Cooperação sobre a participação do Brasil no Instituto para a Democracia e Assistência Eleitoral (IDEA) – Brasília, 27 de abril de 2016",
+            "subtitulo": "NA",
+            "data": "27/04/2016",
+            "horario": "21h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "17h53"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira-2015-2016/discurso-do-ministro-mauro-vieira-por-ocasiao-da-assinatura-do-acordo-de-cooperacao-sobre-a-participacao-do-brasil-no-instituto-para-a-democracia-e-assistencia-eleitoral-idea-brasilia-27-de-abril-de-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Foto: AIG/MRE",
+                "Ministro José Antonio Dias Toffoli, Presidente do Tribunal Superior Eleitoral,\n  \n  Senhor Yves Leterme, Secretário-Geral do Instituto Internacional para a Democracia e Assistência Eleitoral,\n  \n  Senhoras e senhores,",
+                "É com grande satisfação que compareço a essa cerimônia comemorativa da adesão do Brasil ao Instituto Internacional para a Democracia e Assistência Eleitoral. Em suas duas décadas de existência, o IDEA firmou-se como uma referência no apoio à sustentabilidade da democracia ao redor do globo, por meio do compartilhamento de conhecimento e melhores práticas.",
+                "Sua expertise no apoio a processos eleitorais e de reforma constitucional, bem como em iniciativas no campo de democracia e desenvolvimento, já conforma um valioso patrimônio para seus Estados-membros. O IDEA tem desenvolvido relevantes programas não só em nossa região, na América Central e no Caribe, como também em nações na Europa, na África e na Ásia.",
+                "A adesão do Brasil ao IDEA reflete o consenso entre as lideranças políticas brasileiras sobre a relevância da participação em iniciativas internacionais de assistência eleitoral e fortalecimento da democracia. Sirvo-me desta ocasião para agradecer, na pessoa de Sua Excelência o Presidente do Tribunal Superior Eleitoral, Ministro Dias Toffoli, todo o apoio da Justiça Eleitoral ao longo do rápido e exitoso processo de adesão.",
+                "O Brasil tem um admirável acervo de conhecimentos na área da assistência eleitoral e do fortalecimento da democracia, adquirido pela Justiça Eleitoral em suas várias décadas de história. De agora em diante, esse acervo estará à disposição do IDEA.",
+                "A experiência brasileira em processos como o do voto eletrônico tem grande valia para terceiros países, e ganhará ainda maior alcance por meio da associação que hoje se inicia. Ao mesmo tempo, o Brasil se beneficiará sobremaneira do diálogo e da cooperação com o Instituto.",
+                "Tive, na manhã de hoje, ocasião de manifestar ao Secretário-Geral Leterme a disposição do Brasil em contribuir ativamente com as atividades do IDEA a partir de agora. Estou convencido de que testemunhamos, hoje, o início de uma parceria profícua e duradoura.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-04",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira-2015-2016"
+            ],
+            "titulo": "Discurso de Abertura do Ministro Mauro Vieira na Sessão de Debates Temáticos do Senado Federal \"Meio Ambiente e Estado: Desafios para o Legislativo, Executivo e Judiciário\" – Brasília, 26 de abril de 2016",
+            "subtitulo": "NA",
+            "data": "26/04/2016",
+            "horario": "14h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "17h53"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira-2015-2016/discurso-de-abertura-do-ministro-mauro-vieira-na-sessao-de-debates-tematicos-do-senado-federal-meio-ambiente-e-estado-desafios-para-o-legislativo-executivo-e-judiciario-brasilia-26-de-abril-de-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Foto: Edilson Rodrigues/Agência Senado",
+                "Gostaria, em primeiro lugar, de manifestar minha grande satisfação em participar desta Sessão de Debates Temáticos sobre \"Meio Ambiente e Estado: Desafios para o Executivo, o Legislativo e o Judiciário\".",
+                "Considero este colóquio um exercício útil para o necessário aperfeiçoamento da coordenação entre os três Poderes e para o fortalecimento do diálogo do Estado com especialistas e a sociedade civil, o que enriquece a formulação e a execução da política externa brasileira.",
+                "O Brasil é um importante ator no cenário internacional, sobretudo no que diz respeito ao debate ambiental. País mais megabiodiverso do mundo e de dimensões continentais, dono da quinta maior população e da maior florestal tropical do planeta, o Brasil tem participado ativamente de todas as negociações internacionais na área ambiental.",
+                "Não por acaso, a política externa brasileira tem como dois de seus alicerces fundamentais a busca do desenvolvimento sustentável e da erradicação da pobreza. Essas dimensões, aliás, estão intimamente associadas: o desenvolvimento sustentável passa necessariamente pelo crescimento com inclusão social. Não podemos dissociar os pilares social, econômico e ambiental do processo de desenvolvimento, e é essa a visão que nos tem orientado nos debates nos diversos foros internacionais que discutem o tema.",
+                "Todo o esforço dispendido pelo Brasil e outros países em prol de condições mais propícias para o crescimento com justiça social resultou em dois frutos importantes em 2015.",
+                "O primeiro deles foi a aprovação da Agenda 2030, que contempla os chamados Objetivos de Desenvolvimento Sustentável. O Brasil foi um dos protagonistas dessa negociação, tendo sediado, em 2012, a Conferência Rio+20, que lançou as bases para a negociação desse importante instrumento internacional. O primeiro e mais fundamental dos Objetivos é, aliás, um tema central da agenda brasileira: a erradicação da pobreza.",
+                "Uma característica fundamental da Agenda 2030 é o fato de constituir um conjunto de compromissos de alcance universal, que vincula tanto países desenvolvidos quanto países em desenvolvimento. Existe, portanto, o reconhecimento de que todos, sem exceção, temos desafios a enfrentar na promoção do desenvolvimento sustentável.",
+                "O segundo avanço importante foi a aprovação do Acordo de Paris sobre Mudança do Clima. O Brasil guiou-se, nesse processo, pela busca de um compromisso que fosse abrangente e ao mesmo tempo levasse em consideração a diferenciação entre países desenvolvidos e em desenvolvimento. Oferecemos uma contribuição nacional ambiciosa, que refletiu nossa determinação em diversificar nossa matriz energética, combater o desmatamento e avançar em ações de reflorestamento.\n  \n\n  O Acordo de Paris constitui uma oportunidade para que todos nós sejamos mais ousados e possamos caminhar mais rapidamente em direção a um planeta menos dependente de combustíveis fosseis. Ao mesmo tempo, não podemos deixar de reconhecer que os países em desenvolvimento e desenvolvidos devem ter responsabilidades diferentes, até porque as nações menos desenvolvidas tiveram historicamente menor participação no aquecimento global.",
+                "Esses dois exemplos demonstraram o potencial do multilateralismo de construir soluções para os graves problemas globais. Quando há disposição efetiva de se negociar, podemos superar mesmo as mais sérias diferenças de visão. Por isso, a Presidenta Dilma Rousseff definiu o Acordo como uma “histórica conquista da humanidade”, por haver refletido a capacidade da comunidade internacional de oferecer “respostas firmes e decisivas aos imensos desafios apresentados pela construção de um amplo consenso”.",
+                "Senhoras e senhores,",
+                "Independentemente dos compromissos assumidos internacionalmente, o Brasil vem avançando de maneira autônoma e concreta no que se refere à área ambiental. Esse é um trabalho realizado por todos nós. As metas e políticas internas em matéria ambiental sugeridas, aprovadas, implementadas, fiscalizadas e protegidas pelos três Poderes são, como disse, mais ambiciosas que aquelas negociadas no âmbito internacional.",
+                "O Brasil é, por isso, um exemplo de como enfrentar os desafios ambientais. Somos uma das maiores economias do mundo, mas temos grandes lacunas a preencher no campo do desenvolvimento socioeconômico. Não obstante, estamos na vanguarda no que se refere à definição de metas claras e ousadas.",
+                "O Governo brasileiro anunciou, por exemplo, que pretende reduzir em 37% a emissão dos gases de efeito estufa até 2025, e em 43% até 2030, em ambos os casos com relação aos níveis de 2005. Queremos também aumentar a participação das fontes renováveis de energia, de modo a que alcancem 45% de nossa matriz energética até 2030. Ou seja, em menos de quinze anos almejamos que praticamente a metade de nossa matriz energética seja constituída por fontes de energia limpa.",
+                "Outro aspecto relevante da contribuição nacional brasileira é a meta de alcançar o desmatamento zero na Amazônia, além de restaurar e reflorestar 12 milhões de hectares de florestas e outros 15 milhões de hectares de pastagens degradadas.",
+                "A combinação da diversidade e riqueza natural do Brasil e a existência de políticas nacionais ambiciosas e de vanguarda fortalecem as credenciais do País nas negociações internacionais, tornando-o, como ressaltei, uma referência na promoção do desenvolvimento sustentável e inclusivo.",
+                "A assinatura do Acordo de Paris na semana passada, em Nova York, dá início agora a uma segunda etapa, igualmente importante: a de traduzir os compromissos assumidos em realidade. A principal vertente desse processo será o apoio aos países em desenvolvimento, alguns dos quais, como o Brasil, adotaram voluntariamente metas que vão além do que prevê o arcabouço normativo internacional.",
+                "Esperamos, por isso, avanços em dois temas fundamentais.",
+                "Em primeiro lugar, que o nível de ambição dos países desenvolvidos seja aumentado progressivamente, a exemplo do que países como o Brasil já têm feito. Não podemos nos contentar em cumprir metas nacionais voluntárias que não representem desafio maior em termos de redução da emissão de gases de efeito estufa. O sucesso do Acordo de Paris depende sempre de buscar novos patamares de mudança de perfil de geração e consumo de energia.",
+                "Em segundo lugar, que se viabilizem, inclusive no plano financeiro, os meios adequados para que os países em desenvolvimento possam continuar com suas contribuições concretas para os esforços globais de mitigação e adaptação. O Acordo de Paris prevê apoio financeiro anual da ordem de US$ 100 bilhões, mas esperamos que esse montante seja ampliado progressivamente a partir da entrada em vigor do acordo. Esse valores devem contemplar, também, transferência de tecnologia que nos ajudem a tornar nossas economias cada vez menos dependentes de combustíveis fósseis.",
+                "Caro Senador, Senhoras e Senhores,",
+                "É importante ter presente que esses instrumentos recentemente aprovados não apenas trazem desafios, mas também oferecem oportunidades para que as legislações e as políticas ambientais nacionais sejam continuamente aperfeiçoadas.",
+                "As estreitas correlações entre compromissos nacionais e internacionais tornam ainda mais necessária a constante articulação entre o Executivo, o Legislativo e o Judiciário, de maneira a que possamos observar e cumprir plenamente as obrigações que assumimos.",
+                "São vários os exemplos de avanços no Brasil no campo ambiental hoje reconhecidos internacionalmente. Isto se deve ao diálogo e à interação entre os diferentes Poderes. Permitam-me mencionar alguns:",
+                "i) o novo Código Florestal e a implantação do Cadastro Ambiental Rural, que constituem elementos potencialmente revolucionários para conservação florestal e a gestão e o controle do desmatamento;",
+                "ii) a lei de acesso ao patrimônio genético e ao conhecimento tradicional associado e de repartição de benefícios, aprovada no ano passado;",
+                "iii) as políticas de áreas protegidas, que já garantem percentual de áreas protegidas superior ao estabelecido pelas chamadas “Metas de Aichi” da Convenção sobre Diversidade Biológica (CDB) e pelos Objetivos de Desenvolvimento Sustentável; e",
+                "iv) as ambiciosas metas estabelecidas nacionalmente para a redução das emissões de carbono até 2030, que mencionei anteriormente.",
+                "Não poderia deixar de ressaltar também o importante papel do Brasil em matéria de cooperação internacional, que reforça nosso protagonismo em questões ambientais no âmbito mundial.",
+                "O desenvolvimento e a continuidade de tais políticas e iniciativas requerem, evidentemente, a atuação coordenada dos três Poderes da República. Acredito que a presente Sessão de Debates é uma iniciativa que vem ao encontro dessa necessidade de concertação, aproximando diferentes estruturas do governo, organismos internacionais e a sociedade civil, e contribuindo para a formulação da política interna e externa de forma representativa e integrada.",
+                "Creio também que nosso diálogo é um exemplo do compromisso do Estado brasileiro em promover o desenvolvimento sustentável. Para isso, devemos continuar empenhados em reduzir a pobreza e a desigualdade, que representam, como estabelecido na Agenda 2030, o primeiro passo para que tenhamos um País mais justo e um meio ambiente mais equilibrado. Devemos nos manter fiéis ao lema “incluir, crescer, conservar e proteger”, que guiou os trabalhos da Conferência Rio+20 e dá uma noção precisa da natureza integral e indivisível das diversas dimensões que compõem o processo de desenvolvimento de qualquer país.",
+                "Gostaria de concluir desejando a todos um produtivo dia de debates e trabalho e agradecendo, mais uma vez, a oportunidade oferecida ao Ministério das Relações Exteriores de participar desse importante exercício de diálogo com o Congresso Nacional e outros órgãos do Governo e de nossa sociedade civil.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-04",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira-2015-2016"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na abertura do XIV Curso para Diplomatas Sul-Americanos – Brasília, 6 de abril de 2016",
+            "subtitulo": "NA",
+            "data": "06/04/2016",
+            "horario": "13h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "17h53"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira-2015-2016/discurso-do-ministro-mauro-vieira-na-abertura-do-xiv-curso-para-diplomatas-sul-americanos-brasilia-6-de-abril-de-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Foto: AIG/MRE",
+                "É para mim motivo de especial alegria participar desta cerimônia de abertura do XIV Curso para Diplomatas Sul-Americanos.",
+                "Gostaria de cumprimentar os integrantes da mesa e, em particular, a Fundação Alexandre de Gusmão, na pessoa de seu Presidente, Embaixador Sérgio Moreira Lima, pela inciativa e pelo empenho na organização deste evento.",
+                "Quero também saudar os colegas diplomatas dos diversos países sul-americanos que participarão do curso e reiterar-lhes que é com muita satisfação que os recebemos aqui em Brasília.",
+                "O Curso para Diplomatas Sul-Americanos é uma importante ação do Governo brasileiro voltada para a aproximação entre nossos países e para a promoção de maior conhecimento mútuo. Trata-se de uma iniciativa única em nossa região, que reflete o caráter estratégico conferido pelo Brasil à integração sul-americana.",
+                "Gostaria de apresentar aos senhores, de maneira panorâmica e sucinta, as linhas mestras da política externa brasileira em relação ao nosso continente, e em seguida indicar alguns dos principais desafios que enfrentamos no momento.",
+                "O Brasil é o terceiro país do mundo em número de vizinhos. Compartilhamos fronteiras com dez países. Temos a terceira maior linha de fronteira, com 16,9 mil quilômetros de extensão. Nosso território foi definido de maneira negociada, em tratados celebrados ainda no final do século XIX e no início do século XX.",
+                "Essa consolidação precoce do extenso território brasileiro moldou nossa vocação para a promoção da paz e do diálogo na América do Sul. Reforçou, também, nossas credenciais para defender, em outras regiões do mundo, a busca de soluções negociadas de controvérsias e a prevalência do direito internacional.",
+                "Foi em função desse espírito cooperativo que pudemos, desde o início do século XX, estruturar nossa política externa em torno de um conjunto de princípios que regem nossa atuação cotidiana: a igualdade jurídica entre os Estados, a não intervenção e a valorização da diplomacia em detrimento do uso da força.",
+                "Alguns desses princípios foram defendidos com veemência por Rui Barbosa, representante brasileiro à Conferência de Paz da Haia, em 1907, com o apoio decisivo dos demais países sul-americanos presentes àquela reunião. Isso levou o delegado russo a exclamar que a “América do Sul foi uma revelação para todos nós”, e o delegado norte-americano a afirmar que o evento marcou “o advento da América do Sul nos destinos do mundo”.",
+                "Já estava claro então que compartilhávamos visões comuns e podíamos agir em conjunto na defesa da paz e no desenvolvimento de vários institutos do direito internacional, como o direito de asilo e a solução de diferendos por meios pacíficos.",
+                "Não obstante essa sintonia no plano dos valores e das perspectivas sobre a ordem internacional, uma maior e efetiva integração entre os nossos povos ainda demoraria a acontecer.",
+                "Em primeiro lugar, porque a lógica preponderante durante a maior parte do século passado era a da geopolítica, do antagonismo entre Estados, de prevalência do poderio militar e do desenvolvimento econômico autárquico.",
+                "Em segundo lugar, porque ao longo dos séculos XIX e XX a América do Sul não ficou imune a um cenário mundial marcado por disputas políticas que envolveram, em diferentes etapas, o imperialismo, o colonialismo e a Guerra Fria. Esse quadro mais amplo explica a prioridade concedida aos laços com potências extracontinentais.",
+                "Foi nos últimos trinta anos que isso se modificou. Embora nossos projetos de associação remontem aos anos 60, havia então um enfoque fundamentalmente comercial, circunscrito à Associação Latino-americana de Livre Comércio (ALALC), antecessora da atual ALADI.",
+                "Somente a partir dos anos 80 ganha impulso a ideia de que teríamos muito a ganhar se nos uníssemos em torno de objetivos comuns também em outras áreas. Foi o momento em que nossos países deixaram para trás regimes autoritários e se depararam com uma conjuntura econômica internacional difícil, marcada pela crise da dívida e por obstáculos para sua inserção na economia internacional.",
+                "Quero mencionar aqui, em particular, o MERCOSUL, que há poucos dias completou 25 anos, e que constituiu uma iniciativa de integração profunda inédita entre países em desenvolvimento. Seus resultados são muitas vezes subestimados, embora ele tenha possibilitado, por exemplo, que o comércio entre seus membros crescesse mais de 10 vezes desde 1991, saltando de US$ 4,5 bilhões para mais de US$ 50 bilhões em todos os últimos cinco anos, com um pico histórico de US$ 63 bilhões em 2011.",
+                "Para além do volume, esse comércio é de qualidade, composto em sua maioria de produtos manufaturados. Em 2015, por exemplo, os produtos industrializados responderam por mais de 80% das importações brasileiras originárias dos membros do MERCOSUL.",
+                "Temos também acordos comerciais com todos os países sul-americanos, o que permitirá que nosso continente constitua, idealmente antes do fim da década, uma área de livre comércio. Graças a essa rede de acordos, o comércio entre os membros da ALADI saltou de US$ 37 bilhões em 2002 para US$ 160 bilhões em 2013, ano em que atingiu seu maior patamar na história.",
+                "Os resultados do MERCOSUL transcendem, no entanto, o campo estritamente econômico-comercial. A criação do grupo permitiu que se estabelecesse uma crescente coordenação entre nossos países em diversas áreas e setores. Por exemplo, o Fundo de Convergência Estrutural, o FOCEM, criado há menos de uma década, já aprovou mais de 40 projetos, com valor superior a US$ 1 bilhão, sempre em benefício das regiões de menor desenvolvimento relativo de nossos países.",
+                "O MERCOSUL também promoveu uma intensa aproximação entre nossas sociedades civis. Foi possível inaugurar uma etapa inédita do processo de integração por meio do chamado “MERCOSUL Cidadão”, com esteio em vários acordos de residência, trabalho, previdência social, educação e turismo.",
+                "O pilar econômico-comercial é fundamental para nossa integração, mas não é a única medida de nossos êxitos. Uma integração bem-sucedida passa também por um envolvimento pleno de nossas sociedades e pela compreensão de que os ganhos sociais e políticos serão fundamentais para fortalecer a cooperação entre os nossos países.",
+                "Como observou a Presidenta Dilma Rousseff, o Brasil e seus vizinhos compartilham não apenas o mesmo projeto, mas principalmente o mesmo destino, que é o de construirmos uma região marcada pela paz, pela democracia e pela cooperação. A visão deste destino comum explica nosso elevado nível de ambição e exige de nós um trabalho contínuo e permanente de aperfeiçoamento dos instrumentos de que dispomos para o processo de integração.",
+                "Caros colegas,",
+                "A América do Sul é hoje um caso muito particular num mundo marcado por conflitos armados, divisões sectárias e violência dos mais diversos tipos, do terrorismo à xenofobia.",
+                "Somos uma região de paz. Estamos livres, por decisão própria, de armas de destruição em massa. Eventuais disputas em nosso continente são superadas por meio do diálogo político ou no âmbito dos diferentes mecanismos de solução de controvérsias. Nossas autoridades se encontram com frequência e coordenamos nossas posições sobre vários temas relevantes da agenda internacional.",
+                "Essa postura de apego à convivência pacífica e à cooperação é antes a exceção do que a regra no cenário mundial. Acabo de retornar da Cúpula de Segurança Nuclear, ocorrida em Washington, na semana passada. Brasil, Argentina e Chile defenderam mais uma vez o desarmamento como o verdadeiro caminho para a paz e a segurança internacional.",
+                "Mesmo nos casos em que lidamos com diferenças, sabemos priorizar o diálogo e a negociação. A Colômbia atual é um grande exemplo de vontade política e perseverança na busca da paz. Saudamos o governo e o povo colombiano por sua determinação em alcançar o fim do conflito armado em seu território e estamos certos de que uma nova era de paz e desenvolvimento será inaugurada no país e na região.",
+                "Somos também um exemplo de boa convivência. Nossos países receberam, ao longo de sua história, imigrantes das mais diversas origens. Aqui eles se integraram e reconstruíram suas vidas. No caso do Brasil, cerca de metade de nossa população é de afrodescendentes e temos grande contingente de população de origem europeia, asiática e do Oriente Médio.",
+                "Essa postura aberta se estende, de maneira geral, à promoção e proteção dos direitos humanos. Os países sul-americanos são parte dos principais instrumentos internacionais e atuam de maneira ativa no sistema internacional de direito humanos, inclusive no próprio contexto interamericano. Reconhecemos que temos desafios internos na promoção dos direitos das populações mais vulneráveis, como os afrodescendentes, os portadores de deficiência e os grupos LGBTI, mas dispomos de vontade e de empenho para superá-los.",
+                "A América Latina tem sido também uma das regiões mais bem-sucedidas no combate à fome e na redução da pobreza ao longo dos últimos 25 anos. Segundo dados do Banco Mundial, a parcela da população em extrema pobreza na região caiu de 12% em 1990 para cerca de 4% em 2015. O Brasil foi recentemente excluído do “mapa da fome” elaborado pela FAO. Em seu relatório sobre insegurança alimentar no mundo publicado no ano passado, a FAO também indicou que, entre 2002 e 2014, o número de pessoas subalimentadas no Brasil caiu 82%, a maior cifra entre as seis nações mais populosas do mundo.",
+                "Por fim, temos o privilégio de sermos um continente em que prevalece a democracia. Foi ela que estabeleceu as bases para a integração entre nossos países. Não por acaso, a aliança estratégica entre o Brasil e a Argentina, que resultou posteriormente no MERCOSUL, decorreu da assinatura da Declaração de Iguaçu, justamente num contexto em que os dois países saíam de regimes autoritários e se redemocratizavam.",
+                "Democracia aqui significa não apenas o respeito à ordem constitucional e a aferição da vontade popular em eleições periódicas livres e plurais, mas também a dedicação contínua ao combate a pobreza e à redução das graves desigualdades sociais que infelizmente marcaram a história de nosso continente.",
+                "Senhoras e senhores,",
+                "A democracia possibilitou que deixássemos para trás rivalidades reais ou imaginárias, em prol da busca de objetivos comuns. Posso citar alguns exemplos que demonstram a mudança substantiva que ocorreu na relação entre os países sul-americanos nas últimas três décadas.",
+                "O primeiro exemplo refere-se ao aspecto comercial. Nas últimas décadas nos tornamos cada vez mais relevantes como parceiros no comércio exterior. Hoje a América do Sul é um mercado tão importante para o Brasil como a China, os Estados Unidos e a União Europeia. Esse mesmo fenômeno ocorre com os outros países sul-americanos.",
+                "O segundo exemplo diz respeito à nossa cooperação em defesa, a partir do reforço dos laços políticos construídos por governos democráticos em nossos países. Foram eles que permitiram, por exemplo, que o Brasil e a Argentina passassem a cooperar no campo nuclear e criassem a Agência Brasileiro-Argentina de Contabilidade e Controle de Materiais Nucleares, a ABACC, exemplo único no mundo.",
+                "O terceiro exemplo é o da constituição de foros regionais próprios, que vieram complementar o tradicional sistema hemisférico baseado na OEA - Organização dos Estados Americanos. Hoje contamos, além dos organismos subregionais como o MERCOSUL, com a União de Nações Sul-Americanas - UNASUL e a Comunidade de Estados Latino-Americanos e Caribenhos - CELAC.",
+                "Caros colegas,",
+                "Reconhecer avanços não significa desconhecer os diversos desafios que temos diante de nós.",
+                "Queremos fortalecer nossa presença comercial no mundo. Vivemos um momento difícil da economia mundial, que alguns economistas chegam a classificar como de “estagnação secular”, em que o crescimento econômico enfrenta obstáculos e em que os Estados parecem incapazes de encontrar os meios para uma plena recuperação da crise iniciada em 2008.",
+                "É nesse contexto de dificuldades que os países sul-americanos têm de desenvolver suas estratégias de inserção no mundo. No caso do Brasil, temos duas prioridades imediatas.",
+                "A primeira é ampliar os acordos que já temos na nossa região, com o propósito de tornar a América do Sul uma área de livre comércio antes do final desta década. Por isso, queremos acelerar cronogramas de desgravação tarifária e ampliar a cobertura dos acordos de complementação econômica que temos com países como a Colômbia, o Peru, o Equador e também o México. É esse interesse que motiva o importante diálogo em curso entre o MERCOSUL e a Aliança do Pacífico.",
+                "Essa vertente regional não é incompatível com o esforço de buscar novos mercados em regiões dinâmicas como a Ásia e aprofundar a relação com países desenvolvidos e em desenvolvimento. Muito pelo contrário: o MERCOSUL obedece à lógica de abertura ao mundo que esteve na base de sua constituição há 25 anos.",
+                "Isso nos leva à segunda prioridade: avançar na diversificação do relacionamento externo do MERCOSUL, por meio da celebração de novos acordos, como o que estamos negociando com a União Europeia. O MERCOSUL tem feito sua parte e já está pronto para realizar uma troca de ofertas de acesso a mercados com a União Europeia, o que deve ocorrer em breve, como esperamos.",
+                "Outro desafio é a promoção da integração física e energética. A despeito dos avanços obtidos nos últimos anos, ainda temos carências significativas nessas áreas, que exigem estudos e investimentos de monta. A criação de corredores bioceânicos integrando diversos modais de transporte é fundamental para a ampliação do trânsito de pessoas e mercadorias entre nossos países e com outras regiões do planeta. É o caminho para reduzir custos e gerar complementaridades. Temos também de valorizar mais as conexões aéreas diretas entre nossos países, inclusive por meio de companhias regionais.",
+                "Da mesma forma, a integração entre nossos sistemas de energia permitirá aumento da eficiência e contemplará, em nossos países, as regiões mais afetadas pela carência desse insumo fundamental para o crescimento econômico. A decisão dos países sul-americanos de priorizar sua integração energética deixa claro que os recursos energéticos são estratégicos e fundamentais para o desenvolvimento de nossos países.",
+                "Um terceiro desafio é assegurar à nossa região uma posição nos foros multilaterais condizente com sua tradição de paz e seu peso específico na comunidade internacional.",
+                "A América Latina e o Caribe e a África são as duas únicas regiões do planeta sem um assento permanente no Conselho de Segurança das Nações Unidas, embora congreguem, juntas, 86 países, o que equivale a quase 45% do total de membros da Organização.",
+                "Nossa região tem todas as credenciais para ter mais voz nos assuntos relativos à paz e à segurança internacional: somos grandes contribuintes de operações de manutenção da paz, somos uma região livre de armas de destruição em massa e atuamos consistentemente na defesa dos princípios fundamentais da Carta das Nações Unidas.",
+                "Ainda no plano multilateral, temos também uma preeminência natural em debates sobre temas relativos ao meio ambiente e à mudança do clima. Somos uma região rica em recursos naturais, com grande diversidade biológica e uma matriz energética diversificada.",
+                "Em 2012, o Brasil sediou a Conferência Rio+20 e, em 2014, o Peru sediou a COP-20, eventos que permitiram os avanços necessários para que chegássemos ao Acordo de Paris, em dezembro passado.",
+                "Temos muito a contribuir para a consecução dos Objetivos de Desenvolvimento Sustentável, no âmbito da Agenda 2030. Defender essa agenda faz parte de nossa responsabilidade de dar ao desenvolvimento a importância que lhe é devida. As grandes questões da paz e da segurança não encontrarão soluções sustentáveis se descoladas do combate à pobreza e da promoção do desenvolvimento sustentável.",
+                "Por fim, creio que temos pela frente o grande desafio de assegurar às novas gerações os instrumentos necessários para que possam fazer nossos países progredirem. Falo aqui da educação e dos avanços em ciência, tecnologia e inovação.",
+                "É inquestionável que ganhos de produtividade e competitividade só poderão resultar de mais qualificação e de maior capacidade inovadora de nossos jovens e de nossos trabalhadores em geral.",
+                "A educação constituirá também o mais importante vetor da inclusão social em nossos países. A despeito de nosso êxito na redução dos níveis de pobreza, temos diante de nós a obrigação de reduzir a vulnerabilidade das camadas de menor renda por meio do acesso à educação de qualidade, inclusive aquela voltada à formação técnica e profissionalizante.",
+                "Senhoras e senhores,",
+                "Nossos países estão unidos não apenas pela geografia, mas também por laços humanos, culturais e por objetivos comuns: a promoção da paz, dos direitos humanos, da inclusão social e de uma ordem internacional mais justa.",
+                "A América do Sul é para nós mais do que uma circunstância. É um espaço que estamos construindo juntos e em que a integração é um objetivo incontornável.",
+                "Concluo invocando as palavras de um diplomata brasileiro que foi pioneiro defensor do processo de integração em nosso continente, Manuel de Oliveira Lima. Ao ponderar, em 1907, que, por pertencermos ao mesmo continente, estamos unidos pelos “mais estreitos laços de sangue, de economia e de civilização”, ele concluiu que “o nosso rumo moral é idêntico, de trabalho e de paz”.",
+                "Oliveira Lima tinha como referência um mundo que já não existe, em que a América do Sul ainda era vista como frágil e suscetível a influências externas muitas vezes desagregadoras. Sua mensagem encerra, porém, um ideal que nos move ainda hoje: o de que unidos poderemos defender nossos interesses e projetar nossos valores no mundo de modo mais eficaz, contribuindo assim para o maior progresso e bem-estar de nossos povos.",
+                "Desejo a todos um excelente curso durante a estadia em Brasília e nas demais cidades, e agradecer também a presença dos Embaixadores sul-americanos.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-04",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira-2015-2016"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira por ocasião da IV Cúpula de Segurança Física Nuclear – Washington, 1º de abril de 2016 [Inglês]",
+            "subtitulo": "NA",
+            "data": "04/04/2016",
+            "horario": "22h26",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "17h53"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira-2015-2016/speech-by-foreign-minister-mauro-vieira-at-the-4th-nuclear-security-summit-washington-april-1st-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Foto: AIG/MRE",
+                "Speech by Foreign Minister Mauro Vieira at the 4th Nuclear Security Summit\n  \n\n\n   Washington, April 1st, 2016",
+                "Mr. President,",
+                "Brazil is committed to several national and international actions to strengthen the physical protection of nuclear materials. We have strong, efficient and appropriate mechanisms and legislation regarding physical protection and prevention of terrorism, as well as strict accountability and control of nuclear materials and radioactive sources.",
+                "In this regard, all nuclear material in Brazil is under safeguards of IAEA and ABACC – the Brazilian-Argentinian Agency of accountability and control of nuclear materials. As mentioned in the morning session by President Macri, of Argentina, this organization is the result of the strong cooperation and deep confidence built between Brazil and Argentina in the nuclear field, which started 25 years ago.",
+                "All rules and regulations pertaining to the physical protection of sensitive assets, materials and equipment, according to the regimes and agreements to which Brazil is a party, have been incorporated into our domestic legislation. The 2005 amendment to the Convention of Physical Protection of Nuclear Material is currently in the process of being submitted to the Brazilian National Congress.",
+                "In addition, Brazil has been cooperating with other countries and the IAEA to implement nuclear security and physical protection measures during major public events. This cooperation gained momentum during the 2007 Pan-American Games and, more recently, the 2014 FIFA World Cup. Such joint efforts will continue to run up to the 2016 Olympic Games in Rio de Janeiro.",
+                "A few days ago, on March 16, President Dilma Rousseff signed into law a bill which typifies terrorism as a crime and regulates investigation and judicial proceedings related to terrorism under domestic criminal law. Combined with regulation adopted last October on the freezing of assets belonging to individuals and entities listed by multilateral sanctions regimes, the new legislation reflects the Brazilian Government's strong commitment to combat terrorism and terrorism financing.",
+                "In the view of the importance of the topic of this lunch, Mr. President, I'd like to state that since 2010 Brazil has participated in the Nuclear Security Summits that you created. We welcome with satisfaction the fact that this Summits have contributed to increasing the visibility of nuclear security in all of its various aspects.",
+                "To be consistent and effective, Brazil believes that it is essential to consider nuclear security in the context of broader efforts to promote goals that are also related to nuclear disarmament, nuclear non-proliferation and advancing nuclear energy for peaceful uses.",
+                "Brazil and another 15 countries participating in the Summit will release a\n  \n   joint statement\n  \n  with the broad view of the challenges we face in the nuclear arena. The physical protection of nuclear materials will not be strengthened if our efforts are only focused on nuclear materials and facilities under civilian programs, while ignoring the threats posed by the large amounts of material involved in nuclear weapons programs. 83 percent of fissile materials that can be used in nuclear weapons around the world are located in military facilities, which are not covered by any international oversight information-sharing or confidence-building mechanism.",
+                "I would like to refer to the remarks that you, Mr. President, made in Prague in 2009 in favor of disarmament, which resulted in a new start agreement between the United States and Russia in 2010. Your vision, Mr President, is consistent with that of many of us here today: that it is necessary to simultaneously and forcefully confront all risks posed in the nuclear arena. To that end, we need not only to strengthen the physical protection of nuclear materials but also to continue our non-proliferation efforts and advance towards the disarmament to achieve a world that is free of nuclear weapons and any other weapons of mass destruction.",
+                "The Nuclear Summits, initiated in Washington under your inspiration, have achieved the goal of focusing international attention on the various aspects of nuclear security. Now, we believe it is important to channel all efforts to the International Atomic Energy Agency – IAEA, which is the multilateral institution that counts with the participation of all actors and has the legitimacy, mandate and technical expertise required to follow through with this issue.",
+                "Thank you very much."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-04",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Discurso da Presidenta da República, Dilma Rousseff, por ocasião da cerimônia de Assinatura do Acordo de Paris – Nova York, 22 de abril de 2016",
+            "subtitulo": "NA",
+            "data": "22/04/2016",
+            "horario": "13h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h25"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/discurso-da-presidenta-da-republica-dilma-rousseff-por-ocasiao-da-cerimonia-de-assinatura-do-acordo-de-paris-nova-iorque-eua-22-de-abril-de-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "",
+                "Fotos: Ichiro Guerra/PR",
+                "Senhor Secretário-Geral das Nações Unidas, Ban Ki-moon,\n  \n  Senhor Presidente da França e Presidente da COP21, Presidente François Hollande,\n  \n  Senhoras e Senhores Chefes de Estado e de governo participantes dessa cerimônia de assinatura do Acordo de Paris,\n  \n  Senhoras e Senhores integrantes de delegações,\n  \n  Senhoras e Senhores,",
+                "Com imensa honra e emoção, venho a Nova Iorque, hoje, no Dia da Terra, assinar o Acordo de Paris sobre a Convenção-Quadro das Nações Unidas sobre a Mudança do Clima, um acordo universal.",
+                "Sua conclusão exitosa, em dezembro de 2015, representou um marco histórico na construção do mundo que queremos: um mundo de desenvolvimento sustentável para todos, com o cumprimento das metas estabelecidas na Agenda 2030. O êxito deve muito à atuação do governo francês, à judiciosa e paciente construção do acordo pelo Presidente François Hollande e também ao Secretário-Geral da ONU, Ban Ki-moon.",
+                "Tenho orgulho do trabalho desenvolvido pelo meu governo e pelo meu país para que, coletivamente, chegássemos a esse acordo. Tenho orgulho de nossa contribuição e da contribuição de todos os países e da sociedade internacional. Agradeço o esforço e o trabalho incansável da equipe de negociadores do Brasil, chefiada pela nossa ministra do Meio Ambiente, Izabella Teixeira.",
+                "Nós, países participantes, demos respostas firmes e decisivas aos imensos desafios apresentados pela construção de um amplo consenso, consenso necessário para o enfrentamento das mudanças do clima.",
+                "Hoje, ao lado de todos os chefes de Estado e de governo aqui presentes, assumo o compromisso de assegurar a pronta entrada em vigor do Acordo no Brasil e mais uma vez saúdo a todos por essa histórica conquista da humanidade.",
+                "O caminho que teremos de percorrer agora será ainda mais desafiador: transformar nossas ambiciosas aspirações em resultados concretos. Realizar os compromissos que assumimos irá exigir a ação convergente de todos nós, de todos os nossos países e sociedades, rumo a uma vida e a uma economia menos dependentes de combustíveis fósseis, dedicadas e comprometidas com práticas sustentáveis na sua relação com o meio ambiente.",
+                "Países em desenvolvimento, como o Brasil, têm apresentado resultados expressivos na redução das emissões e se comprometeram com metas ainda mais ambiciosas.",
+                "O desafio de enfrentar a mudança do clima torna imprescindível o aumento progressivo do nível de ambição dos países desenvolvidos. Exige, de forma contínua, a mobilização de meios de implementação adequados, para que os países em desenvolvimento tenham suporte e sigam contribuindo para os esforços globais de mitigação e adaptação.",
+                "É fundamental ampliar o financiamento do combate à mudança do clima para além do compromisso de US$ 100 bilhões anuais.",
+                "É indispensável criar meios de reorientar os fluxos financeiros internacionais de modo permanente para apoiar ações que representem soluções para o problema global e promovam também benefícios de adaptação, saúde pública e desenvolvimento sustentável.",
+                "É necessário, ainda, que o setor privado desenvolva um esforço robusto de redução de emissões.",
+                "Senhoras e Senhores,",
+                "Ao reiterar o compromisso do Brasil com os objetivos do Acordo de Paris, quero assegurar que estamos perfeitamente cientes que firmá-lo é apenas o começo. A parte mais fácil.",
+                "Meu país está determinado a intensificar ações de mitigação e de adaptação. Anunciei aqui, durante a Cúpula da Agenda de Desenvolvimento 2030, a contribuição brasileira de 37% de redução dos gases de efeito estufa até 2025, assim como a ambição de alcançarmos uma redução de 43% até 2030 – tomando 2005 como ano-base em ambos os casos.",
+                "Alcançaremos o desmatamento zero na Amazônia e vamos neutralizar as emissões originárias da supressão legal de vegetação. Nosso desafio é restaurar e reflorestar 12 milhões de hectares de florestas e outros 15 milhões de hectares de pastagens degradadas. Promoveremos também a integração de 5 milhões de hectares na relação lavoura-pecuária e florestas.",
+                "Todas as fontes renováveis de energia terão sua participação em nossa matriz energética ampliada até alcançar 45% em 2030.",
+                "Continuaremos contando com a contribuição e a participação de todos os setores de nossa sociedade, que estão conscientes da amplitude do desafio, e com a necessidade de deixar este legado às futuras gerações.",
+                "Senhoras e Senhores,",
+                "Meu governo traçou metas ambiciosas e ousadas porque sabe que os riscos associados aos efeitos negativos recaem fortemente sobre as populações vulneráveis de nosso país e do mundo quando nós não tomamos medidas corretas para a contenção da mudança do clima.",
+                "Essa preocupação deve ser compartilhada agora e por todos nós. Sem a redução da pobreza e da desigualdade não será possível vencer o combate à mudança do clima. E esse combate tampouco pode ser feito à custa dos que menos têm e menos podem.",
+                "Essa é uma das razões pelas quais o conceito de desenvolvimento sustentável precisa ser referência permanente de nosso projeto comum. Incluir, crescer, conservar e proteger: eis a síntese alcançada na Conferência Rio+20, realizada no Brasil em 2012.",
+                "Senhoras e Senhores,",
+                "Não posso terminar minhas palavras sem mencionar o grave momento que vive o Brasil. A despeito disso, quero dizer que o Brasil é um grande país, com uma sociedade que soube vencer o autoritarismo e construir uma pujante democracia. Nosso povo é um povo trabalhador e com grande apreço pela liberdade. Saberá, não tenho dúvidas, impedir quaisquer retrocessos.",
+                "Sou grata a todos os líderes que expressaram a mim sua solidariedade.",
+                "Muito obrigada."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-04",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "sergio-franca-danese-2015-2016"
+            ],
+            "titulo": "Palavras do Secretário-Geral Sérgio Danese, na cerimônia de abertura da I Reunião do Comitê Gestor da Segunda Fase do Projeto Cotton-4 + Togo",
+            "subtitulo": "Brasília, 25 de abril de 2016",
+            "data": "25/04/2016",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/12/2024"
+            ],
+            "horario_atualizado": [
+                "12h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/sergio-franca-danese-2015-2016/palavras-do-secretario-geral-sergio-danese-na-cerimonia-de-abertura-da-i-reuniao-do-comite-gestor-da-segunda-fase-do-projeto-cotton-4-togo",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Quero dar as boas-vindas a todos os participantes, brasileiros e africanos, desta \"I Reunião do Comitê Gestor da segunda fase do Projeto Cotton-4 + Togo\".",
+                "É uma satisfação participar, juntamente com o Diretor da Agência Brasileira de Cooperação, Embaixador João Almino, e com nossos parceiros brasileiros e africanos, desta cerimônia de abertura.",
+                "Quero especialmente cumprimentar a ABC pela organização deste evento, que o Itamaraty tem a oportunidade e a satisfação de acolher com grande e justificável interesse.",
+                "Quero agradecer imensamente aos nossos amigos africanos, cujo engajamento e entusiasmo alimentam este projeto ambicioso e exitoso.",
+                "Senhoras e Senhores,",
+                "Sabemos todos que a cooperação Sul-Sul é um importante instrumento de apoio aos países em desenvolvimento na construção de soluções para seus problemas socioeconômicos.",
+                "O Brasil conduz suas ações de cooperação técnica com o propósito de fortalecer e de criar capacidades nas instituições parceiras dos países em desenvolvimento beneficiários. Pela via da cooperação técnica, o Brasil entende ser capaz de contribuir para a promoção do desenvolvimento inclusivo e sustentável e para a multiplicação do conhecimento compartilhado.",
+                "Nossa política externa pretende destacar-se pelo seu compromisso solidário com aqueles nossos parceiros que podem beneficiar-se de nossas ações de cooperação, que podem valer-se dos exemplos que podemos oferecer em muitas áreas que constituem a base do nosso próprio desenvolvimento.",
+                "Os países africanos são hoje os principais receptores da cooperação técnica brasileira.",
+                "As iniciativas de cooperação técnica empreendidas pelo Governo brasileiro na África são o reflexo natural da prioridade que o Brasil confere a suas relações com o continente africano.",
+                "Temos uma política africana construída ao longo de décadas e reafirmada por cada Governo brasileiro como política de Estado. Seis viagens do Chanceler Mauro Vieira à África em pouco mais de um ano de gestão, no segundo mandato da Presidente Dilma Rousseff, são uma amostra da prioridade que conferimos a essa política africana e prova do engajamento que temos de permanentemente renová-la e fortalecê-la, mesmo em um quadro de severas restrições que todos conhecem.",
+                "Temos o bom sentimento de que as missões de cooperação técnica enviadas à África ao longo dos últimos anos em muito contribuíram para o adensamento das relações brasileiro-africanas e para o desenvolvimento dos nossos parceiros. A abertura de novas embaixadas residentes e o reforço da presença brasileira no continente africano, em seguimento à linha-mestra da nossa política africana, deram-se em sintonia com os esforços de ampliação da cooperação técnica bilateral e das relações Brasil-África em geral.",
+                "O Brasil tornou-se referência mundial no campo da cooperação para o desenvolvimento em diversos domínios, com especial destaque para a agricultura sustentável. Os bons resultados obtidos pelo País na agricultura, através de políticas sustentadas de desenvolvimento tecnológico, de que a EMBRAPA é expressão máxima, e a reconhecida excelência brasileira em todo o espectro da produção agrícola explicam a posição de destaque assumida pelo País nessa área. A África, por sua vez, tem um enorme potencial agrícola. É natural, portanto, que a agricultura se tenha tornado o principal foco de interesse do continente africano em sua cooperação com o Brasil.",
+                "Hoje, a principal frente de cooperação com países africanos em agricultura está justamente no setor algodoeiro. Iniciada com recursos financeiros do Governo brasileiro, em fevereiro de 2009, a parceria com Benin, Burkina Faso, Chade e Mali logo gerou o exitoso Projeto Cotton-4.",
+                "O Governo brasileiro é reconhecido ao Instituto Brasileiro do Algodão (IBA), que passou a disponibilizar, a partir de 2012, 10% dos recursos recebidos dos Estados Unidos no contexto da implementação dos resultados do contencioso do algodão, na OMC, para a execução de projetos de cooperação técnica em países da América Latina e da África Subsaariana.",
+                "Dessa maneira, a cooperação técnica na área do algodão, que já contava com o Projeto Cotton-4, ganhou impulso adicional e passou a incluir também o Togo.",
+                "O Projeto Cotton-4 + Togo é um exemplo eloqüente das potencialidades da cooperação brasileiro-africana, que tanto interesse temos em desenvolver e aprofundar.",
+                "Senhoras e Senhores,",
+                "A agenda que os aguarda a partir de agora tem, para todos nós, grande importância.",
+                "Estaremos engajados em que o tratamento dessa agenda seja o mais proveitoso possível para o nosso projeto comum e, portanto, para as relações entre o Brasil e estes parceiros africanos que tanto prezamos.",
+                "Os senhores podem contar com o nosso compromisso e o nosso esforço.",
+                "Agradeço, uma vez mais, a presença de todos e desejo-lhes pleno êxito em suas atividades.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-04",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "sergio-franca-danese-2015-2016"
+            ],
+            "titulo": "Discurso do Secretário-Geral Sérgio Danese no almoço por ocasião da X Reunião de Alto Nível da Nova Agenda de Cooperação e Desenvolvimento Fronteiriço",
+            "subtitulo": "Brasília, 19 de abril de 2016",
+            "data": "19/04/2016",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/12/2024"
+            ],
+            "horario_atualizado": [
+                "12h31"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/sergio-franca-danese-2015-2016/discurso-do-secretario-geral-sergio-danese-no-almoco-por-ocasiao-da-x-reuniao-de-alto-nivel-da-nova-agenda-de-cooperacao-e-desenvolvimento-fronteirico",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "É uma alegria dar novamente as boas-vindas ao Subsecretário de Relações Exteriores do Uruguai, Embaixador José Luis Cancela, e à sua delegação.",
+                "Este almoço deseja ser uma celebração do quanto Brasil e Uruguai puderam avançar substancialmente na agenda bilateral já neste início de ano.",
+                "Esta é também uma ocasião para celebrarmos, juntos, as realizações da Presidência Pro Tempore uruguaia, no Mercosul, que vem tendo, teve importante papel nesta etapa tão crucial que vivemos na nossa região. Queremos reconhecer aqui, entre outras realizações, o papel que o Uruguai teve nesta etapa final da definição das trocas de ofertas entre o Mercosul e a União Européia. Peço-lhe que transmita esse sentimento, Embaixador, ao seu Governo e aos responsáveis uruguaios pela condução da Presidência Pro-Tempore.",
+                "Quero apenas dizer umas palavras para registrar a extensa e significativa agenda que o Embaixador Cancela e a delegação uruguaia cumprem esta semana em Brasília. Ela é ilustrativa da determinação dos nossos dois países de avançar numa integração profunda e abrangente, que espelhe no nível nacional a intensa e crescente integração que já ocorre na nossa zona fronteiriça.",
+                "Estamos colhendo os frutos do intenso trabalho diplomático dos últimos anos, voltado para o estabelecimento de uma relação de confiança, ágil e transparente, modelo para toda a nossa região.",
+                "As atividades da delegação uruguaia em Brasília envolvem, além da décima Reunião de Alto Nível da Nova Agenda de Cooperação e Desenvolvimento Fronteiriço, também a primeira reunião da Comissão de Comércio Bilateral Brasil-Uruguai.",
+                "Já tive a oportunidade de mencionar ontem, na abertura da Reunião da Nova Agenda, quão importante é para o Brasil a política de integração fronteiriça com o Uruguai, e quão merecedora de atenção específica deve ser a qualidade dos serviços prestados às comunidades da fronteira. Queremos concentrar esforços nessa verdadeira \"linha de frente\" da integração entre Estados fronteiriços, sem a qual não pode haver processo de integração efetiva.",
+                "A reunião da Nova Agenda, que se concluirá na tarde de hoje, tem sido muito produtiva. Tenho certeza de que a adoção do Plano Integrado para a Fronteira Brasil-Uruguai constituirá um marco fundamental para a melhoria dos serviços públicos na fronteira e para a intensificação da cooperação entre nossos dois Governos.",
+                "Mais importante ainda, o Plano Integrado será instrumento fundamental de acompanhamento de nossas ações na fronteira, devendo indicar o grau concreto de consecução de nossos objetivos.",
+                "Amanhã, o Embaixador Cancela copresidirá, ao lado do Secretário-Executivo do Ministério do Desenvolvimento, Indústria e Comércio Exterior, Fernando de Magalhães Furlan, o primeiro encontro da Comissão de Comércio Brasil-Uruguai, que representa um extraordinário resultado alcançado no plano bilateral.",
+                "Esperamos, por meio dos trabalhos da Comissão, aprofundar ainda mais a relação comercial bilateral e solucionar as dificuldades legais, normativas e operacionais que eventualmente possam existir no acesso recíproco aos mercados.",
+                "Que os resultados que temos alcançado no plano bilateral sirvam sempre de inspiração e exemplo para o restante da nossa região.",
+                "Senhor Embaixador, caro amigo,",
+                "Estamos unidos pela geografia, pela história, pela economia, pela amizade fraterna e sincera entre nossos povos. Esses povos, para os quais trabalhamos, almejam um futuro de paz e prosperidade, no qual possam cultivar essa amizade fraterna que os une e de que se orgulham tanto.",
+                "Tenho certeza de que o exemplo de Brasil e Uruguai, dessa busca sincera por mais integração, mais previsibilidade e mais abertura, teve e ainda terá muito a oferecer no processo comum de desenvolvimento da nossa região como um todo.",
+                "Em testemunho do nosso sentimento de entusiasmo pela nossa amizade, gostaria de propor um brinde à saúde e felicidade do Presidente Tabaré Vásquez, de Vossa Excelência e de toda a sua expressiva delegação, assim como à prosperidade do povo uruguaio.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-04",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "sergio-franca-danese-2015-2016"
+            ],
+            "titulo": "Palavras do Embaixador Sérgio Danese na abertura da X Reunião de Alto Nível da Nova Agenda de Cooperação e Desenvolvimento Fronteiriço Brasil-Uruguai",
+            "subtitulo": "Brasília, 18 e 19 de abril de 2016",
+            "data": "18/04/2016",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/12/2024"
+            ],
+            "horario_atualizado": [
+                "12h33"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/sergio-franca-danese-2015-2016/palavras-do-embaixador-sergio-danese-na-abertura-da-x-reuniao-de-alto-nivel-da-nova-agenda-de-cooperacao-e-desenvolvimento-fronteirico-brasil-uruguai",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "É uma honra recebê-los em Brasília e no Itamaraty para a décima Reunião de Alto Nível da Nova Agenda de Cooperação e Desenvolvimento Fronteiriço Brasil – Uruguai, a X RAN.",
+                "Gostaria, em primeiro lugar, de dar boas-vindas aos integrantes da delegação uruguaia – o Embaixador José Luis Cancela e as autoridades de sua importante comitiva: sejam muito bem-vindos.",
+                "Aos representantes da fronteira, verdadeiros protagonistas deste encontro, estendo as mais cordiais boas-vindas. Valorizamos particularmente a sua presença em Brasília.",
+                "Reunidos no âmbito desta X Reunião Bilateral de Alto Nível, trabalharemos juntos para que os pleitos da fronteira possam ser atendidos na melhor medida de nossas capacidades. Agradeço a participação dos funcionários dos órgãos da administração federal e estadual brasileira, que vieram até o Itamaraty para buscarmos, juntos, soluções realistas para as questões de interesse concreto dos brasileiros e dos uruguaios que compartilham a realidade da fronteira.",
+                "A realização da Reunião de Alto Nível em Brasília teve por objetivo facilitar a presença em alto nível de representantes dos órgãos federais brasileiros, em ano caracterizado, como é do conhecimento de todos, por forte esforço de austeridade orçamentária por parte do Governo Federal.",
+                "Senhoras e Senhores,",
+                "A política de integração fronteiriça é uma prioridade do Governo brasileiro, uma política de Estado. No caso especial do Uruguai, vizinho com o qual mantemos intensas e dinâmicas relações de excelente qualidade, as políticas de integração fronteiriça são particularmente importantes.",
+                "A Nova Agenda, mecanismo que completa 14 anos de existência como principal instância de coordenação de política de fronteira entre Brasil e Uruguai, deve ter seu pioneirismo reconhecido.",
+                "Nesta edição da Reunião de Alto Nível da Nova Agenda, novos e importantes instrumentos bilaterais entrarão em debate, nas áreas de cooperação jurídica; cooperação educacional; trabalho e previdência social; tráfego vicinal de mercadorias de subsistência; e telecomunicações. São acordos cuja matéria, por si só, exprime bem a dimensão desta Reunião que estamos abrindo.",
+                "Devemos avaliar os resultados já alcançados pela Nova Agenda e procurar pensar em soluções para as questões que se impõem ainda no dia-a-dia da fronteira.",
+                "Nossa tarefa é trabalhar com seriedade, comprometimento e pragmatismo, escutando com a devida atenção as demandas das comunidades da fronteira. É procurar oferecer as soluções possíveis, a curto prazo, para os problemas detectados. É propor o encaminhamento adequado às questões que exijam reflexão mais aprofundada.",
+                "Caro Embaixador Cancela, caros membros da Delegação uruguaia,",
+                "Tenho presentes os dois longos dias de trabalho que temos pela frente. Gostaria apenas de tecer algumas considerações sobre as perspectivas deste nosso encontro.",
+                "A partir das demandas que nos chegam das populações fronteiriças, tanto por meio dos Comitês de Fronteira como das reuniões passadas da Nova Agenda, o Brasil e o Uruguai decidiram negociar um Plano Integrado para a fronteira. A adoção desse Plano Integrado será um passo transformador no campo da formulação de políticas gerais e da implementação de ações específicas nas áreas fronteiriças.",
+                "O Plano Integrado reconhece que a melhoria dos serviços públicos deve constituir o ponto central das políticas desenhadas para a região de fronteira.",
+                "Destacam-se, nesse particular, o fomento da cooperação policial; a facilitação da circulação de trabalhadores e a redução da informalidade laboral; o esforço conjunto em monitoramento ambiental e saneamento; a gestão coordenada de recursos pesqueiros; o impulso ao empreendedorismo; a formulação de um programa cultural conjunto para a fronteira; a cooperação em saúde e a prevenção de epidemias, dentre outro temas de interesse das comunidades fronteiriças.",
+                "O Plano Integrado constitui um roteiro comum, compartilhado, a balizar o que se deve fazer no curto e médio prazo em matéria de integração fronteiriça.",
+                "Será fundamental que a Nova Agenda e, principalmente, os Comitês de Fronteira, realizem o seguimento das ações do Plano Integrado e dos Acordos a serem celebrados, recorrendo às autoridades públicas dos dois lados sempre que a execução daquelas iniciativas requeira respaldo governamental.",
+                "Sabemos que é apenas por meio desse exercício constante de cobrança ativa e construtiva, desse exercício da política em sua forma mais elevada, a partir do nível local e da busca dos interesses genuínos dos cidadãos, que avançaremos rumo à necessária melhoria das políticas públicas na fronteira.",
+                "Senhoras e Senhores,",
+                "Reunimos aqui, no dia de hoje, autoridades de diversos níveis da administração pública brasileira e uruguaia, bem como parlamentares, funcionários de órgãos técnicos e representantes da população local. Respeitando o formato que tem sido adotado nas reuniões da Nova Agenda e procurando garantir maior eficiência à consideração do conjunto dos temas da pauta, os trabalhos foram divididos entre Grupos temáticos.",
+                "Ao longo da tarde de hoje e da manhã de terça-feira, serão discutidos temas de interconexão de infraestrutura; segurança pública e judicial; políticas sociais; assuntos trabalhistas; saúde; educação, formação profissional e cultura; e meio ambiente e saneamento.",
+                "Logo após esta cerimônia de abertura, os Grupos iniciarão os trabalhos em suas respectivas salas de reunião. Ao final dos debates, os Grupos lavrarão suas respectivas atas com conclusões, sugestões e encaminhamentos.",
+                "Cada um dos Grupos de Trabalho e das Comissões designará um Relator, encarregado de fazer breve apresentação oral dos principais resultados para a Sessão Plenária, que terá lugar neste mesmo auditório, na tarde de amanhã.",
+                "A Plenária deverá registrar e assegurar o seguimento das propostas apresentadas pelos Grupos de Trabalho e dos demais temas de interesse das comunidades fronteiriças.",
+                "Voltaremos a encontrar-nos, dessa forma, amanhã à tarde, nesta mesma sala, para avaliar, sistematizar e referendar os debates e os resultados alcançados.",
+                "Senhoras e Senhores,",
+                "Acredito que deve nortear-nos, hoje e amanhã, além do sentimento de profunda irmandade que une brasileiros e uruguaios, a seriedade, o pragmatismo e o senso prático.",
+                "Sabemos que o momento apresenta grandes desafios para o planejamento e a implementação de políticas públicas.",
+                "É nessas horas que se fazem mais necessárias a reflexão e a busca de soluções criativas e construtivas. É neste momento que precisamos nos inspirar nas soluções criativas tão próprias à vida na fronteira, onde as atividades mais rotineiras, como a visita à casa de um parente ou a ida a um supermercado, por exemplo, podem mostrar-se muito mais complicadas do que seria razoável.",
+                "Trata-se de um momento em que se faz necessário ouvir, refletir e trabalhar incansavelmente na implementação daquilo que se revelar possível.",
+                "Saibam que terão sempre no Ministério das Relações Exteriores e no Governo Federal ouvintes atentos das demandas da fronteira e defensores incansáveis das políticas de integração fronteiriça.",
+                "O Governo gaúcho é um parceiro fundamental e imprescindível para que possamos alcançar os objetivos de integração e desenvolvimento fronteiriço.",
+                "O empenho cotidiano do Governo do Rio Grande do Sul em apoiar o fortalecimento das relações com o Uruguai tem sido um fator de enorme importância, que em muito tem contribuído para o êxito de nossos esforços de integração.",
+                "Tenho certeza que essa sólida associação entre as esferas federal e estadual potencializa nossa capacidade de dar respostas coordenadas e eficazes aos anseios da população.",
+                "Da mesma forma, quero salientar a importância da parceria que os Governos brasileiro e uruguaio mantêm com as autoridades municipais, aqui representadas pelo Intendente de Rivera e Presidente do Comitê Binacional de Prefeitos e Intendentes da Fronteira Brasil-Uruguai, Marne Osorio. Nossas autoridades municipais são aquelas que primeiro identificam os problemas e que mais estão habilitadas a propor as melhores soluções. Aproveitemos, portanto, esta oportunidade para somar esforços em prol de nossas populações fronteiriças.",
+                "Antes de prosseguirmos com as reuniões dos Grupos de Trabalho, gostaria de passar a palavra ao Subsecretário de Relações Exteriores do Uruguai, Embaixador José Luis Cancela, para seus comentários iniciais.",
+                "Muito obrigado a todos e bom trabalho."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-04",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "mauro-vieira-2015-2016"
+            ],
+            "titulo": "Desarmamento e segurança nuclear (O Estado de S. Paulo, 1º/04/2016)",
+            "subtitulo": "NA",
+            "data": "01/04/2016",
+            "horario": "12h56",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/02/2026"
+            ],
+            "horario_atualizado": [
+                "11h37"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/mauro-vieira-2015-2016/desarmamento-e-seguranca-nuclear-o-estado-de-s-paulo-1-04-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Mauro Vieira",
+                "A detonação de um artefato atômico por um Estado seria tão catastrófica e ilegítima quanto o uso dessas armas por atores não estatais",
+                "Realiza-se hoje, em Washington, a 4ª Cúpula de Segurança Física Nuclear. A ideia do encontro é levar adiante uma discussão a respeito da garantia de segurança das instalações e materiais nucleares e do aprofundamento do combate à ameaça do terrorismo nuclear. Para isso, é necessário estabelecer uma robusta arquitetura internacional de segurança, com participação central da Agência Internacional de Energia Atômica (AIEA), única instituição multilateral com competência e experiência no assunto.",
+                "O Brasil está profundamente engajado nesse processo. Participamos ativamente das cúpulas anteriores, somos parte da Convenção sobre a Proteção Física de Materiais Nucleares e de sua emenda de 2005, e assinamos a Convenção Internacional para a Supressão de Atos de Terrorismo Nuclear.",
+                "Mas é essencial que as iniciativas em matéria de segurança física sejam complementadas por esforços sustentados em não proliferação e, fundamentalmente, em desarmamento.",
+                "É preciso, ainda, que as medidas internacionais para reforçar a segurança nuclear não prejudiquem o direito de cada Estado de desenvolver o uso da energia nuclear para fins pacíficos, que tem possibilitado o acesso da humanidade a benefícios em áreas tão diversas como a geração de energia elétrica, a medicina e as aplicações na indústria, agricultura e meio ambiente, entre outras.",
+                "No Brasil, temos uma matriz energética limpa, com amplo uso de fontes renováveis. A geração de energia térmica, na qual se inclui a energia nuclear, à base de urânio, tem papel complementar, mas não por isso menos importante. Possuímos uma das maiores reservas de urânio do mundo, o que nos possibilita a geração confiável de uma energia eficiente, ambientalmente limpa e de origem nacional, reduzindo a vulnerabilidade com relação ao abastecimento e à volatilidade dos preços dos combustíveis fósseis.",
+                "O Brasil defende o uso pacífico da energia nuclear com sólidas credenciais. Como lembrou a presidenta Dilma Rousseff em discurso nas Nações Unidas, “abdicamos, por compromisso constitucional, do uso da energia nuclear para fins que não sejam pacíficos. O Brasil é um vetor de paz, estabilidade e prosperidade em sua região”. Somos parte do Tratado de Tlatelolco, que fez da América Latina e Caribe a primeira zona livre de armas nucleares do mundo, e estamos vinculados aos compromissos do Tratado de Não Proliferação de Armas Nucleares.",
+                "Criamos mecanismos eficientes e adequados para a estrita contabilidade e controle de materiais nucleares, com destaque para a Agência Brasileiro-Argentina de Contabilidade e Controle (ABACC), modelo exitoso de transparência e construção de confiança entre países na área nuclear, que permite a verificação mútua de materiais sensíveis em todas as atividades nucleares de Brasil e Argentina, que são hoje sócios estratégicos e parceiros fundamentais na construção da integração regional.",
+                "Apesar dos avanços regionais e internacionais na área, continua sendo imperativo enfrentarmos a questão dos arsenais atômicos. Hoje, a maior parte do material físsil mundial passível de ser usado em armamentos está em instalações militares para as quais não há qualquer sistema global de segurança e verificação. E a detonação de um artefato nuclear por um Estado seria tão catastrófica e ilegítima quanto o uso dessas armas por atores não estatais, ao provocar destruição e mortes em grande escala.",
+                "Por isso, o Brasil apoia iniciativas em favor do desarmamento nuclear e continuará a defender a eventual negociação de um tratado de banimento das armas nucleares. “Não há mãos certas para as armas erradas”, afirmou o secretário-geral da ONU, Ban Ki-moon. A efetiva e duradoura segurança nuclear jamais será alcançada sem o pleno comprometimento de toda a comunidade internacional, e muito especialmente das potências nucleares."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-04",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

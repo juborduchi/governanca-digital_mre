@@ -1,0 +1,889 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira-2015-2016"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira por ocasião do almoço de Chanceleres presentes à reunião do Conselho do Mercado Comum – Brasília, 16 de julho de 2015",
+            "subtitulo": "NA",
+            "data": "16/07/2015",
+            "horario": "17h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "17h42"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira-2015-2016/discurso-do-ministro-mauro-vieira-por-ocasiao-do-almoco-de-chanceleres-presentes-a-reuniao-do-conselho-do-mercado-comum-brasilia-16-de-julho-de-2015",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Colegas Chanceleres,",
+                "Sejam todos muito bem-vindos a Brasília. Quero saudar muito especialmente os Ministros e representantes dos nossos Estados Associados, que acabam de se juntar a nós e com os quais compartilharemos nossa agenda de trabalho nesta tarde.",
+                "É um enorme prazer ver reunidos, sob o teto da Casa de Rio Branco, os Chanceleres e demais representantes de todos os países da América do Sul.",
+                "Esse é um dos aspectos mais notáveis do MERCOSUL: reunir todos os países de nosso continente, entre Estados Partes e Estados Associados, para debater o futuro de nossa integração. Essa proximidade e esse diálogo franco são conquistas históricas ainda recentes que devemos valorizar e proteger.",
+                "Nos últimos anos, a América do Sul tem se consolidado como região de paz, democracia e desenvolvimento econômico com inclusão social.",
+                "Somos hoje reconhecidos no mundo por sermos uma região livre de conflitos militares e de armas de destruição em massa. Temos de nos orgulhar dos grandes avanços no combate à pobreza e na determinação em superar quaisquer diferenças de maneira pacífica.",
+                "O Governo da Presidenta Dilma Rousseff está profundamente comprometido com a manutenção e a ampliação dessas conquistas.",
+                "Nosso compromisso decorre, sobretudo, do reconhecimento de que estamos destinados a ter um futuro em comum, haja vista nossos laços históricos e amplas fronteiras. Nosso desenvolvimento será em muito facilitado e potencializado pelo comércio, pelo diálogo político e pela aproximação de nossas sociedades.",
+                "Caras amigas, caros amigos,",
+                "O compromisso do Brasil com sua região reflete, ademais, uma incontornável realidade humana. As comunidades de brasileiros nos países vizinhos são cada vez mais significativas. Temos também a felicidade de sermos escolhidos como novo lar por grande número de imigrantes de nossa região.",
+                "Estabelecem-se, assim, vínculos pessoais, culturais e econômicos de âmbito regional com implicações muito concretas para milhões de pessoas. Afirmar que somos uma “família de nações” ou celebrar nossa “fraternidade” tem sentido cada vez mais real, além do simbólico.",
+                "Foi com esses ideais que avançamos em importantes temas na reunião de hoje pela manhã, entre os Estados Partes do MERCOSUL. E estou seguro de que avançaremos ainda mais durante as reuniões de hoje e amanhã, bem como na próxima Presidência “Pro Tempore”, que caberá ao Paraguai.",
+                "Acreditamos que a integração regional fortalece a capacidade dos nossos Estados de moldar as relações internacionais de modo favorável aos interesses de todos nós. Não podemos deixar de colocar nosso patrimônio regional de paz e estabilidade a serviço de um mundo cada vez mais conturbado e cheio de desafios.",
+                "Senhores Ministros, caros colegas,",
+                "Permitam-me convidá-los a erguer um brinde aos indivíduos que encarnam essa identidade coletiva sul-americana.",
+                "Brindemos aos nossos cidadãos; às mulheres e homens que, com sua visão e capacidade de liderança, trabalharam para que estivéssemos aqui hoje celebrando as conquistas do MERCOSUL e da região. É uma grande alegria recebê-los em Brasília.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2015-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira-2015-2016"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira por ocasião da Cúpula Social do MERCOSUL – Brasília, 14 de julho de 2015",
+            "subtitulo": "NA",
+            "data": "14/07/2015",
+            "horario": "23h35",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "17h42"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira-2015-2016/intervencao-do-ministro-mauro-vieira-na-cupula-social-do-mercosul-brasilia-14-de-julho-de-2015",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Senhor Ministro de Estado Chefe da Secretaria Geral da Presidência da República, meu amigo Miguel Rossetto,Minha estimada amiga Nilma Gomes, Ministra Chefe da Secretaria de Políticas de Promoção da Igualdade Racial,Senhores representantes da sociedade civil, Clariana Cunha, Antonio Alberto Jara e Nalu Faria,",
+                "Gostaria, primeiramente, de saudar todos os participantes da Cúpula Social e registrar minha alegria em recebê-los aqui em Brasília.",
+                "A presença de tantos representantes da sociedade civil é um eloquente testemunho da vitalidade e do dinamismo do projeto de integração para o qual trabalhamos no MERCOSUL.",
+                "A primeira edição da Cúpula foi realizada aqui mesmo em Brasília, em 2006. Quase uma década depois, esse encontro de representantes da sociedade civil tornou-se parte de nossa agenda de eventos, o que traduz a importância que os governos de nossa região atribuem à interlocução com os setores organizados da sociedade civil.",
+                "Esse entusiasmo demonstrado por nossas sociedades nos encoraja a continuar trabalhando cada vez mais para aprofundar o MERCOSUL em todas as duas dimensões.",
+                "Nosso bloco completa, em 2015, 24 anos como a mais abrangente iniciativa de integração latino-americana.",
+                "Hoje o MERCOSUL é um componente relevante das próprias estratégias de desenvolvimento de nossos países. Valorizamos o comércio, mas também a cidadania, a cultura, a educação, o desenvolvimento sustentável e o combate à exclusão social. A própria Cúpula Social é prova disso.",
+                "Ao longo da última década, o MERCOSUL se desenvolveu em ambiente extremamente favorável à integração. Ao lado das tratativas na área econômico-comercial, adquiriram grande importância ações orientadas para o aprofundamento da integração em seus aspectos social e de cidadania, que resultaram em melhorias palpáveis para as pessoas.",
+                "Os avanços do MERCOSUL acompanharam movimentos de integração mais abrangentes na América do Sul e na América Latina. A criação da UNASUL e da CELAC refletiu uma visão compartilhada da importância da integração para o desenvolvimento econômico e social dos países da região. Representou, ainda, a inversão da lógica de desconfiança que historicamente nos separou.",
+                "A sociedade civil organizada teve um papel central nessas transformações. Ao mesmo tempo em que se beneficiou das normas que institucionalizaram sua participação nos processos decisórios do MERCOSUL, passou a ter voz determinante na definição de rumos da integração regional. Quanto mais inclusivo for o nosso processo decisório, maior será a legitimidade e o alcance do MERCOSUL.",
+                "Senhoras e Senhores,",
+                "Em 2010, durante a Presidência Pro Tempore brasileira, foram adotados o Plano Estratégico de Ação Social (PEAS) e o Plano de Ação do Estatuto da Cidadania.",
+                "O PEAS contempla, nos dez eixos em que se estrutura, diretrizes e objetivos voltados para a erradicação da miséria, da fome e do analfabetismo, além da universalização dos serviços de saúde pública no âmbito do MERCOSUL.",
+                "Suas metas são mais ambiciosas do que aquelas estipuladas nos Objetivos de Desenvolvimento do Milênio. Aliás, temos de nos orgulhar de sermos vistos como referência no alcance da maior parte desses objetivos, especialmente o mais relevante deles: o combate à miséria.",
+                "Os avanços da América do Sul na redução da pobreza são hoje mundialmente reconhecidos. No Brasil, a Presidenta Dilma Rousseff estabeleceu, em 2011, o Plano “Brasil sem Miséria”, que permitiu a milhões de brasileiros superar a pobreza extrema. Como já assinalou a Presidenta em diferentes oportunidades, é possível, e indispensável, crescer com inclusão social.",
+                "Já o Plano de Ação do Estatuto de Cidadania estabelece uma série de projetos e iniciativas que permitirão, até o 30º aniversário do MERCOSUL, em 2021, a consolidação de um conjunto de direitos e garantias para as populações de nossos Estados.",
+                "Na atual Presidência brasileira, passamos em revista, de maneira aprofundada, ambos os Planos. Esse trabalho de revisão e atualização tem de ser constante e confio que seguirá nas Presidências que nos sucedem.",
+                "Pudemos registrar progressos significativos em vários temas, como circulação de pessoas, trabalho e emprego, educação, saúde, combate às desigualdades sociais, segurança alimentar, agricultura familiar, cultura, entre outras. Vou mencionar apenas alguns.",
+                "A Declaração Sociolaboral, redigida em estreita colaboração com representantes dos trabalhadores, será assinada pelos Presidentes dos Estados Partes do MERCOSUL no próximo dia 17. Ela contribuirá decisivamente para garantir condições de trabalho satisfatórias em nossa região.",
+                "Foi lançado o Plano Estratégico do MERCOSUL de Emprego e Trabalho decente, que marca o compromisso dos Estados Partes em promover o trabalho decente e preservar empregos. Deverá ser aprovada, nos próximos dias, a criação da Reunião de Autoridades sobre os Direitos dos Afrodescendentes, reflexo do compromisso assumido por nossos Estados frente àqueles cidadãos que ainda sofrem discriminação racial e exclusão.",
+                "Juntamente com iniciativas em andamento que visam a promover os direitos das mulheres e dos povos indígenas, o novo foro permitirá aprofundar as políticas públicas existentes na região, assegurando a inclusão plena – social, cultural, econômica e política – de todos os segmentos da população.",
+                "Caros participantes da Cúpula Social,",
+                "Na área de agricultura familiar, logramos avanços em questões como o registro da agricultura familiar, políticas para a juventude rural e a aplicação de políticas de igualdade de gênero à agricultura familiar, entre outras.",
+                "A valorização da agricultura familiar, por meio de políticas de compras públicas e de financiamento, é fundamental para o fortalecimento do setor agrícola em nossos países e para conciliar crescimento econômico e sustentabilidade ambiental.",
+                "Os pequenos e médios agricultores têm papel crucial na promoção da segurança alimentar e na geração de renda em nossos países.",
+                "Nossa reunião periódica sobre o tema é um exemplo de como a participação social pode contribuir para os trabalhos no MERCOSUL.",
+                "Não descuidamos tampouco de nosso patrimônio cultural conjunto. No último dia 30 de junho, a Ponte Barão de Mauá, entre Jaguarão, no Rio Grande do Sul, e Rio Branco, no Uruguai, foi certificada como Patrimônio Cultural do MERCOSUL.",
+                "Trata-se do primeiro bem a receber esse título e simbolicamente nos recorda que um dos grandes propósitos do MERCOSUL é estabelecer uma infraestrutura física que aproxime nossos povos e países.",
+                "Todos esses êxitos se refletem em benefícios diretos para nossas populações e ajudam a constituir, no seio do MERCOSUL, laços cada vez mais fortes de comunidade.",
+                "Nossa intenção e nosso propósito é o de que nossos cidadãos criem verdadeiros vínculos de identidade com o bloco e passem a se perceber também como cidadãos do MERCOSUL.",
+                "O incentivo à participação social e o esforço para institucionalizar os mecanismos de diálogo com a sociedade civil vêm ao encontro desse objetivo.",
+                "Senhoras e senhores,",
+                "A Cúpula Social tornou-se, desde 2012, durante a Presidência Pro Tempore Brasileira, parte da estrutura do MERCOSUL.",
+                "Pudemos, a partir disso, dar acolhida à expectativa dos movimentos e organizações sociais de um engajamento mais ativo no MERCOSUL, franqueando-lhes acesso a todas as informações referentes às normas do bloco e organizando um registro comum, em base voluntária, desses movimentos e grupos.",
+                "A instituição da Unidade de Apoio à Participação Social (UPS), que tomou forma em 2010, contribuiu para incrementar a participação social nas atividades do bloco, inclusive viabilizando financeiramente o envio de delegações à Cúpula Social.",
+                "Estamos refletindo de maneira permanente sobre meios que fomentem a participação, na Cúpula Social, dos movimentos e entidades interessados em envolver-se nos debates sobre o processo de integração.",
+                "A conjuntura que permitiu os grandes avanços na última década modificou-se. A crise financeira mundial apresenta importantes desafios para desenvolvermos novas iniciativas. Mas o patrimônio que acumulamos no MERCOSUL, na UNASUL e na CELAC constitui um marco da integração regional que não permitirá retrocessos.",
+                "As conquistas sociais do MERCOSUL que mencionei não são mais apenas dos Estados. Elas formam uma plataforma de direitos e garantias que representam o cimento da integração. E é com base nessa realidade que vamos enfrentar os desafios que se colocam diante de nós.",
+                "Nessa linha, tomo emprestadas as palavras do Dr. Florisvaldo Fier, Alto Representante-Geral do MERCOSUL: a resposta aos desafios com que nos temos deparado no presente só pode ser “mais MERCOSUL”.",
+                "Como proclama o lema desta Cúpula Social, é preciso avançar em todos os aspectos da integração. E nossa finalidade primordial tem de ser a ampliação de direitos e a promoção de engajamento cada vez maior de nossas sociedades.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2015-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Discurso da Presidenta da República, Dilma Rousseff, por ocasião do almoço em homenagem aos Chefes dos Estados-Partes do Mercosul e Estados Associados – Brasília, 17 de julho de 2015",
+            "subtitulo": "NA",
+            "data": "17/07/2015",
+            "horario": "22h38",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h20"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/discurso-da-presidenta-da-republica-dilma-rousseff-durante-almoco-em-homenagem-aos-chefes-dos-estados-partes-do-mercosul-e-estados-associados-brasilia-17-de-julho-de-2015",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Quero iniciar cumprimentando as senhores e senhores Chefes de Estado do Mercosul e dos países associados e convidados.Queria cumprimentar todos os presidentes, a todos os ministros, a todas as delegações,Cumprimentar também o presidente do Paraguai, Horacio Cartes,A presidente Cristina Kirchner,O presidente David Granger,O vice-presidente do Equador, George Glass,Cumprimentar todos aqueles que compareceram a esta Cúpula,Cumprimentar também, presentes, o senador Requião e o deputado Arlindo Chinaglia,Cumprimentar o deputado Saulo Ortega Campos, presidente do Parlasul,Queria também cumprimentar o nosso alto representante do Mercosul, Doutor Rosinha,Cumprimentar os senhores jornalistas, fotógrafos e cinegrafistas.",
+                "Nós vamos fazer simultaneamente uma declaração curta à imprensa e também o brinde em comemoracao a esta reunião, da 48ª Cúpula do Mercosul.Nós tivemos o prazer de receber aqui, em Brasília, todas essas delegações dos Estados Partes e Associados. Nós exercemos, no primeiro semestre de 2015, a Presidência Pro Tempore do Mercosul e, nesse período, nós reafirmamos o compromisso de todos os países e o nosso, em particular, de fortalecer o nosso bloco.Da extensa pauta da reunião de hoje, eu quero destacar, inicialmente, algumas decisões. Primeira: nós confirmamos nossa decisão de trocar ofertas com a União Europeia no último trimestre de 2015, na esteira do que havíamos decidido e acordado em junho deste ano em Bruxelas. Estarão abertas, a partir dessa troca, as negociações entre os dois blocos para a materialização de um ambicioso, abrangente e equilibrado acordo comercial. Segunda decisão: extremamente relevante, diz respeito à renovação do Fundo de Convergência Estrutural do Mercosul, o Focem. Esse fundo é um instrumento importante e indispensável para a redução das assimetrias do bloco. Por esse fundo, nós tivemos o equivalente a US$ 1 bilhão, sendo atribuídos aos diferentes Estados-Membros, com prioridade para os menores, em 44 projetos, a imensa maioria concentrada na área de infraestrutura. A proposta do Focem, agora renovado, está na essência da nossa concepção de uma integração regional sem hegemonismos, capaz de articular harmônicamente economias distintas e economias de dimensões diferentes. Uma cooperação que se dá entre países iguais, e países que procuram que as suas sociedades se desenvolvam e sejam mais justas, e beneficiem a todos os seus cidadãos e cidadãs.Assim também nós, nessa reunião da Cúpula do Mercosul, tivemos uma terceira questão muito importante, que é fazer com que o Mercosul se transforme em um instrumento efetivo para que nós enfrentemos a conjuntura econômica adversa que afeta a todos os nossos países. Nós vamos transformar todas as nossas dificuldades em oportunidades, para ampliar e fortalecer a solidariedade da nossa Cúpula. Assim, nós estabelecemos nessa reunião e nessa Cúpula uma discussão franca sobre a necessidade de aumentar nosso fluxos comerciais, entre nós, prioritariamente.Daí porque uma quarta questão é de suma importância: são as decisões sobre a união aduaneira que nós iremos perseguir, com o objetivo de completar esse compromisso e, ao mesmo tempo, garantir que haja suficiente espaço de manobra para as economias enfrentarem a atual conjuntura econômica.A nossa prioridade também se dá na conquista dos novos mercados. Assim, uma quinta iniciativa deve ser destacada, que é uma agenda bastante ativa com parceiros externos além da questão que falei na primeira, da União Europeia, que foram os contatos que nós fizemos com a Associação Europeia de Livre Comércio, a Coreia do Sul, o Japão, o Líbano e a Tunísia. Esse conjunto de iniciativas tinha como objetivo ampliar não só as relações entre nós, mas a nossa presença dos mercados europeus, do Oriente Médio e da Ásia, por exemplo.A sexta grande iniciativa que está com destaque superior a todas demais é aqui mesmo, na América Latina. É o fortalecimento do Mercosul, com a entrada oficial da Bolívia entre os Estados Partes. A Bolívia e o Mercosul vêm tendo livre comercio em razão do acordo que nós assinamos com eles, em 96. Assim, na presidência brasileira, nossas equipes técnicas trabalharam para acelerar os trâmites em cada país para que a entrada da Bolívia se dê de forma bastante tranquila. A outra questão foi que nós também avançamos no diálogo com a Aliança do Pacífico. Enviamos para a Aliança a proposta de aprofundamento do diálogo entre os dois blocos. E queremos identificar uma agenda que abra oportunidades de negócios entre nós.A oitava iniciativa é que também avançamos na integração produtiva, com o importante apoio do Doutor Rosinha, o alto representante-geral do Mercosul. O Doutor Rosinha desenvolveu todo um trabalho no sentido de ampliar a nossa cooperação em áreas como é o caso do setor de brinquedos, que teveum aumento expressivo de participação das empresas do Mercosul no mercado regional, assim como, agora, trabalhamos o setor de fármacos, de cosméticos, têxtil, eletroeletrônico, software e calçados.Os resultados de nosso trabalho não foram só na área econômica, foram também em relação às nossas sociedades. Eu queria destacar a nova Declaração Sócio-Laboral que acabamos de assinar, que tem objetivos claros de sustentação do emprego e do trabalho decente na região, fortalecimento da negociação sindical e que condiciona a participação de empresas em projetos financiados pelo bloco à observância dos preceitos desse acordo.Além disso, eu queria destacar a reunião de autoridades sobre direitos dos afrodescendentes. Queria também destacar uma iniciativa importante, muito importante para o Brasil, que é a decisão adotada hoje, de atribuir ao ex-presidente João Goulart o título de Cidadão Ilustre do Mercosul.Eu queria reiterar para todos vocês que o Brasil está convencido que o Mercosul não é apenas um acordo de cooperação. O Mercosul é parte essencial do projeto nacional do Brasil, de desenvolvimento. Faz parte desse projeto o compartilhamento com o Mercosul de todas as iniciativas, no sentido do avanço comercial, de investimentos e também o compartilhamento de valores comuns, valores democráticos, de respeito à democracia, aos direitos humanos, à defesa de uma ordem institucional forte e também de uma ordem internacional mais justa. Foi com esse espírito que nós atuamos na presidência. E estou certa que, com o mesmo espírito, o presidente Cartes, que assume agora a Presidência Pro Tempore, levará à frente essa nossa cooperação.Quero finalmente reiterar o que eu já expressei na minha fala anterior sobre a querida amiga e lutadora guerreira, presidente Cristina Fernandez de Kirchner, que hoje não participa pela última vez, mas é uma das últimas participações, pelo menos aqui no Brasil é a última participação. E nós ficamos extremamente gratos, extremamente agradecidos à presidente da nação argentina Cristina Fernandez de Kirchner. Ela conduziu com inteligência, com coragem e determinação política, os destinos da Argentina por quase 8 anos, ao mesmo tempo em que cada um de nós sabe como ela teve uma participação construtiva na nossa cooperação sul-americana, não só no Mercosul, mas na Unasul e também na Celac.Em reconhecimento da sua força, da sua liderança, da sua solidariedade permanente, da sua generosidade, enfim, da sua trajetória pessoal e política, o governo brasileiro decidiu ter a honra de outorgar-lhe o Grande Colar da Ordem Nacional do Cruzeiro do Sul, a nossa maior ordem. Ergamos todos nós… Ergamos todos nós um brinde à nossa querida presidenta Cristina Fernandez de Kirchner. Um brinde ao Mercosul, a todos os Estados-Partes e Estados Associados.Muito obrigada, muito agradecida."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2015-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Discurso da Presidenta da República, Dilma Rousseff, por ocasião da abertura da 48ª Cúpula do Mercosul – Brasília, 17 de julho 2015",
+            "subtitulo": "NA",
+            "data": "17/07/2015",
+            "horario": "20h39",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h20"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/discurso-da-presidenta-da-republica-dilma-rousseff-na-abertura-da-48-cupula-do-mercosul-brasilia-17-de-julho-2015",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Bom dia a todos e a todas aqui presentes.",
+                "Declaro aberta a 48ª Cúpula de chefes de Estado do Mercosul e dos Estados associados.",
+                "Cumprimento o excelentíssimo senhor Horacio Cartes, presidente da República do Paraguai, que irá me suceder na presidência pro tempore do Mercosul,",
+                "Cumprimento o excelentíssimo senhor Tabaré Vásquez, presidente da república oriental do Uruguai,",
+                "Cumprimento excelentíssimo senhor Nicolás Maduro, presidente da República Bolivariana da Venezuela,",
+                "Cumprimento a excelentíssima senhora Cristina Fernández de Kirchner, presidenta na nação Argentina,",
+                "Cumprimento o excelentíssimo senhor Evo Morales, presidente do Estado plurinacional da Bolívia,",
+                "Cumprimento o excelentíssimo senhor David Granger, presidente da República cooperativista da Guiana,",
+                "Cumprimento o excelentíssimo senhor Jorge Glas, vice-presidente da República do Equador,",
+                "Cumprimento os senhores e as senhoras, ministros de Estado e integrantes das delegações do Mercosul, e dos países associados e convidados.",
+                "Senhoras e senhores, jornalistas, fotógrafos e cinegrafistas,",
+                "Passo ao item da agenda que trata justamente do projeto de agenda que foi circulado a todas as delegações. Caso não haja comentários a fazer, considero aprovada a agenda.",
+                "Gostaria, agora, de passar primeiro a palavra ao presidente Tabaré Vázquez, porque ele terá, por razões de governo, de viajar antecipadamente. Por isso, peço ao senhor Tabaré Vázquez, que pronuncie as suas declarações.",
+                "(Fala de Tabaré Vásquez).",
+                "Farei, agora, então, as minhas palavras introdutórias, uma vez que o nosso querido presidente do Uruguai pediu para falar antecipadamente.",
+                "Quero expressar, em nome de todo o povo e do governo brasileiros, as boas-vindas aos chefes de estado e às delegações aqui presentes.",
+                "Pela terceira vez, tenho o privilégio de presidir uma Cúpula do Mercosul. Minha convicção sobre a importância da integração sul-americana, está uma vez mais fortalecida.",
+                "Eduardo Galeano, que há pouco nos deixou, escreveu que a pobreza não estava escrita nos astros, não era um destino imutável; e que a solidariedade, sim, está inscrita na nossa alma. Suas palavras devem ter inspirado a ação de nossos governos na busca de melhores condições de vida para os nossos povos. Os países da região engajaram-se, nos últimos anos, na execução de políticas econômicas, com foco no combate à pobreza, na melhor distribuição de renda, na promoção do emprego e dos ganhos salariais.",
+                "Com isso, logramos evitar que os efeitos mais nocivos da crise econômica financeira global contaminasse nossas economias. Esta crise, no entanto, tem se mostrado persistente. A recuperação das economias avançadas ainda é frágil e as perspectivas de um novo ciclo de crescimento global continuam incertas. Sabemos que chegou ao fim o superciclo das commodities, que beneficiou toda a região, e, sabemos também, que a economia chinesa mudou o patamar do seu desenvolvimento.",
+                "Essa situação passou a exigir políticas econômicas capazes de preservar as conquistas dos últimos anos e de propiciar a retomada do crescimento. Por essa razão, muitos de nossos países encontram-se empenhados em reformas domésticas, para melhor enfrentar este cenário incerto.",
+                "O Mercosul é uma das ferramentas importantes nessa estratégia. O comércio intrarregional cresceu quase 12 vezes desde a criação do bloco, enquanto o comércio mundial, no mesmo período, multiplicou-se por cinco.",
+                "Trata-se, também, de um comércio com grande qualidade: 80% das exportações brasileiras originárias do bloco, por exemplo, são de bens industrializados. Sabemos, no entanto, que nos últimos anos assistimos a uma relativa desaceleração e temos de continuar lutando para ampliar as nossas relações comerciais de investimento em todas as áreas sociais e culturais. Precisamos, sobretudo, continuar fortalecendo e comentando o intercâmbio intrazona, retomando a fluidez das trocas entre os sócios do Mercosul. A crise não pode ser razão para criarmos barreiras comerciais entre nós, pelo contrário, ela deve reforçar a nossa integração e a nossa solidariedade.",
+                "É importante, também, buscar acordos comerciais fora da região. Durante a presidência brasileira do Mercosul, trabalhamos com os demais países do bloco no aperfeiçoamento da oferta do bloco para a União Europeia. E definimos, com o lado europeu, o objetivo de proceder a troca de ofertas no último trimestre deste ano na relação que nós tivemos em Bruxelas nos meses passados.",
+                "Promovemos reuniões, também, com a Associação Europeia de Livre Comércio, com o Líbano, a Tunísia, a Coréia e o Japão. Apresentamos à Aliança do Pacífico, proposta para o aprofundamento do diálogo entre os dois blocos.",
+                "Estou certa de que a busca por novos mercados continuará a ser prioridade do Mercosul durante a presidência Pro Tempore do Paraguai, e que todos seguiremos comprometidos em obter resultados concretos no mais breve prazo.",
+                "Ainda no campo econômico, continuamos empenhados em consolidar a união aduaneira. É preciso, entretanto, reconhecer que os efeitos da crise geram desafios para as economias da região. Por isso, é positivo que as regras do Mercosul se mantenham flexíveis e reservem a cada Estado-parte, o espaço necessário para a adoção das políticas adequadas às circunstâncias.",
+                "Nosso compromisso também se estende à integração produtiva, com redução das assimetrias entre nossos países. Avançamos iniciativas promissoras, por exemplo, no setor de brinquedos. Desde que iniciaram os trabalhos de integração produtiva, nesse segmento em 2010, a participação de empresas do Mercosul no mercado regional passou de 30 para 50%. Durante a presidência brasileira estendemos esse trabalho a novos setores, como o de fármacos, o de química, cosméticos, software, eletroeletrônicos e calçados. Precisamos encontrar novos caminhos para a inserção competitiva de nossas economias nas cadeias de valor, ampliando a presença do Mercosul no mundo, fortalecendo as indústrias, gerando empregos de qualidade e ampliando a qualidade de vida de nossa população. Contribuiu e contribui para isso o Fórum Empresarial do Mercosul que agora realizou sua 5ª reunião, dias atrás.",
+                "Amigas e amigos do Mercosul e países associados,",
+                "O Mercosul é, também, um fator, um grande fator de mitigação de assimetrias e de apoio a um desenvolvimento equilibrado entre os sócios. O Brasil sempre defendeu, que as economias menores devem se beneficiar plenamente da integração. Por isso, apoiamos fortemente, em 2004, a criação do Fundo de Convergência Estrutural do Mercosul. O Focem tem desempenhado papel fundamental no financiamento de projetos que ajudam a reduzir essas assimetrias. Nós decidimos, nesse período em que o Brasil assumiu a Presidência Pro Tempore, de comum acordo com todos os países, que nós vamos garantir a continuidade do Focem nos próximos anos.",
+                "Outra das prioridades do bloco foi o apoio aos agentes econômicos de menor porte. Criaremos o registro de agricultores familiares no Mercosul, que permitirá certificar os pequenos produtores agrícolas, valorizando seu importante trabalho, melhorando a sua renda e integrando mais a nossa região.",
+                "Ao mesmo tempo, devemos garantir meios para que nossas economias se insiram de maneira competitiva na chamada Era do Conhecimento. Devemos investir na qualificação dos trabalhadores e em programas de educação, ciência, tecnologia e inovação. No Brasil priorizamos a capacitação das novas gerações com os programas como o Ciência Sem Fronteiras e o nosso programa de qualificação profissional, o Pronatec. A cooperação acadêmica dentro do Mercosul também deve ser fortalecida. Logramos, nos últimos anos, progressos importantes na mobilidade de nossos estudantes. Temos um número cada vez maior de cursos com o selo Mercosul e de jovens estudando nos países vizinhos e recebendo jovens dos países vizinhos.",
+                "A integração regional deve apoiar-se, também, no reconhecimento do patrimônio cultural comum. Esse semestre conferimos o título de Patrimônio Cultural do Mercosul à Ponte Internacional Barão de Mauá, entre as cidades de Jaguarão e Rio Branco.",
+                "A construção dessa obra, nos anos 1920, foi precursora das atuais políticas de integração física regional.",
+                "No campo social, logramos avanços importantes: a nova Declaração Sócio-Laboral que aprovamos reafirma nosso compromisso com os direitos sociais. A declaração fortalece o emprego e o trabalho decente como base de um processo de integração regional. Fortalece, igualmente, a negociação coletiva, a organização sindical e condiciona a participação de empresas nos projetos financiados pelo bloco, à observância dos preceitos ali estabelecidos.",
+                "Com a consolidação da Reunião de autoridades dos povos indígenas e a criação da Reunião de autoridades sobre direitos das populações afrodescendentes do Mercosul, dispomos agora de espaços privilegiados para formular políticas comuns em benefício de nossos povos originários e na luta contra a discriminação racial e a intolerância.",
+                "Na área da saúde, celebramos acordos com a OPAS, para desenvolvimento de projetos sobre atenção primária à saúde e doenças transmissíveis. Essas realizações, em linha com o Plano Estratégico de Ação Social e o Estatuto da Cidadania, ambos aprovados em 2010, além da Declaração Sócio-Laboral renovada neste ano, fortalecem a comunidade cidadã regional. Uma comunidade que circula cada vez mais livremente entre os nossos países, e goza de direitos sociais, trabalhistas e previdenciários.",
+                "A celebração da 1ª Reunião de autoridades sobre privacidade, segurança da informação do Mercosul é outra iniciativa importante de ser citada. Levamos a cabo políticas comuns na área de segurança cibernética e privacidade. Nós não abrimos mão da segurança digital dos nossos cidadãos.",
+                "Meus caros colegas, presidentes; caros representantes dos países associados,",
+                "As medidas que acabo de mencionar, elas provam que nós compartilhamos, de fato, o mesmo projeto. Nós compartilhamos, de fato, uma mesma concepção, mas, sobretudo, nós temos consciência de que nós compartilhamos um mesmo destino. O parlamento do Mercosul é a expressão cabal desse sentimento. A participação cada vez mais ativa e protagonista do Parlasul contribui para que o processo de integração seja mais representativo, mais democrático.",
+                "Na Cúpula Social do Mercosul, nós fortalecemos mecanismos que permitem uma ampla participação dos movimentos sociais na nossa cooperação. Esse pluralismo, ele fortalece e dá, sobretudo, pleno sentido à nossa integração, às nossas democracias.",
+                "Somos uma região que sofreu muito com as ditaduras. Hoje somos uma região onde a democracia floresce e amadurece. No ano passado, tivemos eleições gerais no Uruguai e no Brasil. Este ano é a vez da Argentina e da Venezuela. A realização periódica e regular desses pleitos demonstra capacidade de lidar com diferenças políticas, por meio do diálogo, do respeito às instituições e da participação cidadã. Temos de persistir neste caminho, evitando atitudes que acirrem disputas e incitem a violência. Não há espaço para aventuras antidemocráticas na América do Sul, na nossa região.",
+                "Nosso compromisso com a democracia reflete-se, também, no posicionamento que assumimos nos fóruns multilaterais. Privilegiamos a solução pacífica de controvérsias. Promovemos e defendemos os Direitos Humanos, trabalhamos em prol do multilateralismo e defendemos a democratização das instituições de governança global, tanto políticas, quanto econômicas, para que recuperem sua representatividade, legitimidade e eficácia, dado o tempo histórico que passou desde as suas constituições.",
+                "A determinação de nossos governos de trabalhar pela integração nos permite ter hoje uma região marcada pela paz, pela democracia e pela cooperação. E todos nós queremos que ela assim permaneça.",
+                "Senhoras e senhores,",
+                "A Argentina estará realizando, em outubro deste ano, sua eleição presidencial. Um novo Chefe de Governo tomará posse antes da próxima reunião de todo o bloco, pelo menos antes da próxima Cúpula. Isso significa que este encontro de Brasília é uma das últimas reuniões à qual assistirá a querida presidenta Cristina Fernández de Kirchner na condição de dirigente máxima de seu país.",
+                "Nesses oito anos em que lhe coube presidir a nação Argentina, todos nós, aqui presente, fomos testemunhas de como a minha querida amiga e presidenta Cristina Kirchner, imprimiu condução firme e democrática a seu país. Ao mesmo tempo em que assistimos, também, a força com que assumiu a causa da integração sul-americana, com grande determinação e ardor e como defendeu os países da região. Do ponto de vista pessoal, do ponto de vista político, quero lhe dizer-lhe, Cristina, que você terá aqui no Brasil, uma amiga sempre pronta. Quero dizer-lhe, querida Cristina, que aqui no Brasil você terá uma amiga sempre pronta para recebê-la e para, juntas, compartilharmos, novamente, sistematicamente, nossos sonhos e nossas esperanças.",
+                "A todos vocês, espero recebê-los em 2016, para os Jogos Olímpicos que sediaremos no Rio de Janeiro. Termino desejando sorte ao amigo presidente Horácio Cartes, a quem, imbuída do espírito olímpico, passarei ao final dessa reunião, a tocha da presidência Pro Tempore do Mercosul.",
+                "Confio, querido amigo presidente Cartes, que o senhor saberá nos conduzir, dado a sua firme, a sua serena e o seu grande compromisso com a nossa integração.",
+                "Minha mensagem, senhor presidente Cartes, a todo povo paraguaio, de que podem contar com o Brasil, no próximo semestre e sempre, nessa importante tarefa de fortalecimento e de renovação do Mercosul.",
+                "Presidente Cartes, senhores presidentes, presidenta Cristina, presidente Itabaré Vasquez, presidente Evo Morales, presidente Maduro, que integram o Mercosul,",
+                "Quero dizer a vocês muito obrigada, mas sobretudo, também, aqui aos nossos queridos representantes dos países associados. Sejam todos muito bem-vindos. E também aos parlamentares do Mercosul, aqui representados, aos empresários, aos integrantes do movimento social, que ontem eu tive a honra de receber.",
+                "Muito obrigada a todos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2015-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Participação da Presidenta da República, Dilma Rousseff, durante Sessão Plenária da 48ª Cúpula do Mercosul",
+            "subtitulo": "Palácio Itamaraty, 17 de julho de 2015",
+            "data": "17/07/2015",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "12h29"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/participacao-da-presidenta-da-republica-dilma-rousseff-durante-sessao-plenaria-da-48a-cupula-do-mercosul",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Passarei agora para o terceiro item da agenda. Nesse terceiro item nós faremos um relatório da presidência Pro Tempore brasileira. E podem ter certeza, não fiquem preocupados, é um relatório que não é muito extenso e será feito pelo ministro das Relações Exteriores, Mauro Vieira. Com a palavra Mauro, por favor.",
+                "(Fala de Mauro Vieira).",
+                "Eu queria, agora, homenagear o presidente Evo Morales, que oficialmente entra agora no Mercosul. Queria pedir ao senhores uma salva de palmas para o presidente Evo Morales.",
+                "Dando sequência à nossa reunião eu queria, com muita honra, anunciar uma decisão do grupo Mercosul de declarar o ex-presidente brasileiro João Belchior Marques Goulart como cidadão ilustre do Mercosul. O nosso querido ex-presidente Jango viveu nessa região; participou, como presidente e depois como exilado, em atividades nos países vizinhos. Ele se junta a um rol seleto de ex-presidentes de países da região, como o presidente Néstor Kirchner, o presidente Hugo Chávez e próprio presidente Lula, que integram e que são cidadãos do Mercosul. Junta-se, também, a outros célebres cidadãos ilustres do Mercosul como Eduardo Galeano, que eu citei, e as avós da Praça de Maio.",
+                "Esta homenagem, ela ocorre em momento muito oportuno e se soma a outros dois eventos que são: a anulação, pelo Congresso Nacional do meu país, da sessão do Congresso Nacional que cassou o mandato do presidente João Goulart e o depôs, em 1964; e a devolução simbólica de seu mandato, também pelo Congresso Nacional. Esses dois eventos e a homenagem ao João Goulart são símbolos muito importantes, de um esforço de reconciliação entre a memória e a história. São um esforço de reconhecimento da trajetória consistente, corajosa e comprometida desse grande brasileiro. João Goulart é parte da comunidade de homens e mulheres que dedicaram sua vida à missão de promover o desenvolvimento e o fortalecimento da democracia. Por isso, nada mais oportuno que ele receba esta homenagem do Mercosul, que justamente tem como principais objetivos a promoção do desenvolvimento e da democracia e a melhoria de vida de seus cidadãos.",
+                "Passemos então agora ao item 5 da agenda, que é apresentação dos resultados da Cúpula Social do Mercosul. Eu gostaria que, nessa apresentação da Cúpula Social do Mercosul, a gente considerasse que a participação é feita, vai ser relatada pelo ministro Rossetto. Podia ter a palavra, então, ministro.",
+                "(Fala de Miguel Rossetto)",
+                "Senhores presidentes, senhora presidenta,",
+                "Sem dúvida, as nossas concepções valorizam muito as contribuições que emanam das cúpulas sociais e nós vamos sempre procurar incluí-las em nossas políticas púbicas, com objetivo último de construir o modelo de integração que melhore a vida das pessoas. Por isso, agradeço muito ao ministro Rossetto, e passo a palavra à senhora Tania Bernuy, do Centro de Defesa dos Direitos Humanos dos Migrantes.",
+                "[TANIA]",
+                "Agradeço à senhora Tania Bernuy, representante da sociedade civil. Concluído o relatório sobre a Cúpula Social, eu tenho a honra de oferecer a palavra…",
+                "à presidente e aos presidentes e ministros dos estados partes e estados associados do Mercosul aqui presentes, para o pronunciamento das intervenções, os trabalhos desse semestre e a perspectivas para as próximas presidências, o próximo período da Presidência Pro Tempore. Pela ordem, passo a palavra para o presidente da República do Paraguai, Horacio Cartes.",
+                "[Horacio Cartes]",
+                "Agradeço ao presidente Cartes e passo a palavra ao presidente Nicolás Maduro, da Venezuela.",
+                "[Nicolás Maduro]",
+                "Agradeço ao presidente Nicolás Maduro e passo a palavra à presidenta da República da Argentina, Cristina Fernández de Kirchner.",
+                "[Cristina Kirchner]",
+                "Agradeço à presidenta Cristina Kirchner, passo a palavra ao presidente ao Estado Plurinacional da Bolívia, Evo Morales.",
+                "[Evo Morales]",
+                "Agradeço ao presidente Evo Morales, e passo a palavra ao presidente da República da Cooperativa da Guiana, David Granger",
+                "[David Granger]",
+                "Agradeço ao presidente David Granger e passo a palavra ao vice-presidente do Equador, George Glass",
+                "[George Glass]",
+                "Agradeço ao vice-presidente, George Glass, e passo a palavra ao ministro do interior do Chile, Jorge Burgos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2015-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Palavras da Presidenta da República, Dilma Rousseff, durante encerramento da 48ª Cúpula do Mercosul",
+            "subtitulo": "Palácio Itamaraty, 17 de julho de 2015",
+            "data": "17/07/2015",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "12h27"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/palavras-da-presidenta-da-republica-dilma-rousseff-durante-encerramento-da-48a-cupula-do-mercosul",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Passamos agora à fase final da nossa reunião. Gostaria de convidar o presidente Horacio Cartes a sentar-se ao meu lado juntamente com a sua delegação.",
+                "Antes de passar a Presidência a meu amigo Cartes, gostaria de aproveitar a ocasião para manifestar meu agradecimento a todas as delegações pelo grau de comprometimento demonstrado nessa Presidência Pro Tempore e pelo fato de que foram todos eles, junto com os funcionários da Secretaria do Mercosul, e todos os órgãos do Mercosul que, com seu apoio técnico, conseguiram que nos realizássemos tudo aquilo que realizamos. Ao transmitir a Presidência Pro Tempore, desejo ao governo paraguaio, na pessoa do presidente Horacio Cartes, muito êxito na condução dos trabalhos do Mercosul no próximo semestre. Convido o presidente Cartes a pronunciar as palavras de encerramento desta Cúpula.",
+                "Antes disso, presidente, o senhor, agora, tem de assumir isso e bater aqui, assumindo a Presidência agora, e eu levanto junto.",
+                "[Horacio Cartes]",
+                "Declaro encerrada a 48ª Cúpula do Mercosul, os Estados Partes e os associados. E agora quem bate é ele. Agora nós vamos tirar a nossa foto."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2015-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Declaração à imprensa da Presidenta da República, Dilma Rousseff, por ocasião da reunião de trabalho com o Primeiro-Ministro da Itália, Matteo Renzi – Roma, 10 de julho de 2015",
+            "subtitulo": "NA",
+            "data": "10/07/2015",
+            "horario": "15h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h20"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/declaracao-a-imprensa-da-presidenta-da-republica-dilma-rousseff-apos-reuniao-de-trabalho-com-o-primeiro-ministro-da-italia-matteo-renzi-roma-10-de-julho-de-2015",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Eu queria agradecer a recepção fraterna do primeiro-ministro Renzi, dizer que estou muito feliz de estar aqui na Itália e cumprimentar, também, os ministros  e as delegações dos dois países. Cumprimentar os senhores jornalistas, os senhores fotógrafos e os senhores cinegrafistas.",
+                "Eu, de fato, tenho um imenso prazer de vir aqui na Itália. Um país com o qual o Brasil tem uma relação toda especial. Nós sabemos que, além da proximidade cultural; além do encantamento que nós temos pela cultura italiana, por tudo que a Itália representou ao longo da história da humanidade, a Itália, para nó,s é uma parte indissociável da nossa nacionalidade. A Itália faz parte do Brasil contribuindo para a sua cultura, para a política, para a sua ciência, para com seus empresários, enfim, com as pessoas e nós temos até uma palavra para designar os 30 milhões de descendentes de italianos que estão no Brasil, chama-se Oriundi. O que, para nós, significa “que vem da Itália”. Por isso, fico muito feliz de estar aqui, estou  aqui e me considero iluminada pelo sol desse país e também por toda a cultura, a ciência e as pessoas.",
+                "A nossa coincidência de visões, contribuiu, lá em 2007, para elevar a relação entre o Brasil e a Itália à categoria de parceria estratégica. Essa parceria estratégica, ela tem como base  algumas questões que eu o presidente, ah desculpa, eu e o primeiro-ministro, e o presidente também, porque eu estive com o presidente na hora do almoço, eu tive  a honra de ser recebida pelo presidente para almoçar e quero dizer que nós compartilhamos uma série de valores: compartilhamos a preocupação com a mudança do clima, o respeito aos direitos humanos, do qual a questão da pena de morte tem um papel central; compartilhamos uma visão sobre a necessidade de inclusão social e justiça no mundo; compartilhamos uma preocupação para garantir a prosperidade e o crescimento dos países.",
+                "E essa proximidade justifica que nós tenhamos assinado um plano de ação com 16 áreas-chave de cooperação. Eu  vou dizer pra vocês que são: investimento, comércio, indústria, defesa, energia, cultura e educação. A Itália, para nós, é  um parceiro essencial, 1.200 empresas italianas estão no Brasil, participando das mais variadas áreas, com destaque para essa grande inauguração que foi feita pela Fiat em Goiana, lá em Pernambuco, na produção do Jeep, que é um carro efetivamente de ponta, incorporando tecnologia da mais alta qualidade.",
+                "E acredito que esse exemplo, ele se reflete em outras áreas: você tem uma série de empresas que atuam no Brasil. Nós temos uma forte parceria na área da defesa, por exemplo, com o desenvolvimento de um produto feito por uma empresa, a Iveco, empresa italiana, que desenvolve um produto para o exército brasileiro guarani. Além disso, nós cooperamos nas mais variadas áreas: na área de energia; na área, também, de telefonia. Em todas as áreas estratégicas do Brasil é certo que há uma empresa italiana: petróleo e gás, energia elétrica, principalmente renováveis.",
+                "No aspecto de comércio, também, o Brasil e a Itália têm todo um caminho a percorrer e o que nós acertamos hoje foi que nossas relações se darão no mais alto nível entre os ministros e com isso nós queremos empoderar essa relação e garantir que ocorram alterações reais, modificações reais que levem esta relação a um patamar mais elevado.",
+                "Eu também discuti, tanto com o presidente quanto com o primeiro-ministro, as oportunidades de investimento que se abrem no Brasil, na área de ferrovias, por exemplo, várias empresas italianas podem participar dos leilões, assim como na área de rodovias, portos e aeroportos.",
+                "Eu, na verdade, convidei todos os empresários italianos a intensificarem ainda mais a sua presença no Brasil por meio da participação nessa nova fase do Programa. E a Itália é conhecida pela sua alta capacidade nessa área de infraestrutura e também em uma outra área que para nós é muito importante, que é a área das pequenas e médias empresas.",
+                "Sem sombra de dúvida, no mundo se tem um país que foi capaz de construir um tecido social complexo com as suas pequenas e médias empresas, esse país foi a Itália e o Brasil tem muito a aprender. Nós temos, primeiro-ministro, desenvolvido as nossas pequenas e micro empresas e, portanto, essa parceria com os senhores vai ser excepcional para o Brasil.",
+                "Além disso, eu quero falar agora da importância, para todos nós, da Expo Milão 2015. Eu vou visitá-la amanhã e eu acho o tema da exposição “Alimentar o planeta, energia para a vida”, é de todo interesse do Brasil. E mais, acho que talvez esse seja um evento que tenha a maior expressão nessa área de todos ocorridos até hoje, por isso felicito imensamente  ao governo do primeiro-ministro Renzi, por ter organizado com tanta competência e qualidade. Estou com uma imensa expectativa de ver o pavilhão brasileiro, o “Alimentando o mundo com soluções”, onde nós mostramos, não só desde a tecnologia de alimentos, até os nossos programas de Fome Zero, mas eu estou com grande, grande expectativa, até porque o primeiro-ministro Renzi me contou a história da sua filha pequena, que só vai na Expo se puder brincar na rede, lá no pavilhão brasileiro, então eu acredito que eu vou ter, de fato, uma grande experiência nessa área.",
+                "Por fim, eu queria dizer que externei ao primeiro-ministro Renzi a importância do que ocorreu na reunião dos Brics, com a constituição concreta do Novo Banco dos Brics, que nós já criamos o Conselho de Governadores, de diretores e a alta direção do banco. Assim como o Acordo Contingente de Reservas que foi também assinado entre os bancos centrais dos cincos países Brics. E disse para o primeiro-ministro da importância para nós todos tem esse  processo de incremento nos recursos para investimentos em infraestrutura e atividades produtivas.",
+                "Finalmente eu quero dizer que convidei - e tenho certeza que ele vai aceitar-, o primeiro-ministro Renzi a visitar o Brasil e assegurei a ele que nós receberemos de braços abertos e, além disso, acredito que será importantíssimo, porque será um evento empresarial, um evento educacional, devido à importância que a Itália tem tido no Programa Ciência Sem Fronteiras, e também na troca de pesquisadores com o Brasil, mas também por um fato que nós temos de prezar muito, que é a cooperação na área cultural. Então, acredito que vai ser um evento muito importante para o Brasil essa visita.",
+                "Queria então agradecer e esperar a visita do senhor primeiro-ministro ao Brasil e nós teremos aí uma agenda, que eu acredito de grande parceria, estreitamento de relações e grande amizade.",
+                "Grazie."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2015-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Discurso da presidenta da República, Dilma Rousseff, por ocasião da Sessão plenária dos chefes de Estado e de Governo dos Brics – Ufá, 9 de julho de 2015",
+            "subtitulo": "NA",
+            "data": "09/07/2015",
+            "horario": "17h59",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h19"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/discurso-da-presidenta-da-republica-dilma-rousseff-durante-sessao-plenaria-dos-chefes-de-estado-e-de-governo-dos-brics-ufa-russia-9-de-julho-de-2015",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Brics, ao articular países com inegável peso político, econômico e cultural, atua como força positiva na consolidação de uma ordem internacional multipolar, que deve ser mais justa, equilibrada e eficaz. Cientes de suas responsabilidade para favorecer o desenvolvimento sustentável e a estabilidade econômica internacional, os Brics deram em Fortaleza, no ano passado, o grande passo de criar o Novo Banco de Desenvolvimento e o Arranjo Contingente de Reservas.",
+                "Nessa Cúpula, muito bem organizada pela Rússia, e aí cumprimento o presidente Putin pela qualidade da cúpula, temos a satisfação de constatar que os Acordos Constitutivos foram ratificados e as novas instituições estão prontas para funcionar.",
+                "Congratulo-me com o presidente do Novo Banco de Desenvolvimento, o senhor Kamath, e seus quatro vice-presidentes, entre eles o do Brasil, Paulo Nogueira Batista, por suas nomeações. Podem contar com nosso firme suporte e apoio.",
+                "Estou certa de que a alta qualidade dessa equipe assegurará o pleno êxito do banco. Sob a orientação estratégica do Conselho de Governadores e a supervisão do Conselho de Diretores, o presidente Kamath e seus vice-presidentes terão importantes desafios pela frente, afinal, as necessidades de nossos países e de outras economias emergentes e países em desenvolvimento, na área da infraestrutura e do desenvolvimento em geral, são objetivos do banco e se apresentam como bastante desafiadores.",
+                "Os números compilados por organismos internacionais são gigantescos: o mais comumente citado, o da necessidade de investimentos em infraestrutura, montam a mais de US$ 1 trilhão por ano até 2020. O Novo Banco de Desenvolvimento precisará ser ágil e eficaz para alcançar o objetivo de realizar suas primeiras operações no início de 2016 e manter-se, a partir daí, como elemento crucial da arquitetura financeira internacional. É algo extremamente importante porque trata-se de uma realização concreta que é a primeira no âmbito regional e no âmbito intra-países que ganhou corpo e realidade.",
+                "Assinalo também a importância de avançar rapidamente na instalação do primeiro centro regional na África do Sul. Considero, finalmente, que é importante que o banco saiba conciliar as urgências do desenvolvimento com a sustentabilidade de seus projetos. Queremos um novo banco para um novo e melhor desenvolvimento. Ao mesmo tempo, o Arranjo Contingente de Reservas é um dos primeiros instrumentos desse tipo com alcance extraregional e representa, também, mais um passo na crescente integração entre as nossas economias e uma concreta contribuição à estabilidade do sistema financeiro global que nós sabemos e conhecemos os efeitos da sua volatilidade.",
+                "Constato, com satisfação, de que os trabalhos preparatórios, inclusive a assinatura, dois dias atrás, do acordo operacional entre os bancos centrais, permitirão ao arranjo estar plenamente operacional quando de sua entrada em vigor no próximo dia 30 de julho.",
+                "A estratégia para a parceria econômica do Brics que hoje lançamos constitui um mapa do caminho para ampliar entre nós o comércio, os investimentos e a cooperação em setores como energia, mineração, agricultura, finanças, infraestrutura, educação, ciência, tecnologia e inovação, turismo e mobilidade laboral. Essas iniciativas coincidem com uma conjuntura econômica internacional que não tem apresentado significativas melhoras e, portanto, não autoriza um grande otimismo. A recuperação dos países desenvolvidos ainda é lenta e frágil; o crescimento dos países em desenvolvimento também foi agora afetado. A persistência da crise passou a exigir de nossas políticas econômicas novas respostas visando a retomar o crescimento, proteger e aprofundar conquistas sociais.",
+                "Sabemos que chegamos ao fim do superciclo das commodities. Sabemos que ainda remanesce muita volatilidade no setor financeiro. Os países emergentes, especialmente os Brics, estou certa, continuarão a ser a força motriz do crescimento global. Seu peso deve se refletir nas instituições de governança internacional, o que reforma a necessidade da implementação da reforma do Fundo Monetário, decidida em 2010. Essa deve permanecer como sendo uma das prioridades no G20, que no próximo ano terá a presidência chinesa. Estou certa que muitos dos desafios serão enfrentados naquela oportunidade.",
+                "Sem dúvida, são muitos os desafios e muitas as ameaças no cenário internacional. Vários deles nos remetem a situações inquietantes: dizem respeito a guerras, a conflitos, enfim, a situações que não deveriam ter lugar no século 21. Sabemos que conflitos armados causam morte e sofrimento a um inaceitável número de seres humanos; que milhões de homens e mulheres, o maior contingente desde a segunda guerra mundial, estão na situação de refugiados e outros tantos buscam abrigo em outros países, fortalecendo as correntes migratórias. Testemunhamos sucessivas tragédias sofridas por esses migrantes em busca da sobrevivência.",
+                "Nós, no Brasil, estamos comprometidos com dar apoio e resguardo para milhões de seres humanos que buscam uma nova pátria. No Oriente Médio e no Norte da África, são motivos de especial preocupação os conflitos na Síria, no Iraque, no Iêmen e na Líbia. A não resolução da questão israelo-palestina, segue também sendo fonte de instabilidade. Sabemos que intervenções militares, bloqueios, não foram e não serão capazes de resolver os problemas de segurança nessas regiões e nas outras regiões conflagradas. Pelo contrário, tendem a incentivar  sectarismos de diferentes matizes, fragilizar as instituições estatais, alimentar a proliferação de armas nas mãos de atores não estatais. O Brasil condena veementemente as graves violações aos direitos da humanidade em curso nessas regiões, em especial a perseguição a minorias étnicas e religiosas, as execuções sumárias, a violência sexual, o recrutamento de crianças e a  destruição do patrimônio cultural. Reitero repúdio inequívoco do governo e do povo brasileiro ao terrorismo, seja de que forma se revista, onde quer que ocorra, quaisquer que sejam seus atores e motivações. Esse mal deve ser combatido no marco do direito  internacional, deve ser reprimido. Precisamos também atuar, simultaneamente, preventivamente em suas causas estruturais. Nesta cúpula reiteramos o compromisso do Brics com o multilateralismo abrangente, transparente e representativo, que reflita as mudanças nas realidades de poder.",
+                "O Brasil acredita que um Conselho de Segurança da ONU reformado e ampliado será mais legítimo e eficaz no exercício da importante função de preservar a paz internacional e a segurança coletiva.",
+                "Finalmente, o Brasil está aberto a dialogar no Brics sobre outros temas estratégicos do século 21: governança da internet, crimes cibernéticos, migrações e o problema mundial das drogas. Além disso, neste ano, terá lugar a COP21, a Conferência do Clima 21, em Paris. Nós defendemos um acordo equilibrado e ambicioso que contemple as fontes alternativas e as fontes renováveis de energia, mas que garanta também o princípio tirado na Conferência do Rio, Rio+20, que diz: é possível crescer, incluir, conservar e proteger.",
+                "Meus amigos,",
+                "Está em negociação na ONU uma nova agenda do desenvolvimento pós-2015, que dá início a um novo ciclo de cooperação internacional voltada para o desenvolvimento sustentável. As iniciativas lançadas pelo Brics - eu estou certa - terão papel decisivo e muito contribuirão de modo construtivo para esse novo momento das relações internacionais. Estou certa que o fortalecimento dos Brics equivale a fortalecer a economia internacional e a paz entre os povos.",
+                "Muito obrigada."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2015-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Discurso da Presidenta da República, Dilma Rousseff, por ocasião do Encontro de chefes de Estado e de Governo dos Brics com o Conselho Empresarial do grupo – Ufá, 9 de julho de 2015",
+            "subtitulo": "NA",
+            "data": "09/07/2015",
+            "horario": "15h06",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h19"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/discurso-da-presidenta-da-republica-dilma-rousseff-durante-o-encontro-de-chefes-de-estado-e-de-governo-dos-brics-com-o-conselho-empresarial-do-grupo-ufa-russia-9-de-julho-de-2015",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Excelentíssimo senhor Vladimir Putin, presidente da Federação da Rússia; excelentíssimo senhor Xi-Jinping, presidente da República Popular da China; excelentíssimo senhor Jacob Zuma, presidente da República da África do Sul; excelentíssimo senhor Narendra Modi, primeiro-ministro da República da India.",
+                "Senhoras e senhores ministros de Estado integrantes das delegações, senhoras e senhores representantes do Conselho Empresarial dos Brics.",
+                "Senhoras e senhores,",
+                "Gostaria de me congratular  com o presidente Putin pela realização dessa VII Cúpula dos Brics e também por esse encontro com o Conselho Empresarial. Neste momento de crise internacional, nós devemos reforçar, cada vez mais, o papel dos Brics tão importante para o desenvolvimento global. Para tanto, o comércio e os investimentos serão fundamentais; para tanto o Conselho Empresarial dos BRICS também vai cumprir um papel estratégico. Os Brics têm sido responsáveis por cerca de 40% do crescimento mundial e pela intensificação dos fluxos econômicos entre os países do mundo. Agora, a intensificação dos fluxos econômicos entre nós trará benefícios para as nossas economias diante do cenário internacional e também para o mundo.",
+                "Cientes de suas responsabilidades para favorecer o desenvolvimento sustentável e a estabilidade econômica internacional, os Brics, deram em Fortaleza, no Brasil, no ano passado, o grande passo de criar o Novo Banco de Desenvolvimento e o Arranjo Contingente de Reservas dos Brics.",
+                "Nesta cúpula temos a satisfação de constatar que os Acordos constitutivos foram ratificados e as novas instituições estão prontas para funcionar. O papel do Conselho Empresarial, nesse sentido, também é bastante relevante.",
+                "Até 2020, os países em desenvolvimento como um todo, precisarão de um volume de investimentos em infraestrutura que alguns calculam como sendo de US$ 1 trilhão por ano. Atingir essa cifra não será tarefa simples: o Investimento Externo Direto mundial caiu quase 50% nos últimos cinco anos.",
+                "É nesse cenário que o Novo Banco de Desenvolvimento dos Brics terá um papel importante na intermediação de recursos para projetos de infraestrutura e de desenvolvimento sustentável, inicialmente em nossos países e, posteriormente, em outros países em desenvolvimento. Nossos Bancos Nacionais de Desenvolvimento também estão articulados e assinam, aqui em Ufa, um acordo de cooperação para promover sua interação com o Novo Banco de Desenvolvimento.",
+                "Mas é um setor empresarial dinâmico que, com o apoio dos bancos de investimento – como o Novo Banco de Desenvolvimento dos Brics, o AIIB, os nossos bancos de desenvolvimento e as instituições multilaterais de crédito - que poderão criar uma dinâmica virtuosa no sentido de um relacionamento econômico entre nós e aproveitar da melhor maneira possível esses instrumentos.",
+                "Senhores presidentes das Seções Nacionais do Conselho Empresarial,",
+                "Esse Conselho é interlocutor ativo e complementa os esforços de nossos governos na área empresarial. Tive grande satisfação em receber seu Segundo Relatório Anual. Ele elenca prioridades  para nossa cooperação, como agilização dos vistos de negócios; implementação da facilitação do comércio; cooperação regulatória; infraestrutura e investimentos; e cooperação industrial. Apresenta, igualmente, lista de mais de 40 projetos de interesse dos países Brics, com ênfase nas áreas de indústria, energia, transporte, logística e tecnologias da comunicação e informação. Trata-se de um acervo importante de iniciativas que serão analisadas com toda a seriedade por nossos governos e que, eventualmente, contarão com o apoio do Novo Banco de Desenvolvimento.",
+                "Senhoras e Senhores,",
+                "No Brasil, estamos fortalecendo nossas políticas macro e microeconômicas, para retomar, o mais breve possível, o crescimento sustentável da economia. Para estimular os investimentos, buscamos diminuir o risco regulatório e aumentar a transparência e a governança das relações entre empresas e governos. Lançamos um plano ambicioso na área da infraestrutura, especificamente em logística, e estimulamos ampla presença de investidores dos países do Brics, em setores como ferrovias, rodovias, portos e aeroportos.",
+                "Caros presidentes do Conselho Empresarial,",
+                "Hoje adotaremos a “Estratégia para a Parceria Econômica do Brics”, que organiza a nossa cooperação econômica e contribuirá para um ambiente de negócios favorável aos fluxos econômicos recíprocos. Quero saudar, também, o lançamento do Portal de Negócios dos Brics, que ampliará o acesso às informações e às oportunidades sobre comércio e investimento entre nossos países.",
+                "Em Fortaleza, no passado, adotamos o Plano de Facilitação de Comércio e Investimentos, e agora, aqui na cúpula da Rússia, estamos trabalhando para a simplificação de procedimentos, maior previsibilidade e harmonização de padrões técnicos.",
+                "Na área da tecnologia, estamos promovendo iniciativas em recursos hídricos; tecnologia espacial, energias renováveis e eficiência energética. Também devemos aprofundar a cooperação em pesquisa e desenvolvimento; parques industriais; nanobiotecnologia; e sistemas nacionais de inovação, entre outras.",
+                "Estou inteiramente de acordo com o Conselho Empresarial sobre a importância da educação para o momento atual em nossos países. A educação garante dois ganhos econômicos e sociais básicos: a inclusão social permanente; e o salto qualitativo na nossa competitividade em direção à economia do conhecimento. Tendo adotado como lema para meu governo “Brasil, Pátria Educadora”, não poderia estar mais de acordo com a cooperação entre os Brics na área de educação.​",
+                "Senhoras e Senhores,",
+                "​O Brics não reúne apenas os governos dos países que o integram. A crescente participação das empresas nessa nova fase da economia mundial, com ênfase em infraestrutura, conhecimento e novas tecnologias, será fundamental para a garantia do desenvolvimento. Esses são objetivos que compartilhamos e pelos quais vamos trabalhar juntos.",
+                "Muito obrigada."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2015-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Entrevista exclusiva concedida pela Presidenta da República, Dilma Rousseff, ao canal de TV RussiaToday – Ufá, 10 de julho de 2015",
+            "subtitulo": "NA",
+            "data": "10/07/2015",
+            "horario": "20h32",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h43"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-entrevistas/dilma-vana-rousseff-2011-2016/entrevista-exclusiva-concedida-pela-presidenta-da-republica-dilma-rousseff-ao-canal-de-tv-russiatoday-ufa-10-de-julho-de-2015",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Jornalista: Olá, bem-vindos a nosso espaço de entrevistas! Estamos em Ufa, na Cúpula dos Brics, e hoje temos o imenso prazer de entrevistar a Presidenta do Brasil, Dilma Rousseff. Bem vinda a Ufa, Presidenta. É um prazer conhecê-la. Obrigada por receber este convite do canal RT. Como dissemos, a senhora está na cúpula dos Brics 2015, onde foram tomadas algumas decisões importantes, sobretudo com relação à colocação em funcionamento do banco, não?",
+                "Presidenta: Olha, eu acredito que esta reunião, a 7ª Cúpula dos Brics, que foi sediada pela Rússia, ela teve um resultado excepcional. Ela é um marco nas nossas relações. Nós conseguimos concretizar a formação do Banco dos Brics, nomear toda a sua estrutura de governança, inclusive já indicamos o presidente do Banco e os vice-presidentes.",
+                "Além disso, fizemos um Acordo Contingente de Reservas, que é um acordo que dá uma espécie de amortecedor para as crises financeiras, para o fato dos mercados oscilarem muito. E esse Acordo Contingente de Reservas foi assinado pelos nossos bancos centrais.",
+                "Então, eu acredito e olho, de uma forma, assim, como tendo sido um grande sucesso a Cúpula dos Brics, além de estar muito bem organizada, como eu estava te falando antes.",
+                "Jornalista: A senhora fazia referência, agora, justamente a tentar que os países membros dos Brics possam estar preparados diante de situações econômicas difíceis. Por isso falou-se também de novos membros – todos sabemos o que está acontecendo com a Grécia agora, sobre esse referendo e como a população grega respondeu a essa situação. Uma das razões pelas quais o Brics nasceu é justamente tentar esquivar-se do FMI e também do Banco Mundial, por considerar que não contribuem muito. O que se sabe da Grécia? Vocês consideram a possibilidade de integrar a Grécia ao Brics?",
+                "Presidenta: Olha, eu espero que a União Europeia resolva o problema da Grécia, e acredito que esse processo de negociação está em aberto. No que se refere aos Brics, tanto o Banco quanto o Acordo Contingente de Reservas, nós não funcionamos contra nenhum órgão internacional multilateral. Mas o que nós fazemos é dar suporte para as nossas economias enfrentarem conjunturas adversas, como alta volatilidade financeira, no caso do Acordo Contingente de Reservas.",
+                "Mas, no caso do Banco dos Brics, há uma carência imensa de fundos para investimento de longo prazo. O Banco vai ocupar este lugar e, com isso, ele vai aumentar os recursos disponíveis para investimento, num primeiro momento para os membros do Brics, e num segundo momento para os países que vierem, porventura, a demandar.",
+                "Então, eu acredito que, tirando essa questão que nós estávamos falando, que é a questão da Grécia, eu acho que a Grécia, primeiro, tem de resolver o problema dela dentro da União Europeia.Não cabe agora essa discussão.",
+                "Jornalista: Também falou-se, em algum momento, que Argentina, México, Coreia do Sul e até mesmo a Venezuela estariam muito interessados em participar deste banco. Vocês chegaram a falar, não de torná-los membros, mas de que talvez o banco foi uma grande ideia e que animou muita gente? Vemos muita esperança?",
+                "Presidenta: Os integrantes do Banco dos Brics, os cinco países - China, Índia, Rússia, África do Sul e Brasil - são todos a favor de ampliar a participação de outros países no Banco dos Brics. Agora, essa questão não foi discutida, e ela só pode ser discutida pelas regras do Banco e de forma consensual. Mas não foi discutido, acredito que no futuro será.",
+                "Jornalista: Dentro desse banco, cada país tem seus próprios projetos também. Por exemplo, se está falando dessa ferrovia que iria do Brasil ao Chile. É o seu projeto principal?",
+                "Presidenta: Esse projeto, que é a Ferrovia Bioceânica, que liga o Atlântico ao Pacífico, na verdade, o que se está concebendo é que ela saia do Brasil e vá pelo Peru para o Pacífico. Está em estudo, ainda. Esse seria um dos grandes projetos que nós pretendemos que seja viabilizado, pode ser com esse financiamento ou com outros financiamentos. Mas projetos que serão viabilizados terão mais ou menos esse perfil: serão grandes projetos estruturantes onde os países e as regiões se encontrarão. No caso da Ferrovia Bioceânica, ela beneficia tanto a China quanto o Brasil e, obviamente, o Peru.",
+                "Jornalista: Dentro desses países membros dos Brics está a Rússia. Sabemos que a Rússia está recebendo sanções por conflitos como o da Ucrânia. O Brasil tem recebido algum tipo de pressão por essa relação de amizade com a Rússia?",
+                "Presidenta: Não, nunca recebemos nenhuma pressão. E nós, no Brasil, somos contra qualquer política baseada em sanção. Nós temos uma experiência muito negativa na América Latina, que foi a sanção com Cuba, em que agora se restabeleceram as relações.",
+                "Nós não acreditamos que a sanção seja uma solução, em qualquer hipótese. Pelo contrário, a sanção geralmente, ao invés de punir só os governos, pune a população, e isso é inconcebível. Nós, portanto, temos um claro posicionamento em todos os fóruns internacionais contra esse tipo de sanção.",
+                "Jornalista: Vocês falaram desse assunto durante o Brics?",
+                "Presidenta: Sim.",
+                "Jornalista: A Rússia sabe que está respaldada por vocês?",
+                "Presidenta: Sim. Contra a sanção. Nós não só falamos no Brics como falamos na ONU. Nós não somos a favor das sanções. Não só não somos a favor,como não praticamos. Para citar nosso caso mais próximo: Cuba estava sob sanção há mais de 50 anos, não sei quantos anos, mas por aí. Nós nunca respeitamos esse tipo de sanção. Nós investimos em Cuba, e financiamos o grande Porto de Mariel, em Cuba, um porto de águas profundas. Quero te dizer que não é que somos contra a sanção só verbalmente. Nós tomamos atitudes que mostram que temos consequência no que achamos.",
+                "Jornalista: Uma pergunta sobre algo que vocês têm em comum com a Rússia: economias que não estão passando por seu melhor momento, por isso essas críticas aos Brics de que talvez quando o grupo foi fundado a situação era muito diferente. Causa preocupação a vocês que a situação atual em seu país possa talvez prejudicar os aportes que tenham que fazer ao Brics?",
+                "Presidenta: Não, porque a situação do Brasil e, acredito, a da Rússia também, e mesmo a da China, são situações passageiras. Nós agora estamos experimentando os efeitos da crise internacional. Nós conseguimos passar o pior momento. Nós estamos, há seis anos, impedindo que a crise afete o desemprego e afete a renda do povo brasileiro. Mas tem um limite para essa situação. Mas a economia brasileira, ela tem fundamentos sólidos, nós nos recuperaremos rápido. Então, eu acredito que os nossos aportes aos Brics não são afetados por isso.",
+                "Jornalista: Os aportes estão contemplados, certo?",
+                "Presidenta: Estão, sem problema.",
+                "Jornalista: No ano que vem celebrarão as Olimpíadas; a Copa do Mundo já passou. Há [obras de] infraestrutura que possam ser afetadas por essa crise ou não?",
+                "Presidenta: Não, porque, inclusive, todas estão completamente em dia. Não há a menor hipótese de serem afetadas por isso.",
+                "Jornalista: O povo brasileiro tem saído às ruas. Sabemos da situação econômica no Brasil. Temos que destacar alguns dados: desemprego de 6%, inflação de 5%, déficit de 10,5 bilhões de dólares. Qual é a mensagem da presidenta para os brasileiros?",
+                "Presidenta: Olha, o Brasil tem uma das menores dívidas, se comparar com qualquer país. Qualquer país da Europa tem uma dívida, em relação ao PIB, maior que a do Brasil. O Brasil tem dívida na faixa dos 60%. As dívidas dos países europeus, em relação ao Produto Interno Bruto, estão na faixa dos 100%. O Brasil tem uma taxa de inflação que, pelos padrões europeus, é alta, mas ela é alta momentaneamente. Tomamos agora uma medida de proteção ao emprego parecida com aquela tomada pela Alemanha, durante o período de crise, que nós acreditamos que vai ser bastante eficaz, no sentido de segurar o desemprego no Brasil.Então, eu te diria o seguinte: nós queremos sair rápido da crise, e vamos conseguir.",
+                "Jornalista: Uma última pergunta, presidenta. Seus índices de popularidade têm caído bastante. As últimas eleições também não foram fáceis de ganhar. Dilma Rousseff terminará esta legislatura?",
+                "Presidenta: Dilma Rousseff vai acabar essa legislatura. Em qualquer país do mundo você tem quedas de popularidade. A minha decorre de uma situação econômica bastante adversa. Eu tenho certeza que isso vai melhorar. E o que importa é, sem sombra de dúvida, que nós estamos trabalhando duro para tirar o Brasil dessa situação de crise. E isso é o que nós vamos ter como nosso foco principal.",
+                "Jornalista: E com relação a esses golpes “golpes brancos” que... Em muitos países latino-americanos os presidentes dizem que estão orquestrados pela direita, com o apoio dos Estados Unidos. A senhora acha que no Brasil acontece isso?",
+                "Presidenta: Não, não acho. Acho essa uma teoria conspiratória. Não é preciso nenhum país para que alguns segmentos de alguns países sejam golpistas.Eles são golpistas por si mesmos Não tem nenhum país no mundo interferindo na situação interna do Brasil, hoje.",
+                "Jornalista:Dilma Rousseff é, sobretudo, uma presidenta ídolo, super-heroína, poderíamos dizer assim, com todo o seu passado. A senhora pôde ser presidenta e colocar o Brasil como sétima economia do mundo. O que lhe falta fazer?",
+                "Presidenta: Muito. Nunca, num país, você consegue cumprir tudo o que você tem de fazer. Todo dia você tem de lutar para fazer mais. E nós, agora, que estamos nesse momento adverso, temos de trabalhar ainda mais para conseguir que o país saia mais rápido e que nós tenhamos condições de garantir tudo o que o que queremos alcançar. Tiramos 50 milhões de brasileiros da pobreza e os elevamos para a classe média, conseguimos. Somos a 7ª economia do mundo. Nós temos, hoje, US$ 378 bilhões de reservas. Nós somos um país sólido, do ponto de vista macroeconômico. Nós não temos bolha, o nosso sistema bancário é absolutamente robusto. Não há razão para que o Brasil não volte a crescer.",
+                "Jornalista: Obrigada. É um prazer conhecê-la, e muito sucesso no seu país e também aqui no Brics.",
+                "Presidenta: Muito obrigada."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2015-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "mauro-vieira-2015-2016"
+            ],
+            "titulo": "Mauro Vieira: O BRICS se empenha na promoção da reforma do FMI e do Banco Mundial (Entrevista do Ministro Mauro Vieira à Sputnik News)",
+            "subtitulo": "NA",
+            "data": "08/07/2015",
+            "horario": "21h42",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "15h26"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/mauro-vieira-2015-2016/mauro-vieira-o-brics-se-empenha-na-promocao-da-reforma-do-fmi-e-do-banco-mundial-entrevista-do-ministro-mauro-vieira-a-sputnik-news-08-07-2015",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O ministro das Relações Exteriores, Mauro Vieira, está em Ufá, na Rússia, acompanhando a Presidenta Dilma Rousseff na 7.ª Reunião de Cúpula do BRICS. Em entrevista exclusiva à Sputnik Brasil, ele falou sobre as relações Brasil-Rússia e o que espera do encontro de Ufá.A seguir, a entrevista com o Ministro Mauro Vieira.",
+                "Sputnik: Em junho, a Presidenta Dilma Rousseff foi aos Estados Unidos; agora, está na Rússia, para a Cúpula do BRICS. Quais são as prioridades da política exterior brasileira?",
+                "Mauro Vieira: A política externa é um instrumento para a promoção do desenvolvimento do Brasil. No plano regional, buscamos promover a paz e a cooperação. Temos avançado muito nesse campo e contamos hoje com importantes foros de diálogo. Hoje os países de nossa região convergem na defesa da democracia, no combate às desigualdades e na busca de maior integração física e de infraestrutura. Construímos também um importante espaço de integração econômico-comercial.",
+                "O fato de promovermos a paz em nossa região reforça as credenciais de nossa atuação global. O Brasil defende uma ordem internacional menos assimétrica, em que os países em desenvolvimento tenham maior participação nos processos decisórios. Essa meta é compartilhada pelos parceiros do BRICS, com os quais temos trabalhado para promover uma reforma efetiva das estruturas de governança global. Sustentamos também ser imperativa uma revalorização da diplomacia como meio de solução de conflitos. O recurso frequente à força e a sanções tem contribuído muitas vezes para agravar conflitos e fragilizar o multilateralismo.",
+                "Desejamos que o tema do desenvolvimento – em seus pilares econômico, social e ambiental – ocupe posição central na agenda internacional. A erradicação da pobreza em escala global ainda é o grande desafio que temos de enfrentar, e para isso devemos buscar um comércio mais justo e equilibrado e um financiamento adequado para as necessidades dos países em desenvolvimento. Não é aceitável que milhões de pessoas ainda sofram com a exclusão e a falta de oportunidades. Não é por acaso que o Brasil prioriza a educação e a ciência, tecnologia e inovação: queremos preparar as novas gerações para o futuro, e a diversificação de nossas parcerias com países desenvolvidos e em desenvolvimento é um importante instrumento para atingirmos essa meta.",
+                "S: Desde o Governo do Presidente Lula o Brasil postula seu ingresso como membro permanente do Conselho de Segurança da ONU. Este pleito permanece no Governo Dilma Rousseff?",
+                "MV: A defesa de uma reforma efetiva do CSNU é um traço constante da política externa do Brasil e não está associado a um governo específico. O Brasil almeja uma reforma que contemple a criação de novos assentos permanentes e não permanentes e um aprimoramento nos métodos de trabalho do órgão, entre outros aspectos de seu funcionamento.",
+                "No momento em que celebramos o aniversário de 70 anos das Nações Unidas, a reforma do Conselho se apresenta como uma necessidade ineludível para adequar a composição do órgão à realidade contemporânea e para preservar a credibilidade e a capacidade de funcionamento da Organização no campo da paz e da segurança internacional.",
+                "Cabe lembrar que, quando de sua criação, a ONU contava com 51 Estados-membros. Hoje 193 países a integram. A despeito disso, o CSNU ainda reflete o cenário geopolítico e econômico de 1945, e regiões inteiras, como a América Latina e a África, não contam com nenhum assento permanente.",
+                "O Brasil é um candidato natural a ocupar um dos novos assentos permanentes num Conselho reformado. Somos, ao lado do Japão, o país que foi eleito mais vezes (10) para um assento não permanente. Continuamos, com os nossos parceiros do G-4 (Alemanha, Índia e Japão), plenamente engajados nas negociações intergovernamentais em curso no âmbito da Assembleia-Geral.",
+                "S: Ainda sobre o Conselho de Segurança: Há mais de 20 anos está na pauta da Assembleia-Geral das Nações Unidas o tema da reforma do CSNU, incluindo o número de seus membros. O que o Sr. Ministro pensa da necessidade de reforma da ONU e particularmente do aumento do número de membros do Conselho? Seu colega russo Serguei Lavrov pensa que este número deve ser em torno de 20 membros.",
+                "MV: Como já assinalei, é cada vez mais clara a necessidade de se proceder a uma reforma do CSNU, inclusive no tocante à ampliação de sua composição. Creio que não se deve avaliar a eficiência de um CSNU reformado com base exclusivamente no número de membros que venham a integrá-lo; afinal, o órgão sofre hoje de inegável paralisia e imobilismo e se demonstra incapaz de dar encaminhamento aos principais problemas da agenda internacional de paz e segurança, apesar de sua composição restrita. Esta combinação de falta de representatividade, transparência e eficácia corrói a própria legitimidade do CSNU, com danos sensíveis ao multilateralismo.",
+                "Penso que o CSNU teria muito a ganhar, em especial, com a entrada de novos membros permanentes com real capacidade de contribuir positivamente para a busca de consensos no âmbito do Conselho de Segurança. O Brasil, que mantém diálogo denso e maduro com todos os P-5 e com outros países importantes para a agenda de paz e segurança internacional, estaria plenamente capacitado a contribuir para esses esforços. Temos experiência comprovada em temas relativos à paz e à segurança internacionais, haja vista nossa atuação como membro não permanente em 10 mandatos e nosso importante papel em operações de manutenção da paz.",
+                "S: Há mais de um ano a Rússia é obrigada a enfrentar uma guerra de informações imprecisas sobre seu país. Lamentavelmente, a grande mídia brasileira tem participação nesse processo. O importante Fórum Interparlamentar do BRICS, por exemplo, foi inteiramente ignorado pela mídia do Brasil. O que o Ministério das Relações Exteriores do Governo brasileiro poderia fazer para levar ao público opiniões alternativas e esclarecedoras?",
+                "MV: A margem de atuação do MRE para pautar e direcionar o conteúdo dos veículos de imprensa brasileiros é limitada por ser a imprensa brasileira majoritariamente privada e, portanto, autônoma na determinação de seus conteúdos. No entanto, o Governo brasileiro tem sido bastante ativo e claro em suas manifestações públicas em defesa do diálogo e da diplomacia e contra o recurso frequente a sanções, especialmente aquelas que fogem do quadro multilateral. Essas manifestações oficiais e as manifestações do BRICS têm repercussões públicas e costumam ser divulgadas pela imprensa pública e privada no Brasil.",
+                "S: Já há mais de um ano a Rússia é objeto de sanções. Qual a posição do Brasil a esse respeito?",
+                "MV: O Brasil não reconhece, por princípio, sanções adotadas fora do marco da Organização das Nações Unidas. Esse é um corolário de nossa tradicional defesa do multilateralismo e de respeito ao Direito Internacional. Consideramos que as sanções unilaterais são instrumentos de legitimidade e eficácia discutíveis, por isso, não as reconhecemos, nem as apoiamos. Esse princípio aplica-se às sanções e contrassanções impostas unilateralmente por qualquer dos lados. As sanções não contribuem para a construção de confiança entre as partes para uma solução política e pacífica e impedem a retomada do crescimento econômico na região. Devemos sempre que possível privilegiar o diálogo político e a diplomacia como principais instrumentos para a superação de diferenças, pois é a maneira mais eficaz e menos custosa de solução dos conflitos.",
+                "S: O comércio bilateral Brasil-Rússia está em torno de US$ 7,5 a 8 bilhões. Que medidas o Brasil pretende tomar para que se atinja a meta dos US$ 10 bilhões ao ano?",
+                "MV: O Brasil atua em diversas frentes para ampliar o comércio bilateral com a Rússia e atingir a meta de US$ 10 bilhões ao ano, estabelecida pelos Governos dos dois países. Na área de Promoção Comercial, o Itamaraty atua, tradicionalmente, na organização de missões empresariais, na participação em feiras, na prospecção de mercados, na realização de estudos e no apoio a empresários brasileiros e russos que tencionam contribuir para o incremento do intercâmbio entre Brasil e Rússia.",
+                "Neste ano, apoiamos a participação brasileira nas principais feiras realizadas na Rússia, como a Prodexpo e a World Food. Participamos, também, da mostra MITT, importante feira do setor de turismo. Estamos elaborando um estudo sobre as condições de acesso a mercados de produtos brasileiros à Rússia, de modo a identificar eventuais óbices para o melhor fluxo comercial entre os dois países. Devem ser organizadas também missões empresariais no âmbito de visitas de autoridades brasileiras à Rússia ainda este ano.",
+                "Esperamos, ademais, que evoluam as discussões ora em curso entre o Mercosul e a União Eurasiática, o que poderia nos levar a um futuro acordo que amplie os fluxos comerciais entre os dois blocos.",
+                "S: Em que áreas os projetos entre Brasil e Rússia mais têm chance de prosperar?",
+                "MV: Brasil e Rússia mantêm, desde 2002, parceria estratégica de densidade crescente, como atestam as frequentes visitas recíprocas de alto nível. No campo político, a Comissão de Alto Nível Brasil-Rússia (CAN) e a Comissão Intergovernamental de Cooperação (CIC), que se realizarão em Moscou no próximo mês de setembro, estruturam o relacionamento bilateral. Debatemos, nessas instâncias, a elaboração e a implementação de projetos bilaterais em diferentes áreas, como comércio, investimentos, defesa, energia, cooperação espacial, educacional, cultural e esportiva.",
+                "O comércio bilateral cresceu 88,1% entre 2005 e 2014. Nosso desafio é continuar trabalhando para diversificar e ampliar nossa pauta comercial. Acreditamos que empresas russas possam participar ativamente do novo Programa de Investimentos em Logística, principalmente nos setores de portos e ferrovias, em que a Rússia é bastante competitiva. Nosso diálogo em defesa já resultou na aquisição brasileira de helicópteros MI-35, bem como nas negociações em curso para a compra de unidades do sistema de defesa antiaérea russo Pantsir S1, com transferência de tecnologia ao lado brasileiro.",
+                "A cooperação na área energética é muito promissora. Tanto a Gazprom quanto a Rosneft, que atua na exploração de hidrocarbonetos na Bacia do Rio Solimões, já operam no Brasil. Destaco a recente abertura de escritório da Rosatom no Brasil, o que abre perspectivas interessantes de maior cooperação bilateral em usos pacíficos de energia nuclear. Na área educacional, assinou-se, em 2013, acordo para a participação da Rússia no Programa Ciência sem Fronteiras. Destaco, na cooperação cultural, a bem-sucedida experiência de instalação, em Joinville, da única filial da Escola do Balé Bolshoi fora da Rússia, que completou 15 anos em março último.",
+                "Há uma interessante coincidência de megaeventos esportivos no Brasil e na Rússia, o que nos tem propiciado avançar no diálogo relativo à organização e ao legado das Copas do Mundo FIFA 2014 e 2018, assim como dos Jogos Olímpicos de Sochi e do Rio de Janeiro. Existem, portanto, múltiplas oportunidades de progresso em variados setores.",
+                "S: O Novo Banco de Desenvolvimento e o Acordo Contingente de Reservas do BRICS já foram aprovados pelo Congresso Nacional. O que se pode esperar do bloco BRICS a partir da Reunião de Cúpula de julho, em Ufá, na Rússia?",
+                "MV: Uma vez concluído o processo de ratificação do acordo de criação do Novo Banco de Desenvolvimento (NBD), caberá agora finalizar os trabalhos para sua operacionalização. Estamos empenhados para que as operações de empréstimo do NBD comecem a ser realizadas no início de 2016. O NBD, como se recorda, financiará projetos de infraestrutura e desenvolvimento sustentável, nos BRICS e em outras economias emergentes e países em desenvolvimento, e será aberto, oportunamente, para adesão a todos os membros das Nações Unidas. Nessa fase inicial, espera-se que o NBD busque, em princípio, delinear sua forma de atuação, desenvolver expertise técnica e consolidar sua classificação de risco de crédito, bem como capitalizar-se adequadamente para assumir projetos de maior vulto.",
+                "O Arranjo Contingente de Reservas já foi ratificado por todos os países e entra em vigor em 30 de julho, quando já estará plenamente operacional.",
+                "Além da implementação desses dois mecanismos, o BRICS dará continuidade à sua coordenação em foros multilaterais, tais como no G20, e a seu diálogo sobre as principais questões da agenda econômica e política internacional.",
+                "O BRICS segue empenhado na promoção da reforma de instituições de governança internacional, como o FMI e o Banco Mundial, de forma a torná-las mais representativas e eficazes. A vertente de cooperação intra-BRICS também segue se aprofundando, como é exemplificado pelo documento \"Estratégia para uma Parceria Econômica do BRICS\", a ser adotado na Cúpula de Ufá. Trata-se de um roteiro ou \"mapa do caminho\" que compila atividades prioritárias em áreas diversas afeitas às relações econômicas intra-BRICS, com vistas a contribuir para elevar nossa cooperação a um novo patamar."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2015-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

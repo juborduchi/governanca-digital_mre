@@ -1,0 +1,275 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Discurso da Presidenta da República, Dilma Rousseff, por ocasião da sessão inaugural da LV Reunião Anual do Banco Interamericano de Desenvolvimento – Costa do Sauípe, 29 de março de 2014",
+            "subtitulo": "NA",
+            "data": "29/03/2014",
+            "horario": "22h52",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/discurso-da-presidenta-da-republica-dilma-rousseff-na-sessao-inaugural-da-lv-reuniao-anual-do-banco-interamericano-de-desenvolvimento-costa-do-sauipe-29-de-marco-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Discurso do Presidente Fernando Henrique Cardoso  em sessão solene do Congresso Nacional da República do Chile",
+            "subtitulo": "VALPARAÍSO, CHILE, 19 DE MARÇO DE 2002",
+            "data": "19/03/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h19"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/discurso-do-presidente-fernando-henrique-cardoso-em-sessao-solene-do-congresso-nacional-da-republica-do-chile",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Agradeço, sensibilizado, a oportunidade de me dirigir aos Representantes do querido povo chileno. Se há um Parlamento que me agrada visitar é exatamente o Congresso Nacional do Chile. A primeira razão é afetiva. Considero o Chile minha segunda pátria, onde vivi alguns anos. Não foram muitos, mas o necessário para me tornar eternamente cativo desta terra e de sua gente, que as Senhoras e os Senhores representam com tanto brilho e galhardia. Também associo esta Casa ao exemplar espírito de cidadania do povo chileno, que fez emergir desde cedo neste país uma sociedade ativa e organizada. Não é de hoje que os brasileiros admiram a determinação dos chilenos em assumirem as rédeas de sua própria história. Há mais de um século, o estadista e diplomata brasileiro Joaquim Nabuco se deteve a analisar a polémica passagem de José Manuel Balmaceda pela Presidência do Chile. Nabuco reuniu seus comentários em livro cuja edição em espanhol tive a satisfação de prefaciar.",
+                "Por traumático que tenha sido o período Balmaceda, afirmava Nabuco, ele deveria servir de exemplo à jovem e ainda vacilante República brasileira. A lição maior era a de que, no Chile, a sociedade havia amadurecido o suficiente para colocar limites à ação do Estado, assegurando legitimidade às instituições representativas. E assim buscou proceder a República brasileira, facultando espaço cada vez maior à participação popular. Sabemos que a evolução política do continente ao longo do século XX não foi isenta de sobressaltos. Houve hiatos autoritários, de triste memória, que muito nos custaram. Mas o importante é que nossos países souberam retomar a via democrática e o fizeram com convicção. Muito me alegra vir a Santiago, Valparaíso e Arica - onde estarei amanhã - e encontrar o Chile olhando para frente, com confiança no futuro. Muito me honra ser recebido nesta Casa como líder de um país irmão que partilha com o Chile o compromisso de fazer a democracia prosperar no continente.",
+                "O respeito às liberdades públicas tornou-se requisito para participação no Mercosul. Orientação semelhante foi aprovada na reunião dos Presidentes da América do Sul em Brasília e depois estendida ao hemisfério na Cúpula de Québec. Da Terra do Fogo ao Alasca, o desvio democrático é agora penalizado com o ostracismo. Isso significa o reconhecimento generalizado da importância dos direitos humanos, inclusive como princípio de política externa. Registro com satisfação o apoio, na América do Sul, à criação do Tribunal Penal Internacional, instrumento dos mais valiosos para prevenir crimes contra a humanidade e violações sistemáticas dos direitos humanos, onde quer que sejam cometidas.",
+                "Se a democracia, como valor universal, justifica-se em si mesma, ela também guarda uma afinidade estreita com a causa do desenvolvimento. A começar pela questão da legitimidade.",
+                "Os regimes democráticos, como sabemos, têm método próprio para a definição de políticas públicas, inclusive daquelas afetas à gestão da economia. As decisões resultam de uma acomodação negociada de posições, segundo regras transparentes, negociadas no espaço público. Daí a credibilidade de que se revestem na democracia as normas balizadoras da atuação do mercado.",
+                "As políticas económicas deixam de refletir a omnisciência de tecnocratas e passam a representar a depuração de interesses legítimos, um verdadeiro concerto de vontades, entre as quais a do próprio Governo, mas também a dos empresários e trabalhadores. Permitam-me afirmar que a acolhida dispensada pela população brasileira ao Plano Real se deve exatamente à sua legitimidade como processo, elaborado como foi mediante o diálogo e a persuasão. Quero saudar a parceria já consolidada entre o Chile e o Brasil no projeto de integração regional.",
+                "Apesar das dificuldades por que tem passado a Argentina, o Mercosul mantém sua vocação de plataforma para uma inserção competitiva e coordenada das economias da região no mercado internacional. Foi por conta da coesão do bloco que outras iniciativas de grande interesse para a América do Sul puderam prosperar, como, por exemplo, o objetivo de integração continental em transporte, energia e comunicação.",
+                "Vejo com otimismo as perspectivas que se abrem para o reforço da integração viária, com a conclusão, que espero próxima, do Corredor Norte, de imenso interesse para o redimensionamento do comércio regional. Quanto mais integrados estivermos, maior a credibilidade de nosso pleito para que a concertação hemisférica opere em bases simétricas, beneficiando a todos. Na verdade, o Brasil não vê outra razão para fazer avançar a Alça que não seja a possibilidade de ganhos equânimes, o que implica a garantia de maior acesso ao mercado norte-americano.",
+                "É a mesma expectativa de uma maior simetria nas trocas que pautará a atuação do Brasil na próxima rodada de negociação da Organização Mundial do Comércio. Doha foi um avanço. Queremos agora conquistas efetivas, sobretudo no campo agrícola. Tenho insistido ao longo dos últimos anos na necessidade de atualização da arquitetura do sistema financeiro internacional, uma atualização que reduza os constrangimentos a uma presença mais assertiva dos países emergentes na economia mundial. Mal havia iniciado meu primeiro mandato, aproveitei visita a Santiago, especificamente à sede da Cepal, para reclamar a adoção de medidas que pusessem fim à volatilidade dos fluxos financeiros. Sabemos o quanto o problema se agravou nos anos que se seguiram, com o capital especulativo migrando de maneira irracional e provocando crises no México, no Sudeste Asiático, na Rússia, no Brasil e, mais recentemente, na Argentina.",
+                "A questão continua em aberto, sem que se tenha avançado um passo sequer rumo à maior previsibilidade dos movimentos de capital. O Brasil espera que o tema receba a atenção devida na Conferência das Nações Unidas sobre Financiamento para o Desenvolvimento, que se realiza esta semana ern Monterrey. Propostas para atenuar o déficit de governança não faltam. O que sempre faltou e continua a faltar é sensibilidade política por parte dos Estados com maior influência sobre as instituições multilaterais de crédito. Como sugeri na reunião do Banco Interamericano de Desenvolvimento em Fortaleza, por que não aumentar os direitos especiais de saque para que o Fundo Monetário Internacional possa melhor atender a situações de crise? Por que o Fundo insiste em lançar mão de métodos questionáveis para contabilizar dívidas, reduzindo nossa capacidade de captação de novos investimentos e empréstimos? São questões práticas que merecem respostas efetivas.",
+                "É pela satisfação de expectativas como essas que o processo de globalização pode vir a assumir o perfil mais humano e solidário que tanto reivindicamos. Não se trata de colocar em cheque a lógica do mercado, mas de criar regras equilibradas, para que os Estados possam explorar a contento suas respectivas vantagens comparativas. Para não falar do imperativo de assegurar um espaço, no plano doméstico, para a condução de políticas que respondam ao anseio de nossas sociedades por bem-estar, emprego e desenvolvimento social. Isso sem prejuízo da responsabilidade fiscal e da coerência macroeconômica.",
+                "Partilho com o Presidente Ricardo Lagos e as demais lideranças da Rede para a Governança Progressista a convicção de que equilíbrio fiscal e avanço social não são objetivos contraditórios. Podem ser perseguidos ao mesmo tempo. Para tanto é imperioso que se corrijam as assimetrias no comércio e nas finanças internacionais. É mais do que hora de envidar todos os esforços possíveis para que a globalização seja colocada a serviço da cidadania. O Chile e o Brasil, na medida de seus recursos, podem prestar uma contribuição importante nessa luta. Sobretudo se continuarmos a progredir lado a lado, como reclama nossa história, como é o desejo de nossos povos. Estou certo de que assim o faremos. Obrigado, uma vez mais, pela oportunidade de partilhar com esta Casa a crença, que me é inabalável, no futuro da amizade entre o Chile e o Brasil."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Discurso do Presidente Fernando Henrique Cardoso em jantar oferecido pelo Presidente Ricardo Lagos, por ocasião de visita oficial à República do Chile",
+            "subtitulo": "SANTIAGO, CHILE, 18 DE MARÇO DE 2002",
+            "data": "18/03/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h15"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/discurso-do-presidente-fernando-henrique-cardoso-em-jantar-oferecido-pelo-presidente-ricardo-lagos-por-ocasiao-de-visita-oficial-a-republica-do-chile",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Agradeço as palavras de Vossa Excelência, Presidente Lagos, e a recepção tão calorosa dispensada a mim, a Ruth e à comitiva que me acompanha. É sempre bom poder voltar ao Chile, esta nação irmã que considero minha segunda pátria. Que me acolheu em uma fase fundamental de minha vida. Eram tempos difíceis. E aqui fomos distinguidos - eu, Ruth, nossos filhos e tantos outros brasileiros que para cá vieram - com a hospitalidade fraterna do povo chileno. Aqui encontrei um ambiente de extraordinária força intelectual. Fiz muitos amigos no Chile, com os quais compartilhei sonhos e esperanças. Entre esses amigos estavam Luisa e Ricardo Lagos. Éramos vizinhos de D. Hernán Durán, na rua Lãs Nipas. Essa amizade atravessou o tempo e se fortaleceu na vida académica e nas lutas políticas. Hoje, tenho a honra de reencontrar Ricardo, uma vez mais, na condição de um dos grandes líderes da América Latina, orgulho da democracia chilena por tudo quanto tem realizado em sua obra de transformação social.",
+                "Fico feliz por isso, pois a integração requer essa base de legitimidade. E requer também — ademais de vontade política — ousadia. Exige pensar mais adiante, trabalhar em um horizonte de longo prazo. Assim como conseguimos, no Brasil, garantir a estabilidade económica e superar diferentes crises, estou seguro de que nenhuma dificuldade impedirá nossa região de prosseguir no rumo da integração. Somos um continente unido na luta pela liberdade, pela justiça social e pela prosperidade para todos. Temos a percepção de que certos valores são e devem ser universalmente respeitados. Apoiamos o Tribunal Penal Internacional, instrumento essencial para punir crimes contra a humanidade e para reafirmar o compromisso universal com os direitos humanos. Temos interesses comuns diante de adversidades comuns. Nosso projeto de integração se renova com o fortalecimento do Mercosul, ao qual o Chile está associado. É um projeto que passa também pelo nosso empenho em levarmos adiante as negociações com os parceiros andinos. O mesmo ânimo de busca do desenvolvimento económico e social orienta as tratativas referentes a uma possível Área de Livre Comércio das Américas. O Brasil quer o livre-comércio no hemisfério. Isso só poderá ser alcançado pelo caminho da reciprocidade, e não pelo caminho do liberalismo de mão-única. A reciprocidade foi o princípio que inspirou a reunião dos Presidentes da América do Sul, que realizamos em Brasília no ano 2000 e que deve ter sua segunda edição, em breve, no Equador. É o sentido da integração que nos motiva a aumentar as interconexões físicas na região, a ter projetos de infra-estrutura conjuntos, a cooperar mais no campo da energia. Integrados, somos mais fortes. Mais fortes para responder a múltiplos desafios: persistir nas reformas internas, aperfeiçoar as instituições democráticas, combater o narcotráfico e a lavagem de dinheiro, insistir no desenvolvimento com justiça social.",
+                "Por isso, estamos juntos no apoio ao governo democrático da Colômbia. São inaceitáveis os atos de violência que impediram a continuação do processo de paz. Outro país vizinho e irmão, a Argentina, merece todo nosso respaldo em seus esforços para superação da crise económica e social. Esforços que esperamos contem com a ajuda da comunidade internacional e dos organismos financeiros multilaterais. A expectativa é de que a Conferência de Monterrey, que começa no dia de hoje, seja o marco de um novo consenso para a solidariedade internacional no financiamento do desenvolvimento. Não posso deixar de mencionar o interesse de toda a América do Sul nos resultados da Rio+10, a Cúpula de Johannesburgo sobre Desenvolvimento Sustentável. O equilíbrio entre crescimento económico, equidade social e proteção do meio ambiente precisa ser reforçado. Senhoras e Senhores, como as bases de nosso desenvolvimento tornaram-se sólidas nos últimos anos, podemos hoje trabalhar com confiança e projetar nosso futuro. Estou certo de que será um futuro de crescimento sustentado, com justiça social, com liberdade e respeito aos direitos humanos, um futuro melhor para todos. É uma convicção que se reforça no curso desta visita que faço ao Chile. E é nesse espírito que peço a todos que me acompanhem em um brinde à saúde e felicidade pessoal do Presidente Ricardo Lagos e da Senhora Luisa Durán; ao progresso e bem estar do povo chileno; e à amizade histórica entre nossos países."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "eduardo-dos-santos-2013-2015"
+            ],
+            "titulo": "Discurso proferido pelo Embaixador Eduardo dos Santos por ocasião da Cerimônia de Posse na Secretaria-Geral das Relações Exteriores",
+            "subtitulo": "Brasília, 1º de março de 2013",
+            "data": "01/03/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h15"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/eduardo-dos-santos-2013-2015/discurso-proferido-pelo-embaixador-eduardo-dos-santos-por-ocasiao-da-cerimonia-de-posse-na-secretaria-geral-das-relacoes-exteriores",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Inicialmente, os agradecimentos, e o primeiro deles é dirigido à Excelentíssima Senhora Presidenta da República, Dilma Rousseff, por haver acolhido a indicação de meu nome, pelo Ministro de Estado, para ocupar o cargo de Secretário-Geral das Relações Exteriores.",
+                "Todo meu reconhecimento ao Ministro Antonio Patriota pela confiança, pela generosidade das palavras que acabou de proferir, e pela oportunidade de continuar, como seu auxiliar direto, a servir ao Brasil, ao governo da Presidenta Dilma e ao Itamaraty. Será para mim uma honra acompanhar o Ministro em um momento singular e desafiante na vida da instituição à qual pertencemos. Será muito motivador participar, ao seu lado, de um momento de conquistas e perspectivas promissoras na política externa, resultantes das transformações inegáveis que fazem hoje do Brasil um país mais forte e mais justo.",
+                "Uma palavra de gratidão quero transmitir ao Embaixador Ruy Nogueira, extensiva à Guida. Ao Embaixador Ruy Nogueira sucedo na Secretaria-Geral. Ruy é um amigo de longa data, trabalhamos juntos, ou próximos, em mais de uma ocasião, e ele sempre foi para mim um exemplo de profissionalismo, de espírito público e de abnegada dedicação à Casa. Sou-lhe devedor por haver compartilhado comigo, ao longo dos últimos meses, suas experiências na Secretaria-Geral, suas visões dos problemas da Casa e também seu modo perspicaz, disciplinado e sempre bem humorado de enfrentar o cotidiano da diplomacia. Irei, a cada dia, refletir sobre seus ensinamentos e beneficiar-me de seus conselhos.",
+                "Um decreto de 1918, na gestão Nilo Peçanha, instituiu, pela primeira vez na estrutura do Itamaraty, a figura do Secretário-Geral, definido então como “o funcionário destinado a manter a tradição do Ministério”. O cargo antes denominava-se Diretor-Geral da Secretaria de Estado e, entre o Império e o início da República, fora ocupado pelo Visconde de Cabo Frio durante mais de trinta anos, quase quarenta anos.",
+                "O que significa tradição do Itamaraty? Diplomatas de todas as gerações nos acostumamos orgulhosamente com esse conceito. Creio que ele exprime o patrimônio de realizações que a diplomacia brasileira tem legado ao país, desde a independência e a formação das fronteiras. Patrimônio que, ao longo do tempo, invariavelmente se manifestou em contribuições efetivas à projeção internacional do Brasil e ao seu processo de desenvolvimento.",
+                "Hoje, nada mais ilustrativo desse fato do que o engajamento da Casa no cumprimento das diretrizes da política externa da Presidenta Dilma Rousseff, sob a execução do Ministro Patriota.",
+                "O Itamaraty, tempos atrás, podia ser comparado a uma família. Hoje talvez mais se assemelhe a uma grande organização, tamanha a atual estrutura da Secretaria de Estado, ampliada que foi sua rede de postos no exterior, atualizada sua capacidade orçamentária, consideradas as necessidades constantes de reforço de seu quadro de pessoal e, sobretudo, se levarmos em conta o tanto que cresceu - em termos de variedade e complexidade de temas - a agenda da política externa.",
+                "Contudo, mais que família ou organização, somos fundamentalmente uma instituição do Estado. Uma instituição, como tantas outras, partícipe do estado democrático de direito; comprometida com os valores republicanos da transparência, da ética, da prestação de contas e do serviço à sociedade; instituição que exerce a genuína vocação de paz e progresso do povo brasileiro, a busca da integração com nossos vizinhos e a ativa participação nos negócios mundiais.",
+                "Algo que aprendemos nos anos recentes de transformação política, econômica e social por que tem passado o Brasil foi justamente adquirir consciência de nossas responsabilidades acrescidas.",
+                "Um país que hoje emerge no plano internacional com políticas de crescimento econômico, de inclusão social, de combate à pobreza e à miséria, de desenvolvimento sustentável, de fortalecimento das infraestruturas, de avanço científico e tecnológico, entre tantos outros objetivos, tem a sua diplomacia ajustada a essas prioridades e sempre atenta e diligente nas tarefas que lhe competem.",
+                "É o que tem feito esta Casa, sempre dedicada a aprimorar a ação diplomática e consular e, também a aperfeiçoar continuamente as práticas administrativas.",
+                "Ao Itamaraty cabe, nesse sentido, a responsabilidade de coadjuvar, em sua esfera de atribuições, a ação global do Governo, e para tanto coordenar-se estreitamente com os demais ministérios e órgãos públicos. De minha parte, procurarei manter-me em sintonia fina, entre outras autoridades, com os Secretários-Executivos das diferentes pastas.",
+                "Igualmente, tratamos de somar nossos esforços aos do Congresso Nacional, que presta contribuição valiosa à condução da política exterior.",
+                "Cabe-nos, ainda, dar atenção ao papel do Poder Judiciário e ao dos estados e municípios, neste caso fortalecendo a diplomacia federativa.",
+                "E, sobretudo, temos o dever de almejar eficiência em nossas ações e programas de trabalho.",
+                "Estas e tantas outras responsabilidades temos cumprido sem vacilações, inclusive ao buscarmos articulação permanente com a sociedade civil. Nossas portas têm permanecido abertas aos empresários, aos pesquisadores, aos representantes sindicais, às organizações não governamentais, aos intelectuais e artistas, aos formadores de opinião, e, sobretudo, temos mantido as portas abertas ao cidadão.",
+                "Na Secretaria-Geral, prestarei minha colaboração ao Ministro de Estado com a mais absoluta lealdade e em atitude permanente de vigilância, zelando para que as obrigações e responsabilidades da Casa sejam cumpridas à risca.",
+                "Nos termos da lei, é sabido, o Secretário-Geral é o chefe do serviço exterior brasileiro. Adianto que serei chefe, não propriamente como quem manda, mas sobretudo como quem serve. Mandar, ordenar e fazer cumprir são, de fato, atributos da autoridade e da liderança. Mas autoridade e liderança não se exercem sem a forca do exemplo e do empenho pessoal. Aprendi isso com um homem público que foi chanceler no alvorecer da nossa redemocratização, com quem o Embaixador Ruy Nogueira e eu trabalhamos diretamente.",
+                "Servirei ao país, ao Governo e à Casa com a ajuda e a participação dos colegas que respondem pelas subsecretarias-gerais, pelos departamentos, pelas divisões e demais unidades funcionais. A contribuição de cada um é a semente que faz germinar o trabalho solidário e eficaz da instituição como um todo.",
+                "Tratarei de reunir-me com os Subsecretários o mais freqüentemente possível. A coordenação e a descentralização entre os órgãos de direção superior são fundamentais para o assessoramento preciso ao Ministro de Estado e, consequentemente, para o bom desempenho da instituição.",
+                "Além disso, buscarei o maior entrosamento com os chefes de postos no exterior. Venho de uma experiência de dez anos à frente de três missões diplomáticas. Bem posso avaliar a importância do contato fluido e constante com as chefias em Brasília e agora, do lado de cá, quero beneficiar-me do diálogo com os colegas que estão fora, o que tem evidente significação institucional.",
+                "Não posso deixar de me sentir emocionado, Senhor Ministro, ao encontrar-me neste ato 37 anos depois de ter recebido, junto com meus colegas de turma, o diploma de conclusão do curso do Instituto Rio Branco. No contato com as gerações de diplomatas que se seguiram a nós, posso apreciar o quanto tem sido aprimorada a tarefa de formação e capacitação profissional no Itamaraty, com a emergência de quadros cada vez mais qualificados.",
+                "Mas a emoção é tanto maior ante o ímpeto que sinto de evocar aqueles que, desde o início da minha carreira, ajudaram diretamente no meu aprendizado e no meu gradativo amadurecimento como servidor da diplomacia. Dos primeiros chefes que tive, aos mais recentes, alguns presentes nesta cerimônia, só recebi lições de sabedoria, de lucidez e de defesa do interesse nacional. Lamento, por falta de tempo, não poder citá-los aqui nominalmente, o que faria não só em sua homenagem, mas sobretudo como um tributo à linha de continuidade e coerência que é a marca do Itamaraty.",
+                "Todos e cada um deles — inclusive os Presidentes da República, os Vice-Presidentes da República, Ministros de Estado e Secretários-Gerais a quem estive subordinado, antes e depois de Embaixador, além de tantos outros colegas e colaboradores com os quais tenho convivido ao longo da carreira, amigas e amigos de todas as horas — todos e cada um fazem parte da trajetória que me trouxe até este momento de culminação profissional.",
+                "Para enfrentar o desafio para o qual me convocou o Ministro de Estado, espero contar com o apoio dos servidores da Casa, tanto no Brasil quanto no exterior.",
+                "Sei que contarei com o suporte moral e afetivo da minha família, em especial de minha mulher e de minhas filhas. Delas sempre recebi incentivo, e a elas tudo devo.",
+                "Somos o somatório de nossas características pessoais, de nossa formação e aprendizado e de nossa vivência profissional. A conjugação dessas fontes de saber é o que nos habilita a continuar a encontrar soluções inovadoras, criativas e eficazes para enfrentarmos as questões do nosso tempo.",
+                "O Itamaraty continuará unido e coeso, sob o comando de Vossa Excelência, Senhor Ministro, a construir aquilo que for arquitetado como reflexo do interesse nacional. Juntos continuaremos a ser os operadores de uma política externa que tem como alicerces a nossa Constituição, a nossa sociedade e a nossa tradição.",
+                "Assim faremos pelo bem do Brasil."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

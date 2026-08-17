@@ -1,0 +1,585 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "aloysio-nunes-ferreira"
+            ],
+            "titulo": "Palavras do Senhor Ministro de Estado, Aloysio Nunes Ferreira, por ocasião da abertura da XXII Reunião Ordinária do Conselho de Ministros da CPLP – Brasília, 20 de julho de 2017",
+            "subtitulo": "NA",
+            "data": "20/07/2017",
+            "horario": "22h38",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "12h28"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/aloysio-nunes-ferreira/palavras-do-senhor-ministro-de-estado-aloysio-nunes-ferreira-por-ocasiao-da-abertura-da-xxii-reuniao-ordinaria-do-conselho-de-ministros-da-cplp-brasilia-20-de-julho-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Bem, vamos retomar, então, os nossos trabalhos. Eu já tive a ocasião de conversar com todos os amigos aqui presente, chefes de delegações de países da CPLP, com exceção do nosso amigo de Timor-Leste, que acabou chegando só hoje de manhã – já estava até preocupado, imaginando que não teríamos a sua presença.. mas felizmente está aqui, para essa reunião, que foi precedida, ontem, para minha felicidade, por uma série de reuniões bilaterais com chanceleres e chefes de delegação, e com a secretária da comissão, onde nós tivemos a ocasião de, além de repassar o exame de temas da nossa relação bilateral, nos debruçamos também sobre a pauta da reunião de hoje.",
+                "E todos concordamos que esta reunião foi muito bem preparada. Quero agradecer àqueles que se dedicaram à preparação dessa reunião e à elaboração dos textos que serão submetidos a deliberação hoje. O sucesso de uma reunião como esta é, em grande parte, dependente de uma boa preparação. Eu creio que existe uma boa preparação e o desejo nosso de que esta reunião seja uma reunião que faça avançar a agenda e o trabalho da nossa organização.",
+                "Eu tenho muita honra em recebê-los em uma reunião aqui em Brasília. E é uma felicidade participar de uma reunião de uma organização internacional podendo falar português.",
+                "E eu tenho claramente em mente as nossas responsabilidades diante de uma agenda que foi amadurecida, foi diversificada, e hoje conforma as discussões de nossa Comunidade.",
+                "Nós podemos ter na nossa CPLP um espaço de otimismo. Foi o que eu recolhi ontem na conversa com todos os senhores e as senhoras, não obstante os desafios por que nossos países passaram, e ainda passam, num cenário econômico dos mais complicados no plano internacional. Vinte e um anos depois da fundação da CPLP, os diferentes setores governamentais dos Estados membros já conseguiram estabelecer um fluxo permanente de reuniões ministeriais e encontros técnicos, além de terem firmado instrumentos de cooperação e acordos comunitários. Eu não vou arrolá-los hoje porque levaria muito tempo, e todos nós estamos perfeitamente a par do que foi feito e valorizamos esse esforço e essas realizações.",
+                "E os documentos que vamos discutir logo mais, e que espero que sejam aprovados, representam marcos importantes da nossa Comunidade, que está presente em quatro continentes no resultado da primeira onda de globalização da economia internacional que nasce das navegações portuguesas. E hoje nós somos herdeiros de uma comunidade que foi tecida, foi construída ao longo de séculos. E podemos.. a partir da organização e da criação da CPLP, cuja iniciativa se deve a um estadista brasileiro, que é o presidente José Sarney, nós temos frutos a serem apresentados de parcerias, construção de consensos, e agora, esses consensos, voltados aos Objetivos do Desenvolvimento Sustentável da Agenda 2030.",
+                "A nossa organização trabalha com uma visão de longo prazo, com objetivos estratégicos da concertação política, cooperação, valorização da língua portuguesa. Eu quero aproveitar este momento para anunciar a disposição da Fundação Alexandre de Gusmão de realizar, até o fim da presidência de turno do Brasil, atividades com o objetivo de contribuir para a maior visibilidade da CPLP, com a realização de seminário e organização de publicação em que nós vamos refletir profundamente sobre os laços que nos unem e como, a partir deles, nos projetar para o futuro a partir desse acervo que já construímos ao longo dos séculos. Para o sucesso dessa iniciativa, nós contamos com a colaboração dos diversos Estados membros.",
+                "E é nesse quadro de desafios e realizações que eu convido as senhoras e os senhores a consolidarmos mais um capítulo de nossa história."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante Sessão Plenária dos Senhores Presidentes dos Estados Membros do Mercosul, Estados Associados, México e Convidados Especiais – Mendoza/Argentina, 21 de julho de 2017",
+            "subtitulo": "NA",
+            "data": "21/07/2017",
+            "horario": "17h11",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h01"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-sessao-plenaria-dos-senhores-presidentes-dos-estados-membros-do-mercosul-estados-associados-mexico-e-convidados-especiais-mendoza-argentina-21-de-julho-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Minhas primeiras palavras são de agradecimento ao Presidente Mauricio Macri, nosso anfitrião nesta bela cidade de Mendoza.",
+                "Quero cumprimentá-lo, Presidente, pelo progresso que obtivemos na presidência argentina. Não será exagero afirmar que a presidência que agora se conclui foi das mais produtivas da história recente do Mercosul.",
+                "Convergindo em visões e em propósitos, os Estados fundadores do Mercosul estamos todos resgatando a vocação original do bloco: a vocação para o livre mercado,  para a democracia e para os direitos humanos.",
+                "O Mercosul é o que fazemos dele. Revitalizar o Mercosul, como fez Vossa Excelência, tem sido possível porque vivemos, em cada um de nossos países, momentos modernizadores.",
+                "No Brasil, como em outros países da nossa região, rejeitamos as soluções mágicas, que não se sustentam no tempo. Optamos, antes, pelo caminho do diálogo e da responsabilidade.",
+                "Diálogo com o Parlamento, diálogo com a sociedade e responsabilidade no trato da coisa pública, inclusive, e isto é fundamental, no trato das contas públicas.",
+                "Pois não tenham dúvidas que, ao continuar o trabalho exemplar da presidência argentina, a presidência brasileira se orientará por essas marcas do diálogo e da responsabilidade. Essas são nossas respostas aos desafios que enfrentamos internamente. Essas são nossas respostas aos desafios de um mundo onde persistem ainda tendências desagregadoras.",
+                "O Mercosul surgiu, toma a liberdade de dizê-lo, há um quarto de século, justamente porque, fortalecidos na democracia, nossos países decidiram levar adiante uma ampla agenda de transformações. Deixávamos para trás regimes autoritários, buscávamos construir economias mais abertas e competitivas. E entendemos que, juntos, tal como disse o presidente Macri, podemos fazer mais e melhor.",
+                "A História não se repete e as circunstâncias, hoje, são diferentes. Mas o ímpeto de andarmos para frente de mãos dadas, com coragem e sem ilusões, esse ímpeto que nos impulsionou nos primeiros tempos do Mercosul volta a mover-nos. E os resultados se fazem sentir.",
+                "Retomado o rumo, nos últimos meses desbloqueamos canais de entendimento. Vencemos obstáculos ao processo decisório e conseguimos resultados concretos.",
+                "Ressalto a assinatura do Protocolo de Cooperação e Facilitação de Investimentos do Mercosul. O acordo amplia a segurança jurídica e facilita os investimentos entre nossos países. É contribuição adicional para nossa meta de criar mais crescimento, mais empregos e mais renda. Que, aliás, neste ponto até quero dizer, que o presidente Macri, ainda no G20, sugeriu que nós utilizássemos nossos consulados lá, onde não houvessem consulados de ambos os países, para que pudéssemos trocar trabalhos conjuntos. E eu quero dizer, fui informado pelo nosso ministro Aloysio Nunes, que já escolhemos dois consulados brasileiros para iniciar o programa: Vancouver e Amsterdam. E até, se me permitem, eu proponho que o mesmo façamos com os demais países integrantes do Mercosul. Quem sabe podemos também trocar fórmulas de trabalho com todos os países do Mercosul, tal como hoje estamos fazendo com a Argentina.",
+                "Trata-se, portanto, meus amigos, de verdadeira mudança de paradigma, quando avançamos no livre comércio. Quando identificamos, conjuntamente, quase 80    entraves de distinta natureza às trocas dentro do Mercosul.",
+                "Menos barreiras significam mais comércio, mais riqueza, mais empregos de qualidade – sobretudo quando consideramos que nosso comércio é composto majoritariamente de produtos industrializados.",
+                "Esse é o espírito do Mercosul que fundamos há 25 anos.",
+                "Senhoras e senhores,",
+                "Diante das pressões protecionistas que perduram em diferentes quadrantes, a razão recomenda resistirmos ao isolamento, recomenda insistirmos nos processos de integração. Tal como fez, o presidente Macri durante a sua presidência.",
+                "O fechamento ao outro é um obstáculo ao desenvolvimento. Não cairemos nessa esparrela.",
+                "Muito pelo contrário: na presidência brasileira, continuaremos engajados em nossa ambiciosa pauta de negociações externas.",
+                "Estreitaremos os laços do Mercosul com os países da Aliança do Pacífico. Juntos, o Mercosul e a Aliança do Pacífico reunimos cerca de 80% da população da América Latina e do Caribe. Representamos mais de 90% do PIB e dos fluxos de investimento estrangeiro na Região. É significativo, portanto, o potencial de negócios entre nossos empresários.",
+                "Seguiremos, também, firmemente engajados nas negociações de acordo com a União Europeia. Ainda lá no G20, conversávamos, o presidente Macri e eu, com os representantes da União Europeia e verificamos que precisamos superar algumas pequenas dificuldades, mas que já foram pré-negociadas pelo presidente Macri. E, juntos, nós continuamos a entabular negociações com a União Europeia, de modo a realizarmos definitivamente esse grande acordo.",
+                "Ao mesmo tempo, lançaremos também sobre a Ásia um novo olhar. Maior aproximação com parceiros asiáticos será outra vertente da presidência brasileira. Já temos mantido diálogo produtivo com o Japão, com a Coreia do Sul, com a Índia e com países da Associação de Nações do Sudeste Asiático. Estaremos, portanto, empenhados nessas frentes.",
+                "Aqui, como em outras instâncias, tudo dependerá da nossa capacidade coletiva de articular entendimentos. O que nos guia, sempre, são os interesses de nossas sociedades, que anseiam por mais prosperidade, por mais bem-estar.",
+                "Eu quero também registrar, tal como tem dito o presidente Macri, que o   Mercosul não se esgota em sua dimensão econômico-comercial, por mais relevante que ela seja. O Mercosul também diz respeito a valores. Diz respeito ao apego de nossos povos à separação e à harmonia entre os Poderes; à liberdade plena de opinião e de imprensa; às garantias individuais; aos direitos humanos em sua totalidade. Diz respeito ao apego inegociável que temos, em uma única palavra, à democracia.",
+                "Por isso, outro ponto crucial do resgate da essência do Mercosul é o fortalecimento do compromisso democrático pelo Bloco.",
+                "Sabemos, que coexistem hoje em nossa região governos de diferentes inclinações políticas. É natural e saudável que seja assim. O fundamental é que haja respeito mútuo e que sejamos capazes de convergir em função de objetivos básicos. E, é claro, que se observe o primado do Estado Democrático de Direito.",
+                "Nessa perspectiva, é com grande preocupação que acompanhamos a situação na Venezuela. Somos profundamente sensíveis à deterioração do quadro político-institucional, às carências sociais que, nesse país amigo, ganham contornos de crise humanitária. Já não há mais espaço, na América do Sul, para prisões arbitrárias, para medidas de repressão política, para atitudes e atos incompatíveis com os preceitos democráticos. Já não há mais espaço para governos indiferentes à própria sorte do povo.",
+                "Eu tenho dito no Brasil, nas várias manifestações de entrevistas, que a nossa relação com a Venezuela é naturalmente uma relação institucional. É de Estado para Estado e de povo para povo. Daí a formulação, agora, da grande preocupação que temos com o povo venezuelano, que é nosso povo irmão.",
+                "Nós, portanto, no Brasil, nós continuaremos – ao lado do povo da Venezuela  pelo restabelecimento irrestrito das liberdades em seu país. Estamos e continuaremos dispostos a unir nossa voz àquela de nossos vizinhos, que reclamam a volta da democracia.",
+                "E essa é a postura do Mercosul em seu conjunto. Nossos chanceleres reconheceram formalmente a ruptura da ordem democrática na Venezuela. Nossa mensagem é clara: conquistamos a democracia, em nossa região, com grande sacrifício, e não nos calaremos, não nos omitiremos frente a eventuais retrocessos.",
+                "Eu quero concluir, senhor presidente, senhores presidentes, senhores chanceleres, senhoras e senhores, a minha grata satisfação com o trabalho que foi realizado até aqui.",
+                "O Mercosul está hoje mais forte e mais unido. Temos uma agenda de trabalho bem definida. Ao lembrarmos de onde viemos – de nosso projeto original de integração econômica e de defesa da democracia e dos direitos humanos –, temos maior clareza sobre o caminho a seguir.",
+                "E estamos seguindo esse caminho, com segurança e determinação. Assim tem sido, senhor presidente, nos últimos meses. Assim foi na presidência argentina e assim será na presidência brasileira, com o auxílio de todos.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante a XXII Reunião Ordinária do Conselho de Ministros da Comunidade dos Países de Língua Portuguesa (CPLP) – Palácio do Itamaraty, 20 de julho de 2017",
+            "subtitulo": "NA",
+            "data": "20/07/2017",
+            "horario": "17h39",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h01"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-a-xxii-reuniao-ordinaria-do-conselho-de-ministros-da-comunidade-dos-paises-de-lingua-portuguesa-cplp-palacio-do-itamaraty-20-de-julho-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Bem, meus senhores, minhas senhoras, eu quero cumprimentar o nosso ministro de Estado das Relações Exteriores, Aloysio Nunes, por intermédio de quem eu tomo a liberdade de cumprimentar os chanceleres da Comunidade dos Países de Língua Portuguesa e demais chefes de delegação.",
+                "Quero cumprimentar, também, a senhora secretária executiva da Comunidade dos Países de Língua Portuguesa, a senhora Maria do Carmo Trovoada.",
+                "Senhoras e senhores membros da Casa de Rio Branco, do corpo diplomático, integrantes das delegações.",
+                "Eu quero depois de havidos cumprimentados pessoalmente, eu quero estender, naturalmente, minhas mais calorosas boas-vindas a todos senhores e senhoras.",
+                "E como eu tenho participado de algumas reuniões do ministro Aloysio da CPLP e, mais recentemente, há pouco mais de 6 meses, fizemos aqui o encontro da CPLP. Onde tivemos a honra, o Brasil, de passar esse período na presidência da Comissão dos Países de Língua Portuguesa, eu vejo aqui naturalmente, muito rostos conhecidos, pessoas que vamos encontrando em cada uma das reuniões.",
+                "E é antigo nosso, naturalmente, engajamento na CPLP. Ainda eu me recordo para dar um dado concreto, que ainda como vice-presidente, eu participei representando o Brasil na Cúpula da Comunidade em Moçambique, no ano de 2012. E tive, também estando em Lisboa, o privilégio de visitar a sede da CPLP, naquela ocasião onde fizemos uma longa reunião, foi uma reunião de umas duas, três horas, extremamente útil, para os países integrantes desta comunidade.",
+                "E neste momento em que o ministro Aloysio me convida para abrir esta reunião, que é uma reunião de trabalho, que os senhores farão ao longo do dia, eu quero dizer que, para mim, é motivo de muita alegria, muita honra. Especialmente porque aqui nós vamos defender e também difundir a língua portuguesa. E é tributo que nós prestamos a nossa identidade comum.",
+                "Aliás, convenhamos que o fato de falarmos o mesmo idioma facilita enormemente, não apenas a comunicação, mas o sentimento de fraternidade, que naturalmente nos une.",
+                "A língua portuguesa, afinal, é a seiva da nossa comunidade. E volto a dizer que é o primeiro elo a irmanar nossos povos. Nosso idioma hoje tem uma presença forte em toda comunidade internacional. Aliás, muito apropriada e adequadamente, o secretário geral hoje das Organizações das Nações Unidas é um português. Que, aliás, nos honrou, ministro Aloysio, com a sua presença na reunião da CPLP, que fizemos aqui no Brasil. Estando o doutor Gutierrez na Secretaria Geral da Organização das Nações Unidas, isso está a indicar cada vez mais a difusão da língua portuguesa. Mas não apenas a difusão da língua portuguesa, mas a vitalidade dos países integrantes da CPLP, que usam o nosso idioma para a troca de informações, no campo cultural, no campo comercial, no campo empresarial. Portanto, hoje volto a dizer, o idioma português tem uma significação internacional.",
+                "Portanto, eu quero associar-me a todos aqueles que aplaudem a trajetória até aqui percorrida pela CPLP. Trajetória em que sobressai nossa capacidade de diálogo construtivo e de ação coordenada.",
+                "Aliás, o dinamismo da CPLP está refletido na diversidade de sua agenda de cooperação. É uma agenda que contempla áreas fundamentais para o desenvolvimento, saúde, educação, justiça, direitos humanos. São temas muito caros a todos os países integrantes da CPLP. Aqui no Brasil, por exemplo, esses temas todos ganharam estatura e disciplina constitucional, para revelar a importância deles todos. Por exemplo, saúde e educação, a nossa Constituição estabelece que é dever de todos e também do Estado. Portanto, é algo que está elevado a este tamanho constitucional para revelar a importância desses temas. Isso  ocorre em todos os países pelas conversas que nós temos dito ao longo do tempo.",
+                "Portanto, eu quero dizer que são muitos países lusófonos que ascenderam à categoria também de observadores associados da CPLP. Porque também engrandecem a nossa comunidade. Eu quero também saudá-los, dizer que quanto mais tenhamos observadores, tanto melhor para a nossa comunidade.",
+                "Portanto, é minha convicção e de todos os brasileiros que o destino da CPLP é crescer cada vez mais e firmemente apoiada nos pilares da concertação político-diplomática, da cooperação e da promoção do nosso idioma e, naturalmente, das nossas relações.",
+                "Eu espero que os senhores e as senhoras tenham todos um dia muito próspero e peço a cada qual dos representantes dos países da CPLP que transmitam, em meu nome, em nome do povo brasileiro, em nome do Itamaraty, os cumprimentos aos seus chefes de governo, chefes de estado, para que saibam que aqui o Brasil tem sempre portas abertas para reuniões tão oportunas como esta.",
+                "Mais uma vez, portanto, sejam bem-vindos. E quero dizer que o Brasil é a vossa casa.",
+                "Bons trabalhos a todos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante a segunda Sessão de Trabalho – Hamburgo-Alemanha, 7 de julho de 2017",
+            "subtitulo": "NA",
+            "data": "07/07/2017",
+            "horario": "15h41",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h01"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-a-segunda-sessao-de-trabalho-hamburgo-alemanha-7-de-julho-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Senhora chanceler federal,",
+                "Senhores chefes de Estado e de governo,",
+                "Senhoras e senhores,",
+                "Quero iniciar referendando as palavras do presidente Macri sobre a Venezuela.",
+                "A sustentabilidade deve nortear todas as nossas políticas públicas em nível local, assim como todos os nossos debates em nível global.",
+                "Os Objetivos de Desenvolvimento Sustentável são conquista de todos nós, conquista que devemos defender em sua plenitude. No Brasil, temos feito a nossa parte. Criamos, no ano passado, comissão para assegurar a implementação dos ODS. E, ainda este mês, apresentaremos, nas Nações Unidas, o primeiro relatório voluntário sobre os progressos que temos feito.",
+                "Fundamental para o desenvolvimento sustentável é o combate à mudança do clima. Reafirmo o compromisso inequívoco do Brasil com o Acordo de Paris. O instrumento reflete amplo consenso da comunidade internacional quanto à necessidade de ações urgentes para garantirmos o futuro de nosso planeta.",
+                "Estou pessoalmente engajado na agenda de mudança do clima. Depositei o instrumento de ratificação do Acordo de Paris junto ao Secretário-Geral da ONU em setembro último – o Congresso brasileiro havia sido rápido na sua aprovação, sensível à prioridade que os brasileiros atribuem ao tema. No mês passado, o acordo foi transformado em lei no Brasil.",
+                "O Brasil assumiu meta ambiciosa. Nosso compromisso é, em 2025, ter reduzido as emissões de gases de efeito estufa em 37%.",
+                "Compromisso que levamos a sério e que se reflete, por exemplo, na proteção de nossas florestas. Determinei o aumento de recursos para o combate ao desmatamento na Amazônia, depois de anos de retrocesso, de desprestígio, de descaso orçamentário e político.",
+                "O combate sério à mudança climática só se dará com novas fontes de energia. A transição energética é urgente – e é urgente em todos os setores da economia. Poucos setores são tão decisivos para a redução de emissões quanto o de transportes. Aí, os biocombustíveis desempenham papel essencial – e o Brasil tem aporte importante a oferecer. Os biocombustíveis devem ter presença crescente na matriz energética mundial. A Plataforma para o Biofuturo, lançada no ano passado, muito contribuirá nessa direção.",
+                "Nesta hora, em que vemos testada nossa capacidade de agir coletivamente, a união de esforços entre os países do G20 é crucial.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante a reunião dos Chefes de Estado e de Governo do BRICS – Hamburgo-Alemanha, 7 de julho de 2017",
+            "subtitulo": "NA",
+            "data": "07/07/2017",
+            "horario": "09h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h01"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-a-reuniao-dos-chefes-de-estado-e-de-governo-do-brics-hamburgo-alemanha-07-de-julho-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Quero, inicialmente, cumprimentar o presidente Xi Jinping,",
+                "De igual maneira o presidente Vladimir Putin,",
+                "o primeiro-ministro Narendra Modi,",
+                "E o presidente Jacob Zuma,",
+                "Assim como as senhoras e os senhores ministros de Estado e integrantes da delegação.",
+                "E quero começar, senhor presidente Xi Jinping, por cumprimentá-lo, porque a presidência de turno chinesa tem garantido continuado dinamismo ao Brics em momento global marcado por persistentes incertezas.",
+                "Neste cenário desafiador, a mensagem que o Brasil traz a Hamburgo é de responsabilidade e abertura. Responsabilidade na busca de caminho seguro para o crescimento sustentado com base sempre no diálogo. Abertura ao mundo, a pluralidade de ideias, a novas e antigas parcerias econômicas.",
+                "Essa mensagem é inspirada em nossa própria experiência. O Brasil está superando uma das crises mais graves de sua história graças a uma ambiciosa agenda de reformas que traz de volta o crescimento e o emprego. Diante de nossos problemas, escolhemos o caminho mais responsável, que construímos em constante interlocução com o Congresso Nacional e com o conjunto da sociedade.",
+                "Escolhemos caminho que passa por maior e melhor integração aos fluxos globais de comércio e investimentos. O Brics é espaço capaz de traduzir nossos esforços individuais em ganhos conjuntos. É exemplo do quanto se pode alcançar com disposição pragmática na busca de resultados tangíveis em favor do desenvolvimento, em favor do bem estar de nossos povos.",
+                "O novo banco de desenvolvimento e o arranjo contingente de reservas mostram, de modo concreto, o que podemos fazer juntos. São conquistas que temos de consolidar, são conquistas que firmam o Brics como fator de estabilidade da economia internacional.",
+                "Nesta cúpula do G20, ainda mais que em ocasiões anteriores, será importante que o Brics se apresente ao mundo de modo firme e coeso. Será importante que renovemos o nosso compromisso com o sistema multilateral de comércio e, naturalmente, com êxito da conferência ministerial da OMC, em Buenos Aires. Será importante que renovemos também o nosso engajamento no combate à mudança no clima e na implementação do Acordo de Paris.",
+                "Será importante, enfim, que renovemos nossa determinação em transformar a Agenda 2030 em práticas e políticas efetivas. Este encontro é demonstração evidente do vigor do nosso grupo, da vitalidade de nosso constante exercício de concertação.",
+                "O Brasil atribui elevada prioridade ao Brics. Vemos a cooperação intra-Brics como valioso instrumento para multiplicar oportunidades, não apenas na área financeira. Temos aqui também terreno fértil para cooperar nos campos do comércio, do investimento, da inovação, ciência e tecnologia.",
+                "Estou certo, seguro, aliás, de que a cúpula de Xiamen representará mais um importante passo no aprofundamento do Brics. Os amigos chineses e os amigos dos demais países integrantes do BRICS podem contar com todo o apoio e todo entusiasmo do Brasil.",
+                "Obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Mercosul: caminhos para o futuro (Valor Econômico, 21/7/2017)",
+            "subtitulo": "NA",
+            "data": "21/07/2017",
+            "horario": "17h20",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-artigos/michel-miguel-elias-temer-lulia-2016-2018/mercosul-caminhos-para-o-futuro-valor-economico-21-7-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Estarei, neste dia 21, em Mendoza, na Argentina, para a Cúpula do Mercosul, que não se realiza desde 2015. O Brasil receberá dos anfitriões argentinos a presidência de turno do bloco. Poucos encontros internacionais são tão importantes para nós. Afinal, é a reunião de mais alto nível da principal iniciativa de integração de que participamos. Além disso, será a 50ª edição da Cúpula - o que permite, com o benefício do tempo, olhar para trás e tirar lições para o futuro sobre nossa inserção na vizinhança e no mundo.",
+                "O Mercosul foi constituído em 1991 sobre os pilares do livre mercado, da democracia e dos direitos humanos. Foi o ponto culminante de um processo histórico. Com ele superamos definitivamente antigas rivalidades entre o Brasil e a Argentina - rivalidades que se estendiam desde o século XIX e que já não tinham lugar no ambiente de redemocratização que vivíamos em nossa região. Com ele renovamos as bases de nossas antigas relações com o Paraguai e com o Uruguai. O Mercosul promoveu a confluência de visões e de propósitos entre quatro países irmãos, unidos pela geografia.",
+                "Graças ao bloco, o comércio entre esses quatro países multiplicou-se por doze em pouco mais de duas décadas - e um comércio de qualidade, de valor agregado, importante para nossas indústrias. No caso do Brasil, nada menos do que 84% das exportações para os sócios do Mercosul correspondem a produtos manufaturados.",
+                "Nos seus primeiros anos, o Mercosul foi, ainda, peça-chave na manutenção da democracia na região - democracia que havia sido tão difícil reconquistar. Nessa perspectiva, marco importante foi a adoção, em 1998, do Protocolo de Ushuaia sobre Compromisso Democrático, a chamada \"cláusula democrática\".",
+                "Por muito tempo, o Mercosul cumpriu a contento sua vocação original. Gerou intercâmbio, prosperidade, desenvolvimento. Contribuiu para as liberdades democráticas.",
+                "Mais recentemente, porém, enfrentou reveses significativos. Apenas para dar exemplo na seara econômica, nos últimos quatro anos as trocas despencaram de US$ 57,5 bilhões, em 2013, para US$ 37,9 bilhões, em 2016. Chegou-se a operar verdadeira inversão de paradigmas: em lugar de prestigiar o livre mercado, criavam-se novos obstáculos, novas barreiras comerciais.",
+                "Pois, agora, estamos devolvendo o bloco ao caminho de que nunca deveria ter saído. Uma convergência pragmática entre os países fundadores tem-nos permitido revitalizar o Mercosul. A vontade de mudar para melhor que verificamos em cada uma de nossas sociedades traduz-se em uma agenda virtuosa para nossa integração. E o Brasil mais moderno que estamos construindo - um Brasil que volta a crescer e a gerar empregos - traz contribuição importante para um bloco mais forte e mais dinâmico. O Mercosul é o que os membros decidimos fazer dele.",
+                "Sob a presidência argentina, que se encerra em Mendoza, avançamos muito. Concluímos o acordo de investimentos do Mercosul, o que significará mais segurança para investidores, mais riqueza, mais empregos. Progredimos na eliminação de barreiras ao comércio: de um total de quase 80 barreiras identificadas, dezenas já foram abolidas. Aproximamo-nos dos países da Aliança do Pacífico (Chile, Colômbia, México e Peru). Reconhecemos a ruptura da ordem democrática na Venezuela - recorremos à cláusula democrática. A realidade é que se fez mais nos últimos meses do que em muitos anos anteriores.",
+                "Depois da Cúpula de Mendoza, caberá à Presidência brasileira do Mercosul continuar e aprofundar esse trabalho. Entre nossas prioridades está a conclusão de acordo sobre compras governamentais, que aprimorará as condições de participação das empresas de um país em licitações em outro membro do bloco. O acordo ampliará a concorrência e as oportunidades de negócios. Prosseguiremos na tarefa de eliminar barreiras comerciais e buscaremos facilitar a harmonização de regulamentos técnicos, sempre em favor de mais comércio, em favor de nossos produtores e consumidores.",
+                "Esses são passos fundamentais para uma integração mais efetiva - e, também, para uma projeção mais competitiva do Mercosul na economia global. Diante das pressões protecionistas que perduram em diferentes quadrantes, a razão recomenda resistirmos ao isolamento, recomenda insistirmos nos processos de integração.",
+                "Com maior coesão, estamos mais bem posicionados para levar adiante nossas negociações com a União Europeia. Depois de muitos anos, temos, hoje, a perspectiva concreta de chegar a um entendimento com o lado europeu, um entendimento que seja equilibrado e mutuamente benéfico.",
+                "Com maior coesão, estamos também mais bem posicionados para novas rodadas negociadoras com a Associação Europeia de Livre Comércio (a EFTA, composta por Noruega, Suíça, Islândia e Liechtenstein) e com a Índia. Mais bem posicionados para implementar nossas iniciativas com os países da Aliança do Pacífico, iniciativas que incluem a cooperação aduaneira e a aproximação entre nossas pequenas e médias empresas. Mais bem posicionados, enfim, para abrir ainda novas frentes de negociação para o Mercosul no mundo. Pretendemos aprofundar o diálogo com parceiros como o Canadá, o Japão, a Coreia do Sul, a Associação de Nações do Sudeste Asiático (Asean).",
+                "A presidência brasileira estará especialmente atenta, ainda, para a situação na Venezuela. Coexistem hoje em nossa região governos de diferentes inclinações políticas. É natural e saudável que assim seja. O fundamental é que haja respeito mútuo, que sejamos capazes de nos mobilizar em função de objetivos básicos e, é claro, que se observe o primado do Estado democrático de Direito.",
+                "O Mercosul foi construído sobre o terreno fértil da integração econômica, sobre a rocha firme do apego às liberdades individuais. É sobre essas bases que já voltamos a trabalhar. E é sobre essas bases que atuará a presidência brasileira do bloco, em nome do projeto comum de desenvolvimento e democracia que é o Mercosul.",
+                "Michel Temer é presidente do Brasil"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Caminho seguro ao agravamento da crise (Folha de S. Paulo, 30/07/2017)",
+            "subtitulo": "NA",
+            "data": "30/07/2017",
+            "horario": "23h19",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h59"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/caminho-seguro-ao-agravamento-da-crise-folha-de-s-paulo-30-07-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Já se foi o tempo de conivência com o arbítrio na Venezuela. O governo brasileiro repudiou a decisão de convocar uma Assembleia Constituinte à revelia do direito ao sufrágio universal.",
+                "A designação é enganosa, pois a \"eleição\" deste domingo (30) - feita sem os líderes oposicionistas, presos ou barrados, e desenhada para impor a escolha de prepostos do regime - lembra o corporativismo protofascista, em voga nos anos 1930, e os senadores biônicos do regime militar no Brasil.",
+                "Esse casuísmo escancara a intenção de Nicolás Maduro de se perpetuar no poder. Sem falar da confusão jurídica: o país passa a ter duas ordens constitucionais e vive, portanto, um quadro de anomia.",
+                "A manobra foi amplamente rejeitada no plebiscito de 16 de julho passado, convocado pela Assembleia Nacional, esta sim legitimamente eleita em dezembro de 2015, conforme a Constituição em vigor, que o próprio Hugo Chávez ostentava como modelar.",
+                "A exemplo do Brasil, outras grandes nações democráticas, também preocupadas com o potencial desestabilizador da iniciativa, condenam essa Constituinte.",
+                "É lamentável que o governo Maduro continue cego e surdo aos apelos internacionais por um verdadeiro diálogo, que permita a redemocratização, com espaço para todos, inclusive o chavismo.",
+                "Os venezuelanos estão privados de liberdades públicas, da liberdade de imprensa, do devido processo legal, da tutela jurisdicional, da autonomia do organismo eleitoral e dos princípios basilares da independência e do controle recíproco dos Poderes.",
+                "Causa indignação o custo do autoritarismo em vidas humanas. O saldo da repressão às manifestações já é de mais de cem mortes e de milhares de feridos.",
+                "A isso cabe acrescentar a degradação do quadro social. A crise humanitária priva três quartos da população venezuelana de medicamentos básicos, carência que o Brasil buscou ajudar a suprir, mas sem acolhida das autoridades em Caracas.",
+                "Pesquisas de universidades locais apontam que mais de 80% dos venezuelanos encontram-se abaixo do nível de pobreza, 20% a mais do que no início do chavismo.",
+                "A gravidade do momento exige o apoio das democracias do continente a uma saída pacífica. Sabemos no Brasil quão importante foi a institucionalização da convivência democrática, na sequência de mecanismos de transição negociada.",
+                "A história nos autoriza a reclamar do governo Maduro disposição para pactar com a oposição os termos de uma transição que contemple a libertação dos presos políticos, a restauração das competências da Assembleia Nacional e a definição de um calendário eleitoral segundo os ditames da Constituição de 1999.",
+                "Na recém-concluída Cúpula em Mendoza, que inaugurou o exercício, pelo Brasil, da presidência temporária do Mercosul, os Estados fundadores do bloco, depois de constatada a ruptura da ordem democrática, convidaram o governo venezuelano, como requer o Protocolo de Ushuaia, para consultas em Brasília sobre o restabelecimento da democracia.",
+                "A realização ou não dessas consultas definirá os passos seguintes de aplicação da cláusula democrática. No Conselho Permanente da OEA, estamos atentos à evolução do quadro no país vizinho.",
+                "Confiamos que a Venezuela logo reassumirá suas credenciais democráticas, para o bem de seu povo e de toda a América Latina.",
+                "Que sua gente saiba que contará com o Brasil para a reconstrução do país e o pleno aproveitamento das imensas potencialidades do relacionamento bilateral."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Rumo a um mundo sem armas nucleares (Folha de S. Paulo, 17/07/2017)",
+            "subtitulo": "NA",
+            "data": "17/07/2017",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "13/01/2025"
+            ],
+            "horario_atualizado": [
+                "14h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/rumo-a-um-mundo-sem-armas-nucleares-folha-de-s-paulo-17-07-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "No dia 7 de julho, a comunidade internacional deu um passo histórico com a adoção do texto do Tratado das Nações Unidas sobre a Proibição de Armas Nucleares, depois de um processo negociador cuja convocação não teria sido possível sem a liderança de um grupo formado por Brasil, África do Sul, Áustria, Irlanda, México e Nigéria.",
+                "A esses países, juntou-se a grande maioria dos estados membros das Nações Unidas, que compreendeu o sentido humanitário da iniciativa e participou ativamente da conferência negociadora com ânimo construtivo e responsabilidade, de modo a preencher uma lacuna jurídica inaceitável na área do desarmamento.",
+                "As outras armas de destruição em massa já haviam sido proibidas por instrumentos jurídicos – as químicas e bacteriológicas –, mas faltava banir também as nucleares, únicas capazes de aniquilar a vida no planeta. Essa lacuna, que agora começa a ser superada, deixará finalmente de existir quando o novo instrumento chegar às 50 ratificações requeridas para sua entrada em vigor.",
+                "O acordo foi uma vitória das Nações Unidas e do multilateralismo, que consagram o entendimento entre os estados como a via mais adequada e legítima para encontrar soluções para os problemas globais. O instrumento inspira-se em conferências anteriores que ajudaram a despertar a consciência de governos e sociedades para os impactos da detonação de um artefato nuclear, cuja destruição indiscriminada é incompatível com as regras do direito humanitário que regula a conduta em tempos de guerra e com a própria dignidade humana.",
+                "Apesar da resistência dos países nuclearmente armados, foi possível adotar um tratado que reflete a aspiração histórica e amplamente majoritária da comunidade internacional de banir a existência dessas armas. Além disso, o novo tratado constitui um complemento importante ao artigo 6º do Tratado de Não Proliferação de Armas Nucleares (TNP), que estabeleceu a obrigação do desarmamento nuclear.",
+                "Esse passo inédito deve ser creditado à persistência dos que, nos últimos 70 anos, mantiveram acesa a esperança de um mundo sem armas nucleares. Uma coalizão diversa e plural de governos e atores da sociedade civil que não se resignaram com a existência de tais armas. O Brasil tem orgulho de integrar essa coalizão, inclusive por força do mandamento constitucional. Por isso, deu sua contribuição, ajudou a convocar a conferência negociadora e empreendeu esforços para superar entraves que poderiam colocar a perder a iniciativa.",
+                "Hoje podemos celebrar essa vitória da humanidade na busca de um mundo livre da insensatez representada pelas armas nucleares. O momento é de alegria, mas não de autocongratulações. Temos consciência de que há um longo caminho a percorrer para a universalização do tratado, o que demandará esforço continuado de convencimento.",
+                "A proibição de armas nucleares, ademais de dever ético e moral, ajudará a desfazer a justificativa da manutenção dos atuais arsenais. Tem, portanto, um significado político claro ao legitimar a luta pelo desarmamento, em particular nos países detentores desse tipo de armas.",
+                "Isso constitui um alento em um mundo tão conturbado e repleto de conflitos, demonstrando que, com coragem e boa vontade, é possível construir um mundo melhor, mais justo, racional e seguro para as atuais e as futuras gerações."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

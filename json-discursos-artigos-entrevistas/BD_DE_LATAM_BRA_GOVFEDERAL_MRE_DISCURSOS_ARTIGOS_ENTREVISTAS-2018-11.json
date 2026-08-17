@@ -1,0 +1,431 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do presidente Michel Temer na II Sessão Plenária da Reunião de Líderes do G20 – Construindo Consenso – Buenos Aires, 30 de novembro de 2018",
+            "subtitulo": "NA",
+            "data": "30/11/2018",
+            "horario": "17h33",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-michel-temer-na-ii-sessao-plenaria-da-reuniao-de-lideres-do-g20-construindo-consenso-buenos-aires-30-de-novembro-de-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Discurso do presidente Michel Temer",
+                "Senhor Presidente,Senhoras e Senhores Chefes de Estado e Governo,Senhoras e senhores,",
+                "Começo por cumprimentar o Presidente Macri pela escolha do tema desta sessão. Construir consensos não é sempre tarefa simples – sabemos todos disso. Mas sabemos, também, que é tarefa essencial, sobretudo se queremos soluções efetivas para os desafios que compartilhamos.",
+                "Construir consensos pressupõe muito diálogo e esforços de convergência. Pressupõe, por vezes, a sabedoria de abrir mão de ganhos pontuais em nome de ganhos mais amplos e de alcance mais prolongado.",
+                "O caso do comércio internacional é emblemático. É evidente que não existe sistema perfeito. A persistência de distorções no comércio de bens agrícolas é exemplo eloquente deste fato. Mas a história nos ensina que um sistema internacional de comércio mais livre e baseado em regras – regras que sejam, exata e precisamente, produto de consensos abrangentes – contribui para ampliar os fluxos globais de bens e serviços; para modernizar e dinamizar as economias nacionais; para gerar crescimento, empregos e renda. A trajetória do GATT e da OMC revela que sistema assim é o melhor que podemos oferecer a nossos empresários, a nossos trabalhadores, a nossos consumidores.",
+                "Esta é a mensagem que o Brasil renova aqui: mensagem de inequívoco apoio ao sistema multilateral de comércio e a seu mecanismo de solução de controvérsias; mensagem de firme compromisso com a abertura e com o primado do direito também no plano internacional.Mais comércio, e comércio com regras claras: nisso estamos empenhados, em distintos tabuleiros.",
+                "No Mercosul, eliminamos obstáculos ao comércio e firmamos novos acordos de investimentos e de compras públicas. Atuamos com os países da Aliança do Pacífico por um espaço econômico cada vez mais integrado na América Latina – aliás, a própria Constituição brasileira determina essa espécie de política pública. Estamos em tratativas para novo acordo com o México. Firmamos novos acordos com a Colômbia. E, ainda na semana passada, estive em Santiago para a assinatura de ambicioso Acordo de Livre Comércio entre o Brasil e o Chile.",
+                "Além de nossa região, lançamos ou impulsionamos negociações com parceiros de todos os quadrantes – da União Europeia à Coreia do Sul; do Canadá a Singapura.",
+                "E tudo isso fazemos, direi o óbvio, sempre no marco da OMC, sempre no espírito de fortalecer uma arquitetura de comércio internacional pautada, reitero, pelo primado do direito.",
+                "A alternativa traz o risco de espiral protecionista em que alguns podem até ganhar no primeiro momento, mas em que todos perdem ao final.",
+                "Não é o que queremos. O que queremos, e aquilo por que trabalhamos, é um mundo no qual, na busca incansável de consensos, possamos encontrar o caminho do desenvolvimento – desenvolvimento para o maior número de países e de indivíduos.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do presidente Michel Temer na I Sessão Plenária da Reunião de Líderes do G20 – Buenos Aires, 30 de novembro de 2018",
+            "subtitulo": "NA",
+            "data": "30/11/2018",
+            "horario": "17h33",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-michel-temer-na-i-sessao-plenaria-da-reuniao-de-lideres-do-g20-buenos-aires-30-de-novembro-de-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Antes de mais nada, cumprimento o Presidente Macri e o Governo argentino pela impecável organização desta Cúpula. É sempre uma alegria vir a Buenos Aires.",
+                "Reúne-nos aqui preocupação incontornável: garantir que mais e mais pessoas tenham acesso aos benefícios da globalização.",
+                "A verdade é que, hoje, a globalização é fonte inegável de oportunidades. Mas é também fonte de ansiedade para parcelas significativas de nossas populações. Infelizmente, não são poucos aqueles que, sem acesso a capacitação adequada, alijados das inovações tecnológicas, sentem um legítimo mal-estar: mal-estar diante das mudanças no mercado de trabalho, das mudanças em nossas sociedades.",
+                "Surge, aí, a tentação de soluções que podem soar simples, mas são ilusórias. Pois há que resistir. Há que recusar as aparentes facilidades do protecionismo, do isolacionismo. O caminho que nos cabe trilhar é o caminho que leva adiante, não o que volta atrás.",
+                "Esta a escolha fundamental: ou cedemos e nos fechamos em nós mesmos, ou atuamos para que nossos jovens, trabalhadores e empreendedores tenham efetivas condições de integrar-se a uma economia cada vez mais interdependente.",
+                "Quero reafirmar que a escolha do Brasil é pela integração de todos às possibilidades de um mundo crescentemente interconectado. É por garantir que nossos cidadãos estejam preparados para os novos tempos – tempos que já chegaram.",
+                "No Brasil, levamos adiante ampla reforma do Ensino Médio, ajudando nossos alunos a perseguir sua vocação. No mesmo sentido, aprovamos estratégia de transformação digital que tem por pilares o treinamento e a qualificação.",
+                "De igual modo, modernizamos nossa legislação trabalhista. Temos agora arcabouço jurídico compatível com mercados de trabalho mais dinâmicos e flexíveis. Cumpre estarmos especialmente atentos para a questão da mulher neste mundo de intensas transformações. Ainda, sem dúvida alguma ,perduram desigualdades de gênero inaceitáveis no mercado de trabalho.",
+                "No Brasil, combatemos essas desigualdades com sentido de urgência. Esta semana mesmo, instituímos novo Sistema Nacional de Políticas para as Mulheres – sistema cujo eixo central é, precisamente, a capacitação profissional das mulheres.",
+                "Mas, aqui, como em tantas outras frentes, a cooperação internacional é chave. No G20 e em outros foros, cabe-nos agir em conjunto para aprimorar nossas políticas de inclusão, para assegurar que ninguém, ninguém mesmo, ficará para trás.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente Michel Temer na reunião dos BRICS – Buenos Aires, 30 de novembro de 2018",
+            "subtitulo": "NA",
+            "data": "30/11/2018",
+            "horario": "17h33",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-michel-temer-na-reuniao-dos-brics-buenos-aires-30-de-novembro-de-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Há uma década, desencadeava-se crise econômica que teria efeitos sistêmicos e à qual nenhum de nós permaneceria indiferente. Essa lembrança ajuda-nos, hoje, a revisitar as origens do BRICS e a refletir sobre seu significado no presente e nos anos que virão.",
+                "Sabemos todos que o BRICS surgiu para oferecer respostas àquela grave crise. Movia-nos ideia clara: unir esforços e construir respostas coletivas para problemas coletivos.",
+                "Pois agora, ao olharmos para trás, podemos dizer que, inspirados por essa ideia singela mas poderosa, avançamos muito, em muitas áreas.",
+                "Trabalhamos para que as instituições de Bretton Woods fossem mais representativas e eficazes. Contribuímos para aprimorar a arquitetura financeira internacional com o Novo Banco de Desenvolvimento e o Arranjo Contingente de Reservas. Progredimos em nossa colaboração em infraestrutura, em ciência e tecnologia, em saúde, em tantos outros domínios. Nós temos um patrimônio a celebrar e a cultivar.",
+                "Passados dez anos daquela crise econômica, enfrentamos, mais uma vez, momentos desafiadores. Não são os mesmos desafios, mas são desafios também coletivos, que passam por tendências ao protecionismo, ao isolacionismo, ao unilateralismo. E que, portanto, exigem, como antes, respostas coletivas. Exigem que nos mantenhamos apegados à mesma ideia, como disse, singela mas poderosa: a ideia singela de unirmos esforços.",
+                "E é o que temos feito, sob o signo do que já se tornou nossa tradição.",
+                "A força do BRICS está naquilo que nos mantém coesos. Está naqueles temas em torno dos quais podemos convergir e gerar resultados concretos.",
+                "Individual e conjuntamente, levantamos nossas vozes contra o protecionismo e em defesa de um sistema internacional de comércio baseado em regras. Reafirmamos nosso respaldo à Organização Mundial do Comércio e a seu mecanismo de solução de controvérsias. E estamos dispostos a dar nosso aporte a debates, que tenham lugar na própria OMC, sobre o futuro de uma Organização que queremos mais forte e mais atuante.",
+                "No mesmo espírito de união de esforços, estamos consolidando o Novo Banco de Desenvolvimento, talvez o símbolo maior da nossa capacidade de cooperação. O Banco já se mostrou rentável, tendo multiplicado os mais de quatro bilhões de dólares que nele investimos. Até aqui – como não será demais recapitular – a nossa instituição aprovou o financiamento de projetos que somam quase o dobro daquele capital. E essa é tendência que deve ganhar renovado ímpeto nos próximos anos, com a instalação do Escritório Regional para as Américas, em São Paulo.Sempre unindo esforços, também produzimos avanços significativos em ciência e tecnologia. Aliás devo dizer que nos entusiasma particularmente a Parceria do BRICS para a Nova Revolução Industrial, iniciativa chinesa que conta com amplo apoio nas comunidades científica e empresarial brasileiras. Penso, com igual entusiasmo, na sugestão indiana de estabelecer plataforma conjunta de pesquisa e inovação em rede – o Instituto de Redes Futuras do BRICS.",
+                "Outra iniciativa em inovação – está ligada à área de energia – que queremos ver em pleno funcionamento é a Plataforma de Cooperação em Pesquisas Energéticas do BRICS que é fruto de proposta da Rússia.",
+                "De nosso lado, propusemos a aproximação entre parques científicos e tecnológicos de nossos cinco países, tendo em vista a pesquisa de ponta. A Rede de Inovação do BRICS – a chamada “iBRICS” – poderá ter papel central, em cada uma de nossas economias, no desenvolvimento de produtos de alto valor tecnológico.",
+                "A cooperação que levamos adiante em pesquisa científica tem revertido, ainda, para o campo da saúde. Expressão importantíssima disso é a Rede de Pesquisa em Tuberculose do BRICS. A Rede promove a inovação no estudo e combate a essa grave doença – e, ao fazê-lo, permitirá reduzir os custos dos medicamentos e poupar recursos públicos no combate a um mal que atinge parcelas significativas de nossas populações.",
+                "Aliás, ainda em saúde, estamos confiantes na criação de um Centro de Pesquisa em Vacinas do BRICS, projeto sul-africano. Contem com o Brasil para darmos forma a mais essa iniciativa.",
+                "É assim que damos o sentido que deve orientar o BRICS: o sentido do desenvolvimento, sentido que continuará a inspirar-nos em 2019, sob a presidência brasileira.",
+                "Como sabem todos, estamos em processo de transição no Brasil. Convidei o Presidente eleito Jair Bolsonaro a vir comigo a Buenos Aires para a Cúpula do G20 e para este encontro do BRICS. Infelizmente, ele não pôde estar conosco hoje, como era seu desejo. Pediu-me transmitir-lhes seus cumprimentos e a mensagem de que terá grande prazer em recebê-los, no Brasil, no próximo ano, por ocasião da Cúpula do BRICS.",
+                "Por fim, peço licença para uma nota pessoal. Este encontro marca minha despedida das reuniões de nosso agrupamento. Não posso deixar de dizer uma palavra de agradecimento. Presidente Ramaphosa, Presidente Xi, Presidente Putin, Primeiro-Ministro Modi: a cada um, muito obrigado pelo convívio, pela amizade, pelo que pudemos fazer juntos. Para mim, foi um prazer e uma honra.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "No Chile, por mais abertura e integração (O Estado de S.Paulo – 21/11/2018)",
+            "subtitulo": "NA",
+            "data": "21/11/2018",
+            "horario": "11h24",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-artigos/michel-miguel-elias-temer-lulia-2016-2018/no-chile-por-mais-abertura-e-integracao-o-estado-de-s-paulo-21-11-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Michel Temer",
+                "Participo hoje em Santiago, a convite do presidente Sebastián Piñera, da cerimônia de assinatura do Acordo de Livre Comércio entre o Brasil e o Chile. É instrumento de grande significado para as relações bilaterais, para a inserção internacional do Brasil.",
+                "As relações entre o Brasil e o Chile são históricas e passam por momento de particular dinamismo. O Chile é nosso segundo maior parceiro comercial na América do Sul. O intercâmbio bilateral chegou, em 2017, a quase US$ 8,5 bilhões, incremento de 22% em relação ao ano anterior. E a tendência de alta continua em 2018, com aumento de mais de 15% nos primeiros dez meses deste ano, em comparação com o mesmo período no ano passado.",
+                "O Brasil é o principal destino dos investimentos chilenos no mundo. São mais de US$ 35 bilhões em setores como indústria, energia, tecnologia da informação. São também expressivos os investimentos de empresas brasileiras no Chile, em segmentos tão diversificados como alimentos e bebidas, serviços bancários, produtos farmacêuticos e cosméticos.",
+                "Temos trabalhado com afinco pelo estreitamento desses laços econômicos com o Chile. Quando da visita de Estado que nos fez o presidente Piñera, no último mês de abril, celebramos dois entendimentos importantes – um sobre compras governamentais, outro sobre investimentos em instituições financeiras. Mas quisemos mais. E lançamos as negociações de um acordo de livre-comércio.",
+                "Pois, passado pouco mais de seis meses, o acordo está pronto e já o estamos assinando. Foi negociação que se deu em tempo recorde. Era urgente adotar medidas que concorressem para a retomada do crescimento econômico e da geração de empregos. Por isso orientamos nossos negociadores a trabalhar com o máximo de urgência, e eles estiveram à altura.",
+                "O que obtivemos foi um acordo abrangente. Já tínhamos com o Chile um comércio livre de tarifas, fruto de acordos celebrados pelo Mercosul ainda na década de 1990. Agora teremos menos burocracia, mais segurança jurídica e padrões regulatórios mais elevados. E, com isso, teremos intercâmbio econômico ainda mais fluido.",
+                "Trata-se do mais amplo acordo bilateral sobre questões regulatórias já firmado por nosso país. Os compromissos que contempla estão afinados com as melhores práticas globais. O instrumento põe o Brasil na vanguarda das negociações comerciais.",
+                "O Acordo de Livre Comércio Brasil-Chile traz benefícios concretos para quem mora, trabalha e faz negócios nos dois países. Simplifica procedimentos para exportar e importar – inclusive ao acelerar trâmites sanitários e fitossanitários, o que é de grande relevância para o nosso agronegócio. Eleva os padrões regulatórios, garantindo bens e serviços de maior qualidade. Aprimora a segurança jurídica para investir, incentivando novos empreendimentos de lado a lado.",
+                "Protege os direitos dos consumidores em compras pela internet. Elimina a cobrança de tarifas adicionais de telefonia celular entre os dois países. Cria, enfim, melhores condições de competitividade no Brasil e no Chile, contribuindo para o progresso dos dois países, para o bem-estar de brasileiros e chilenos.",
+                "É nisto que acreditamos: na integração como caminho para a prosperidade. Quem se debruçar sobre a política externa brasileira dos últimos dois anos e meio perceberá a diferença. O Acordo de Livre Comércio com o Chile é mais um capítulo de uma diplomacia econômica que, no lugar do protecionismo, privilegia a abertura.",
+                "O caso do Mercosul é emblemático. Desde a primeira hora, minha orientação foi inequívoca: resgatar a vocação original do bloco para o livre-mercado.",
+                "Eliminamos dezenas de barreiras e firmamos acordos de investimentos e compras governamentais. Avançamos nas negociações com terceiros mercados, a começar pela região. Assinamos dois acordos comerciais com a Colômbia: um de comércio de bens, que beneficiou, sobretudo, nossas indústrias automotiva, siderúrgica e têxtil; e outro de comércio de serviços, setor de crescente importância na economia.",
+                "Os acordos com a Colômbia e o que firmamos agora com o Chile fazem parte de esforço maior de aproximação entre o Mercosul e a Aliança do Pacífico. Estive pessoalmente engajado nessa aproximação. Disso tratei na Cúpula das Américas, em Lima, em abril. E poucos meses depois tive a satisfação de comparecer à primeira reunião de cúpula dos dois blocos, em Puerto Vallarta, no México. Desse encontro emanou roteiro detalhado para a convergência entre o Mercosul e a Aliança do Pacífico em temas como facilitação de comércio e investimentos; eliminação de barreiras regulatórias; interação empresarial, com foco nas pequenas e médias empresas; cadeias de valor; mobilidade acadêmica; turismo.",
+                "Esse esforço atende a interesses concretos e imediatos do Brasil. Atende também, e antes de tudo, a mandamento constitucional. Ao estabelecer os princípios que devem guiar as relações internacionais de nosso País, nossa Constituição foi clara: o Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina.",
+                "Mas fomos para além da região. Progredimos nas negociações do Mercosul com a União Europeia. Iniciamos ou impulsionamos tratativas do bloco com o Canadá, a Coreia do Sul, o Líbano, o Marrocos, Cingapura e Tunísia, além da Associação Europeia de Livre Comércio (Efta) – composta por Suíça, Noruega, Islândia e Liechtenstein.",
+                "Sabemos que ainda há muito a ser feito, mas corrigimos o rumo, também no plano internacional. Pusemos nossa política externa a serviço dos valores da nossa sociedade, das necessidades do nosso desenvolvimento. Empenhamo-nos para traduzir diplomacia em resultados concretos para todos os brasileiros. É esse o sentido de minha diplomacia presidencial. É esse o sentido de minha visita ao Chile.",
+                "*Presidente da República"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "O Itamaraty e a política comercial brasileira (O Globo, 13/11/2018)",
+            "subtitulo": "NA",
+            "data": "13/11/2018",
+            "horario": "19h28",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h48"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/o-itamaraty-e-a-politica-comercial-brasileira-o-globo-13-11-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "A ideia de retirar do Itamaraty a condução das negociações comerciais internacionais e a defesa do Brasil em disputas nessa área aparece sazonalmente. Ela insinua ares modernizantes, mas, na verdade, abre margem ao domínio por interesses setoriais do ciclo da política comercial, desde sua formulação até a liderança em negociações multilaterais, plurilaterais ou bilaterais.",
+                "Os argumentos são, normalmente, um festival de distorções: em outros países há área separada das chancelarias para negociar, então devemos imitá-los, afinal tudo que vem de fora tem de ser melhor; diplomatas têm visão política, então é preciso assegurar prevalência de visão técnica, deslocando a condução das negociações para o colo de luminares do comércio internacional; a política comercial tem sido passiva, de modo que a solução seria mudar a máquina para assegurar novo ímpeto negociador.",
+                "Por distintas razões, em vários países a condução das negociações comerciais não se situa nas chancelarias, embora isso não seja uma unanimidade. Mas essa é uma falsa questão. A imitação de modelos forâneos não leva em conta as características de nossa história institucional e os resultados que foram obtidos ao concentrar no Itamaraty capacidade e conhecimento, que não podem ser desaproveitados sob pena de graves prejuízos ao país.",
+                "Nas disputas na OMC, foram várias vitórias. Basta lembrar os casos Bombardier, em que o Brasil foi autorizado a retaliar o Canadá em mais de US$ 247 milhões; os subsídios europeus ao açúcar e tarifas para frango, cujas vitórias resultaram em mudanças em regras a favor de produtores brasileiros; e o contencioso do algodão contra os EUA, em que obtivemos o direito de retaliar e, ao optar pela negociação, garantimos o pagamento da maior compensação financeira da história da OMC, US$ 805 milhões.",
+                "Resultados também apareceram na frente negociadora, sempre que houve vontade política. Com mandato claro da Câmara de Comércio Exterior, onde a política comercial se decide colegiadamente, nossos negociadores entregaram resultados importantes. Na OMC, o Brasil foi central para a adoção do acordo de facilitação do comércio e para proibir subsídios às exportações agrícolas. Diante do impasse na Rodada Doha, o Itamaraty não ficou choramingando, impotente. Nos últimos dois anos, sob orientação do presidente Temer, resgatamos o Mercosul da letargia, eliminando barreiras internas ao bloco e reativando uma agenda negociadora externa agressiva. Avançamos muito nas negociações com a UE e lançamos negociações com Associação Europeia de Livre Comércio, Canadá, Coreia do Sul e Cingapura, que estão progredindo bem.",
+                "O corpo negociador também foi instruído a atuar com determinação nas tratativas regionais, como demonstram o programa de aproximação com a Aliança do Pacífico e novos acordos assinados com Colômbia e Chile. Emblemática da eficiência negociadora foi a conclusão, em apenas seis meses, de um Acordo de Livre Comércio com o Chile, instrumento inovador que será assinado no dia 21 pelo presidente Temer.",
+                "Tudo isso teria sido possível sem a visão estratégica e a massa crítica que temos no Itamaraty? Muito provavelmente, não. Além da prática e do conhecimento adquiridos em anos de negociações, nossos diplomatas são treinados para enxergar o mundo não apenas da ótica de um setor, mas de uma perspectiva mais ampla, levando em conta aspectos políticos e culturais. Todos esses fatores incidem nas negociações.",
+                "Com visão de Estado, o Itamaraty reflete o interesse do conjunto da economia na abertura de mercados, como passou a ocorrer na Agência Brasileira de Promoção de Exportações e Investimentos, agora na órbita do ministério, com ganhos expressivos no aumento das exportações e na captação de investimentos.",
+                "Nossa máquina negociadora é uma das mais eficientes do mundo, mas depende de uma condução política firme, com o apoio, segundo o tema, de órgãos especializados. Nos últimos dois anos, com direção política firme, a máquina voltou a mostrar resultados. Para ganhar na corrida do comércio, não basta ter um bólido de Fórmula 1, é preciso também saber conduzir. O pior que pode nos acontecer é culpar a máquina pela imperícia do condutor.",
+                "Aloysio Nunes Ferreira é ministro das Relações Exteriores"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "A Apex no Itamaraty (Folha de S. Paulo, 07/11/2018)",
+            "subtitulo": "NA",
+            "data": "07/11/2018",
+            "horario": "11h39",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h48"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/a-apex-no-itamaraty-folha-de-s-paulo-07-11-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Vincular agência às Relações Exteriores foi acerto",
+                "Aloysio Nunes Ferreira",
+                "Estive nos últimos dias à frente da delegação brasileira na Feira de Importações de Xangai, com os ministros Marcos Jorge de Lima (Indústria, Comércio Exterior e Serviços) e Blairo Maggi (Agricultura), o embaixador Roberto Jaguaribe e representantes de aproximadamente 90 empresas brasileiras.",
+                "Pude confirmar, uma vez mais, o acerto de uma das primeiras decisões do presidente Temer na área externa: a incorporação da Agência Brasileira de Promoção de Exportações e Investimentos (Apex-Brasil) ao Ministério das Relações Exteriores.",
+                "O Brasil fez bonito em Xangai porque os técnicos da Apex e os diplomatas exerceram suas atribuições em estreita coordenação. Enquanto a agência mobilizou – com o apoio do Mdic (Ministério da Indústria, Comércio Exterior e Serviços), Mapa (Ministério da Agricultura, Pecuária e Abastecimento) e Fiesp – empresas competitivas nas áreas de alimentos e bebidas, serviços, bens de consumo e equipamentos médicos, a diplomacia viu a relação madura construída com a China refletida no usufruto pelo Brasil da condição de país homenageado na Feira.",
+                "Nossos empresários contaram com espaço diferenciado para promover seus produtos e serviços em um mercado consumidor cujo valor no próximo quinquênio é estimado em US$ 10 trilhões, para não mencionar o potencial para captação de investimento e ingresso em cadeias globais de valor.",
+                "Antes de 2016 tal coordenação não existia. Era corrente a duplicação de iniciativas e custos. Não foram poucas as vezes em que a Apex e o Itamaraty montaram estandes distintos em feiras internacionais.",
+                "A Apex chegou a estabelecer escritórios em dez países onde as embaixadas brasileiras já dispunham de setores de promoção comercial ativos e bem aparelhados.",
+                "Hoje não se bate mais cabeça. A Apex aproxima o tecido produtivo nacional do serviço de identificação de importadores e de mapeamento de oportunidades de comércio e investimentos realizado pelos 114 Secoms (Setores de Promoção Comercial) espalhados pelo mundo.",
+                "Seminários, participação em feiras, rodadas de negócios e inteligência comercial são desenvolvidos a quatro mãos, o que não teria sido possível sem que a Apex e a rede de Secoms estivessem sob a mesma instância de coordenação, que busca atender ao conjunto da economia brasileira – desde o agronegócio e a indústria até o setor de serviços, das pequenas e médias até as grandes empresas.",
+                "Os resultados falam por si sós. Em 2017, a agência coordenou com os Secoms mais de 160 ações em 41 países. Em 2018, até setembro, foram 193 iniciativas em 64 países. Nesses dois anos de trabalho conjunto, mais de 16 mil empresas receberam apoio para atuação em 227 mercados, sendo quase 5.000 exportadoras.",
+                "O valor das vendas por elas realizadas somou mais de US$ 115 bilhões. Na área de investimentos, 38 projetos foram incentivados, o que representou US$ 3,4 bilhões em aporte direto de capital.",
+                "Afirmo sem inibição que parte do mérito pela notável recuperação do comércio exterior e pelo elevado índice de investimentos estrangeiros é da Apex no Itamaraty.",
+                "Isso coincide com uma acentuada redução do custo Brasil – reconhecido há pouco em relatório do Banco Mundial – e com um empenho sem precedentes de negociação de acordos comerciais a partir de um Mercosul reconstruído.",
+                "Avançamos muito nas tratativas com a União Europeia, iniciamos negociações com o Canadá, a Coreia do Sul, Singapura e a EFTA (Associação Europeia de Livre-Comércio), e articulamos uma ambiciosa aproximação com a Aliança do Pacífico.",
+                "São espaços que se abrem para um país dotado de um arcabouço institucional bem mais racional e eficaz para a promoção de exportações, captação de investimentos e internacionalização de suas empresas.",
+                "Aloysio Nunes FerreiraMinistro das Relações Exteriores e senador licenciado (PSDB-SP)"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

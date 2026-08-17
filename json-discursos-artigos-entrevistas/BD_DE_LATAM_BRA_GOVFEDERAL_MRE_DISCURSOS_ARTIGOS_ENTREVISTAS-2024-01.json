@@ -1,0 +1,525 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Palavras do Senhor Ministro de Estado por ocasião das Exéquias do Embaixador Samuel Pinheiro Guimarães Neto",
+            "subtitulo": "Palácio Itamaraty, Brasília, 31 de janeiro de 2024",
+            "data": "31/01/2024",
+            "horario": "18h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "01/02/2024"
+            ],
+            "horario_atualizado": [
+                "11h01"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/palavras-do-senhor-ministro-de-estado-por-ocasiao-das-exequias-do-embaixador-samuel-pinheiro-guimaraes-neto",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Minha alocução será brevíssima, entre outros motivos, porque esta é uma solenidade que não esperava que me tocasse presidir – e, honestamente, preferia poder adiá-la sine die.",
+                "Minhas primeiras palavras são de agradecimento ao Senhor Presidente da República por deslocar-se ao Palácio de Itamaraty para render suas homenagens ao Embaixador Samuel Pinheiro Guimarães Neto, que nos deixou antes de ontem, aos 84 anos.",
+                "Quero também estender meus mais comovidos sentimentos à Maria, sua viúva, a seus filhos, Anne, Samuel, Heloísa e Armada, a seus demais familiares, tantos amigos, amigas e admiradores – entre os quais me incluo – que somou ao longo de sua vida, nas cinco décadas de carreira diplomática e tantas mais de militância política e intelectual.",
+                "Velamos o corpo do Embaixador Samuel Pinheiro Guimarães e honramos sua memória nesta cerimônia de exéquias não somente por razões de emoção e afeto – e todas elas são cabíveis hoje –, mas também porque esse velho amigo tem lugar reservado na história da diplomacia brasileira.",
+                "Foi ele o mais longevo Secretário-Geral das Relações Exteriores dos tempos modernos. Não será despropositado recordar que somente o Visconde de Cabo Frio, na virada do século XX, ocupou por mais tempo o cargo – que à época se chamava Diretor-Geral de Política Externa –.",
+                "Além de duradoura, a gestão do Samuel à frente da Secretaria-Geral deixou uma marca indelével na história da instituição e na memória coletiva dos nossos diplomatas.",
+                "Sob as orientações do Ministro Celso Amorim – de quem foi amigo e parceiro de toda a vida –, Samuel Pinheiro Guimarães trabalhou incomensuravelmente durante os dois primeiros mandatos do Presidente Lula para modernizar, atualizar e fortalecer o Itamaraty em seus meios, nos seus métodos de trabalho, na composição e diversidade de seus quadros e nos incentivos para as carreiras do serviço exterior brasileiro.",
+                "Suas realizações aperfeiçoaram a Casa de Rio Branco e a dotaram do maquinário necessário para assegurar que o Brasil tivesse uma política externa compatível com sua projeção, suas dimensões e com seu potencial nas relações internacionais.",
+                "Samuel sempre acreditou em um Brasil autônomo, resoluto e desassombrado, que pudesse navegar uma ordem internacional intrinsecamente injusta e hierarquizada, sem receio de lutar pela sua transformação. Ousaria dizer que o Brasil que ele projetou se viabilizou também pela força de seu empenho, seu talento e sua atuação.",
+                "O Embaixador Samuel Pinheiro Guimarães deixou memórias por onde passou, fosse nas elevadas funções em que se desempenhou no Itamaraty, como Secretário-Geral, Chefe do Departamento Econômico, Diretor do Instituto de Pesquisa em Relações Internacionais, entre tantos outras experiências; fosse na Embrafilme – novamente ao lado do Celso –; fosse como Ministro-Chefe da Secretaria de Assuntos Estratégicos da Presidência da República, no segundo mandato do Presidente Luiz Inácio Lula da Silva; fosse como Alto Representante do MERCOSUL – bloco de integração econômica sul-americana para o qual, aliás, ele contribuiu, lá atrás, para sua concepção, estruturação e fundação.",
+                "O poderoso legado do Embaixador Samuel Pinheiro Guimarães como intelectual distinguido que pensou o Brasil no mundo e como importante formulador de política externa brasileira não será esquecido pelos jovens e futuros colegas, muitos dos quais terão se beneficiado – conscientemente ou não – de sua atuação visionária e de sua fé inabalável no futuro que se reservava ao Brasil no concerto das nações.",
+                "No plano pessoal, para além da menção ao prazer da companhia de que privaram seus amigos, é preciso lembrar que Samuel foi um homem de incomensurável integridade e coerência irredutível com seus princípios, suas posições políticas e intelectuais e suas crenças.",
+                "Dono de fina sensibilidade social, tinha perfeita consciência da monta dos desafios diante do Brasil para superar suas agruras e desigualdades econômicas e sociais, inclusive do imperativo de fortalecer a sociedade civil para garantir que os menos privilegiados e setores historicamente marginalizados pudessem ampliar a sua voz e assegurar maior representação política. Aqui, o cidadão privado e o homem público se encontravam.",
+                "Hoje nos despedimos das diversas facetas do Samuel – o marido, o pai, o avô, o diplomata, o intelectual, o ativista social e o grande amigo – ao mesmo tempo em escolhemos homenagear sua memória e seu legado diante de tantos de seus seguidores e admiradores.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na Reunião Ministerial de Países Latino-Americanos membros da OMC — Santiago do Chile, 26/01/2024",
+            "subtitulo": "NA",
+            "data": "26/01/2024",
+            "horario": "12h09",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/01/2024"
+            ],
+            "horario_atualizado": [
+                "13h19"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-reuniao-ministerial-de-paises-latino-americanos-membros-da-omc-2014-santiago-do-chile-26-01-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Prezado Ministro Alberto Van Klaveren Stork,",
+                "Senhoras e senhores,",
+                "O Brasil considera esta reunião regional extremamente oportuna para enfrentar os desafios do comércio internacional e se preparar para a próxima reunião ministerial da OMC, MC13. Juntos, certamente teremos mais força para defender os nossos interesses e aspirações comuns.",
+                "A integração regional é uma prioridade do presidente Lula e a construção de uma visão regional para a OMC dialoga perfeitamente com este objetivo crucial para todos nós.",
+                "Como país em desenvolvimento, o Brasil deseja uma OMC fortalecida e modernizada, que incorpore plenamente em sua agenda a perspectiva do desenvolvimento, particularmente do desenvolvimento sustentável, em suas três dimensões: ambiental, econômica e social.",
+                "O desenvolvimento sustentável está claramente no centro de muitas das questões mais prementes que a comunidade internacional enfrenta hoje, inclusive no que diz respeito ao comércio internacional.",
+                "O nosso objetivo para a MC13 – e mais além – é ter um sistema comercial multilateral que esteja preparado para os desafios econômicos e sociais de hoje, sem negligenciar questões que têm sido discutidas há muitos anos e que têm um amplo impacto econômico e social nos nossos países, como a agricultura.",
+                "Aliás, é uma alegria e uma grande conquista para a região que a nossa coordenação na agricultura esteja cada vez mais forte. Acredito que a América Latina esteja avançando rapidamente para ocupar um papel especial não só na dinâmica da OMC na agricultura, mas também como uma região chave para garantir a segurança alimentar em nível global.",
+                "Na OMC, frequentemente ocorrem tentativas de relegar a agricultura a um segundo plano. A nossa região tem de se unir e demonstrar que nessa questão existem convergências possíveis e que devem ser produzidos resultados concretos imediatos.",
+                "Senhoras e senhores,",
+                "A discussão sobre a distribuição uniforme dos benefícios do comércio entre a população é outra questão da dimensão social do desenvolvimento em que a nossa região pode se destacar.",
+                "A grande maioria dos membros do Acordo Global sobre Comércio e Gênero, por exemplo, são países latino-americanos. O Brasil anunciou recentemente sua decisão de aderir a este acordo.",
+                "Esta é uma decisão centrada no fortalecimento da participação feminina nos fluxos comerciais e de investimento e na promoção do seu empoderamento econômico. Acredito que podemos ter progressos concretos na MC13 nessa área.",
+                "Ainda não podemos esquecer a questão do preocupante aumento do protecionismo em todo o mundo. A utilização de questões ambientais como cobertura para medidas protecionistas é um dos motores desta tendência.",
+                "A sustentabilidade ambiental é uma prioridade máxima, mas não pode ser utilizada como justificativa para o protecionismo.",
+                "Um acordo abrangente sobre subsídios à pesca, com tratamento especial e diferenciado eficaz, é uma forma de a OMC demonstrar que o comércio e o meio-ambiente podem e devem andar de mãos dadas.",
+                "Por outro lado, as medidas unilaterais corroem os pilares fundamentais dos acordos ambientais e ameaçam a própria viabilidade do sistema comercial multilateral. Estas medidas desequilibram as concessões multilaterais duramente negociadas na OMC há muito tempo e afetam principalmente as exportações dos países em desenvolvimento.",
+                "O Brasil acredita que o comércio, a política industrial e a política climática podem apoiar-se mutuamente e constituir um fator-chave para alcançar altos níveis de bem-estar social, promover uma transformação verde em nossas economias e alcançar o desenvolvimento sustentável.",
+                "É essencial que os países em desenvolvimento se juntem efetivamente à revolução tecnológica e produtiva necessária para garantir a sustentabilidade do nosso planeta – e dessa vez não apenas como exportadores de matérias-primas. A OMC pode e deve contribuir para alcançar este resultado.",
+                "O Brasil também considera prioritário continuar avançando no cumprimento do mandato de restabelecer o sistema de solução de controvérsias.",
+                "A paralisia do Órgão de Apelação e o enfraquecimento do sistema de solução de controvérsias não são do interesse dos países em desenvolvimento.",
+                "Com uma ação coordenada, a nossa região dará uma contribuição muito importante não só para o sucesso da MC13, mas também para a revitalização da própria OMC. O Brasil continua pronto para se juntar a toda a região na realização desse objetivo essencial para o nosso povo.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Declaração à imprensa pelo Ministro Mauro Vieira sobre a I Reunião da Comissão Conjunta de Chanceleres e Técnicos da Guiana e da Venezuela",
+            "subtitulo": "Brasília, 25/01/2024",
+            "data": "25/01/2024",
+            "horario": "16h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "25/01/2024"
+            ],
+            "horario_atualizado": [
+                "18h47"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/declaracao-a-imprensa-pelo-ministro-mauro-vieira-sobre-a-i-reuniao-da-comissao-conjunta-de-chanceleres-e-tecnicos-da-guiana-e-da-venezuela",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Realizamos no dia de hoje, aqui no Palácio Itamaraty, a I Reunião da Comissão Conjunta de Chanceleres e Técnicos da República Cooperativa da Guiana e da República Bolivariana da Venezuela. A Comissão Conjunta de Chanceleres foi criada pela Declaração de Argyle para o Diálogo e a Paz entre Guiana e Venezuela, adotada em 14 de dezembro passado em São Vicente e Granadinas. Tem, como objetivo, tratar de questões mutuamente acordadas.",
+                "As delegações foram chefiadas pelo Ministro dos Negócios Estrangeiros da Guiana, Hugh Todd, e pelo Ministro das Relações Exteriores da Venezuela, Yván Gil. A pedido das partes, acompanhei os trabalhos como interlocutor e facilitar principal, ao lado do Embaixador Gareth Bynoe, de São Vicente e Granadinas, país em exercício da Presidência da Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC). Também assistiu ao encontro o Secretário-Geral Adjunto para Assuntos Políticos das Nações Unidas, senhor Miroslav Jenca, representante do Secretário-Geral das Nações Unidas, na condição de observador.",
+                "Nas conversas de hoje, Venezuela e Guiana expressaram seu entendimento acerca do compromisso assumido na “Declaração de Argyle para o Diálogo e a Paz”, em particular do mandato conferido à Comissão Conjunta.",
+                "Guiana e Venezuela apresentaram suas propostas de agenda para o trabalho da Comissão Conjunta que ficarão para posterior análise em uma nova reunião a ser realizada também no Brasil. Comprometeram-se, reconhecidas as diferenças de lado a lado, a seguir dialogando com base nos parâmetros estabelecidos pela Declaração de Argyle.",
+                "Agradeço a participação dos chanceleres da Venezuela e da Guiana nas conversas de hoje, assim como a presença dos atores regionais, como São Vicente e Granadinas, em representação da CELAC, assim como a ONU, que observou e participou dos trabalhos.",
+                "Reafirmo que nossa região tem a vontade política e todos os instrumentos necessários para avançar em seu projeto comum de desenvolvimento social justo, em um ambiente pacífico e solidário.",
+                "Ao nos depararmos com as guerras que conflagram diferentes partes do mundo, aprendemos a valorizar ainda mais a nossa cultura latino-americana e caribenha de solução pacífica de controvérsias, base da comunidade de interesses que nos une, em um ambiente livre de tensões geopolíticas de origem extrarregional.",
+                "Desejo, portanto, que nossos irmãos da Venezuela e da Guiana continuem a construir a confiança necessária para pensarem num horizonte comum, em que os laços que correspondem a bons vizinhos venham a contribuir para o bem-estar de ambos os povos.",
+                "Convido as comunidades regional e internacional a seguir apoiando este processo de diálogo no marco da Declaração de Argyle."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na III Cúpula do Sul do G-77 + China",
+            "subtitulo": "NA",
+            "data": "21/01/2024",
+            "horario": "15h03",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/01/2024"
+            ],
+            "horario_atualizado": [
+                "12h29"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-iii-cupula-do-sul-do-g-77-china",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Senhor Presidente, Ministro Abubaker Odongo, Ministro das Relações Exteriores de Uganda,",
+                "Senhores Chefes de Estado e de Governo e Ministros,",
+                "Tenho a honra de participar da Terceira Cúpula do Sul, celebrando o 60º aniversário da fundação do Grupo dos 77.",
+                "Como um dos fundadores do Grupo, o Brasil está convencido de que a realização desta cúpula oferece uma oportunidade para transmitir à comunidade internacional nosso compromisso claro e sólido com o multilateralismo, tão necessário nos dias atuais.",
+                "Agora que Cuba conclui sua bem-sucedida presidência do G77, o Brasil gostaria de elogiar sua liderança e o excelente trabalho realizado durante esse mandato. Estendemos calorosas boas-vindas a Uganda como a nova presidente do Grupo.",
+                "Senhor Presidente,",
+                "As atuais instituições multilaterais, em grande parte criadas há mais de 75 anos, refletem um sistema internacional e uma ordem mundial que não mais existem. Essas instituições não são mais capazes de lidar com os desafios multidimensionais que o mundo enfrenta atualmente. Precisamos de uma reforma urgente do sistema internacional para torná-las mais representativas, legítimas e eficazes.",
+                "A necessidade de reformar o Conselho de Segurança é mais urgente do que nunca. As crises mais frequentes, mais complexas e mais mortais que enfrentamos hoje são em parte consequência da mentalidade ainda predominante, ainda que obsoleta, de alguns poderes que insistem em dividir o mundo em zonas de influência e levam o Conselho de Segurança a um impasse. Portanto, o Brasil está firmemente comprometido com uma reforma abrangente, incluindo a expansão tanto dos membros permanentes quanto dos não permanentes. Precisamos encontrar maneiras de desbloquear a ação multilateral. É essencial que o G77 se una em busca de tal reforma.",
+                "Também reconhecemos a necessidade urgente de aumentar a participação dos países em desenvolvimento nas estruturas de tomada de decisão e governança das Instituições Financeiras Internacionais. É essencial reduzir a burocracia e as condicionalidades, aumentar o financiamento concessional, promover a verdadeira apropriação nacional e proporcionar espaço político para os países em desenvolvimento. No meio do caminho da Agenda 2030, é necessário garantir os meios adequados de implementação para nossos objetivos de desenvolvimento compartilhados, incluindo a plena concretização da Agenda de Ação de Adis Abeba.",
+                "É crucial que os países desenvolvidos cumpram seus compromissos de financiamento para o desenvolvimento, como alocar 0,7% de seus Produtos Internos Brutos para Assistência Oficial ao Desenvolvimento (ODA) e atingir a meta inicial anual de US$ 100 bilhões em financiamento climático. Não posso enfatizar o suficiente que os países desenvolvidos têm a responsabilidade primária pelo financiamento para o desenvolvimento, inclusive por meio da cooperação internacional.",
+                "Devemos reafirmar a importância de todos os princípios da Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento, realizada no Rio de Janeiro, em 1992, em particular o princípio de responsabilidades comuns, porém diferenciadas. Devemos também reiterar nosso compromisso com a plena implementação da Agenda 2030 para o Desenvolvimento Sustentável, da Agenda de Ação de Adis Abeba, do Acordo de Paris adotado sob a Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC) e de todos os outros documentos pertinentes. Nesse contexto, permita-me assegurar que o Brasil está totalmente comprometido com o sucesso da COP 30 da UNFCCC, que será sediada em Belém do Pará, porta de entrada para a vasta Floresta Amazônica e símbolo de nosso compromisso com o desenvolvimento sustentável.",
+                "O combate às mudanças climáticas é de extrema importância. Precisamos manter uma abordagem equilibrada no que tange ao desenvolvimento sustentável. A industrialização, a diversificação econômica e a produção de bens de maior valor agregado são cruciais para o desenvolvimento. Devemos continuar lutando por maior acesso aos mercados internacionais para nossos produtos e serviços e combater a atual onda de crescente protecionismo. Por fim, devemos encerrar medidas coercitivas unilaterais e sanções ilegais e injustas, que aprisionam e punem muitos países em desenvolvimento, impedindo-os de colher os benefícios do comércio internacional e dos investimentos.",
+                "Cuba tem sido vítima de um embargo comercial e financeiro ilegal por mais de 60 anos. O embargo deve ser encerrado, e Cuba deve ser retirada da lista de patrocinadores estatais do terrorismo. É sabido que Cuba fez contribuições significativas para a paz, o diálogo e a estabilidade em nossa região e além. Portanto, é inaceitável que o povo cubano continue sofrendo os efeitos de sanções unilaterais.",
+                "Durante a presidência do Brasil no G20, colocaremos as preocupações, interesses e necessidades dos países em desenvolvimento no centro de nossa agenda. Conforme definido pelo Presidente Lula, a presidência brasileira do G20 estabeleceu três prioridades que sintetizam nossa ambição de \"construir um mundo justo e um planeta sustentável\", a saber:",
+                "1.            promover a inclusão social e combater a pobreza e a fome;",
+                "2.            promover a transição energética e o desenvolvimento sustentável em seus três pilares - econômico, social e ambiental; e",
+                "3.            avançar na reforma das instituições de governança global.",
+                "Vamos redobrar nossos esforços na luta contra a fome. Para isso, o Presidente Lula propôs a criação de uma Força-Tarefa para o estabelecimento de uma Aliança Global Contra a Fome e a Pobreza. Segundo o Presidente, acabar com a fome é um \"desafio civilizacional para o planeta inteiro\", um desafio que podemos superar, mas apenas com vontade política e o reforço do multilateralismo.",
+                "O G20 reúne uma parcela substancial do PIB e da população mundial. A inclusão da União Africana, nesse sentido, contribui significativamente para o bloco.",
+                "Por fim, o Brasil deseja uma OMC fortalecida e modernizada, que incorpore totalmente o desenvolvimento e os Objetivos de Desenvolvimento Sustentável (ODS) em sua agenda. Uma OMC reformada não deve negligenciar promessas nunca cumpridas, como a reforma agrícola, essencial para a segurança alimentar. Também é de extrema importância alcançar um acordo que permita o funcionamento adequado do sistema de solução de controvérsias da Organização. Sem esse ramo crucial, a OMC não pode gerar os resultados que todos esperamos.",
+                "Senhor Presidente,",
+                "O Brasil lamenta profundamente a continuação da guerra em Gaza e a piora sistemática da situação no Oriente Médio. O aumento do número de vítimas civis é especialmente preocupante e em desacordo com qualquer noção de proporcionalidade.",
+                "Ao reafirmarmos nossa rejeição e condenação inequívocas dos ataques terroristas perpetrados pelo Hamas em 7 de outubro de 2023, fazemos um apelo a Israel para que adira incondicionalmente ao Direito Internacional e ao Direito Internacional Humanitário em suas ações militares, especialmente no que tange à proteção de civis. É urgente alcançar um cessar-fogo duradouro e garantir o fornecimento contínuo de ajuda humanitária essencial a Gaza por meio de todos os canais viáveis.",
+                "Continuamos a reafirmar nosso compromisso resoluto com uma solução de dois estados, com um Estado da Palestina viável convivendo lado a lado com Israel, em paz e segurança, dentro de fronteiras mutuamente acordadas e internacionalmente reconhecidas.",
+                "Instamos também todas as partes envolvidas a evitar o transbordamento do conflito para outros países da região, o que teria consequências imprevisíveis tanto em nível regional quanto global.",
+                "Senhor Presidente,",
+                "Ao concluir meu discurso, permita-me reiterar que a cooperação Sul-Sul não é um substituto, mas um complemento à cooperação Norte-Sul.",
+                "A agenda da cooperação Sul-Sul deve ser determinada pelos países do Sul, orientada por princípios como respeito à soberania nacional, apropriação nacional, independência, igualdade, não condicionalidade, não interferência em assuntos internos e benefício mútuo.",
+                "Nesse sentido, o Brasil renova seu compromisso com os princípios delineados na Carta de Argel de 1964, especialmente os de unidade, complementaridade, cooperação e solidariedade entre os países em desenvolvimento.",
+                "Fique certo de que o Brasil permanecerá comprometido em intensificar nossos esforços pelo bem-estar e prosperidade dos países e povos do Sul.",
+                "Obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Transcrição do pronunciamento do presidente Lula durante visita do presidente do Paraguai, Santiago Peña",
+            "subtitulo": "Transcrição do pronunciamento do presidente Luiz Inácio Lula da Silva durante visita do presidente do Paraguai, Santiago Peña, a Brasília, em 15 de janeiro de 2024",
+            "data": "15/01/2024",
+            "horario": "17h49",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/transcricao-do-pronunciamento-do-presidente-lula-durante-visita-do-presidente-do-paraguai-santiago-pena",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Hoje é um dia especial para o Brasil e especial para o Paraguai.",
+                "Eu embora já tenha estado com o presidente Santiago Peña algumas vezes, essa é a primeira visita oficial que ele faz ao Brasil para discutir assuntos de interesse do Paraguai no Brasil. É um ano primoroso tanto para o Paraguai quanto para o Brasil, porque finalmente terminamos de pagar a dívida que nós tínhamos para construir Itaipu, feita há 50 anos.",
+                "E agora, nós temos condições de utilizar os recursos advindos de Itaipu para melhorar a qualidade de vida do povo do Paraguai, do povo do Brasil e, ao mesmo tempo, de tentar estabelecer possibilidades de novos investimentos com o dinheiro arrecadado da venda de energia.",
+                "Mas não é só isso. Nós temos que fazer uma discussão profunda sobre o Anexo C. Quando foi feita a Itaipu, quando foi feito o tratado, se estabeleceu que ao vencer o acordo, 50 anos depois, nós iríamos fazer uma revisão do Anexo C. E eu tenho muito interesse de que isso seja feito o mais rápido possível e que a gente possa trabalhar para apresentar, tanto ao Paraguai quanto ao Brasil, uma solução definitiva de novas relações entre Paraguai e Brasil na gestão da nossa importante empresa Itaipu.",
+                "Nós discutimos também outras questões do Paraguai que é muito importante. Não só a ponte que ainda falta concluir coisas da parte do Brasil, porque a empresa que tinha ganho não teve condições e teve que parar as obras, e agora recomeçou. Eu quero e convidei o companheiro Santiago Peña para que a gente possa fazer conjuntamente uma visita em Porto Murtinho, para que a gente possa visitar a chamada Ponte da Integração, que vai levar o Brasil e Paraguai a poder chegar em outro continente.",
+                "Também disse ao companheiro Peña que nós vamos rediscutir a questão das tarifas de Itaipu. Nós temos divergência na tarifa, mas nós estamos dispostos a encontrar uma solução conjuntamente e, nos próximos dias, nós vamos voltar a fazer uma reunião. Agora, eu disse ao presidente Santiago Peña que não é ele que tem que vir ao Brasil, agora é o Brasil que tem que ir a Assunção, para que a gente possa continuar as tratativas para encontrar uma solução definitiva.",
+                "Todos vocês da imprensa brasileira e da imprensa paraguaia sabem das boas relações que eu tive com o Paraguai nos meus primeiros mandatos, tanto na reunião com o presidente Nicanor (Nicanor Duarte Frutos) quanto com o presidente Lugo (Fernando Lugo). Todo mundo sabe que houve avanço nas nossas reuniões. Eu nunca aceitei a ideia de tratar o Paraguai como um país pequeno, como um país menor. Um país não é medido pelo tamanho da sua população, mas pela qualidade do seu povo e pela qualidade dos dirigentes daquele país.",
+                "Eu acho que o Paraguai teve a felicidade de eleger um jovem com muita competência, uma pessoa que eu, em pouco tempo, aprendi a admirar. Acho que nós poderemos terminar os nossos mandatos tendo construído a melhor relação que o Brasil já teve com o Paraguai e do Paraguai com o Brasil. Uma relação de respeito, uma relação em que o Paraguai tenha a mesma oportunidade de crescer do que qualquer outro país. E que o Brasil, não se trata de ser generoso, o Brasil tem obrigação de contribuir para que o Paraguai possa utilizar todo o potencial da energia produzida em Itaipu para o crescimento do Paraguai.",
+                "Quando nós resolvemos fazer aquela linha de transmissão até Assunção, na época do presidente Lugo, era porque era inexplicável para mim, como presidente do Brasil, aceitar todo dia faltando energia em Assunção e o Paraguai, com 6 mil megawatts à disposição de vender para o Brasil.",
+                "Então, eu quero que vocês saibam que o presidente Santiago Peña leva daqui a certeza de que a gente vai construir a relação mais harmoniosa, mais profissional e mais política que já aconteceu entre os dois países.",
+                "Eu espero que, na próxima reunião, a gente possa dizer o que aconteceu de fato e o acordo que fizemos.",
+                "Obrigado pela sua visita. Obrigado aos seus ministros e espero poder encontrá-lo em Assunção.",
+                "E toda vez que eu vou à Assunção tem que ter alguém para tocar uma harpa, porque eu sou fascinado em harpa."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "O Brasil frustrou uma tentativa de golpe. O que aprendemos (The Washington Post  - 08/01/2024)",
+            "subtitulo": "Artigo do presidente da República, Luiz Inácio Lula da Silva, publicado no jornal Washington Post (EUA) no dia 8 de janeiro de 2024",
+            "data": "08/01/2024",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h29"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-artigos/luiz-inacio-lula-da-silva-2023-2026/o-brasil-frustrou-uma-tentativa-de-golpe-o-que-aprendemos-the-washington-post-08-01-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "BRASÍLIA – Hoje, dia 8 de janeiro, marca um ano que a resiliência da democracia brasileira foi severamente testada. Uma semana depois da posse de um novo governo, grupos extremistas invadiram as sedes dos três Poderes da República. Impulsionados por mentiras e desinformação, quebraram janelas, destruíram objetos históricos e obras de arte, enquanto transmitiam seus atos pela internet.",
+                "Exibiam desprezo pela democracia similar ao dos invasores do Capitólio nos Estados Unidos, em 6 de janeiro de 2021.",
+                "Felizmente, a tentativa de golpe fracassou. A sociedade brasileira rechaçou as invasões e, durante o último ano, o Congresso Nacional, o Supremo Tribunal Federal e o Poder Executivo dedicaram esforços para esclarecer os fatos e responsabilizar os invasores.",
+                "Essa tentativa de golpe foi a culminação de um longo processo promovido por líderes políticos extremistas para gerar descrédito na democracia para benefício próprio. O sistema eleitoral brasileiro, reconhecido internacionalmente pela sua integridade, foi posto em dúvida por quem se elegeu por esse mesmo sistema. No Brasil, reclamavam da urna eletrônica como nos Estados Unidos reclamavam do voto pelo correio, sem nenhuma evidência. O objetivo dessas ilações falsas era desqualificar a democracia, para sua perpetuação no poder de forma autocrática.",
+                "Mas a democracia brasileira prevaleceu e saiu mais forte.",
+                "Neste meu retorno à Presidência depois de 12 anos, a união do país e a reconstrução de políticas públicas bem-sucedidas têm sido os objetivos do meu governo.",
+                "Melhorar a vida das pessoas é a melhor resposta contra os extremistas que atacaram a democracia.",
+                "O desmatamento da Amazônia, que crescia no governo anterior, retrocedeu mais de 50% em 2023. Retomamos políticas de combate à pobreza como o Bolsa Família, que garante renda para as mães que mantém seus filhos na escola e vacinados. Nossa economia cresceu 3 vezes mais em 2023 do que o previsto pelo FMI e se tornou o segundo maior destino de Investimento Externo Direto no mundo, segundo dados da OCDE.",
+                "O Brasil, com seus compromissos democráticos, voltou ao cenário internacional sem a negação das mudanças climáticas e o desprezo pela ciência do governo anterior, que custou a vida de centenas de milhares de brasileiros na pandemia Covid-19.",
+                "O mundo vive hoje um momento contraditório. Os desafios globais exigem comprometimento e cooperação entre as nações. Nunca estivemos tão integrados e conectados. Ao mesmo tempo, temos cada vez mais dificuldades de dialogar, de respeitar as diferenças e conduzir ações conjuntas.",
+                "As sociedades estão tomadas pelo individualismo e as nações se distanciam umas das outras dificultando a promoção da paz e o enfrentamento de problemas complexos: crise climática; insegurança alimentar e energética; tensões geopolíticas e guerras; crescimento do discurso de ódio e xenofobia.",
+                "Estes são problemas alimentados pela desigualdade em escala global – entre as nações e dentro de cada uma delas.",
+                "Nas últimas décadas, um modelo de desenvolvimento econômico excludente tem concentrado renda, fomentado frustrações, reduzido direitos dos trabalhadores e alimentado a desconfiança em relação às instituições públicas.",
+                "A desigualdade serve como terreno fértil para a proliferação do extremismo e a intensificação da polarização política. Quando a democracia falha em proporcionar bem-estar às pessoas, extremistas promovem a negação da política e a descrença nas instituições.",
+                "A erosão da democracia é exacerbada pelo fato de as principais fontes de informação e interação das pessoas serem hoje mediadas por aplicativos digitais que foram desenvolvidas para obter lucro, não convivência democrática. O modelo de negócio das Big Tech, que prioriza o engajamento e a captura de atenção, promove conteúdo inflamatório e fortalece discursos extremistas, favorecendo forças antidemocráticas que atuam em redes internacionalmente coordenadas.",
+                "É ainda mais preocupante que novas aplicações de inteligência artificial, além de agravar o cenário de desinformação, possam promover discriminação, gerar desemprego e afetar direitos.",
+                "Essas questões tecnológicas, sociais e políticas estão integradas. Fortalecer a democracia depende da capacidade dos Estados de enfrentar desigualdades estruturais e promover o bem-estar da população, mas também de avançar no enfrentamento aos fatores que alimentam o extremismo violento.",
+                "Outros 6 ou 8 de janeiro só serão evitados se transformando a realidade de desigualdade e de precarização do trabalho. Essa preocupação motivou a parceria de promoção do trabalho decente que lancei com o Presidente Biden em setembro último, com apoio da Organização Internacional do Trabalho.",
+                "Também precisamos de ações globais pela promoção da integridade da informação e pelo desenvolvimento e uso inclusivo e humanista da inteligência artificial. Há, neste momento, esforços promovidos pela Organização das Nações Unidas, UNESCO e outros organismos internacionais para enfrentar esses problemas.",
+                "O Brasil assumiu a presidência do G20 em dezembro passado, e colocamos a luta contra as desigualdades em todas as suas dimensões no centro da nossa agenda sob o lema “Construindo um Mundo Justo e um Planeta Sustentável”. Espero que os líderes políticos possam se reunir no Brasil ao longo deste ano, buscando soluções coletivas para esses desafios que afetam toda a humanidade."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "Brasil, Gaza e o julgamento na corte internacional (Folha de S. Paulo, 20/01/2024)",
+            "subtitulo": "NA",
+            "data": "22/01/2024",
+            "horario": "10h28",
+            "datatime": "NA",
+            "data_atualizado": [
+                "22/01/2024"
+            ],
+            "horario_atualizado": [
+                "10h34"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/mauro-vieira-2023/brasil-gaza-e-o-julgamento-na-corte-internacional-folha-de-s-paulo-20-01-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Venho acompanhando com vivo interesse o debate que se estabeleceu em torno do anúncio do apoio político do país, pelo presidente Lula, à iniciativa da África do Sul de acionar a Corte Internacional de Justiça (CIJ) para proteger a população palestina, ao amparo da Convenção para a Repressão e Punição do Crime de Genocídio. Como o Brasil, pelo menos 65 países expressaram apoio político à petição sul-africana, tendo 2 deles, Jordânia e Bangladesh, formalizado intenção de intervir, como terceira parte, no caso.",
+                "O apoio político não prejulga qualquer decisão do mérito quanto à determinação de eventuais violações da convenção. Compete aos 15 juízes da corte deliberar de forma independente sobre a matéria, inclusive no que diz respeito à obrigação, da qual nenhum Estado pode eximir-se, de prevenir e de punir o crime de genocídio.",
+                "E por que o apoio do Brasil à ação sul-africana na corte?",
+                "Organizações internacionais, peritos independentes e agências humanitárias competentes têm ressaltado, com veemência inédita, a possibilidade de graves violações ao direito internacional em Gaza, inclusive à Convenção de Genocídio. De fato, há alarmante número de vítimas civis em reduzido intervalo de tempo.",
+                "São mais de 24 mil mortos, dos quais 70% mulheres e crianças, em pouco mais de cem dias de operações militares. Há ainda graves relatos de cerceamento de acesso a serviços básicos e obstáculos à prestação de assistência humanitária, em cenário de ampla destruição da infraestrutura civil de Gaza.",
+                "Diante da grave situação no terreno, que inclui alarmantes cifras de 142 funcionários de agência humanitária das Nações Unidas e cerca de 100 jornalistas entre os mortos, parece-nos fundamental que o principal órgão judiciário da ONU se manifeste.",
+                "É importante sublinhar, ademais, que as medidas cautelares solicitadas pela África do Sul para afastar o risco de genocídio, ao requererem \"a suspensão imediata das operações militares dentro e contra Gaza\", poderiam fomentar necessário alívio humanitário e desejável ambiente de diálogo político que permita a retomada de negociações para a solução de dois Estados, convivendo lado a lado, em paz e segurança, dentro de fronteiras mutuamente acordadas e internacionalmente reconhecidas.",
+                "O Brasil reitera que Israel tem o direito de defender e de proteger seus cidadãos, e, nesse sentido, de atuar, nos parâmetros do direito internacional para prevenir e punir atos terroristas. De forma consistente e coerente com sua política externa, o Brasil condenou, de modo imediato e incisivo, os ataques terroristas do Hamas em 7 de outubro. O Brasil também confere absoluta prioridade à urgência da cessação de hostilidades em Gaza, como demonstrou em sua atuação no Conselho de Segurança da ONU.",
+                "Tentar caracterizar a ação movida pela África do Sul como manifestação de antissemitismo é forma desafortunada de tentar mudar de assunto. No limite, é também forma desafortunada de questionar a legitimidade de importante democracia multirracial do Sul Global, marcada por emblemática história de luta contra a discriminação racial, de acionar a CIJ para resguardar os direitos mais fundamentais da humanidade.",
+                "A crítica de que a posição brasileira afetaria suas credenciais como suposto mediador nesta e em outras questões globais parte de pressuposto equivocado de que o Brasil é candidato a ser uma espécie de mediador universal. Essa pretensão não existe e não é realista. Mediadores são escolhidos pontualmente pelas partes em conflito.",
+                "Para além de coerência e consistência em sua política externa, o prestígio e o reconhecimento do Brasil perante a comunidade internacional pressupõem coragem e altivez para se posicionar a respeito de indícios de graves violações dos direitos fundamentais de um povo."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

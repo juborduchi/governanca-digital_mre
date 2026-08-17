@@ -1,0 +1,67 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Declaração do Presidente Jair Bolsonaro à imprensa, em visita oficial ao Suriname - Paramaribo/Suriname, 20 de janeiro de 2022",
+            "subtitulo": "NA",
+            "data": "20/01/2022",
+            "horario": "17h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "15h47"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/declaracao-do-presidente-jair-bolsonaro-a-imprensa-em-visita-oficial-ao-suriname-paramaribo-suriname-20-de-janeiro-de-2022",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "É uma satisfação muito grande estar no Suriname, um país irmão e amigo.",
+                "Trouxemos uma equipe de ministros que buscam atender as justas reivindicações de nossos países. Temos a oferecer ao país a nossa expertise na prospecção de petróleo e, para isso, trouxemos o nosso ministro das Minas e Energia. Eu cumprimento e agradeço o que conversamos há pouco, na possível prioridade, para que o país, através da Petrobrás, venha aqui colaborar na prospecção de petróleo e gás.",
+                "Também trouxemos o nosso ministro Tarcísio, da Infraestrutura,  para tratarmos de assuntos referentes às ligações físicas de nossos países. O nosso almirante Rocha, falando pela Defesa, em especial pelas questões da segurança no mar.",
+                "O nosso ministro Anderson, da Justiça, para tratar das questões de crimes transnacionais e também o nosso chanceler, Carlos França, que coordena esse nosso trabalho.",
+                "Temos muito o que oferecer um ao outro, bem como cooperar. Esse é o nosso sentimento, esse é o motivo da minha vinda aqui. Na qual, inclusive, eu agradeço o honroso convite por parte do nosso presidente do Suriname.",
+                "Muito obrigado pela oportunidade. Os nossos povos, os nossos países, têm muito a ganhar."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

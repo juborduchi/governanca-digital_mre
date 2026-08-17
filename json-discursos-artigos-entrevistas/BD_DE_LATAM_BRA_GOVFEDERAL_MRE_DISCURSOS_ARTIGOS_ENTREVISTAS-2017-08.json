@@ -1,0 +1,521 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante almoço oferecido ao presidente do Paraguai, Horacio Cartes - Palácio do Itamaraty, 21 de agosto de 2017",
+            "subtitulo": "NA",
+            "data": "09/08/2017",
+            "horario": "16h47",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h01"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-almoco-oferecido-ao-presidente-do-paraguai-horacio-cartes-palacio-itamaraty-21-de-agosto-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Excelentíssimo senhor Horacio Cartes, presidente da República do Paraguai.",
+                "Senhoras e senhores ministros de Estado e integrantes das delegações do Paraguai e do Brasil.",
+                "Senhoras e senhores membros do corpo diplomático.",
+                "Senhoras e senhores parlamentares federais.",
+                "Senhoras e senhores.",
+                "Nós recebemos o Presidente Horacio Cartes e sua delegação com alegria, com alegria e com muito otimismo quanto ao futuro das relações entre o Brasil e o Paraguai.",
+                "E nós vivemos neste momento instantes de extraordinária convergência de prioridades. O Presidente Cartes e eu temos adotado medidas para modernizar nossas economias, para criar mais oportunidades para brasileiros e paraguaios.",
+                "Somos, como tenho reiteradamente dito, povos irmãos que escolheram o caminho da integração –  integração econômica, integração energética, integração física, integração social. São milhares os brasileiros e paraguaios que fizeram do país vizinho o seu lar. Nossa fronteira, portanto, é viva e o nosso destino é comum.",
+                "Aliás, presidente, sabe que na nossa Constituição existe um dispositivo especial que determina que toda e qualquer política pública no País, se volte para a integração latino-americana de nações. Portanto, quando fazemos isto, em primeiro lugar, fazemos pelo apreço que temos na relação Brasil-[Paraguai], mas também o fazemos como fruto de uma determinação constitucional, que as pessoas aqui muitas vezes não dão atenção a institucionalidade.",
+                "Nós damos muita atenção a esta institucionalidade por isso que eu tomo a liberdade de dar este argumento ao lado do natural integração que temos entre o Brasil e o Paraguai.",
+                "E nesse sentido Brasil e Paraguai, juntos, já fizeram muita coisa. A hidroelétrica de Itaipu é modelo mundial de eficiência e responsabilidade social. Foi inaugurada há mais de três décadas e atingiu, em 2016, um recorde de produção de energia.",
+                "Também há muitas décadas, agricultores de origem brasileira contribuem para o desenvolvimento do Paraguai. Hoje, dezenas de empresas brasileiras encontram, no país vizinho, um ambiente de negócios extremamente favorável para seus investimentos – investimentos que impulsionam nossas trocas comerciais, investimentos que conduzem a uma prosperidade compartilhada.",
+                "O aumento do comércio bilateral em 2017 não é fruto do acaso. É o resultado de correções de rumo, da dinamização de nossas economias.",
+                "Num mundo, senhor presidente, marcado por tendências isolacionistas, nossa resposta é cada vez mais integração. Estamos recuperando, aliás, desde da presidência do presidente Macri, o espírito original do Mercosul, voltado para a liberalização do comércio. E estamos, também é Mercosul, como tivemos a oportunidade de dialogar, nos abrindo mais para o mundo. Entramos, agora, em etapa decisiva das negociações com a União Europeia. E tal como conversamos, queremos também promover uma aliança do Mercosul com a Aliança para o Pacífico, com os países da Ásia, enfim, com todos, enfim, abrindo o Mercosul para este relacionamento de natureza internacional.",
+                "E nisso, nós não tenhamos dúvidas quando nós pensamos em promover os interesses concretos de brasileiros e paraguaios, nós temos uma preocupação comum da segurança pública. Que é uma prioridade que nos ocupa diuturnamente.  E tem sido nesse sentido, senhor presidente, cada vez mais densa  e mais bem-sucedida a nossa cooperação no combate ao crime organizado.",
+                "Portanto, meu caro Presidente Cartes, eu reitero que é uma satisfação muito especial neste momento não só recebê-lo, mas também galardeá-lo, nessa ocasião, com a mais alta honraria concedida pelo Estado brasileiro a um estrangeiro, que é o Grande Colar da Ordem Nacional do Cruzeiro do Sul.",
+                "Eu quero reiterar a prioridade atribuída pelo Brasil às relações com o Paraguai.",
+                "Proponho, portanto, um brinde. Um brinde pela saúde e felicidade de Vossa Excelência e de sua delegação e pelos laços de fraternidade que unem brasileiros e paraguaios."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante a Solenidade de Abertura da XXXVI edição do Encontro Nacional de Comércio Exterior - ENAEX 2017 – Rio de Janeiro, 9 de agosto de 2017",
+            "subtitulo": "NA",
+            "data": "09/08/2017",
+            "horario": "16h47",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h01"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-a-solenidade-de-abertura-da-xxxvi-edicao-do-encontro-nacional-de-comercio-exterior-enaex-2017-rio-de-janeiro-9-de-agosto-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Eu quero cumprimentar a todos e tomarei a liberdade de, governador e prefeito, eu vou tomar a liberdade de, em nome de ambos, eu cumprimentar a todos. Porque são tantas as autoridades, governador Dornelles, prefeito Crivella, que estão aqui à mesa e estão no auditório, que eu teria que fazer uma longa relação, e quando eu digo: autoridades, não quero dizer apenas, meus prezados colegas e deputados federais, aqueles que estão na vida pública, mas aqueles que estão na vida privada.",
+                "Vocês sabem que eu tenho enaltecido, em todos os momentos, a presença da iniciativa privada no auxílio ao fenômeno do governativo. Então, quando eu falo, reitero, autoridades, estou me referindo àquelas que ocupam transitoriamente o poder público, e àquelas que ocupam permanentemente o setor privado.",
+                "E nós estamos aqui, e esta é a primeira afirmação que eu quero fazer, nós estamos aqui para revelar a importância, senhor presidente, da iniciativa que os senhores levam adiante com muita exação, e com muita competência. Portanto, ajudando a construir o nosso País.",
+                "E como aqui já foi mencionado, há pouco mais de um ano, nós traçamos um caminho para recolocar o Brasil nos trilhos. E, desde então, presidente João Martins,  vencendo, um a um, problemas que comprometiam o presente e o futuro dos brasileiros: afinal, gastos desenfreados, inflação descontrolada, juros em alta, regras irracionais, desemprego alarmante é que geraram essa nossa conduta.",
+                "E, é claro, devo dizer a todos que não se vence um atraso de mais de uma década da noite para o dia. Mas o fato é que, pensamos nós, estamos todos no rumo certo. Com o trabalho incansável, já avançamos muito, e não são apenas palavras: porque a realidade fala por si.",
+                "Convenhamos, a inflação está novamente sob controle. Há poucos dias atrás, em uma entrevista a um jornal, eu dizia que a inflação estava em 3,5%, quando a própria repórter me corrigiu para dizer 3%. E convenhamos, nós apanhamos uma inflação, há 14 meses atrás, com mais de 10%. A taxa Selic voltou a um dígito. Nós apanhamos, estou tomando a liberdade de repetir aqui o que todos sabem, a 14,25, hoje está a 9,25. Tudo indicando que, até o fim do ano, talvez esteja em 7,5%, mais ou menos por aí. E, é claro, quando se fala na taxa Selic, sempre se pergunta: mas e os juros reais? E nós estamos trabalhando para que os juros reais se compatibilizem com esses dois fenômenos que acabei de apontar: a queda da inflação e a queda da taxa Selic.",
+                "E foi a partir daí, sabe os senhores e as senhoras, que nós retomamos o crescimento: no primeiro trimestre de 2017, já foi dito aqui, nosso PIB cresceu 1% em relação ao período imediatamente anterior – mas aqui eu faço um registro, o PIB era negativo, era de quase 3% negativo. Se nós atingimos 1% é porque houve uma evolução de quase 4%. E havia dois anos que isso não acontecia.",
+                "O comércio exterior, nosso ministro Márcio Pereira já mencionou, bateu recorde histórico: foram mais de 40 bilhões de dólares de superávit. E a composição de nossas importações, com insumos para a agricultura e a indústria, ao mesmo tempo reflete a retomada do crescimento e contribui para impulsioná-la.",
+                "E são conquistas, meus senhores, que não surgem do acaso. Elas resultam de uma correção de rumo. Resultam do dinamismo de nossa sociedade. Resultam de nossa determinação coletiva de fazer o que deve ser feito. São avanços, naturalmente, de um País que não se deixa abater. De um Governo que se pauta pelo diálogo e pela responsabilidade.",
+                "Eu até quero dizer uma coisa para ganhar aplausos. Há poucos dias, ontem ainda, se falava que nós íamos aumentar alíquotas do imposto sobre a renda. Não é verdade, não haverá aumento. Absolutamente não haverá aumento.",
+                "E quando assumimos o Governo, era urgente, na economia, um choque de transparência e de racionalidade. A nossa, nessa coisa da transparência, nossa primeira preocupação foi informar os brasileiros da real situação das contas públicas e cuidar de colocá-las em ordem.",
+                "Daí a chamada Proposta de Emenda Constitucional do teto dos gastos públicos. Tratou-se de dizer não à inflação. Tratou-se de proteger o poder de compra das famílias. E trata-se de fazer voltar a confiança. Confiança que se traduz em investimentos, que se traduz em empregos. Aliás, a palavra confiança é uma palavra curiosa, que na verdade ela vem de fiança, de afiançar. Você em um dado momento afiança uma determinada conduta governamental, dá afiança a ela.",
+                "Eu, ainda ontem, dizia que no meu tempo de interior, quem aqui morou no interior do estado do Rio de Janeiro, de São Paulo, de outros tantos, sabia que no passado a pessoa muitas vezes ia ao armazém ou à venda e tinha uma cadernetinha, ou seja, ele comprava fiado, ou seja, o vendedor da venda, do armarinho, fiava que no final do mês ele iria pagar. E o que nós estamos procurando desde o começo do nosso governo é exatamente que a sociedade brasileira dê fiança a nossa conduta e isso tem acontecido.",
+                "Até porque, nós fechamos, convenhamos, o primeiro semestre com saldo positivo na criação de postos de trabalho. Foi a primeira queda do desemprego desde 2014. Com a nossa agenda de reformas, o desemprego cairá ainda mais. A nossa agenda de reformas contempla também uma importante vertente de competitividade.",
+                "Quando pensamos, por exemplo, no nosso comércio exterior, há três frentes em que estamos especialmente engajados, já foi mencionado aqui. A desburocratização e o registro que nas viagens, todas que fiz ao longo do tempo, como presidente da Câmara, como vice-presidente, e ainda agora o que os investidores estrangeiros mais perguntam, e mais buscam eliminar são os fenômenos burocráticos do nosso sistema administrativo. Essa desburocratização foi feita largamente nesse breve período do nosso governo, assim como a modernização logística e a ampliação e a abertura de mercados.",
+                "Este ponto da desburocratização, eu reitero, é essencial. Porque nós queremos nossos empreendedores produzindo e gerando empregos, e não fazendo filas e preenchendo formulários.",
+                "Ainda ontem, o Marcos Pereira, prefeito Crivella, me dizia das questões referentes ao Instituto Nacional de Patentes Industriais (INPI) que estavam lá paralisados, com pleitos de patentes industriais, que datavam de mais de 10 anos.",
+                "E ele agora encontrou uma fórmula pela qual todos são admitidos desde que não haja objeções. Enfim, tentou meios e modos de desburocratização.",
+                "E nós estamos, também, simplificando os procedimentos que ajudam o comércio exterior brasileiro. Eu dou como exemplo o Portal Único, que dispensa exportadores e importadores de correr inúmeras repartições em busca de certidões e carimbos. Com novas tecnologias, nós trazemos mais agilidade entre o setor privado e o Governo.",
+                "Do mesmo modo, estamos ampliando e aprimorando nossa infraestrutura. Todos aqui sabem muito bem: não bastam safras recordes, como nós temos tido, mas é preciso poder escoá-las com eficiência, fazendo com que elas cheguem de forma rápida e segura aos portos. É preciso uma infraestrutura condizente com o vigor do nosso setor produtivo.",
+                "Por isso que o Maurício Quintella disse das grandes atividades que estão processando no setor portuário. Como concessões, privatizações, aperfeiçoamento, exatamente com esta concepção de que não basta produzir, é preciso fazer escoar a produção.",
+                "E por isso que atrair investimentos para rodovias, ferrovias, portos e aeroportos com a prioridade do nosso Governo. E é, também, por isso, já foi dito aqui pelo Maurício, que nós reformulamos o nosso sistema, o nosso modelo de concessões e parcerias, que hoje é mais racional e previsível. Reitero que só em infraestrutura, o capital externo cresceu mais de 500% nos primeiros quatro meses deste ano, em relação ao mesmo período de 2016. Foram mais de 11 bilhões de dólares. Essa tendência, na verdade veio para ficar.",
+                "E neste tópico, uma terceira frente em que trabalhamos, pelo nosso comércio exterior, é a das negociações internacionais. Em tantos segmentos, o Brasil tem, sem dúvida, a competitividade necessária para chegar a qualquer mercado. E é nossa convicção de que nós nos tornaremos ainda mais competitivos à medida que aumentamos nossa integração ao mundo, como foi dito aqui pelo Marcos Pereira. Nós estamos empenhados em reduzir as barreiras que nossos produtos enfrentam em importantes mercados internacionais.",
+                "E nosso empenho começa na vizinhança. Nós estamos revitalizando o Mercosul, agora, como dito, sob a presidência brasileira. Temos também eliminado entraves incompatíveis com a ideia do livre comércio. Estimulamos, já foi dito aqui,  a nossa aliança, a nossa aproximação com a Aliança, para o Pacífico, porque é interessante, aqui no Brasil, faço um registro aos senhores e às senhoras, havia muito uma, ao invés de pensarmos em uma relação institucional entre os estados, pensava-se em uma aproximação, digamos assim, ideológica entre os estados, isto interessa ao Estado brasileiro. A nossa relação por determinação constitucional, e não porque queiramos, é fazer a aproximação, evidentemente muito forte com os Países da América Latina, mas igualmente com os Países de todo o mundo. Isto é o que nós estamos fazendo.",
+                "Por isso que em julho, quando estive – estivemos – em Mendoza para a Cúpula do Mercosul, nós celebramos novo acordo comercial com a Colômbia: abrimos espaço para importantes setores da nossa economia no mercado colombiano.",
+                "E, agora, o Mercosul com a União Europeia fará o possível para fechar um acordo definitivo com a União Europeia. E nós estamos, portanto, intensificando o diálogo com parceiros de peso. E vale precisamente para esta reunião que os senhores estão aqui fazendo.",
+                "Mas eu quero dizer também, que tudo isso tem sido possível em face das reformas que nós estamos fazendo ao longo do tempo. Não foi fácil aprovar a reforma no teto dos gastos públicos, porque a tendência de todo governante, e é o que todos querem, na verdade, é dizer o seguinte: “olha aqui, vamos gastar, não é?” Imagine eu que teria 2 anos e 8 meses de governo, seria muito confortável chegar lá e dizer vamos gastar, ao invés de fazer medidas populares, que são aquelas que produzidas hoje demandam um reconhecimento no futuro. Eu faria medidas populistas, que são aquelas que, produzidas hoje, ganham aplauso amanhã e causam um desastre depois de amanhã. Nós estamos tomando medidas, volto a dizer, populares, porque serão reconhecidas no futuro.",
+                "Assim foi com a modernização da legislação trabalhista. Os senhores veem uma reforma da modernização, ansiada, querida, desejada, almejada por muita gente, por mais de 20, 30 anos e só agora nós fomos capazes de realizá-la.",
+                "Como de resto, depois de fazermos esta reforma dos tetos dos gastos, fazermos a modernização trabalhista, assim também a reforma do ensino médio. Parece que não é importante, mas a repercussão até nas relações exteriores. Quando você tem um ensino médio qualificado, adequado, você está preocupado com a  educação. Educação é um dos fatores de integração do Brasil com o resto do mundo. Fizemos a reforma do ensino médio, depois de mais de 20 anos que dela se falava e não se a fazia, nós conseguimos realizá-la.",
+                "Como nosso desejo sempre é apresentar ao mundo um governo reformista, nós estamos empenhados em 3 reformas fundamentais, da Previdência, e aqui eu digo com toda tranquilidade, é uma reforma que se não for feita hoje, haverá de ser feita daqui a 2, 3 anos, porque daqui a 3, 4 anos, se não a fizermos, só teremos dinheiro para pagar os salários e as pensões. Então, isto é uma destruição absoluta. Aliás, convenhamos, governador Dornelles, o Rio de Janeiro sofreu muitas consequências, prefeito Crivella, da questão da previdência aqui no Rio de Janeiro, que levou o estado a situação extremamente delicada. Como está acontecendo de resto nos outros governos.",
+                "Eu percebo que esta é uma reforma fundamental, que nós vamos levar adiante, ao lado da simplificação tributária. Porque a ideia da simplificação tributária está muito vinculada também à desburocratização no plano tributário.",
+                "E, afinal, a reforma política, que hoje é fundamental para o País. Eu, há poucos dias, no domingo, fiz uma reunião com os presidentes da Câmara, do Senado, com o ministro da Fazenda, o ministro Imbassahy e outros, e ajustamos esta pauta para esse semestre. Ou seja, se chegarmos ao final deste ano e tivermos completado o ciclo das reformas, com essas 3 últimas nós teremos um 2018 mais próspero e mais desenvolvido no nosso País.",
+                "Portanto ao cumprimentá-lo, eu quero desejar que os senhores tenham um trabalho oportuníssimo, adequado, correto, competente, como sei que farão ao longo deste dia.",
+                "Muito sucesso aos senhores, e viva o trabalho que os senhores fazem.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "marcos-bezerra-abbott-galvao-2016-2018"
+            ],
+            "titulo": "Discurso do Sr. Secretário-Geral para o ASEAN Day, em comemoração dos 50 anos da Associação das Nações do Sudeste Asiático – 29/08/2017",
+            "subtitulo": "NA",
+            "data": "29/08/2017",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/12/2024"
+            ],
+            "horario_atualizado": [
+                "12h06"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/marcos-bezerra-abbott-galvao-2016-2018/discurso-do-sr-secretario-geral-para-o-asean-day-em-comemoracao-dos-50-anos-da-associacao-das-nacoes-do-sudeste-asiatico-2013-29-08-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Dear Ambassador Surasak Suparat, in whose name I congratulate all the Ambassadors of the ASEAN group;",
+                "Distinguished authorities, dear friends,",
+                "I could only begin by congratulating the ASEAN Committee in Brasilia and the current President of the group, Ambassador Surasak Suparat, for organizing the celebration of the Association's golden jubilee in Brasilia. It is a great honor for me to be invited to deliver a short speech during the celebration of an important milestone in the successful history of the Association of Southeast Asian Nations, which heralds ASEAN's promising future.",
+                "Diversity is a defining trait of the Association and although this characteristic entails great challenges in terms of political coordination, it unquestionably broadens the reach and substance of the organization and of diplomacy itself. For the past five decades, ASEAN has shown to the world that tolerance and dialogue are the foundations of an enduring partnership. This is no small feat and merits celebration.",
+                "ASEAN has developed an undeniable capacity to take joint decisions and to use its good offices towards regional stability and peace – as demonstrated recently at the 50th ASEAN Summit in Manila. The anniversary of fifty years of ASEAN represents, in this sense, a case in point for a more peaceful and integrated world order. The motto of this year's ASEAN Foreign Minister's Meeting, \"Partnering for Change, Engaging the World\", signals the global reach of the Association, which deepened significantly with the establishing, in 2015, of the ASEAN Community. I am really confident that the functioning of the three pillars of the Community you have designed – regarding politics and security, economy and socio-cultural development – will turn ASEAN into, as you say yourselves, a Community of Opportunities.",
+                "Ladies and Gentlemen,",
+                "ASEAN has built an extensive international agenda, both with countries in its own region and throughout the world. Brazil's relations with ASEAN countries have grown significantly in the last ten years. Brazil and ASEAN started developing a closer relationship during the MERCOSUL-ASEAN Ministerial Meeting, held in Brasília, in 2008. In 2011, Brazil appointed its Ambassador to Jakarta also as representative to ASEAN; and, in 2012, Brazil acceded to the Treaty of Amity and Cooperation in Southeast Asia (TAC). The Association, if considered as a whole, is Brazil's second major trading partner in Asia and fourth major partner in the world, with total trade flows greater than US$ 16.5 billion. In addition, bilateral investments are flourishing and, for the business communities of Southeast Asia and South America, the distance that separates both regions has been narrowed by outstanding investment opportunities on both sides of the Pacific.",
+                "Brazil plays an important role in connecting these two regions through its engagement in fostering synergies between Mercosur and ASEAN. Mercosur is, for many reasons, a natural partner of the association. Not only are the two integration initiatives the most important in their respective regions, but, in addition, they share perspectives on many important issues of the international agenda, such as the promotion of sustainable development and the emphasis on trade as an important tool for development and integration. There is, however, plenty of opportunities for the development of our partnership and we are currently working on the means necessary to fulfil this potential. In short, I believe that ASEAN and Mercosur both stand to gain from each other's prosperity. We should now start a dialogue aiming to find the adequate balance between our interests.",
+                "Minister Aloysio Nunes Ferreira, after accompanying President Michel Temer in his bilateral visit to China and the BRICS Summit, will visit three countries of the region (Malaysia, Singapore and Vietnam) as well as summon the Brazilian heads of mission to the region for a working meeting in Singapore, initiative in keeping with the growing priority given by Itamaraty to Asia. He will not visit Indonesia, which hosts ASEAN´s Secretariat, since the country´s Minister for Foreign Affairs will be away on official mission on those dates.",
+                "Conveying my best vows to ASEAN, with regard to its next fifty years of promising achievements, I thank you all for your attention."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "China: uma visita em três tempos (O Estado de S. Paulo, 30/08/2017)",
+            "subtitulo": "NA",
+            "data": "30/08/2017",
+            "horario": "13h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-artigos/michel-miguel-elias-temer-lulia-2016-2018/china-uma-visita-em-tres-tempos-o-estado-de-s-paulo-30-08-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Parceria sino-brasileira é estratégica não só para os dois países, mas também para o mundo",
+                "Estou a caminho da China, a convite do presidente Xi Jinping. Uma vez mais, colocarei a diplomacia presidencial a serviço de uma política externa universalista, voltada para o desenvolvimento do Brasil e das reais prioridades de nosso povo.",
+                "Será uma visita em três tempos – consagrados às relações bilaterais, à atração de comércio e investimentos e à reunião de Cúpula do Brics.",
+                "No primeiro deles, em Pequim, realizarei visita de Estado dedicada a estreitar os laços entre o Brasil e a China. Por alguns anos, ainda vice-presidente, tive o privilégio de copresidir a Comissão Sino-Brasileira de Alto Nível de Concertação e Cooperação, a Cosban. Essa experiência deixou-me esta profunda convicção: a parceria entre o Brasil e a China é verdadeiramente estratégica – e não apenas para os dois países, mas também para o mundo.",
+                "É estratégica para os dois países porque Brasil e China têm muitos interesses complementares e muitas posições comuns. A nossa é relação de benefícios mútuos, de uma virtuosa reciprocidade. O Brasil é fornecedor confiável e seguro de alimentos e insumos de grande relevância para o desenvolvimento chinês. É, também, opção confiável e segura para tantas empresas chinesas que buscam destino para seus investimentos.",
+                "Nos encontros com as autoridades chinesas, entre as quais o presidente Xi Jinping e o primeiro-ministro Li Keqiang, aprofundaremos ainda mais esse relacionamento econômico-comercial e exploraremos novos meios para aproximar nossas sociedades. Afinal, é preciso que mais brasileiros conheçam a China, que mais chineses conheçam o Brasil. Procuraremos formas de facilitar vistos, de aprofundar a cooperação cultural, de incentivar o turismo.",
+                "E a parceria sino-brasileira é estratégica, também, para o mundo. Em cenário internacional marcado por incertezas, o Brasil e a China têm atuado em defesa do livre comércio, têm sido vozes firmes contra medidas protecionistas. Recordo as palavras do presidente Xi, que, no Fórum Mundial de Davos, afirmou que “perseguir o protecionismo é como trancar-se numa sala escura: o vento e a chuva podem até ficar do lado de fora, mas também bloqueiam-se a luz e o ar”.",
+                "Do mesmo modo, defendemos, ambos os países, em diferentes temas de alcance global, a via do multilateralismo. É firme nosso compromisso com o Acordo de Paris sobre a mudança do clima, com o respeito às regras da Organização Mundial do Comércio. Essas coincidências demonstram que somos mais do que dois grandes países unidos por interesses compartilhados: são várias as frentes em que atuamos como forças em favor da estabilidade do sistema multilateral. Forças que são ainda mais significativas em contexto de tendências isolacionistas e fragmentadoras.",
+                "Um segundo tempo da viagem à China será a interação com lideranças empresariais, que fazem ou querem fazer negócios com o Brasil. Terei duas grandes oportunidades para isso: em Pequim, em seminário organizado pelo governo brasileiro; e em Xiamen, no Fórum Empresarial do Brics.",
+                "Em Pequim, estaremos com empresários chineses. A China é, desde 2009, nosso maior parceiro comercial. Entre 2006 e 2016, a corrente de comércio nada menos que triplicou – de US$ 16 bilhões para mais de US$ 58 bilhões. No primeiro semestre de 2017 a China foi o principal destino de nossas exportações – correspondeu a quase um quarto do valor exportado pelo Brasil. Além disso, empresas chinesas têm feito investimentos expressivos em nosso país, em setores como infraestrutura, energia, mineração, eletrônicos, telecomunicações, automóveis, máquinas de construção.",
+                "Ainda maior que a dimensão atual de nosso relacionamento econômico é seu potencial. No seminário em Pequim, apresentaremos o novo Brasil que se descortina com as reformas que temos levado adiante, com a recuperação de nossa economia. Dotadas de marcos regulatórios racionais e previsíveis, as parcerias para investimentos lançadas por nosso governo oferecem múltiplas oportunidades – portos, aeroportos, rodovias, linhas de transmissão, entre outros setores. São projetos fundamentais para nossa competitividade, que geram empregos e renda, que garantem melhores serviços à população. Queremos que empresas chinesas, com sua reconhecida excelência nessas áreas, sejam partícipes do momento modernizador que vive o Brasil.",
+                "Em Xiamen, manterei contatos com investidores não apenas chineses, mas também de outras grandes economias, que têm demonstrado renovado interesse pelo Brasil. Será mais um momento para expor as possibilidades que se abrem com a retomada de nosso crescimento.",
+                "Finalmente, o terceiro tempo. Participarei, ainda em Xiamen, da IX Cúpula do Brics, quando me reunirei com os líderes de Rússia, Índia, China e África do Sul. Estenderemos nosso diálogo, ainda, a mandatários de países convidados – Egito, Guiné, México, Tajiquistão e Tailândia.",
+                "Na cúpula, assinaremos acordo para aproximar nossos setores produtivos ao Novo Banco de Desenvolvimento – instituição criada pelos Brics que já aprovou 11 projetos de infraestrutura e desenvolvimento sustentável em diferentes países, inclusive no Brasil. Avançaremos, ainda, em iniciativas concretas propostas pelo Brasil em áreas como saúde pública, aviação regional e cooperação em inteligência.",
+                "Em setembro de 2016, era a China o destino de minha primeira viagem como presidente. Naquela ocasião, falamos a nossos interlocutores dos planos que tínhamos para superar a crise que herdáramos. Passado um ano, os resultados estão aí: a inflação está novamente sob controle, os juros estão em queda consistente, a economia recuperou sua credibilidade, as oportunidades de negócios se multiplicam, os empregos começam a voltar.",
+                "O Brasil que vai agora à China é um país mais confiante. Um país que já avançou muito e que tem rumo certo para seguir avançando ainda mais.",
+                "* MICHEL TEMER É PRESIDENTE DA REPÚBLICA"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Brasil e Paraguai: vizinhos, sócios e irmãos (Folha de S. Paulo, 21/8/2017)",
+            "subtitulo": "NA",
+            "data": "21/08/2017",
+            "horario": "13h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-artigos/michel-miguel-elias-temer-lulia-2016-2018/brasil-e-paraguai-vizinhos-socios-e-irmaos-folha-de-s-paulo-21-8-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Brasil e o Paraguai são unidos por fortes laços humanos e profundos interesses comuns. São mais de 300 mil brasileiros vivendo no Paraguai. Compartilhamos 1.300 km de fronteiras. Construímos, juntos, uma das maiores usinas hidroelétricas do mundo. O Brasil é o principal destino das exportações do Paraguai e um dos maiores investidores no país. Somos sócios fundadores do Mercosul.",
+                "A esses traços, agrega-se, no momento atual, particular convergência de visões: levamos adiante, Brasil e Paraguai, agenda de modernização de nossas economias, de aprimoramento de nossos ambientes de negócios, sempre em favor do crescimento e da geração de empregos.",
+                "Nesta segunda (21), tenho a satisfação de receber em Brasília, em visita de Estado, o presidente do Paraguai, Horacio Cartes. Daremos continuidade a nosso diálogo pragmático. Trataremos de fortalecer nossa cooperação naqueles temas que dizem respeito mais diretamente ao bem-estar de nossos povos: qualidade de vida nas fronteiras, segurança pública, comércio e investimentos.",
+                "É ao longo de uma fronteira densamente povoada que temos constituído, geração após geração, vínculos fraternais entre nossa gente. Atentos para legítimas demandas em ambos os lados da fronteira, queremos, cada vez mais, facilitar o dia a dia dos que vivem a vida entre os dois países.",
+                "As fronteiras são espaço de desenvolvimento, mas também encerram desafios que exigem respostas articuladas. O maior deles é a atuação, nas zonas limítrofes, do crime organizado, que aflige nossas famílias, que põe em risco nossos jovens.",
+                "Neste mês, adotamos medida para intensificar nossos esforços conjuntos contra essa ameaça. A Polícia Federal e a Secretaria Nacional Antidrogas, do Paraguai, assinaram termo de cooperação que lhes permitirá dar combate mais eficiente ao narcotráfico e aos chamados crimes conexos -tráfico de armas e pessoas, lavagem de dinheiro, contrabando.",
+                "Nossas forças policiais receberão treinamento comum e promoverão operações coordenadas. Assim tem que ser, pois o crime não conhece limites. Em Brasília, cuidaremos de avaliar os resultados obtidos até aqui, com vistas a garantir a eficácia das ações futuras.",
+                "Outra dimensão da visita do presidente Cartes é econômica. Em 2017, já verificamos a retomada do intercâmbio comercial, reflexo, em larga medida, da recuperação da economia brasileira. Essa é tendência que será confirmada pelas reformas estruturais que continuaremos empreendendo no Brasil. Ao mesmo tempo, diante do crescimento sustentado no Paraguai, mais de 80 empresas brasileiras se instalaram no país nos últimos três anos, com investimentos diretos superiores a US$ 200 milhões.",
+                "Conquista histórica de nossos países, o Mercosul dá contribuição fundamental para aumentar nosso comércio, para dinamizar nossos investimentos. Sob a presidência brasileira do Mercosul, estamos avançando no resgate do projeto original de um bloco voltado para a efetiva integração econômica.",
+                "Seguimos empenhados na eliminação de barreiras e na conclusão de acordo de compras governamentais. Na frente externa, entramos em fase decisiva nas negociações com a União Europeia.",
+                "E não é só na vertente econômica que o Brasil e o Paraguai, ao lado da Argentina e do Uruguai, estamos recobrando o espírito original do Mercosul. Democracia e direitos humanos também voltaram a definir a identidade de nosso bloco.",
+                "Ao suspender a Venezuela, ao amparo do Protocolo de Ushuaia, a mensagem é clara: não mais se admitem, em nossa região, rupturas da ordem democrática.",
+                "Democracia, prosperidade, segurança, integração. Essa é a agenda que une brasileiros e paraguaios; essa é a agenda que marca a visita do presidente Cartes ao Brasil.",
+                "MICHEL TEMER é presidente da República. Foi vice-presidente (governo Dilma) e ocupou por três vezes a presidência da Câmara dos Deputados"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Parceria para o século XXI (O Globo, 31/08/2017)",
+            "subtitulo": "NA",
+            "data": "31/08/2017",
+            "horario": "13h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/parceria-para-o-seculo-xxi-o-globo-31-08-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Hoje, o presidente Michel Temer iniciará visita de Estado à China, onde participará também da Cúpula de Chefes de Estado e Governo do Brics. Sua presença naquele país é mais um passo na consolidação de uma parceria de sucesso, que se tem traduzido no estreitamento do diálogo sobre questões globais e em mais investimentos e comércio. A China é um ator central nas relações internacionais do nosso século e será, em pouco tempo, a maior economia do planeta. É o nosso maior parceiro comercial, principal importador de produtos brasileiros e fonte de investimentos fundamentais para a modernização da economia brasileira. Tem também peso crescente em áreas de interesse brasileiro e global, como paz e segurança, mudança do clima, comércio internacional e governança financeira.",
+                "A visita coincide com o crescimento do comércio bilateral e dos investimentos chineses no Brasil. Em 2016, nossas vendas ao país alcançaram US$ 35 bilhões. No primeiro semestre deste ano, as exportações brasileiras para a China cresceram 33%. A China é hoje um dos maiores investidores estrangeiros no Brasil. As empresas daquele país pretendem injetar na economia brasileira US$ 20 bilhões em 2017, volume 70% superior ao investido no ano passado. Esse valor soma-se ao estoque de investimento chinês, de cerca de US$ 50 bilhões. Com a melhora do ambiente de negócios no Brasil, as empresas chinesas, que já estavam presentes nas áreas de infraestrutura e serviços, passaram a operar nos setores de energia, transportes e agronegócio. A programação do presidente Temer incluirá um importante encontro empresarial, com o objetivo de ampliar ainda mais o relacionamento econômico e comercial.",
+                "Temos o desafio de diversificar a pauta exportadora brasileira para aumentar a participação de nossos produtos industrializados e de nossos serviços. O Brasil manterá a posição de importante fornecedor de alimentos para a China, mas busca agregar valor às exportações desses produtos, formando parcerias com empresas chinesas. Estamos trabalhando para seguir abrindo o mercado chinês aos produtos, serviços e investimentos brasileiros. Os acordos a serem assinados durante a visita presidencial demonstram que esses esforços estão dando resultado.",
+                "São acordos que selam negócios significativos, como a parceria entre a Petrobras e a petrolífera chinesa CNPC, com vistas à retomada das obras do Complexo Petroquímico do Rio de Janeiro (Comperj). Incluem também a participação de companhias chinesas em projetos de grande envergadura, como a Ferrovia de Integração- Porto Sul, em Ilhéus, o Terminal do Porto de São Luís, o início das obras da linha de transmissão Belo Monte-Rio de Janeiro, a usina nuclear de Angra 3 e a construção da ponte Salvador- Itaparica. Significarão, ainda, a concessão de linhas de financiamento e garantias de mais de US$ 10 bilhões a diferentes bancos e empresas brasileiras. O empenho do governo e do setor privado na negociação com o lado chinês tem sido fundamental para obter esses resultados.",
+                "Mas não há dúvida de que a aposta de longo prazo no Brasil é também consequência das reformas em curso, que permitiram a retomada da confiança nos rumos do país. A nossa parceria de sucesso com a China está ancorada nos interesses mútuos e no fortalecimento da nossa relação diplomática diante de um mundo em rápida transformação, caracterizado por novas tentações unilaterais, inclusive no campo econômico e comercial. Brasil e China compartilham muitos objetivos e princípios. Queremos contribuir para que os desafios globais — em áreas como comércio e finanças, mudança do clima, terrorismo, paz e segurança, e refugiados — sejam enfrentados de maneira cooperativa, com respeito ao direito internacional e ao multilateralismo.",
+                "Tanto o diálogo com a China quanto a cooperação no âmbito do Brics são fundamentais para a projeção de nossos interesses e valores em um contexto internacional marcado pelo deslocamento do centro de gravidade econômica e política global em direção ao continente asiático. A visita do presidente Temer fortalecerá a parceria de sucesso com a China, uma parceria que não apenas beneficia ambos os países, mas contribui igualmente para a consolidação de uma ordem internacional mais justa, equilibrada e racional no século XXI.",
+                "Aloysio Nunes Ferreira é ministro das Relações Exteriores",
+                "*Texto original corrigido"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Mercosul e União Europeia, acordo estratégico (Folha de S. Paulo, 29/08/2017)",
+            "subtitulo": "NA",
+            "data": "29/08/2017",
+            "horario": "11h47",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/mercosul-e-uniao-europeia-acordo-estrategico-folha-de-s-paulo-29-08-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Nosso passado recente nos legou a certeza de que, no mundo de hoje, um modelo de desenvolvimento econômico pautado na autossuficiência acarreta ineficiência e prejudica a maioria do povo.",
+                "Felizmente, vivemos uma conjuntura na qual os Estados integrantes do Mercosul compartilham uma visão -a necessidade de maior integração de nossos países à economia global- e, nesse quadro, uma meta -a conclusão do Acordo de Associação entre o Mercosul e a União Europeia.",
+                "Em 21 de julho passado, o Brasil assumiu a presidência rotativa do Mercosul, na Cúpula de Mendoza, Argentina. Constatamos, já nos primeiros dias de nosso mandato, a prioridade que os quatro países atribuem àquele acordo.",
+                "Visito nesta terça (29) e quarta (30) a sede da União Europeia, em Bruxelas, onde me entrevistarei com a alta representante para Relações Exteriores e Política de Segurança, Federica Mogherini, e com a comissária de Comércio, Cecilia Malmström.",
+                "A ambas levarei a palavra de que nós, os países do Mercosul, compartilhamos com a União Europeia a percepção de que, ademais dos benefícios do acordo para as populações dos dois blocos, a sua conclusão constituirá importante mensagem à comunidade internacional de que rejeitamos as tendências ao protecionismo e ao nacionalismo, que recentemente têm dado sinais de ressurgimento.",
+                "Em janeiro, a comissária Malmström aventou que o anúncio público de conclusão do acordo -por ocasião da 11ª Reunião Ministerial da Organização Mundial do Comércio, em Buenos Aires em dezembro próximo- em muito potencializaria essa mensagem.",
+                "Coincidimos com a avaliação e seguimos trabalhando com vistas a sua viabilização. Para tanto, já agendamos reuniões negociadoras plenas, entre o Mercosul e a União Europeia, uma vez a cada mês até a ministerial da OMC.",
+                "Levarei a minhas interlocutoras europeias a percepção de que não basta um objetivo louvável e vontade política. Há que se ter determinação de seguir no processo exclusivamente à mesa de negociações.",
+                "Não podemos cair na tentação de buscar aplacar setores refratários ao acordo por intermédio de declarações públicas que enrijecem as posições negociadoras. O recurso à negociação pela imprensa não contribui ao avanço do processo, conforme atesta o exemplo desta mesma negociação em 2004.",
+                "Nesse esforço conjunto para concluir o acordo até o final do ano, permanece, aos olhos do Mercosul, uma grande incógnita. O setor agrícola tem sido, desde o início efetivo das tratativas em 2000, o de maior complexidade.",
+                "Em que pese a compreensão que temos pela sensibilidade da agricultura europeia, é imprescindível que o acordo proporcione a ampliação das condições de acesso da produção agropecuária dos países do Mercosul, de competitividade global inquestionável, ao mercado da União Europeia.",
+                "Assim sendo, preocupa-nos a ausência de oferta agrícola completa do lado europeu, o que permitiria iniciar a etapa final das negociações pela ampliação recíproca de concessões com o objetivo de alcançar um acordo ambicioso, abrangente e equilibrado.",
+                "O Acordo Birregional deverá propiciar salto qualitativo e abranger, também, as dimensões políticas e institucionais do relacionamento com a União Europeia. Esperamos poder avançar, também nessa área, com vistas a lograr normas equilibradas e abrangentes.",
+                "Como ressaltei em meu discurso de posse, procuraremos conferir nova dimensão ao relacionamento com a União Europeia, no contexto em que comemoramos os dez anos da parceria estratégica Brasil-UE.",
+                "Minha mensagem central às contrapartes europeias será no sentido de que a meta de anúncio de conclusão ao final do ano é factível e conta com o pleno engajamento do Mercosul. Exigirá, contudo, uma ação política determinada de modo a romper, nos dois lados, a inércia do protecionismo comercial.",
+                "ALOYSIO NUNES FERREIRA é ministro das Relações Exteriores e senador licenciado (PSDB-SP)"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

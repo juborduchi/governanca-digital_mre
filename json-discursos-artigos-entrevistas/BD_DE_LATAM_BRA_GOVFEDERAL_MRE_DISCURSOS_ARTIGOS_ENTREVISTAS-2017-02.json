@@ -1,0 +1,558 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jose-serra"
+            ],
+            "titulo": "Intervenção na Reunião de Chanceleres do G20 – 1ª Sessão \"Transformando Nosso Mundo: Agenda 2030 de Desenvolvimento Sustentável\" – Bonn, 16/2/2017",
+            "subtitulo": "NA",
+            "data": "16/02/2017",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/03/2025"
+            ],
+            "horario_atualizado": [
+                "17h48"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/jose-serra/intervencao-na-reuniao-de-chanceleres-do-g20-2013-1a-sessao-transformando-nosso-mundo-agenda-2030-de-desenvolvimento-sustentavel-2013-bonn-16-2-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Ministro Gabriel, Senhoras e senhores, Em primeiro lugar, quero cumprimentar a Alemanha por essa iniciativa. Este encontro amplia a abrangência e a agenda do G20. Estamos passando por uma crise muito séria, que coloca em risco a globalização e mesmo alguns aspectos fundamentais de nossas democracias liberais. Na conjuntura atual, o G20 não poderia limitar suas discussões, como fez até hoje, à estabilização dos fluxos financeiros e à coordenação de políticas macroeconômicas. Temos de enfatizar as causas da crise atual. Nosso principal desafio, hoje, é saber como lidar com tantos fatores imprevisíveis, que alimentam nosso estado de crise e caos. Imprevisibilidade e conflito estão no centro da crise atual. Um dos problemas principais dessa crise é a imigração por fatores econômicos. Não seria tão grave se houvéssemos alcançado, anos atrás, um acordo para abrir os mercados dos países mais desenvolvidos às exportações agrícolas dos países em desenvolvimento, o que significaria mais empregos. Infelizmente isso não aconteceu, e juntamente com as guerras recentes, tem sido um fator de médio prazo, subestimado, para o aumento dos fluxos migratórios. O Brasil orgulha-se de haver sido um dos principais atores na elaboração da Agenda 2030, processo iniciado em 2012 durante a Conferência Rio+20. O desenvolvimento sustentável se fundamenta no equilíbrio e integração de suas três dimensões - a econômica, a social e a ambiental. Gostaria de destacar a contribuição brasileira para o desenvolvimento sustentável como um todo: - O Brasil não somente logrou reduzir dramaticamente o desmatamento na última década, mas também alcançou a marca de 80% de fontes renováveis em sua matriz de eletricidade; - Simultaneamente, o Brasil é, hoje, a segunda principal fonte de produtos agrícolas e alimentícios do mundo. Alcançamos essa posição por meio do foco em produtividade e tecnologia, com significativo impacto positivo nos planos social, econômico e ambiental; - Em 30 anos a produtividade de nossa agricultura aumentou, em média, 4% por ano, enquanto a média anual mundial ficou em 1,8%. Ainda assim, o Brasil conseguiu, nas últimas duas décadas, reduzir a área total agricultável, de cerca de 370 milhões de hectares para cerca de 323 milhões de hectares. A sustentabilidade é, assim, a base de nossas políticas internas. 61% de nosso território corresponde a mata nativa. A média mundial é de somente 3%. Ironicamente, muitos ainda apoiam a ideia de barreiras protecionistas contra os produtos agrícolas do Brasil, com base no argumento absurdo de que nossa agricultura ameaça o meio ambiente. Alcançamos esses impactantes resultados sem conferir nenhum subsídio para nossos agricultores. Nosso foco tem sido o desenvolvimento de um marco legal sólido e, como mencionei, a ênfase em tecnologia e produtividade. Voltando a nossos esforços conjuntos, o desenvolvimento sustentável deve se amparar em dois elementos principais: recursos e instituições. O G20 pode vir a assumir um papel fundamental na mobilização de todas as fontes de financiamento: doméstico e internacional, público e privado. A luta contra a mudança do clima - com a qual o Brasil está firmemente comprometido - também demandará o aprimoramento da parceria entre os diferentes interessados: a sociedade civil em geral, o setor privado, e as autoridades locais. O Acordo de Paris lança as bases para tal parceria. É importante que defendamos essa pedra fundamental do esforço irreversível contra a mudança do clima. Não há mais espaço para ceticismo em relação à mudança do clima. O que está em jogo é nossa responsabilidade para com as futuras gerações. O G20 deve enviar uma mensagem firme sobre a irreversibilidade do Acordo e sobre o compromisso de seus membros e da comunidade internacional nesse sentido.",
+                "Muito obrigado"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jose-serra"
+            ],
+            "titulo": "Intervenção do Ministro das Relações Exteriores, José Serra, por ocasião da Reunião de Chanceleres do G20 – Sessão 2 – “Manutenção da paz em um mundo complexo” – Bonn, 17 de fevereiro de 2017",
+            "subtitulo": "NA",
+            "data": "20/02/2017",
+            "horario": "19h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h50"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/jose-serra/discurso-do-ministro-das-relacoes-exteriores-jose-serra-por-ocasiao-da-reuniao-de-chanceleres-do-g-20-sessao-2-manutencao-da-paz-em-um-mundo-complexo",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Como muitos aqui dissemos, a comunidade internacional enfrenta hoje o desafio de restaurar a sua capacidade de promover a paz e a segurança internacionais num mundo que se depara com diversos novos desafios, inclusive o flagelo do terrorismo.",
+                "Para que isso ocorra, duas ações que se inter-relacionam são necessárias.",
+                "A primeira é de natureza institucional. Uma reforma das instituições multilaterais responsáveis por temas de paz e de segurança é indispensável.",
+                "Acreditamos haver uma necessidade urgente de atualizar o Conselho de Segurança das Nações Unidas, trazendo para o seu seio novos atores. Isso aumentaria sua legitimidade e sua capacidade de atuação.",
+                "A segunda ação é a própria mudança na maneira como a comunidade internacional lida com os problemas que enfrenta. O uso da força deve ser sempre o derradeiro recurso. Como nosso anfitrião assinalou ontem, prevenção e diplomacia devem mais uma vez estar à frente de nossos esforços. Temos de reconhecer que as múltiplas crises da atualidade estão diretamente relacionadas à nossa crescente incapacidade de prevenir a ocorrência de novos conflitos e o agravamento daqueles já existentes.",
+                "Por essa razão, como um país que há muito tempo vem sublinhando a interdependência entre paz, segurança e desenvolvimento, o Brasil acolheu positivamente o conceito de \"paz sustentável\" recentemente adotado nas Nações Unidas. Essa ideia contribui para a promoção de uma abordagem integral dos três pilares das Nações Unidas – paz e segurança, desenvolvimento sustentável e direitos humanos.",
+                "Temos visto que no período mais recente as atenções da comunidade internacional têm se concentrado na questão do financiamento de operações de manutenção e de consolidação da paz. A consequência inevitável disso é que sobram menos recursos para a promoção dos direitos humanos e do desenvolvimento sustentável, aspectos centrais para prevenir as crises que hoje nos esforçamos, às vezes infrutiferamente, para resolver.",
+                "Dessa forma, surge um círculo vicioso em que a paz é promovida em algumas áreas, mas torna-se menos sustentável em outras.",
+                "Para que possamos alcançar a paz sustentável, é fundamental agirmos no sentido de evitar conflitos, o que permitirá poupar ao menos parte dos quase US$ 8 bilhões gastos hoje em operações de manutenção da paz, uma ferramenta que existe basicamente para atenuar \"a posteriori\" os efeitos de guerras e crises que já estão em curso.",
+                "É apenas dessa forma que a comunidade internacional deverá ser capaz de alcançar uma \"multipolaridade organizada\", tal como sugerida pelo Secretário-Geral António Guterres: uma multipolaridade baseada não na confrontação e fragmentação, e sim na cooperação.",
+                "Muito obrigado.",
+                "Intervenção do Ministro das Relações Exteriores – Primeira Sessão - \"Transformando nosso mundo: Agenda 2030 de Desenvolvimento Sustentável\"",
+                "Intervenção do Ministro das Relações Exteriores – Sessão 3 – “Cooperação com a África”"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jose-serra"
+            ],
+            "titulo": "Intervenção do Ministro das Relações Exteriores, José Serra, por ocasião da Reunião de Chanceleres do G20 – Sessão 3 – “Cooperação com a África” – Bonn, 17 de fevereiro de 2017",
+            "subtitulo": "NA",
+            "data": "20/02/2017",
+            "horario": "15h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h50"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/jose-serra/intervencao-do-ministro-das-relacoes-exteriores-jose-serra-por-ocasiao-da-reuniao-de-chanceleres-do-g-20-sessao-3-cooperacao-com-a-africa",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Apoiamos a prioridade conferida pelo G20 à cooperação com a África, uma vez que não pode haver verdadeira prosperidade global sem maior integração da África à economia global.",
+                "O Brasil tem vínculos profundos com o continente africano em várias áreas. Mais de 50% da nossa população tem sangue africano.",
+                "É, portanto, uma tradição de longa data para a política externa brasileira manter com países africanos uma importante cooperação técnica e econômica, com ênfase no desenvolvimento, na educação e na saúde.",
+                "Chegou o momento para uma nova abordagem, que não enfatize apenas nossa herança comum, mas que também leve em conta, como base para a construção de novas parcerias para o futuro, as impressionantes taxas de crescimento da África nos últimos anos.",
+                "Como salientou, com razão, nosso colega da África do Sul na reunião de ontem: “a África, hoje, significa oportunidades”.",
+                "O Brasil desenvolveu tecnologias agrícolas modernas para países tropicais. Estamos prontos para compartilhá-las com nossos amigos e parceiros na África. Para isso serão necessários uma cooperação tecnológica mais intensa e concentrada entre nossas instituições de pesquisa e maior número de empreendimentos conjuntos entre nossas companhias.",
+                "Já tivemos algumas experiências positivas e encorajadoras nessa área, como na produção de algodão, em plantações de cana de açúcar, bem como em engenhos de açúcar ou usinas de etanol. Em alguns casos, será necessário financiamento adicional. Em outros, empresários de ambos os lados precisarão perceber o potencial de tais parcerias.",
+                "Em outubro passado, a Plataforma de Inovação Agropecuária – Market Place (MKTPlace), uma iniciativa de cooperação técnica internacional coordenada pela Empresa Brasileira de Pesquisa Agropecuária, Embrapa, foi escolhida pelas Nações Unidas como uma das 15 mais bem-sucedidas agências de cooperação técnica entre países emergentes. O projeto já beneficiou 13 países africanos desde 2010 nos campos de agricultura tropical, inclusive o intercâmbio de genótipos, o treinamento de pessoal e o desenvolvimento de produtos e serviços.",
+                "A educação é também um dos principais setores de cooperação. De 2000 a 2016, 77% dos 8 mil alunos escolhidos para estudos de graduação no Brasil eram africanos. A principal instituição brasileira dedicada ao treinamento profissional para a indústria, o SENAI, atua em quatro países africanos.",
+                "Também tivemos êxito no intercâmbio de experiências no campo da saúde pública. As instituições brasileiras têm apoiado países africanos no fortalecimento de seus sistemas de saúde pública, no aumento do acesso a medicamentos básicos e no estabelecimento de bancos de leite humano.",
+                "O Brasil está pronto para continuar a promover e, se possível, ampliar sua ativa e construtiva cooperação com países africanos, em linha com as recomendações do G20 para o desenvolvimento e a prosperidade no continente.",
+                "Obrigado.",
+                "Intervenção do Ministro das Relações Exteriores – Primeira Sessão - \"Transformando nosso mundo: Agenda 2030 de Desenvolvimento Sustentável\"",
+                "Intervenção do Ministro das Relações Exteriores – Sessão 2 – “Manutenção da paz em um mundo complexo”"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jose-serra"
+            ],
+            "titulo": "Intervenção do Ministro das Relações Exteriores, José Serra, por ocasião da Reunião de Chanceleres do G20 – Primeira  Sessão - \"Transformando nosso mundo: Agenda 2030 de Desenvolvimento Sustentável\" – Bonn, 16 de fevereiro de 2017",
+            "subtitulo": "NA",
+            "data": "20/02/2017",
+            "horario": "19h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h50"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/jose-serra/discurso-do-ministro-das-relacoes-exteriores-jose-serra-por-ocasiao-da-reuniao-de-chanceleres-do-g20-primeira-sessao-transformando-nosso-mundo-agenda-2030-de-desenvolvimento-sustentavel",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Ministro Gabriel,",
+                "Senhoras e senhores,",
+                "Em primeiro lugar, quero cumprimentar a Alemanha por essa iniciativa. Este encontro amplia a abrangência e a agenda do G20. Estamos passando por uma crise muito séria, que coloca em risco a globalização e mesmo alguns aspectos fundamentais de nossas democracias liberais.",
+                "Na conjuntura atual, o G20 não poderia limitar suas discussões, como fez até hoje, à estabilização dos fluxos financeiros e à coordenação de políticas macroeconômicas. Temos de enfatizar as causas da crise atual.",
+                "Nosso principal desafio, hoje, é saber como lidar com tantos fatores imprevisíveis, que alimentam nosso estado de crise e caos. Imprevisibilidade e conflito estão no centro da crise atual.",
+                "Um dos problemas principais dessa crise é a imigração por fatores econômicos. Não seria tão grave se houvéssemos alcançado, anos atrás, um acordo para abrir os mercados dos países mais desenvolvidos às exportações agrícolas dos países em desenvolvimento, o que significaria mais empregos. Infelizmente isso não aconteceu, e juntamente com as guerras recentes, tem sido um fator de médio prazo, subestimado, para o aumento dos fluxos migratórios.",
+                "O Brasil orgulha-se de haver sido um dos principais atores na elaboração da Agenda 2030, processo iniciado em 2012 durante a Conferência Rio+20.",
+                "O desenvolvimento sustentável se fundamenta no equilíbrio e integração de suas três dimensões - a econômica, a social e a ambiental.",
+                "Gostaria de destacar a contribuição brasileira para o desenvolvimento sustentável como um todo:- O Brasil não somente logrou reduzir dramaticamente o desmatamento na última década, mas também alcançou a marca de 80% de fontes renováveis em sua matriz de eletricidade;",
+                "- Simultaneamente, o Brasil é, hoje, a segunda principal fonte de produtos agrícolas e alimentícios do mundo. Alcançamos essa posição por meio do foco em produtividade e tecnologia, com significativo impacto positivo nos planos social, econômico e ambiental;",
+                "- Em 30 anos a produtividade de nossa agricultura aumentou, em média, 4% por ano, enquanto a média anual mundial ficou em 1,8%. Ainda assim, o Brasil conseguiu, nas últimas duas décadas, reduzir a área total agricultável, de cerca de 370 milhões de hectares para cerca de 323 milhões de hectares. A sustentabilidade é, assim, a base de nossas políticas internas. 61% de nosso território corresponde a mata nativa. A média mundial é de somente 3%.",
+                "Ironicamente, muitos ainda apoiam a ideia de barreiras protecionistas contra os produtos agrícolas do Brasil, com base no argumento absurdo de que nossa agricultura ameaça o meio ambiente.",
+                "Alcançamos esses impactantes resultados sem conferir nenhum subsídio para nossos agricultores. Nosso foco tem sido o desenvolvimento de um marco legal sólido e, como mencionei, a ênfase em tecnologia e produtividade.",
+                "Voltando a nossos esforços conjuntos, o desenvolvimento sustentável deve se amparar em dois elementos principais: recursos e instituições.",
+                "O G20 pode vir a assumir um papel fundamental na mobilização de todas as fontes de financiamento: doméstico e internacional, público e privado. A luta contra a mudança do clima - com a qual o Brasil está firmemente comprometido - também demandará o aprimoramento da parceria entre os diferentes interessados: a sociedade civil em geral, o setor privado, e as autoridades locais.",
+                "O Acordo de Paris lança as bases para tal parceria. É importante que defendamos essa pedra fundamental do esforço irreversível contra a mudança do clima.",
+                "Não há mais espaço para ceticismo em relação à mudança do clima. O que está em jogo é nossa responsabilidade para com as futuras gerações.",
+                "O G20 deve enviar uma mensagem firme sobre a irreversibilidade do Acordo e sobre o compromisso de seus membros e da comunidade internacional nesse sentido.",
+                "Muito obrigado.",
+                "Intervenção do Ministro das Relações Exteriores – Sessão 2 – “Manutenção da paz em um mundo complexo”",
+                "Intervenção do Ministro das Relações Exteriores – Sessão 3 – “Cooperação com a África”"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Brinde do Presidente da República, Michel Temer, durante almoço oferecido ao Presidente da República Argentina, Mauricio Macri – Palácio Itamaraty, 7 de fevereiro de 2017",
+            "subtitulo": "NA",
+            "data": "07/02/2017",
+            "horario": "17h38",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/brinde-do-presidente-da-republica-michel-temer-durante-almoco-oferecido-ao-presidente-da-republica-argentina-mauricio-macri-palacio-itamaraty-7-de-fevereiro-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Quero cumprimentar a todos, deputados, senadores. São muitos também presentes presidente, presidente Macri, a revelar a importância da sua visita e o carinho que os brasileiros têm com a Argentina.",
+                "Senhores representantes da igreja, Senhoras e senhores parlamentares federais,Senhoras e senhores,",
+                "Eu tenho o prazer, já falamos muitas vezes hoje, mas tenho o prazer de reiterar ao presidente Macri e à sua expressiva comitiva as nossas mais calorosas boas-vindas.",
+                "Eu quero e nós todos queremos, presidente, que o senhor e toda a sua comitiva se sinta tão bem acolhido aqui quanto eu me senti em Olivos em outubro último, quando estive na Argentina. Saiba que é para mim, pessoalmente, até, uma grande honra recebê-lo nesta visita de Estado.",
+                "Ao longo das décadas, Argentina e Brasil construíram a sua própria memória comum. As recordações de nossa história traduzem-se em palavras que mais do que parte integrante do nosso discurso, nós incorporamos no nosso cotidiano.",
+                "Nas relações Brasil-Argentina, senhor presidente, expressões como: destino comum, aliança estratégica ou integração econômica, encontram manifestação concreta. Tem longa linhagem de que somos guardiões, evocam a visão de um futuro que agora nos cabe exatamente escrever.",
+                "Há décadas, senhor presidente Macri, dois estadistas dos nossos países, o presidente Raúl Alfonsín e o presidente José Sarney, que nos honra com a sua presença, iniciaram um processo lapidar de aproximação sob signos importantíssimos. Os signos da democracia, dos direitos humanos e do livre mercado.",
+                "A partir daí, nossos governos e sociedades lançaram as bases de um entendimento duradouro, calcado na confiança mútua e na convicção de que o nosso caminho é um caminho compartilhado. Como aliás, presidente Collor, acabamos de verificar e praticar, senador Eunício, no dia de hoje, na nossa reunião. Eu falo, portanto de ontem com os olhos no amanhã. Um amanhã que depende do resgate da vocação original de nossa aliança. Da vocação original de nossa integração, da vocação original do Mercosul, que nos cumpre presidir ao longo deste ano, neste semestre, vossa excelência, no semestre que vem o Brasil.",
+                "E interessante que hoje ainda, senhores e senhoras, na reunião que mantivemos com o presidente Macri e sua comitiva, avançamos bastante na tese da universalização das nossas relações diplomáticas, Brasil-Argentina. Propondo, até - coincidimos até na proposta - de nos integrarmos, integrar o Mercosul com a Aliança do Pacífico, com os países, portanto, da América do Sul, México, que é uma aliança importante para todos nós.",
+                "Eu constato que essa coesão não é restrita aos nossos governos. Que nossos empresários, nossos trabalhadores, nossos estudantes, estão engajados nessa obra coletiva, que é a prosperidade comum de Argentina e Brasil.",
+                "Aliás, traço adicional que nos une hoje é a convicção de que é preciso agir, não basta enaltecer o passado. É tempo de convergência pragmática, que nos faz avançar naquilo que é essencial. É tempo de ampliar o comércio, ampliar os investimentos, ampliar oportunidades para argentinos e brasileiros, já que a esta altura, não há tabus na relação Brasil- Argentina.",
+                "E é esse espírito de realização, esse sentido de responsabilidade, esse compromisso com resultados, que fortalecerá nossa parceria. Parceria que é, presidente Macri, tanto mais importante no mundo em que vivemos. No momento em que ganham força, tendências de desunião, isolamento e protecionismo, Argentina e Brasil respondem com mais aproximação, com mais diálogo, com mais comércio. Respondem, sobretudo, com uma só voz.",
+                "Senhor presidente,A liderança agregadora de vossa excelência neste panorama de incertezas, devo dizer, é motivo de nossa admiração e de nosso reconhecimento. Aliás, sentimentos que faço questão de expressar, por singelos gestos de homenagem ao conferir-lhe o grande Colar da Ordem Nacional do Cruzeiro do Sul, a mais alta honraria brasileira outorgada a Chefe de Estado estrangeiro.",
+                "Portanto, para celebrar a amizade que irmana Argentina e Brasil, eu quero levantar, ou propor dois brindes. O primeiro, se me permite a intimidade, em comemoração antecipada do aniversário do meu prezado amigo Mauricio Macri, no dia de amanhã. Em nome de todos os brasileiros, meus afetuosos parabéns, muitas alegrias e continuadas realizações.",
+                "O segundo brinde é pelo progresso da nação Argentina, pela felicidade desse povo irmão, pela amizade fraternal que nos une.",
+                "Saúde, portanto."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Declaração à Imprensa do Presidente da República, Michel Temer, após Assinatura de Atos com o presidente da República Argentina, Mauricio Macri – Palácio do Planalto, 7 de fevereiro de 2017",
+            "subtitulo": "NA",
+            "data": "07/02/2017",
+            "horario": "17h17",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/declaracao-a-imprensa-do-presidente-da-republica-michel-temer-apos-assinatura-de-atos-com-o-presidente-da-republica-argentina-mauricio-macri-palacio-do-planalto-7-de-fevereiro-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Quero cumprimentar a todos, especialmente o presidente Mauricio Macri, e dizer da extraordinário honra que temos por recebê-lo, e a sua comitiva.",
+                "Registro que o encontro de hoje consolida, na verdade, a retomada da tradição de encontros presidenciais entre o Brasil e a Argentina.",
+                "Ainda muito recentemente, estive visitando a Argentina, onde fui delicadamente recebido pelo presidente Macri e por todo seu governo.",
+                "Portanto, esse é o meu terceiro encontro com o presidente Macri, em um período de 6 meses.",
+                "Nós conversamos sobre o momento de especial convergência entre o Brasil e a Argentina, nós temos desafios semelhantes. A urgência do crescimento econômico e da geração de empregos.",
+                "Temos, também, convenhamos, modos semelhantes de enfrentar esses desafios, reformas ambiciosas e fortalecimento da competitividade.",
+                "Aqui no Brasil, presidente Macri, eu tenho dito que o nosso governo é o governo das reformas. Nós temos sido ousados, mas, necessariamente ousados para fazer as reformas necessárias para o Brasil. Como tenho acompanhado também a mesma coragem cívica e governamental, por que Vossa Excelência tem promovido as reformas na Argentina.",
+                "Devo dizer que concordamos que é preciso aproveitar a atual convergência entre nossos países em favor de brasileiros e argentinos. Quero até registrar que, na semana passada, já no contexto da preparação do nosso encontro, e vejam a importância desse encontro. Antes dele, praticamente sem representantes dos nossos governos, 50 de lado a lado, se reuniram por dois dias para tratar dos temas da nossa densa agenda econômico/comercial. Parte dos resultados que alcançaram está refletida no comunicado conjunto que emitimos hoje.",
+                "Ficou claro, claríssimo, que não há tabus nas relações do Brasil e Argentina. Não há questões que, por complexas que sejam, não possam ser tratadas e encaminhadas e solucionadas.",
+                "E devo dizer até que nessa reunião, nós buscamos resultados concretos. Aliás, quando falei ao telefone com o senhor presidente Macri, para mais uma vez reiterar o convite para sua vinda ao Brasil, muito objetivamente sua excelência me disse: Olhe, vamos tentar apresentar resultados concretos. E é exata e precisamente o que está acontecendo no dia de hoje.",
+                "Nossos ministros assinaram, agora, acordos para atendimento a comunidade fronteiristas. Um tema que angustia o Brasil, mas angustia todos os países que fazem fronteira com o Brasil.",
+                "As principais decisões tomadas em nosso encontro estão sendo consolidadas em um documento. Um plano de ação que será objeto, será objeto de acompanhamento atento por nossos ministros. Não haverá, digamos assim, dispersão de esforços.",
+                "Eu ressalto os avanços nos nossos entendimentos, sobre cooperação regulatória. Para tornar mais fluídos os fluxos de comércio e de investimentos, temos que reduzir e é o que foi debatido, temos que reduzir ao mínimo as barreiras técnicas, sanitárias e fitosanitárias.",
+                "Avançamos, ainda, em temas como puderam perceber, como segurança das fronteiras e aprimoramento da nossa integração física. Por exemplo, estamos modernizando a hidrovia Paraguai-Paraná.",
+                "O presidente Macri também está no Brasil como presidente pro tempore do Mercosul. E daí porque, muitas matérias referentes ao Mercosul, também foram tratadas neste nosso encontro. E acho que até avançamos substancialmente. Que não apenas falamos naquilo que reiteradamente se fala, do acordo Mercosul - União Europeia, como levantamos o tema de uma integração cada vez maior da América Latina, no particular, América do Sul, México, inclusive, para fazermos uma relação mais próxima do Mercosul e aliança para o Pacífico.",
+                "E foi assim que nós tratamos dessa matéria. E coincidimos, também, promover a eliminação de obstáculos ao comércio que persistem no espaço do Mercosul. E, evidentemente, que nesse espaço Mercosul, nós temos progredido muito. Nas negociações de um acordo de investimentos e de compras governamentais . Aliás, acabei durante a reunião de saudar mais uma vez o presidente Macri, pelo impulso que ele deu ao próprio Mercosul neste seu período de presidência pro tempore. Já que no próximo semestre essa presidência caberá ao Brasil e nós queremos juntos continuar a trabalhar, não só agora, mas também no próximo semestre.",
+                "De modo que, diante de um mundo de tantas e tamanhas incertezas, a resposta do Brasil e da Argentina como fruto desse encontro é mais e mais cooperação e integração.",
+                "Muito obrigado ao presidente Macri."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "marcos-bezerra-abbott-galvao-2016-2018"
+            ],
+            "titulo": "Discurso do ministro, interino, das Relações Exteriores, embaixador Marcos Galvão, por ocasião da assinatura de portaria conjunta MRE, TSE, TRE-DF",
+            "subtitulo": "Brasília, 23 de fevereiro de 2017",
+            "data": "23/02/2017",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/12/2024"
+            ],
+            "horario_atualizado": [
+                "12h14"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/marcos-bezerra-abbott-galvao-2016-2018/discurso-do-ministro-interino-das-relacoes-exteriores-embaixador-marcos-galvao-por-ocasiao-da-assinatura-de-portaria-conjunta-mre-tse-tre-df",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Esta cerimônia é mais uma expressão da parceria entre o Itamaraty, o Tribunal Superior Eleitoral e o Tribunal Regional Eleitoral do Distrito Federal.Estamos aqui para renovar, formalmente, uma iniciativa, lançada pela primeira vez há dois anos, que nos ajudará a aperfeiçoar a prestação de serviços às comunidades brasileiras no exterior.O exercício do direito de voto no exterior não é um tema menor. Estima-se que mais de 3 milhões de brasileiros vivam hoje em outros países. Desse total, apenas cerca de 460 mil estão cadastrados para votar. É um número ainda modesto, mas que estamos trabalhando para aumentar.O convênio que renovamos hoje ajudará a manter os vínculos desse amplo contingente de expatriados com o Brasil, assegurando o pleno exercício de sua cidadania e dando-lhes voz na definição dos destinos políticos de nosso país.",
+                "Senhoras e Senhores,",
+                "Os temas eleitorais são uma parte importante da agenda consular do Itamaraty desde a promulgação da Constituição de 1988, que estendeu às nossas comunidades emigradas o direito de voto.Ao direito ao voto, juntar-se-iam vários outros nas décadas seguintes, como o direito ao recebimento da previdência social e do FGTS, orientação educacional e trabalhista, proteção às populações mais vulneráveis, entre outros.Nossa filosofia de trabalho é esta: assegurar os direitos a todos os brasileiros que moram fora, mantendo suas ligações com o país de sua cidadania.A ampliação desse acesso a serviços públicos no exterior somente é possível em razão das parcerias entre o Itamaraty e os órgãos responsáveis pelo tratamento de cada uma dessas áreas no Brasil.Foi justamente nossa parceria com a Justiça Eleitoral que permitiu ampliar o número de seções eleitorais em localidades com concentrações importantes de eleitores, porém distantes dos postos consulares. Assim, temos levado o efetivo direito ao voto a novas comunidades, em esforço para corrigir, gradativamente, o baixo índice de cadastramento eleitoral e de comparecimento às urnas.Nossa atuação conjunta também possibilitou que levássemos a urna eletrônica para o exterior. Isso permitiu que os votos fossem contabilizados e transmitidos à Justiça Eleitoral em tempo real.Hoje podemos celebrar mais um avanço relevante, com o lançamento do \"Título Net\", que permitirá o alistamento e transferência eleitoral no exterior por meio eletrônico, em substituição ao processo manual que demandava prazos maiores de processamento.O \"Título Net\" facilitará a regularização da situação eleitoral dos brasileiros que vivem fora do país. Além disso, essa ferramenta demonstra o quão avançada é a tecnologia de nossa Justiça Eleitoral, vista hoje como uma referência em todo o mundo. O que estamos fazendo com o \"Título Net\" é simplesmente pôr mais esse progresso tecnológico a serviço de nossos cidadãos.A renovação do mandato do Grupo de Trabalho entre o Itamaraty, o Tribunal Superior Eleitoral e o Tribunal Regional Eleitoral permitirá que continuemos, nos próximos anos, a conceber iniciativas similares que levem a um aperfeiçoamento contínuo do processo eleitoral no exterior.Antes de concluir, em nome do Itamaraty, quero reiterar o meu agradecimento ao Ministro Gilmar Mendes e ao Desembargador Romeu Gonzaga Neiva, por meio de quem saúdo todos os representantes da Justiça Eleitoral aqui presentes, por sua constante colaboração com o Itamaraty na defesa dos interesses das comunidades brasileiras no exterior.Servir ao público é a nossa missão, o ofício de todos nós. É o que fazemos aqui na manhã de hoje.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Brasil e Argentina: tempo de convergência pragmática (O Globo, 7/02/2017)",
+            "subtitulo": "NA",
+            "data": "07/02/2017",
+            "horario": "13h17",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h34"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-artigos/michel-miguel-elias-temer-lulia-2016-2018/brasil-e-argentina-tempo-de-convergencia-pragmatica-o-globo-7-02-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "A união de Brasil e Argentina é ainda mais necessária num mundo que, imerso em incertezas, cede a influências desagregadoras. É preciso recuperar o tempo perdido. Os destinos de argentinos e brasileiros são em larga medida comuns. A integração de nossas sociedades — cultivada no terreno da democracia — tornou-se tão profunda que, hoje, a prosperidade que buscamos é a prosperidade compartilhada. A aliança estratégica Brasil-Argentina constitui, para nós, imperativo do desenvolvimento.",
+                "Nossa união é ainda mais necessária num mundo que, imerso em incertezas, cede a influências desagregadoras. Diante de nacionalismos exacerbados e de crescentes pressões protecionistas, temos que nos aproximar e nos articular cada vez mais — nas dimensões política, econômica, científica e tecnológica, de segurança pública. Nossa resposta a tendências isolacionistas deve ser mais integração.",
+                "É sob o signo dessas convicções que, neste 7 de fevereiro, terei o prazer de receber em Brasília, para visita de Estado, o presidente Mauricio Macri — nosso terceiro encontro em seis meses. Nosso móvel será, estou certo, pôr as relações entre os dois países a serviço não de concepções dogmáticas, mas dos valores e dos interesses de argentinos e brasileiros. Nosso encontro estará concentrado em medidas concretas que se traduzam em crescimento econômico, em mais empregos, em maior bem-estar para todos.",
+                "Vivemos novo momento da parceria entre o Brasil e a Argentina. Temos desafios de mesma natureza e formas semelhantes de enfrentá-los. Ingressamos em ciclo de convergência pragmática, de compromisso com o dia a dia de nossos povos. Há que recuperar o tempo perdido —e é o que temos feito. Nos últimos três meses, houve significativo aumento das importações de produtos argentinos pelo Brasil, importante sinal de retomada de dinamismo econômico.",
+                "Junto ao presidente Macri, sempre em nome de resultados práticos, já pudemos retomar a regularidade e a qualidade do diálogo entre nossos governos. Recompusemos canais bilaterais que haviam sido virtualmente congelados. Ministros de parte a parte voltaram a reunir-se com assiduidade, e instâncias técnicas voltaram a funcionar. Com isso, por exemplo, questões comerciais que antes ficavam paralisadas por meses encontram, agora, espaços institucionais de encaminhamento.",
+                "Em Brasília, seguiremos aprimorando esse ambiente construtivo nas relações bilaterais. Objetivos já antigos, como o da cooperação em normas técnicas, sanitárias e fitossanitárias, serão retomados. A coordenação no combate ao crime organizado transnacional será fortalecida. Projetos conjuntos em áreas intensivas em conhecimento, como a nuclear, a espacial e a aeronáutica, merecerão atenção redobrada. Trataremos da agenda das fronteiras e, em especial, da integração física.",
+                "O presidente Macri nos visitará, também, como presidente pro tempore do Mercosul — responsabilidade que cabe à Argentina neste primeiro semestre de 2017 e que, no segundo semestre, passará ao Brasil.",
+                "É hora de redinamizar o Mercosul, que só fará sentido se voltar a responder aos anseios dos cidadãos dos Estados-membros. É hora de retomar a trilha da efetiva integração. A dispersão de esforços legou-nos um saldo modesto de realizações.",
+                "É tempo de trabalharmos lado a lado com os demais sócios pelo resgate do espírito original do Mercosul: livre mercado e democracia. Para dentro do bloco, revitalizaremos o mercado comum, sob o primado do estado de direito. Para fora, diversificaremos as negociações com atores relevantes da economia global — países desenvolvidos e em desenvolvimento, países de nossa região e de todos os continentes.",
+                "Aguardo o presidente Macri, de braços abertos, para reafirmar a prioridade que atribuímos às relações com a Argentina na política externa e na visão de desenvolvimento do Brasil. Celebraremos, uma vez mais, a amizade que irmana nossos povos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

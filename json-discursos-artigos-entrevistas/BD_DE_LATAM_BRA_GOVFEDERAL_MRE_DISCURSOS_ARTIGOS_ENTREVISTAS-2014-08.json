@@ -1,0 +1,562 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Declaração à imprensa da Presidenta da República, Dilma Rousseff, por ocasião da cerimônia de atos com o primeiro-ministro do Japão, Shinzo Abe – Brasília, 1º de agosto de 2014",
+            "subtitulo": "NA",
+            "data": "01/08/2014",
+            "horario": "20h31",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/declaracao-a-imprensa-da-presidenta-da-republica-dilma-rousseff-apos-cerimonia-de-atos-com-o-primeiro-ministro-do-japao-shinzo-abe-brasilia-1-de-agosto-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "dilma-vana-rousseff-2011-2016"
+            ],
+            "titulo": "Discurso da Presidenta da República, Dilma Rousseff, por ocasião do almoço em homenagem ao Primeiro-Ministro do Japão, Shinzo Abe – Brasília, 1º de agosto de 2014",
+            "subtitulo": "NA",
+            "data": "01/08/2014",
+            "horario": "20h28",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/dilma-vana-rousseff-2011-2016/palavras-da-presidenta-da-republica-dilma-rousseff-durante-almoco-em-homenagem-ao-primeiro-ministro-do-japao-shinzo-abe-brasilia-1-de-agosto-de-2014",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Discurso do Presidente Fernando Henrique Cardoso no almoço em homenagem à Presidente do Panamá, Mireya Moscoso",
+            "subtitulo": "PALÁCIO ITAMARATY, BRASÍLIA, DF, 21 DE AGOSTO DE 2001",
+            "data": "21/08/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "30/12/2024"
+            ],
+            "horario_atualizado": [
+                "13h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/discurso-do-presidente-fernando-henrique-cardoso-no-almoco-em-homenagem-a-presidente-do-panama-mireya-moscoso",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Sinto-me honrado, Presidente Mireya Moscoso, em saudar Vossa Excelência e sua ilustre comitiva na primeira visita de um Chefe de Estado panamenho ao Brasil. A satisfação é redobrada por saber que a visita se realiza no ano em que a nação panamenha celebra cinco séculos de história. Guardo as melhores lembranças de minha passagem pelo Panamá em novembro passado, quando tive a emoção de entregar-lhe as Atas do Congresso Anfictiônico, de 1826. Alegra-nos saber que o documento, graças ao empenho de Vossa Excelência, já está abrigado em espaço construído para esse fim e com nome dos mais sugestivos, Salão Bolívar. Também por força de seu empenho, Presidente Moscoso, sei que a Embaixada do Panamá em Brasília logo contará com novas instalações, idealizadas por Virgílio Sossa, nome caro ao Panamá, mas também ao Brasil. O arquiteto Sossa esteve ao lado de Oscar Niemeyer e Lúcio Costa na construção da cidade que hoje acolhe Vossa Excelência. Diria que o projeto de uma nova Embaixada é emblemático do atual momento das relações entre o Brasil e o Panamá, que se encontram no limiar de uma nova fase, uma fase de maior concertação política, de parceria na integração hemisférica, de reforço no comércio e investimentos, de ampliação da cooperação bilateral.",
+                "udo concorre para que o diálogo político entre nossos países ganhe em densidade, a começar pela participação crescente da América Central no Grupo do Rio, que acaba de realizar sua XV Reunião de Cúpula em Santiago do Chile. Neste e em outros foros, como a própria OEA, o Brasil conta com o apoio do Panamá para a promoção do objetivo comum de afirmação continuada da paz e da democracia na América Latina. Coincidimos em prestar firme apoio ao empenho do Presidente Pastrana em levar a bom termo a estratégia de seu Governo para a resolução dos conflitos internos na Colômbia. O Governo brasileiro também confia em que os países centroamericanos possam encontrar uma solução negociada para suas pendências de fronteira. Cumprimento Vossa Excelência pelo esforço em facilitar as negociações regionais. O Brasil comparte a preocupação do Panamá com a ameaça representada pelas drogas e pelos delitos conexos à estabilidade e à coesão das sociedades nacionais. Os instrumentos que assinamos há pouco vão balizar nossa cooperação no combate a um flagelo que hoje afeta todos os países do hemisfério. Mas a agenda hemisférica também comporta outros desafios, como a perspectiva de uma integração comercial que produza benefícios equânimes do Alasca à Terra do Fogo. Felicito o Panamá por estar hospedando a Secretaria Administrativa da Alça. Estou convencido de que o hemisfério somente alcançará maior integração e eficiência se as tratativas forem regidas por visão mais ampla do que aquela que alimenta as agências internacionais de risco. Não se avança no plano das relações entre os Estados sem o exercício da responsabilidade política, o que requer atenção às expectativás e aos anseios das comunidades nacionais, algo nem sempre objeto da contabilidade dos mercados.",
+                "O momento exige um maior descortino histórico, inclusive na gestão das instâncias financeiras multilaterais. Estas, em essência, são algumas das mensagens que uniram os Presidentes do Grupo do Rio no recém-concluído encontro de Santiago. Interessados em uma concertação hemisférica que opere em bases simétricas, o Brasil e o Panamá também partilham o compromisso com seus respectivos processos de integração. Sabemos que, na América do Sul ou na América Central, somos mais fortes unidos do que separados. Em parceria com os vizinhos temos condições de melhor aproveitar as possibilidades abertas pela globalização paira o avanço tecnológico e a geração de riquezas. O Brasil acompanha com interesse o andamento do Mercado Comum Centro-Americano e do Sistema de Integração Centro-Americano e está empenhado em fazer progredir a aproximação do Mercosul com a América Central. É chegado o momento de expandir os vínculos entre nossos blocos. É hora de adensar as relações económicas entre o Brasil e o Panamá. Na visita que acaba de realizar a São Paulo, Vossa Excelência pôde confirmar o interesse dos empresários brasileiros em se familiarizarem com as oportunidades de comércio e investimento em seu país. Passos importantes já foram dados, como a missão empresarial que esteve no Panamá em março último. Sei também de empresas brasileiras que já se beneficiam das facilidades logísticas disponíveis em seu país para o desenvolvimento de atividades no mercado centro-americano. Ainda digna de nota é a participação de um consórcio de grupos nacionais na concorrência para a construção da segunda ponte sobre o Canal do Panamá. Estou certo de que outras possibilidades podem ser abertas no campo da infra-estrutura, sobretudo agora que o 'Governo de Vossa Excelência se empenha na criação de pólos de integração e desenvolvimento.",
+                "Vossa Excelência sabe que o conceito de eixos de desenvolvimento está na matriz do meu programa de Governo e tem encontrado ampla receptividade entre os países sul-americanos, interessados como o Brasil em aprofundar a integração regional em transportes, energia e comunicações. É com satisfação que vejo o Panamá e o México envolvidos em experiência congénere, como me parece ser o caso do eixo Puebla Panamá. Se é amplo o potencial a ser explorado por nossos países no campo económico, é igualmente consistente o espaço para cooperação em temas educacionais e culturais. Vejamos, por exemplo, a folha de serviços do Convénio Cultural de 1947, que já permitiu a presença de mais de 5 mil estudantes panamenhos em universidades brasileiras. Outras iniciativas de semelhante impacto podem ser idealizadas com o apoio das sociedades panamenha e brasileira. Basta que os Governos exerçam a contento o papel de catalisador do intercâmbio bilateral, o que estamos procurando fazer. Estou convencido, sobretudo após o encontro que mantivemos na manhã de hoje, de que existe, de parte a parte, a vontade política e a determinação de fazer com que a amizade entre nossos povos prospere sempre mais. . Só me resta solicitar que todos os presentes me acompanhem em um brinde ao futuro das relações entre o Brasil e o Panamá, ao progresso do povo panamenho, em sua maioridade de 500 anos, e à saúde e felicidade pessoal de Vossa Excelência.",
+                "Muito obrigado"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Discurso do Presidente Fernando Henrique Cardoso  em sessão solene da Assembleia Geral da República Oriental do Uruguai",
+            "subtitulo": "MONTEVIDÉU, URUGUAI, 20 DE AGOSTO DE 2002",
+            "data": "20/08/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h25"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/discurso-do-presidente-fernando-henrique-cardoso-em-sessao-solene-da-assembleia-geral-da-republica-oriental-do-uruguai",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Agradeço a oportunidade de voltar a falar aos Representantes do querido povo uruguaio. Há muito admiro este Parlamento, que traz a marca de uma nação comprometida com os valores da justiça e da liberdade. A República Oriental do Uruguai sempre me pareceu a estrela-guia da América do Sul, divisando novos caminhos, antecipando o futuro. Quando tinha por ofício pesquisar e escrever sobre o continente, o que fiz por anos a fio, pude perceber o quanto a experiência uruguaia serviu de referência para os esforços de modernização económica e social na região. Em meu livro com Enzo Faletto sobre dependência e desenvolvimento na América Latina, cheguei a tratar das transformações extraordinárias realizadas neste país pelo Presidente José Batlle y Ordonez no início do século XX.",
+                "Bem antes de Yrigoyen e Perón na Argentina e de Cárdenas no México, o Uruguai soube colocar o Estado a serviço da diversificação e da ampliação do mercado interno. Soube abrir espaço para a incorporação da classe média e de setores populares na estrutura produtiva, para não falar dos alicerces então firmados de um sistema de bem-estar social.",
+                "Somente três décadas depois, já nos anos quarenta, sob o Estado Novo, os trabalhadores brasileiros fariam jus aos direitos conquistados pelos uruguaios durante a gestão de Batlle y Ordonez. Não surpreende que este país hoje conte com uma das estruturas sociais mais equilibradas e coesas do hemisfério. Se o Uruguai contribuiu para dar o tom da evolução económica e social da América Latina, conseguiu também produzir pensadores com horizonte largo. Contemporâneo do \"batllismo\", José Enrique Rodo consultou a tradição para refletir sobre o futuro. Suas ideias estimularam o debate, ao redor do continente, sobre as fidelidades regionais, do qual participaram muitos brasileiros, como Eduardo Prado, Joaquim Nabuco e o Barão do Rio Branco.",
+                "A capacidade de irradiação da inteligência uruguaia está longe de esgotar-se. António Cândido, um dos grandes intelectuais do Brasil, não esconde sua admiração pela obra de Ángel Rama. Ressalta o talento de Rama em mostrar como literatos da estirpe de Juan Rulfo e Guimarães Rosa conseguiram ser universais sem sacrificar o timbre e a originalidade locais. Do tempo de Nabuco à geração de Cândido, os brasileiros aprenderam a navegar auscultando o pulso do pensamento uruguaio. Não tem sido outra minha motivação em visitar o Uruguai, sempre que posso, e em dialogar com seus líderes, parlamentares, empresários e intelectuais.",
+                "Venho em busca de inspiração para melhor compreender e enfrentar os desafios de nossa época. O momento internacional causa inquietação. O mercado talvez jamais se tenha comportado de forma tão contrária a seus próprios interesses, ignorando os fundamentos económicos, gerando falsas expectativas.",
+                "Mas os surtos de insensatez, sobretudo no mundo dos negócios, costumam ter fôlego curto. Terminam prevalecendo as oportunidades reais de comércio e investimento, especialmente quando essas oportunidades estão ancoradas na determinação de uma sociedade em fazer valer suas expectativas legítimas por estabilidade e crescimento, como é o caso neste país, como é o caso no Brasil, como é o caso, também, na Argentina e no Paraguai. A história mostra que os uruguaios sabem andar de mãos dadas em dias de tormenta. Assim também procedem os brasileiros, inclusive por conta do amadurecimento democrático.",
+                "A democracia é a legitimação das diferenças, mas reclama coesão em torno dos objetivos de interesse comum. O desenvolvimento com estabilidade é um desses ideais maiores. Como o é a justiça social, como o é o combate à pobreza e à exclusão. Quanto mais afinadas estiverem as forças políticas em relação ao atacado, mais produtiva será a negociação no varejo. Esta Assembleia pluralista é um bom exemplo. Como é exemplo o próprio governo do Presidente Batlle, que reeditou uma aliança entre colorados e blancos. A liderança política pressupõe, acima de tudo, responsabilidade e compromisso. É o que o povo reclama, e é o que todo homem público de boa-fé tem como diretriz.",
+                "Ontem, recebi em Brasília os principais candidatos à eleição presidencial. Quis discutir com eles o presente e o futuro. Como disse semanas atrás em Guayaquil, na reunião de Presidentes da América do Sul, quando há dificuldades e obstáculos, aos líderes da região não cabe simplesmente lamentar, mas trabalhar e construir caminhos que possam servir de pontes entre o presente e o futuro. Trabalhar e construir, com seriedade e confiança. Não se trata de apelo à união nacional contra ameaças de fora ou por conveniências políticas de uns ou de outros. Nem o mundo se confunde com os especuladores, nem as sociedades podem ser enganadas. As evidências são por demais eloquentes de que a comunidade internacional sabe que estamos no rumo certo, que não foi ditado, mas escolhido. Estamos de pé como Estados e estamos de pé como comunidade de nações.",
+                "O Mercosul tem um lastro histórico e político que é imune à cizânia. Se iniciamos juntos o projeto de integração, estou certo de que continuaremos juntos a usufruir de seus benefícios. Desconheço outro bloco regional que tenha contribuído tanto, em tão pouco tempo, para o adensamento dos vínculos entre as Partes e destas com o mundo. Os desajustes de conjuntura são inerentes a qualquer esforço de acomodação de vontades soberanas. O importante é identificar o potencial de renovação que vem embutido nas situações de crise. A,evolução política da Argentina, por exemplo, favoreceu a busca de convergência macroeconômica, quem sabe aproximando o sonho da moeda única. Confio na recuperação económica e social da Argentina, como confio na força da Nação uruguaia e de todo o Mercosul. Estão dadas as condições para que as arestas no comércio intraregional sejam de todo aparadas, inclusive entre o Brasil e o Uruguai. Também sou otimista quanto às perspectivas de integração das cadeias produtivas, para não falar do consenso sobre a importância de uma maior institucionalização do bloco.",
+                "O Brasil está fazendo o possível para deixar como legado de sua presidência pró tempore a formalização do acordo entre o Mercosul e a Comunidade. Andina. Também continuaremos empenhados no esforço de criação de um espaço económico sul-americano. Nada credencia melhor o continente como pólo de comércio e investimento do que a projetada integração em energia, transporte e comunicações. Em fins de outubro o Brasil assume, ao lado dos Estados Unidos, a presidência do processo negociador da Área de Livre-Comércio das Américas.",
+                "A posição do Governo brasileiro é clara: a Alça somente será atraente se assegurar benefícios equilibrados a todo o hemisfério, o que implica maior acesso aos mercados mais afluentes. Sem isso, como afirmei em Québec, a Alça torna-se irrelevante ou perde sua razão de ser.",
+                "Tenho a convicção de que saberemos negociar, defendendo nossos interesses, sem esquecer que o futuro depende de maior acesso aos grandes mercados do mundo. Não são menores as expectativas do Brasil em relação à meta de associação do Mercosul com a União Europeia. A integração comercial dos dois blocos somente nos parece aceitável se facilitar o acesso de nossos produtos ao mercado agrícola europeu. Algo conseguimos, em outro setor, no acordo sobre têxteis. Há, portanto, razões para a esperança. Somos e permaneceremos amigos dos Estados Unidos e da Europa. Mas parceria em comércio exige reciprocidade. De outra forma não pode haver acordo, seja com o Próspero do Norte, seja com o Ariel d'além-mar, para usar os arquétipos de José Enrique Rodo. Mas confio em um cenário mais alentador.",
+                "Já diziam os clássicos que o comércio traz o benefício de temperar os costumes e aproximar os povos. Existe comprovação maior dessa tese do que o histórico do Mercosul? Rivalidades históricas foram superadas. A democracia prosperou e hoje é condição para ingresso e permanência no bloco. As sociedades nacionais aprofundaram o diálogo recíproco, tornando-se as principais avalistas da dinâmica de integração. São conquistas que reclamam a abertura de outras frentes, a busca de parceiros interessados em uma prosperidade compartilhada. Sejamos universalistas, para reforço do Mercosul, para o bem de nossos países. É esta a mensagem que quis trazer a esta ilustre Casa, em atenção a tudo que tenho aprendido com a experiência desta nação irmã, que tem, desde sempre, os olhos postos no futuro. Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Discurso do Presidente Fernando Henrique Cardoso  por ocasião de Sessão Extraordinária do Comité de Representantes da Aladi",
+            "subtitulo": "MONTEVIDÉU, URUGUAI. 20 DE AGOSTO DE 2002",
+            "data": "20/08/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h34"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/discurso-do-presidente-fernando-henrique-cardoso-por-ocasiao-de-sessao-extraordinaria-do-comite-de-representantes-da-aladi",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Eu me entusiasmei escutando português e, como da outra vez em que aqui estive falei em espanhol, agora vou falar em português, que, pelo que posso ver, passou a ser língua comum neste foro. Queria salientar a alegria com que visito a Aladi. Já manifestei meu entusiasmo da outra vez em que aqui estive, porque sempre participei do espírito dos que trabalharam por uma integração latino-americana. Desde o início de minha carreira como pesquisador, mesmo antes de eu ter conhecimento maior dos problemas do continente, a questão da integração chamava-me a atenção. Se me permitem uma referência pessoal: fiz um trabalho quando houve a famosa Conferência Hemisférica, em Punta dei Este, da qual participou Che Guevara. Era um trabalho preparatório solicitado pela Cepal para aquela reunião. Fiz o trabalho a pedido de um grande amigo e orientador, um grande intelectual, espanhol e latino-americano, Don José Medina Echevarría, que trabalhou muitos anos na Cepal. Medina Echevarría era um sociólogo que tinha muito interesse em assuntos que, na época, não pareciam muito usuais. Primeiro, era de formação liberal e, segundo, tinha uma visão da importância dos empreendedores no desenvolvimento das sociedades. Havia forte influência da sociologia alemã em seu pensamento. Conhecia muito a obra de Werner Sombart, que foi um dos grandes pensadores sobre a burguesia, sobre os Unternehmer, os empresários, em alemão. Ele já havia solicitado um trabalho sobre o empresariado no Brasil e pediu-me que fizesse um estudo rápido sobre o problema da integração tal como era visto no Brasil. E, para minha surpresa, naquela época, a integração era vista pelos nossos empresários como algo muito, muito distante. Não havia a menor preocupação, a mais remota preocupação com o assunto. Era um tema intelectual e burocrático. A Cepal tinha interesse no tema, eventualmente algum diplomata e alguns intelectuais também, mas não havia, na verdade, entre os empresários, nem sequer a motivação para ir além da fronteira do Brasil - fronteira tão grande, tão distante, para que atravessá-la?",
+                "Isso foi ontem, faz muito pouco tempo. De lá para cá, avançamos muito. E a Aladi é parte desse avanço. Quero agradecer o trabalho que tem sido feito aqui, na Aladi, o trabalho do Secretário-Geral da Associação, o trabalho dos funcionários e dos Embaixadores que têm cooperado para a realização desse ideal. A ideia da integração latino-americana, como acaba de ser dito, mostra que é sempre melhor estarmos juntos do que isolados. Essa crença torna-se mais forte, paradoxalmente, quando percebemos o desafio de uma economia globalizada e vemos que nessa economia globalizada há certas condições essenciais para que possamos lograr avanços em nossos países.",
+                "Uma dessas condições é a democracia. Hoje em dia, não se cogita mais da possibilidade de integração a não ser na democracia. Antes não era assim. No passado, a ideia de democracia estava muito distante da ideia de integração. Não quero cansá-los com pequenos casos, mas uma vez Don Raul Prebisch me pediu que fosse à América Central, quando estávamos ainda nos primórdios da formação do mercado centro-americano e da criação do Banco de Desenvolvimento Centro-Americano. A integração era uma discussão que me assustava um pouco, porque quase todos os Presidentes eram ditadores. E não eram só os da América Central. Havia uma onda de regimes autoritários na América Latina, e isso não parecia impedimento aos adeptos da ideia integradora. Hoje, a integração está condicionada à prioridade de certos valores, e a democracia é um deles. Mais ainda: com a globalização, não existe apenas essa espécie de correlação virtuosa entre democracia e integração, mas também a noção de que a integração é um complemento indispensável dos projetos nacionais. Não se pensava assim nos anos cinquenta, nem mesmo nos anos sessenta. Sobretudo nos grandes países, com populações maiores, não era essa a visão. A visão era muito mais a de que nos bastávamos a nós próprios, quero dizer, os grandes países não tínhamos motivos sequer para pensar em inserção no mundo, quanto mais em integração com os nossos vizinhos.",
+                "Isso mudou completamente. Hoje, no Brasil, a ideia de integração latino-americana é preceito constitucional. Está na Constituição do Brasil - aliás, por sugestão do antigo Governador de São Paulo, Franco Montoro. Por que digo isso? Porque temos que evitar perceber esses processos com uma visão de curto prazo, cortoplacista, como se diz em espanhol. Temos que ter uma visão de mais longo prazo. A Constituição brasileira é de 1988, e eu me referia aos primeiros trabalhos dos anos sessenta, quando comecei a pensar nessas questões. A visita à América Central terá sido lá por 1966. Vinte e dois anos depois, em 1988, um país como o Brasil, do porte do Brasil, coloca a integração latinoamericana como preceito em sua Constituição. Quer dizer, houve uma mudança muito rápida na concepção do processo de integração e, na verdade, também nas práticas integradoras. Isso é um património extraordinário, que precisamos preservar e levar adiante.",
+                "É claro que, no caso do Brasil, estamos realmente empenhados em aproximação e convergência crescentes com os países da Aladi, além do Mercosul. Acabo de falar no Palácio Legislativo do Uruguai sobre o Brasil e o Uruguai no Mercosul, que para nós é realmente um património, um projeto político-histórico. Não é simplesmente um tratado de comércio: é uma visão de como vamos conviver pelos séculos afora com os nossos vizinhos. Pois no Brasil estamos empenhados em avançar além do Mercosul. Fizemos acordos com o Chile, Bolívia, Cuba, México, Colômbia, Equador, Peru e Venezuela. Há dois anos, os Presidentes da América do Sul reuniram-se em Brasília e, recentemente, em Guaiaquil, para tomar decisões que dizem respeito à integração física entre os nossos países e também a outros temas importantes. Por exemplo, na Segunda Cúpula Sul-Americana, definimos nossa região como zona de paz. Pode parecer que seja apenas uma declaração, mas é através de declarações que vamos motivando e criando sociabilidade e valores, fazendo com que as condutas se orientem por esses valores. Atribuo muita importância às mudanças ocorridas em nossa região, que crescentemente nos foram levando a essa compreensão de que é preciso, primeiro, uma integração econômico-comercial, mas que a integração deve ir muito além. Estamos visando projetos de articulação regional em energia, transportes e telecomunicações.",
+                "Acabamos de fazer um acordo de complementação económica entre o Brasil e o México. A vitalidade do comércio entre o Brasil e o México é visível. Há algum tempo, isso era quase impensável. Levamos dois anos discutindo o acordo com o México. Por quê? Porque havia oposição de um pequeno setor da economia, que não via a importância da iniciativa. Uma vez feito o acordo, todos passam a ver sua imensa importância. Acabamos de firmar um acordo-quadro entre o Mercosul e o México. O Brasil está realmente muito empenhado em aprofundar os valores da integração mediante esses instrumentos. Vamos também avançar mais na relação entre a Comunidade Andina e o Mercosul. Quando temos turbulências financeiras como agora, a Aladi é o porto seguro. A Aladi é o nosso porto seguro. O avanço que temos feito em várias áreas, nas relações bilaterais, nos acordos da América do Sul, nos acordos com o México, nada disso prescinde da existência desse porto seguro, da existência de um guarda-chuva, que nos permita, tantas vezes, avançar, e bastante. Podemos avançar mais. O Convénio de Pagamentos e Créditos Recíprocos é importante e merece muita atenção, porque pode nos ajudar a avançar ainda mais, sobretudo nestes momentos.",
+                "Vocês não podem imaginar a aflição que causou a situação difícil pela qual passou recentemente a Argentina e passa, na verdade, toda a região, na questão do comércio, na interrupção dos fluxos de comércio. Se não dispusermos de mecanismos que permitam facilitar entre nós próprios a recuperação mais rápida desses fluxos de comércio, as consequências podem ser muito negativas. O que aconteceu corn o comércio no Mercosul foi extraordinário. Em pouquíssimos anos, passamos de três a quase vinte bilhões de dólares de comércio. A retração da Argentina teve o efeito oposto, naturalmente. Apesar disso tudo, continuamos a comerciar, e, neste ano, o Brasil vai ter um déficit com a Argentina - estarei feliz se for de dois bilhões de dólares, pois pode chegar a três -, porque continuamos importando da Argentina e a Argentina não tem tido condições de importar do Brasil. Houve, portanto, um desequilíbrio. Com o mecanismo de reciprocidade de créditos, pode-se reduzir o efeito negativo desse processo. As interrupções momentâneas do fluxo financeiro não podem acarretar a paralisação do fluxo de comércio.",
+                "O fato é que estamos cada vez mais conscientes de tudo isso. Agora que o Brasil ocupa transitoriamente, como é o nosso sistema, a Presidência pró tempore do Mercosul, vamos tentar avançar mais em todos esses processos, até mesmo no de institucionalização crescente do Mercosul. E é preciso avançar muito em uma relação mais estável entre o Mercosul e a Comunidade Andina. Tenho uma visão desse processo, eu diria, caleidoscópica. Há formas muito diferenciadas de integração, da bilateral à sub-regional e regional. O que importa é que vamos criando teias crescentes de relacionamento entre nossos países. E atribuo imensa importância ao que mencionei há pouco, à integração física, porque, quando se faz uma linha de transmissão de energia ou uni gasoduto, ou quando se estabelecem regras comuns de telecomunicações, isso fica para sempre, pois é físico, é estrutura. E sem que se perceba muito claramente, é o que está acontecendo na nossa região.",
+                "Mencionei também, há pouco, e menciono sempre, o fato de que o Brasil mudou sua matriz energética e deixou de pensar, embora pudesse fazê-lo, que deveria buscar a auto-suficiência energética, no lugar de se integrar na região, para \"ficar dependente\" da importação de gás, de petróleo. Isso foi uma discussão imensa no Brasil, porque a visão inicial não era essa. A visão inicial era bastarmo-nos a nós próprios. Por que buscar no vizinho, se podemos, com nosso esforço, fazê-lo aqui? Hoje não é mais assim. Hoje trazemos para o Brasil energia da Argentina, do Paraguai, da Venezuela. Gás também: gás da Bolívia, gás da Argentina, gás que atravessa o Uruguai. Estamos realmente nos estruturando na região, de modo irreversível. Queiramos ou não, vamos conviver, porque somos obrigados a conviver. Se não fossemos, como somos, bons vizinhos, e se não fosse pelo amor que temos uns aos outros, seria pelo interesse. E é melhor juntar o interesse com o amor. Tendo que fazer a opção, melhor o amor. Mas, enfim, se pudermos juntar o interesse com o amor, por que não?",
+                "É o que estamos tratando de fazer: vincular nossos interesses a uma visão comum, uma visão que compartilha do sentimento de que juntos somos mais poderosos do que separados e de que juntos encaminhamos melhor nossos interesses. Isso não se faz em contraposição a outros blocos. Em pouco tempo mais, vou co-presidir o processo de negociação da Alça - acho que os brasileiros ainda não sabem disso, e ainda bem que é por dois meses, de novembro até o fim do ano. É uma tarefa difícil, mas necessária. Não podemos pensar em nossa integração para nos isolarmos. Pensamos na integração para termos força para uma inserção mundial mais favorável.",
+                "Essa inserção mundial não pode esquecer o Nafta, não pode esquecer os Estados Unidos, não pode esquecer aquele país que é a locomotiva da economia capitalista contemporânea. E, por ser a locomotiva, tem velocidade que às vezes deixa os outros para trás. E não queremos nem ficar para trás, nem ficar agarrados só na cauda. Queremos tentar ficar ali junto de quem pilota. Não é fácil, mas, se estivermos juntos, quem sabe tenhamos mais possibilidades nas negociações, que vamos assumir, no caso do Brasil, com responsabilidade, com espírito construtivo. Quem sabe possamos alcançar uma Alça mais equilibrada e mais capaz de ser equânime em seus benefícios, de modo que se possa realmente avançar. Se não for assim, para que a Alça? Ela passa a ser irrelevante, ou então, ela perde sua razão de ser. Quando se discute a Alça, algumas pessoas do meu país dizem \"Ah! Vai-se discutir soberania.\" Soberania não se discute: se exerce. Ninguém vai discutir perda de soberania, ninguém pode pensar nisso.",
+                "No entanto, para exercer uma inserção soberana - e é disso que se trata, o que até certo ponto é uma contradição, mas é inevitável que seja assim -, temos que ter não só força, mas também a capacidade de saber quais são nossos interesses, a capacidade negociadora e a capacidade e firmeza para dizer \"não\" quando não nos interessar. É talvez o mais difícil, dizer \"não\" quando algo não nos interessar. Isso não diz respeito apenas à questão da Alça. Diz respeito também à União Europeia. Comércio é duro em toda parte. Hoje em dia, é difícil até entre nós. A cada instante, temos problemas difíceis de serem resolvidos, entre países que, de alguma maneira, têm maior complementaridade. E no caso do Brasil, a dificuldade se torna maior ainda, porque somos cada vez mais competitivos. A integração com os grandes blocos para nós é sempre difícil, porque somos competitivos, não só na agricultura, mas também na indústria. Os problemas são imensos, e há que se pensar em enfrentá-los com muita capacidade decisória e muita competência, para saber o que realmente nos interessa e o que não nos interessa.",
+                "Na parte agrícola, a dificuldade que temos - e não é só do Brasil, é de todo o Cone Sul - é que somos altamente competitivos. Basta dizer que a produção agrícola brasileira, que atingiu cem milhões de toneladas de grãos este ano, partiu, no início dos anos noventa, de 56 milhões; quer dizer, quase dobramos a nossa produção agrícola. Esta região do Mercosul, em matéria de agricultura e de pecuária, em matéria de frangos e de suínos, tem uma competitividade enorme. E isso, que poderia parecer uma condição favorável, na verdade dificulta, porque os outros têm medo. Não nos abrem nem os terceiros mercados. Subsidiam seus produtos para terceiros mercados. Vamos ter que enfrentar essas questões com muita determinação. No caso de produtos industrializados, é extremamente difícil. No Brasil, mais da metade da pauta de exportações hoje, sessenta por cento, é de produtos manufaturados, desde aviões, computadores, tornos mecânicos, enfim, uma gama muito variada de produtos. Temos competitividade nesses produtos também.",
+                "É claro que avançaremos mais se conseguirmos avançar em nossa região. O que aconteceu aqui, com o Tratado de Montevidéu, foi um marco efetivo, e há mais de quarenta anos vem se desenvolvendo. Ensinou-nos muito, até que pudéssemos ter hoje maior capacidade negociadora. As decisões do último Conselho de Ministros da Aladi, no sentido de pôr em marcha o processo de livre-comércio na região, têm de ser implementadas. É preciso que avancemos mais e mais nessa direção. Nós, no Brasil, temos muita expectativa de que a próxima reunião do Conselho de Ministros avance nessa direção para liberalizar mais o comércio interno na Aladi. Podemos conseguir isso e fixar para tanto um prazo, digamos, de quatro anos: avançar e marcar nossa capacidade de realizar o que é uma tarefa histórica nossa.",
+                "É claro que temos também que reconhecer que temos, aqui, países com graus de desenvolvimento diferentes. Alguns têm desenvolvimento relativo menor, e não podemos imaginar que um processo integrador desses se faça às expensas dos países de menor capacidade de produção. Temos que ter não apenas uma visão generosa, mas uma visão que realmente atenda aos interesses recíprocos. Acredito que todo o Brasil está disposto, por exemplo, a conceder uma margem de preferência de 100% aos países de menor desenvolvimento relativo, à Bolívia, Equador e Paraguai. Ê boa praxe: como queremos avançar na direção da integração, estamos dispostos a dar uma vantagem maior aos países de menor desenvolvimento relativo.",
+                "Estamos dispostos a fazer o que não estão dispostos a fazer conosco na União Europeia, nem na discussão da integração da Alça. E é preciso que os países mais desenvolvidos do continente assumam, também, uma atitude de vanguarda nessa matéria. Cancelamos as dívidas que vários países centro-americanos e países africanos tinham com o Brasil. Não eram dívidas pequenas. No caso de Moçambique, eram 450 milhões de dólares. Cancelamos a dívida. Ora, por que não cancelar, se na verdade elas são impagáveis? Seria simplesmente ficar anotando na escrituração dos dois lados, diminuindo a capacidade de endividamento do país devedor, sem nenhum benefício para o país credor. Nós cancelamos. Precisamos encarar realmente a questão da integração com esse espírito. Quisera eu que, em escala global, todos os países fizessem aquilo que estamos dispostos a fazer. Na medida em que formos dando o exemplo entre nós, de que estamos avançando, nos acordos dentro da Aladi, nos acordos entre os blocos regionais, fazendo acordos interlatino-americanos, incluindo o México e a América Central, vamos ganhando força para cobrar aquilo que temos que cobrar dos países da Europa e dos Estados Unidos. Não dá para continuar com os subsídios agrícolas que estão sendo praticados hoje, com sobretaxas industriais, os famosos picos tarifários, escaladas tarifárias que são medidas discriminatórias que estrangulam o comércio e que realmente dão privilégios crescentes aos países mais ricos. Temos que avançar mais, juntamente com os outros, a partir da nossa própria ação - e eu assumo que o Brasil tem responsabilidade nisso pelo seu maior desenvolvimento relativo na região - para cobrar com mais energia esses temas no nível internacional, porque senão a ideia do livre-comércio se torna apenas uma promessa.",
+                "E precisamos olhar o que aconteceu na história. Quem propunha o livre-comércio não éramos nós. Ao contrário, nós, o tempo todo, estávamos tratando de nos proteger, porque o livre-comércio era contra os nossos interesses de crescimento. Agora a situação se inverteu, mas não contra os outros, porque estamos propondo o livre-comércio a países que têm condições de competir. Estamos propondo uma coisa modesta: igualdade na competição. No passado, os livre-cambistas queriam realmente abrir mercados em países que não tinham como competir com eles. Éramos simplesmente vítimas, presas, seria melhor dito, dos países que queriam o livre-comércio. Agora se inverteu, o livre-comércio é proposto por nós, mas de outra maneira. Não é livre-comércio para fazer o que eles fizeram conosco - eles queriam nos explorar. É livre-comércio para garantir igualdade de competição. Teremos autoridade intelectual e moral se fizermos entre nós o que tem que ser feito, para que possamos, realmente, cobrar desses países mais desenvolvidos o acesso aos mercados.",
+                "Todos estamos vendo mais um momento em que a nossa região vive uma turbulência cujo epicentro, embora possa parecer que está aqui, na realidade não está. Sou o Presidente do Brasil há quase oito anos. É muito tempo. Já é o suficiente para, mesmo uma pessoa de dotes medíocres como eu, aprender. Aprendi alguma coisa. E, nesses oito anos, é a quinta crise internacional que nos afeta. É difícil crescer com tanta crise. Essas turbulências, nesses anos todos, são basicamente derivadas de questões financeiras, e não da recessão. Não é uma crise clássica, como depois de 1929 ou como outras crises que ocorreram. É um novo tipo de crise, basicamente provocada por turbulências financeiras. Elas, aparentemente, estão aí para ficar; quer dizer, a mudança que houve no sistema de produção e no sistema capitalista internacional é uma mudança que ainda não está bem analisada, bem compreendida.",
+                "Sem dúvida alguma, a partir da globalização do sistema financeiro e do sistema de informações e, portanto, da interação entre os dois, a informação transmite rapidamente qualquer desarranjo no sistema financeiro. Isso cria uma instabilidade contínua, e é o que estamos vivendo. Às vezes, tem-se a impressão de que a instabilidade existe porque se errou aqui ou acolá, porque não se fez o que tinha que ser feito na economia, o \"dever de casa\", como se diz. Mas não é isso. É porque realmente essas turbulências afetam muito. E afetam especialmente os países que estão numa situação intermediária, porque os países mais pobres, por serem pobres, não sofrem tanto os efeitos de uma mudança financeira rápida. Os países de porte intermediário são os que mais sofrem nesse momento, porque eles não têm a mesma capacidade de reação dos ricos e não têm as defesas - que é melhor não tê-las mesmo - dos que não estão dentro do fluxo financeiro.",
+                "Estamos dentro do fluxo financeiro e estamos na chuva, nos estamos molhando e não temos guarda-chuva - salvo o da Aladi, que é um bom guarda-chuva. Mas a verdade é que estamos atravessando momentos em que se requer um pensamento novo para enfrentar essa questão. Avançaremos em conjunto, aqui na Aladi, na medida em que incorporemos essas dimensões, não só a do comércio, mas a dimensão relativa à questão do financiamento e às dificuldades que o financiamento tem trazido para nossa região.",
+                "Há muito poucas ideias novas sobre esse novo mundo. O mundo em que vivemos até ontem era o mundo concebido no pós-Segunda Guerra Mundial. Esse mundo acabou. O espírito de São Francisco era realmente de solidariedade, de paz. O Plano Marshall e as grandes instituições que se formavam eram para levar o progresso para todos. Embora as propostas de Keynes não tenham sido vencedoras, porque o Secretário do Tesouro dos Estados Unidos não as aceitou, algo das ideias de Keynes acabou vingando. O Banco Mundial foi concebido para criar desenvolvimento; o Fundo Monetário, para evitar crises passageiras do sistema financeiro. Mas não se concretizou aquilo que era a concepção de Keynes, um banco central dos bancos centrais, um instrumento capaz de prover liquidez a países com moedas distintas, nem todas elas fortes.",
+                "De lá para cá, permaneceu a mesma concepção. A diferença é que, naquela época, não havia globalização financeira, nem existia maior intercomunicação entre as moedas e entre os fluxos financeiros. O Banco Central de cada país respondia às questões de cada país, e o Fundo Monetário resolvia as questões de falta de liquidez derivadas de crises de comércio: recessão, crise de comércio, crise de pagamento internacional. Evitava-se a insolvência de um país para com o outro. De lá para cá a dinâmica do sistema capitalista tornou-se muito mais rápida e dramática.",
+                "A única ideia - e há muito estou longe de poder ler todo dia sobre matérias técnicas -, a única ideia que vi recentemente para fazer frente a isso foi a de um conhecido financista internacional, George Soros. É curioso que tenha vindo dele. O que ele propôs? Não a criação de um banco central dos bancos centrais, mas que os Bancos Centrais do G/ se transformassem em emprestadores de última instância, em garantes da liquidez dos países em desenvolvimento. No momento em que os Bancos Centrais do G/ dessem liquidez aos títulos da Argentina, do Brasil, do Chile, do Uruguai, acabaria a crise financeira, a crise de confiança financeira. Não tenho condições de avaliar até que ponto isso é ou não factível, mas o fato é que as ideias começam a ser embrionariamente colocadas. Outra ideia que foi lançada embrionariamente é a taxa Tobin, que foi lançada com outra visão. Ê uma pequena taxa sobre os fluxos de capital, que reduziria a volatilidade do sistema. A essa ideia se agregou algo: quem sabe o Banco Mundial pudesse usar parte desse dinheiro para criar condições de desenvolvimento nos países atrasados. Alguma coisa dessa natureza vai ter que ser criada no mundo.",
+                "Nós, brasileiros, insistimos muito, no tempo do Presidente Clinton - e eu mesmo conversei com ele sobre essa matéria -, sobre a necessidade de avançar no pensamento de uma nova arquitetura financeira internacional - expressão que estava na moda há uns cinco anos -, de que se começasse a conceber um embrião desse pensamento. Foi criado um grupo chamado G2O, que reúne os Ministros da Fazenda e Presidentes do Banco Central de vinte países, entre os quais alguns dos nossos, para lançar ideias para resolver essas questões. O G20 propôs algumas ideias - algumas foram até aceitas - mas são mais ideias no sentido da transparência do processo financeiro internacional, alguns aperfeiçoamentos que podem contribuir para evitar que, sem que se saiba, sem que se tenha informação anterior, um país entre em crise de repente, como nas surpresas causadas pela crise da Ásia.",
+                "Hoje, no entanto, isso é insuficiente, e as surpresas já não são criadas apenas pelas crises dos países em desenvolvimento. Quem imaginava as crises que agora estão ocorrendo por falta de transparência nas grandes corporações americanas? Está faltando uma regulação disso também. Na verdade, todas as instituições internacionais ficaram pequenas em face do desafio com que nos defrontamos no mundo de hoje. Não dispomos de instituições capazes de atuar com antecipação, ou seja, que tenham a previsão suficiente para evitar que, subitamente, uma turbulência possa ocorrer. E isso é grave. Ainda temos hospitais. O Fundo Monetário é um hospital e, em certas circunstâncias, é útil. No nosso caso, foi muito útil, como em 1999. Em outros casos, não atuou com a rapidez necessária, nem foi capaz de entender a situação local. Mas, no caso brasileiro, atuou sim, porém quando a crise já existia.",
+                "Ainda não existe, como ocorre com os bancos no funcionamento normal dos países, um banco central que possa fechar um banco, para evitar que esse banco produza um efeito sistémico. Isso não existe no mundo. As instituições internacionais tornaram-se pequenas, não têm a agilidade nem a capacidade técnica para fazer frente aos fluxos de investimento, de comércio, de financiamento do mundo contemporâneo. Perdoem-me por haver avançado em temas que quiçá não estejam diretamente vinculados à Aladi. Creio, porém, que caminhamos nesse sentido. E, quando digo que vamos nesse sentido, não quero dizer que amanhã haverá uma solução. Quero dizer que, nas próximas décadas, ou o mundo e as instituições se organizam de uma maneira mais consequente com a contemporaneidade da produção tecnológica e dos fluxos de financiamento, e das trocas internacionais, que são muito rápidos, ou vão sempre continuar as turbulências e crises das quais não saberemos como escapar.",
+                "Em que pese não ser esse o mandato da Aladi, há aqui aspectos também relevantes para esses problemas. A Aladi é um instrumental básico para que possamos apreender o que ocorre em nossa região, para que possamos nos preparar para o amanhã, quando nossos países já estejam mais unidos, quando possamos ter mais peso no mundo - e um dia chegará em que teremos mais peso no mundo; para que possamos lidar melhor com essas ideias que abrangem algo muito mais amplo, como a organização de uma arquitetura internacional. Vocês são parte importante da construção desse projeto, a partir do qual estamos fazendo com que nasçam países mais irmãos, mais competentes para tratar de seus problemas locais e internacionais e mais capazes de produzir políticas que realmente possam atender às necessidades de nossos povos. Perdoem-me por haver falado talvez demais e por haver escapulido um tanto do tema que me foi proposto no início. Porém, cada vez que venho aqui, na Aladi, sinto o entusiasmo que vocês me transmitem, e então - não sei se conhecem o candomblé, que é um culto africano no Brasil - \"baixou o santo\", como se diz, ou seja, um espírito alheio baixa e você fala. Eu não falei nada: vocês falaram. Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Discurso do Presidente Fernando Henrique Cardoso  em almoço oferecido aos participantes da IV Conferência dos Chefes de Estado e de Governo da CPLP",
+            "subtitulo": "PALÁCIO ITAMARATY, 15 DE AGOSTO DE 2002",
+            "data": "15/08/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h06"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/discurso-do-presidente-fernando-henrique-cardoso-em-almoco-oferecido-aos-participantes-da-iv-conferencia-dos-chefes-de-estado-e-de-governo-da-cplp",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Peço um minuto da sua atenção. Senhores e Senhoras, tinha me comprometido com duas coisas contraditórias, hoje: primeiro, que falaria pouco, porque estou afônico, etc. e disse que não iria falar nada, e, segundo, na reunião que tivemos há pouco, eu disse que o discurso que iria fazer lá embaixo faria aqui, na hora do almoço. Bem, falei demais e não vou fazer discurso, porque não quero cansá-los a esta altura dos acontecimentos. Queria, apenas, expressar, em nome de todos os brasileiros, a minha satisfação por estarmos juntos e o nosso reconhecimento pelo esforço que o conjunto dos países lusófonos tem feito e pelo grau de relacionamento tão positivo que nos une, hoje, na CPLP. Ouço críticas a cada instante. Ainda há pouco, na entrevista à imprensa, mais de uma pergunta foi feita no sentido de, de alguma maneira, colocar um ponto de interrogação sobre o significado efetivo da CPLP. A nossa organização tem seis anos, é criança. E, nestes seis anos, muita coisa aconteceu de positivo. Nós nos dedicamos, nestes dias, de ontem e de hoje, em parte, a celebrar Timor Leste, que se incorpora a nós, com esse espírito novo, de um país cheio de problemas, mas cheio de esperança. E houve, já, decisões muito concretas de todos nós, no sentido de apoiarmos Timor Leste. Estamos nos reunindo num ambiente de paz. Angola, país rico, importante, sofrido, conseguiu, depois de tanto tempo, chegar à paz. Países grandes ou países pequenos. Países que tiveram dificuldades, como Moçambique, com suas enchentes e com suas secas. Países pequenos que descobrem petróleo e ficam até com medo de ter tanto petróleo, como São Tomé e Príncipe. É verdade. Países que têm dificuldades, às vezes, muito grandes e até mesmo políticas e internas, como Guiné Bissau. Enfim, para não falar dos problemas que atormentam os países já um pouco mais consolidados - Cabo Verde, um país que avança, e avança bastante. Isso, para não falarmos de Portugal e do Brasil. Portugal está ótimo. Tenho inveja de Portugal. Mas o Primeiro-Ministro vai ter que apertar as contas, porque senão não se ajusta à Europa. E o Brasil, que apertou tanto as contas, não sabe mais o que apertar, para se ajustar a um mundo que enlouqueceu.",
+                "Mas, a despeito disso, a verdade é que temos vitalidade. Esses países todos, no seu conjunto, têm conseguido avançar, e avançar dentro de um ambiente de democracia e de respeito aos direitos humanos, de fraternidade e de ajuda recíproca, pequena, muitas vezes, mas importante. No caso da Aids ou Sida, a que já foi tantas vezes referido, o Presidente de Portugal, meu querido amigo Jorge Sampaio, disse que ele foi \"advogado de patentes\". E sabia, como sabe, das dificuldades que se colocam, quando se quer mudar a regra de patentes. O Brasil conseguiu. Consegui, pelo menos, fazer com que as patentes, para serem respeitadas, tenham que produzir localmente e a preços mais convenientes. Fizemos acordos com a índia e com Israel e, hoje, produzimos uma boa parte do \"coquetel da Aids\" aqui, no Brasil. Temos um programa que, talvez, seja o único com a extensão do brasileiro, tão vitorioso no controle de uma moléstia tão perniciosa quanto a Aids. Pois bem, estamos trabalhando juntos com os países africanos, os países irmãos, para que utilizem tanto o nosso know-how quanto as nossas técnicas de combate á essa moléstia, através do apelo às organizações não-governamentais, basicamente compostas, elas próprias, por  aidéticos. Enfim, há muitos casos concretos que nos permitem, realmente, neste dia de hoje, estarmos contentes com o trabalho realizado. Disseram, há pouco, que, no Brasil, não se sabe o que é CPLP. Mas, eu acho que, se fosse perguntar, também, o que é Nafta ou, talvez, mesmo União Europeia, isso não seja tão difundido assim. A questão não está na difusão do nome, está nas práticas que estão sendo exercidas em função de um ideal, que é o ideal dos países lusófonos. Estamos como, de alguma maneira, reconfortados por ver que nossos países assumiram práticas que correspondem aos valores - uma expressão que não uso sempre - da civilização ocidental cristã. Até ficamos um pouco inquietos, ao vermos que há dois pesos e duas medidas, que a transparência que tanto nos pedem, que hoje nós praticamos, não parece ser, assim, tão transparente acima do equador, excluindo Portugal, que está lá em cima, mas também parte do Brasil, que está lá em cima, e o Timor.",
+                "De qualquer maneira, a verdade é que não aceitamos essa ética de dupla face. Nós temos as nossas mazelas, e são muitas. Nós expomos as nossas mazelas ao mundo, dia e noite. Nós temos, também, nossos valores. Não precisamos expor a ninguém. Estamos nos orientando por esses valores. Há, portanto, efetivamente, realmente o que celebrar. Diante dos desafios, que são tão imensos, não cabe nem, talvez, usar a palavra \"celebrar\". Mas é preciso manter a esperança e o ânimo. Em uma reunião como esta, o calor que sentimos dos presidentes, das delegações, a fraternidade, o espírito e, como já disse alguém, a falta de intérprete, isso tudo ajuda a que se crie um clima de grande amizade e de grande fraternidade. Portanto, queria pedir que nossos copos se ergam à continuidade da nossa amizade, à vitória permanente dos nossos valores e à consolidação da CPLP."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Palavras do Presidente Fernando Henrique Cardoso no início da entrevista coletiva concedida pelos Chefes de Estado e de Governo da CPLP",
+            "subtitulo": "PALÁCIO ITAMARATY. BRASÍLIA, DF, 1º DE AGOSTO DE 2002",
+            "data": "01/08/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h11"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/palavras-do-presidente-fernando-henrique-cardoso-no-inicio-da-entrevista-coletiva-concedida-pelos-chefes-de-estado-e-de-governo-da-cplp",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Vou pedir permissão, dado que estamos com bastante atraso, para que, enquanto os Senhores Presidentes vão assinando o documento - e eu mesmo o farei —, num brevíssimo relatório, dizer algo sobre o conteúdo das nossas discussões. E os Senhores Jornalistas que desejarem façam, depois, perguntas aos Presidentes. Na verdade, o fato mais significativo do nosso encontro aqui, hoje, em Brasília, talvez tenha sido a adesão da República do Timor Leste à CPLP. Creio que isso, por si, já é marcante: a ampliação da CPLP e o fato de que temos, na Ásia, um país de expressão portuguesa. Devo dizer também que, nos nossos encontros, aqui, celebramos muito a paz de Angola, que foi um processo longo. Os nossos países, em conjunto, acompanharam - o Brasil sempre deu atenção às lutas desenvolvidas pelo povo angolano - e, depois de muitos anos, é possível dizer que reina, realmente, a paz em Angola. Há uma declaração específica sobre essa matéria, que mostra, realmente, a importância que atribuímos tanto ao fato de o Timor participar do nosso encontro quanto ao fato de que nós, hoje, constituímos, aqui, uma zona de paz, incluindo, principalmente, Angola.",
+                "O tema central da conferência foi a questão, exatamente, da paz e a necessidade imperiosa do desenvolvimento para a consolidação da paz. Claro que nós, também, reconhecemos a importância da luta contra o terrorismo. Mas essa luta, por sua vez, deve pautar-se, como mostramos em mais de uma declaração e nos documentos, pelo respeito aos direitos humanos e pela tolerância. Tolerância essa que foi ressaltada como uma das características da cultura comum dos países de expressão portuguesa. E respeito aos direitos humanos, obviamente, porque todos nós, hoje, fazemos parte de países democráticos, muitos dos quais lutaram, arduamente, contra regimes autoritários e, portanto, valorizam, na devida dimensão, a questão relativa aos direitos humanos.",
+                "Também nos referimos à importância da próxima conferência, em Johannesburgo, sobre desenvolvimento sustentável, que é uma implementação dos resultados da Conferência do Rio de 1992. E a ênfase dada a Johannesburgo vem no contexto da nossa compreensão do que seja desenvolvimento. O desenvolvimento não pode ser um processo excludente, tem que ser um processo abrangente. Um processo que não pode significar apenas o progresso tecnológico, que é inevitável. Nós vivemos, hoje, o momento da chamada globalização, que é consequência da revolução dos meios de transporte, dos meios de comunicação, dos processos produtivos. É um processo normal, inevitável, mas o que não é inevitável é a exclusão.",
+                "Daí porque houve tanta ênfase na questão relativa à possibilidade de os membros da CPLP participarem mais ativamente no concerto internacional de nações, na construção de instituições de governança mundial, que evitem a concentração da riqueza e que permitam, efetivamente, que desse processo de desenvolvimento tecnológico resulte em maior bem-estar para a humanidade. Foi com essa perspectiva que se mencionou a importância da Conferência de Johannesburgo, porque lá vamos discutir, de novo, o desenvolvimento sustentável. E a perspectiva adotada pelos membros da CPLP é a perspectiva de que quanto mais houver esforços multilaterais melhor será. Por mais que haja - e, às vezes, é necessário - um esforço bilateral, por mais que haja, às vezes, até a pretensão de um certo unilateralismo, isso ficaria curto diante das necessidades dos povos e dos anseios desses povos. Portanto, favorecemos um tipo de desenvolvimento que seja sustentável e que implique uma ampliação da participação de todos no progresso.",
+                "Cabe fazer, nessa mesma direção, uma referência específica aos avanços havidos na Conferência de Doha, da OMC, para que haja, efetivamente, uma liberalização do comércio e para que se eliminem as barreiras de acesso dos países em desenvolvimento ao mercado mundial. Isso faz parte, naturalmente, dessa mesma visão compartilhada por todos nós de que é preciso assegurar que essa globalização seja mais solidária, menos assimétrica, mais justa e que não haverá possibilidade de que, na concreção desse caminho, nós não sejamos capazes, também, de negociar acordos de acesso a mercados que sejam efetivamente favoráveis a esses ideais.",
+                "Além disso, houve também vários acordos que assinamos, entre os quais um acordo no domínio da Aids ou da Sida, como se diz em alguns outros países, tendo em vista as vitórias já alcançadas por alguns dos países, entre os quais o Brasil, no que diz respeito a um tratamento mais adequado dos infectados pelo HIV, e tendo em vista a possibilidade de transferência tecnológica de que hoje dispomos. Houve vários acordos nessa direção e uma definida vontade política de fazer com que a luta, o combate contra essa moléstia seja algo central no concerto das nações civilizadas e, certamente, algo central no que diz respeito aos nossos interesses diretos como países de língua portuguesa.",
+                "Também assinamos acordos que vão facilitar a circulação de pessoas no espaço da comunidade, no espaço da CPLP. Houve também uma declaração importante de apoio à candidatura da Pastoral da Criança ao Prémio Nobel da Paz. Também saudamos o fato de ter havido o primeiro fórum empresarial da CPLP, que foi realizado em Lisboa. Haverá um segundo fórum, aqui, no Brasil, no ano de 2003. Houve acordos também nas áreas de cooperação e uma missão identificadora de áreas de possível cooperação em tecnologias da informação e da comunicação. São acordos que fizemos especificamente com Moçambique. Também no que diz respeito a Moçambique, há algo sobre tecnologias de informação. Estabelecemos um grupo de trabalho entre Moçambique e Brasil para avançar nessa direção das tecnologias de comunicação.",
+                "Quero dizer que, também com relação a Angola, especificamente, fizemos um convénio com o Programa Escola para Todos, em que o Brasil se comprometeu, através do orçamento da República, a manter mais 50 professores no Timor. Mais 50 professores, durante cinco anos. Isso é um projeto no valor global de i milhão de dólares, demonstrando, de forma prática, a disposição de o Brasil ajudar na luta pela difusão da língua portuguesa no Timor. Por fim, quero insistir em que nós, realmente, consideramos a questão da língua como uma questão muito importante, vital. Não resumimos o nosso debate nem a CPLP se resume à discussão da língua, mas acreditamos que o Instituto Internacional da Língua Portuguesa e, agora, a concessão do Prémio Camões durante as reuniões da CPLP são estímulos importantes à valorização da língua portuguesa. Língua falada, hoje, por cerca de 200 milhões de pessoas, com a particularidade de que essas pessoas se distribuem na Ásia, nas Américas, na Europa e na África. Portanto, uma língua de difusão universal.",
+                "Certamente, não há de ser só pelo fato de falarmos a mesma língua que vamos nos entender, mas porque temos também valores culturais comuns, alguns dos quais já, aqui, mencionados. E também sabemos - isso foi enfatizado - que, no mundo contemporâneo, é preciso dar um sentido prático às nossas ações. Um sentido prático significa um apelo constante à sociedade civil, para que ela participe, também, mais efetivamente nos vários programas de aproximação entre os nossos povos e para que o espírito empresarial que existe latentemente em todos e já mais consolidado em alguns seja também chamado a cooperar de forma ativa na consecução dos objetivos da nossa Comunidade dos Povos de Língua Portuguesa.",
+                "Termino dizendo que a próxima reunião da CPLP vai realizar-se em São Tomé e Príncipe, no ano de 2004. Eram essas as informações que eu queria prestar.",
+                "Agora, os Senhores Presidentes, de acordo com a programação, uma regra que deve ser estabelecida, responderão, se for o caso, a perguntas que venham a ser feitas. Muito obrigado"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "eduardo-dos-santos-2013-2015"
+            ],
+            "titulo": "Discurso do Secretário-Geral Eduardo dos Santos na Academia Diplomática do Peru",
+            "subtitulo": "Lima, Peru, 21 de agosto de 2013",
+            "data": "21/08/2014",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h14"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/eduardo-dos-santos-2013-2015/discurso-do-secretario-geral-eduardo-dos-santos-na-academia-diplomatica-do-peru",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Inicialmente, gostaria de agradecer à Embaixadora Liliana de Olarte pelo convite para me dirigir à futura geração de diplomatas peruanos e falar sobre as relações entre Brasil e Peru.",
+                "O Peru é, para o Brasil, um parceiro fundamental. Não por acaso, estabelecemos, há dez anos, uma parceria estratégica que vem gerando frutos importantes, inclusive com incremento notável dos fluxos de comércio, turismo e investimentos.",
+                "A aliança estratégica representou, de forma simbólica, a superação de um passado onde nem sempre houve a vontade política necessária para traduzir nossas aspirações de maior integração em ações tangíveis.",
+                "Uma visão panorâmica sobre o histórico de nossas relações nos últimos séculos comprova que a última década marca uma mudança decisiva na relação bilateral.",
+                "O século XIX, momento em que Brasil e Peru nomearam seus primeiros representantes diplomáticos, foi caracterizado por avanços e retrocessos. Um personagem importante desse período foi Duarte da Ponte Ribeiro, primeiro Encarregado de Negócios do Brasil no Peru. Ele fez grandes esforços para aprofundar a relação bilateral, negociando inclusive, o livre direito de navegação do Peru pelo Rio Amazonas. Também procurou celebrar acordos de paz, comércio, limites e extradição.F",
+                "Entretanto, a concretização desses esforços foi prejudicada pelo panorama político mais amplo na América do Sul – em que se destacam as Guerras da Tríplice Aliança e a Guerra do Pacífico – e, especialmente, por divergências sobre questões de fronteira.",
+                "O fim do Império e o início do Período Republicano no Brasil trouxeram novas oportunidades. Ao assumir o Ministério de Relações Exteriores, em 1902, o Barão do Rio Branco continuou com sua missão dedicada à delimitação das fronteiras brasileiras de maneira pacífica.",
+                "Fiel a essa política, o Brasil se dispôs sempre a dialogar com o Peru, com o propósito de encontrar uma solução definitiva para suas divergências. Em 1904, os dois países decidiram iniciar as negociações de um tratado de fronteiras, que foi assinado em 1909.",
+                "Ao longo do século XX, a distância geográfica e condicionantes políticos, incluindo o fato de que nossos países viveram longos períodos sob regimes autoritários, obstaculizariam avanços concretos no processo de integração.",
+                "Houve algum progresso no campo da cooperação na Amazônia, inclusive no âmbito do Tratado de Cooperação Amazônica. À parte disso, não há muito que registrar até a década de 70. Para que se tenha uma ideia, apenas em 1981 um presidente brasileiro realizou, pela primeira vez, uma visita oficial ao Peru.",
+                "Ainda que o Brasil tenha atuado como guardião do Protocolo do Rio de Janeiro, que delimitou a fronteira entre o Peru e Equador em 1942, e tenha sido sede da assinatura do Acordo de Brasília em 1998, que ofereceu a solução definitiva para as hostilidades no Cenepa, não houve, no plano bilateral, progressos mais significativos, assim como tampouco experimentamos retrocessos. Na prática, prevalecia uma situação de distanciamento, na qual o Brasil privilegiava o Cone Sul e o Peru, bem como a Comunidade Andina.",
+                "É com a assinatura da Aliança Estratégica, em 2003, que esse panorama começa a ser modificado. Nossos países assumiram o firme compromisso de aprofundar sua relação em diferentes cenários. O Brasil vê o Peru como um parceiro privilegiado, não somente em virtude dos determinantes geográficos, mas, também, porque compartilha uma série de valores e interesses.",
+                "Naquela ocasião, o Peru se tornou, depois da Bolívia, o segundo país andino a celebrar o acordo de complementação econômica com o Mercosul (ACE-58). Esse acordo permite que hoje vivenciemos uma situação de livre comércio, na qual praticamente todos os produtos peruanos ingressam no mercado brasileiro sem estarem sujeitos a nenhum tipo de tarifa de importação.",
+                "Além do aspecto econômico, decidimos trabalhar em conjunto na proteção da Amazônia e na criação de um espaço integrado de paz, democracia e justiça social, inclusive para as populações das regiões de fronteira que viviam uma situação de virtual abandono.",
+                "Os frutos da aliança estratégica permitiram intensificar o comércio e a cooperação entre nossas autoridades. O Brasil passou, por exemplo, a realizar claros esforços para garantir um maior equilíbrio na relação econômica bilateral. Além do desagravamento tarifário, decidimos estabelecer com o Peru o programa de Substituição Competitiva de Importações, com vistas a auxiliar o empresariado peruano nas exportações para o mercado brasileiro.",
+                "Os seminários realizados no âmbito do programa tiveram muito sucesso, tanto que, hoje, o programa, concebido para atender as necessidades específicas do Peru, foi estendido para outros países sul-americanos.",
+                "O que buscamos com o Peru é, no âmbito da aliança estratégica, uma relação comercial caracterizada pelo equilíbrio. O pressuposto do qual partimos é que o comércio bilateral somente será positivo sendo benéfico para as duas partes.",
+                "Como consequência imediata dos esforços recentes, as exportações peruanas ao Brasil vêm crescendo, com participação de produtos considerados “não tradicionais”, de maior valor agregado. O comércio bilateral alcançou, no ano passado, um índice recorde, chegando aos USD$ 3,7 bilhões. Apenas nos últimos dois anos, mais de 70 produtos que o Peru nunca havia exportado para o Brasil passaram a fazer parte de nossa cadeia de comércio.",
+                "A tendência para o equilíbrio se mantém em 2013, segundo os dados do governo brasileiro. De janeiro a julho, as exportações peruanas cresceram 50,7% com relação ao mesmo período de 2013. O déficit peruano com o Brasil foi reduzido em 65,8%. O fluxo de comércio cresceu 7,6%.",
+                "Cabe ressaltar que estes resultados positivos no comércio bilateral foram obtidos em um contexto internacional caracterizado por incertezas e pela possibilidade de desaceleração de grandes economias do planeta.",
+                "Outro dado é particularmente significativo: nestes 10 anos da aliança estratégica, o fluxo de comércio bilateral cresceu mais de 400%. Os números de nossa balança comercial oferecem uma resposta contundente para aquelas vozes que, ancoradas em prejuízo e desconhecimento, acusam o Brasil de ser “fechado” aos produtos de seus vizinhos.",
+                "Contudo, devemos continuar explorando o enorme potencial que existe no plano comercial. Ainda que o Brasil seja atualmente o maior fornecedor de produtos para o Peru, somos, conforme os dados do primeiro trimestre de 2013, apenas o sétimo destino de exportação de produtos peruanos. Acreditamos que o Peru possui uma enorme capacidade para fortalecer ainda mais sua presença no mercado brasileiro.",
+                "Igualmente, é importante que trabalhemos para garantir a unidade dos esforços de integração no campo comercial. O Mercosul e os países da Comunidade Andina já mantém acordos de livre comércio, inclusive com a Venezuela, já convertida em Estado Membro. As negociações para a incorporação plena da Bolívia estão avançadas, e este país já assinou o Protocolo de Adesão em dezembro passado.",
+                "O Equador estuda a possibilidade de tornar-se, também, Estado Membro. Na última Conferência do bloco, realizada em Montevidéu em 12 de junho último, Guiana e Suriname se converteram em Estados Associados.",
+                "Nossos investimentos no Peru também cresceram de forma exponencial. Hoje, o saldo de investimentos de empresas brasileiras é de aproximadamente USD$ 6 bilhões, distribuídos por diferentes setores, de infraestrutura ao setor petroquímico. Os investimentos peruanos no Brasil também cresceram e, segundo dados da Câmara Binacional de Comércio e Integração, alcançaram USD$ 720 milhões apenas nos últimos cinco anos.",
+                "Creio que é importante destacar o papel do Grupo Brasil, que reúne 45 empresas instaladas no Peru, gerando cerca de 30 mil empregos. As empresas associadas ao grupo estão comprometidas com o desenvolvimento sustentável do Peru, executando projetos de alcance social no valor de USD$31 milhões. Dessa forma, contribuem para a inclusão social de aproximadamente 300 mil peruanos. Está claro, desse modo, que o compromisso com a integração é muito mais que uma simples retórica política.",
+                "Mas a integração que desejamos vai além do aspecto meramente comercial. Atualmente, há uma integração crescente no campo social, como reflexo natural do interesse de nossos Governos em combater a exclusão social. O Ministério do Desenvolvimento Social do Brasil (MDS) e o Ministério do Desenvolvimento Social do Peru (MIDIS) deram início à cooperação em programas sociais e políticas de luta contra a pobreza em 2012. O Brasil colocou à disposição informações e conhecimento sobre os programas adotados em nosso país.",
+                "Hoje, na América do Sul, existe a percepção de que devemos trabalhar para reduzir as grandes desigualdades sociais que, infelizmente ainda caracterizam nossa região. Nós o faremos com mais comércio e, também, com políticas sociais adequadas, como as que vêm sendo aperfeiçoadas no Brasil, nos últimos anos, com resultados positivos.",
+                "Pude participar do processo de institucionalização do diálogo sul-americano de alto nível desde seu início, em 2000, quando pudemos reunir em Brasília, pela primeira vez, os doze Presidentes sul-americanos. A coordenação política regional evoluiu rapidamente, de modo que, em dezembro de 2008, em Cusco, foi criada a CASA, a Comunidade Andina de Nações. Finalmente, em maio de 2008, uma vez mais em Brasília, assinamos o Tratado Constitutivo da Unasul. O fato de que Brasil e Peru tenham sediado as reuniões-chave para institucionalização da integração política na América do Sul põe em evidência o papel determinante de nossos países nesse processo, com o qual seguimos comprometidos.",
+                "Acreditamos que a UNASUL, por sua vez, complementará esse esforço de unidade por meio de uma constante coordenação política e da concepção de políticas comuns em diversos campos, tais como infraestrutura, saúde, educação, cultura e desenvolvimento social.",
+                "Portanto, é importante que sigamos fomentando a unidade e fortalecendo a busca de consensos no âmbito da UNASUL. A organização é uma conquista verdadeira dos países sul-americanos, constituindo um locus privilegiado de diálogo político na América do Sul, em seu mais alto nível.",
+                "Não posso deixar de destacar o valioso trabalho realizado pelo Governo peruano e, em particular, pelo Torre Tagle, no exercício da Presidência Pro-Tempore da UNASUL, desde junho de 2012, que será transferida para o Suriname no próximo dia 30.",
+                "A agilidade e a dedicação da PPT peruana, que se mostrou incansável em suas atividades, foram fundamentais para o sucesso alcançado nas Conferências da Organização realizadas em Lima nesse período, além das inúmeras reuniões de Conselhos Ministeriais e instâncias técnicas.",
+                "No campo da cidadania, estão eliminadas, por parte de ambos os lados, as exigências de passaporte e vacinas. Desde dezembro de 2011, quando o Peru ratificou o Acordo de Residência do Mercosul, cidadãos peruanos podem regularizar sua residência permanente no Brasil e cidadãos brasileiros no Peru. Também temos a Comissão Vice-Ministerial de Integração Fronteiriça, que busca articular ações que assegurem o desenvolvimento da linha limítrofe entre nossos dois países. Estou em Lima, justamente para participar, com o Vice-Chanceler Fernando Rojas, da IV Reunião dessa comissão.",
+                "A proteção e preservação da Amazônia é uma das prioridades da nossa relação.",
+                "Trata-se, como sabemos, de uma região estratégica para nossos países, com enormes potencialidades e, também, grandes desafios.",
+                "No âmbito da Aliança Estratégica, assinamos um Memorando de Entendimento sobre a Proteção e Vigilância da Amazônia. Estamos trabalhando para compartilhar informações do Sistema de Proteção da Amazônia (SIPAM). Este mecanismo faz com que seja possível coibir ações de desmatamento e combater o narcotráfico.",
+                "Brasil e Peru vêm estreitando sua colaboração na área de Defesa. Como costuma dizer o Ministro de Defesa Celso Amorim, na América do Sul o conceito de defesa possui duas vertentes: dissuasão, no que se refere às ameaças extracontinentais, e cooperação, no âmbito sul-americano. Nesse sentido o Brasil vêm atuando com o objetivo de promover a integração das cadeias produtivas da região combinando políticas de transferência de tecnologia e intercâmbio de conhecimento. Não há uma fórmula melhor para o desenvolvimento mútuo. Acreditamos que, especialmente na área de defesa, soluções e plataformas genuinamente sul-americanas representarão estratégias mais eficazes, seguras e, por que não, econômicas para os desafios comuns que enfrentamos.",
+                "Outro aspecto de grande relevância são os progressos alcançados no campo da integração física. O tráfego na Rodovia Interoceânica cresceu de forma expressiva desde sua conclusão em 2011. A rodovia já comprovou ter um papel importante como condutor de comércio, especialmente de produtos alimentícios do Peru para o norte do Brasil. Existe um grande potencial inexplorado nessa área, dada a grande demanda por hortaliças e outros gêneros alimentícios no Norte do Brasil.",
+                "A ponte sobre o Rio Acre, inaugurada em 2006, foi a primeira a reunir nossos países. Quando esteve em Lima em 5 de junho último, o Ex-Presidente Lula, que participou da cerimônia e inauguração da ponte em 2006 , manifestou em discurso para empresários peruanos, e na presença do Presidente Humala, sua perplexidade frente ao fato de que Brasil e Peru tiveram que esperar 500 anos para a inauguração da primeira ponte que une as duas nações irmãs. É surpreendente que tenhamos tido que esperar séculos para que esse projeto fosse finalmente concretizado, graças a uma conjuntura política em que nossos dois países passaram a reconhecer o caráter imperativo da integração como condição para o desenvolvimento de nossos povos, especialmente das populações que vivem no interior da fronteira.",
+                "Temos à frente o desafio de concretizar o Eixo Norte da IIRSA, que liga por terra e pelos rios da região o Porto de Paita a Manaus. A entrada em operação desse eixo dará um impulso ao comércio entre o Norte do Peru e Brasil. E permitirá, inclusive, a implementação integral do Acordo de Complementação Econômica 58 (ACE-58), incluindo o acesso dos produtos da Zona Franca de Manaus ao Peru, e consequentemente, o frete inverso para abastecer o mercado da região com produtos peruanos.",
+                "O Peru está cada vez mais presente no dia a dia dos brasileiros. É uma presença natural e, ao mesmo tempo, impressionante. Em muitas cidades do Brasil, restaurantes peruanos nos oferecem o privilégio de provar o ceviche, pisco sour e o suspiro limenho. E podemos fazê-lo ao ler Vargas Llosa, ou folhear livros com reproduções de Fernando Szyslo, ou fotografias de Mario Testino. E quem não testemunhou a euforia de milhões de corinthianos, que festejaram os gols de Guerrero no campeonato mundial de clubes? Talvez seja este o reflexo mais direto da integração bilateral em nosso cotidiano. Uma aproximação direta de nossos povos e de nossas culturas. O balanço de dez anos da Associação Estratégica Brasil-Peru é, como se pode notar, extremamente positivo. Como enfatizado anteriormente, devemos considerar suas múltiplas dimensões: comércio, infraestrutura, integração cidadã, políticas sociais e coordenação política.",
+                "Pela primeira vez, em muitos anos, somos capazes de traduzir em ações a vontade política de nossos Governos, em reconhecimento a vocação histórica que temos de nos integrar e desenvolver.",
+                "Hoje, a América do Sul é um espaço caracterizado pela paz, pela democracia e pelo desejo de maior justiça social. Os processos de integração nos quais estamos envolvidos possuem estes três valores como princípios base. Com mais integração a previsão é que somente temos a ganhar. Em um cenário internacional cada vez mais complexo, é justamente assim que poderemos defender melhor os interesses que compartilhamos. Estou certo de que Brasil e Peru continuarão trabalhando conjuntamente pelo objetivo central que nos une: maior desenvolvimento e bem-estar para nossas populações.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2014-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

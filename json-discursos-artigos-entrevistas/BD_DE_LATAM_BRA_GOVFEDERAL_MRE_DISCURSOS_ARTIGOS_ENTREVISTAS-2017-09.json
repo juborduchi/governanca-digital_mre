@@ -1,0 +1,777 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "aloysio-nunes-ferreira"
+            ],
+            "titulo": "Alocução do ministro Aloysio Nunes na reunião da Aliança Global para por fim ao comércio de bens utilizados para pena capital e tortura – Nova York, 18 de setembro de 2017 [Francês]",
+            "subtitulo": "NA",
+            "data": "19/09/2017",
+            "horario": "11h50",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "12h26"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/aloysio-nunes-ferreira/alocucao-do-ministro-aloysio-nunes-na-reuniao-da-alianca-global-para-por-fim-ao-comercio-de-bens-utilizados-para-pena-capital-e-tortura-nova-york-18-de-setembro-de-2017-frances",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "C'est un honneur de pouvoir rejoindre tous les participants lors du lancement de l'Alliance mondiale pour un commerce sans torture.",
+                "Je voudrais particulièrement féliciter l'Union européenne et les gouvernements de l'Argentine et de la Mongolie pour avoir convoqué cette réunion.",
+                "C'est avec enthousiasme que le Brésil a décidé de participer à cette importante initiative.",
+                "La peine de mort et la torture affrontent la conscience humaine.",
+                "En plus d'être contraires à la dignité humaine, raison suffisante pour leur proscription, ces mesures sont également contre-productives et inefficaces en tant qu’instruments de la justice pénale.",
+                "Ces pratiques, admises ou non par les législations nationales, ne sont jamais une garantie de stabilité et de paix sociale. Au contraire, elles génèrent plus d'injustice et attestent la faillite des normes de civilisation qui devraient guider les relations sociales.",
+                "La torture, les traitements cruels, inhumains ou dégradants et la peine de mort sont des pratiques déshumanisantes. Ils sont des attaques contre l'individu et la société. Ils constituent des mesures anachroniques inacceptables à la lumière du cadre international des traités relatifs aux droits de l'homme actuellement en vigueur. Ce sont des pratiques qui doivent pour toujours se limiter aux livres d'histoire.",
+                "L'abolition dans la pratique de la peine de mort et l'interdiction absolue de la torture sont des valeurs partagées par le peuple brésilien et inscrites dans notre Constitution Fédérale. Nous sommes donc partie à la Convention contre la torture et au deuxième Protocole facultatif se rapportant au Pacte international relatif aux droits civils et politiques.",
+                "Si nous sommes déterminés à empêcher ces pratiques au niveau national - et défendons leur élimination à l'échelle mondiale -, il n’y a pas de raison de tolérer le libre échange international des biens utilisés spécifiquement pour leur réalisation.",
+                "C'est un impératif éthique d'empêcher nos pays d'exporter des biens destinés à la pratique de la torture et de la peine de mort. Nous sommes couverts par les normes du système commercial international; spécifiquement l'article XX de l’Accord Général sur les Tarifs Douaniers et le Commerce (GATT).",
+                "L’alliance que nous lançons aujourd’hui va propulser cet objectif par moyen du dialogue. Elle va promouvoir l’adoption de législations et de systèmes efficients en faveur de la restriction et de l’élimination du commerce de produits employés dans la peine de mort et la torture, par moyen de la coopération international et de l’échange de bonnes pratiques administratives et législatives.",
+                "On ne peut pas aller en contre de la peine de mort et la torture et continuer à fermer les yeux sur le commerce des biens employés dans ces pratiques. La protection et la promotion des droits de l’homme requièrent non seulement des discours, mais aussi des actions, menées avec détermination et courage. Cela exige, également, de la cohérence, si nous voulons assurer que les compromis assumés dans les traités auxquels nous sommes parties aient des conséquences pratiques.",
+                "Certaines données nous permettent de rester optimistes. Plus de cent soixante membres des Nations Unies ont aboli la peine de mort, ne l’appliquent pas ou ont instauré une moratoire sur son application. Le nombre de pays ayant ratifié la Convention contre la Torture monte déjà à cent soixante-deux.",
+                "Il y a encore beaucoup de travail à faire, mais je suis convaincu que le lancement de cet Alliance Global constitue un pas dans la bonne direction. Vous pouvez conter sur le ferme soutien et l’engagement du Brésil dans cette noble cause.",
+                "Merci beaucoup."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante Cerimônia de Encerramento do Seminário sobre Oportunidade de Investimento – Pequim-China, 2 de setembro de 2017",
+            "subtitulo": "NA",
+            "data": "02/09/2017",
+            "horario": "07h41",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h01"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-cerimonia-de-encerramento-do-seminario-sobre-oportunidade-de-investimento-pequim-china-02-de-setembro-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Quero cumprimentar também os ministros de Estado que me acompanham, por meio do ministro Aloysio Nunes, ministro das Relações Exteriores do nosso País.",
+                "Cumprimentar os deputados federais que igualmente me acompanham,",
+                "Senhor vice-primeiro-ministro,",
+                "Embaixador Roberto Jaguaribe, presidente da Apex,",
+                "O nosso embaixador Caramuru,",
+                "Os corpos diplomáticos que aqui se acham,",
+                "As senhoras e senhores empresários.",
+                "E eu preciso começar dizendo que é uma grande satisfação vir a Pequim e falar a um grupo tão significativo de empresários interessados no Brasil. Eu agradeço à Apex-Brasil, do nosso Ministério das Relações Exteriores, a iniciativa de organizar este encontro.",
+                "E, apesar da distância geográfica, como relatado pelo senhor vice-primeiro-ministro, o Brasil e a China estão mais próximos do que nunca. São cada vez mais fortes nossos laços, cada vez mais intensos nossos fluxos de comércio e investimento. Como, aliás, ficou evidenciado pelos números muitos significativos que sua excelência, senhor vice-primeiro-ministro, acabou de mencionar.",
+                "E também, vejam que não é por acaso, esta é a quarta vez que venho à China desde 2013. Não por acaso, a China foi, no ano passado, meu primeiro destino como presidente da República.",
+                "Ontem, em reuniões com o presidente Xi Jinping e com o primeiro-ministro Li Keqiang, reafirmamos nossa parceria estratégica global. Nosso diálogo é amplo, abrange temas dos mais diversos: do combate à mudança no clima à defesa do sistema multilateral de comércio e à articulação em foros como o G20 e o Brics. Da cooperação espacial à cooperação em cultura e à promoção do turismo.",
+                "Ainda há pouco, comentava com sua excelência vice-primeiro-ministro, que mais de 200 ou 300 milhões de chineses fazem turismo, e nós queremos muito direcionar boa parte desse turismo para o Brasil. Não é sem razão que estamos abrindo aqui na China cerca de 12 ou mais escritórios para a facilitação de vistos, tanto para turismo como para homens de negócios.",
+                "Mas, como sabemos, um capítulo muito especial nas relações entre o Brasil e a China é o intercâmbio econômico-comercial. E isso ocorre, meus senhores e minhas senhoras, sobretudo, em razão do trabalho dos senhores e das senhoras.",
+                "São, na verdade, os empresários que melhor entendem as oportunidades que surgem quando nos aproximamos ainda mais. São os empresários que melhor entendem a importância do Brasil para a China, e da China para o Brasil.",
+                "O protagonismo dos empreendedores brasileiros e chineses faz-se sentir nos números de nosso relacionamento. Nosso intercâmbio comercial, repito sua excelência, saltou de US$ 3 bilhões no começo deste século para US$ 58 bilhões, em 2016. Este ano, aliás, já registra, no nosso governo, já registra um aumento de 25% em relação ao mesmo período do ano passado. A China já é o maior parceiro comercial do Brasil e tem sido, crescentemente, fonte importante de investimentos em nosso País.",
+                "São muitas, muitíssimas as empresas chinesas instaladas no Brasil – como, aliás, temos também importantes empresas brasileiras estabelecidas na China. Esses vínculos tendem a intensificar-se com o continuado desenvolvimento da economia chinesa e a retomada do crescimento econômico no Brasil.",
+                "Aliás, só para registrar, dados muito recentes revelam que no ano passado o PIB foi negativo no Brasil, mas neste ano, no primeiro trimestre, foi de 1% e, logo agora, neste segundo semestre, mais 0,2%. Portanto, recuperação do PIB brasileiro em pouquíssimo tempo.",
+                "De igual maneira como nós temos um número significativo de desempregados no País, o fato é que nós trabalhamos para sair da recessão que se dava em meados do ano passado e, já nestes últimos três meses, cerca de 720 mil vagas foram preenchidas num combate ao desemprego que vem num crescente extraordinário.",
+                "Agora, nos beneficiamos, ainda, do Fundo Brasil-China de Cooperação para a Expansão da Capacidade Produtiva. Os empresários chineses sabem que encontram no Brasil oportunidades seguras e parceiros confiáveis.",
+                "O Brasil é isto: um país fértil, um país rico em oportunidades. Temos recursos das mais variadas espécies, um grande mercado consumidor, um povo criativo e trabalhador. Um parque industrial dinâmico e diversificado, uma agricultura de alta tecnologia e sustentabilidade.",
+                "As empresas que já estão no Brasil sabem que lá, todas elas, têm condições de prosperar. E temos trabalhado para melhorar ainda mais nosso ambiente de negócios.",
+                "Estamos levando adiante, meus senhores, a mais ambiciosa agenda de reformas vista no Brasil em muito tempo. É uma agenda de modernização do País, ou seja, trazê-lo para o século XXI.",
+                "Nosso primeiro passo foi recuperar a credibilidade das contas do governo. Registro que nós instituímos, logo no início do meu governo, uma regra constitucional para controlar as despesas públicas. E, com isso, estamos dando previsibilidade à nossa dívida, assentando as bases, portanto, para o equilíbrio das contas públicas.",
+                "Adotamos também medidas para garantir a eficiência da gestão pública. Estamos criando condições mais favoráveis aos investimentos. Trouxemos, fez diferença muito aos senhores empresários, nós trouxemos nossa legislação trabalhista para a realidade do século XXI. Fizemos uma modernização da legislação trabalhista, flexibilizando-a de uma maneira que garantisse os direitos dos trabalhadores e que permitisse uma contratação mais ágil, mais rápida, mais eficaz, mais eficiente por parte dos empresários.",
+                "Portanto, nós estamos, volto a dizer, modernizando o País. Tanto que nós atualizamos os marcos regulatórios em vários setores-chaves, como petróleo e gás, mineração e energia elétrica. Temos nos empenhado, dia após dia, para promover a competitividade de nossa economia, para criar mais e melhores empregos, para gerar mais renda.",
+                "Eu confesso que fizemos tanto nesses 15 meses que nem parece que se passaram apenas 15 meses desde que assumimos o governo.",
+                "Os resultados, aliás, já se fazem sentir. Depois de oito semestres consecutivos de recessão, nossa economia voltou a crescer. Dou um dado para os senhores: a inflação que chegara a mais de 10% quando assumimos o governo há 15 meses atrás, hoje está abaixo de 3%, que é o piso da meta. Aliás, o teto da meta. Nós estamos abaixo do teto da meta fixada nestes últimos tempos. Hoje a inflação está em 2,71%.",
+                "E, de igual maneira, a taxa básica de juros também caiu sensivelmente: de mais de 14%, portanto dois dígitos, para um dígito, ou seja, 9,25%. A indicar que até o final do ano talvez estejamos em 7[%], 7,5%, segundo dizem os analistas",
+                "Portanto, nós estamos ajudando a recuperar o dinamismo da economia. Nós, reitero, nós registramos três, quatro meses de geração seguida de empregos. Estamos vendo recuperação no comércio, na indústria. Nós batemos recorde como batemos recorde na safra agrícola.",
+                "A nossa agenda de reformas, senhoras e senhores continua.",
+                "Nós avançaremos também com a reforma da Previdência Social, já que nas razões do déficit que temos no País reside precisamente na questão da Previdência Social. E esse será um passo fundamental para garantir a sustentabilidade do nosso sistema, inclusive, de aposentadorias. E será fundamental, também, para equilibrar as contas públicas e permitir que o Estado continue a investir.",
+                "Eu devo dizer que figura em nosso horizonte, ainda, a simplificação tributária. Esta simplificação vem de uma onda que nós estabelecemos lá da desburocratização. É uma iniciativa importante e que facilitará a vida dos empresários brasileiros e daqueles empresários chineses que se instalarem no País. Nós queremos, na verdade, que os empreendedores se dediquem cada vez mais tempo à produção e à geração de empregos, e menos tempo à exigências burocráticas. Aliás, quando eu falo em investimento no Brasil, eu quero registrar que eu viso, o objetivo central é o combate ao desemprego, para dizer que esses investimentos que fazemos, ou que pleiteamos, ou que queremos levar da China para o Brasil, tem uma função social extraordinária, que é dar empregos àqueles que dele necessitam e dele carece.",
+                "Porque às vezes, senhor vice-primeiro-ministro, eu falo em investimentos e fica uma palavra muito vaga, o que significa investir? Qual é o resultado? Qual é o significado do investimento? E digo eu: ele tem uma função social, reitero, extraordinária, porque é com investimento que você amplia indústria, amplia o comércio e, com isto, cria empregos.",
+                "Nós temos, devo dizer, ainda, muito a fazer. Temos, sobretudo, o desafio de dar um salto de qualidade em nossa infraestrutura. E, nisso, o setor privado, investimentos que vierem de fora, tem papel central a desempenhar.",
+                "E foi, aliás, mencionado por vossa excelência, foi com essa convicção que nós lançamos o nosso Programa de Parcerias de Investimentos. Nós temos, agora, um novo modelo para concessões e privatizações – é um modelo mais previsível e mais racional, que fortalece a segurança jurídica. Porque nenhum empresário aplica ou quer aplicar se não obtiver a segurança jurídica para o seu investimento.",
+                "E é por isso que a nova modelagem que há poucos dias, aprovamos a inclusão de quase 60 novos projetos no Programa de Concessões. São aeroportos, terminais portuários, ferrovias, linhas de transmissão de energia e muitas outras oportunidades de investimentos. E não é só: nós queremos explorar novas fronteiras com a inclusão de pequenas e médias empresas brasileiras nos fluxos de comércio e investimento da China, ou seja, queremos, naturalmente, as grandes empresas. Mas sabemos do significado, do valor, do emprego que as pequenas e médias empresas também pode gerar. Taí a razão pela qual eu instruí a Apex e o Ministério de Indústria e Comércio a trabalharem neste sentido.",
+                "Aliás, muito recentemente, o Banco Nacional de Desenvolvimento Econômico e Social abriu uma linha de crédito de mais de 20 bilhões para os micro e pequenos empresários.",
+                "Portanto, meus senhores e minhas senhoras, estejam certos, os parceiros chineses encontrarão também nas pequenas e médias empresas modelos de competitividade, inovação e eficiência.",
+                "Sei, tenho a mais absoluta convicção, pelos encontros que tive nesses dois dias aqui na China, com as autoridades que gentilmente nos receberam, eu sei que a China continuará ao lado do Brasil, neste momento em que voltamos para o trilho do desenvolvimento. Sei que os empresários chineses são e seguirão sendo grandes parceiros nessa empreitada. Por isso, eu não só estou honrado em ter sido convidado para aqui manifestar-me, mas também fiz questão de vir a este encontro acompanhado, como disse, de delegação expressiva de ministros, deputados federais, para que pudessem dialogar com as senhoras e os senhores sobre o momento de modernização do nosso País.",
+                "Eu registro que, exatamente há um ano, eu me dirigia a empresários em seminário como este, na cidade de Xangai. Falava da nossa agenda para a recuperação da economia no ano que estávamos em uma situação complicada. Pois, hoje, passados 12 meses, posso dizer-lhes que a missão está sendo cumprida. O Brasil está de volta e aguardando os empresários chineses.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante cerimônia de Encerramento do Seminário de Oportunidades de Investimento no Brasil, promovido pelo Financial Times – Nova York, 20 de setembro de 2017",
+            "subtitulo": "NA",
+            "data": "20/09/2017",
+            "horario": "18h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-cerimonia-de-encerramento-do-seminario-de-oportunidades-de-investimento-no-brasil-promovido-pelo-financial-times-nova-york-20-de-setembro-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Muito bem, quero cumprimentar os ministros de Estado que me acompanham,Os senhores parlamentares que me acompanham,Os senhores embaixadores,Senhoras e senhores membros da comunidade financeira e empresarial,Naturalmente os presidentes dos bancos e das empresas estatais que também me acompanham,O senhor John Paul Rathbone, do Financial Times, em nome de quem eu cumprimento os profissionais de imprensa aqui presentes.",
+                "Eu não preciso dizer que é com grande prazer que eu participo deste encontro, promovido pelo Financial Times. E aqui, evidentemente, o que eu percebo, e devo fazer, é agradecer aos organizadores deste evento a oportunidade que estamos tendo de nos dirigirmos para contar um pouco sobre o Brasil.",
+                "Portanto, eu fiz questão de vir aqui para falar sobre o momento de transformações modernizadoras que estamos fazendo no Brasil. É um momento de reformas, de maior abertura ao mundo e de renovadas oportunidades.",
+                "De alguma forma, olhando aqui para os senhores e as senhoras, eu sinto que estou pregando para convertidos. Já soube e vejo que muitos dos que estão aqui já têm importantes investimentos em nosso País. E só para recordar e insistir, as senhoras e os senhores sabem que encontram, no Brasil, um destino seguro para fazer negócios. Temos um povo criador, criativo, um povo trabalhador. Temos instituições sólidas e, naturalmente, parceiros confiáveis.",
+                "O Brasil acumula, ao longo do tempo, características que o tornam especialmente atrativo para investidores de todas as partes do mundo. Nós somos, historicamente, um espaço de estabilidade, distante de focos de tensão geopolítica. Nós estamos em paz com nossos vizinhos há mais de 140 anos. Nós somos uma sociedade plural, marcada pela tolerância e pela abertura ao outro. E estes, convenhamos, são, nos dias que correm, bens escassos e que nós temos cultivado e que queremos valorizar cada vez mais.",
+                "Nosso desafio maior tem sido devolver ao Brasil o rumo da responsabilidade, do crescimento e do desenvolvimento. É o que temos feito.",
+                "Eu não quero até me estender na recapitulação de fatos que todos nesta sala conhecem sobejamente e que, decerto, já foram lembrados esta manhã. Eu vejo e comentava lá fora que praticamente veio boa parte do governo brasileiro para ter encontro com senhores e com as senhoras, e, portanto, cada qual na sua área específica descreveu o que nela, área, está acontecendo.",
+                "Mas eu tomo a liberdade de ressaltar, embora talvez seja repetitivo, alguns pontos que me parecem fundamentais, e talvez repita.",
+                "Quando assumimos o governo, há menos de um ano e meio, como sabem, enfrentamos a maior crise econômica de nossa história. O diagnóstico era claríssimo: a crise tinha, sobretudo, natureza fiscal. Daí nosso empenho, desde a primeira hora, em conceber uma agenda de reformas que fosse à raiz desse problema. Daí o nosso empenho em criar as condições políticas para levar adiante essa agenda de reformas. Interessante, reformas há muito tempo reclamadas no País, reformas muito necessárias, que se tornaram inadiáveis.",
+                "E daí, essa é uma das palavras-chave do nosso governo, que é a palavra diálogo. Nós restabelecemos um diálogo que houvera sido perdido com o Congresso Nacional.",
+                "Até porque, em um sistema presidencial democrático, você governa juntamente com o Poder Legislativo. Você não pode governar autoritariamente, você tem que ter o apoio do Poder Legislativo.",
+                "E, portanto, a palavra diálogo que marcou logo o início do nosso governo permitiu que nós aprovássemos, por exemplo, algo que imaginava-se impossível, que foi estabelecer um teto para os gastos públicos, transformando em regra constitucional o que deveria ser consenso comum, deveria ser feito com muita naturalidade. Ou seja, os gastos do governo não podem crescer de forma descontrolada. E até, quando a área econômica produziu a emenda, a proposta de emenda constitucional, o fez com muita responsabilidade porque não praticou um ato do tipo “vamos conter os gastos do ano que vem e vamos esquecer os próximos anos”. Ao contrário, como o déficit era volumoso, na oportunidade, de R$ 179 bilhões, o que se fez nessa proposta de emenda constitucional foi retratar uma realidade.",
+                "Ou seja, você não resolve essa questão do déficit de um ano para o outro. Leva muitos anos para, digamos assim, fazer coincidir o que se arrecada com aquilo que se gasta. E daí porque na emenda constitucional estabeleceu-se um prazo mínimo de 10 anos, quando seria revisável o texto dessa emenda constitucional para dizer: olhe, talvez em um prazo de 10 anos, caindo o déficit ano a ano, nós vamos poder equilibrar as contas públicas.",
+                "E também com este diálogo, com muito diálogo, aliás, nós estamos avançando na reforma da Previdência. Na verdade, quando nós falamos em reformar a Previdência, na verdade trata-se de salvar as aposentadorias de hoje e de amanhã. Quando digo hoje é porque o objetivo de equilibrar as contas públicas por meio da reforma da Previdência tem em conta a ideia contábil, numérica, aritmética, de que se não fizermos uma reformulação da Previdência, em brevíssimo tempo aqueles aposentados de hoje não receberão as suas pensões. Imagine os aposentados de amanhã.",
+                "Aliás, este movimento de reforma Previdenciária não é titularizado apenas pelo nosso País. Vejam aqui nos países da Europa quantos deles foram obrigados a fazer uma reformulação previdenciária. Alguns deles até sendo obrigados a reduzir o valor das pensões, às vezes a 30% e, de igual maneira, os vencimentos dos servidores públicos.",
+                "E nós temos no Brasil uma diferença muito grande, não só no regime, na questão da idade para a aposentadoria, como em função de certos privilégios. Nós temos uma diferença, por exemplo, para aposentadoria entre os servidores da atividade privada e os servidores da atividade pública. Estes últimos se aposentam, genericamente, com cinco anos a menos. O que causa, digamos assim, uma certa indisposição social.",
+                "Então, a reforma da Previdência tem como vetores, como diretrizes, a ideia de uniformizar a idade, portanto, aumentando o prazo, tendo em vista as condições naturais de vida. A natureza determinou que a faixa etária com que as pessoas, enfim, ainda vivem, aumentou, o que é muito bom, aumentou sensivelmente. E, de outro lado, eliminar o privilégio que gera exatamente instabilidade social.",
+                "Mas ao mesmo tempo, de fora a parte a reforma da Previdência, nós temos promovido reformas em favor da produtividade da economia brasileira. Por exemplo, nós tínhamos uma legislação trabalhista, que foi em um ou em outro ponto modificada ao longo do tempo, mas que data de 1943. E eu me recordo que ao longo do tempo sempre pensou-se em modernizar a legislação trabalhista, que agora está em sintonia com as realidades do século XXI.",
+                "Interessante, parece que não é importante, mas nós modernizamos também os parâmetros de nosso currículo escolar. Eu fui presidente da Câmara dos Deputados pela primeira vez em 1997. E já se falava na reforma do ensino médio. Passou-se um período de 20 anos e nada da reforma do ensino médio. Nós tivemos a coragem, talvez mais do que coragem, a ousadia de promovê-la, até por medida provisória para que não houvesse aquela coisa de você apresenta um projeto de lei e fica paralisado pelo Congresso Nacional por muito tempo. Ela, medida provisória, entrou em vigor imediatamente, teve eficácia imediata. Foi amplamente discutida e, discutida como foi, acabou sendo aprovada e, hoje, não está aqui o nosso ministro Mendonça, Mendonça Filho, ministro da Educação, mas que revela por pesquisas que tem a aprovação de mais de 90% de toda área educacional do País.",
+                "Portanto, com essa reforma, nós prestigiamos a autonomia e a pluralidade de vocações de nossos jovens. Portanto, melhor preparando-os para um mercado de trabalho em plena evolução. Com isto, nós estamos dando uma injeção de competitividade no mercado de crédito, por exemplo. Em vários níveis - é uma coisa que eu ouço sempre quando vou para o exterior e quando recebo os empresários brasileiros, é a queixa contra a burocratização da nossa administração pública - pois muito bem, nos vários níveis governamentais eu fiz uma reunião de ministros e pedi que cada qual fizesse uma desburocratização das suas atividades no seu ministério. Em vários ministérios esta desburocratização já está sendo feita, valorizando a vida do empreendedor. Estamos revisando ou mesmo eliminando dezenas de procedimentos, e trabalhamos, agora, também, - e tudo isso que eu estou dizendo, meus senhores, naturalmente, para entusiasmar o investimento no nosso País - porque também trabalhamos em um esforço de simplificação do sistema tributário. Anotem que eu não falo de reforma tributária, que é um termo já, convenhamos, a esta altura gasto, no nosso Brasil porque ele envolve federativa da República, ele envolve vários fatores, ele envolve os interesses da União, dos estados, dos municípios e dos contribuintes.",
+                "Então, cada vez que você quer falar logo de saída da reforma tributária, você tem que compor esses vários interesses. E ao longo da minha vida parlamentar, eu verifiquei o quão difícil é a composição desses interesses. Então, prefiro eu e prefere o governo, falar primeiro em uma simplificação tributária, que está no quadro, digamos assim, da desburocratização que nós estamos fazendo no País.",
+                "De vez em quando eu ouço empresários dizendo, grandes empresários naturalmente, dizendo: “Lá na minha empresa eu tenho 30 pessoas hipotecadas ou dedicadas apenas a solução dos tributos, ao encaminhamento, ao pagamento de tributos etc, etc”. Ora, isso exige uma desburocratização fundamental para atuação empresarial.",
+                "E quando falo na atuação empresarial, para não gerar dúvidas, eu digo que a nossa preocupação é sempre com os dois setores produtivos do nosso País, com os empregadores e com os empregados. Não foi por outra razão que promovemos a modernização trabalhista, para incentivar o emprego de um lado e para facilitar a contratação pelos empresários de outra parte.",
+                "Portanto, o que se nota muito claramente é que a responsabilidade dá resultados. Nós, penso eu, nós resgatamos a confiança que se traduz em investimentos e em consumo. A recessão ficou para trás, a inflação, os senhores já devem ter ouvido aqui dos vários expositores, que superava a margem de 10%, hoje está abaixo de 2,5%.",
+                "Estou falando de um governo, meus senhores e minhas senhoras, que não tem quatro anos, oito anos, é um governo de 16, 17 meses.",
+                "E os juros, por exemplo, que haviam atingido mais de 14%, hoje estão em 8,25%. E as previsões dos analistas, não é minha, porque eu não quero interferir no mercado financeiro nem no Banco Central, mas os analistas dizem que tudo isso indica que até o final do ano é muito provável que esteja em 7,5, 7%, a indicar que cada vez mais com a redução da inflação, e a concomitante redução dos juros, isso ajuda a economia. Os empregos, por exemplo, estão voltando, de quatro meses para cá, depois de muitos meses de índices negativos, nós tivemos índices positivos no emprego, carteira assinada, postos de trabalho mais de 103 mil, mais postos de trabalho ainda sem carteira assinada, chegando a mais de 600 mil. Portanto, houve uma retomada do emprego.",
+                "Portanto, eu peço a todos que não tenham dúvida: estimulados por esses avanços, nós continuaremos a levar a cabo nossa agenda de reformas. Nós temos convicção disso e não nos falta disciplina, não nos falta disposição para o diálogo.",
+                "Portanto, meus senhores e minhas senhoras, eu sei que, no seminário de hoje, reitero, já tiveram ocasião de conhecer, em maior detalhe, nosso abrangente programa de concessões e privatizações. O ministro Moreira Franco e o ministro Fernando já devem ter tratado desse assunto. Vários oradores que me precederam certamente já puderam apresentar-lhes, em diferentes setores, o novo Brasil de que estamos falando.",
+                "E isso nós fazemos porque há muito tempo nós aprendemos que o Estado não pode fazer tudo. Não importa para o cidadão se o serviço é prestado pelo Estado ou pela iniciativa privada – desde que haja um serviço acessível e de qualidade. Os senhores sabem que hoje, até convenhamos, vejam que no mundo todo quase as ideologias foram por terra. O que interessa ao cidadão são os resultados. E é nessa direção que nós estamos governando.",
+                "E é por isso que acolhemos, naturalmente, de braços abertos, todos os que quiserem ir ao Brasil para ampliar nossa infraestrutura, nossa economia, gerar empregos.",
+                "Portanto, estejam certos: investir no Brasil é ganhar. O Brasil voltou. Esta é uma frase que eu tenho usado com muita frequência.",
+                "As perspectivas, já puderam perceber, penso eu pelas exposições feitas, são muito animadoras, especialmente na área de infraestrutura, portos, aeroportos, rodovias, ferrovias, linhas de transmissão a campos de petróleo. Só na nova fase, vou ser repetitivo, penso eu, do nosso Programa de Parcerias de Investimentos, são novos 57 empreendimentos conjuntos com a iniciativa privada.",
+                "Em todos os casos, nós todos cuidamos de consolidar, como estou a demonstrar e como penso já foi demonstrado, um ambiente de negócios de maior racionalidade e maior segurança jurídica.",
+                "Uma coisa que se quer muito, e isto é fundamental, o direito existe para dar estabilidade às relações sociais. Ninguém contrata se não houver segurança quanto ao contrato estabelecido, e esta é uma forma institucional que nós adotamos em caráter definitivo.",
+                "No campo da energia – apenas para dar um exemplo, ministro Fernando – nós restituímos a lógica de mercado ao setor elétrico, que é um dos que mais havia sofrido nos últimos anos. No setor de óleo e gás, está aqui o nosso presidente da Petrobras, nós eliminamos a participação compulsória na exploração do Pré-Sal e revisamos também a política de conteúdo local.",
+                "Convenhamos, aqui eu quero fazer um parêntese, ao longo desses também 17 meses, as empresas estatais que são geridas hoje, especialmente, exclusivamente por técnicos das várias áreas, elas aumentaram substancialmente o seu valor de mercado. A Petrobras, por exemplo, que era, me permitam dizer, há tempos atrás quase um palavrão, virou um palavrão, de repente no mercado aumentou o valor de sua ação em mais de 100, 120%.",
+                "De igual maneira o Banco do Brasil, o Caffarelli, o Banco do Brasil, por incrível que pareça também aumentou substancialmente o valor de sua ação, e isto aconteceu em todas as empresas estatais.",
+                "Portanto, este é o Brasil que nós estamos construindo: um Brasil mais competitivo, mais eficiente. Um Brasil mais moderno.",
+                "Nossa agenda de reformas já traz de volta a confiança, o crescimento, os empregos. Sempre com o apoio indispensável do Congresso Nacional, nós seguiremos progredindo em direção a um País mais próspero e mais justo, melhor para todos.",
+                "Esse é o nosso caminho à frente. Caminho que nós já começamos a trilhar e do qual não nos desviaremos. Portanto, eu convido cada uma das senhoras, cada um dos senhores, a percorrer conosco esse caminho e lá para frente confirmar uma frase com a qual eu concluo meu pronunciamento: O Brasil voltou e voltou para ficar.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, na Abertura do Debate Geral da 72º Sessão da Assembleia Geral da ONU – Nova York, 19 de setembro de 2017",
+            "subtitulo": "NA",
+            "data": "19/09/2017",
+            "horario": "17h41",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-na-abertura-do-debate-geral-da-72-sessao-da-assembleia-geral-da-onu-nova-york-19-de-setembro-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Senhor Miroslav Lajčák, presidente da Assembleia Geral das Nações Unidas,Senhor António Guterres, secretário-geral das Nações Unidas,Senhoras e senhores chefes de Estado, de governo e de delegações,Senhoras e senhores,",
+                "Eu quero inicialmente cumprimentar o presidente da Assembleia Geral por sua eleição. Conte, senhor presidente, com o apoio da delegação brasileira.",
+                "Apraz-me, ainda, saudar o secretário-geral em idioma que nos é comum. Senhor secretário-geral, eu quero reiterar meus votos de continuado êxito no exercício de seu mandato.",
+                "Senhor Presidente,",
+                "Têm sido muitos os desafios enfrentados pelas Nações Unidas desde a sua criação. E sabemos todos que não se cumpriram plenamente as aspirações de seus fundadores.",
+                "Mas a verdade é que, nestes mais de 70 anos, a ONU continuou e continua representando a esperança. A verdade é que a ONU continuou e continua representando a possibilidade de um mundo mais justo. Um mundo de paz e de prosperidade. Um mundo em que ninguém tenha que sujeitar-se à discriminação, à opressão, à miséria, em que os padrões de produção e consumo sejam compatíveis com o bem-estar das gerações presentes e futuras.",
+                "A ONU, meus senhores, minhas senhoras já se confirmou como espaço privilegiado para a construção desse mundo que almejamos. Construção que requer método e realismo, sem nunca perder de vista os nossos ideais.",
+                "Neste momento da história, de tão marcados traços de incerteza e instabilidade, necessitamos de mais diplomacia e negociação – nunca menos. De mais multilateralismo e diálogo – nunca menos. Certamente necessitamos de mais ONU – e de uma ONU que tenha cada vez mais legitimidade e eficácia.",
+                "Não por outra razão, sustentamos, ao lado de tantos outros países, o imperativo de reformar as Nações Unidas. É particularmente necessário ampliar o Conselho de Segurança, para ajustá-lo às realidades do século 21. Urge ouvir o anseio da grande maioria desta Assembleia.",
+                "Senhor Presidente,",
+                "Não é razoável supor que ideias que, no passado, já se mostraram equivocadas possam, agora, render bons frutos.",
+                "Nós recusamos os nacionalismos exacerbados. Não acreditamos no protecionismo como saída para as dificuldades econômicas – dificuldades que demandam respostas efetivas para as causas profundas da exclusão social.",
+                "A busca do desenvolvimento, em todas as suas dimensões, deve nortear nossa ação coletiva.",
+                "O compromisso do Brasil com o desenvolvimento sustentável é de primeira hora. Permeia nossas políticas públicas e nossa atuação externa. Na presidência da Comunidade dos Países de Língua Portuguesa, por exemplo, elegemos a Agenda 2030 como eixo de nossas atividades. Em todas as frentes, o Brasil procura dar sua contribuição para os Objetivos do Desenvolvimento Sustentável.",
+                "Contribuição que, necessariamente, inclui o combate à mudança do clima. Seguiremos empenhados na defesa do Acordo de Paris. No ano passado, aqui mesmo em Nova York, depositei o instrumento de ratificação do Acordo pelo Brasil. Essa é matéria que não comporta adiamentos. Há que agir já.",
+                "Meu país – e é com satisfação que o digo – está na vanguarda do movimento em direção a uma economia de baixo carbono. A energia limpa e renovável no Brasil representa mais de 40% de nossa matriz energética: três vezes a média mundial. Somos líderes em energia hídrica e em bioenergia.",
+                "O Brasil, senhoras e senhores, orgulha-se de ter a maior cobertura de florestas tropicais do planeta. O desmatamento é questão que nos preocupa, especialmente na Amazônia. Nessa questão temos concentrado atenção e recursos. Pois trago a boa notícia de que os primeiros dados disponíveis para o último ano já indicam a diminuição de mais de 20% do desmatamento naquela região. Retomamos o bom caminho e nesse caminho persistiremos.",
+                "Outro importante vetor do desenvolvimento é o comércio. Nosso engajamento é por um sistema de comércio internacional aberto e baseado em regras. Um sistema que tem por centro a Organização Mundial do Comércio e seu mecanismo de solução de controvérsias.",
+                "Na Conferência Ministerial de Buenos Aires, em dezembro, teremos, uma vez mais, que enfrentar pendências antigas. São pendências que prejudicam, sobretudo, países em desenvolvimento. Teremos que avançar no acesso a mercados de bens agrícolas, na eliminação de subsídios à agricultura que distorcem o comércio. Confiamos que, juntos, saberemos produzir resultados.",
+                "Todos esses esforços concorrem para aquele que é nosso propósito maior: assegurar oportunidades para todos, em todas as partes.",
+                "Senhor Presidente,",
+                "Eu terei a honra de assinar, amanhã, o Tratado sobre a Proibição de Armas Nucleares. O Brasil esteve entre os artífices do Tratado. Será um momento histórico.",
+                "Reiteramos nosso chamado a que as potências nucleares assumam compromissos adicionais de desarmamento.",
+                "O Brasil manifesta-se com a autoridade de quem, dominando a tecnologia nuclear, abriu mão, voluntariamente, de possuir armas nucleares. O Brasil pronuncia-se com a autoridade de um país cuja própria Constituição veda o uso da tecnologia nuclear para fins não pacíficos. Um país que esteve na origem do Tratado de Tlatelolco, que, há meio século, estabeleceu a desnuclearização da América Latina e do Caribe. De um país que, com seus vizinhos sul-americanos e africanos, fez também do Atlântico Sul área livre de armas nucleares. De um país, enfim, que, com a Argentina, estabeleceu mecanismo binacional de salvaguardas nucleares que se tornou, convenhamos, referência para o mundo.",
+                "Ao marcarmos a conquista que é o Tratado sobre a Proibição de Armas Nucleares, cumpre, contudo, reconhecer: perduram, na agenda de paz e segurança, questões que suscitam fundada apreensão.",
+                "Os recentes testes nucleares e missilísticos na Península Coreana constituem grave ameaça, à qual nenhum de nós pode estar indiferente. O Brasil condena, com toda a veemência, esses atos. É urgente definir encaminhamento pacífico para situação cujas consequências são imponderáveis.",
+                "No Oriente Médio, tomo a liberdade de dizê-lo, as tratativas entre Israel e a Palestina encontram-se paralisadas. Amigo de palestinos e israelenses, o Brasil segue favorecendo a solução de dois Estados convivendo em paz e segurança, dentro de fronteiras internacionalmente reconhecidas e mutuamente acordadas.",
+                "Na Síria, meus senhores, apesar da desescalada dos últimos meses, ainda se assiste a conflito com consequências humanitárias dramáticas. A solução que se deve buscar é essencialmente política – e já não pode ser postergada.",
+                "Também no Afeganistão, na Líbia, no Iêmen, no Mali ou na República Centro-Africana, as guerras causam sofrimentos intoleráveis que, naturalmente, ultrapassam fronteiras.",
+                "Percorramos os campos de refugiados e deslocados no Iraque, na Jordânia, no Líbano, no Quênia. Ouçamos as histórias dos que perderam pais, mães, filhos, filhas. São famílias que foram tragadas pela irracionalidade de disputas que parecem não conhecer limites. De disputas que, com frequência inaceitável, se materializam ao arrepio do direito humanitário.",
+                "Tem razão o nosso secretário-geral: revigoremos os mecanismos de prevenção de conflitos. A prevenção passa pela diplomacia. Passa pelo desenvolvimento.",
+                "É crucial, indispensável reconhecer o nexo entre segurança e desenvolvimento. O reconhecimento desse nexo guiou a participação do Brasil na [Missão de] Estabilização das Nações Unidas no Haiti. Nesta hora em que a Minustah encerra seu mandato, a comunidade internacional deve manter o compromisso com o povo haitiano. O Brasil certamente o fará.",
+                "Na América do Sul, a Colômbia está equacionando conflito de mais de cinquenta anos. O Brasil continuará sendo parceiro decidido nesse esforço.",
+                "Senhor Presidente,Senhoras e senhores,",
+                "De Barcelona a Cabul, de Alexandria a Manchester, reiteradas manifestações de violência covarde não nos deixam esquecer o mal do terrorismo. É mal que se alimenta dos fundamentalismos e da exclusão a que nenhum país está imune.",
+                "A união se impõe ainda mais em face da capacidade do terrorismo de adaptar-se aos tempos e aos terrenos. Não seremos acuados pelo terror nem permitiremos que ele abale a nossa crença na liberdade e na tolerância.",
+                "Também, meus senhores e minhas senhoras, o crime transnacional, em tantos de nossos países, solapa a segurança e a tranquilidade dos indivíduos e das famílias. Apenas de forma coordenada e articulada daremos combate eficaz ao tráfico de pessoas, de armas, de drogas, à lavagem de ativos.",
+                "Foi nesse espírito que o Brasil organizou, em novembro último, reunião ministerial de países da América do Sul sobre segurança nas fronteiras. E é nesse espírito que seguiremos cooperando com países de todo o mundo no enfrentamento do crime organizado.",
+                "Senhor Presidente,",
+                "Lamentavelmente, ainda são recorrentes as violações dos direitos humanos em todo o mundo. Tanto dos direitos civis e políticos, quanto dos direitos econômicos, sociais e culturais. Em todos os lugares, há que garantir que cada indivíduo possa viver com dignidade, segundo suas convicções e suas escolhas.",
+                "O Brasil é um país de liberdades arraigadas, que se fez, e ainda se faz, na diversidade. Diversidade na etnia, na cultura, de credo, de pensamento. Mais que tudo, é dessa diversidade que tiramos nossa força como nação. Rechaçamos o racismo, a xenofobia e todas as formas de discriminação.",
+                "Somos parte nos principais tratados internacionais de direitos humanos, na Corte Interamericana de Direitos Humanos, no Tribunal Penal Internacional. Estendemos convite permanente aos relatores independentes da ONU.",
+                "Temos hoje, meus senhores, uma das leis de refugiados mais modernas do mundo. Acabamos de modernizar também nossa lei de migração, pautados pelo princípio da acolhida humanitária. Temos concedido vistos humanitários a cidadãos haitianos e sírios. E temos recebido milhares de migrantes e refugiados da Venezuela.",
+                "A situação dos direitos humanos na Venezuela, lamentavelmente, continua a deteriorar-se. Estamos ao lado do povo venezuelano, a quem nos ligam vínculos fraternais. Já não há mais espaço para alternativas à democracia. É o que afirmamos no Mercosul, é o que seguiremos defendendo.",
+                "Senhor Presidente,",
+                "O Brasil atravessa momento de transformações decisivas.",
+                "Com reformas estruturais, estamos superando uma crise econômica sem precedentes. Estamos resgatando o equilíbrio fiscal. E, com ele, a credibilidade da economia. Voltamos a gerar empregos. Recobramos a capacidade do Estado de levar adiante políticas sociais indispensáveis em um país como o nosso.",
+                "Aprendemos e estamos aplicando, na prática, esta regra elementar: sem responsabilidade fiscal, a responsabilidade social não passa de discurso vazio.",
+                "O novo Brasil que está surgindo das reformas é um país mais aberto ao mundo.",
+                "É essa atitude de abertura que trazemos à ONU e que levamos ao Mercosul, ao G20, ao BRICS, ao IBAS e a todos os foros de que participamos. É essa atitude de abertura que adotamos com cada um de nossos parceiros – na nossa região e além dela.",
+                "A América do Sul é nossa vizinhança imediata. E por isso trabalhamos por uma América do Sul próspera e democrática. Trabalhamos pela crescente convergência dos processos de integração na América Latina e no Caribe. Exemplo significativo é a aproximação entre o Mercosul e a Aliança do Pacífico. Juntos, os países desses dois agrupamentos formam um mercado de quase 470 milhões de pessoas e respondem por mais de 90% do PIB da América Latina.",
+                "A África, por sua vez, é continente a que nos unem fortes laços históricos e culturais. É continente onde queremos cada vez mais iniciativas de cooperação, cada vez mais parcerias para o desenvolvimento.",
+                "Com a Europa, onde cultivamos antigas amizades, tratamos de incrementar os fluxos de comércio e investimentos.",
+                "E também na Ásia-Pacífico – polo mais dinâmico da economia global – intensificamos nossas relações com parceiros tradicionais e abrimos novas frentes de intercâmbio.",
+                "Assim é a nossa política externa: verdadeiramente universalista.",
+                "E, Senhor Presidente, o mais universal dos foros com que contamos é esta Assembleia Geral.",
+                "Aqui nos beneficiamos do mais plural conjunto de perspectivas. Aqui encontramos os parâmetros e as normas para o convívio respeitoso. Aqui haveremos de nos tornar nações mais unidas – em nome do desenvolvimento de nossos povos, da dignidade de nossos cidadãos, da segurança de nosso planeta.",
+                "Muito obrigado, senhor presidente. Senhoras e senhores, muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante Diálogo dos Chefes de Estado e de Governo do Brics e das Economias Emergentes e Países em Desenvolvimento — Xiamen-China, 5 de setembro de 2017",
+            "subtitulo": "NA",
+            "data": "05/09/2017",
+            "horario": "14h15",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-dialogo-dos-chefes-de-estado-e-de-governo-do-brics-e-das-economias-emergentes-e-paises-em-desenvolvimento",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Caros colegas do Brics,",
+                "Caros colegas do Egito, da Guiné, do México, do Tadjiquistão e da Tailândia,",
+                "É uma alegria fazer parte deste diálogo com parceiros de diferentes continentes, que nos honram com sua presença. Sua participação nesta cúpula enriquece nossos debates, acrescenta, senhores, ainda maior valor ao Brics. Permito-me saudar o Presidente Xi Jinping pela organização deste momento. O que chamamos diálogo ampliado já se tornou tradição nas Cúpulas do Brics. E é muito positivo que seja assim. Trata-se de oportunidade de agregar novas perspectivas sobre questões que dizem respeito ao conjunto da comunidade internacional. O fato é que a busca do desenvolvimento é um traço que nos une a todos. A Agenda 2030 para o Desenvolvimento Sustentável nos mobiliza em torno de um imperativo inadiável: garantir um crescimento que seja social e ambientalmente responsável; garantir, em bases duradouras, o bem-estar de nossas sociedades – com os olhos postos nas gerações presentes e futuras. O Brasil tem feito sua parte com base em duas ideias centrais: responsabilidade e abertura. Internamente, devolvemos ao País o rumo do desenvolvimento – e o fizemos escolhendo o caminho da responsabilidade. Enfrentamos, sem rodeios, os desafios de uma economia que, com urgência, precisava voltar a crescer, voltar a gerar empregos e renda. Quando assumimos o governo, no ano passado, a crise que tínhamos diante de nós era de natureza fiscal. Não havia alternativa: era necessário remediar a expansão acelerada dos gastos públicos. E foi o que passamos a fazer por meio de ambiciosa agenda de reformas.",
+                "Nosso pressuposto era – e continua sendo – o de que o equilíbrio fiscal é condição para o crescimento com inclusão social. Nosso pressuposto era – e segue sendo – o de que a responsabilidade fiscal é imprescindível para o efetivo exercício da responsabilidade social. A responsabilidade compensa. Os resultados já aparecem e são significativos. A inflação está novamente sob controle. A atividade produtiva reconquistou o dinamismo. Novos postos de trabalho vão sendo criados. Está preservada a capacidade do Estado de investir em educação, saúde, habitação – alguns dos pilares da Agenda 2030. Reitero: trata-se de entender que responsabilidade fiscal e responsabilidade social são dois lados de uma mesma moeda.Nesse esforço de retomada responsável do caminho do desenvolvimento, nossa atitude é, também, de abertura ao mundo. Outro pressuposto inescapável é o de que estratégias eficazes de crescimento exigem, hoje, uma maior e melhor integração aos fluxos globais de comércio e investimentos. Daí o nosso empenho em revitalizar os processos de integração em nossa região – o que inclui, naturalmente, maior aproximação entre os agrupamentos como o Mercosul e a Aliança do Pacífico, de que, aliás, é membro o México. Daí o significado da dimensão econômica do Brics, que aprofundamos ainda mais nesta Cúpula de Xiamen. E daí, também, o significado de encontros como este, que fortalece antigas parcerias e descortina novas frentes de cooperação.Nossa postura de abertura ao mundo traduz-se, ainda, na firme defesa de um sistema internacional baseado em regras definidas coletivamente. O compromisso do Brasil com o multilateralismo é inequívoco. Estamos decididamente engajados, senhores – e essa é, permito-me dizê-lo, convicção do Brics –, no fortalecimento da Organização Mundial do Comércio e na implementação do Acordo de Paris sobre Mudança do Clima. O Brasil soma sua voz às daqueles que prestigiam o diálogo, que se apegam ao primado do Direito, que atuam sob o signo da cooperação. É nesse espírito que, juntos, construiremos, para nossos filhos e netos, um mundo de mais justiça e paz. É dessa forma – com responsabilidade e abertura – que o Brasil continuará a trabalhar para alcançar os objetivos da Agenda 2030 para o Desenvolvimento Sustentável. Meus caros amigos,É ilusão acreditar que possa haver desenvolvimento para uns e não para outros. É um equívoco pensar que seja viável, no longo prazo, este mundo em que ilhas de prosperidade e bem-estar convivem com a exclusão da maioria. O verdadeiro desenvolvimento sustentável é necessariamente compartilhado.  Esse é, aliás, o objetivo último do Brics: compartilhar desenvolvimento. E esse é também, quero crer, o propósito maior de nosso diálogo esta manhã. Não é apenas dizer que juntos somos capazes de realizar mais. Na realidade, os objetivos que perseguimos só poderemos alcançar se agirmos de forma articulada. Essa é a mensagem de união e convergência que o Brasil traz a este foro. Uma mensagem, repito, de responsabilidade e abertura. Cabe, naturalmente, a cada um de nós, e a todos nós, renovar, dia após dia, essa mensagem. Cabe-nos dar-lhe sentido prático e alcance global. Tenho certeza que ela faz isso.Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante reunião reduzida dos Chefes de Estado e de Governo do Brics – Xiamen-China, 4 de setembro de 2017",
+            "subtitulo": "NA",
+            "data": "04/09/2017",
+            "horario": "11h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-reuniao-reduzida-dos-chefes-de-estado-e-de-governo-do-brics-xiamen-china-4-de-setembro-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Senhor presidente Xi Jinping,",
+                "Senhor presidente Zuma,",
+                "Senhor presidente Putin,",
+                "Senhor primeiro-ministro Modi.",
+                "Tal como fez o presidente Zuma, minhas primeiras palavras são de agradecimento ao presidente Xi Jinping pela delicadeza com que somos recebidos nesta bela cidade de Xiamen.",
+                "Aqui, vemos a combinação entre a modernidade e a tradição chinesas. E é, precisamente, o amálgama da modernidade e tradição que faz do Brics um grupo único. São países que encontram na modernidade a chave para o desenvolvimento e, na tradição, os traços que compõem a identidade de seus povos.",
+                "Em nossa diversidade, senhores, em nossa convergência de propósitos, temos encontrado o rumo para uma cooperação mais intensa e para um futuro mais promissor.",
+                "Em Hamburgo, como foi lembrado aqui, na cúpula do G20, os Brics transmitiram mensagem de apoio ao sistema multilateral de comércio. Do mesmo modo, nosso grupo reafirmou seu compromisso inequívoco com a integridade do Acordo de Paris sobre a mudança do clima. Em Xiamen, continuamos a trilhar esse caminho.",
+                "O mundo permanece sob o signo da incerteza.",
+                "Parece haver uma erosão do apego ao direito internacional; uma erosão da crença nos benefícios do livre comércio; uma erosão da convicção quanto ao imperativo de enfrentarmos, juntos, desafios que são compartilhados.",
+                "Temos que estar à altura do momento. É preciso uma ação coordenada e consciente para a efetiva promoção do desenvolvimento – não de um desenvolvimento qualquer, mas do desenvolvimento sustentável em suas vertentes econômica, social e ambiental. Daí a importância da Agenda 2030 para o Desenvolvimento Sustentável. Daí também a importância do concurso de todos para sua plena implementação.",
+                "O Brasil tem respondido aos desafios contemporâneos com atitude de abertura ao mundo.",
+                "Em nossa região, excelências, estamos ajudando a reconstituir laços de integração que se vinham enfraquecendo. Recobramos, no Mercosul, a vocação do livre mercado e da aproximação com outros parceiros. Temos avançado na eliminação de barreiras ao comércio e aos investimentos. Temos firmado novos acordos com países vizinhos e progredido nas negociações com atores extra-regionais.",
+                "Mais amplamente, estamos empenhados na revalorização da Organização Mundial do Comércio. Há que respeitar as regras em vigor e trabalhar para aperfeiçoá-las. É fundamental avançar na liberalização do comércio agrícola. Na conferência ministerial de Buenos Aires, em dezembro, buscaremos resultados verdadeiros nessa e em outras frentes, como a facilitação de investimentos. É assim que combatemos o ceticismo: com postura pragmática e com espírito determinado.",
+                "As incertezas da cena internacional também, convenhamos, se alimentam de continuadas tensões políticas.",
+                "É essencial encontrar solução negociada para a trágica situação que, há tempos, vitima o povo sírio – com consequências para o entorno e para o mundo. E nesse sentido a Rússia, presidente Putin, tem feito um trabalho extraordinário para composição dos vários conflitos. E não estamos indiferentes, nem poderíamos, ao drama dos refugiados. Como afirmei nas Nações Unidas, no ano passado, fluxos de refugiados são o resultado de guerras, de repressão, do extremismo violento – não são a sua origem; as preocupações legítimas dos governos com a segurança de seus cidadãos devem estar em consonância com os direitos inerentes a cada ser humano.",
+                "Que a terrível crise na Síria, porém, não nos deixe também esquecer a questão Israel-Palestina. Solução equilibrada para essa questão é crucial para a paz no Oriente Médio. Apoiamos a solução de dois Estados em fronteiras seguras e mutuamente acordadas. Não podemos nos acomodar diante de um problema que há tanto tempo é tão premente.",
+                "Tampouco podemos nos acomodar diante da persistente ameaça do terrorismo, à qual nenhum de nossos países está imune. Esse é tema que exige de todos a ação crescentemente coordenada. Permito-me, aqui, retomar proposta brasileira de criação do Fórum de Inteligência do Brics. Seria contribuição adicional para nossos esforços concentrados de prevenção de atos terroristas.",
+                "Outra questão que nos preocupa a todos são os recentes testes norte-coreanos. Os episódios dos últimos dias dão concretude a temores que parecem ter ficado nos livros de história. Hoje, encontrar saída diplomática para a situação tão grave. Em perspectiva mais abrangente e de mais longo prazo, o desarmamento nuclear é a garantia mais eficaz contra a proliferação. O Brasil esteve na origem do Tratado sobre a Proibição das Armas Nucleares, adotado em julho. Assinaremos o instrumento ainda este mês, em Nova York. Trata-se de mais uma conquista real do multilateralismo.",
+                "As dúvidas lançadas sobre os processos multilaterais não devem conter nossos esforços para aprimorar as instâncias decisórias globais. Ao contrário, devem servir de estímulo para que busquemos mecanismos de governança mais representativos. Essa foi e deve continuar sendo a nossa prioridade.",
+                "Os Brics já colheram bons resultados na reforma de instituições financeiras. Temos que evoluir na reforma de outros foros que também se encontram em descompasso com as realidades atuais. Nas Nações Unidas, um Conselho de Segurança reformado agregará legitimidade e eficácia às deliberações sobre paz e segurança internacionais.",
+                "Antes de concluir, compartilho preocupação sobre tema que afeta diretamente os interesses do Brasil. Acompanhamos de perto o quadro político, econômico e social da Venezuela. A escassez de comida, remédios e outros itens básicos provoca drásticas consequências. A situação é de instabilidade e de crise humanitária. É crescente, senhores, o fluxo de migrantes e refugiados que chegam ao Brasil e a outros países vizinhos. Confiamos em uma solução pacífica para a crise, com pleno respeito à soberania venezuelana.",
+                "Meus amigos,",
+                "Nesta cúpula, nos beneficiamos do trabalho muito bem-sucedido de nossos anfitriões. Estou certo de que, sob a liderança da presidência chinesa, fortaleceremos ainda mais os nossos vínculos.",
+                "Nossas decisões em Xiamen indicarão as próximas etapas de uma cooperação voltada para um mundo mais justo, mais pacífico, de mais bem-estar para nossos povos.",
+                "E desejo uma presidência do Brics muito profícua para o presidente Zuma, da África do Sul.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante reunião ampliada dos Chefes de Estado e de Governo do Brics – Xiamen-China, 4 de setembro de 2017",
+            "subtitulo": "NA",
+            "data": "04/09/2017",
+            "horario": "11h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-reuniao-ampliada-dos-chefes-de-estado-e-de-governo-do-brics-xiamen-china-4-de-setembro-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Senhor presidente Xi Jinping,",
+                "Senhor presidente Zuma,",
+                "Senhor presidente Putin,",
+                "Senhor primeiro-ministro Modi.",
+                "É uma satisfação muito especial compartilhar as impressões do Brasil sobre a cooperação entre os Brics, como vemos no seu presente e como vislumbramos o seu futuro.",
+                "Antes, contudo, eu quero fazer questão de expressar nosso reconhecimento à excelência da condução de nosso grupo sob a presidência chinesa. Se hoje podemos lançar novas frentes de cooperação, aprofundar iniciativas bem-sucedidas, é graças ao espírito de entendimento mútuo e de diálogo franco que tem permeado nossos trabalhos.",
+                "A colaboração entre os Brics tem avançado nos mais variados domínios. O objetivo que nos une, a todos nós, é o mesmo: criar oportunidades, gerar bem-estar, impulsionar o desenvolvimento.",
+                "A área econômica é espaço privilegiado para a atuação concertada dos Brics. Nela, temos colhido excelentes resultados, que nos dão razão para fundado otimismo.",
+                "O Novo Banco de Desenvolvimento consolida-se como instituição de reconhecida capacidade à serviço da expansão da infraestrutura, à serviço do crescimento. Mais de uma dezena de projetos foram aprovados com sucesso. O banco concluiu seu processo de instalação do centro regional na África. Adotamos uma estratégia geral para os próximos cinco anos, que tem por eixo central a promoção da sustentabilidade. Aliás, ainda há algum tempo, falando com empresários brasileiros, comunicamos que estamos cuidado da instalação do escritório do Banco do Desenvolvimento, Novo Banco do Desenvolvimento, no nosso país, no Brasil.",
+                "É preciso assim que o banco se mantenha ágil, eficiente e financeiramente saudável. É preciso que o banco mantenha elevados padrões de governança e de transparência, como vem acontecendo. Isso é fundamental para que continuemos a ter, sempre, uma instituição sólida, que atenda às expectativas do Brics e do mundo.",
+                "Aqui em Xiamen, o banco dá mais um passo para firmar-se como instrumento efetivo de promoção do desenvolvimento. Refiro-me à interação do banco com o mundo empresarial, que chega em excelente hora e contribui para levar o Brics para mais perto de nossos setores produtivos, de nossas sociedades. Aliás, presidente Xi Jinping, a extraordinária reunião de ontem do Conselho Empresarial com mais de 1.200 participantes.",
+                "E, neste sentido, a facilitação do comércio entre nossos países é também campo fértil para novas iniciativas. Precisamos simplificar procedimentos de exportação e importação. Precisamos, talvez, dar mais agilidade aos trâmites governamentais. Esse é o propósito dos acordos que assinaremos esta tarde. Conferir maior vitalidade a nossas trocas comerciais é propósito permanente de nosso agrupamento.",
+                "Mas a agenda dos Brics não se resume à seara econômica: em uma década de parceria, nossos trabalhos expandiram-se para as mais variadas áreas. O Brasil trouxe a esta cúpula propostas concretas de cooperação.",
+                "No marco de nosso diálogo sobre segurança, propusemos a criação de mecanismo de troca de informações entre agências de inteligência. Em um mundo cada vez mais interconectado, é fundamental unir esforços para enfrentar desafios que transcendem fronteiras.",
+                "Propusemos, ainda, o estabelecimento de cooperação em transporte aéreo. O investimento em infraestrutura de transportes é peça-chave para o aumento da competitividade de nossos produtos, para a dinamização de nossas economias. É muito positivo que o Conselho Empresarial já esteja debruçado sobre o tema da aviação regional. A aviação regional é setor crucial para países de dimensão continental como são os Brics.",
+                "Na área social, temos impulsionado mais uma iniciativa de promoção da saúde. Nossos países reúnem populações numerosas, que demandam esforços redobrados para a garantia desse direito básico. A rede de pesquisa do Brics para o combate à tuberculose, por exemplo, buscará dar mais qualidade ao tratamento dessa enfermidade.",
+                "Pesquisa e desenvolvimento são atividades essenciais não apenas em matéria de saúde, mas para o progresso econômico como um todo. Na área energética, as tecnologias têm avançado rapidamente, reduzindo custos e ampliando as oportunidades de novos negócios. Temos, nos Brics, líderes em energia renovável. Há grande potencial para conjugar nossas capacidades e construir uma aliança que concilie a crescente demanda por energia com a proteção do meio ambiente.",
+                "Do mesmo modo, já temos bom retrospecto de ações conjuntas em ciência e tecnologia. Pois agora estamos progredindo ainda mais. O plano de ação para o co-financiamento de pesquisas, mais um resultado desta cúpula, abre mais espaço para fazermos do Brics motor da inovação.",
+                "Meus amigos, excelências,",
+                "Nossas sociedades são e devem ser, cada vez mais, protagonistas de nosso desenvolvimento. No Brics, a cada ano, a vertente não governamental vem ganhando força.",
+                "Após nossas deliberações, daremos continuidade à prática muito bem-vinda de mantermos diálogo institucionalizado com nosso Conselho Empresarial. Ontem, repetindo, já pudemos manter encontro mais amplo com centenas de lideranças empresariais dos países do Brics e do mundo.",
+                "Ainda há muito o que podemos e devemos fazer para estimular o conhecimento mútuo, para transpor barreiras linguísticas, para aproximar os nossos povos. O importante é ter as populações dos cinco países no centro da parceria Brics.",
+                "Parceria, senhores, que se renova a cada ano, que se desdobra em variadas iniciativas. Temos rico patrimônio de realizações que deve ser cultivado. Temos grande potencial para ampliá-lo ainda mais. O fundamental é identificar consensos e manter o foco em áreas convergentes. Temos estrutura enxuta, flexível e eficiente. Esses, penso eu, são traços que devemos valorizar.",
+                "Sairei, senhor presidente Xi Jinping, sairei de Xiamen convicto de que a cooperação no Brics continuará a serviço de nossos interesses e aspirações, com sentido prático e orientado para resultados concretos.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Temer, durante Diálogo dos Chefes de Estado e de Governo do Brics com o Conselho Empresarial do Brics – Xiamen-China, 4 de setembro de 2017",
+            "subtitulo": "NA",
+            "data": "04/09/2017",
+            "horario": "11h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/temer-durante-dialogo-dos-chefes-de-estado-e-de-governo-do-brics-com-o-conselho-empresarial-do-brics-xiamen-china-4-de-setembro-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Senhor presidente Xi Jinping,",
+                "Senhor presidente Zuma,",
+                "Senhor presidente Putin,",
+                "Senhor primeiro-ministro Modi,",
+                "Senhoras e senhores representantes do Conselho Empresarial do Brics.",
+                "É uma grande satisfação participar de mais este diálogo com líderes empresariais dos Brics. Este espaço de intercâmbio entre governos e empresas há que ser cada vez mais valorizado. O empreendedor é, sabemos todos, um criador de prosperidade.",
+                "Ouvi com muito entusiasmo o relato dos trabalhos do conselho. Está claro que os empresários estão na linha de frente nas relações entre os Brics. As senhoras e os senhores testemunham, no dia-a-dia, a medida de nossa integração – mais do que isso, são protagonistas dessa integração.",
+                "Pude confirmar o vigoroso empenho do conselho em fazer do Brics instrumento efetivo para aumentar ainda mais o comércio e o investimento entre os nossos países. As variadas iniciativas aqui relatadas contribuem para trazer o Brics para mais perto de nossos setores produtivos. Saúdo, em particular, a assinatura de acordo com o Novo Banco de Desenvolvimento e como pude detectar ainda no dia de ontem e no dia de hoje pela manhã, a criação de grupo dedicado ao tema da aviação regional.",
+                "Há pouco, em nossa sessão plenária, os líderes do Brics falávamos, precisamente, da importância de impulsionar o componente não governamental do grupo. Pois verifico, aqui, novas ações concretas nesse sentido. Ações que quero louvar e encorajar mais e mais.",
+                "O comércio do Brasil com os demais países do Brics recobrou seu dinamismo este ano. Também tem sido notável a tendência de crescimento e diversificação dos fluxos de investimento entre nossos países. Rússia, Índia, China e África do Sul, ao mesmo tempo em que encontram no Brasil extraordinárias oportunidades de negócios, representam destinos dos mais vantajosos para nossos produtos e investimentos.",
+                "Senhoras e senhores,",
+                "No Brasil, temos levado adiante agenda de reformas que já trouxe de volta a confiança e o crescimento. Para além dos esforços de ajuste fiscal, estamos aprimorando marcos regulatórios e simplificando procedimentos. Estamos, na verdade, criando condições mais favoráveis para investimentos em infraestrutura. Temos conduzido ambicioso programa de concessões e privatizações – programa que reúne projetos de envergadura em variados setores: são portos, aeroportos, rodovias, ferrovias, linhas de transmissão, enfim, ativos relativos a esses setores.",
+                "Os resultados mostram que estamos no rumo certo. A inflação está novamente sob controle e os juros no Brasil seguem trajetória consistente de queda. A produção industrial recupera-se mês a mês. A agricultura bate recordes. Os empregos começam a voltar.",
+                "Neste momento de modernização de nossa economia, multiplicam-se as perspectivas para que quer investir no Brasil. Reconquistamos a confiança e o otimismo.",
+                "Continuem a contar com o decidido apoio do Brasil para as atividades do Conselho Empresarial do Brics.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante cerimônia de abertura do Fórum Empresarial do Brics – Xiamen-China, 3 de setembro de 2017",
+            "subtitulo": "NA",
+            "data": "03/09/2017",
+            "horario": "11h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-cerimonia-de-abertura-do-forum-empresarial-do-brics-xiamen-china-03-de-setembro-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Quero cumprimentar o presidente da África do Sul, o senhor Jacob Zuma.",
+                "As senhoras e os senhores integrantes das delegações oficiais do Brasil, da Rússia, da Índia, da China e da África do Sul.",
+                "Também, as senhoras e os senhores membros da comunidade empresarial dos países do Brics.",
+                "E quero, desde já, agradecer a gentileza da apresentação, mas também ressaltar, senhor Embaixador da China no Brasil, eu quero ressaltar a oportunidade extraordinária que tivemos em ouvir o presidente Xi Jinping, que não apenas fez um relato muito adequado do panorama mundial, mas tal como professor catedrático deu todas as linhas da ação do Brics nestes anos de sua existência.",
+                "Por isso mesmo, eu quero dizer da grata satisfação com que participo deste Fórum Empresarial do Brics.",
+                "E, desde já, tendo em vista as palavras do presidente Xi Jinping, eu começo por reafirmar meu decidido apoio e do Brasil à intensificação das relações empresariais entre os países do Brics. Todos eles são parceiros de primeira grandeza para o Brasil. É minha convicção e da comissão que me acompanha que precisamos fazer ainda mais para adensar os fluxos de comércio e investimentos no âmbito do Brics.",
+                "Amanhã, aliás, serão assinados, aqui mesmo em Xiamen, acordos que fortalecerão nossa parceria econômica.",
+                "Permitam-me comentar que esta é a segunda etapa de uma já muito produtiva estada na China. Antes de vir a Xiamen, estive em Pequim para visita de Estado a convite do presidente Xi Jinping. Em meus encontros com o presidente Xi e outros dirigentes chineses, falei do novo momento em que vive o Brasil, que é um momento de otimismo, de retomada da economia, de multiplicação das oportunidades de negócios.",
+                "Pois é, desse novo momento que, também aqui, gostaria de falar-lhes. Afinal, aqui está um número significativo de grandes empresários e, com a nossa fala, o que quero enfatizar é que o Brasil está aberto aos grandes investimentos.",
+                "Até porque hoje ele atravessa período de grande modernização econômica. Nós temos criado as condições para o crescimento sustentado de longo prazo, crescimento que gera empregos e renda para nossa população. O setor privado, e eu quero adiantar essa observação, tem sido parceiro de primeira hora nessa injeção de vitalidade que temos aplicado no Brasil.",
+                "O trabalho que nosso governo tem levado adiante, sempre em diálogo com a sociedade, tem duas vertentes maiores: pôr em ordem as contas públicas e aprimorar o ambiente de negócios. A verdade é que, no mundo de hoje, não há espaço para improvisação. Quem deseja prosperar tem que fazer a lição de casa, tem que se antecipar ao futuro.",
+                "E, no Brasil, para pôr em ordem as contas públicas, temos conduzido reformas que há muito tempo foram adiadas, mas que restituem a saúde fiscal do Estado brasileiro. A primeira delas, registro, foi a instituição de regras constitucionais para controle das despesas públicas.Outra reforma, também incontornável para o nosso sistema, e para dar vitalidade econômica aos nossos investidores e aos investidores estrangeiros que queiram investir no nosso País, é a reforma da Previdência. Reconhecemos no nosso país que a Previdência Social ficou defasada e hoje gera um déficit bastante significativo. E nós estamos inteiramente dedicados a ela. O atual sistema previdenciário, que é antigo, é reflexo de uma realidade demográfica já superada. Ajustá-lo é essencial não apenas para salvar a própria Previdência, mas também para o esforço mais amplo de equilíbrio fiscal.",
+                "Temos também atuado, e isto, penso, interessa muito aos senhores e às senhoras empresários e empresárias para viabilizar uma simplificação tributária que elimine burocracias e facilite a vida do empreendedor.",
+                "Nosso compromisso inequívoco com o manejo sério da economia já oferece resultados. Para os senhores terem uma ideia, quando cheguei ao governo a inflação estava acima de 10%. Ele está novamente sob controle e abaixo do centro da meta. O centro da meta que nós próprios fixamos foi de 3%. E hoje, precisamente hoje, ele está em 2,71%. Portanto, baixou de mais de 10% para 2,71%. A taxa básica de juros recuou a um dígito. Era de dois dígitos, 14,25%, hoje esta em 9,25%, a indicar, segundo analistas econômicos, que em brevíssimo tempo estará entre 7 e 7,5%. Portanto, uma redução significativa para aqueles que procuram o crédito no nosso País.",
+                "E tudo isto tem feito com que a produção industrial dê sinais de retomada. O crescimento está voltando e, com ele, o emprego: a criação de postos de trabalho com carteira assinada já é a maior desde 2014. Portanto, minhas senhoras e meus senhores, são fortes a confiança e o otimismo no nosso país.",
+                "A segunda vertente do nosso governo está concentrada no aprimoramento do ambiente de negócios. Temos patrocinado medidas em série para atualizar regras, simplificar procedimentos, estimular investimentos. Basta mencionar umas tantas dessas medidas para que se constate o quanto já avançamos em pouco mais de um ano. Estamos no governo, precisamente, há 15 meses.",
+                "E, por exemplo, nós devolvemos autonomia e conferimos maior eficiência às agências regulatórias.",
+                "Saneamos, também, empresas de grande porte, que são patrimônio de todos os brasileiros.",
+                "E fizemos algo que se esperava há mais de 20 anos e não era feito. Ou seja, aprovamos a modernização da legislação trabalhista, cujos fundamentos remontavam, pelo menos, à década de 1940, com pouquíssimas modificações. Com isso, nós damos mais previsibilidade às relações de trabalho e, portanto, desbloqueamos nosso potencial produtivo.",
+                "Devo dizer que com esta flexibilização da legislação trabalhista, assegurando todos os direitos dos trabalhadores, ao mesmo tempo estamos incentivando o combate ao desemprego. E bastou, meus senhores e minhas senhoras, que nós aprovássemos no Congresso Nacional a modernização trabalhista, que nesses últimos quatro meses, como salientei há pouco, o número de empregos com carteira assinada aumentou substancialmente.",
+                "E fizemos também uma modernização na exploração de petróleo. Nós removemos amarras que dificultavam investimentos e ampliamos a margem de participação da iniciativa privada na exploração do pré-sal. Eu explico: há pouco tempo atrás, antes assumir o governo, havia a necessidade na exploração do chamado bloco do pré-sal, que tem bilhões e bilhões de barris de petróleo e gás, havia a necessidade obrigatória de a empresa estatal Petrobras participar, necessariamente, com 30% em qualquer investimento. Nós retiramos esta obrigatoriedade. Ou seja, a empresa estatal Petrobras participa se assim o desejar. Portanto, deixamos mais livre para o investimento privado exclusivo.",
+                "Também, nós lançamos o Programa de Parcerias de Investimentos que remodelou o formato das concessões e privatizações na área da infraestrutura. Nós temos agora marcos regulatórios mais racionais e previsíveis, e nós dizemos isso porque isso gera segurança jurídica, que é o que mais interessa aqueles que vão contratar aplicando seus recursos no nosso país. Há poucos dias, nós aprovamos a inclusão de quase 60 novos projetos, novos ativos, no Programa de Parcerias de Investimentos. São aeroportos, portos, linhas de transmissão de energia e muitas outras oportunidades de investimentos. Naturalmente, tudo aberto à aplicação daqueles que queiram investir no nosso país.E, devo registrar, que além do compromisso do nosso governo com as reformas, que acabei de mencionar, e a melhora do ambiente de negócios, temos posto em ação uma política externa verdadeiramente universalista, de abertura ao mundo. Uma política externa que contribui para o comércio e os investimentos.",
+                "Por exemplo, na nossa região, o Brasil, a Argentina, o Paraguai e o Uruguai, estamos recobrando o espírito original do Mercosul. Esses países são países integrantes do Mercosul, voltados todos para o livre-mercado. O bloco tem alcançado progressos significativos na eliminação de barreiras de comércio. Acabamos, aliás, de concluir acordo sobre facilitação de investimentos e, em breve, celebraremos acordo sobre compras governamentais. Na frente externa, entramos em fase decisiva nas negociações com a União Europeia.",
+                "O Mercosul, esses quatro países que indiquei, também tem se aproximado da Aliança do Pacífico, uma iniciativa de integração que congrega Chile, Colômbia, México e Peru. Nós queremos fortalecer nossa rede de acordos de comércio e parcerias empresariais. Evidentemente, o Mercosul e a Aliança do Pacífico, esses dois agrupamentos, formam um mercado de quase 470 milhões de pessoas e respondem por mais de 90% do PIB da América Latina.",
+                "E agora que nós já estamos aqui, no dia de amanhã, para iniciarmos o encontro com o Brics, nós queremos cada vez mais este entrosamento entre os países do Brics e as organizações que acabei de mencionar.",
+                "Eu tomei a liberdade de falar do momento atual do Brasil. O meu País tem características estruturais que fazem dele destino dos mais convidativos para investidores de todo o mundo.",
+                "Nossa agricultura, por exemplo, é altamente produtiva e sustentável. Neste ano, por exemplo, meus senhores, ela bateu recorde histórico e produziu mais de 242 milhões de toneladas de grãos. Nossa matriz energética é uma das mais limpas do mundo.",
+                "Tudo no Brasil é superlativo. Somos grande mercado consumidor, usina de ideias, grande fonte de oportunidades. E são essas oportunidades que as empresas aqui presentes poderão conhecer mais a fundo.",
+                "Senhoras e senhores,",
+                "Para finalizar, eu quero ressaltar o intercâmbio comercial entre o Brasil e os demais parceiros do Brics recuperou vigor no primeiro semestre de 2017. A integração econômica com ênfase em setores estratégicos e complementares deve figurar, como figura, sempre no topo da agenda do nosso grupo.",
+                "Em um mundo marcado por tendências protecionistas, o Brasil reafirma, por meio de palavras e ações, sua plena adesão a uma economia global aberta.",
+                "Mais uma vez, eu expresso minha satisfação por estar aqui. Eu formulo votos, tal como fez o eminente presidente Xi Jinping, de que este fórum seja ocasião de excelentes negócios. E para finalizar, agora para valer, aproveitem a chance: este é o momento certíssimo para investir no Brasil.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2017-09",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

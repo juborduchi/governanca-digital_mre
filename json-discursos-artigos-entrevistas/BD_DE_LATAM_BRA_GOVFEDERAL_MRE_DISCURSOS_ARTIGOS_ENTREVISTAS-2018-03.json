@@ -1,0 +1,452 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Declaração à imprensa do Presidente da República, Michel Temer, durante Cerimônia de Assinatura de Atos",
+            "subtitulo": "Palácio do Planalto/DF, 20 de março de 2018",
+            "data": "20/03/2018",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "15h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/declaracao-a-imprensa-do-presidente-da-republica-michel-temer-durante-cerimonia-de-assinatura-de-atos",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Na verdade, nós vamos fazer uma declaração à imprensa.",
+                "Começo cumprimentando novamente o presidente Juan Manuel Santos.",
+                "Senhoras e senhores ministros de Estado.",
+                "Integrantes das delegações.",
+                "E dizer que naturalmente é uma honra receber o presidente Santos e sua delegação.",
+                "E esta visita realiza-se em momento especialmente produtivo das relações entre o Brasil e a Colômbia. E devo registrar que nós tivemos um encontro muito produtivo. Aliás, basta verificar que um encontro que duraria 1 hora e pouco durou mais de 2 horas, quase 2 horas e meia.",
+                "Mas foi muito produtivo, todos os ministros se manifestaram sobre os mais variados temas. E temas que dizem respeito ao dia a dia dos brasileiros e colombianos, como, por exemplo: segurança pública, comércio, investimentos, agricultura, as questões de fronteira, nos detivemos muito nas questões de fronteira. E em todos esses dois últimos anos, houve naturalmente consideráveis avanços  nestas áreas.",
+                "E conversamos também sobre uma questão que naturalmente angustia brasileiros e colombianos, como falei das fronteiras, a questão da segurança pública e tratamos também naturalmente do combate ao crime organizado.",
+                "E nós queremos naturalmente reforçar cada vez mais as nossas fronteiras. Nossos ministros da Segurança, da Defesa, da Justiça e, de igual maneira, os seus homólogos no caso da Colômbia tiveram uma ampla discussão a respeito desses temas.",
+                "E na frente econômica nós verificamos com muito entusiasmo o aumento de 25% em nosso comércio. E verificamos que há potencial para fazermos ainda muito mais.",
+                "Aliás, no ano passado, entrou em vigor o novo acordo comercial Mercosul-Colômbia, este acordo ampliou a liberalização do comércio para quase toda a pauta tarifária, e portanto estamos tratando de novas oportunidades de negócios junto ao setor privado.",
+                "Estamos muito perto também de concluir um acordo entre... o Brasil e a Colômbia já foi feito, mas o Mercosul e a Colômbia. E eu sugeri ao presidente Santos que também iniciássemos negociações para um acordo sobre compras governamentais.",
+                "Aliás, houve aqui vários acordos assinados entre o Brasil e a Colômbia.",
+                "E vejam que é um momento de especial convergência entre os nossos países, tanto que o presidente Santos e eu naturalmente patrocinaremos com muito entusiasmo um acordo do Mercosul com aliança para o Pacífico. Conversamos muito sobre esse tema e há clima, há condições para este acordo.",
+                "Não deixei naturalmente de elogiar o presidente Santos pelo processo de paz que ele encabeçou na Colômbia. Aliás, recordei, em 2016, quando me pronunciei na ONU, fiz questão de cumprimentar o presidente Santos por aquela, aquele exato momento estava sendo feito aquela pacificação com as Farc, e sua excelência continua no mesmo trabalho. E aliás, felicíssimo, porque nas eleições, pela primeira vez depois de muitos anos, os guerreiros das Farc puderam depositar o seu voto.",
+                "Portanto, nós queremos também cooperar, como cooperamos, com esta paz que se estabeleceu na Colômbia.",
+                "E também evidentemente tratamos da situação da Venezuela. Este êxodo venezuelano para o Brasil e para a Colômbia perturba os países da América Latina. E nós fizemos questão de evidenciar que a nossa relação com a Venezuela, pelo menos da parte do Brasil e certamente da Colômbia, é uma relação institucional. É de estado a estado. Mas não significa que nós patrocinemos o que está acontecendo na Venezuela sobre o foco político.",
+                "O que queremos, e isto foi tratado durante a reunião, é a pacificação política na Venezuela, democracia plena nas eleições e a não agressão aos que se opõem ao regime que ora lá está constituído.",
+                "Portanto, toda a nossa ênfase sobre o foco político em relação à Venezuela se deu nessa direção. Evidentemente, também não deixei, mais uma vez, de agradecer, é o agradecimento permanente.",
+                "Quando nós tivemos a tragédia aérea com os jogadores do Chapecoense na Colômbia, a solidariedade do governo colombiano e do povo colombiano sensibilizou a todos nós. Fiz questão de ressaltar este fato, portanto, produzindo mais um agradecimento. E curiosamente pude verificar que esta tragédia de alguma maneira aproximou mais ainda os nossos povos e os nossos governos. Nós lamentamos muito o que aconteceu, mas aquilo revelou a grandeza do povo colombiano, que foi capaz de solidarizar-se com o Brasil neste momento deste trágico acontecimento.",
+                "Portanto, mais uma vez, eu agradeço a visita do presidente Santos. Espero que leve uma boa impressão do nosso país, como nós temos naturalmente da Colômbia."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Brinde do Presidente da República, Michel Temer, durante Almoço em homenagem ao Senhor Juan Manuel Santos, Presidente da República da Colômbia",
+            "subtitulo": "Palácio do Itamaraty/DF, 20 de março de 2018",
+            "data": "20/03/2018",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "15h45"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/brinde-do-presidente-da-republica-michel-temer-durante-almoco-em-homenagem-ao-senhor-juan-manuel-santos-presidente-da-republica-da-colombia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Presidente Juan Manuel Santos,",
+                "Presidente do Senado Federal, Eunício Oliveira,",
+                "Senhoras e senhores ministros de Estado, parlamentares,",
+                "Integrantes das delegações da Colômbia e do Brasil,",
+                "Membros do corpo diplomático,",
+                "Profissionais de imprensa,",
+                "Bom, presidente Santos, que não seja por falta de discurso, nós já fizemos vários hoje. Mas é tradicional o brinde que se faz no almoço dessa natureza para reiterar, na verdade, a satisfação, a honra, a alegria que nós temos em recebê-lo no Brasil. Vossa Excelência que já é um amigo do nosso País.",
+                "Aliás, em 2010, menos de um mês depois de sua posse, fez do nosso País o seu primeiro destino internacional. Portanto, é com muita satisfação que nós voltamos a recebê-lo neste momento.",
+                "E hoje eu reitero, já disse há pouco, que o Brasil, a Colômbia é um País que percorre de maneira corajosa o caminho da paz.",
+                "Interessante, a ideia de coragem muitas vezes está ligada à ideia do conflito, da guerra, mas não é. A maior coragem é você harmonizar as relações dentro do País, portanto, buscar a paz. Isto que é verdadeiramente corajoso.",
+                "E não foi sem razão que Vossa Excelência recebeu o Prêmio Nobel da Paz. E por isso, Presidente, nós, pelas relações que temos, pelas ações que entretemos ao longo do tempo e pelas relações que hoje se solidificaram mais ainda, nós queremos cada vez ser parceiros de uma América do Sul de paz, cooperação e prosperidade.",
+                "Portanto, estamos prontos a continuar trabalhando pela Região, pela Democracia, pelos Direitos Humanos e pelo desenvolvimento sustentável.  Especialmente preocupados com as nossas crianças.",
+                "Daqui a pouco, o Osmar Terra estará nos recepcionando, o Osmar Terra é o nosso ministro do Desenvolvimento Social, estará nos recepcionando a todos, para um evento sobre um programa chamado “Criança Feliz”, e eu sei que Vossa Excelência é apaixonado por esse tema e cultor dessa matéria.",
+                "Portanto, é um grande prazer para nós, que nós estejamos a recebê-lo mais uma vez. Eu reitero aqui, o que já reiterei em várias manifestações anteriores, sobre o agradecimento que nós temos pela solidariedade do povo colombiano, por ocasião daquele trágico acidente aéreo que vitimou os jogadores do Chapecoense.",
+                "De modo que eu quero fazer um brinde ao presidente Santos e cumprimentar a toda sua delegação e a nossa delegação."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante Almoço em homenagem aos Chefes de Delegação participantes do VIII Fórum Mundial da Água oferecido pelo Senhor Michel Temer, Presidente da República – Brasília, 19 de março de 2018",
+            "subtitulo": "NA",
+            "data": "19/03/2018",
+            "horario": "23h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-almoco-em-homenagem-aos-chefes-de-delegacao-participantes-do-viii-forum-mundial-da-agua-oferecido-pelo-senhor-michel-temer-presidente-da-republica-brasilia-19-de-marco-de-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Senhoras e senhores chefes de Estado, de governo e demais dignatários presentes a este 8º Fórum Mundial da Água.",
+                "Senhores ministros de estado, parlamentares;",
+                "Senhor governador, Rodrigo Rollemberg;",
+                "Senhor presidente do Conselho Mundial da Água, Benedito Braga;",
+                "Senhoras e senhores membros da delegação.",
+                "Eu, rapidamente, gostaria de reiterar a enorme satisfação em recebê-lo nesta ocasião especialíssima. Aliás, senador Fernando Collor, nós pudemos verificar, pelos discursos proferidos durante o nosso encontro, a importância da água para o planeta. Eu até comentava há pouco que todos saímos muito sensibilizados, naturalmente com, muitas vezes, com o relato da dificuldade para obtenção da água de um lado. Mas, de outro lado, o que mais impressiona é o fato de que a água poluída, portanto, a poluição da água dos rios, enfim, daquela água que seria potável, destrói a vida de milhares e milhares de crianças. Este é um drama que nós devemos levar muito em conta. E a mim, particularmente, impressionou enormemente.",
+                "Por isso digo eu, muito rapidamente, sequenciando tudo aquilo que foi dito por todas as autoridades aqui presentes, e que engrandecem o nosso País, porque é uma honra extraordinária para Brasília, governador Rollemberg, para o Brasil, que nós estejamos sediando este encontro.",
+                "Fundamental que terá repercussões, naturalmente aqui está imprensa internacional, terá repercussões em todos os pontos do planeta, do mundo. De modo que, eu tenho a satisfação de mais uma vez saudá-los, agradecer não só a presença, mas especialmente as falas, os depoimentos que deram. E eu, ao ouvi-los, verifiquei que todos estão irmanados nesta tese de recuperação da água, impedimento da poluição e, portanto, para a sanidade do universo, do mundo.",
+                "É isso que nós podemos comemorar. E razão pela qual, eu não sei se eu vou levantar um brinde ou não, porque ninguém me trouxe o copo, mas eu formalmente levanto aqui um brinde ao encontro que nós estamos tendo.",
+                "Prazer em tê-los aqui."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Discurso do Presidente da República, Michel Temer, durante sessão de Abertura do VIII Fórum Mundial da Água – Brasílila, 19 de março de 2018",
+            "subtitulo": "NA",
+            "data": "19/03/2018",
+            "horario": "17h59",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/discurso-do-presidente-da-republica-michel-temer-durante-sessao-de-abertura-do-viii-forum-mundial-da-agua-brasilila-19-de-marco-de-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Quero cumprimentar senhoras e senhores chefe de Estado, governo e altos dignitários, especialmente o presidente da República de Cabo Verde, Jorge Carlos de Almeida Fonseca.",
+                "O presidente da República Cooperativa da Guiana, David Granger.",
+                "O presidente da Hungria, János Áder.",
+                "O presidente da República de São Tomé e Príncipe, Evaristo Espírito Santo Carvalho.",
+                "Sua Alteza Imperial o príncipe Herdeiro do Japão, Naruhito.",
+                "O primeiro-ministro da República da Coreia, Nak-yeon Lee.",
+                "O primeiro-ministro do Reino do Marrocos, Saad Eddine El-Othmani.",
+                "O primeiro-ministro do Principado de Mônaco, Serge Telle.",
+                "O primeiro-ministro da República do Senegal, Mohammed Dionne.",
+                "O presidente da República da Guiné Equatorial, Teodoro Nguema.",
+                "A senhora diretora-geral da UNESCO, Audrey Azoulay.",
+                "O senhor ex-presidente da República da Eslovênia, Danilo Turk.",
+                "A senhora Maria do Carmo Silveira, secretária executiva da CPLP.",
+                "O presidente da União Interparlamentar, a senhora presidente, Gabriela Cuevas Barron.",
+                "Os ministros de Estado, Aloysio Nunes, das relações exteriores, Torquato Jardim, da Justiça, o Joaquim Silva e Luna, interino da Defesa, Blairo Maggi, da Agricultura, o Sarney Filho, do Meio Ambiente, o Helder Barbalho, da integração Nacional, Gustavo Rocha, dos Direitos Humanos, o Sérgio Etchegoyen, chefe do gabinete Segurança Institucional, a doutora Grace Mendonça, advogada-geral da União.",
+                "O nosso governador do Distrito Federal, Rodrigo Rollemberg,",
+                "Cumprimentar igualmente o senador Fernando Collor e o governador Tião Viana.",
+                "Senhoras, vou cumprimentar o Benedito Braga, presidente do Conselho Mundial da Água.",
+                "Os senhores e as senhoras parlamentares e dizer, desde logo, que é uma honra para o Brasil sediar o 8º Fórum Mundial da Água e é uma satisfação, naturalmente, recebê-los em Brasília.",
+                "Começo até por agradecer a competência e a dedicação dos organizadores deste fórum, o Conselho Mundial da Água. O governo do Distrito Federal, os ministérios das Relações Exteriores e do Meio Ambiente, a Agência Nacional de Águas, a todos, naturalmente, o nosso reconhecimento.",
+                "E também aproveito para desejar desde logo ao governo do Senegal, aqui representado pelo seu primeiro-ministro, todo o êxito no 9° Fórum Mundial da Água em 2021.",
+                "Nós congregamos hoje, como percebem, chefes de Estado, de governo, altos dignitários de tantos países amigos, parlamentares, empresários, acadêmicos, todos engajados na causa urgente da segurança hídrica.",
+                "Os números dão bem a dimensão das urgências. Chegam a 2 bilhões de pessoas no mundo, que não tem fonte segura de água em suas casas. São mais de 2 bilhões as que sofrem com a falta de saneamento. Cerca de 260 milhões precisam andar mais de meia hora para coletar água. Simplesmente não temos, portanto, tempo a perder.",
+                "Ninguém aqui ignora que o acesso à água e ao saneamento básico está intimamente ligado à nossa capacidade de crescer de forma sustentável. Já não pode haver dúvida. Em nome do acesso à água e ao saneamento, em nome do futuro da humanidade, é nossa obrigação compartilhada buscar o desenvolvimento sustentável em todas as suas vertentes. Na vertente econômica, na social e, naturalmente, clarissimamente, na ambiental.",
+                "O consenso é este: a vida na terra estará ameaçada se não respeitarmos os limites da natureza. O compromisso do Brasil com o desenvolvimento sustentável é histórico. Contribuímos para consagrar o conceito na Rio-92, quando presidia o País o eminente senador Fernando Collor. E na Rio +20, conferências decisivas que tivemos o privilégio de sediar. Tratamos de promovê-lo de modo muito concreto na elaboração da agenda 2030, que estamos firmemente empenhados em implementar. E agora uma vez mais queremos reafirmá-lo neste Fórum Mundial da Água.",
+                "Sabemos todos que o desafio da sustentabilidade é complexo. Exige diagnósticos precisos e iniciativas consistentes. Exige, sobretudo, políticas coordenadas.",
+                "Isto é particularmente verdadeiro no manejo de nossos recursos hídricos. A sustentabilidade hídrica requer ações permanentemente integradas dentro de nossos países e entre os nossos países.",
+                "É até ilusão acreditar que possa haver sustentabilidade para uns e não para outros. O planeta é um só. Se nós fecharmos, se nos fecharmos em nós próprios, em nós mesmos, se atuarem de forma desarticulada, todos pagaremos um preço. As soluções que buscamos são necessariamente coletivas. E sempre sobre os signos do diálogo e da cooperação, cada um deve fazer sua parte.",
+                "No Brasil, aliando responsabilidade fiscal e responsabilidade social, deixamos para trás uma, as piores recessões de nossa história. Mas em momento algum admitimos a hipótese de um crescimento a qualquer custo. Retomamos o crescimento, voltamos a gerar emprego e renda, sempre com os olhos postos na sustentabilidade.",
+                "Nesse esforço incluímos a segurança hídrica. No centro, no cerne, de nossas políticas públicas.",
+                "No intuito de preservar nossos cursos d'água, só para dar um exemplo, implementamos o programa Plantadores de Rios. Que usa ferramentas digitais para defender nossas nascentes e nossas áreas de preservação permanente. Aliás, ainda na semana passada, lançamos um ambicioso processo de captação de recursos para a proteção de nascentes, de duas grandes bacias hidrográficas do Brasil. A do rio São Francisco e a do rio Parnaíba.",
+                "E, convenhamos, (...) Sarney está aqui para testemunhar, avançamos também na proteção de nossas florestas. Ampliamos áreas de conservação florestal, revertemos a curva de desmatamento na Amazônia. E estamos agora criando duas áreas de conservação da biodiversidade marinha. E assim protegendo o equilíbrio em nossos ecossistemas, que protegeremos, assim sendo, nossas fontes de água.",
+                "Mas digo eu: preservar não basta. É preciso fazer chegar a água aos lares das famílias, há comunidades que ainda lutam contra a seca, daí nosso empenho, senhores e senhoras, na transposição do rio São Francisco, trata-se de projeto antigo que agora estamos finalizando. Estimamos que sejam beneficiados no total, quando as obras estiverem completas, cerca de 12 milhões de brasileiros no nordeste do País. E ao realizar essa que é a maior obra da infraestrutura hídrica do Brasil, lançamos o programa “Novo Chico”, dedicado à revitalização do rio São Francisco, porque é claro que as águas que vão para a transposição sai do rio São Francisco, então nós precisamos revitalizá-la.",
+                "Nossa atenção volta-se com muita naturalidade para o saneamento, em que tanto ainda resta por fazer. Nós estamos ultimando projeto de lei com vistas a modernizar nosso marco regulatório de saneamento e incentivar novos investimentos. O que nos move naturalmente à busca da universalização de serviço básico.",
+                "Essa é, em grandes linhas, parte da experiência brasileira no tocante ao manejo dos recursos hídricos. Querendo naturalmente ouvir e aprender com as experiências e as reflexões de todos os que nos distinguem com a sua presença. Cabe-nos, reitero, consertar esforços em favor de um mundo e da água seja para todos, assegurar a água é assegurar a dignidade. Esse é o propósito que naturalmente nos reúne em Brasília e esse é o propósito que continuará aliado.",
+                "Sejam, portanto, todos os senhores e as senhoras muito bem-vindos à Brasília e muito sucesso no trabalho desses dias.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Água: direito de cada um, desafio de todos (Correio Braziliense – 19/3/2018)",
+            "subtitulo": "NA",
+            "data": "19/03/2018",
+            "horario": "16h38",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-artigos/michel-miguel-elias-temer-lulia-2016-2018/agua-direito-de-cada-um-desafio-de-todos-correio-braziliense-19-3-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Michel Temer",
+                "O acesso à água potável e ao saneamento básico é um direito, é um dos objetivos de desenvolvimento sustentável da ONU, é condição para a vida humana. E, no entanto, chegam a 2 bilhões as pessoas no mundo que não têm fonte segura de água em casa; a 2,3 bilhões as que sofrem com a falta de saneamento. Cerca de 260 milhões — mais do que a população brasileira — precisam andar mais de meia hora para coletar água. Garantir o acesso está entre os principais desafios de nosso tempo.",
+                "O Brasil concentra 12% da água doce do planeta — e, apesar disso, não estamos imunes a problemas relacionados à água. Grandes cidades têm enfrentado escassez de abastecimento. Ainda persiste inaceitável deficit de saneamento. E é bem conhecido o sofrimento que estiagens causam à população nordestina.",
+                "É em busca de respostas para questões tão urgentes que sediaremos, em Brasília, esta semana, o 8º Fórum Mundial da Água. O fórum deverá receber mais de 40 mil participantes, de mais de 160 países. Receberemos chefes de Estado e de governo, governadores e prefeitos, parlamentares e magistrados, representantes de organizações internacionais e da academia, do setor privado e da sociedade civil. Uma diversidade de atores que faz a riqueza do fórum.",
+                "A escolha do Brasil como anfitrião do mais importante evento global sobre recursos hídricos não surpreende. Nosso engajamento internacional no tema é histórico. Sediamos a Rio 92 e a Rio+20 — encontros que reconheceram a íntima relação entre sustentabilidade hídrica e desenvolvimento. Mais recentemente, estivemos entre os primeiros países a ratificar o Acordo de Paris, que trata de uma das principais ameaças ao direito à água: a mudança do clima.",
+                "Esse tradicional protagonismo externo está ancorado em medidas concretas no plano interno. O Brasil sabe que água e saneamento são sinônimos de preservação ambiental — e fizemos da segurança hídrica pilar de nossas políticas para o meio ambiente. No intuito de preservar nossos cursos d’água, implementamos o programa Plantadores de Rios, que usa ferramentas digitais para defender nossas nascentes e nossas Áreas de Preservação Permanente.",
+                "Também avançamos muito na proteção de nossas florestas. Ampliamos áreas de conservação florestal. Revertemos a curva de desmatamento na Amazônia, que encontramos ascendente. E estamos prestes a criar duas vastas áreas de conservação da biodiversidade marinha. É assim, protegendo nossos ecossistemas, que protegeremos nossas fontes de água.Ter água é essencial, mas não basta. Precisamos que ela chegue a quem precisa.",
+                "Disso trata a transposição do Rio São Francisco. É projeto antigo que, agora, estamos finalizando, em benefício de 12 milhões de nordestinos. Já concluímos o eixo que leva água a Pernambuco e à Paraíba, e estamos na fase final do trecho que chegará ao Ceará. Ao realizar essa obra grandiosa, não descuidamos da sustentabilidade: lançamos o Novo Chico, dedicado à revitalização do São Francisco.",
+                "Nossa atenção volta-se, também, para o saneamento, em que tanto resta por fazer. Estamos ultimando projeto de lei com vistas a modernizar nosso marco regulatório em saneamento e incentivar novos investimentos. O que nos move é a busca da universalização desse serviço básico.",
+                "Este é o Brasil que sedia o Fórum Mundial da Água: um Brasil em busca de soluções comuns para problemas globais. Um Brasil que faz e continuará a fazer a sua parte pela preservação de nosso recurso natural mais precioso."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Uma nova fase nas relações Brasil-Jordânia (The Jordan Times, 03/03/2018) [Inglês]",
+            "subtitulo": "NA",
+            "data": "03/03/2018",
+            "horario": "12h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h52"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/uma-nova-fase-nas-relacoes-brasil-jordania-the-jordan-times-03-03-2018-ingles",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Aloysio Nunes Ferreira*",
+                "After a six-year hiatus in high-level reciprocal visits, I'm pleased to arrive in Jordan with the aspiration to open a new phase in our bilateral relations.",
+                "Politically, our relations have always been excellent. Despite our geographical distance, Brazil and Jordan share common positions in multilateral fora, as well as in the most important global issues. It is time to strengthen our relationship in other areas, such as economic and technical cooperation fields.",
+                "Brazil considers Jordan a beacon of stability and moderation in a region surrounded by conflicts. This is an important role that we also try to play in our own region.",
+                "We follow attentively Jordanian positions regarding important issues in the Middle East, particularly the Palestinian plight for an independent state, with East Jerusalem as its capital.",
+                "Moreover, we admire His Majesty King Abdullah’s leadership in the global fight against terror and extremism.",
+                "We also acknowledge and praise the Jordanian government and people for its generousity in historically hosting such a large number of refugees, being Palestinians, Iraqis, Syrians and from many other nationalities. Brazil is aware that no country is immune to the consequences associated with large movements of refugees, and believes that only a coordinated response can ameliorate the suffering. Rather than closing borders, as some governments have done, the international community must work together to address the issue of global displacement. In this context, let me stress the importance of the visit to Brasilia, on February 19 and 20, of the High Commissioner of the United Nations for Refugees, Filippo Grandi, when we reiterated our common goal of assisting refugees to the best of our capacities.",
+                "This represents another similarity that brings our countries close together. Brazil is open to immigrants and hosts nowadays more than 12 million Arab descendants. Our current president, Michel Temer, is from Lebanese descent. The Arab influence in the formation of our national character is significant in all realms of society, in areas such as the arts, the architecture and the cuisine.",
+                "Today, I will sign with Foreign Minister Ayman Safadi a bilateral Agreement on Technical Cooperation, an important tool to create new possibilities of cooperation, for instance, in the fields of agriculture and industrial development. Besides, we are negotiating a new model of investment protection agreement, which is highly important to foster our bilateral economic relations and could entice Brazilian investors to use Jordan as a hub to access the regional market.",
+                "Trade between our countries has been reasonable, but still below its full potential. In the last decade, the bilateral trade flow was around $230 million per year, with a huge surplus on the Brazilian side. However, since 2013, Jordanian exports to Brazil have increased consistently, but still below $10 million per year.",
+                "Our relations are also being strengthened on the fields of defence, security and intelligence, particularly after the visit of the Brazilian minister of defence to Jordan in December 2017.",
+                "Next year, we will celebrate 70 years of the establishment of diplomatic relations, a very important landmark in our relationship. I hope my visit will contribute to promote and strengthen the solid and excellent ties between our countries.",
+                "*The writer is the Brazilian minister of foreign affairs. He contributed this article to The Jordan Times"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-03",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

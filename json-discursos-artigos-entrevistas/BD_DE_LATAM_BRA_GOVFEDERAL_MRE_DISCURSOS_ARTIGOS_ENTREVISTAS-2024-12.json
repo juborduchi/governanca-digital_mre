@@ -1,0 +1,768 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na Cerimônia de lançamento do Plano de Ação do MRE para o Programa Federal de Ações Afirmativas",
+            "subtitulo": "Palácio Itamaraty, 4 de dezembro de 2024",
+            "data": "04/12/2024",
+            "horario": "10h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "04/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h43"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-cerimonia-de-lancamento-do-plano-de-acao-do-mre-para-o-programa-federal-de-acoes-afirmativas",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Gostaria de começar lembrando frase célebre do ex-Ministro de Relações Exteriores e meu chefe na Embaixada do Brasil em Washington, Azeredo da Silveira: “a melhor tradição do Itamaraty é saber renovar-se”.",
+                "Em meio a crises internacionais e instabilidades geopolíticas, como as que vivemos hoje, o Itamaraty segue buscando atualizar diagnósticos, reorientar estratégias e auxiliar o Brasil a se reposicionar no mundo. Nesta ocasião de lançamento do primeiro Plano de Ação do Programa Federal de Ações Afirmativas, a frase de Silveira inspira reflexão sobre a necessidade de renovar o Itamaraty do ponto de vista da diversidade e da inclusão.",
+                "Estatísticas agora consolidadas indicam desequilíbrios na representação de negros, mulheres, indígenas, quilombolas e pessoas com deficiência entre servidores e funcionários. Essa situação não surgiu nos últimos meses. Reflete décadas de inércias e desigualdades nacionais. A sociedade brasileira contemporânea, por outro lado, defende a inclusão como valor e exige mudanças.",
+                "O Programa Federal de Ações Afirmativas, lançado pelo Comitê Gestor e capitaneado pelo Ministério de Igualdade Racial, a quem eu agradeço na pessoa da querida Ministra Anielle Franco, ofereceu base normativa e técnica para que pudéssemos realizar amplo processo de consultas internas.",
+                "Dialogamos com todos as carreiras do serviço exterior brasileiro, não apenas diplomatas, incluindo sindicatos e associações. Institucionalizamos a cooperação entre administração e grupos de interesse por meio do Sistema de Promoção da Diversidade e Inclusão. Promovemos seminários temáticos com participação de parlamentares, acadêmicos e representantes da sociedade civil para discutir política externa e a gestão interna.",
+                "Incluímos todas as secretarias do ministério, a Agência Brasileira de Cooperação, a FUNAG e o Instituto Rio Branco. Trabalhamos em parceria com os vários integrantes do Comitê Gestor, a quem agradeço na pessoa da Ministra Esther Dweck.",
+                "As 34 ações previstas no Plano de Ação são o resultado mais imediato desse exercício. Na gestão, propomos incentivos à maior representatividade de grupos prioritários na entrada e na ascensão funcional. Na política externa, temos iniciativas na área consular, em política ambiental e na transversalização de gênero.",
+                "Algumas dessas medidas já estão em vigor e com resultados concretos imediatos. Após mudanças no edital no concurso de admissão à carreira diplomática deste ano, deveremos ter aumento de 60% no número de mulheres aprovadas em relação ao número que teria sido alcançado sem a medida.",
+                "O compromisso indicado pelo Plano de Ação é inequívoco, ilustrado pela portaria assinada por mim ontem, que estabelece Política de Promoção da Diversidade e Inclusão. As 34 ações representam nosso melhor esforço, mas seguirão em construção permanente, por meio do diálogo e da possibilidade de alterações futuras.",
+                "As metas, prazos e objetivos concretos são fundamentais. Tão relevante quanto é a mudança de mentalidade. O Itamaraty está, neste momento, se propondo a aderir à perspectiva idealizada por Angela Davis. Estamos deixando de aceitar o que NÃO se pode mudar para nos engajar na transformação do que NÃO pode ser aceito.",
+                "Com o Plano de Ação e o Programa Federal de Ações Afirmativas, estamos – estado e sociedade, Itamaraty e governo, administração e servidores, homens, mulheres, brancos, negros, indígenas, pessoas com deficiência, integrantes da comunidade LGBTQIA+ e toda diversidade do povo brasileiro – enfrentando o desafio de renovação e de implementação de políticas públicas mais representativas da população brasileira.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Intervenção do Ministro Mauro Vieira na Conferência Ministerial para Reforçar a Resposta Humanitária em Gaza",
+            "subtitulo": "Cairo, 2 de dezembro de 2024",
+            "data": "02/12/2024",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "02/12/2024"
+            ],
+            "horario_atualizado": [
+                "16h17"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/intervencao-do-ministro-mauro-vieira-na-conferencia-ministerial-para-reforcar-a-resposta-humanitaria-em-gaza",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Ao parabenizar o Egito pela organização desta Conferência, recordo sua história de colaboração para a estabilidade do Oriente Médio, que se reflete nos esforços do país para facilitar o diálogo em prol de um cessar-fogo em Gaza e no seu compromisso de manter os corredores humanitários de Rafah e Karam Abu Salem abertos.",
+                "Senhor presidente,",
+                "A situação humanitária em Gaza não é uma catástrofe. É a pior calamidade criada pelo homem, semelhante a genocídio, conforme reconhecido pela Corte Internacional de Justiça.",
+                "Como destacou o Presidente Lula, “o direito de defesa transformou-se em direito à vingança”. E mulheres e crianças carregam o peso deste sofrimento inimaginável.",
+                "Garantir um acesso humanitário sustentável, previsível e desimpedido a Gaza é um imperativo moral.",
+                "É por isso que o Presidente Lula prometeu aumentar em cinco vezes a contribuição do Brasil para a UNRWA. Em seu discurso à Liga dos Estados Árabes, no Cairo, em fevereiro deste ano, o Presidente Lula se comprometeu a fazer novas contribuições à Agência.",
+                "Como anunciamos anteriormente, o Brasil depositou 445 mil dólares, além de nossa contribuição regular. Esse pagamento ressalta o apoio inabalável do Brasil ao trabalho indispensável, insubstituível e corajoso da UNRWA.",
+                "Senhor presidente,",
+                "A proteção das populações civis não é negociável, porque o acesso à ajuda humanitária é também uma obrigação legal.",
+                "As medidas cautelares emitidas pela Corte Internacional de Justiça em 26 de janeiro ordenaram expressamente ao governo de Israel que garantisse a prestação de serviços básicos essenciais e a assistência humanitária a Gaza.",
+                "Na semana passada, entretanto, soubemos da impressionante notícia pelas Nações Unidas de que praticamente nenhuma ajuda chegou ao norte de Gaza por mais de 40 dias.",
+                "Isso ocorreu após o Relator Especial da ONU sobre o Direito à Alimentação ter divulgado um relatório, dois meses antes, em que detalha uma deliberada política de fome para a população em Gaza.",
+                "A estratégia cruel e sistemática revelada pelo Relator Especial Michael Fakhri pode ser resumida em três palavras: fome, deslocamento e bombardeio.",
+                "A fome tornou-se uma arma de guerra. E a ajuda humanitária tornou-se um campo de batalha, em que o acesso é negado e os recursos são politizados.",
+                "Dos 1,5 milhões de dólares de ajuda humanitária que o Brasil enviou para aliviar o sofrimento dos habitantes de Gaza, desde o início da guerra, quase meio milhão foi retido sem qualquer explicação razoável por parte do governo de Israel. As doações bloqueadas incluíam purificadores de água capazes de produzir quase um milhão de litros de água potável por dia.",
+                "Mas os palestinos em Gaza não foram apenas privados de água. Eles viram suas casas, sonhos e futuros destruídos.",
+                "Os números contam uma história de devastação: 44 mil mortos, 104 mil feridos, 52.564 edifícios reduzidos a escombros, 68% das terras agrícolas danificadas. Entre os mortos estão 333 trabalhadores humanitários que deram suas vidas para salvar os habitantes de Gaza e 137 profissionais de imprensa que testemunharam esse pesadelo inimaginável.",
+                "Essa realidade deveria nos comover e não nos deixar indiferentes perante as contínuas violações das obrigações internacionais por parte das autoridades de Israel.",
+                "É por isso que o Brasil apoia a convocação da Conferência das Altas Partes Contratantes sobre a observância da Quarta Convenção de Genebra no território palestino ocupado, incluindo Jerusalém Oriental, no mais alto nível e na data mais próxima.",
+                "Congratulamos o Comitê Internacional da Cruz Vermelha pela iniciativa de reforçar o compromisso político com o Direito Internacional Humanitário e aguardamos com expectativa as consultas intergovernamentais no próximo ano, visando a resultados concretos na Reunião de Alto Nível para Defender a Humanidade na Guerra, em 2026.",
+                "Por fim, fazemos um apelo urgente a todos os parceiros internacionais para que reforcem o seu apoio à UNRWA contra as tentativas de minar os serviços vitais que presta a milhões de palestinos.",
+                "O Brasil tem a honra de atuar como vice-presidente do Comitê Consultivo da UNRWA e espera assumir sua presidência no próximo ano.",
+                "Senhor presidente,",
+                "O recente anúncio de um cessar-fogo no Líbano poderia ter sido um bom presságio para a estabilidade da região se os seus termos fossem respeitados. No entanto, as alegres imagens de celebração vindas do Líbano foram rapidamente ofuscadas por mais cenas de destruição.",
+                "A paz requer uma determinação firme. Devemos, portanto, exigir que as partes mantenham seu compromisso de pôr fim à violência e de garantir o estabelecimento de um cessar-fogo também para Gaza. Devemos isso às gerações futuras, que nos responsabilizarão pelo derramamento de sangue que continua a apagar seu passado, destruir seu presente e comprometer o seu futuro. A única saída dessa situação terrível é por meio de uma solução de dois estados, com um Estado da Palestina independente e viável convivendo lado a lado com Israel, em paz e segurança, incluindo a Faixa de Gaza e a Cisjordânia, tendo Jerusalém Oriental como a sua capital.",
+                "Chegou a hora de acabar com a violência e iniciar a difícil, mas necessária, jornada de cura e reconstrução.",
+                "Obrigado"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Discurso do presidente Lula durante a 65ª Cúpula do Mercosul, em Montevidéu",
+            "subtitulo": "Discurso lido pelo presidente Luiz Inácio Lula da Silva durante a 65ª Cúpula do Mercosul, em Montevidéu, em 6 de dezembro de 2024",
+            "data": "06/12/2024",
+            "horario": "11h37",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h19"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/discurso-do-presidente-lula-durante-a-65a-cupula-do-mercosul-em-montevideu",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Cumprimento o Presidente Lacalle Pou pela organização desta Cúpula e pela condução dos trabalhos na presidência do MERCOSUL neste semestre.",
+                "Saúdo o companheiro Luis Arce, que representa a Bolívia, pela primeira vez, como Estado Parte do MERCOSUL.",
+                "Também dou as boas-vindas ao presidente José Raúl Molino, do Panamá, que passa a ser o primeiro Estado Associado do MERCOSUL na América Central.",
+                "É com satisfação que acolhemos entre nós a Presidenta da Comissão Europeia, Úrsula von der Leyen.",
+                "Exalto, de maneira muito especial, o povo uruguaio, pelas eleições que conduziram Yamandú Orsi à presidência da República.",
+                "Num contexto de fortes ataques à democracia em diversas partes do mundo, o Uruguai demonstra que a política pode ser feita sem ódio e violência.",
+                "Presidente Lacalle Pou,",
+                "Esta Cúpula tem um significado especial.",
+                "Ela marca a conclusão das negociações do Acordo MERCOSUL-União Europeia, no qual nossos países investiram enorme capital político e diplomático, por quase três décadas.",
+                "Estamos criando uma das maiores áreas de livre comércio do mundo, reunindo mais de 700 milhões de pessoas.",
+                "Nossas economias, juntas, representam um PIB de 22 trilhões de dólares.",
+                "O Acordo que finalizamos hoje é bem diferente daquele anunciado em 2019.",
+                "As condições que herdamos eram inaceitáveis.",
+                "Foi preciso incorporar ao Acordo temas de alta relevância para o MERCOSUL.",
+                "Conseguimos preservar nossos interesses em compras governamentais, o que nos permitirá implementar políticas públicas em áreas como saúde, agricultura familiar e ciência e tecnologia.",
+                "Alongamos o calendário de abertura do nosso mercado automotivo, resguardando a capacidade de fomento do setor industrial.",
+                "Criamos mecanismos para evitar a retirada unilateral de concessões alcançadas na mesa de negociação.",
+                "Estamos assegurando novos mercados para nossas exportações e fortalecendo os fluxos de investimentos.",
+                "Após dois anos de intensas tratativas, temos hoje um texto moderno e equilibrado, que reconhece as credenciais ambientais do MERCOSUL e reforça nosso compromisso com os Acordos de Paris.",
+                "A realidade geopolítica e econômica global nos mostra que a integração fortalece nossas sociedades, moderniza nossas estruturas produtivas e promove nossa inserção mais competitiva no mundo.",
+                "Nossa agenda externa está reposicionando o MERCOSUL no comércio internacional.",
+                "No final de 2023, concluímos o acordo comercial com Singapura, o primeiro com um país asiático.",
+                "Hoje, também lançamos as bases para a futura liberalização comercial com o Panamá, por onde passam 6% do comércio mundial.",
+                "Com os Emirados Árabes Unidos, as negociações estão avançando rapidamente e devem ser concluídas ainda em 2025.",
+                "A possibilidade de ampliar a cooperação econômica e tecnológica com a China, Japão, Vietnã e outros mercados da Ásia resultará em benefícios para todos os membros do bloco.",
+                "Senhoras e senhores,",
+                "Com a entrada da Bolívia, o MERCOSUL se constitui na sétima economia do planeta, com um PIB combinado de quase 3 trilhões de dólares.",
+                "O comércio entre nós mobiliza a expressiva soma de 55 bilhões de dólares.",
+                "75% dessa cifra é de produtos de alto valor agregado.",
+                "Nossa pujança agrícola e pecuária nos torna garantes da segurança alimentar de vários países do mundo, atendendo a rigorosos padrões sanitários e ambientais.",
+                "Não aceitaremos que tentem difamar a reconhecida qualidade e segurança dos nossos produtos.",
+                "O MERCOSUL é um exemplo de que é possível conciliar desenvolvimento econômico com responsabilidade ambiental.",
+                "O Brasil vai propor o lançamento de um programa de cooperação para a agricultura de baixo carbono e promoção de exportações agrícolas sustentáveis, o \"MERCOSUL Verde\".",
+                "Nosso bloco tem uma oportunidade histórica de liderar a transição energética e enfrentar os desafios impostos pelas mudanças climáticas.",
+                "A exemplo do que ocorre com as inundações em várias regiões da Bolívia, todos já sofremos as consequências devastadoras de secas severas, incêndios e enchentes, com profundos impactos econômicos, sociais e humanos.",
+                "Alterações nos padrões de precipitação afetam a produção agrícola, os recursos hídricos e a biodiversidade em todos os biomas.",
+                "Os impasses verificados na COP 16 da Biodiversidade, em Cáli, e as dificuldades de se chegar a um texto de consenso na COP 29 do Clima, em Baku, acendem um alerta.",
+                "Não há alternativas ao planeta Terra.",
+                "O princípio das “responsabilidades comuns, porém diferenciadas” é essencial para promover a justiça climática.",
+                "Isso não impede que cada um de nós contribua, como pode, para a meta de limitar o aumento da temperatura global a um grau e meio.",
+                "O Brasil já apresentou sua nova Contribuição Nacionalmente Determinada, que abrange todos os gases de efeito estufa e setores econômicos.",
+                "Assumimos a meta ambiciosa para 2035 de reduzir emissões de 59 a 67% em relação a 2005.",
+                "O ano de 2025 será particularmente importante.",
+                "A América do Sul sediará a COP 30, em Belém do Pará, na Amazônia brasileira.",
+                "Com isso, nossa responsabilidade aumenta.",
+                "Convido os países do MERCOSUL e Associados e a União Europeia a apresentarem NDCs ambiciosas e a participarem ativamente nos esforços que levarão ao pleno êxito da COP 30.",
+                "Senhoras e senhores,",
+                "Um MERCOSUL forte e unido é um MERCOSUL interconectado com a América do Sul e com os grandes temas da agenda global.",
+                "Os projetos do FOCEM são estratégicos no esforço de redução das assimetrias e de maior aproximação entre nossos países.",
+                "Obtivemos este mês a aprovação, pelo Fundo, do financiamento do primeiro projeto brasileiro em 12 anos. O anel viário no município de Amambai, no Estado do Mato Grosso do Sul, vai estreitar os vínculos com o Paraguai.",
+                "O Brasil lançou o projeto “Rotas da Integração Sul-Americana”, com a previsão de investimentos em 190 obras no país e na região.",
+                "As rotas têm o papel de interiorizar o desenvolvimento e reduzir o tempo e o custo do transporte de mercadorias entre o Brasil e seus vizinhos, ligando o Atlântico ao Pacífico.",
+                "Quero agradecer a todos os países membros do MERCOSUL por sua participação na Cúpula de Líderes do G20 no Rio de Janeiro.",
+                "Tivemos apoio expressivo no lançamento da Aliança Global contra a Fome e a Pobreza.",
+                "Nossa atuação conjunta foi fundamental para a aprovação de um Chamado à Ação para a Reforma da Governança Global.",
+                "É essencial corrigir a baixa representação da nossa região na ONU e nas organizações de Bretton Woods.",
+                "Caras amigas e amigos,",
+                "O MERCOSUL tem um elemento crucial que lhe dá força, para além de sua dimensão econômica e comercial: a sua gente.",
+                "Nossa tarefa é fazer com que a integração seja percebida como caminho eficaz para a conquista e efetivação de direitos.",
+                "Precisamos recuperar a participação social no bloco, que foi pioneiro na incorporação da sociedade civil nos debates governamentais.",
+                "Defendemos o fortalecimento do Instituto Social, bem como do Instituto de Políticas Públicas de Direitos Humanos.",
+                "Esses órgãos não podem ter suas atividades estranguladas sob o pretexto de economia de recursos.",
+                "Promover a igualdade de gênero, o combate ao racismo, fomentar a educação e a justiça social não são gastos.",
+                "São investimentos no potencial humano dos nossos países.",
+                "Este é o modelo de integração que defendemos: orientado para a redução das desigualdades, dentro dos países e entre eles.",
+                "Indutor do crescimento sustentável, ao mesmo tempo em que é defensor dos direitos humanos e do Estado Democrático de Direito.",
+                "Um modelo que, diante de divergências e adversidades, fomenta o diálogo e a cooperação.",
+                "Foi nesse espírito que, há 33 anos, o pai do Presidente Lacalle Pou e os então presidentes do Brasil, da Argentina, e do Paraguai firmaram o Tratado de Assunção, que continua sendo instrumental para superar um passado de autoritarismo em nossa região.",
+                "A liberdade, em todas as suas manifestações, é componente essencial de uma democracia sadia.",
+                "Mas ela deve vir associada à proteção dos direitos e às liberdades de outros, e a da própria ordem política.",
+                "A democracia em sua plenitude é base para promover sociedades pacíficas, livres do medo e da violência.",
+                "Que tenhamos, no MERCOSUL, o senso de justiça e inclusão de Pepe Mujica.",
+                "Em um discurso histórico, na ONU, em 2013, ele disse e repito:",
+                "“Sou do Sul e venho do Sul a esta Assembleia. Carrego inequivocamente os milhões de compatriotas pobres, nas cidades, nos desertos, nas selvas, nos pampas, nas depressões da América Latina, pátria de todos que está se formando”.",
+                "Presidente Lacalle Pou,",
+                "Desejo-lhe felicidades em seus novos caminhos a partir do próximo mês de março.",
+                "Reitero as boas-vindas ao companheiro Orsi, assegurando que o Brasil continuará a caminhar lado a lado com o Uruguai.",
+                "Desejamos sucesso à presidência de turno argentina que se inicia agora.",
+                "O MERCOSUL é, e continuará sendo, componente central da inserção internacional do Brasil.",
+                "Contem conosco para fortalecê-lo ainda mais.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Palavras do Presidente Fernando H. Cardoso do ao término do encontro com o Primeiro-Ministro do Reino Unido e com o Presidente da Argentina",
+            "subtitulo": "FOZ DO IGUAÇU, PR, is DE AGOSTO DE 2001",
+            "data": "30/12/2024",
+            "horario": "13h26",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/palavras-do-presidente-fernando-h-cardoso-do-ao-termino-do-encontro-com-o-primeiro-ministro-do-reino-unido-e-com-o-presidente-da-argentina",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "É um momento muito especial. Muito especial para nós, brasileiros, porque o Primeiro-Ministro inglês pôde verificar, aqui, boa parte do Brasil. Esteve em São Paiúo, visitou fábricas. Esteve em Brasília. Estivemos vendo as Cataratas do Iguaçu e nos molhamos com a água do Iguaçu, que é um rio muito querido, porque une o Brasil com a Argentina neste parque que é binacional. Depois, fomos a Itaipu.",
+                "E, agora, conversamos com o Presidente de Ia Rua sobre a situação na nossa região e sobre vários aspectos da situação internacional. Eu queria também lembrar que - além dos interesses imediatos que nos unem, estamos aqui, no Parque do Iguaçu, que é uma herança, um património da humanidade e é um parque binacional - estamos, agora, também lutando juntos, tanto o Reino Unido, quanto a Argentina, quanto o Brasil, para a manutenção do Protocolo de Kioto. E acho que é um local adequado aqui, em Iguaçu, para reafirmarmos o nosso compromisso com as questões ambientais, a manutenção de um meio ambiente sadio e, portanto, fazermos os esforços, como temos feito - fizemos, recentemente, em Bonn -, para buscar fórmulas que permiam à humanidade lutar contra a mudança de clima, lutar contra o efeito estufa e tudo o mais. Creio que isso nos une também.",
+                "Por fim, queria dizer que, depois de termos ouvido o Presidente de Ia Rua, que é um amigo do Brasil, meu amigo pessoal, que é um homem que nós respeitamos, estamos ainda mais convencidos da importância de uma ação solidária e que temos á convicção de que a Argentina está fazendo um esforço muito grande e que esse esforço merece o nosso apoio. Nós achamos - eu acho, o Brasil acha - que a Argentina tem condições, sob a liderança do Presidente de Ia Rua e com as reformas que estão implementando, com esse esforço imenso que só o povo argentino é capaz de avaliar o quanto custa esse esforço, com tudo isso, a Argentina vai ter solidariedade internacional. Politicamente, estamos solidários. É o que eu tinha a declarar.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Discurso do Presidente Fernando Henrique Cardoso  por ocasião da sessão de abertura da Cúpula América Latina-Caribe e União Europeia",
+            "subtitulo": "NA",
+            "data": "26/12/2024",
+            "horario": "17h55",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/discurso-do-presidente-fernando-henrique-cardoso-por-ocasiao-da-sessao-de-abertura-da-cupula-america-latina-caribe-e-uniao-europeia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Como anfitrião da Cúpula de 1999 no Rio de Janeiro, é para mini uma honra tomar a palavra em nome de todos os países da América Latina e do Caribe. E o faço com muito prazer por estarmos em Madri. Conhecemos todos o papel central da Espanha na articulação entre o Velho Mundo e o Novo. ( Quando Colombo chegou à América em 1492 e deu início àquele histórico encontro de civilizações, uma das ilhas em que ele aportou veio a chamar-se \"Hispaniola\". Ao longo dos anos, a imigração consolidou laços humanos fundamentais. Hoje, está em curso uma espécie de redescoberta da América Latina pela Europa Latina, especialmente pela Espanha. É, portanto, significativo que nos reunamos sob a direção de Vossa Excelência, Presidente Aznar. Senhores Chefes de Estado e de Governo, aos líderes de duas regiões como as nossas cabe refletir sobre os rumos da História. Refletir sobre os caminhos do futuro - tanto quanto possamos enxergá-lo com os olhos do presente. A aproximação entre América Latina-Caribe e União Europeia tem consequências para a configuração da ordem internacional no século XXI, que desejamos seja uma ordem plural, policêntrica, sem monopólios do poder ou da riqueza. É imprescindível saber em que direção queremos avançar. Quase três anos se passaram desde nosso encontro no Rio de Janeiro. A agenda internacional, de lá para cá, sofreu mudanças.",
+                "Enfrentamos novos problemas e continuamos a lidar com antigos problemas em novas perspectivas. Em alguns casos, a experiência é inédita, como no caso da moeda única europeia, que acompanhamos com todo interesse no outro lado do Atlântico. Mas se houve novidades e esperanças, houve também motivos de horror e tristeza. Os acontecimentos do dia 11 de setembro nos Estados Unidos consolidaram a percepção de novas e graves ameaças. A luta contra o terrorismo afirmou-se como uma das prioridades fundamentais de nosso tempo. No Oriente Médio, o conflito entre israelenses e palestinos surpreende o mundo a cada dia, com sucessivos atos de violência, que renegam o próprio direito humanitário. A paz universal parece, a cada dia, um ideal mais difícil de ser atingido. Os três anos desde o Rio de Janeiro marcaram, também, o aprofundamento de um sentimento de mal-estar com o processo de globalização. A globalização promete oportunidades, mas não parece capaz de desvencilhar-se das assimetrias que perpetuam as desigualdades e a exclusão. Há preocupação quanto à sinceridade do compromisso da comunidade internacional com o livre-comércio e com a construção de uma ordem favorável ao progresso de todos. Há uma percepção de que o protecionismo foi condenado como instrumento de desenvolvimento dos mais pobres apenas para converter-se em instrumento de defesa dos privilégios dos mais ricos.",
+                "Os países em desenvolvimento se deparam com barreiras intransponíveis a seus produtos mais competitivos: subsídios agrícolas, sobretaxas industriais, picos e escaladas tarifárias, medidas discriminatórias, quotas. São barreiras que ameaçam anular o potencial igualitário do comércio internacional e transformá-lo em mecanismo de congelamento das desigualdades. É esse o problema das assimetrias na globalização. Se levadas à sua conclusão lógica, resultariam em um sistema internacional no qual a melhor forma de ser competitivo seria, pura e simplesmente, ser rico. A Conferência de Doha gerou expectativas. Mas, desde então, o protecionismo e as práticas desleais de comércio continuam a comprometer as perspectivas de desenvolvimento em muitos países. O comércio não é um fim em si mesmo. Deve gerar empregos, eliminar as iniqúidades, transferir tecnologia. Valorizemos a instância multilateral, ora ameaçada pelo crescimento indiscriminado do.bilateralismo e do regionalismo. Trabalhemos juntos na OMC para que a rodada de Doha resulte efetivamente em uma transformação qualitativa do comércio internacional e conduza a disciplinas voltadas para o desenvolvimento sustentado. Sem discriminações. Sem exclusões voluntaristas. Sem a utilização constante da razão do mais forte.",
+                "Senhor Presidente, paira sobre nosso tempo uma grande interrogação. Interrogação fundamental: que futuro poderão ter o princípio e a prática do multilateralismo? Após a Segunda Guerra Mundial, a Europa se preparava para um gigantesco esforço de reconstrução, com o apoio dos Estados Unidos. Naquele momento, fez-se uma opção clara: trabalhar sobre os escombros da destruição. Trabalhar, e estabelecer instituições internacionais voltadas não apenas para a paz e a segurança, mas também para o desenvolvimento, os direitos humanos e as liberdades democráticas. Hoje, as questões de segurança, a busca de mecanismos de governança no contexto da globalização, o tratamento de temas de alcance universal impõem que não pensemos apenas nos interesses próprios dos Estados, mas também, e fundamentalmente, que pensemos na humanidade. Está diante de nós a tarefa de construir uma cidadania planetária. Pode ainda ser um sonho, uma utopia. Mas é uma utopia necessária. É um incentivo e uma inspiração. Compreendemos as reações, rriais que justificadas, às ameaças do terrorismo e do uso de armas de destruição em massa. Mas não queremos que, movidas pelo medo, as grandes potências substituam a agenda da esperança - o comércio aberto, uma nova arquitetura financeira, a luta contra a pobreza e contra a exclusão social e cultural - pela obsessão única com o tema da segurança. Isso levaria a reforçar as tendências unilateralistas que se opõem à visão democrática da ordem mundial.",
+                "Latino-americanos, caribenhos e europeus, se estivermos juntos, teremos condições de contribuir para uma nova visão de mundo. Nossa herança histórica e cultural nos credencia a uma atuação aglutinadora na revitalização do trabalho pela paz e pelo progresso. Precisamos evitar que o léxico diplomático se deixe dominar por noções intransitivas. É imperativo preservar a dimensão do diálogo, da negociação, da transação, do compromisso. Sem dúvida, a comunidade internacional tem realizado avanços extraordinários no tratamento das questões de interesse global Mas sabemos o quanto são frágeis esses avanços. No Protocolo de Kyoto, estabelecemos princípios para controlar as emissões de gases que produzem o efeito-estufa. Fortalecemos a cooperação pelos direitos humanos, inclusive com a criação de um tribunal penal internacional. Celebramos, na ONU, a chegada do novo milénio, e ali nos comprometemos a lutar pela redução da pobreza. A Conferência de Monterrey foi um passo a mais. Mas, não se pode negar, um passo tímido.",
+                "Teremos nova oportunidade em setembro, quando nos reunirmos na Cúpula de Johannesburgo. Ali queremos dar continuidade ao prócesso - também iniciado no Rio de Janeiro, em 1992 - de incorporação da sustentabilidade ao esforço de desenvolvimento. O Brasil, como todos os demais países da América Latina e do Caribe, vê nessas iniciativas o caminho para o futuro. E sabemos que o apoio e a participação ativa da Europa podem contribuir para que o sistema internacional se torne mais solidário, mais representativo e, por isso mesmo, mais legítimo e eficaz. Porque a eficácia que nos interessa não é a da força, mas é a que vem da livre união de vontades. Essa eficácia não existe sem a legitimidade. Senhor Presidente, em 1999, no Rio de Janeiro, lançamos uma parceria estratégica entre duas regiões. Hoje, estamos procurando dar-lhe novo impulso e avaliando os resultados já alcançados. Se nos encontramos próximos em espírito, na realidade continuamos muito distantes. Ainda há muito o que fazer se quisermos, de fato, explorar o potencial de cooperação existente entre a União Europeia e a América Latina e Caribe.",
+                "Corrigir a distribuição assimétrica dos frutos da globalização, melhor repartir os benefícios das mudanças tecnológicas, promover o desenvolvimento sustentável e assegurar uma competitividade baseada no uso mais intensivo do conhecimento - estes são objetivos a que nossos países não podem renunciar. O futuro da nossa associação depende da intensificação dos intercâmbios. Depende da capacidade de traduzir a convergência de interesses e valores comuns em ações concretas. O compromisso de cooperar em defesa da democracia não é coisa do passado. É atual e exige fortalecer os mecanismos da solidariedade democrática entre as nações. Na América Latina, episódios recentes mostraram o quanto permanece viva a ameaça golpista. Mas mostraram também a força das instituições democráticas. No próprio continente europeu, berço da ideia antiga e moderna de democracia, surpreendemo-nos com manifestações de extremismo e intolerância.",
+                "Tampouco é coisa do passado a ação ilustrada em favor de uma cultura universal da liberdade - ação que, de resto, se vê facilitada pelas conquistas tecnológicas da informática e das telecomunicações. É importante que, mais do que uma economia do conhecimento, tenhamos uma sociedade do conhecimento. Não nos condenemos à solidão em um mundo de crescente interconexão! Nunca foi tão necessário, e nunca tão urgente, que a Europa e a América Latina e Caribe atuem solidariamente e assumam a plenitude de sua relação. Usemos as vantagens comparativas de nossa associação em nosso proveito e em proveito de uma nova ordem política, económica e social mais justa e integradora. Adiantemo-nos aos fatos.",
+                "Podemos e devemos atuar juntos para prevenir riscos que nos afetam igualmente. Precisamos reverter expectativas conformistas, ir ao fundo das coisas, ultrapassar a retórica passadista, romper a inércia da separação, convergir, aproximar vontades. Esse é o horizonte que vislumbramos daqui de Madri. E, quando lançamos o olhar à frente, na ansiedade de entender o que nos reserva o futuro, sentimo-nos estimulados pelos sinais da autêntica fraternidade entre nossos povos, que constróem juntos um mesmo destino de liberdade e justiça. Muito obrigado"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "fernando-henrique-cardoso-1995-2003"
+            ],
+            "titulo": "Discurso do Presidente Fernando H. Cardoso na abertura do XXIX período de sessões da Comissão Económica da ONU para a América Latina e o Caribe",
+            "subtitulo": "PALÁCIO ITAMARATY, BRASÍLIA, DF, 9 DE MAIO DE 2002",
+            "data": "26/12/2024",
+            "horario": "12h12",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/fernando-henrique-cardoso-1995-2003/discurso-do-presidente-fernando-h-cardoso-na-abertura-do-xxix-periodo-de-sessoes-da-comissao-economica-da-onu-para-a-america-latina-e-o-caribe",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "O Brasil sente-se honrado em hospedar mais este encontro da Comissão Económica das Nações Unidas para a América Latina e o Caribe.",
+                "A Cepal é uma instituição que nos tem ajudado muito a compreender a região e sua inserção no mundo. Fui e continuo a ser inspirado pela determinação da Cepal em pensar o continente em seus próprios termos. Fui e continuo a ser um \"cepalino\". Não quero com isso negar a necessidade de atualização do legado de Raul Prebisch, do grupo que o assessorou nos primeiros tempos - como Celso Furtado, Regino Botti, entre outros - e do grupo do qual tive o orgulho de participar, ao lado de José Medina Echevarría, Aníbal Pinto, Oswaldo Sunkel, Enzo Faletto e tantos outros, anos depois, e com os que nos seguiram, à frente, Iglesias e, agora, Ocampo e  todos os seus colaboradores. Mas coube ao próprio Prebisch iniciar o trabalho de atualização.Aqueles que o conheceram de perto - e eu o conheci bem - sabem que jamais se deu por satisfeito com seus achados. Prebisch sempre teve os olhos postos no futuro. Queria manter-se em compasso com a realidade, critério último para a aferição de suas teses, e via todas as suas afirmações, por isso mesmo, como provisórias. O \"Manifesto Latino-Americano\", como Albert Hirschmann denominou um famoso documento escrito por Prebisch, em 1949, foi o marco inaugural de uma história de reflexão sobre o desenvolvimento da nossa região, que tem longa história. Prebisch logo se encarregou de aprofundar a explicação sobre a génese da deterioração dos termos de troca e o consequente pleito pela industrialização das economias periféricas.Sabemos de seu pioneirismo na defesa da integração do mercado latino-americano como meio de atender às exigências de escala e, dessa forma, facilitar o processo de substituição de importações. Também emprestou seu prestígio à causa do planejamento económico e social, com a criação do Ilpes, Instituto Latino-Americano de Planejamento Económico e Social. Para não falar de seu alerta contra a insuficiência dinâmica das economias da região, carentes de unia redistribuição de renda que permitisse maior produtividade e melhor utilização do excedente. Por trás de todos esses passos, estava a crença de Prebisch na possibilidade do desenvolvimento, malgrado os gargalos internos e as assimetriasno comércio internacional. Recordo-me que, se me permitem adicionar alguma reflexão - não me recordo exatamente em que ano -, em 75 ou 76, eu era professor em Cambridge, na Inglaterra. Lugar inspirador, lugar onde Lord Keynes havia ensinado. E fui convidado a escrever um trabalho sobre Prebisch e a Cepal. Dei um título que, à primeira vista, podia parecer até mesmo um pouco discutível. Chamei o trabalho de A originalidade da cópia, porque, na verdade, o pensamento que foi desenvolvido por muitos de nós e, marcadamente, por Prebisch, por Furtado, os que já mencioneiaqui, naturalmente, se relacionava com a teoria económica. 2 nem pode ser diferente. E essa teoria não se desenvolvia especificamente na AméricaLatina. Mas há cópias que são originais, não só na ciência. Se tiverem a possibilidade de conhecer o barroco mineiro, aqui no Brasil - e os convido a que o conheçam -, vão ver que aqui também, na forma artística do barroco, houve uma originalidade na cópia. Os moldes vinham da Europa, vinham de Portugal, eram copiados e disso se fazia uma outra arte. Eram transformados. Eu diria que foi assim o pensamento da Cepal e o pensamento de Prebisch, em particular. O pensamento de que, tomando teorias - e tanto se discutiu sobre isso, Hans Singer, tudo o que se havia desenvolvidonas Nações Unidas, estatísticas que mostravam a deterioração contínua nos termos de intercâmbio, tudo isso -, nada disso foi propriamente inventado aqui. Mas onde foi? Será que foi nas Nações Unidas? Será que foi em Hans Singer? Não terá passado pela Áustria? Não terá passado por Cambridge? Sempre é assim. O que foi importante em Prebisch, em toda a escola que ele criou, foi, precisamente, a capacidade de não simplesmente imitar, mas de recriar e de pensar. E, como se trata de ciências sociais, esse pensamento tem que ver sempre com o relacionamento com as estruturas econômico-sociais e políticas. Há, portanto, uma referência histórica necessária. E o que foi feito com brilho pela escola da Cepal foi, com essa referência histórica, repensar, reposicionar o que se acreditava ser a teoria do desenvolvimento. As teorias do primeiro impulso, as teorias desenvolvidas na Europa Central, e assim por diante, tomaram urna outra característica. O fato é que temos que verificar sempre a evolução do pensamento.Prebisch foi o primeiro a desenvolver formas novas daquilo que foi a sua colocação inicial, mas sempre acreditando na possibilidade do desenvolvimento, malgrado as limitações. Partilhei - e partilho - dessa crença, de maneira plena. Não via, naépoca em que pude trabalhar na Cepal, contradição entre desenvolvimento e dependência. Em vez de inelutável, a dependência sempre mepareceu uma situação contingente, passível de transformação. Mas ela era apenas o resultado de uma acomodação de interesses. O fato é que, mesmo dependentes, crescíamos a olhos vistos, ainda que de forma iníqua e, como se recorda e se insiste - até hoje é assim -, para proveito de poucos. Cheguei a falar, em certa época, já nos anos 70 e não nos 6o, quando trabalhei na Cepal, em desenvolvimento dependente-associado. E ainda acrescentava que era excludente. Muita palavra feia para, entretanto, não negar que havia o crescimento económico.Havia um certo tipo de desenvolvimento.O desafio que se colocava era o de reunir condições para um outro tipo de desenvolvimento que atendesse à maioria. O desafio era, portanto,político. Passava pela construção de um arranjo mais sensível aos reclamos do conjunto da sociedade. Sabia que isso era possível, apesar das amarras impostas pelo contexto, na época, autoritário em que vivíamos. Se prestei alguma contribuição ao trabalho da Cepal, foi exatamente essa preocupação com a autonomia do político, que traz consigo a hipótese de superação da própria dependência.Disso jamais me afastei. Na verdade, fui além. A atividade pública me fez perceber que, além da dinâmica dos interesses sociais, cabe atentarpara a importância do papel do Estado, responsável por demarcar o campo em que se dá a operação do mercado.Nem tudo é função dos interesses privados, mesmo após a globalização do processo produtivo, fenómeno bem posterior à fundação da Cepal e que trouxe inegável desenvoltura às empresas transnacionais. Mas continua prerrogativa do Estado e, portanto, político, a definiçãodas normas que balizam as transações internacionais, criando incentivos em determinadas áreas, impondo obstáculos em outras, enfim,mapeando o espaço de atuação dos agentes económicos. Daí a necessidade de levarmos em conta o peso das negociaçõesentre governos, inclusive como fonte de novas assimetrias  já que os acordos costumam refletir o descompasso de poder entre os países ricose o mundo em desenvolvimento. O histórico do GATT, a despeito de todas as suas conquistas, é um bom exemplo disso. A prolongada e difícil Rodada Uruguai permitiu valiosos avanços, mas ignorou a questão agrícola, exatamente aquela em que economias promissoras, mas de menor poder relativo, como a australiana e a brasileira, para não falar de grande parte do hemisfério sul, têm muito a ganhar se os países afluentes atenuarem seu apego atarifas e subsídios. Daí nossa avaliação positiva dos resultados da reunião da OMC em Doha, quando foi possível incluir itens como agricultura, antidumping e subsídios à exportação na pauta da futura rodada de negociação. Esperamos que Doha tenha sido o início de um processo que assegureum livre-comércio de mão dupla, com ganhos generalizados e equânimes, revertendo o atual estado de coisas, em que a incompetência dealguns, sobretudo na área agrícola, continua a prevalecer sobre o interesse de muitos. É chegado o momento de a comunidade internacional evoluir para uma adesão menos retórica e mais efetiva aos cânones do livre-comércio, inclusive no âmbito hemisférico, onde projeto algum de integração deve prosperar sem que tenha a reciprocidade como fundamento. Apresentei em Quebec as expectativas do Brasil em relação à Alça,que se resumem na defesa de um acesso desimpedido a todos os mercados, o que inclui, naturalmente, os mais dinâmicos. Postulamos aquilo que me parece constituir a razão de ser de qualquer acordo liberalizante, que é a quebra de barreiras, recebam elas onome que se queira dar. O Governo brasileiro, como fez, agora, o Doutor Ocampo, saudou o reconhecimento pela OMC de que a saúde pública não deve ficar refém do Acordo TRIPS, A legislação brasileira é clara o suficiente para não deixar dúvidas sobre o compromisso do País com o instituto de patentes. Só não vemos sentido em situar a propriedade intelectual acima de todo e qualquer outro bem, sobretudo a vida humana.Tampouco acreditamos em arroubos unilateralistas. O melhor caminho é o da cooperação internacional, em que todos reconheçam seus deveres e responsabilidades. A cooperação internacional também me parece imprescindível para controlar a volatilidade do capital financeiro, que tanta inquietação causou ao redor do mundo, do Sudeste Asiático à Rússia, sem falar em nós próprios, aqui, na América Latina. É verdade que o capital especulativo, nos últimos dois anos, parece ter deixado de migrar em bloco, segundo o chamado instinto do rebanho, e esteja aos poucos aprendendo - e espero que continue - a distinguir o joio do trigo.Mas não podemos passar um atestado de racionalidade a quem vive da fabricação de expectativas e não responde a motivação outra que não seja o próprio lucro. Daí a necessidade de suprir o quanto antes o que chamo de déficit de governança nas relações económicas.; A economia está globalizada, mas a política não. Continuamos a carecer de mecanismos de regulação que permitam, por exemplo, assegurar maior transparência e previsibilidade aos movimentos financeiros. Fiz meu primeiro apelo nesse sentido em visita, como disse o Doutor Ocampo, que realizei à sede da Cepal em Santiago nos primeiros meses de Governo, em 1995. Depois, voltei ao tema em inúmeras ocasiões, nos mais diversos foros, com os mais diferentes interlocutores. E continuarei a fazê-lo, até porque sei que os temas internacionais têm o próprio tempo de maturação, que é elástico, por exigir a acomodação de vontades soberanas. Mas confesso lamentar que o assunto continue ausente da agenda dos países com maior influência sobre a arquitetura financeira internacional. E, por isso, me apraz ouvir o Doutor Ocampo. Não li ainda o último relatório da Cepal, mas fiquei muito feliz de ouvi-lo e de ver que a Cepal tomou o desafio e está propondo mecanismos que permitam uma maior capacidade de previsão e de controle de mecanismos irracionais que ocorrem na economia internacional. A Conferência de Monterrey nos fez ver o quanto o mundo desenvolvido continua preso à falácia de que a instabilidade financeira é problema técnico e não político, reclamando apuro contábil, em vez de - o que seria o certo - uma vontade negociadora.Os dados mostram que competência técnica não nos falta para o controle das contas públicas, mesmo diante da insistência das organizaçõesmultilaterais de crédito em adotar critérios questionáveis para a mensuração da dívida nacional. Posso dizer isso com tranquilidade. O Brasil vem mantendo um controle estrito em suas contas públicas, há alguns anos, produzindo os superávits necessários para mostrar, interna e externamente, que temos a absoluta capacidade de gerir nossos negócios, inclusive as nossas dívidas. Não obstante, vez por outra, vê-se que existem incompreensões nessa matéria. Mas tampouco carecemos da determinação de administrar o País segundo os interesses e prioridades de nosso povo, à revelia do quepense esta ou aquela agência de risco, inapta, muitas vezes, a ir além de equações de curto fôlego. O fato é que nem todos os observadores externos souberam se manter atualizados em relação ao Brasil, a muitos países da América Latina e a alguns dos nossos vizinhos. Percebo, da parte de alguns, uma particular dificuldade em compreender que as economias nacionais passaram a operar em um contexto democrático. As políticas não são mais ditadas pela suposta onisciência de tecnocratas, nativos ou estrangeiros. Decorrem, hoje, da depuração de interesses legítimos, segundo regras transparentes, negociadas no espaço público, sob controle social, inclusive da imprensa, cada dia mais preparada e vigilante. Esta talvez seja a grande diferença entre a América Latina de hoje e aquela dos anos iniciais da Cepal: a força da democracia, que se nutre do seu continuado exercício.A democracia, entre nós, deixou de ser um expediente de ocasião, passível de ser suspenso em nome de uma realização futura, para assumira condição, que lhe é inata, de valor fundamental. Não mais prescindimos da democracia, seja como critério de legitimidade para o exercício do poder político, seja como requisito para ingresso e participação rios esforços de integração regional, planos que se reforçam mutuamente. Já previa, há mais de um século, um grande escritor brasileiro, Joaquim Nabuco, que, embora a resposta ao desafio democrático deva ser buscada dentro de cada país, ela se fortalece pela existência, nos países vizinhos, de uma opinião favorável à democracia. Essa é a base da cláusula democrática adotada no Mercosul, reiterada pelos Presidentes da América do Sul na Declaração de Brasília e estendidaa todo o continente pela Carta Democrática da OEA.Ameaças à ordem institucional em um determinado país deixaram de ser uma questão eminentemente doméstica e passaram a justificar reação pronta e coordenada do hemisfério como um todo.A menos que se apreenda o real alcance desses desdobramentos, torna-se difícil compreender a América Latina de nossos dias e fazer previsões que gozem de um mínimo de credibilidade.A melhor aposta a ser feita, não tenho dúvidas, é a de que os países do continente caminharão segundo a vontade de seus povos, que é pluralista e, por isso, democrática.Temos como nunca o sentimento de que somos autores de nossa própria história e disso faremos o melhor em prol de uma região mais próspera e justa.Por isso, desejo a todos os amigos da Cepal, parceiros de uma empreitada de mais de meio século, que tenham um encontro rnuito produtivoaqui em Brasília, como costumam ser as reuniões desta nossa querida organização. E tenho certeza, depois do que escutei, de que o encontro será muito positivo.Apraz-me, como, repito, antigo \"cepalino\", exercendo temporariamente funções presidenciais — e insisto no temporário, diante de alguns rumores de má-fé — ver que a Cepal continua, com a vivacidade de sempre, enfrentando os grandes temas, os grandes desafios, íião tendo,naturalmente, por que temer, mesmo quando seja necessário copiar,mas, sempre que possível, inovar. E devo dizer que, aqui em Brasília, que é outro exemplo de cópia inovadora - por trás de Niemeyer, está Lê Corbusier; isso é visível até neste prédio - mas, nessa cópia inovadora, isso aqui suscita, motiva a criatividade. Em algum momento da história, um grande brasileiro, que completaria 100 anos neste ano, Juscelino Kubitschek, se lançou à aventura de construir uma cidade nesses ermos de Brasília - isto aqui, há 45 anos. Brasília tem 42 anos. Era uma região de savana, uma região de cerrado, sem nada em volta. Ainda, há 20 anos, quem chegasse aBrasília, de avião, veria que, em volta, não havia quase nada. Hoje, não só existe uma capital florescente, como, ao redor, existe toda uma vidatambém pujante. Só esse exemplo mostra que realmente é possível construir a história. E acredito plenamente no que acabei de dizer e no que ouvi doDoutor Ocampo: temos condições de, a despeito de tudo, continuar a construir a nossa história como países que prezam seus povos, que têma capacidade de conviver, que conhecem seus interesses, que não têm receio de participar dos fóruns internacionais, mas que participarãosempre respondendo, simultaneamente, à vocação universal que todo homem de pensamento deve ter e aos interesses muito específicos dogrupo do qual faz parte, da nação da qual faz parte.Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "maria-laura-da-rocha-2023"
+            ],
+            "titulo": "Discurso da Ministra, substituta, das Relações Exteriores, na Cerimônia de Assinatura de Acordo de Cooperação Técnica entre o MRE e o MTE",
+            "subtitulo": "Brasília, 05/12/2024",
+            "data": "05/12/2024",
+            "horario": "13h29",
+            "datatime": "NA",
+            "data_atualizado": [
+                "05/12/2024"
+            ],
+            "horario_atualizado": [
+                "13h31"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/maria-laura-da-rocha-2023/discurso-da-ministra-substituta-das-relacoes-exteriores-na-cerimonia-de-assinatura-de-acordo-de-cooperacao-tecnica-entre-o-mre-e-o-mte",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Excelentíssimo Senhor Francisco Macena da Silva, Secretário-Executivo do Ministério do Trabalho e Emprego,",
+                "Excelentíssimo Embaixador Denis Fontes de Souza Pinto, Secretário de Gestão Administrativa do Ministério das Relações Exteriores,",
+                "Senhoras e Senhores,",
+                "É com grande satisfação que assinamos hoje o Acordo de Cooperação Técnica que permitirá ao Ministério do Trabalho Emprego fazer uso do sistema Cordilheira.",
+                "O Cordilheira é o software responsável por centralizar a gestão de permissões e autenticação em sistemas de informática do Ministério das Relações Exteriores. Essa ferramenta visa a garantir que usuários devidamente identificados por login, senha e segundo fator de autenticação baseada em token de uso único acessem exclusivamente as funcionalidades atribuídas ao seu perfil.",
+                "Sua primeira versão foi lançada, em 2015, pela Divisão de Informática do Itamaraty. O programa foi aperfeiçoado ao longo do tempo para se manter atualizado em relação às boas práticas de segurança em sistemas de informação, o que é atestado e verificado periodicamente.",
+                "Ao firmar este Acordo de Cooperação Técnica, o Itamaraty compartilha a solução tecnológica com o Ministério do Trabalho e Emprego e fortalece o trabalho conjunto e integrado das equipes de tecnologia da informação de ambos os órgãos, apoiando a viabilização de políticas públicas voltadas à melhoria da prestação de serviços ao cidadão.",
+                "O compartilhamento do código-fonte do Cordilheira poderá contribuir para o aumento da maturidade das equipes de desenvolvimento de software, além de aprimorar requisitos do sistema por meio da construção conjunta de melhorias e modernizações do Cordilheira.",
+                "O presente Acordo otimizará nossos sistemas com potencial de economizar recursos públicos de ambos os Ministérios, além de fortalecer e aprimorar o Cordilheira e a segurança da informação.",
+                "Agradeço a confiança e a parceria do Ministério do Trabalho e Emprego e espero que nossa cooperação institucional seja proveitosa para ambas as instituições e para a sociedade brasileira.",
+                "Muito obrigada."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "maria-laura-da-rocha-2023"
+            ],
+            "titulo": "Discurso da Secretária-Geral  no I Simpósio Internacional pela Equidade Racial: Brasil, Estados Unidos e África do Sul",
+            "subtitulo": "Brasília, 4 de dezembro de 2024",
+            "data": "04/12/2024",
+            "horario": "17h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "04/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h38"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/maria-laura-da-rocha-2023/discurso-da-secretaria-geral-no-i-simposio-internacional-pela-equidade-racial-brasil-estados-unidos-e-africa-do-sul",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "É com muita alegria que participo do I Simpósio Internacional pela Equidade Racial, organizado pelo STJ, com ênfase no intercâmbio de experiências entre Brasil, Estados Unidos e África do Sul — três grandes democracias multiétnicas que prezam pela diversidade e inclusão em suas políticas públicas.",
+                "A abertura deste Simpósio no dia de hoje é uma feliz coincidência, pois, pela manhã, no Itamaraty, o Ministro Mauro Vieira, a Ministra Anielle Franco, a Ministra Esther Dweck e eu lançamos o Plano de Ação do Ministério das Relações Exteriores no âmbito do Programa Federal de Ações Afirmativas, adotado em novembro passado por meio do Decreto nº 11.785.",
+                "Consciente de injustiças históricas refletidas em sua estrutura e comprometido com as mudanças necessárias para alcançar maior diversidade e inclusão na diplomacia brasileira, o Itamaraty tem orgulho de ser o primeiro órgão do Poder Executivo Federal a lançar o seu Plano de Ações Afirmativas. Composto de 34 medidas finalísticas e de gestão, o plano tem como público beneficiário pessoas negras, mulheres, indígenas, pessoas com deficiência e pessoas LGBTQIA+.",
+                "No campo da equidade racial, o plano mantém e amplia o pioneiro programa de ação afirmativa para pessoas negras, lançado pelo MRE, em 2002, em parceria com a então Secretaria de Políticas de Promoção da Igualdade Racial, o CNPq, o MCTI e a Fundação Palmares. O Programa Vocação para a Diplomacia concede, há 22 anos, bolsas a pessoas negras que estejam se preparando para o Concurso de Admissão à Carreira Diplomática e, desde sua criação, beneficiou 526 pessoas.",
+                "Com o plano de ação que lançamos hoje, o programa de bolsas passa a destinar 50% dos recursos para mulheres negras, além de ser ampliado para outros grupos prioritários. Novas ações são voltadas (i) à promoção de servidoras e servidores negros a funções de liderança, (ii) à garantia de diversidade étnico-racial nas bancas dos concursos e no conteúdo dos cursos ministrados pelo Instituto Rio Branco, (iii) ao apoio consular a brasileiros e brasileiras vítimas de racismo no exterior, e (iv) à implementação do Plano de Ação Conjunto Brasil-Estados Unidos para a Eliminação da Discriminação Étnico-Racial e a Promoção da Igualdade (JAPER).",
+                "Em muitas das iniciativas para promoção da equidade racial, temos contado com os Estados Unidos e a África do Sul como importantes parceiros.",
+                "No campo da política externa, o JAPER é um excelente exemplo de cooperação com os Estados Unidos. O Itamaraty seguirá empenhado em organizar as reuniões plenárias e dos grupos de trabalho que compõem a iniciativa, que conta com acompanhamento direto do Ministério da Igualdade Racial.",
+                "Com a África do Sul, no âmbito das Nações Unidas, participamos do grupo responsável pela resolução intitulada “Chamado Global para Iniciativas de Combate ao Racismo”, que busca coordenar os mandatos dos mecanismos do Conselho de Direitos Humanos para o enfrentamento ao racismo. Além disso, o Brasil tem reiterado o firme compromisso com a Declaração e Plano de Ação de Durban.",
+                "Na Assembleia Geral da ONU, o Brasil lidera grupo de países que pleiteiam a renovação da Década Internacional dos Afrodescendentes, lançada em 2013 com foco no tema “reconhecimento, justiça e desenvolvimento”, por considerar que seus objetivos não foram plenamente alcançados.",
+                "No Conselho de Direitos Humanos, o Brasil tem buscado contribuir para esse processo por meio da proposição de importantes resoluções, tais como (i) \"Incompatibilidade entre democracia e racismo\", (ii) \"O mundo dos esportes livre do racismo, discriminação racial, xenofobia e formas correlatas de intolerância\", e (iii) “Educação como ferramenta para superar o racismo”. Todas aprovadas por consenso.",
+                "Cabe recordar que, na abertura da 78ª Assembleia Geral das Nações Unidas, em setembro de 2023, o Presidente Lula manifestou compromisso voluntário com um inédito 18º Objetivo de Desenvolvimento Sustentável, pelo qual nos comprometemos a alcançar a igualdade racial na sociedade brasileira.",
+                "Não poderia deixar de mencionar, por fim, a realização, em Salvador, no final de agosto passado, em parceria com a União Africana, da Conferência Regional da Diáspora Africana. Essa conferência reuniu representantes de governos e de sociedade civil das Américas e da África e representou oportunidade de reafirmar nosso compromisso com a plena implementação da Declaração e Plano de Ação de Durban por meio do diálogo com a sociedade civil.",
+                "As iniciativas citadas demonstram como a política externa brasileira, orientada pelas diretrizes do Presidente Luiz Inácio Lula da Silva, busca refletir nossa diversidade e promover a igualdade racial, pilar fundamental dos direitos humanos, da justiça social e da democracia.",
+                "Estou certa de que este Simpósio será um ponto de inflexão para a discussão da equidade racial no Poder Judiciário brasileiro e contribuirá, à luz das experiências de países parceiros, para a adoção de políticas judiciárias voltadas à promoção da equidade racial no Brasil.",
+                "Muito obrigada e um ótimo evento a todos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "maria-laura-da-rocha-2023"
+            ],
+            "titulo": "Discurso da Secretária-Geral na Cerimônia de Lançamento do Plano de Ação Afirmativa do Ministério das Relações Exteriores 2024-2027",
+            "subtitulo": "Brasília, 4 de dezembro de 2024",
+            "data": "04/12/2024",
+            "horario": "10h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "04/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/maria-laura-da-rocha-2023/discurso-da-secretaria-geral-na-cerimonia-de-lancamento-do-plano-de-acao-afirmativa-do-ministerio-das-relacoes-exteriores-2024-2027",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "É com grande satisfação que lançamos oficialmente o primeiro Plano de Ação do Ministério das Relações Exteriores para o Programa Federal de Ações Afirmativas, lançado em 20 de novembro de 2023 por meio do Decreto nº 11.785.",
+                "Estamos orgulhosos de sermos o primeiro Ministério a concluir formalmente a elaboração do seu Plano Setorial de Ações Afirmativas e estamos certos de que muitos outros virão a seguir.",
+                "O Plano que lançamos hoje é composto de 34 medidas afirmativas que têm como objetivo contribuir, dentro da esfera de competência do MRE, para a redução das desigualdades históricas e estruturais que afetam determinados grupos no Brasil, baseadas em raça, etnia, gênero, orientação sexual e deficiência.",
+                "As ações afirmativas que compõem este Plano são resultado de um amplo processo de consulta interna, que envolveu todas as secretarias do Ministério, os comitês de gênero, étnico-racial, de pessoas com deficiência e de pessoas LGBTQIA+ que compõem o Sistema de Promoção da Diversidade e da Inclusão do MRE, criado em abril de 2023, e também associações e sindicatos de servidores. Agradecemos o empenho de todos na apresentação de propostas e na elaboração das ações.",
+                "Agradecemos, igualmente, ao Comitê Gestor do Programa Federal, em particular ao Ministério da Igualdade Racial e ao Ministério da Gestão e Inovação, pelo exame expedito das ações propostas pelo MRE e por todo o apoio concedido durante o processo de elaboração do Plano de Ação.",
+                "Das 34 ações afirmativas, 18 serão ou já estão sendo implementadas na área de gestão de pessoas e na contratação de serviços e produtos.",
+                "No campo da gestão de pessoas, gostaríamos de destacar as ações para a ampliação do acesso à carreira diplomática. Além da continuação do pioneiro Programa Bolsa-Prêmio de Vocação para a Diplomacia, criado em 2002 com o objetivo de custear os estudos preparatórios de pessoas negras candidatas ao Concurso de Admissão à Carreira de Diplomata, nosso plano prevê a expansão desse programa para mulheres de baixa renda, indígenas e pessoas com deficiência. A experiência de mais de 20 anos do MRE com o programa de bolsas demonstra sua interação positiva com a lei de cotas, sendo instrumento fundamental para o preenchimento das vagas destinadas a pessoas negras nos concursos do MRE. Esperamos poder lograr resultados positivos também com relação aos novos grupos a serem beneficiados por eventual revisão da Lei nº 12.990/2014.",
+                "Ainda no campo do acesso, destacamos a adoção de ação afirmativa para estimular maior ingresso de mulheres na carreira diplomática. O primeiro concurso com essa medida acabou de ser realizado e resultou em aumento de 60% no número total de mulheres aprovadas. E temos na classificação final, beneficiadas pela ação afirmativa aprovadas em 2º, 3º e 6º lugares.",
+                "Também consta do Plano de Ação medida específica para fomentar a progressão funcional de pessoas negras e mulheres aos níveis mais altos da carreira de diplomata. O uso de listas específicas para ingresso no rol de candidatos e candidatas elegíveis às promoções, já implementado, tende a apresentar resultados no curto e médio prazo.",
+                "Embora a carreira de diplomata seja, historicamente, a que mais necessita de medidas de estímulo à diversidade, o Plano também inclui ações voltadas às carreiras de oficial e assistente de chancelaria.",
+                "Gostaria de destacar, ademais, ações relativas à acessibilidade física e informacional de servidores com deficiência, medidas para ampliação da diversidade na contratação de pessoal terceirizado e no programa de estágio, bem como as ações de capacitação e diversificação do acervo artístico e de representação do Ministério.",
+                "Além das ações de meio, o Plano é composto de 16 ações afirmativas relacionadas às atividades finalísticas do Itamaraty. Destacamos, em especial, as medidas de ampliação do acesso aos serviços consulares e de assistência a brasileiros no exterior para mulheres, pessoas negras, pessoas com deficiência e pessoas LGBTQIA+. As atividades incluem a abertura de novos espaços da mulher brasileira, ações de capacitação para enfrentamento ao racismo, ajustes em formulários de acesso à documentação para pessoas LGBTQIA+ e compromisso com a acessibilidade das instalações e serviços prestados para pessoas com deficiência.",
+                "As ações afirmativas de caráter finalístico abarcam, igualmente, a ampliação da participação dos grupos prioritários do Programa Federal de Ações Afirmativas na implementação das ações de difusão cultural, promoção comercial e de inovação geridos pelo Itamaraty.",
+                "Outro destaque é o compromisso com a transversalização dos temas de gênero, e sua necessária interseção com a questão racial, na política externa brasileira. São exemplos a criação do cargo de Alta Representante para Temas de Gênero, iniciativas na área de negociação de acordos de comércio e investimentos e ações na área da cooperação Sul-Sul prestada pelo Brasil.",
+                "Vale ressaltar, ainda, a capacitação de povos indígenas para atuarem em negociações internacionais sobre clima e meio ambiente. O primeiro módulo do treinamento foi realizado, em conjunto com o Ministério dos Povos Indígenas, no Instituto Rio Branco, em setembro passado, e outros estão por vir ao longo de 2025.",
+                "Conscientes da natureza transversal e intersetorial das ações afirmativas, a implementação de diversas ações contidas no Plano de Ação do MRE requererá o estabelecimento de parcerias com outros Ministérios e órgãos da Administração Pública Federal.",
+                "Estamos certos de que contaremos com esse apoio, bem como com o suporte do Comitê Gestor do Programa Federal de Ações Afirmativas ao longo da sua implementação. Também esperamos contar com o apoio interno das unidades responsáveis por cada ação e dos comitês do Sistema de Promoção da Diversidade e da Inclusão do MRE para o monitoramento da execução das 34 ações previstas no Plano e para o seu contínuo aperfeiçoamento.",
+                "Cientes de que esse primeiro plano de ação é um ponto de partida e não de chegada, esperamos que ele contribua para a abertura de novos caminhos rumo à promoção e proteção de direitos e a equiparação de oportunidades de mulheres, pessoas negras, indígenas, quilombolas, pessoas com deficiência e pessoas LGBTQIA+ no serviço exterior brasileiro e na Administração Pública Federal como um todo.",
+                "Muito obrigada!"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "Acordo Mercosul-UE é entendimento benéfico, estratégico e necessário (Folha de S. Paulo, 09/12/2024)",
+            "subtitulo": "Parceria prevê condições favoráveis para a nossa pauta exportadora, ao mesmo tempo em que teremos acesso facilitado a tecnologias avançadas",
+            "data": "10/12/2024",
+            "horario": "09h36",
+            "datatime": "NA",
+            "data_atualizado": [
+                "10/12/2024"
+            ],
+            "horario_atualizado": [
+                "10h14"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/mauro-vieira-2023/acordo-mercosul-ue-e-entendimento-benefico-estrategico-e-necessario-folha-de-s-paulo-09-12-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Geraldo Alckmin, Mauro Vieira",
+                "Líderes do Mercosul e da União Europeia (UE) anunciaram na sexta-feira (6), em Montevidéu, a conclusão definitiva das negociações do Acordo de Parceria entre os dois blocos. O anúncio fecha, com êxito, um processo negociador de 25 anos.",
+                "Desde 2023, sob a orientação do presidente Lula, os negociadores brasileiros, na coordenação do processo pelo Mercosul, empenharam-se em fazer com que o resultado das negociações, agora concluídas, fosse equilibrado e mais alinhado aos interesses do país. O Acordo de Parceria é um resultado benéfico para a economia brasileira, estratégico para a inserção internacional do Brasil e do Mercosul e necessário para o atual contexto político e econômico global.",
+                "O acordo cria uma das maiores áreas bilaterais de livre-comércio do mundo, com população de cerca de 718 milhões de pessoas e um PIB somado de US$ 22 trilhões. Trata-se do maior acordo comercial de que o Mercosul faz parte e um dos maiores já firmados pela UE.",
+                "Os benefícios negociados pelo Brasil são múltiplos. O acordo com a UE mostra que é possível abrir oportunidades sem comprometer o espaço para políticas públicas em áreas como saúde, desenvolvimento industrial, inovação e agricultura familiar.",
+                "A parceria prevê condições favoráveis de acesso a setores importantes para nossa pauta exportadora. Frutas, café, peixes e suco de laranja, por exemplo, deverão ingressar na UE livres de impostos de importação. Carnes, etanol e açúcar, entre outros, terão acesso melhorado. Da mesma forma, a indústria do Mercosul terá acesso facilitado a tecnologias avançadas e melhores condições de se integrar às cadeias produtivas da União Europeia, o que reforça a competitividade de nossas empresas em um quadro de acirrada concorrência econômica internacional.",
+                "Ao mesmo tempo, o Brasil entendeu necessário renegociar os termos em que haviam sido tratadas, até 2019, as compras governamentais e a inovação tecnológica, a fim de preservar a capacidade de alavancar políticas públicas. Como resultado da etapa negociadora iniciada em 2023, foram excluídas do acordo, por exemplo, as licitações do Sistema Único de Saúde (SUS). Além disso, o uso de instrumentos como \"offsets\" e encomendas tecnológicas, peças centrais em políticas de inovação, não é mais restringido pelo acordo.",
+                "De modo a preservar o nível de investimentos e de empregos no país, foi negociado também procedimento inédito de salvaguardas específicas para o setor automotivo. O Brasil liderou ainda os esforços para a criação de mecanismo de reequilíbrio de concessões, caso medidas unilaterais —como certas leis europeias recentemente adotadas— comprometam ganhos obtidos com o concerto. Foi negociada ainda a possibilidade de cobrar impostos de exportação sobre minerais críticos, caso seja necessário para políticas de interesse público.",
+                "O acordo possui relevância estratégica para nossa inserção internacional. Ao fomentar maior intercâmbio comercial com a UE, segundo maior parceiro do Brasil, contribui para manter a diversificação de nossas parcerias, um ativo para a política comercial brasileira. A parceria reforça também o potencial de ampliar os fluxos de investimentos entre o Brasil e a União Europeia —já bastante densos.",
+                "Para o Mercosul, a conformação dessa área de livre-comércio mostra que, negociando como bloco, obtêm-se melhores condições de inserção no mercado global. Os compromissos assumidos reforçam a integração regional e seus elementos centrais, como a Tarifa Externa Comum.",
+                "Os capítulos político e de cooperação do acordo enviam mensagem forte de apoio ao Estado democrático de Direito, à solução pacífica de disputas e à sustentabilidade ambiental. Assim, o Mercosul e a UE reforçam seu compromisso frente a esses desafios comuns.",
+                "Em um mundo polarizado, ameaçado pela emergência climática, por guerras e pela imposição crescente de barreiras econômicas, o acordo entre o Mercosul e a UE é um passo resoluto na direção da cooperação como forma de impulsionar nosso desenvolvimento e de lidar com esses desafios.",
+                "Geraldo AlckminVice-presidente da República e ministro do Desenvolvimento, Indústria, Comércio e Serviços",
+                "Mauro VieiraMinistro das Relações Exteriores"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-12",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

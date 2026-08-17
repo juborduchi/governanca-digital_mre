@@ -1,0 +1,341 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "aloysio-nunes-ferreira"
+            ],
+            "titulo": "Discurso proferido pelo ministro das Relações Exteriores, Aloysio Nunes Ferreira, por ocasião do lançamento das negociações de um acordo de comércio entre o Mercosul e a República da Coreia – Seul, 25 de maio de 2018",
+            "subtitulo": "NA",
+            "data": "25/05/2018",
+            "horario": "20h25",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h49"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/aloysio-nunes-ferreira/discurso-proferido-pelo-ministro-das-relacoes-exteriores-aloysio-nunes-ferreira-por-ocasiao-do-lancamento-das-negociacoes-de-um-acordo-de-comercio-entre-o-mercosul-e-a-republica-da-coreia-seul-25-de-maio-de-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Muito boa tarde.",
+                "Senhor ministro da Indústria, Comércio e Energia da República da Coreia, meus caros colegas e amigos que aqui representam os sócios do Mercosul,",
+                "Eu tenho muita alegria e um sentido de muita responsabilidade em participar do lançamento dessa negociação, que como bem lembrou o chanceler Loizaga, que é o nosso presidente Pro Tempore e sob cuja gestão fizemos tanta coisa boa e positiva, e que prepara o caminho agora para o chanceler Nin Novoa, que assumirá a presidência pro tempore, o chanceler Loizaga lembrou que nós estamos fazendo um longo percurso geográfico para iniciar pela primeira vez a negociação do Mercosul com um país da Ásia. E não é qualquer país, é um país moderno, de uma economia dinâmica de enorme influência no comércio mundial. O acesso ao mercado da República da Coreia é de uma forma um selo de qualidade para quem tem a possibilidade de exercer comércio com este país.",
+                "É um passo na direção que os governos dos países do Mercosul adotaram. Em primeiro lugar tornar o Mercosul um bloco dinâmico, eliminando as barreiras que existem ao comércio entre os nossos próprios países, avançando além das questões tarifárias, na garantia de investimentos, na busca de convergência regulatória, na busca de integração produtiva e também das compras públicas. É uma geração de acordos comerciais que, segundo as palavras do ministro coreano, inspira aqueles que vão participar da negociação deste acordo, um acordo de uma geração mais avançada. E foi nesse sentido, aliás, a conversa do meu caríssimo colega o ministro Marcos Lima nesta manhã com o seu o homólogo da República da Coreia: a ambição do acordo e também o realismo para que nós, ao longo da negociação, possamos ter uma franqueza para reconhecer sensibilidade dos dois lados, mas com a convicção de que as economias são complementares e que há imensas oportunidades de ganhos recíprocos desse acordo.",
+                "O Mercosul, meus caros amigos, como todos sabemos, busca hoje vários acordos comerciais: com a União Europeia, com a EFTA, começamos já a negociação com o Canadá e hoje para nós é um marco muito importante, repito, na história do nosso agrupamento. Nós temos satisfações a dar para 270 milhões de habitantes dos nossos países, que querem ter acesso a bens, a serviços mais sofisticados e mais em conta, mais baratos, mais ao alcance da nossa renda. Queremos gerar emprego para esse enorme contingente de pessoas. Nós queremos que o nosso PIB, que hoje, no seu conjunto, tem mais de 3 bilhões de dólares americanos, possa ser ainda maior com a dinamização do nosso comércio e também com novos investimentos. Nós já temos a presença de investimentos coreanos muito importantes no nosso país, o Brasil recebe esses investimentos, o Brasil, que completará no ano que vem 60 anos de relações diplomáticas com a Coreia, é beneficiado e portanto os investimentos coreanos são importantes para o nosso progresso econômico e o bem estar do nosso povo.",
+                "Eu concluo desejando a todos, transmitindo a todos a convicção de que demoramos 13 anos, meu caro ministro, mas nos próximos poucos meses, agora sob a liderança do nosso ministro do exterior do Uruguai, nós haveremos de concluir com bastante rapidez e com segurança o acordo que tanto almejamos.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "michel-miguel-elias-temer-lulia-2016-2018"
+            ],
+            "titulo": "Brinde do presidente da República, Michel Temer, durante almoço em homenagem ao senhor Desiré Delan Bouterse, Presidente da República do Suriname – Palácio Itamaraty, 2 de maio de 2018",
+            "subtitulo": "NA",
+            "data": "02/05/2018",
+            "horario": "14h29",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/michel-miguel-elias-temer-lulia-2016-2018/brinde-do-presidente-da-republica-michel-temer-durante-almoco-em-homenagem-ao-senhor-desire-delan-bouterse-presidente-da-republica-do-suriname-palacio-itamaraty-2-de-maio-de-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Excelentíssimo senhor Desiré Bouterse, presidente da República do Suriname,",
+                "Senhoras e senhores ministros de Estado,",
+                "Embaixadores,",
+                "Demais integrantes das delegações do Suriname no Brasil.",
+                "Eu reitero que é uma satisfação receber o presidente Bouterse, bem como toda a comitiva do Suriname.",
+                "Já disse e repito que o Suriname é um importante parceiro do Brasil. A proximidade geográfica entre nossos países é acompanhada por laços históricos de amizade e cooperação. São igualmente antigos nossos vínculos culturais. Aliás, recordo que uma das maiores comunidades quilombolas do Suriname ainda usa em seu dialeto palavras portuguesas trazidas do Brasil.",
+                "E a verdade é que a migração do Brasil para o Suriname segue viva até hoje. O Suriname acolhe expressiva comunidade brasileira, ao que me parece são quase 40 mil brasileiros que vivem naquele país. Por isso que nós temos o compromisso de trabalhar juntos, em nome da dimensão humana do nosso relacionamento.",
+                "A visita de vossa excelência, senhor presidente, coroa um ano marcado por larga agenda bilateral. Veja a visita feita pelos ministros Torquato Jardim, da Justiça; Raul Jungmann da Segurança; e Sérgio Etchegoyen, do Gabinete de Segurança Institucional, e também na visita da chanceler Pollack, que tive o prazer de receber.",
+                "Hoje, aliás, pudemos assinar seis acordos de cooperação nas mais diversas áreas, segurança pública à cooperação financeira, da educação à agricultura. Estamos trabalhando sempre de forma muito coordenada para promover o desenvolvimento dos nossos países e o bem-estar de nossos brasileiros e surinameses. E é com esse espírito de união e de boas-vindas, senhor presidente, que proponho um brinde à saúde do presidente e à amizade entre o Brasil e o Suriname."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Canciller brasileño: \"Mercosur busca mayor integración económica con Asia\" (Entrevista concedida pelo ministro Aloysio Nunes  à EFE em 18/5/2018) [espanhol]",
+            "subtitulo": "NA",
+            "data": "21/05/2018",
+            "horario": "19h59",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "15h23"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/aloysio-nunes-2017-2018/canciller-brasileno-mercosur-busca-mayor-integracion-economica-con-asia-entrevista-concedida-pelo-ministro-aloysio-nunes-a-efe-em-18-5-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Antonio Hermosín",
+                "Tokio, 18 jul (EFE).- El Mercosur \"busca una mayor integración económica\" con Asia impulsando acuerdos de libre comercio con Japón, Corea del Sur y Singapur, dijo hoy a Efe el ministro brasileño de Asuntos Exteriores, Aloysio Nunes Ferreira, durante su viaje a Tokio.",
+                "Entre los países latinoamericanos que conforman el Mercado Común del Sur \"hay un interés creciente\" para ampliar sus alianzas comerciales y \"movimientos recientes\" en esta dirección, explicó Nunes durante su visita a Japón, una etapa clave de su amplio tour por el continente asiático centrado en la cooperación económica.",
+                "Esta gira ha servido para abrir un \"diálogo exploratorio\" con Singapur sobre un acuerdo comercial y para \"preparar el terreno\" de cara a unas futuras conversaciones con Tokio, según dijo Nunes, que además de estos dos países ha visitado también Tailandia, Indonesia y Vietnam.",
+                "Japón supone \"un mercado importantísimo\" para el Mercosur, además de ser \"un gran socio comercial y económico\" de Brasil gracias una sólida relación bilateral fundada sobre los amplios flujos migratorios entre ambos países y sobre la significativa presencia de empresas niponas en su territorio, destacó Nunes.",
+                "El archipiélago nipón es el sexto mayor socio comercial de Brasil, donde además hay instaladas más de 700 empresas japonesas y cerca de 2 millones de japoneses o descendientes de nipones.",
+                "Durante su visita a Japón, Nunes se reunió con miembros del Gabinete del primer ministro Shinzo Abe y representantes de Keidanren, la principal patronal nipona, para \"explicar la situación de la economía brasileña\" y dar garantías sobre \"su recuperación tras la crisis y las reformas aplicadas\".",
+                "El canciller afirmó que el \"entendimiento es total\" entre el sector privado japonés y brasileño de cara a un futuro acuerdo comercial, que ofrecería a las dos partes \"complementariedad y ventajas recíprocas\".",
+                "Por ello, aseguró que las conversaciones con la tercera economía mundial \"están muy bien encaminadas\" para iniciar unas conversaciones formales con el Mercosur, y señaló que la cumbre del G20 que se celebrará a finales de noviembre en Buenos Aires \"serían el momento idóneo\" para comenzar esos contactos.",
+                "Nunes viajará asimismo a Corea del Sur la semana que viene con el objetivo de iniciar las negociaciones formales con la cuarta economía de Asia, que podría convertirse así en la primera del continente en sellar un acuerdo comercial con el Mercosur.",
+                "Estas alianzas se sumarían a la de la UE, con la que el Mercosur está \"cerca\" de concluir sus negociaciones, y a la de Canadá, país que ya negocia formalmente un pacto con el bloque regional actualmente integrado por Argentina, Brasil, Paraguay y Uruguay.",
+                "El canciller brasileño también trató durante sus encuentros con miembros del Ejecutivo nipón otros temas referentes a las relaciones internacionales, entre los que destaca el proceso de diálogo abierto con Corea del Norte con vistas a lograr la desnuclearización del régimen.",
+                "Brasil \"está totalmente alineado\" con la posición de Naciones Unidas y por tanto es \"partidario de mantener las sanciones sobre Corea del Norte en la cantidad e intensidad decididas por el Consejo de Seguridad\", destacó Nunes.",
+                "\"Creemos que estas presiones internacionales tienen que continuar hasta que este proceso concluya de manera positiva para la paz en la región\", señaló el canciller, quien se mostró así en sintonía con la postura de Japón, partidario de mantener las medidas punitivas sobre el régimen hasta que dé pasos concretos hacia el abandono de sus armas nucleares.",
+                "Nunes también admitió la \"sorpresa\" que le produce el cruce de declaraciones entre Washington y Pyongyang a menos de un mes para la histórica cumbre entre sus respectivos líderes, Donald Trump y Kim Jong-un, aunque expresó su confianza en que la reunión que celebrarán el 12 de junio en Singapur se salde con resultados positivos.",
+                "El viaje a Japón del canciller brasileño se produce en el marco del 110 aniversario del inicio de la inmigración de japoneses a Brasil, una efeméride que se conmemora con una serie de actos y visitas como la prevista de la princesa nipona Mako a Brasil a mediados de julio."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Chanceler brasileiro espera início das negociações de EPA com Japão em novembro (Jornal Nikkei, Japão, 18/5/2018)",
+            "subtitulo": "NA",
+            "data": "21/05/2018",
+            "horario": "19h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "15h43"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/aloysio-nunes-2017-2018/chanceler-brasileiro-espera-inicio-das-negociacoes-de-epa-com-japao-em-novembro-jornal-nikkei-japao-18-5-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "(Originalmente publicada em japonês, traduzida por intérprete da Embaixada do Brasil em Tóquio)",
+                "(Hidetake Miyamoto, Dep. Notícia Internacional da Ásia)",
+                "Expansão do comércio com Ásia face a face ao protecionismo norte-americano.",
+                "O Ministro das Relações Exteriores do Brasil, Nunes, concedeu entrevista ao Jornal Nikkei em Tóquio no dia 18. No tocante ao acordo de parceria econômica (EPA) entre Mercosul (Mercado Comum do Sul) e Japão, afirmou que \"gostaria de dar início às negociações ainda este ano. A cúpula do Grupo dos 20 (G20) a ser realizada em novembro na Argentina será uma boa oportunidade\".  No contexto da tendência protecionista dos EUA, apontou que \"o comércio com a Ásia é extremamente importante\", e tenciona dinamizar a economia com a região.",
+                "O Brasil, Argentina, Uruguai e Paraguai constituem o Mercosul e vêm realizando negociações comerciais. A população do bloco soma 260 milhões, o PIB regional é de cerca de 2,8 trilhões de dólares (cerca de 310 trilhões de ienes), equivalente à soma dos dez países da Associação de Nações do Sudeste Asiático (ASEAN).",
+                "O Sr. Nunes apontou que \"na área econômica temos relação de complementaridade com o Japão. O Brasil poderá contribuir ao Japão na segurança alimentar\". Atualmente o país exporta carne de frango, milho, café entre outros produtos ao Japão. Mencionou que \"se o produto brasileiro for aceito no Japão, facilitará o seu reconhecimento em outros países da Ásia\" e externou a expectativa do efeito multiplicador.",
+                "Mencionou também que \"há uma grande expectativa no mundo econômico de ambos os países\", e depositou esperança ao relatório sobre EPA a ser concluído até julho pela Keidanren e a CNI.",
+                "Por ter havido muitos governos esquerdistas na região, o Mercosul está atrasado na construção da rede de Acordos de Livre Comércio. Somente após 2015, com o aumento de governos da centro-direita, mudou-se o rumo para priorização do livre comércio. Negociações com a União Europeia e Canadá encontram-se em andamento, e com a Coréia do Sul prevê-se \"chegar a um acordo sobre início das negociações de FTA no dia 25\", e buscam fortalecer a relação com a Ásia.",
+                "O país vizinho, Argentina, sofreu desvalorização da moeda Peso, agravamento da inflação e turbulência na economia. Por ocasião do default da Argentina em 2001 houve impacto à região, mas o Ministro sublinhou a sanidade da situação macroeconômica: \"a situação atual é diferente do passado. De fato a relação comercial com a Argentina é forte, mas a reserva de divisas do Brasil é abundante, mantemos o superávit comercial e o nível da inflação é baixo, pouco acima de 2%\".",
+                "No que se refere à reforma estrutural do governo Macri, apontou que \"vai levar tempo. Se puder receber o apoio do FMI, poderá superar a crise\".",
+                "Com relação à Venezuela, que realizará eleições presidenciais no dia 20, mencionou que \"houve colapso na economia, e é difícil ver uma saída. Espero que haja uma negociação para recuperar o processo democrático\". Sobre a situação da Coréia do Norte, disse esperar que \"a reunião Coréia do Norte- EUA de fato se realize, e que, com a abolição do arsenal nuclear da Coréia do Norte, a paz regional seja mantida eternamente\"."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "O Brasil em direção à Ásia (O Globo, 7/5/2018)",
+            "subtitulo": "NA",
+            "data": "07/05/2018",
+            "horario": "13h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h54"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/o-brasil-em-direcao-a-asia-o-globo-07-05-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Crescimento das economias nacionais passa não pelo recrudescimento de impulsos protecionistas, mas pela cooperação internacional",
+                "ALOYSIO NUNES FERREIRA*",
+                "Inicio hoje viagem à Ásia para reafirmar o engajamento do Brasil com países que, em seu conjunto, compõem um novo e dinâmico eixo da economia mundial: China, Coreia do Sul, Indonésia, Japão, Cingapura, Tailândia e Vietnã. Direi a meus interlocutores que, superada a mais grave crise de sua história, graças às reformas adotadas pelo presidente Temer, o Brasil está de volta aos trilhos e determinado a defender seus interesses no plano internacional. Serei claro em expressar a convicção do governo e do setor privado brasileiro de que o crescimento das economias nacionais passa não pelo recrudescimento de impulsos protecionistas, mas pela cooperação internacional e o adensamento continuado dos vínculos econômicos e comerciais entre países e blocos.",
+                "Os dez países do Sudeste Asiático — incluindo quatro que visitarei (Cingapura, Indonésia, Tailândia e Vietnã) — encontram-se reunidos na Associação de Nações do Sudeste Asiático (Asean). Trata-se de mercado com população de aproximadamente 630 milhões de pessoas, taxa de crescimento média de 5% ao longo da última década e potencial para tornar-se o quarto maior mercado do mundo em 2030. Se tomarmos a Ásia-Pacífico como um todo, os números são ainda mais impressionantes: a classe média da região saltará de 525 milhões de pessoas em 2009 para 3,3 bilhões em 2030.",
+                "O centro de gravidade da economia global tem-se deslocado em direção à Ásia. O Brasil já despertou para isso, e nossa política externa busca reforçar os laços com a região. Ao encontrar-me com líderes políticos, empresários e formadores de opinião em cada um desses países, apresentarei um Brasil que retomou sua trajetória de crescimento, goza de indicadores estáveis para atrair investimentos e ampliar o comércio e valoriza parcerias que possam contribuir para uma maior inserção do país nas cadeias globais de valor, em particular as intensivas em conhecimento.",
+                "Vou à Ásia em busca de resultados concretos. Em Xangai, firmarei acordo para o estabelecimento, em São Paulo, do escritório regional para as Américas do Novo Banco de Desenvolvimento do Brics. Em Seul, estarei ao lado de meus colegas do Mercosul para abrir oficialmente as tratativas do bloco com a Coreia do Sul. Reforçarei, também, os entendimentos com o governo de Cingapura com vistas a um acordo comercial entre o Mercosul e aquele país. Em Pequim, aprofundarei com nossos embaixadores na Ásia exercício de coordenação iniciado no ano passado. A visita a Tóquio reveste-se de importância simbólica particular, em função das comemorações dos 110 anos do início da imigração japonesa no Brasil.",
+                "Além de buscar abrir mercados para produtos e serviços brasileiros, a aproximação com os países da Asean e outros países da Ásia favorece a internacionalização de empresas brasileiras. Várias empresas nacionais — grandes, médias, pequenas e até start-ups — têm presença em países que visitarei, beneficiando-se do ambiente de negócios e do ecossistema de inovação asiáticos para ganhar competitividade em terceiros mercados.",
+                "Com base em um diagnóstico das consequências de longo prazo da ascensão da Ásia para nossos interesses, estamos consolidando uma abrangente estratégia de ação para a região de modo a bem situar o Brasil na nova configuração internacional de poder. A viagem à Ásia é expressão de uma política externa que contribui para a expansão sustentada da economia brasileira, promovendo o comércio internacional, atraindo investidores e estimulando a internacionalização das empresas nacionais. Estamos no caminho certo e nele vamos prosseguir.",
+                "*Aloysio Nunes Ferreira é ministro das Relações Exteriores"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-05",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

@@ -1,0 +1,1021 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Declaração à imprensa do Ministro Mauro Vieira após reunião com a Ministra dos Negócios Estrangeiros da Indonésia, Retno Marsudi (Jacarta, 9/10/23)",
+            "subtitulo": "NA",
+            "data": "09/10/2023",
+            "horario": "14h43",
+            "datatime": "NA",
+            "data_atualizado": [
+                "09/10/2023"
+            ],
+            "horario_atualizado": [
+                "14h47"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/declaracao-a-imprensa-do-ministro-mauro-vieira-apos-reuniao-com-a-ministra-dos-negocios-estrangeiros-da-indonesia-retno-marsudi-jacarta-9-10-23",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "(Versão original em inglês)",
+                "At the meeting with Foreign Minister Retno Marsudi, we discussed the state of our bilateral relations, especially our Strategic Partnership that dates back to 2008 and is the only one Brazil maintains in Southeast Asia. We decided to relaunch our Strategic Partnership, by adopting a Plan of Action to be implemented along the next three years.",
+                "The new Plan of Action will guide our bilateral cooperation in areas such as trade and investment, renewable energy, sustainable development, health, science, technology, and innovation.",
+                "In the field of bioenergy cooperation, I had the honor to take part at the opening session of the seminar “Ethanol Talks – Sustainable Mobility”, earlier this morning, organized by the Brazilian private sector. I am glad the event attracted the interest of Indonesian authorities, policymakers, industry representatives and specialists. It is a sign of our commitment to cooperating with Indonesia in energy transition, taking advantage of our long experience in the use of biofuels in Brazil.",
+                "Foreign Minister Retno Marsudi and I went through the state of our bilateral trade and the flow of investments between our countries. I highlighted the Brazilian interest in supporting food security in Indonesia as a reliable supplier of food stocks. I highlighted the potential Brazil offers to expand exports of meat to feed the Indonesian market.",
+                "I am sure our countries will benefit from an enlarged cooperation in the area of defense. We agreed that the First Brazil-Indonesia Political-Military Dialogue will be held next year in Brazil.",
+                "We also agreed that Science, Technology and Innovation should be at a center stage in our bilateral relations. We need to work together to determine the best areas and ways to cooperate. Both countries may surely benefit from each other’s knowledge and expertise in many scientific and technological domains.",
+                "As Indonesia builds its new capital, Nusantara, I expressed Brazil´s readiness to cooperate by sharing our experience in the construction of Brasilia and the relocation of our capital in the 1960s.",
+                "We agreed that the Global South should work closer to bring their interests and needs to the heart of the international agenda. In this sense, Brazil has set three priorities for our G20 presidency next year: social inclusion and the fight against hunger and inequality; sustainable development; and the reform of the global governance institutions.",
+                "I commend the active leadership played by Indonesia in the G20 Presidency in 2022. Brazil will start its Presidency soon. We wish to build upon the extraordinary work done by our friends Indonesia, in 2022, and India, in 2023.",
+                "We value our joint work with Indonesia and the Democratic Republic of Congo in our Trilateral Alliance on Tropical Forests and Climate Action. Our countries have a leading voice on the topic as partners in the interest of environmental preservation and in facing the climate crisis.",
+                "This morning, under the Presidency of Indonesia, Brazil also held its First Trilateral Dialogue with ASEAN, with the presence of Foreign Minister Retno Marsudi and Secretary-General of ASEAN Kao Kim Hourn.",
+                "Brazil is very much looking forward for deepening cooperation with ASEAN in light of the Sectorial Dialogue Partnership recently established. We are aware of the economic advancements of Southeast Asia in the last decades. Brazil is ready to strengthen its relations and to foster cooperation with the region and with each of its member states.",
+                "To conclude, I also exchanged views with Minister Marsudi on the current developments in Israel and Palestine. I reteirated Brazil’s condemnation of the attacks against Israel and its condolences to the victims. All parties should immediately stop the violence and exercise maximum restraint in order to avoid further escalating the situation. Under the Brazilian presidency of the United Nations Security Council, we will redouble multilateral efforts to contain the spiral of violence and unblock the peace process. The current dynamics between Israel and Palestine are unsustainable and a solution is needed to this situation, with Palestine and Israel living together in peace and security, within mutually agreed and internationally recognized borders.",
+                "Thank you."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira na abertura do seminário \"Mobilidade Sustentável: Diálogos sobre Etanol\" - Jacarta, 9 de outubro de 2023",
+            "subtitulo": "NA",
+            "data": "09/10/2023",
+            "horario": "10h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "09/10/2023"
+            ],
+            "horario_atualizado": [
+                "10h39"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-abertura-do-seminario-mobilidade-sustentavel-dialogos-sobre-etanol-jacarta-9-de-outubro-de-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "(Tradução para o português)",
+                "É um prazer estar com vocês em Jacarta hoje para este seminário importante e oportuno.",
+                "O mundo enfrenta a necessidade premente de reduzir coletivamente as emissões, enquanto garantimos o acesso à energia para nossas populações, em um contexto de demanda crescente. Essa tarefa é demasiadamente complexa e urgente, e a única maneira de abordá-la é por meio da cooperação. Precisamos reunir os principais atores e partes interessadas – governos, atores privados, a comunidade acadêmica. Precisamos agir juntos, e, para isso, precisamos pensar juntos.",
+                "O seminário \"Diálogos sobre Etanol\" de hoje nos proporciona uma oportunidade para fazer exatamente isso: pensar juntos. Aqui discutiremos maneiras de descarbonizar o setor de mobilidade, concentrando-nos especificamente em como os biocombustíveis podem contribuir para esse objetivo.",
+                "Como a maioria de vocês sabe, o Brasil está trilhando o caminho dos biocombustíveis há quase cinco décadas, e acredito que temos uma história a contar, uma experiência a compartilhar. É uma história que pode desempenhar um papel e ser útil no esforço coletivo mundial em direção a um futuro próspero, com baixo teor de carbono.",
+                "Gostaria de prestar homenagem à UNICA e à APLA por reunirem painéis tão interessantes abordando tópicos como a importância de marcos regulatórios; o uso do etanol na indústria automobilística; soluções tecnológicas para a redução de emissões no setor de mobilidade; bem como a produção e uso de etanol no Sudeste Asiático.",
+                "Também saudamos esta iniciativa como um marco na renovada disposição do Brasil em promover ainda mais a cooperação e o diálogo com nossos anfitriões de hoje, a Indonésia, e, é claro, os países membros da ASEAN. A Parceria Estratégica renovada entre o Brasil e a Indonésia e a Parceria de Diálogo Setorial Brasil-ASEAN, recentemente estabelecida, oferecem marcos promissores para o fortalecimento de nossos laços, inclusive no setor de bioenergia.",
+                "No âmbito multilateral, o Brasil também participa de iniciativas-chave como a Parceria Global de Bioenergia e a Plataforma para o Biofuturo, que ajudam a garantir um lugar para a bioenergia no debate global sobre transição energética. Temos o orgulho de ser o primeiro país a liderar a Plataforma para o Biofuturo, que agora faz parte da Clean Energy Ministerial.",
+                "O Brasil – juntamente com Argentina, Bangladesh, Emirados Árabes Unidos, Estados Unidos, Índia, Itália, Maurício e Singapura – é membro fundador da Aliança Global para os Biocombustíveis, lançada durante a Cúpula do G20 em Nova Délhi em setembro passado. Acredito que essa iniciativa pode contribuir significativamente para o desenvolvimento de um mercado global de biocombustíveis. Países do Sul Global poderiam desempenhar um papel importante nesse mercado promissor. Encorajo os países da ASEAN a considerar ingressar na Aliança Global para os Biocombustíveis.",
+                "Senhoras e senhores,",
+                "Não há uma única solução quando se trata de transição energética. O Brasil acredita que cada país deve ser capaz de escolher os caminhos tecnológicos que melhor se adequem às suas prioridades e realidades nacionais em seus esforços para descarbonizar o setor de energia e avançar em direção a uma economia de baixo carbono ou neutra em carbono.",
+                "No Brasil, mais de 85% da matriz elétrica e 48% da energia total correspondem a uma ampla variedade de fontes limpas e renováveis. Esses resultados foram alcançados com tecnologias adaptadas localmente, aproveitando nossas realidades nacionais.",
+                "Tenho orgulho de dizer que os formuladores de políticas energéticas do Brasil nunca negligenciaram a bioenergia. Pelo contrário: a bioenergia moderna e sustentável é a fonte de energia limpa mais importante em nosso país, correspondendo a quase um terço do fornecimento de energia total. A experiência brasileira demonstra que biocombustíveis modernos e sustentáveis podem ser uma solução competitiva. Graças aos biocombustíveis, o Brasil evitou a queima de 2,5 bilhões de barris de petróleo ao longo dessas cinco décadas. Graças aos biocombustíveis, o Brasil é o segundo maior criador de empregos verdes no mundo.",
+                "Em nossa experiência, a produção e o uso de biocombustíveis dependem muito de um ambiente favorável – em outras palavras, dependem de políticas públicas. Por meio de um programa de bioenergia inovador e único chamado RENOVABIO, o Brasil adotou um marco legal que criou as condições para metas de redução de emissões e a negociação de créditos de carbono para mitigar emissões no setor de mobilidade. Agora planejamos expandir esse programa para os biocombustíveis de segunda geração, como combustíveis de aviação sustentáveis, o biometano, o biodiesel, o diesel verde e biocombustíveis de aviação.",
+                "Espero que essa e outras experiências nacionais que compartilharemos hoje contribuam para aumentar a produção e o uso de biocombustíveis no Sudeste Asiático. Estamos geograficamente distantes, mas compartilhamos várias características sociais, econômicas e ambientais. Graças a essas semelhanças, confio que nossa história de bioenergia será do seu interesse.",
+                "Todos vocês estão aqui porque também reconhecem a importância de construir uma estratégia de bioenergia abrangente, sustentável, inteligente e em larga escala. Em particular, o Brasil saúda a estratégia ambiciosa da Indonésia traduzida no Programa de Bioetanol de Cana-de-Açúcar para a Segurança Energética. Estamos prontos para fortalecer o diálogo sobre este assunto.",
+                "Durante nossa próxima presidência do G20 e como anfitriões da Clean Energy Ministerial no próximo ano, o Brasil continuará a lançar luz sobre este debate. A bioenergia é especialmente importante para os países em desenvolvimento, pois ajuda a criar empregos de alta qualidade, reduzir as emissões de gases de efeito estufa, levar o desenvolvimento para áreas rurais e aumentar a segurança energética.",
+                "Como destacado pela IRENA e pela IEA, sem aumentar o uso de bioenergia, o mundo não alcançará seus objetivos climáticos. De nossa perspectiva, o apelo da IEA para que o mundo triplique seu suprimento de bioenergia moderna até 2050 é viável, desde que sejam estabelecidas políticas adequadas, estruturas, tecnologia, financiamento e boas práticas.",
+                "Aguardo com expectativa trabalhar com todos vocês e desejo a vocês um seminário muito frutífero hoje. Obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Declaração à imprensa do Ministro Mauro Vieira após briefing do Alto Comissário da ONU para Refugiados ao CSNU",
+            "subtitulo": "Nova York, 31 de outubro de 2023",
+            "data": "31/10/2023",
+            "horario": "22h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "03/11/2023"
+            ],
+            "horario_atualizado": [
+                "13h43"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/declaracao-a-imprensa-do-ministro-mauro-vieira-apos-briefing-do-alto-comissario-da-onu-para-refugiados-ao-csnu",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Justiça e Segurança"
+            ],
+            "paragrafos": [
+                "(Versão original em inglês)",
+                "I’m addressing you in my capacity as Minister of Foreign Affairs of Brazil.",
+                "October is traditionally the month with the busiest schedule for the Security Council. In October, the UNSC adopted 7 resolutions and a presidential statement. The first of these resolutions, concerning the issue of Haiti, was adopted on our first day in the presidency.",
+                "Brazil always sought dialogue with the aim of finding compromise among the UNSC members, always focusing on the human aspects of conflicts.",
+                "Brazil has concluded its presidency today; however, we’ll continue to engage in conversations with the Security Council members with a view to achieving compromise on the pressing and grave situation in the Middle East right now.",
+                "Today, we kept hearing concerning developments on the ground, as we’ve worked hard with the E10 to achieve an agreed text on the need for humanitarian pauses and release of hostages.",
+                "These developments and the risks related to them require additional time to be properly assessed before we decide on moving forward with another draft resolution.",
+                "We hope that the Security Council members will find a way to unlock decisions on the Middle East.",
+                "As I highlighted yesterday, the Middle East continues to be the most thwarted issue on the agenda, with 1/3 of the vetoes cast against matters related to the region. Since 2016, no resolution is passed on the question of Palestine. As the human crises unfolds before our eyes, this pattern in the Security Council must change.",
+                "I repeat: there can be no rescue of hostages or humanitarian aid under shells.",
+                "As I mentioned yesterday in the open debate on the matter, it is disheartening to watch the conflict claim the lives of so many innocent people and not be able to reach consensus on the need to stop human suffering on both sides. In the context of the current deadlock in the Security Council, the 10th Emergency Special Session of the General Assembly, convened last Friday on the principle of uniting for peace, sent a strong message calling for a humanitarian truce leading to a cessation of hostilities.",
+                "The ongoing crisis between Israel and Hamas has mobilized much of the Security Council's attention during the Brazilian presidency. Several meetings were held on the issue, including two emergency meetings on October 8 and October 13.",
+                "On October 24, I presided over the quarterly open debate of the Council on the situation in the Middle East. The significant number of ministerial attendance on the occasion revealed the concern of the world with the human crises unfolding in the region and the threat of spillover.",
+                "On October 30, at the request of the United Arab Emirates, I chaired another emergency session to discuss the dire situation in the Gaza Strip, when we heard very disturbing reports on the situation on the ground by the briefers, as well as many calls for the Security Council to act.",
+                "Throughout this period, there were multiple attempts to pass resolutions regarding the situation in Gaza.",
+                "Four draft resolutions were rejected by the Council (one Brazilian, two Russian, and one American), either through the use of veto or by failing to secure the minimum number of positive votes (9).",
+                "Along with representatives of the elected Council members (E10), Brazil has led efforts to negotiate a new draft resolution that calls for the urgent establishment of humanitarian pauses. As long as we remain in the Security Council, we will continue to work for a responsible answer to the dramatic human crises unfolding in Israel and Gaza. The world is waiting for an unequivocal decision of the Council that calls for the end of the human suffering.",
+                "As the current President of the Security Council, Brazil has been working to prevent an escalation of the conflict, protect the civilian population, and alleviate the dramatic humanitarian situation in the Gaza Strip.",
+                "(Tradução para o português)",
+                "Dirijo-me a vocês na qualidade de Ministro das Relações Exteriores do Brasil.",
+                "Tradicionalmente, outubro é o mês em que o Conselho de Segurança tem a agenda mais movimentada. Em outubro, o CSNU adotou sete resoluções e uma declaração presidencial. A primeira dessas resoluções, relativa à questão do Haiti, foi adotada no primeiro dia da nossa presidência.",
+                "O Brasil sempre buscou o diálogo com o objetivo de encontrar consenso entre os membros do CSNU, sempre com foco nos aspectos humanos dos conflitos.",
+                "O Brasil concluiu hoje sua presidência; no entanto, continuaremos a dialogar com os membros do Conselho de Segurança a fim de alcançarmos um consenso sobre a situação urgente e grave no Oriente Médio neste exato momento.",
+                "Hoje, tivemos conhecimento, com preocupação, dos acontecimentos no terreno, enquanto trabalhamos arduamente com o E10 para chegar a um texto acordado sobre a necessidade de pausas humanitárias e libertação de reféns.",
+                "Esses desdobramentos e os riscos a eles relacionados requerem mais tempo para serem devidamente avaliados antes de decidirmos avançar com outro projeto de resolução.",
+                "Esperamos que os membros do Conselho de Segurança encontrem uma forma de desbloquear as decisões sobre o Oriente Médio.",
+                "Como destaquei ontem, o Oriente Médio continua a ser o tema mais bloqueado da agenda, com 1/3 dos vetos aplicados a assuntos relacionados à região. Desde 2016, nenhuma resolução foi aprovada sobre a questão da Palestina. À medida que as crises humanas ocorrem diante dos nossos olhos, esse padrão no Conselho de Segurança precisa mudar.",
+                "Repito: não pode haver resgate de reféns nem ajuda humanitária sob o ataque de bombas.",
+                "Como mencionei, ontem, no debate aberto sobre a questão, é desalentador ver o conflito ceifar a vida de tantas pessoas inocentes e não ser possível chegar a um consenso sobre a necessidade de pôr fim ao sofrimento humano de ambos os lados. No contexto do atual impasse no Conselho de Segurança, a 10ª Sessão Especial de Emergência da Assembleia Geral, convocada na sexta-feira passada, com base no princípio da união pela paz, enviou uma mensagem de forte apelo a uma trégua humanitária que conduza à cessação das hostilidades.",
+                "A crise em curso entre Israel e o Hamas mobilizou grande parte da atenção do Conselho de Segurança durante a presidência brasileira. Várias reuniões foram realizadas sobre o assunto, incluindo duas reuniões de emergência, em 8 e 13 de outubro.",
+                "No dia 24 de Outubro, presidi o debate aberto trimestral do Conselho sobre a situação no Oriente Médio. O expressivo número de ministros presentes na ocasião revelou a preocupação do mundo com as crises humanas que se desencadeiam na região e o risco de elas se espalharem.",
+                "Em 30 de Outubro, a pedido dos Emirados Árabes Unidos, presidi outra sessão emergencial para discutir a terrível situação na Faixa de Gaza, quando ouvimos relatos muito perturbadores sobre a situação no terreno, bem como muitos apelos por uma ação do Conselho de Segurança.",
+                "Ao longo desse período, houve múltiplas tentativas de se aprovarem resoluções sobre a situação em Gaza.",
+                "Quatro projetos de resolução foram rejeitados pelo Conselho (um do Brasil, dois da Rússia e um dos EUA), seja pelo uso do veto ou por não terem conseguido o número mínimo de votos favoráveis (9).",
+                "Juntamente com representantes dos membros eleitos do Conselho (E10), o Brasil liderou esforços para negociar um novo projeto de resolução que prevê o estabelecimento urgente de pausas humanitárias. Enquanto permanecermos no Conselho de Segurança, continuaremos a trabalhar para uma resposta responsável às dramáticas crises humanas que se desencadeiam em Israel e em Gaza. O mundo aguarda por uma decisão inequívoca do Conselho que apele para o fim do sofrimento humano.",
+                "Como atual Presidente do Conselho de Segurança, o Brasil tem trabalhado para evitar uma escalada do conflito, proteger a população civil e aliviar a dramática situação humanitária na Faixa de Gaza."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Intervenção do Ministro Mauro Vieira no briefing anual do Alto Comissário das Nações Unidas para Refugiados no CSNU",
+            "subtitulo": "Nova York, 31 de outubro de 2023",
+            "data": "31/10/2023",
+            "horario": "15h40",
+            "datatime": "NA",
+            "data_atualizado": [
+                "01/11/2023"
+            ],
+            "horario_atualizado": [
+                "12h14"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/intervencao-do-ministro-mauro-vieira-no-briefing-anual-do-alto-comissario-das-nacoes-unidas-para-refugiados-no-csnu",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Justiça e Segurança"
+            ],
+            "paragrafos": [
+                "(Tradução para o português)",
+                "Ilustres Colegas,",
+                "Agradeço ao Alto Comissário da ONU, Filippo Grandi, por sua apresentação. O Brasil tem o prazer de realizar, sob sua presidência, este briefing anual, que é uma oportunidade para nos atualizarmos sobre a situação das pessoas deslocadas nas diferentes regiões do mundo. Permite-nos também refletir sobre os fatores que causam o deslocamento, dentre os quais os conflitos têm um trágico papel de destaque.",
+                "De acordo com o último Relatório de Tendências Globais do ACNUR, até o final de 2022, 108,4 milhões de pessoas em todo o mundo haviam-se deslocado. É provável que esse número tenha ultrapassado os 114 milhões ao final de setembro e provavelmente continuará a crescer à medida que o conflito em Gaza se estende.",
+                "Pessoas deslocadas tiveram as suas vidas profundamente afetadas por diversas razões, tais como perseguições, conflitos, violência, violações dos direitos humanos e acontecimentos que perturbam gravemente a ordem pública.",
+                "Ao nos reunirmos hoje para discutir a situação das pessoas deslocadas, não podemos ignorar a estatística do Escritório das Nações Unidas para a Coordenação de Assuntos Humanitários, segundo a qual 1,4 milhões de pessoas em Gaza deixaram suas casas devido ao conflito em curso desde 7 de outubro. Ainda segundo as Nações Unidas, quase 700 mil pessoas se encontram em 150 instalações da UNRWA e mais de 200 mil estão abrigados em hospitais, escolas, igrejas e outros edifícios públicos.",
+                "Países de renda baixa e média mantém, generosamente, suas fronteiras abertas e acolhem cerca de 90% das pessoas deslocadas. Seus esforços devem receber o apoio sustentado e previsível da comunidade internacional, com base em responsabilidades compartilhadas e devida consideração do papel fundamental desempenhado pelos países de acolhimento.",
+                "As pessoas deslocadas à força não devem ser tratadas como uma ameaça à paz e à segurança internacionais. Pelo contrário; são elas que pagam um alto preço por rivalidades geopolíticas e pela incapacidade da comunidade internacional, especialmente do Conselho de Segurança, em garantir a paz.",
+                "Os Estados devem garantir que as medidas destinadas à governança de fronteiras estejam em conformidade com o direito internacional humanitário, o direito internacional dos refugiados e os direitos humanos. Isso inclui, entre outros, a proibição a expulsões coletivas; o princípio da igualdade e da não discriminação; o princípio do non-refoulement; o direito de buscar asilo; o direito à vida; a proibição da tortura e de outros tratamentos cruéis, desumanos ou degradantes; a promoção da igualdade de gênero; e os direitos e o melhor interesse da criança.",
+                "Ilustres Colegas,",
+                "O sistema brasileiro de proteção a refugiados tem como base o respeito à dignidade humana e a primazia dos direitos humanos. Em consonância com a Declaração de Cartagena de 1984, adotamos legislação que aplica uma definição ampla de refugiado em relação à Convenção de 1951, permitindo, desse modo, proteger, de forma mais abrangente, os solicitantes de asilo.",
+                "O Brasil tem concedido vistos humanitários a pessoas afetadas pelas crises no Afeganistão, na Síria, no Haiti e na Ucrânia. Essa política concede acesso regular e seguro ao nosso território.",
+                "Lançamos a “Operação Acolhida” para receber e integrar os venezuelanos que chegaram ao nosso território pela fronteira norte a partir de 2017.",
+                "Muitos deles já retornaram, mas aqueles que decidiram permanecer no Brasil têm pleno acesso a todos os serviços públicos, incluindo educação, saúde e benefícios sociais, em igualdade de condições com os nossos nacionais. No âmbito da “Estratégia de Interiorização” da operação, cerca de 115 mil pessoas tiveram a oportunidade de optar pela realocação para quase mil cidades do Brasil.",
+                "Ilustres Colegas,",
+                "O Pacto Global para Refugiados atesta o fato de que não existe uma solução sustentável para os refugiados sem a cooperação internacional e fornece um quadro inclusivo e variado para a nossa ação conjunta.",
+                "Espera-se que o Segundo Fórum Global sobre Refugiados, a ocorrer em Genebra, no próximo mês de dezembro, aumente a conscientização e incentive compromissos ambiciosos, compatíveis com o desafio apresentado pelos níveis recordes de deslocamento que temos testemunhado.",
+                "O Fórum Global será oportunidade para avaliar a situação dos deslocamentos em escala global e a situação mais imediata e dramática de Gaza.",
+                "Será, também, oportunidade para que líderes mundiais reiterem a necessidade de revogar medidas relacionadas a quaisquer movimentos forçados da população civil ou de indivíduos civis que não estejam em total conformidade com o direito internacional, incluindo o direito internacional humanitário e os direitos humanos.",
+                "O Brasil elogia o árduo trabalho do ACNUR e incentiva um engajamento ativo da comunidade internacional, no mais alto nível possível, da sociedade civil e da academia, em virtude da necessidade de aliviar o sofrimento dos mais necessitados.",
+                "Obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Intervenção do Ministro Mauro Vieira em sessão emergencial do Conselho de Segurança da ONU sobre situação na Faixa de Gaza",
+            "subtitulo": "Nova York, 30 de outubro de 2023",
+            "data": "30/10/2023",
+            "horario": "17h41",
+            "datatime": "NA",
+            "data_atualizado": [
+                "30/10/2023"
+            ],
+            "horario_atualizado": [
+                "18h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/intervencao-do-ministro-mauro-vieira-em-sessao-emergencial-do-conselho-de-seguranca-da-onu-sobre-situacao-na-faixa-de-gaza",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "(Versão original em inglês)",
+                "Distinguished representatives,",
+                "I thank the briefers for their extensive information on the humanitarian situation on the ground and commend the work of their teams in locus and elsewhere. They honor once again the work of this Organization and everything it stands for.",
+                "Following instructions by President Lula, I come before you again today with a profound sense of urgency and dismay.",
+                "We must always bear in mind the human faces on both sides of the conflict.",
+                "Therefore, I extend Brazil’s deepest condolences to the families and friends of all civilians, including the brave and dedicated United Nations personnel, who have lost their lives in the ongoing crises stemming from the protracted conflict in Israel and Palestine, tragically reignited by the terrorist actions by Hamas against Israel on October 7th. Nothing justifies such crimes. All hostages must be immediately and unconditionally released and access to them by the Red Cross must be immediately granted.",
+                "At the same time, the current situation in Gaza is deeply appalling and indefensible by any humane standard and under international humanitarian law. An alarming humanitarian catastrophe is unfolding before our eyes, with thousands of civilians, including an overwhelming and intolerable number of children, being punished by crimes they have not committed. In 3 weeks, we have watched this conflict claim the lives of more than 8 thousand civilians, of whom more than 3 thousand are children. Since the last time I spoke in this Council, just last week, the count of children deaths increased by 1 thousand.",
+                "Meanwhile, the Security Council holds meetings and hears speeches, without being able to take a fundamental decision: to end the human suffering on the ground. As thousands in Israel and Palestine mourn their loved ones, as Israelis agonize over the fate of hostages, as Gazans suffer under relentless military operations that are killing civilians, including an intolerable number of children, we have the means to get something done and yet we repeatedly and shamefully fail.",
+                "Since 7 October, we have met several times and considered four draft resolutions. However, we remain at an impasse due to internal disagreements, particularly among some permanent members, and thanks to the persistent use of the Council to achieve self-oriented purposes, instead of putting the protection of civilians above all. The grave and unprecedented human crises before us require that sterile rivalries be relinquished. That the Council is not able to discharge its responsibility of safeguarding international peace and security due to old antagonisms is morally unacceptable.",
+                "Let us not fool ourselves. The eyes of the world are staring at us and will not move away from our distressing inability to act. They all see that our incapacity to unite in response to the human crises facing us today questions the very raison d'être of this Council.  Someone has even written that, in addition to civilians, this body lies beneath the rubles in Gaza. The difference is that we are our own saviors. We just need to do what is right: to spare innocent lives from the scourge of wars.",
+                "There may still be time to rescue the Council and sustain the hope that many of us still have in our capacity to be true to our mandate under the Charter. But this is possible only if there is enough political will to compromise, and to be minimally balanced and inclusive in our diagnosis and way forward. Failure to do so – yet another failure - will add an increasingly higher cost in human lives above all, but also to multilateralism, in general, and the United Nations and this Council, in particular.",
+                "Last week, a hope for consensus seemed to emerge, echoing the Secretary-General's call for a humanitarian ceasefire, as the 10th Emergency Special Session of the General Assembly passed a resolution that called for a humanitarian truce leading to a cessation of hostilities. A light at the end of the tunnel seemed to appear also when the Secretary-General, who had personally been in the region to assess the situation on the ground, announced the opening of the Rafah border crossing for some initial aid deliveries, and some hostages were released. The United Nations, through its Secretariat, under the leadership of UNSG Antonio Guterres, UNRWA and other bodies and agencies, has been working tirelessly to address the human crises facing us. It rests on the Security Council the responsibility to follow through.",
+                "The price of inaction is unacceptably high. The growing urgency for the families of the hostages and the unbearable pain for the civilian population of Gaza cannot be understated. The positive first steps taken by the UN bodies and agencies do not go far enough, as the escalation of the conflict makes the situation more dire by the hour. The relevance of a resolution of the Security Council lies on the need for sustained humanitarian aid and for granting safe working conditions for those involved in rescuing hostages and providing humanitarian work. The cessation of hostilities is therefore to the benefit of the civilian population on both sides. At the risk of reinstating the obvious, I want to put it bluntly: there cannot be rescuing of hostages and humanitarian aid under shells.",
+                "This is why Brazil and fellow E-10 members have been working tirelessly to try to get this Council to act more decisively since the last showdown around proposed resolutions.",
+                "In Brazil’s view, the main goals are clear: the immediate and unconditional release of all hostages, and the end of violence, through whatever modalities can be agreed without further delay, so that rapid, safe, unhindered, and sufficient humanitarian aid can be delivered to the strained people of Gaza. Besides the 8 thousand lives lost, many more are about to meet their fatal destiny, as hospitals have no means to keep providing basic treatment for the patients. Therefore, providing essential resources to those in Gaza, including water, food, medical supplies, fuel and electricity, is urgent and imperative.",
+                "Surgeries are being performed without anesthetics, lives are being lost at hospitals for lack of energy and the most basic medical supplies. Food and water are scarce, and prices have skyrocketed. And the flow of humanitarian aid, so far, amounts to little more than a photo-op.",
+                "Tanks and troops are on the ground in Gaza, and time for action is running out. My questions to you all are: if not now, when? How many more lives will be lost until we finally move from rhetoric to action?",
+                "It is also critical and urgent to allow for the safe and immediate evacuation of foreign nationals from Gaza and from elsewhere in the region if they feel threatened.",
+                "While every state has the right and duty to protect its citizens, actions must be consistent with international law and international humanitarian law, in particular the principles of distinction, proportionality, precaution, military necessity, and humanity. The right and duty to protect a state’s population cannot and should not come at the cost of more death of civilians and more destruction of civilian infrastructure. As UNSG Guterres has repeatedly reminded us: even wars have rules.",
+                "Any indiscriminate attacks against civilians and critical infrastructure, as well as depriving civilians of basic goods and services, are morally unjustifiable and illegal under international humanitarian law. Brazil strongly condemns actions that blur the line between civilians and combatants.",
+                "Today, UNRWA shed light on the grim and disheartening reality in Gaza, highlighting the objectionable level of destruction of civilian infrastructure and the tragic loss of innocent lives, including of women, children, and at least 35 of its staff. The World Health Organization has been constantly recalling the urgent need for the cessation of violence and for humanitarian action at a time when Gaza's health infrastructure is on the verge of collapse.",
+                "Beyond the immediate and very urgent humanitarian considerations, a threat to regional stability looms, and any repercussions could be catastrophic. Brazil urges a united shift towards de-escalation and calls on all parties to act with the utmost restraint. A cessation of hostilities is urgently needed to create the conditions for a full, durable and respected ceasefire and the resumption of a credible peace process.",
+                "All this is at stake as we keep our efforts to get this Council to act with a unified voice.",
+                "Distinguished Members of the Council,",
+                "International humanitarian law provides a clear path to avoid or at least greatly alleviate civilian suffering. The framework for collective action is clear.",
+                "Our collective response to this crisis, which we all fear will only worsen if nothing is done, will be a defining moment for the United Nations. The staggering fact is that the Security Council does not have a reasonable record when it comes to maintaining international peace and security in the Middle East: issues related to the region, in general, received 35% of the 250 vetoes of the Permanent Members. Since 2016, the Council has not been able to pass a single resolution on the situation in Palestine. The situation in the Middle East is therefore by far one of the most blocked issues in the Security Council. This speaks of ineffectiveness of the governance system and of the lack of representation of certain parts of the world in this body.",
+                "A decision on the humanitarian aspects of the current crises will certainly not redress the historic failure of the Security Council regarding the situation in the Middle East. It will however stop further human suffering now. Thank you."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Pronunciamento do Ministro Mauro Vieira por ocasião das cerimônias de celebração dos 25 anos do Acordo de Paz de Brasília entre Equador e Peru",
+            "subtitulo": "Lima, 26 de outubro de 2023",
+            "data": "26/10/2023",
+            "horario": "15h59",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/10/2023"
+            ],
+            "horario_atualizado": [
+                "16h15"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/pronunciamento-do-ministro-mauro-vieira-por-ocasiao-das-cerimonias-de-celebracao-dos-25-anos-do-acordo-de-paz-de-brasilia-entre-equador-e-peru",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Versão original em espanhol",
+                "Excelentísima Señora Dina Boluarte, Presidente de la República del Perú,",
+                "Excelentísimo Señor Guillermo Lasso, Presidente de la República de Ecuador,",
+                "Excelentísima Señora Embajadora Ana Cecilia Gervasi, Ministra de Relaciones Exteriores de la República del Perú,",
+                "Excelentísimo Señor Gustavo Manrique, Ministro de Relaciones Exteriores y Movilidad Humana de Ecuador,",
+                "Excelentísimo Señor Alberto van Klaveren Stork, Ministro de Relaciones Exteriores de la República de Chile,",
+                "Excelentísimo Señor Embajador Pablo Tettamanti, Secretario de Relaciones Exteriores de la República Argentina,",
+                "Excelentísimo Señor Kevin Sullivan, representante del Departamento de Estado de los Estados Unidos de América,",
+                "Estimados Embajadores y representantes del cuerpo diplomático,",
+                "Señoras y señores,",
+                "Es un honor y una satisfacción estar aquí en Lima, representando al Presidente Luiz Inácio Lula da Silva, para traer la palabra de Brasil a esta celebración de los 25 años del Acuerdo de Paz de Brasilia entre Perú y Ecuador.",
+                "Es una ocasión no sólo para celebrar un hito importante para dos países hermanos, sino también para celebrar lo que hemos alcanzado desde ese momento – un espacio sudamericano basado en el diálogo y en las relaciones amistosas entre nuestros países.",
+                "Hace exactos 25 años, la firma de este importante acuerdo selló definitivamente la tan esperada paz entre Perú y Ecuador, culminando un largo proceso político y diplomático que empezó con la firma del protocolo de Río de Janeiro en 1942. Fue un momento históricamente importante en varios frentes.",
+                "Para los dos países vecinos, representó el fin de una larga disputa territorial, devolviendo a las sociedades peruana y ecuatoriana la esperanza de un futuro de amistad, convivencia y prosperidad compartidas. Para América del Sur, el acuerdo representó la reafirmación de nuestra vocación en favor de la paz solidaria, basada en las aspiraciones y anhelos legítimos de nuestros pueblos. A nivel internacional, ratificó los beneficios que se obtienen cuando se elige la diplomacia y el derecho internacional como formas de superar las diferencias.",
+                "Mediante la firma del Acta Presidencial de Brasilia, Perú y Ecuador demostraron al mundo el potencial de una reconciliación pacífica.",
+                "La paz, la prosperidad y el desarrollo siguen siendo algunos de los principios rectores de nuestra fraterna cooperación sudamericana. Creo que no sería exagerado decir que el Acuerdo de Paz de Brasilia de hecho allanó el camino para la profundización de nuestro proceso de integración regional en América del Sur, al señalar la capacidad de crear consensos y priorizar las soluciones comunes a retos compartidos.",
+                "Hoy, este entendimiento se materializa en nuestro propósito de relanzar y consolidar la integración sudamericana, basada en la visión de que la América del Sur constituye una región de paz y cooperación, de diálogo y de respeto a la diversidad de nuestros pueblos. Una región comprometida, además, con la democracia y los derechos humanos, con el desarrollo sostenible y la justicia social, el Estado de derecho y la estabilidad institucional.",
+                "En un escenario en el que el mundo se enfrenta a múltiples retos a la paz y la seguridad internacional, América del Sur puede ejercer un rol clave en el escenario global, al promover el apoyo incondicional a la paz y el rechazo al uso de la fuerza.",
+                "En un momento en el que conflictos internacionales provocan una considerable escalada de la violencia y de las crisis humanitarias alrededor del mundo, es más importante que nunca que actuemos con firmeza y solidaridad para tender puentes, fomentar el diálogo y priorizar los canales diplomáticos para la resolución de conflictos. En medio de las hostilidades, es la población civil – especialmente grupos vulnerables, como mujeres, niños y ancianos – que se ve significativamente más afectada.",
+                "Por este motivo, el Acuerdo de Brasilia nos deja un legado excepcional sobre los beneficios de la convivencia entre Estados construida de manera solidaria y cooperativa, basada en la resolución pacífica de conflictos.",
+                "Este actualísimo legado es, a la vez, la visión exterior del gobierno del Presidente Lula: cuando los Estados eligen la vía del diálogo, se crean las condiciones para el desarrollo, la prosperidad, la inclusión y la tolerancia, permitiendo que las próximas generaciones puedan mirar hacia el futuro con confianza y optimismo.",
+                "En particular, como subraya constantemente el Presidente Lula, el acercamiento y la comprensión entre nuestros países son decisivos para la construcción de una América del Sur pacífica, unida y actuante en el mundo. Fueron esos los ejes del “Consenso de Brasília” que resultó de la cumbre de líderes sudamericanos el último mes de mayo en la capital de Brasil, y serán esos los ejes de nuestra política junto a nuestros socios regionales.",
+                "Permítanme mencionar que el proceso de paz entre Perú y Ecuador no hubiera sido posible sin el importante rol desempeñado por los países garantes que participaron de las tratativas y negociaciones entre los gobiernos peruano y ecuatoriano.",
+                "Nos enorgullece haber podido hacer un aporte diplomático – junto con Argentina, Chile y Estados Unidos – a los intensos y valientes esfuerzos emprendidos por Perú y Ecuador por la paz. Entre 1995 y 1998, a partir del ejercicio del diálogo y la confianza mutua, nuestros países colectivamente se empeñaron en la consolidación del consenso entre ambos lados, en lo que conduciría a un gran momento de la historia sudamericana.",
+                "Subrayo, también, el importante papel desempeñado por la Misión de Observación Militar Ecuador-Perú (MOMEP). Durante sus cinco años de funcionamiento, bajo la coordinación de Brasil, la MOMEP logró obtener la consolidación de un alto el fuego, la separación de fuerzas y la desmilitarización de la zona de conflicto.",
+                "Tengo el honor y la satisfacción, además, de rendir homenaje al papel decisivo de los dirigentes y diplomáticos brasileños que trabajaron de forma incansable para concretar el Acuerdo de Paz. Primeramente, quiero reconocer el rol del Presidente Fernando Henrique Cardoso, quien se involucró directamente en el proceso, desde Brasília, con un alto sentido de la importancia de la paz para la construcción de la integración sudamericana.",
+                "También quiero destacar la figura de uno de mis antecesores en ese período, el Embajador, hoy fallecido, Luiz Felipe Lampreia. Subrayo la contribución estratégica e intelectual de uno de nuestros Subsecretarios de Asuntos Políticos durante el proceso negociador, el fallecido Embajador Ivan Cannabrava (1996-1998), quien siempre ha considerado su participación en esas negociaciones como uno de los más importantes logros de su carrera.",
+                "Tengo hoy en mi comitiva el Embajador Francisco Cannabrava, hijo de Ivan Cannabrava, en cuya presencia rindo homenaje a todos esos y a otros diplomáticos que contribuyeron para la consolidación de una paz duradera en nuestra región.",
+                "Agradezco una vez más por la oportunidad de participar en esta celebración simbólica de la amistad peruano-ecuatoriana y, más ampliamente, de la fraternidad sudamericana.",
+                "Muchas gracias."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Intervenção do Ministro Mauro Vieira no debate do Conselho de Segurança da ONU sobre Mulheres, Paz e Segurança - Nova York, 25 de outubro de 2023",
+            "subtitulo": "NA",
+            "data": "25/10/2023",
+            "horario": "12h41",
+            "datatime": "NA",
+            "data_atualizado": [
+                "25/10/2023"
+            ],
+            "horario_atualizado": [
+                "12h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/intervencao-do-ministro-mauro-vieira-no-debate-do-conselho-de-seguranca-da-onu-sobre-mulheres-paz-e-seguranca-nova-york-25-de-outubro-de-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "(Versão original em inglês)",
+                "­­­­­­I am honored to preside over this year`s annual open debate on Women, Peace and Security.",
+                "I thank the Secretary-General for his opening remarks as well as Ms. Sima Bahous for her insightful presentation. I also thank Mrs. Mirjana Spoljaric, President of the International Committee of the Red Cross; Ms Hala Al-Karib, Regional Director of the Strategic Initiative for Women in the Horn of Africa; and Ambassador Glivânia Oliveira, Representative of Brazil as Guarantor at the Peace Dialogue Table between the Government of Colombia and the National Liberation Army, for their important contributions for today`s debate.",
+                "Given the current concerns regarding the Security Council`s ability to act decisively on many pressing issues, it seems fitting to recall the original and unrealized transformative ambition of resolution 1325, of 2000.",
+                "Advocates for resolution 1325, both from governments and from civil society, knew that only women´s full, equal and meaningful participation in peace and security processes, as well as in the design of defense and security public policies could ensure their effectiveness and truly transform traditional power structures. The absence of women in decision-making spaces where wars and armed conflicts are discussed is incompatible with the need to promote a culture of peace.",
+                "The ten existing WPS resolutions provide a crucial framework for national policies conducive to the equitable participation of women in peace and security, and must be followed-up with concrete action.",
+                "Women from Latin America, Africa, and developing countries in general are insufficiently accounted for in texts and events pertaining to WPS. This is particularly troubling given the fundamental contribution of women in the Global South to peace and security in their respective regions.",
+                "And this is the case also here at the United Nations, where generations of women, although in insufficient numbers, have left their marks. Today I pay tribute to one of them: Dr. Bertha Lutz, a Brazilian politician and laureate scientist. Already in 1945, in San Francisco, she had a critical role in including gender equality as a pre-requisite for the work of this organization. She firmly defended language on the equal rights of men and women in the preamble of our charter, as well as in its article 8.",
+                "Fifty-five years prior to resolution 1325, Dr. Lutz and other women delegates understood that this Council needed the contribution of women in order to avoid the horrors of a new World War. Therefore, it is only a matter of justice that Brazil dedicates the presidency of this annual open debate to the memory of this great Brazilian, a true pioneer of the women, peace and security agenda.",
+                "The vision of Dr. Lutz and other brave women of her time has yet to be realized. Women’s full, equal, and meaningful participation in international peace and security is still restricted by predominantly economic, political, and social structures, and multiple forms of violence and intimidation, both on and off-line. The gender perspective is still insufficiently taken into account – be it in conflict prevention, relief or post-conflict recovery.",
+                "Discussions on the link between gender norms and challenges to peace and security have also been very limited in the 23 years of the Women, Peace and Security agenda. Achieving gender equality and enhancing women's participation in peace and security requires challenging and overcoming deeply entrenched gender norms and stereotypes that perpetuate women’s exclusion and marginalization.",
+                "We member states, alongside international organizations and civil society should continue to work together – and work harder - to promote transformative cultural and social changes that support women's rights and participation. This is a task for us all, men and women, inside and outside the United Nations, to create a bold and united force for gender equality.",
+                "In this regard, we commend the Shared-Commitments members for their relentless advocacy in favor of a mainstreamed application of WPS resolutions. Currently, besides Brazil, Albania, Ecuador, France, Gabon, Japan, Malta, Switzerland, the United Arab Emirates, the United Kingdom, and the United States have adhered to those commitments.",
+                "We call upon all Council members and indeed all member states to adhere and to start inviting more women briefers not only within the Security Council agenda, but also in every meeting they convene. Such step, may seem simple and with no immediate consequence, but it will help establish gender equality as a pervasive and very visible objective throughout the United Nations.",
+                "Lack of adequate and permanent funding hinders the impact of women’s leadership in peacebuilding and in contexts of humanitarian crisis. The implementation of gender-responsive budgeting and financing mechanisms can ensure that resources be allocated to help women build development and stability in their communities. Brazil underlines the importance of financing mechanisms such as the Women`s Peace and Humanitarian Fund, which has funded more than a thousand civil society organizations in 43 countries.",
+                "Distinguished Representatives,",
+                "Despite all limitations imposed on them, women have made a historic contribution to mediation efforts around the world. Drawing inspiration from Dr. Bertha Lutz, Brazil is a proud member of the South Cone Women Mediators Network, to which we have recently appointed the first two experts. We have also joined the Ibero-American network of women mediators, another platform to boost the meaningful participation of women in mediation and peace efforts. We look forward to joining the global alliance of regional women mediator networks and start offering the contribution and very rich perspective from Latin America to international mediation initiatives.",
+                "In another important step, I am pleased to announce that Brazil has just launched “The Second National Action Plan on Women, Peace and Security: Stage I”, which is the result of coordinated efforts among several government agencies, the parliament and civil society. The plan covers not only foreign policy actions, but also a broad range of issues of major importance for Brazilian society, such as public security, social protection, political participation, and minority rights. In that sense, it goes even beyond the scope of the WPS Security Council resolutions.",
+                "Given the priority of the federal government to the empowerment of all women, the Second National Action Plan adopts an intersectional approach, and will encompass the specific needs of black and indigenous women, as well as women refugees and migrants, among other vulnerable groups. We will continue to work with civil society, parliament, think tanks and academia to design specific actions and monitoring mechanisms for the implementation of this very ambitious second plan of action.",
+                "In concluding, I underscore that enhancing women`s participation in decision-making processes is not simply a quantitative endeavor. It is not just about securing seats at negotiation tables. It is not just a symbolic representation. It is a substantive, essential task that drives the effectiveness and legitimacy of peace and security endeavors globally.",
+                "It is about fundamentally reshaping the dialogue, priorities and the resulting policy designs and outcomes.",
+                "Women bring a wealth of innovative solutions and approaches, serving as catalysts for durable, inclusive and just peace agreements and conflict resolution strategies. Ignoring, disregarding or downplaying their contribution is neither wise nor effective. Ensuring that women - irrespective of race, ethnicity, religion, sexual orientation, or social class - shape policies has a direct impact not only on their security and well-being, but also on that of society at large. It is to our collective gain.",
+                "I thank you"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Intervenção do Ministro Mauro Vieira no debate do Conselho de Segurança sobre a Questão do Oriente Médio - Nova York, 24 de outubro de 2023",
+            "subtitulo": "NA",
+            "data": "24/10/2023",
+            "horario": "13h15",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/10/2023"
+            ],
+            "horario_atualizado": [
+                "14h50"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/intervencao-do-ministro-mauro-vieira-no-debate-do-conselho-de-seguranca-sobre-a-questao-do-oriente-medio-nova-york-24-de-outubro-de-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "(Versão original em inglês)",
+                "I thank the Secretary General, António Guterres, the Special Coordinator for the Middle East Peace Process, Mr. Tor Wennesland, and Deputy Special Coordinator/ Resident and Humanitarian Coordinator for the Occupied Palestinian Territories, Ms Lynn Hastings, for their briefings.",
+                "We are witnessing unprecedented levels of violence in the region: since October 7th, more than 5.000 lives have been lost on both sides, and more than a million people have fled their homes in the Gaza Strip.",
+                "Allow me to quote President Lula on his appeal to reason: “Hamas must release Israeli children who were abducted from their families. Israel must cease bombing so that Palestinian children and their mothers can leave the Gaza Strip across the border with Egypt. There needs to be a minimum of humanity in the insanity of war.” [END OF QUOTE]",
+                "What President Lula is underscoring is that we are dealing with both a hostage and a humanitarian crises.",
+                "The acts of terrorism carried out against civilians in Israel resulted in over a thousand victims and the abduction of hundreds of innocent people, including children and the elderly. Three Brazilian citizens have been confirmed dead, victims of Hamas’ attacks. As we deeply mourn their passing, we cannot condone acts of terrorism. Violence only breeds further violence. I want to make an appeal therefore for the immediate and unconditional release of all civilian hostages in safety, in particular of women and children.",
+                "Acts of terrorism are heinous and criminal, and international law is clear on the ways to address it. The Security Council has created a significant body of counterterrorism norms. When counterterrorism efforts disregard basic norms and principles, including on the use of force, they reinforce rather than counter the narratives of terrorist groups. Hence, as an effective strategy to address the terrorist threats, it is imperative to ensure full respect for human rights, humanitarian law and refugee law. Children must always be treated primarily as victims, in a manner consistent with their rights, dignity and needs.",
+                "The escalating violence in Gaza is also unacceptable. So is the demolition of civilian infrastructure, which resulted in the destruction of 42% of civilian housing. We cannot tolerate the loss of over 2 thousand Palestinian children. As the occupying power, Israel has a legal and moral obligation to protect the local population under international humanitarian law. The recent events in Gaza are particularly concerning, including the so-called “evacuation order”, which is leading to unprecedented levels of misery for innocent people.",
+                "The number of trucks with humanitarian aid that crossed the Rafah border is utterly insufficient to meet the basic needs of the local population. The entire territory continues without power supply, impacting the work of health personnel. Hospitals are operating beyond full capacity. Access to drinkable water has been impeded. And many are resorting to improper sources of water.",
+                "Civilians must be respected and protected at all times and everywhere. All parties must strictly abide by their obligations under International Humanitarian Law. And I highlight, in this respect, the fundamental principles of distinction, proportionality, humanity, necessity and precaution, which must guide and inform all actions and military operations.",
+                "Distinguished delegates,",
+                "We must not lose sight of the root causes of this conflict: oppression, social and economic inequalities, recurring violations of human rights.",
+                "2023 marks 75 years since the beginning of the Israel-Palestine conflict. It is disheartening to see the lack of progress in the peace process between Palestinians and Israelis.",
+                "The stalemate in the peace process has been fueling an unsettling rise in violence. Even before the crisis in Gaza, 2023 was already the year with the highest death toll since 2005. The situation in the West Bank remains tense, with successive harmful incidents escalating into violence and leading to civilian casualties. The surge in settler-related violence is also alarming.",
+                "Achieving peace requires strict adherence to international law, as well as working towards realizing the two-state solution. As clearly stated by this Council, the continued occupation of the West Bank is unlawful and undermines the prospects for peace. Israel must stop all settlement activities in the occupied Palestinian territories, including East Jerusalem. Difference of treatment towards settlers and locals is unacceptable. The current and projected expansion all but erases the viability of a future Palestinian state and engenders violence and hatred.",
+                "We also underscore the importance of preserving the historic status quo at the Holy Sites in Jerusalem and acknowledge the significance of the Hashemite Custody. Brazil urges all parties to exercise maximum restraint and abstain from provocations, including the use of extremist rhetoric.",
+                "Intra-Palestinian reconciliation is also pivotal. We acknowledge the meetings in Egypt focused on exploring reconciliation efforts among Palestinian factions. We encourage the continuation of diplomatic engagements to regional peace processes.",
+                "Brazil praises UNRWA's invaluable humanitarian work for one of the world's most vulnerable refugee populations, the Palestinians. And we mourn UNRWA`s brave workers who lost their lives in the line of duty since the beginning of current hostilities. Our commitment to UNRWA is reflected in our availability to hold the vice-chairmanship and the chairmanship of the Agency’s Advisory Commission from July 2024 and July 2025, respectively.",
+                "Distinguished delegates,",
+                "The broader Middle East has long been entangled in a web of conflicts. These conflicts lead to immeasurable suffering, grief, loss, hardship and, worst of all, hopelessness. They also severely destabilize the region. Now we see the very concrete risk of the crisis in Gaza spilling over to other parts of the region.",
+                "Amid all these daunting challenges, diplomacy and dialogue remain as our most powerful assets. The maritime dispute between Israel and Lebanon has been peacefully settled through negotiations. Similarly, the recent rapprochement between Saudi Arabia and Iran underscores the potential of good-faith engagement. The establishment of diplomatic relations between Israel and Arab countries also show the willingness to engage and cooperate. Such endeavors bring hope on peace in the region.",
+                "The League of Arab States plays a vital role in this context, by working tirelessly to mediate and foster dialogue between conflicting parties.",
+                "Distinguished delegates,",
+                "The Council has a crucial responsibility in the immediate response to the unfolding hostage and humanitarian crises. Much of the reputation of the United Nations depends on its approach to the ongoing crisis.",
+                "Since 2016, the Council has not been able to pass a resolution on the situation in the region. Obstructive strategies have been impeding that crucial decisions on international peace and security be taken. As a result, the situation in the Middle East is by far one of the most thwarted issues in the Security Council. This Council must be up to the challenge before us. We will likely be tried – and found guilty – by future generations for our inaction and complacency.",
+                "We must find ways to unlock multilateral action. Focusing on disagreements will not lead us to the direction of a much-needed solution to the unfolding dire human crises.",
+                "The Security Council should not shy away from its responsibility of calling for the liberation of the innocent people abducted from their families, as well as for their safety, well-being, and humane treatment.",
+                "There is a broad political call for the opening of urgently needed humanitarian corridors. A decision on the humanitarian aspects of the current crisis is within a hand’s reach of Council members, on condition that we refrain from politicization of the already complex situation on the ground.",
+                "Brazil will continue to promote dialogue among members and action on the part of the Council through the opening of possible avenues of negotiation. In this spirit, President Lula instructed me to attend the Cairo Peace Summit, the past Saturday, with an unequivocal message: to add Brazil’s voice to all those who are urging calm, restraint, and peace in the region. Despite the various positions of the member States there represented, consensus was possible on four major aspects, as follows: the end of violence, the implementation of cease-fire, the establishment of a humanitarian corridor, and the full endorsement of the two-State solution.",
+                "Enough of strife, suffering and instability. We need all stakeholders to see their own interests through new lenses, with long-term and far-sighted perspectives. We need solutions, no matter how politically difficult they may be. A peaceful and prosperous Middle East is to the benefit of all of us.",
+                "Thank you."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Intervenção do Ministro Mauro Vieira durante a Cúpula da Paz do Cairo – 21 de outubro de 2023",
+            "subtitulo": "NA",
+            "data": "21/10/2023",
+            "horario": "08h50",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/10/2023"
+            ],
+            "horario_atualizado": [
+                "14h52"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/intervencao-do-ministro-mauro-vieira-durante-a-cupula-da-paz-do-cairo-2013-21-de-outubro-de-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Chefes de Estado e Governo, Majestades, Altezas, Ministros e chefes de delegação,",
+                "Senhoras e senhores,",
+                "O mundo acompanha com ansiedade e com esperança a Conferência de Paz do Cairo no dia de hoje. Congratulo o governo egípcio pelos esforços na organização tão expedita desta cúpula. A missão que o Presidente Luiz Inácio Lula da Silva me confiou, quando me instruiu a representá-lo nesta reunião, foi inequívoca: somar a voz do Brasil à de todos aqueles que apelam pela calma, pela contenção e pela paz na região.",
+                "O Brasil vem acompanhando com preocupação a escalada de violência e a deterioração na situação da região em matéria de segurança, recentemente e ao longo dos últimos meses. Lamentamos ter de testemunhar essas condições no ano do trigésimo aniversário dos Acordos de Oslo. Se houvéssemos tido progressos desde então, estaríamos celebrando a paz e a amizade. Porém, a situação diante de nós é muito grave.",
+                "O governo brasileiro rejeita e condena, de maneira inequívoca, os atos terroristas perpetrados pelo Hamas em Israel no dia 7 de outubro, assim como a captura de civis como reféns. Brasileiros estão entre as vítimas, três compatriotas foram assassinados em Israel.",
+                "Como muitos outros países, o Brasil também tem cidadãs e cidadãos que esperam ser evacuadas de Gaza, enquanto assistimos, alarma dos, a deterioração da situação humanitária na região, e em especial a escassez de insumos médicos, alimentos, água, eletricidade e combustíveis. Israel, como potência ocupante, tem responsabilidades específicas em matéria de direitos humanos e da lei humanitária. Elas devem ser atendidas sob quaisquer circunstâncias.",
+                "Ao longo das últimas décadas, temos testemunhado um conflito sem vencedores, que se arrasta no tempo. E um conflito no qual a população civil continua a ser a principal vítima da falta de diálogo e de um ressentimento crescente.",
+                "O impasse no processo de paz; a estagnação econômica e social que tem prevalecido em Gaza; a corrente expansão de colônias israelenses nos territórios ocupados, a violência contra civis, a destruição de infraestrutura básica, violações do “status quo” histórico nos lugares sagrados de Jerusalém, todos esses fatores somados geram um ambiente social e cultural que põe em risco a “solução de dois Estados” e que provoca ódio, violência e extremismo.",
+                "Excelências,",
+                "A trágica situação em curso na Faixa de Gaza é de máxima preocupação. Enquanto sempre haverá aqueles que estão dispostos a atirar gasolina no fogo, o Brasil conclamará em favor do diálogo.",
+                "A destruição de infraestrutura civil, incluindo de atendimento à saúde, é inaceitável. Acompanhamos com consternação a explosão de bomba ocorrida no hospital Al Ahli-Arab, e lamentamos as centenas de mortes de civis, incluindo pacientes, médicos, enfermeiros e outros trabalhadores da área humanitária.",
+                "Todas as partes devem proteger integralmente civis e respeitar o direito internacional e o direito humanitário internacional.",
+                "A comunidade internacional deve empregar ao máximo seus esforços diplomáticos para assegurar o pronto estabelecimento de pausas e corredores humanitários, bem como de um cessar-fogo imediato.",
+                "Conforme afirmou o Presidente Lula, a atual crise requer com urgência uma ação humanitária multilateral com o propósito de acabar com o sofrimento de civis encurralados pelas hostilidades.",
+                "Na condição de presidente do Conselho de Segurança das Nações Unidas durante o mês de outubro, o Brasil convocou sessões de emergência e promoveu o diálogo.",
+                "Apesar desses esforços, lamentavelmente o Conselho de Segurança não pôde adotar uma resolução no dia 18 de outubro. No entanto, os muitos votos favoráveis - de 12 dos 15 membros - evidenciam o amplo apoio político em favor de uma ação rápida por parte do Conselho. Acreditamos que essa visão é compartilhada pela comunidade internacional em geral.",
+                "Permitam-me que seja claro: há um amplo chamado político em favor da abertura das pausas humanitárias urgentemente necessárias, do estabelecimento de corredores humanitários e da proteção dos profissionais da área humanitária.",
+                "Devemos encontrar maneiras para desbloquear a ação no plano multilateral. O Brasil não poupará esforços nesse sentido. No dia 24 de outubro, presidirei o debate aberto trimestral do Conselho de Segurança das Nações Unidas sobre a situação no Oriente Médio, incluindo a questão palestina. Sugiro que continuemos esse diálogo lá, no mais alto nível possível, em uma tentativa de continuar buscando consensos em torno de ações imediatas. A paralisia do Conselho de Segurança vem tendo consequências negativas para a segurança e para as vidas de milhões de pessoas. Isso não é do interesse da comunidade internacional.",
+                "Devemos também esforçar-nos para evitar qualquer possibilidade de que o conflito se espalhe pela região.",
+                "Mais adiante no processo, devemos encontrar maneiras de revitalizar o processo de paz, de modo a fazer avançar negociações políticas na direção de uma paz abrangente, justa e duradoura no Oriente Médio. A simples administração do conflito não é uma alternativa aceitável. Apenas a retomada de negociações efetivas podem trazer resultados concretos no sentido de implementar a solução de dois Estados, em sintonia com todas as resoluções relevantes da Assembleia Geral e do Conselho de Segurança, com Israel e Palestina convivendo em paz e segurança, com fronteiras acordadas mutuamente e internacionalmente reconhecidas.",
+                "O Brasil está pronto e à disposição para apoiar todos os esforços com esse objetivo.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Declaração do Ministro Mauro Vieira ao final da sessão do Conselho de Segurança da ONU sobre a situação em Israel e Palestina - Nova York, 13/10/2023",
+            "subtitulo": "NA",
+            "data": "13/10/2023",
+            "horario": "19h56",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/10/2023"
+            ],
+            "horario_atualizado": [
+                "14h54"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/declaracao-do-ministro-mauro-vieira-ao-final-da-sessao-do-conselho-de-seguranca-da-onu-sobre-a-situacao-em-israel-e-palestina-nova-york-13-10-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "(Versão original em inglês)",
+                "-  Good afternoon.",
+                "- Brazil, at the presidency of the Security Council, called for today's meeting.",
+                "- I interrupted an official trip to South-East Asia to come to New York in person in order to participate in such meeting and have other consultations at the UN.",
+                "- It is the second time the Council meets in the current tragic situation in Israel and Gaza.",
+                "- In today’s closed consultations, Council members had a briefing by Secretary-General Antonio Guterres himself. In the dialogue that followed, Member States had the opportunity to exchange views.",
+                "- At the end, upon request of Council Members, Brazil will continue to work closely with all delegations aiming a unified position by the Council on the situation.",
+                "- I now speak in my national capacity as Foreign Minister of Brazil.",
+                "- Brazil believes that the Council should act in the face of an almost unprecedented escalating violence and unfolding humanitarian catastrophe.",
+                "- The Council has a crucial responsibility, both in the immediate response to the unfolding humanitarian crisis as well as in later stages when intensified multilateral efforts will be needed to restore a peace process. Neither Israelis nor Palestinians should have to endure similar suffering ever again.",
+                "- I came to the UN firstly to convey President Lula's call for an urgent multilateral humanitarian action to end the suffering of civilians caught up in the midst of these hostilities. I also underscore President Lula’s  appeal for the immediate and unconditional release of the civilians that have been abducted and held hostage since the beginning of this crisis.",
+                "- Brazil will continue to promote dialogue among members and action on the part of the Council through the opening of possible avenues of negotiation. The immediate objective is clear and immediate: to prevent further bloodshed and loss of life, and to try to ensure urgent, unimpeded humanitarian access to the affected areas. International humanitarian law and international human rights law provide clear guidance on what needs to be done. A humanitarian pause is urgent as well as the establishment of humanitarian corridors to access Gaza.",
+                "-  Much of the reputation of the United Nations, and in particular of the Security Council, depends on the approach of the Organization to the ongoing crisis. The eyes of the world are also on us here in New York.",
+                "- Brazil has been following the situation in Israel and Palestine with deep sadness and concern. Alarmed by the widespread human suffering, we firmly believe that all efforts must prioritize the protection of civilians, especially the many children caught up in the violence.",
+                "- We received with dismay the news that the Israeli forces called for all civilians – more than one million – living in Northern Gaza to leave within 24 hours. As the United Nations has stated, that may lead to unprecedented levels of misery for innocent civilians",
+                "- We are also following closely the situation of Brazilian citizens in both Israel and Palestine. We have repatriated hundreds of Brazilians from the region so far. We mourn the three youngsters who perished in the attack to the music festival they were attending while in Israel.",
+                "- We express our deepest sympathy to all families that lost their loved ones in this conflict, including humanitarian workers and UN personnel. We also express our solidarity to the wounded and displaced. We hope that peace may prevail for all in the Middle East and will continue to work to achieve that end.",
+                "- Finally, we reiterate our strong support to an enduring two-State solution with Israel and Palestine living side by side in peace and prosperity within secure, mutually agreed and internationally recognized borders.",
+                "- Thank you."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "Brasil e Asean: um novo olhar ao Sudeste Asiático (Correio Braziliense, 7/10/2023)",
+            "subtitulo": "NA",
+            "data": "07/10/2023",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "08/11/2023"
+            ],
+            "horario_atualizado": [
+                "11h39"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/mauro-vieira-2023/brasil-e-asean-um-novo-olhar-ao-sudeste-asiatico-correio-braziliense-7-de-outubro-de-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Empresa, Indústria e Comércio"
+            ],
+            "paragrafos": [
+                "Embarco hoje em um périplo internacional pelo Sudeste Asiático, que incluirá passagens pela Indonésia, Camboja e Filipinas. Além de reuniões com esses três importantes parceiros, manterei diálogo com a Associação dos Países do Sudeste Asiático (Asean), agrupamento que reúne as economias mais dinâmicas do mundo na atualidade.",
+                "Minha viagem é parte do reencontro do Brasil com sua política externa universalista e com seus parceiros do mundo em desenvolvimento, iniciado em janeiro. Mas ela é também muito mais do que isso, sob a orientação do presidente Luiz Inácio Lula da Silva, estamos construindo uma diplomacia que molde não apenas o nosso presente, mas que sobretudo prepare o Brasil para o futuro que se anuncia.",
+                "Os números desse relacionamento falam por si: o Brasil exporta hoje para cinco economias da Asean (Singapura, Malásia, Tailândia, Indonésia e Vietnã) mais do que o total que vende para cinco das economias do G7 (Japão, Alemanha, Reino Unido, França e Itália). O comércio com o Sudeste Asiático, que em 2002 era de US$ 2,9 bilhões, ampliou-se para US$ 34 bilhões em 20 anos. As trocas comerciais com a Asean respondem hoje por quase um quarto do superavit da balança comercial brasileira. São dados de impacto, desconhecidos pela grande maioria. Dados que ilustram a importância estratégica da região para o Brasil.",
+                "Com uma economia combinada de US$ 3,6 trilhões e população de 680 milhões de pessoas, a Asean cresce há décadas como nenhuma outra região do mundo. Com uma média de expansão do PIB de 5,7% entre 2000 e 2019, a Asean responderá neste ano por 10% de todo o crescimento da economia mundial, e sua estrutura demográfica permite antever grande potencial no futuro previsível.",
+                "Esse cenário requer do Brasil atenção às oportunidades que surgem do acelerado desenvolvimento vivido pelo Sudeste Asiático. A tarefa de desenvolver plenamente esse potencial exigirá da diplomacia e da sociedade brasileira, necessariamente, ir além do aspecto puramente comercial e construir relacionamentos genuinamente políticos, com base em laços humanos fortes. Em Jacarta, participarei da primeira reunião Brasil-Asean, que marca o lançamento da Parceria de Diálogo Setorial entre o Brasil e a Associação. Inaugurarei também a Missão do Brasil junto à Asean, criada para melhor posicionar nossa diplomacia na interlocução com essa região estratégica, a exemplo do que já fazem 11 dos países do G20.",
+                "Nas conversas preliminares com a Aseba, identificamos que o Brasil tem muito a se beneficiar, em especial na cooperação científica e tecnológica. O Itamaraty mapeou os sistemas de inovação das cinco principais economias da Asean e está promovendo, desde agosto, o “Brazil-Asean Innovation Sessions”, série de eventos on line de ciência, tecnologia e inovação em temas como startups, semicondutores e mobilidade sustentável. A partir das demandas da Asean, em áreas diversas como energias renováveis, agricultura sustentável e saúde pública, tornou-se claro que também temos muito a oferecer por meio de projetos capitaneados pela Agência Brasileira de Cooperação (ABC), que é instituição de referência na cooperação entre países do Sul Global.",
+                "Na capital indonésia, abrirei o seminário Ethanol Talks, organizado em parceria entre o Itamaraty e a União da Indústria de Cana-de-Açúcar e Bioenergia (Única), que levará àquela região do mundo soluções brasileiras para a transição energética. Levarei também a disposição brasileira de cooperar com a Indonésia na construção de sua nova capital, Nusantara, com base na experiência da construção de Brasília.",
+                "A viagem ao Sudeste Asiático contará com significado político adicional, pois farei também as primeiras visitas de um chanceler brasileiro às Filipinas e ao Camboja, país que acaba de abrir sua embaixada residente em Brasília, em sinal do interesse que nosso país — com seu potencial econômico, ambiental e diplomático — voltou a despertar em nossos parceiros. Minha visita servirá também para preparar a primeira missão empresarial oficial brasileira a Phnom Penh. Em Manila, firmaremos acordos na área de cooperação técnica e exploraremos oportunidades para diversificar as exportações brasileiras.",
+                "Encruzilhada de culturas e foco antigo de disputas geopolíticas, o Sudeste Asiático soube sobreviver de forma pragmática e bem sucedida a sucessivas transformações internacionais. Berço do movimento não alinhado, a região é ator central para promover o diálogo na região da Ásia-Pacífico, consolidando sua capacidade de dirimir tensões, sobretudo no Mar do Sul da China. No atual momento de reorganização política global, é ainda mais relevante a aproximação do Brasil com a Asean, no esforço de construção de uma coalizão de países em desenvolvimento que defendem, acima de tudo, o direito à própria autonomia."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "How Brazil and Indonesia can work together to improve air quality (The Jakarta Post, Indonésia, 6/10/2023)",
+            "subtitulo": "NA",
+            "data": "06/10/2023",
+            "horario": "12h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "08/11/2023"
+            ],
+            "horario_atualizado": [
+                "11h37"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/mauro-vieira-2023/how-brazil-and-indonesia-can-work-together-to-improve-air-quality-the-jakarta-post-indonesia-october-6-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Energia, Minerais e Combustíveis"
+            ],
+            "paragrafos": [
+                "Tackling the challenges posed by air pollution is one of the most pressing issues we face when it comes to urban mobility. Large metropolises such as São Paulo and Jakarta are under the constant strain of an ever-growing fleet of vehicles, and their exhaust gases significantly impact the air quality of our densely populated cities.",
+                "The World Health Organization estimates that 4.2 million people die every year in the world due to hazardous levels of air pollution.",
+                "City planners and officials naturally resort to mass transportation as an alternative to reduce the demand for private vehicles. However, mass transportation projects can only go so far and are limited by the associated costs and pace of construction, especially in developing countries.",
+                "It is therefore necessary to strike a balance between ever-increasing urban mobility and the need for good air quality. In this context, Brazil’s 50 years of experience with biofuels – chiefly bioethanol, the exhaust from which emits no particular matter – can help Indonesia to ease pollution.",
+                "Every liter of gasoline sold in Brazil contains 27 percent of ethanol. In parallel, around 90 percent of the Brazilian fleet of passenger cars is equipped with FlexFuel engines, which can operate with any ethanol-gasoline blend. To put this in perspective, Brazil’s largest city São Paulo, comparable to Jakarta in terms of size and population, in 2021 managed to replace around 64 percent of the gasoline consumed by its 7-million-strong vehicle fleet with ethanol.",
+                "This achievement should not be understated: In the 1990s, São Paulo figured among the most polluted cities in the world, whereas in 2021, the city ranked 1179th in terms of air pollution, with general air quality similar to that of cities like Amsterdam, Berlin or Madrid.",
+                "Biofuels and electricity – combined or complemented, since there will be room for both – will be a fundamental part of the future of mobility. If a country’s electrical matrix is not clean, then electrification is not the solution for reducing emissions and making our air cleaner. In our quest to reduce pollution and decarbonize the economy, biofuels will definitely have their share.",
+                "The cooperation between Brazil and Indonesia in the area of biofuels has already started. Government authorities and private sector players from both countries have an established relationship.",
+                "President Joko “Jokowi” Widodo’s launch in November 2022 of the Sugarcane Bioethanol Program for Energy Security, which aims to initially add 5 percent of ethanol (E5) to gasoline and then gradually increase it to 10 percent (E10) and 20 percent (E20), opens a new opportunity for energy cooperation. The Brazilian government, public and private entities can play an important role in helping Indonesia achieve its goal of increasiong national bioethanol production.",
+                "It will be thus my great honor to open the seminar “Sustainable Mobility: Ethanol Talks Indonesia” on Oct. 9. Organized by Brazilian, Indonesian and ASEAN stakeholders, the event aims at fostering the partnership between Brazil and Indonesia in biofuels and providing an opportunity for cooperation and dialogue between experts, policymakers, regulators and industry representatives from both our countries as well as other ASEAN countries.",
+                "These stakeholders will be able to approach how to scale up ethanol production, taking into account the Brazilian experience. Discussions will also include ethanol’s economic, social and environmental benefits for sustainable mobility, as well as some of the most important issues of implementation.",
+                "Experts from the Brazilian Sugarcane and Bioenergy Industry Association (UNICA) and the Brazil Ethanol Cluster (APLA), together with officials from the Brazilian ministries of mines and energy and foreign affairs, will discuss possible knowledge gaps and offer cooperation in transferring the Brazilian experience with ethanol, and identifying with Indonesian counterparts where and how our experience would be applicable or how it could be adapted when necessary.",
+                "Both Brazil and Indonesia have very important roles to play in the ongoing reshaping of the Global South. It is my strong belief that energy and energy transition themes are and will remain pivotal in this new geometry as our governments and societies strive to harmonize the demands for better living standards with the preservation of the environment."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "A presidência brasileira do CSNU (O Estado de S.Paulo, 6/10/2023)",
+            "subtitulo": "NA",
+            "data": "06/10/2023",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "06/10/2023"
+            ],
+            "horario_atualizado": [
+                "11h02"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/mauro-vieira-2023/a-presidencia-brasileira-do-csnu-o-estado-de-s-paulo-6-10-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O Brasil assumiu por um mês, no dia 1.º de outubro, a presidência rotativa do Conselho de Segurança das Nações Unidas (CSNU). Trata-se de enorme responsabilidade em momento difícil de crise do sistema multilateral.",
+                "O atual mandato brasileiro como membro do conselho (2022-2023) coincidiu com a eclosão da guerra na Ucrânia, o que provocou acentuada polarização no órgão. As consequências desse conflito são sentidas em várias partes do mundo, sobretudo por suas pressões adicionais sobre a segurança alimentar e energética dos países em desenvolvimento que sofrem com altas taxas de juros e os efeitos da pandemia de covid-19.",
+                "Não podemos nos esquecer, ademais, dos outros desafios à paz e à segurança internacional existentes. O período tem sido marcado, entre outros, pelo agravamento da violência no Haiti, pelo recrudescimento das tensões na península coreana, pela deterioração de crises na África e pelo prolongamento de conflitos no Oriente Médio. O povo palestino aguarda há 75 anos a concretização de seu inalienável direito à autodeterminação e sofre com a escalada de violência, que registra, em 2023, o maior número de mortes de civis na Cisjordânia desde 2005.",
+                "Como disse o presidente Luiz Inácio Lula da Silva na abertura da 78.ª Sessão da Assembleia-Geral da ONU, o Conselho de Segurança vem perdendo progressivamente sua credibilidade. Contribui para tanto, como sublinhou o presidente, a ação de seus membros permanentes, que travam guerras não autorizadas à revelia do Direito Internacional. Frustrando um quarto da humanidade, que vive em áreas hoje afetadas por conflitos, o CSNU tem-se mostrado frequentemente incapaz de atuar, em razão de rivalidades geoestratégicas.",
+                "Estou convencido, entretanto, de que o sistema de segurança coletiva instituído pela Carta das Nações Unidas permanece nossa melhor opção. É imperativo reformar o Conselho de Segurança, de modo a torná-lo mais representativo da diversidade de vozes que hoje compõem as Nações Unidas. Somente com mais países em torno da mesa de negociações a lógica de rivalidade que paralisa o conselho poderá ser superada. Ganha o CSNU. Ganha o mundo.",
+                "Na presidência do conselho, o Brasil dará ênfase à necessidade de retomar o diálogo sobre a paz, conforme preconiza a Carta da ONU em seu capítulo VI. Não há solução duradoura que não esteja baseada na negociação e ancorada no desenvolvimento. E, sem espaço para diálogo, não há caminhos para a paz, somente o abismo da guerra.",
+                "É preciso revitalizar o papel do Conselho de Segurança como promotor de soluções pacíficas e preventivas. Por isso, o Brasil organizará debate de alto nível com vistas a trocar experiências sobre prevenção, mediação e construção de confiança, a partir de arranjos regionais, sub-regionais e bilaterais. O debate refletirá a tradição diplomática brasileira de privilegiar vias políticas e diplomáticas para a solução de conflitos.",
+                "A busca pela paz sustentável é um compromisso da diplomacia brasileira. E não há paz sustentável sem o pleno envolvimento das mulheres. Por essa razão, o Brasil organizará, ainda, o debate anual sobre a Agenda de Mulheres, Paz e Segurança, com foco na participação efetiva das mulheres em todas as etapas de formulação e de implementação do processo de paz. Estudos indicam que a participação das mulheres aumenta a probabilidade de que negociações de paz cheguem a bom termo e amplia a durabilidade dos acordos alcançados. Na ocasião, lançaremos a primeira etapa do II Plano Nacional de Ação sobre Mulheres, Paz e Segurança, conforme recomendado por resolução do CSNU.",
+                "O programa de trabalho para o mês de outubro não termina com os dois eventos promovidos pelo Brasil. Constam da agenda do conselho, entre outros temas para consideração, as situações no Iêmen e na região dos Grandes Lagos, além das revisões dos mandatos das missões da ONU na Colômbia, na Líbia, no Saara Ocidental e na Somália. Estão previstos, ainda, o debate sobre a questão israelo-palestina e a reunião anual entre o CSNU e o Conselho de Paz e Segurança da União Africana.",
+                "No primeiro dia da presidência brasileira, o conselho autorizou a Missão de Apoio Multinacional à Segurança (MSS) do Haiti, por um período de um ano. Trata-se de um exemplo claro de ação construtiva no âmbito do órgão, cujo resultado decorre de bem-sucedido esforço de diálogo e convencimento da diplomacia brasileira com os demais integrantes nas últimas semanas. O acesso do Brasil a todos os interlocutores da comunidade internacional revela-se, em contextos como o da decisão sobre o Haiti, um ativo capaz de romper impasses e superar resistências.",
+                "Promover a paz e construir um mundo mais justo para todos são objetivos da ONU e também do Brasil. A presidência brasileira do CSNU no mês de outubro busca valorizar a diplomacia como ferramenta para a obtenção da paz. Se é verdade que o fracasso da diplomacia pode levar à guerra, também é verdade que sem a diplomacia não haverá paz."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-10",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

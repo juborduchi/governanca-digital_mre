@@ -1,0 +1,145 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "ernesto-araujo"
+            ],
+            "titulo": "Intervenção do Ministro Ernesto Araújo em Reunião Ministerial Informal da OMC - 29/01/2021",
+            "subtitulo": "NA",
+            "data": "29/01/2021",
+            "horario": "20h21",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h07"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/intervencao-do-ministro-ernesto-araujo-em-reuniao-ministerial-informal-da-omc-29-01-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Obrigado, senhor Presidente, obrigado à Suíça por organizar esta reunião, e a você, Presidente Parmelin, por esta iniciativa.",
+                "O Brasil apoia a reforma e o fortalecimento da OMC com base em um conjunto comum de metas e objetivos. Como princípio geral, permitam-me enfatizar que a OMC não pode ser indiferente à questão da democracia e das liberdades fundamentais.",
+                "A OMC foi criada como parte de um certo reset, um reset que deveria girar em torno da democracia liberal e de economias de mercado, um sistema de liberdade econômica e política.",
+                "Hoje, a OMC não deveria fazer parte de um chamado “Great Reset”, que ignora a democracia e enfraquece a liberdade.",
+                "Com isso em mente, nossos objetivos devem incluir:",
+                "Primeiro, a OMC deve promover e facilitar o comércio internacional como um motor para a prosperidade, o desenvolvimento e a dignidade humana.",
+                "Segundo, a OMC deve voltar ao seu propósito original de promover a participação dos membros no sistema mundial de comércio com base em políticas e práticas orientadas para o mercado.",
+                "Terceiro, a prosperidade, por meio do comércio, é uma meta do sistema multilateral de comércio. É claro que existem diferentes necessidades de flexibilidades entre os países em desenvolvimento e setores distintos. No entanto, elas não devem ser uma desculpa para evitar o comprometimento com o sistema de comércio.",
+                "Quarto, o sistema multilateral de comércio deve ser previsível e requer um sistema de solução de controvérsias funcional e justo.",
+                "Eu gostaria de destacar a necessidade de abordar de forma mais significativa e sistemática o excesso de capacidade, condições de competição injustas e a distorção das relações comerciais internacionais, incluindo subsídios em todos os setores. Essas são questões-chave com as quais temos de lidar, se levarmos a sério a gravidade fiscal da crise atual e a contribuição do sistema multilateral de comércio para racionalizar o uso e a alocação de recursos para as necessidades urgentes de recuperação e os objetivos de longo prazo de inclusão social e desenvolvimento sustentável. Nesse sentido, o Brasil gostaria de convidar os membros a serem ambiciosos com vistas a reduzir subsídios em todos os setores.",
+                "A pandemia também mostrou a necessidade de discutir a questão do comércio e da saúde pública em geral. Essa seria uma contribuição efetiva do sistema multilateral de comércio para um mundo de eficiência econômica e desenvolvimento sustentável no quadro da liberdade e da dignidade humana.",
+                "Precisamos preparar um pacote ambicioso e realista para a 12a. Conferência Ministerial da OMC (MC-12), que deve incluir:",
+                "Primeiro, resultados claros em agricultura, particularmente quanto ao apoio doméstico e a medidas sanitárias e fitossanitárias. A pandemia destacou a importância do comércio e dos produtos agrícolas para garantir a segurança alimentar mundial e mitigar o impacto de uma crise econômica generalizada, e a contribuição do Brasil foi fundamental nesse sentido. Precisamos reduzir nossos atuais direitos de apoio doméstico que distorcem o comércio agrícola. Para tanto, devemos instruir nossas delegações a negociarem compromissos de limitar e reduzir o apoio doméstico que distorce o comércio, com parâmetros claros para sua implementação.",
+                "Segundo, uma solução multilateral permanente para o impasse do Mecanismo de Solução de Controvérsias, que incluiria a nomeação de novos membros para o Órgão de Apelação, bem como a preservação de dois níveis de julgamento e do consenso negativo.",
+                "Terceiro, a conclusão das negociações sobre facilitação de investimentos e regulamentação doméstica de serviços, bem como um texto de negociação avançado e consolidado sobre comércio eletrônico.",
+                "E, quarto, a conclusão das negociações sobre pesca, com um resultado robusto para a sustentabilidade e o comércio. A conclusão de um acordo sobre pesca deve ser uma das principais prioridades da MC-12. Depois de anos de discussões, ainda existem divergências em questões fundamentais. O Brasil e outros membros apresentaram propostas para limitar o valor monetário dos subsídios à pesca. É hora de explorar mais essa abordagem, buscando resultados ambiciosos.",
+                "O Brasil acredita que devemos renovar nossos compromissos para entregar os mais altos padrões de sustentabilidade ambiental no futuro acordo sobre pesca. Nesse sentido, o Brasil divulgou recentemente um projeto de decisão ministerial sobre sustentabilidade e subsídios à pesca, que esperamos seja discutido e adotado o mais rapidamente possível por todos os membros. Se todos nós copatrocinarmos o projeto de decisão ministerial proposto, produziremos um resultado concreto para esta Reunião Ministerial Informal.",
+                "Obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "ernesto-araujo"
+            ],
+            "titulo": "Intervenção do Ministro Ernesto Araújo no painel \"Redefinindo a Geopolítica\", do Fórum Econômico Mundial de Davos - 29/01/2021",
+            "subtitulo": "NA",
+            "data": "31/01/2021",
+            "horario": "14h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h07"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/intervencao-do-ministro-ernesto-araujo-no-painel-redefinindo-a-geopolitica-do-forum-economico-mundial-de-davos-29-01-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Børge Brede: Ernesto Araújo, Ministro das Relações Exteriores do Brasil. O Brasil é um país do BRICS muito importante. Vocês também são gigantes em sua região. E eu acho que seu relacionamento com os EUA é, claro, importante, mas também seu relacionamento com a China. Acho que o senhor disse recentemente, Ministro, que é importante um maior entendimento mútuo entre Brasil e Estados Unidos. A palavra é sua.",
+                "Ministro Ernesto Araújo: Isso mesmo, obrigado, Børge. Sim, qualquer mudança nos Estados Unidos é imensamente importante para nós e imensamente importante para todo o mundo. Basicamente, o que penso é que precisamos que os Estados Unidos continuem a ser a superpotência da liberdade. Precisamos que os Estados Unidos continuem desempenhando o papel que vêm desempenhando há 100 anos ou mais em todo o mundo. Então, se o governo norte-americano quer focar tanto nas mudanças climáticas, eu acho ótimo, o Brasil também está focando nas mudanças climáticas. Mas o que pensamos que deveria ser o cerne, e queremos que seja o cerne, de nossa relação é o conceito fundamental de liberdade. É aí que queremos construir nossa parceria com os Estados Unidos e, para isso, precisamos, é claro, do entendimento mútuo e também de o Brasil ser percebido como o que somos, o que o Brasil representa hoje, que é uma democracia e uma economia aberta. Viemos de décadas em que o Brasil tinha uma economia semiestatal, com muita corrupção. E estamos tentando superar isso, e precisamos de parceiros-chave, não apenas os Estados Unidos, os EUA são um parceiro-chave, mas também os países de meus amigos aqui representados: Canadá, Espanha, União Europeia. Precisamos desses parceiros-chave para reconstruir o Brasil como uma economia moderna e realmente como uma força para a democracia na região e no mundo. Portanto, com os Estados Unidos em particular, é uma relação fundamental para promover a democracia no hemisfério, no hemisfério ocidental. Existem enormes desafios para a democracia, contra a democracia atualmente, especialmente a conexão entre o crime organizado e certas correntes políticas na região.",
+                "Temos que enfrentar isso de frente com os Estados Unidos e todos os outros parceiros que têm lutado pela democracia na região. E, em todo o mundo, também vemos desafios à democracia. Nesse caso, o que vemos como um desafio é o surgimento de algum tipo de - talvez seja exagerado dizer assim, mas vou usar a expressão - um tecno-totalitarismo, que não é uma questão dos Estados Unidos contra a China, ou a China contra os Estados Unidos. É uma questão de diferentes modelos de sociedade que estão surgindo com as novas tecnologias, e novas tecnologias podem ser ótimas para a democracia, mas também podem fornecer os meios para sociedades de controle total, e essas nós não queremos. E as grandes empresas de tecnologia podem trabalhar pela liberdade, mas também podem ser instrumentos de controle totalitário. E esse é o desafio que gostaríamos de enfrentar junto com os EUA e todos os outros parceiros democratas.",
+                "O painel é sobre redefinir a geopolítica, e venho dizendo que também precisamos pensar na “logopolítica”, “logo” no sentido de discurso. Quem controla o discurso hoje, o discurso público, tem um poder tremendo, e não podemos deixar isso nas mãos de atores, e não estou falando de países ou países específicos ou empresas específicas, mas de atores que não estão comprometidos com a liberdade. É aí que vejo essa nova conexão que queremos construir com os Estados Unidos sob o governo Biden. Mas também, como eu disse, que queremos construir com nossos parceiros, preservando a eficiência econômica, preservando a necessidade de desenvolvimento sustentável, da recuperação rápida, mas sem esquecer a liberdade.",
+                "Você sabe, Børge, não sou um grande fã do conceito do Great Reset. E por que isto? Não temos nada contra o que está inserido nele, que é desenvolvimento sustentável, igualdade e tudo mais. Mas a questão é o que não está lá, e isso é basicamente o conceito de liberdade e democracia. Então esse é o quadro-chave, eu acho, em que vemos o mundo hoje, queremos eficiência econômica, desenvolvimento sustentável, dentro de uma moldura de liberdade e democracia, e temos que trabalhar em todo o mundo para esse objetivo.",
+                "Børge Brede: Bem, muito obrigado, Ministro, por também destacar a liberdade. Uma das coisas que o presidente Biden disse na campanha eleitoral foi que queria, como presidente, iniciar uma reunião em Washington e uma aliança de democracias. O senhor apoia essa abordagem?",
+                "E o Brasil também, então, entraria, eu imagino? E como o senhor vê esse dilema entre essa aliança e também, por exemplo, sua cooperação com os BRICS, onde o Brasil desempenha um papel importante?",
+                "",
+                "Ministro Ernesto Araújo: Sim, em princípio somos a favor da ideia de uma aliança de democracias. Parece que é um projeto que tem tudo a ver com o que o Brasil representa hoje, como eu disse, e com o que gostaríamos de alcançar. Então, acho que não deve ser visto como algo contra atores específicos, mas em favor da democracia. Uma aliança de democracias pela democracia e, de certa forma, já estamos trabalhando em temas que acho que têm a ver com esse tipo de aliança. Por exemplo, o Brasil defende fortemente um processo de reforma da OMC que leve a OMC de volta à sua vocação original de trabalhar com os princípios da economia de mercado. Às vezes, hoje, você observa no mundo, se você segue as regras e abre sua economia como o Brasil está abrindo, você é punido, e se você mantém os subsídios e se você, às vezes, não obedece às regras, você é recompensado. E devemos evitar e mudar isso. Precisamos de um sistema internacional que recompense a democracia, não que puna alguém, mas que recompense a democracia, que recompense os países que se abrem e que desejam as liberdades fundamentais, a liberdade de expressão, tudo, e também a liberdade econômica. Então, eu acho ótima a ideia de uma aliança de democracias, concebida não como uma aliança contra algo, mas uma aliança em prol de algo, desse conceito mais profundo de democracia, e, como eu falei, o Brasil está saindo de uma situação em que o país estava cada vez mais longe do mundo democrático, nas administrações anteriores, longe de uma economia de mercado. E há um forte sentimento, não apenas político, mas popular e social, de que o Brasil deve tornar-se uma força pela liberdade e também pelas economias de mercado. Então, nós nos vemos como um ator nesse tipo de aliança."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-01",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

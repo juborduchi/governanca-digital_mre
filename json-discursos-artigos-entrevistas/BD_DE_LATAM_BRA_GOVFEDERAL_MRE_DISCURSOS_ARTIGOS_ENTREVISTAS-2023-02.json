@@ -1,0 +1,1083 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Declaração à imprensa do  Ministro de Estado, Embaixador Mauro Vieira, por ocasião da visita oficial ao Brasil da Ministra da Europa e dos Negócios Estrangeiros da França, Catherine Colonna - Brasília, 8 de fevereiro de 2023",
+            "subtitulo": "NA",
+            "data": "08/02/2023",
+            "horario": "13h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "18h21"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/declaracao-imprensa-do-ministro-de-estado-embaixador-mauro-vieira-na-visita-da-ministra-da-europa-e-dos-negocios-estrangeiros-da-franca-catherine-colonna-brasilia-8-de-fevereiro-de-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Gostaria de expressar minha grande satisfação com a visita, no dia de hoje, da ministra Catherine Colonna logo no primeiro mês do início do governo do Presidente Lula.",
+                "A visita da Ministra Colonna, a primeira em nível ministerial desde 2019 ao Brasil, simboliza a retomada e revitalização da Parceria Estratégica entre o Brasil e a França, lançada pelo Presidente Lula e pelo Presidente Jacques Chirac, em 2006.",
+                "O Brasil e a França possuem importantes vínculos políticos, econômicos e culturais, assentados em quase 200 anos de história. Com a visita da Ministra Catherine Colonna, viramos a página dos últimos anos e recolocamos nossas relações no nível elevado que esperam e desejam ambas as sociedades.",
+                "A Ministra Colonna será recebida hoje à tarde pelo Presidente Lula, que reiterou, já em mais de uma ocasião, os agradecimentos pelo apoio da França à institucionalidade democrática no Brasil. O Presidente Lula já reiterou e mais uma vez apresentará o convite para que o Presidente Macron participe da Cúpula dos Países Amazônicos e, posteriormente, realize uma visita bilateral a Brasília.",
+                "Hoje pela manhã, no Itamaraty, mantivemos uma discussão muito produtiva sobre os principais temas da nossa agenda bilateral, bem como sobre nossa cooperação em foros multilaterais e as principais questões internacionais da atualidade.",
+                "Da nossa pauta bilateral, ressaltamos o bom andamento dos nossos projetos de cooperação em defesa, em particular o Programa de Desenvolvimento e Nacionalização de Helicópteros e o Programa de Desenvolvimento de Submarinos – um dos nossos principais projetos estratégicos. Conversamos, também, sobre a redinamização de nossa cooperação bilateral em áreas como ciência, tecnologia e inovação e cultural.",
+                "Nossos países são parceiros tradicionais e devem trabalhar de forma coordenada na agenda de meio-ambiente, mudança do clima e transição energética. Ressaltei a intenção do Brasil de retomar seu tradicional protagonismo nas discussões internacionais sobre meio-ambiente.",
+                "Tratamos de questões relativas ao regime de mudança do clima, que tem o Acordo de Paris como um de seus principais instrumentos. Destaquei, também, em particular, a necessidade de financiamento climático adequado aos países em desenvolvimento.",
+                "A respeito do combate ao desmatamento na Amazônia, reforcei o compromisso do Brasil em zerar o desmatamento ilegal até 2030.",
+                "Durante nosso encontro, expusemos também nossas visões sobre o aprofundamento da cooperação transfronteiriça. Brasil e França compartilham 730km de fronteira comum – a maior fronteira terrestre da França, ao longo da linha Amapá/Guiana Francesa. Comprometemo-nos a reforçar a cooperação transfronteiriça, de modo a que nossa fronteira comum seja uma zona segura, pacífica e ambientalmente sustentável",
+                "Concordamos em que o primeiro passo nesse sentido deverá ser a realização, tão logo possível, de novas reuniões do Conselho do Rio Oiapoque e da Comissão Mista Transfronteiriça, instâncias de coordenação bilateral organizadas em conjunto com as autoridades amapaenses e franco-guianenses.",
+                "Reforcei junto à ministra Colonna a posição do Brasil sobre o conflito na Ucrânia, pautada nos princípios constitucionais e no direito internacional. Não será com armas que resolveremos o conflito, mas com diálogo e busca de soluções aceitáveis para ambos os lados. Reafirmei que o Brasil está pronto a dar uma contribuição neste esforço. Também trocamos impressões sobre a situação da nossa região e da cooperação sobre o Conselho de Segurança da ONU.",
+                "Por fim, trocamos impressões sobre o acordo entre o MERCOSUL e a União Europeia e tivemos uma excelente troca de opiniões sobre como podemos reforçar ainda mais nossa corrente de comércio e de investimentos.",
+                "A França é um dos principais investidores diretos no Brasil e observamos amplo espaço para aprofundarmos investimentos e parcerias industriais, inclusive em setores sustentáveis.",
+                "A visita da minha colega, a Ministra Catherine Colonna, hoje, é uma perfeita ilustração da reabertura do Brasil ao mundo e também do interesse do mundo em voltar a contar com o Brasil desde o início do novo mandato do Presidente Lula. A intensa atividade diplomática que temos conduzido pretende demostrar que o Brasil está de volta aos tabuleiros globais, de onde nunca deveria ter saído. A França é um parceiro incontornável, indispensável e preferencial nesse processo."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Pronunciamento do Presidente da República, Luiz Inácio Lula da Silva, em visita a Washington (EUA), no momento da chegada à Casa Branca - 10/02/2023",
+            "subtitulo": "NA",
+            "data": "10/02/2023",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h12"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/pronunciamento-do-presidente-da-republica-luiz-inacio-lula-da-silva-em-visita-a-washington-eua-no-momento-da-chegada-a-casa-branca-10-02-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Presidente Lula: Presidente Biden, além de recolocar o Brasil na nova geopolítica mundial, porque o Brasil se isolou durante quatro anos, eu tinha três coisas primeiro pra te dizer: primeiro agradecer à solidariedade sua no reconhecimento da minha posse como presidente da República. Segundo, o reconhecimento pela sua postura em defesa da democracia. E por último, lhe dar os parabéns por seu discurso de antes de ontem. E é um discurso que cairia muito bem se fosse feito no Brasil. O senhor sabe que o Brasil ficou quatro anos se auto marginalizando, com um presidente que não gostava de manter relações com nenhum país. O mundo dele terminava e começava com a fake news, de manhã, de tarde e à noite, ele me parece que menospreza relações internacionais.",
+                "Pergunta 1 - Como é que foi o contato com o presidente Joe Biden e se saiu algum anúncio sobre o Fundo Amazônico?Presidente Lula - Olha, primeiro eu gostaria de dar os parabéns a vocês, porque essa função de jornalista deve ser muito complicada. Ficar num frio como esse aqui, esperando para fazer uma pergunta… o jornalismo é uma profissão que precisa ganhar muito bem, muito bem! A segunda coisa é dizer para vocês que é com muita alegria que eu regresso ao Brasil, depois de ter uma conversa longa com o presidente Biden sobre vários problemas de interesse dos Estados Unidos e do Brasil, tanto no campo da igualdade social, da igualdade racial, quanto no campo da democracia, no campo da energia limpa, a questão climática sobretudo, e do fortalecimento da democracia. Eu penso que todo mundo sabe da importância de uma boa relação entre o Brasil e os Estados Unidos. Seja relação do ponto de vista econômico, comercial, seja relação do ponto de vista político, seja a relação do ponto de vista cultural, é muito importante que nós estejamos juntos. E eu tenho certeza que os Estados Unidos, através do presidente Biden, está muito convencido da necessidade de ajudar com que o mundo possa ser cuidado com um pouco mais de carinho, sobretudo para os países que têm muitas reservas florestais ainda, como os países da América do Sul, o Brasil, o Congo e outros países africanos. E eu acho que é importante ter em conta que nós precisamos transformar a riqueza da nossa biodiversidade em algo que possa ser proveitoso para o povo brasileiro que mora na Amazônia. Eu senti muita vontade do presidente Biden em participar da construção de um fundo, sabe? Com todos os países desenvolvidos do mundo para que a gente possa tentar cuidar melhor do nosso planeta. Vocês sabem do nosso compromisso no Brasil, de até 2030 chegarmos a desmatamento zero. Vai ser um trabalho muito, muito, muito delicado. Nós vamos ter que conversar com muitos governadores, com muitos prefeitos. Nós vamos ter que, ao invés de proibir, nós vamos ter que ajudar a incentivar as cidades a não terem que desmatar. Nós vamos ser muito duros com os madeireiros que cortam floresta sem nenhuma autorização, ou garimpeiros que não têm sequer sinalização para garimpar, ou para pesquisar. Nós vamos ser muito duros, porque se não a gente não cuida nem da Amazônia, nem dos indígenas, e nem tão pouco a gente cuida de melhorar o clima do mundo. Eu estou convencido que nós estamos numa outra época. O Brasil volta ao cenário mundial, sabe? Utilizando a sua potência política, a respeitabilidade que o Brasil conquistou, para que a gente possa junto com outros países cumprir a tarefa que nós temos que cumprir com a humanidade. Uma coisa muito importante que eu acho que precisa acontecer, é que a gente tem que ter uma governança global com mais autoridade, que outros países possam participar do Conselho de Segurança para que algumas decisões de ordem climática sejam tomadas ao nível internacional. Eu senti muita disposição do presidente americano de contribuir para isso, as nossas equipes vão continuar conversando em todas as áreas para que a gente possa ter uma evolução muito, muito importante para o Brasil e para os Estados Unidos.",
+                "Pergunta 2 - Bem-vindo aos Estados Unidos. Você vai honrar seu compromisso de campanha eleitoral de não buscar a legalização do aborto no Brasil?Presidente Lula - Veja, primeiro, a questão do aborto não é uma questão de discutir pelo Governo Federal. É uma questão do Congresso Nacional, está definido na nossa Constituição e, portanto, não é um assunto a ser levado à discussão pelo presidente da República, esse é um assunto pertinente ao Congresso Nacional.",
+                "Pergunta 3: Presidente, obrigada, os Estados Unidos vão entrar no Fundo Amazônia?Presidente Lula - Eu acho que vão. Eu acho que vão, veja, não só eu acho que vão, como é necessário que participe. Porque, veja, o Brasil não quer transformar a Amazônia num santuário da humanidade, mas também o Brasil não quer abrir mão de que a Amazônia é um território do qual o Brasil é soberano. O que nós queremos, na verdade, é compartilhar com a ciência do mundo inteiro um estudo profundo sobre a necessidade da manutenção da Amazônia, mas extrair da riqueza da biodiversidade da Amazônia algo que possa significar a melhoria da qualidade de vida das pessoas que moram lá, que são mais de 25 milhões de pessoas. E, fazendo isso, a gente vai estar garantindo que haja uma maior seguridade em relação ao planeta, porque agora todo mundo já sabe que o planeta é redondo, que ele gira, e que ele, portanto, passa em todo lugar e que ninguém escapa da destruição que a gente fizer no planeta.",
+                "Pergunta 4: O senhor fez a proposta de um grupo de paz para tentar mediar o fim da guerra entre a Ucrânia e a Rússia, como que o presidente Biden reagiu à essa proposta? E só pra ter claro na questão do Fundo Amazônia, se o Biden falou claramente que vai colocar investimento no Fundo Amazônia, ou se vocês vão construir o Fundo com vários países da região amazônica, do continente americano e de outros países?Presidente Lula - Veja, eu acho que eu não discuti especificamente um Fundo Amazônico, eu discuti a necessidade dos países ricos assumirem a responsabilidade de financiar todos os países que têm florestas, e só na América do Sul, além do Brasil, nós temos o Equador, temos a Colômbia, temos o Peru, temos a Venezuela, temos as Guianas, ou seja, nós temos vários países que nós temos que cuidar. Então, eu não tratei especificamente do Fundo Amazônico, tem a necessidade de preservar. Agora, o que eu posso te dizer é que ele vai participar do Fundo Amazônico. A segunda coisa, é que eu falei com o presidente Biden, o que eu já tinha falado ao presidente Macron, o que eu já tinha falado ao chanceler alemão Olaf Scholz, sobre a necessidade de se criar um grupo de países que não estão envolvidos diretamente, ou indiretamente, na guerra da Rússia contra a Ucrânia, para que a gente encontre possibilidade de fazer a paz. Ou seja, eu estou convencido que é preciso encontrar uma saída para colocar fim à essa guerra, e eu senti da parte do presidente Biden a mesma preocupação, porque ninguém quer que essa guerra continue, e é preciso que tenham parceiros capazes de construir um grupo de negociadores que os dois lados acreditem, e que os dois lados possam compreender e terminar essa guerra. A primeira coisa é terminar a guerra, depois é negociar o que que vai acontecer no futuro, mas é preciso parar de atirar, se não, não tem solução",
+                "Pergunta 5: Senhor presidente, quando o presidente Lula pensa em visitar Angola? Sabemos que Angola e Brasil tem uma relação excelente. Para que também o presidente Lula possa levar uma imagem mais recente da Angola para os brasileiros, porque recentemente a Globo passou imagens muito antigas da Angola, de mais de 20 anos, que não mostrou a atual realidade do país. O presidente Lula pensa em visitar a Angola, de maneira a levar uma imagem nova de Angola aos brasileiros?Presidente Lula - Olha, eu estou organizando agora certamente uma viagem para três países africanos. Eu quero ir à Angola, quero ir à África do Sul e quero ir à Moçambique, numa demonstração de que o Brasil vai reatar a sua forte relação com o continente Africano. Você sabe que o Brasil deve muito da sua cultura ao continente Africano. É uma dívida que não pode ser paga em dinheiro, ela tem que ser paga em troca, sabe, de ciência e tecnologia, em ajuda que o Brasil pode dar do ponto de vista do desenvolvimento em várias áreas. E nós vamos fazer isso, porque é uma obrigação histórica e uma obrigação humanitária do Brasil manter uma belíssima relação com o continente africano. A relação do Brasil com a Angola sempre foi uma relação muito boa, é importante você saber que o Brasil foi o primeiro país a reconhecer a independência de Angola."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Entrevista do presidente Lula após encontro com o presidente dos EUA, Joe Biden, em 10 de fevereiro",
+            "subtitulo": "Transcrição da entrevista concedida pelo presidente Luiz Inácio Lula da Silva em Washington, após encontro com Joe Biden",
+            "data": "10/02/2023",
+            "horario": "23h06",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h56"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-entrevistas/luiz-inacio-lula-da-silva-2023-2026/entrevista-do-presidente-lula-apos-encontro-com-o-presidente-dos-eua-joe-biden-em-10-de-fevereiro",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Pergunta 1: Como é que foi o contato com o presidente Joe Biden e se saiu algum anúncio sobre o Fundo Amazônico?",
+                "Olha, primeiro eu gostaria de dar os parabéns a vocês, porque essa função de jornalista deve ser muito complicada. Ficar num frio como esse aqui, esperando para fazer uma pergunta… o jornalismo é uma profissão que precisa ganhar muito bem, muito bem!",
+                "A segunda coisa é dizer para vocês que é com muita alegria que eu regresso ao Brasil, depois de ter uma conversa longa com o presidente Biden sobre vários problemas de interesse dos Estados Unidos e do Brasil, tanto no campo da igualdade social, da igualdade racial, quanto no campo da democracia, no campo da energia limpa, a questão climática sobretudo, e do fortalecimento da democracia.",
+                "Eu penso que todo mundo sabe da importância de uma boa relação entre o Brasil e os Estados Unidos. Seja relação do ponto de vista econômico, comercial, seja relação do ponto de vista político, seja a relação do ponto de vista cultural, é muito importante que nós estejamos juntos. E eu tenho certeza que os Estados Unidos, através do presidente Biden, está muito convencido da necessidade de ajudar com que o mundo possa ser cuidado com pouco mais de carinho, sobretudo para os países que têm muitas reservas florestais ainda, como os países da América do Sul, o Brasil, o Congo e outros países africanos.",
+                "E eu acho que é importante ter em conta que nós precisamos transformar a riqueza da nossa biodiversidade em algo que possa ser proveitoso para o povo brasileiro que mora na Amazônia. Eu senti muita vontade do presidente Biden em participar da construção de um fundo, sabe? Com todos os países desenvolvidos do mundo para que a gente possa tentar cuidar melhor do nosso planeta.",
+                "Vocês sabem do nosso compromisso no Brasil, de até 2030 chegarmos a desmatamento zero. Vai ser um trabalho muito, muito, muito delicado. Nós vamos ter que conversar com muitos governadores, com muitos prefeitos. Nós vamos ter que, ao invés de proibir, nós vamos ter que ajudar a incentivar as cidades a não terem que desmatar. Nós vamos ser muito duros com os madeireiros que cortam floresta sem nenhuma autorização, ou garimpeiros que não tem sequer sinalização para garimpar, ou para pesquisar.",
+                "Nós vamos ser muito duros, porque se não a gente não cuida nem da Amazônia, nem dos indígenas, e nem tão pouco a gente cuida de melhorar o clima do mundo. Eu estou convencido que nós estamos numa outra época. O Brasil volta ao cenário mundial, sabe? Utilizando a sua potência política, a respeitabilidade que o Brasil conquistou, para que a gente possa junto com outros países cumprir a tarefa que nós temos que cumprir com a humanidade.",
+                "Uma coisa muito importante que eu acho que precisa acontecer, é que a gente tem que ter uma governança global com mais autoridade, que outros países possam participar do conselho de segurança para que algumas decisões de ordem climática sejam tomadas ao nível internacional. Eu senti muita disposição do presidente americano de contribuir para isso, as nossas equipes vão continuar conversando em todas as áreas para que a gente possa ter uma evolução muito, muito importante para o Brasil e para os Estados Unidos.",
+                "Pergunta 2: Bem-vindo aos Estados Unidos, você vai honrar seu compromisso de campanha eleitoral de não buscar a legalização do aborto no Brasil?",
+                "Veja, primeiro, a questão do aborto não é uma questão de discutir pelo Governo Federal. É uma questão do Congresso Nacional, está definido na nossa Constituição e, portanto, não é um assunto a ser levado à discussão pelo presidente da República, esse é um assunto pertinente ao Congresso Nacional.",
+                "Pergunta 3: Presidente, obrigada, os Estados Unidos vão entrar no Fundo Amazônia?",
+                "Eu acho que vão. Eu acho que vão, veja, não só eu acho que vão, como é necessário que participe. Porque, veja, o Brasil não quer transformar a Amazônia num santuário da humanidade, mas também o Brasil não quer abrir mão de que a Amazônia é um território do qual o Brasil é soberano.",
+                "O que nós queremos, na verdade, é compartilhar com a ciência do mundo inteiro um estudo profundo sobre a necessidade da manutenção da Amazônia, mas extrair da riqueza da biodiversidade da Amazônia algo que possa significar a melhoria da qualidade de vida das pessoas que moram lá, que são mais de 25 milhões de pessoas. E, fazendo isso, a gente vai estar garantindo que haja uma maior seguridade em relação ao planeta, porque agora todo mundo já sabe que o planeta é redondo, que ele gira, e que ele, portanto, passa em todo lugar e que ninguém escapa da destruição que a gente fizer no planeta.",
+                "Pergunta 4: O senhor fez a proposta de um grupo de paz para tentar mediar o fim da guerra entre a Ucrânia e a Rússia, como que o presidente Biden reagiu à essa proposta? E só pra ter claro na questão do Fundo Amazônia, se o Biden falou claramente que vai colocar investimento no Fundo Amazônia, ou se vocês vão construir o Fundo com vários países da região amazônica, do continente americano e de outros países?",
+                "Veja, eu acho que eu não discuti especificamente um Fundo Amazônico, eu discuti a necessidade dos países ricos assumirem a responsabilidade de financiar todos os países que têm florestas, e só na América do Sul, além do Brasil, nós temos o Equador, temos a Colômbia, temos o Peru, temos a Venezuela, temos as Guianas, ou seja, nós temos vários países que nós temos que cuidar. Então, eu não tratei especificamente do Fundo Amazônico, tem a necessidade de preservar. Agora, o que eu posso te dizer é que ele vai participar do Fundo Amazônico.",
+                "A segunda coisa, é que eu falei com o presidente Biden, o que eu já tinha falado ao presidente Macron, o que eu já tinha falado ao chanceler alemão Olaf Scholz, sobre a necessidade de se criar um grupo de países que não estão envolvidos diretamente, ou indiretamente, na guerra da Rússia contra a Ucrânia, para que a gente encontre possibilidade de fazer a paz.",
+                "Ou seja, eu estou convencido que é preciso encontrar uma saída para colocar fim à essa guerra, e eu senti da parte do presidente Biden a mesma preocupação, porque ninguém quer que essa guerra continue, e é preciso que tenham parceiros capazes de construir um grupo de negociadores que os dois lados acreditem, e que os dois lados possam compreender e terminar essa guerra. A primeira coisa é terminar a guerra, depois é negociar o que que vai acontecer no futuro, mas é preciso parar de atirar, se não, não tem solução",
+                "Pergunta 5: Senhor presidente, quando o presidente Lula pensa em visitar Angola? Sabemos que Angola e Brasil tem uma relação excelente. Para que também o presidente Lula possa levar uma imagem mais recente da Angola para os brasileiros, porque recentemente a Globo passou imagens muito antigas da Angola, de mais de 20 anos, que não mostrou a atual realidade do país. O presidente Lula pensa em visitar a Angola, de maneira a levar uma imagem nova de Angola aos brasileiros?",
+                "Olha, eu estou organizando agora certamente uma viagem para três países africanos. Eu quero ir à Angola, quero ir à África do Sul e quero ir à Moçambique, numa demonstração de que o Brasil vai reatar a sua forte relação com o continente Africano. Você sabe que o Brasil deve muito da sua cultura ao continente Africano.",
+                "É uma dívida que não pode ser paga em dinheiro, ela tem que ser paga em troca, sabe, de ciência e tecnologia, em ajuda que o Brasil pode dar do ponto de vista do desenvolvimento em várias áreas. E nós vamos fazer isso, porque é uma obrigação histórica e uma obrigação humanitária do Brasil manter uma belíssima relação com o continente africano. A relação do Brasil com a Angola sempre foi uma relação muito boa, é importante você saber que o Brasil foi o primeiro país a reconhecer a independência de Angola."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "Brasil sempre condenou invasão à Ucrânia, diz ministro das Relações Exteriores (CNN, 24/02/2023)",
+            "subtitulo": "NA",
+            "data": "24/02/2023",
+            "horario": "18h01",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "15h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/mauro-vieira-2023/brasil-sempre-condenou-invasao-a-ucrania-diz-ministro-das-relacoes-exteriores-cnn-24-02-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Daniel Rittner, Pedro Nogueira, Lucas Schroeder",
+                "O ministro das Relações Exteriores, Mauro Vieira, afirmou, em entrevista à CNN nesta sexta-feira (24), que “o Brasil sempre condenou a invasão à Ucrânia“, que completa um ano hoje.",
+                "Na quinta-feira (23), a Organização das Nações Unidas (ONU) aprovou uma resolução que pede a retirada das tropas russas da Ucrânia. O Brasil votou a favor da resolução e pediu o fim das hostilidades no Leste Europeu.",
+                "“Além de se condenar [a invasão], pela primeira vez se dá um passo adiante no sentido de abrir as portas para uma possível negociação de paz”, avaliou o chanceler brasileiro.",
+                "“Deploramos que já tenha um ano inteiro de guerra com mortes, destruição e impactos em todo o mundo”, acrescentou Mauro Vieira.",
+                "Na avaliação do ministro, o Conselho de Segurança das Nações Unidas precisa ser reformado, uma vez que sua composição “não reflete mais o número de países e a geopolítica da época em que foi criado”.",
+                "“Todos os organismos internacionais precisam de uma atualização e precisam ser revitalizados, como, por exemplo, a Organização Mundial do Comércio (OMC)”, defendeu o ministro.",
+                "Veja a íntegra da entrevista no link abaixo:",
+                "https://www.cnnbrasil.com.br/internacional/brasil-sempre-condenou-invasao-a-ucrania-diz-ministro-das-relacoes-exteriores/"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "Itamaraty desfaz decisões de Bolsonaro e diz não tomar posição na Ucrânia (UOL, 16/02/2023)",
+            "subtitulo": "NA",
+            "data": "16/02/2023",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "15h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/mauro-vieira-2023/itamaraty-desfaz-decisoes-de-bolsonaro-e-diz-nao-tomar-posicao-na-ucrania-uol-16-02-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Jamil Chade",
+                "Apesar de assinar um comunicado conjunto com o presidente dos EUA, Joe Biden, citando \"a violação da integridade territorial da Ucrânia pela Rússia e a anexação de partes de seu território como violações flagrantes do direito internacional\", o governo Lula não está tomando partido na guerra. Quem afirma isso é o chanceler Mauro Vieira.",
+                "Em entrevista exclusiva ao UOL, o chefe da diplomacia brasileira revela que irá desfazer decisões tomadas pelo ex-presidente Jair Bolsonaro para reposicionar o Brasil na geopolítica mundial e diz reconhecer que houve uma agressão a um território. Segundo ele, essa mensagem será colocada ao ministro de Relações Exteriores da Rússia, Sergey Lavrov, em sua visita ao Brasil em abril.",
+                "Mas o Itamaraty deixará claro aos russos que quer negociar e encontrar um caminho para iniciar um processo de cessar-fogo.",
+                "Nós não estamos tomando partido de forma alguma. Queremos oferecer os nossos bons ofícios, se as partes quiserem, para tentar encontrar uma forma de negociar um cessar-fogo ou algo",
+                "Mauro Vieira",
+                "O chanceler participa a partir de sexta-feira da Conferência de Segurança de Munique, um dos principais fóruns internacionais para o debate sobre a geopolítica. Durante o encontro, ele realizará diversas reuniões bilaterais, inclusive com o chefe da diplomacia da União Europeia, Josep Borell. A posição do Brasil sobre a guerra na Ucrânia será um dos principais temas.",
+                "Durante a entrevista, o chanceler ainda sinalizou que:",
+                "A ideologia na diplomacia de Jair Bolsonaro prejudicou brasileiros fora do país;",
+                "A política externa de Lula defenderá a democracia com \"todos os países\", inclusive na pauta com Venezuela e Cuba;",
+                "O Brasil vai deixar o fórum de extrema direita que tem a participação de Hungria e Polônia",
+                "Se houver um acordo de expansão do bloco dos Brics, o Brasil defenderá a adesão da Argentina;",
+                "Eis os principais trechos da entrevista feita por telefone:",
+                "Jamil Chade - Ao aceitar que houve uma agressão ao território ucraniano pelos russos, o Brasil está tomando partido na guerra?",
+                "Mauro Vieira - Não. A declaração de que houve a agressão e a invasão é uma questão de estar de acordo com o direito internacional que, aliás, é uma orientação da Constituição Brasileira. Então, nós não estamos tomando partido de forma alguma. Queremos oferecer os nossos bons ofícios, se as partes quiserem, para tentar encontrar uma forma de negociar um cessar-fogo ou algo. Queremos, com outros países, trabalhar para que haja condições de se fazer algum tipo de movimento que leve a um início de negociação para acabar o sofrimento e a destruição.",
+                "Agora, nós tomamos uma posição no Conselho de Segurança da ONU e na Assembleia Geral, condenando a agressão e invasão. Houve um fato concreto. Não houve dúvida de que houve uma invasão.",
+                "Qual a mensagem que o Brasil dará para Sergey Lavrov, chanceler russo, quando ele visitar o país em abril?",
+                "O recado vai ser este. De ouvir e ver o que eles têm a dizer e dizer, sobretudo, que o Brasil condenou por não poder deixar de condenar uma invasão. A integridade territorial de um país foi violada. Da mesma forma que a nossa integridade territorial seja sempre resguardada, temos também que ter a mesma posição com outros países.",
+                "Mas também vamos dizer que estamos prontos para conversar e colocar à disposição os bons ofícios do Brasil, com outro grupo de países. Nenhum país pode isoladamente conseguir essa façanha. Vamos precisar de um grupo de países que possa promover um diálogo de boa vontade para que se chegue a algum tipo de entendimento.",
+                "O senhor tratará do tema nesta semana durante a Conferência de Segurança em Munique?",
+                "O presidente Luiz Inácio Lula da Silva já falou em Washington e Buenos Aires sobre isso. E todos sabem que o Brasil —por ser tradicionalmente um país pacífico, um país que vive junto a dez outros vizinhos, que negociou todas suas fronteiras— está sempre à disposição para ajudar a encontrar soluções.",
+                "No próximo mês, o presidente Lula viaja para a China. O que se espera dessa missão? Novos acordos serão anunciados?",
+                "Uma vista grande, como será, sempre há oportunidades e vamos examinar. Já estamos trabalhando internamente no Itamaraty e muitas coisas podem surgir. Uma parte importante vai ser o lado politico da visita e o sinal político que será dado.",
+                "Isso quer dizer que a China ganha status novo?",
+                "A China é um parceiro indispensável do Brasil. É um maior parceiro comercial e um grande parceiro em cooperação científica.",
+                "O Brasil aceita a ideia da expansão do grupo dos Brics?",
+                "O bloco já se expandiu. Já houve o acréscimo da África do Sul. Como é um clube de cinco países, acho que após consultas internas e um consenso, o Brasil não tem nenhum obstáculo nisso.",
+                "O Brasil colocaria um candidato, como Argentina? Haveria interesse em uma expansão na América do Sul?",
+                "Se houver consenso para uma expansão dentro do bloco, a Argentina é um candidato natural e seria um candidato natural do Brasil.",
+                "O Brasil abriu mão do status de país em desenvolvimento na OMC (Organização Mundial de Comércio) durante o governo de Jair Bolsonaro e depois de um entendimento com os EUA. O atual governo vai manter a decisão passada ou retoma a posição de país em desenvolvimento?",
+                "Todas as decisões que envolverem o interesse nacional de forma positiva serão tomadas. Se for do interesse nacional, sim. Aliás, o Brasil é um país em desenvolvimento. É e nunca deixou de ser. É membro dos Brics, que é um bloco de países em desenvolvimento. É membro do grupo de países que luta pela reforma do Conselho de Segurança, é observador do Grupo dos Países Não Alinhados. É membro do Mercosul, que é um bloco de países em desenvolvimento. Portanto, que o Brasil é um país em desenvolvimento não há dúvida. Se for necessário, sim.",
+                "Sim, retomará o status de país em desenvolvimento?",
+                "Sim. O interesse nacional é que vai ditar. Nada de alinhamentos automáticos ou decisões pré-concebidas.",
+                "Mas temos de fazer outras coisas mais importantes na OMC, que é solucionar a paralisia do mecanismo de solução de controvérsia. Nem cabe discutir nada antes. A OMC está numa paralisia total e está em uma situação em que um de seus braços mais importantes está paralisado.",
+                "Justamente pelo Brasil fazer parte de diferentes grupos de países em desenvolvimento, afeta a credibilidade do país como um emergente a adesão do país à OCDE [clube dos países mais ricos]?",
+                "Não fazemos parte ainda. Fomos convidados a negociar o acesso. E isso é um processo longo. Pelo que eu vi em declarações na imprensa por parte do secretário-geral da OCDE, isso pode levar quatro ou cinco anos, com a adaptação da legislação. Isso tem de ser visto e examinado. Os demais [convidados] também são países em desenvolvimento.",
+                "O Brasil, então, não tem pressa?",
+                "Não é uma questão de ter pressa. Tendo ou não tendo [pressa], você precisa adaptar sua legislação. Então, demora. Depois, precisam ser avaliadas as questões políticas. Temos de ver qual vai ser o balanço político no Congresso para aprovar tantas legislações.",
+                "Mas interessa fazer parte da OCDE?",
+                "Tudo o que for do interesse nacional, sim. Se tivermos vantagens dessa adesão, sim.",
+                "O Brasil saiu do Consenso de Genebra. Mas não saiu da iniciativa Parceria para a Família, com Hungria e Polônia. Por qual motivo?",
+                "Você pode anunciar que vamos sair. Amanhã ou depois de amanhã. Foi apenas uma questão de tempo.",
+                "Por qual motivo saímos?",
+                "Da mesma forma que aconteceu no Consenso de Genebra, não interessava ao Brasil continuar.",
+                "E por qual motivo não interessava?",
+                "São políticas extremamente conservadoras, Algumas delas vão contra a legislação brasileira e não tem nenhum interesse em participar desse grupo. Não nos leva a nada. Pelo contrário.",
+                "O Conselho de Direitos Humanos da ONU começa em poucas semanas. Haverá uma mudança no padrão de participação do Brasil?",
+                "O que eu posso te dizer é que os alinhamentos automáticos e ideológico que existiam no passado não existirão mais. Vamos examinar cada caso individualmente. Nossa posição será estudada.",
+                "A ideologia pautou a diplomacia de Jair Bolsonaro. O senhor considera que ela prejudicou o interesse nacional?",
+                "Acho que prejudicou o interesse nacional e os cidadãos brasileiros. Fechar a embaixada em Caracas e quatro consulados prejudicou 25 mil brasileiros que vivem na Venezuela. A decisão foi tomada com base apenas política e ideológica. E essas pessoas ficaram abandonadas na Venezuela. Quando precisavam de qualquer tipo de documento, tinham de viajar até a Colômbia. A proteção dos brasileiros é um dever constitucional e temos de ter isso num país vizinho, com uma fronteira tão grande, numa região tão frágil.",
+                "Já reabrirmos a embaixada e estamos tomando as últimas medidas para reabrir os consultados.",
+                "Já que o senhor citou a Venezuela. Uma das pautas da campanha foi a defesa da democracia. Em política externa, o Brasil vai também falar de democracia?",
+                "Lógico. Nós sempre falamos. No governo de Dilma Rousseff, havia uma troika da Unasul que viajava. Eu, como ministro do governo Dilma, fui mais de uma vez por mês para a Venezuela com o chanceler do Equador e a chanceler da Colômbia. Mantivemos negociações constantes e contatos com o governo, em todas as áreas. Do presidente à Suprema Corte. Falamos também com a oposição. Negociávamos e conversávamos e, finalmente, o governo venezuelano aceitou a realização das eleições nas quais o governo saiu derrotado. Esse é o papel. Negociar é conversar. Não virar as costas por ter uma posição diferente.",
+                "Então a democracia vai ser uma pauta com a Venezuela ou Cuba?",
+                "Com todos os países, lógico.",
+                "Brasil fará parte de algum esforço para preparar a eleição na Venezuela em 2024?",
+                "Se houver um grupo de bons ofícios ou \"Amigos da Venezuela\" para esse objetivo e se formos convidados, participaremos sem dúvida nenhuma.",
+                "Sobre Israel, a embaixada fica em Tel Aviv?",
+                "Evidente. É a capital que o governo reconhece. A embaixada do Brasil está e ficará em Tel Aviv.",
+                "Há dentro do Itamaraty uma pressão sobre o fato de que as decisões não foram suficientes para promover uma maior igualdade de gênero na chancelaria. O senhor pretende aprofundar essas medidas?",
+                "Já houve tantos passos importantes e únicos. Uma mulher secretaria-geral [do Itamaraty]. Uma mulher na embaixada em Washington e em breve outras serão anunciadas. Temos dez secretários e três são mulheres, que é uma taxa mais que a proporção das mulheres dentro do Itamaraty. O que precisamos fazer é uma política para estimular que mulheres se apresentem nos concursos. Hoje, não podemos promover uma paridade se as mulheres representam 25% [dos diplomatas]."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "Brasil e China vão discutir produção conjunta de satélites, revela chanceler (Valor Econômico, 16/02/2023)",
+            "subtitulo": "Entrevista concedida pelo Ministro de Estado das Relações Exteriores Mauro Vieira a Murillo Camarotto",
+            "data": "16/02/2023",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "15h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/mauro-vieira-2023/brasil-e-china-vao-discutir-producao-conjunta-de-satelites-revela-chanceler-valor-economico-16-02-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Os governos do Brasil e da China devem discutir nos próximos meses a modernização de um programa de cooperação tecnológica entre os dois países para a produção de satélites de observação da Terra. Esse é um dos temas da pauta que a comitiva do presidente Luiz Inácio Lula da Silva levará em março a Pequim, informou ao Valor o ministro das Relações Exteriores, Mauro Vieira.",
+                "Com quase 40 anos, a parceria viabilizou a produção de satélites de diversas aplicações, do monitoramento do clima a projetos de sistematização e uso da terra, além de gerenciamento de recursos hídricos e produção de imagens para licenciamento ambiental.",
+                "“Além da política, as prioridades são econômicas, na área de ciência e tecnologia, educação, pesquisa. Há mais de dez anos a China é nosso maior parceiro comercial, com grandes investimentos, e um ator imprescindível no mundo”, disse o chanceler. “Vamos discutir com eles a reformulação do Conselho de Segurança, os métodos de trabalho da ONU, uma nova governança global e acordos comerciais que podem surgir”, completou.",
+                "Ele acredita que a tensão diplomática entre China e Estados Unidos, agravada após a identificação de balões supostamente espiões, ainda não é grave o suficiente para demandar uma eventual intermediação de outros países. “Acho que são incidentes que têm que ser resolvidos, mas sobretudo em contatos entre os dois países”, disse.",
+                "Sobre os desdobramentos da recente ida de Lula a Washington, Vieira disse que o ex-secretário de Estado John Kerry deve chegar ao Brasil na primeira semana após o Carnaval para dar andamento à adesão dos EUA ao Fundo Amazônia. Ele também comentou as atribuições do ex-chanceler Luiz Alberto Figueiredo, recentemente nomeado embaixador do Clima.",
+                "Vieira falou ainda das expectativas do Brasil para o andamento do acordo comercial entre Mercosul e União Europeia e para as eleições da Venezuela, em 2024. Em entrevista recente ao jornal “O Globo”, o chanceler argentino, Santiago Cafiero, disse que o Brasil poderia ser convidado a participar de um grupo de países para mediar o debate entre o governo Nicolás Maduro e a oposição, visando eleições transparentes.",
+                "A seguir os principais pontos da entrevista:",
+                "Fundo Amazônia",
+                "A visita [aos EUA] foi realmente excepcional, uma visita de cunho político, que serviu para restabelecer o contato. O resultado imediato foi a boa vontade dos Estados Unidos em aderir ao Fundo Amazônia. Mas tudo isso vai continuar e agora vai haver negociações em nível técnico. Essa foi uma visita basicamente política, os presidentes manifestaram intenções, mas não houve negociação. E agora isso vai continuar a ter desdobramentos. Em breve, no dia 27 ou 28 [de fevereiro], o ex-senador e ex-secretário de Estado John Kerry, agora negociador americano para o Clima, estará no Brasil e vai retomar as conversas iniciadas pelos presidentes em relação ao Fundo Amazônia e outros que virão.",
+                "Convite para reunião do G7",
+                "O Brasil já foi convidado várias vezes para esse diálogo com países do G7, deixou de ser convidado nos últimos anos e agora volta a ser. No momento em que for efetivado o convite, o Brasil participará, sem dúvida nenhuma. Temos contribuições a apresentar. Não tem nada a ver com a posição brasileira no conflito [Rússia-Ucrânia], sobretudo no que diz respeito ao fornecimento de armas, porque nós não nos engajamos nisso, nem com a reforma do Conselho de Segurança da ONU. São assuntos que não se comunicam.",
+                "OCDE",
+                "Isso é um assunto que envolve vários ministérios, não só as Relações Exteriores. Toda a área econômica, Indústria e Comércio, Agricultura etc. Nós estamos há pouco mais de 40 dias no governo e estamos avaliando o convite que foi recebido pelo governo anterior. E aí vamos ver os passos a tomar. É um processo longo, em que você tem que tomar decisões e aderir a muitas convenções, inclusive adaptando legislações internas. Então é um processo longo que a própria OCDE calcula que seja algo entre quatro e cinco anos. Então, estamos avaliando e tudo o que for do interesse do Brasil será perseguido.",
+                "Lula na China",
+                "Além da política, as prioridades são econômicas, na área de ciência e tecnologia, educação, pesquisa etc. Há mais de dez anos a China é nosso maior parceiro comercial, com grandes investimentos, e ator imprescindível no mundo. O Brasil terá, sem dúvida, muitos assuntos para discutir com as autoridades chinesas. Por exemplo, vamos discutir com eles a reformulação do Conselho de Segurança, os métodos de trabalho da ONU, uma nova governança global, acordos comerciais que podem surgir e investimentos. O Brasil tem há quase 40 anos um programa de pesquisas espaciais e construção de satélites de observação da Terra e isso tudo tem que ser adaptado aos requerimentos atuais.",
+                "Acordo comercial China-Uruguai",
+                "A posição do Brasil é de que o Mercosul negocia sempre em conjunto. As questões que podem haver, que surgem, são discutidas dentro do Mercosul. Quer dizer, se o Uruguai tem posições específicas, elas serão discutidas dentro do Mercosul, entre os países do Mercosul e não entre o Brasil e a China.",
+                "Crise dos balões",
+                "Acho que são incidentes que têm que ser resolvidos, mas sobretudo em contatos entre os dois países. Não vejo que seja uma situação alarmante neste momento. Evidentemente que todos os países têm que defender seu espaço aéreo e sua integridade territorial, mas não acho que estejamos diante de uma situação de grande gravidade.",
+                "Rússia x Ucrânia",
+                "O presidente tem dito repetidamente que se fala muito em guerra e em armas e que ele gostaria de ouvir mais pessoal falando em buscar a paz. Então, ele sempre se colocou à disposição para que haja um movimento de países e que a contribuição do Brasil seja considerada importante. Se convidado a participar, o Brasil poderia acrescentar a sua voz a países que querem buscar a paz, ou seja, promover uma discussão e uma condição em que se possa falar de paz e não só de guerra. Ele tem manifestado a intenção de contribuir no momento em que for criado um grupo. O presidente falou disso com o chanceler alemão (Olaf Scholz), com o presidente da Argentina (Alberto Fernández), com o presidente do Uruguai (Lacalle Pou) e em conversas telefônicas com chefes de Estado, mas ainda não há nada concreto, preciso.",
+                "Acordo UE-Mercosul",
+                "Estamos esperando que a União Europeia nos apresente os anexos ao acordo que foi negociado e concluído no governo passado. E nós estamos avaliando o conteúdo para ver no que o interesse nacional está resguardado. Vamos conversar com nossos parceiros do Mercosul para continuar a negociação, mas depois que conhecermos todos esses anexos do acordo. A informação que eu tenho do governo passado é que a negociação estava concluída a nível técnico, mas que não estava assinado. Para ser assinado, precisará ser revisto pelo atual governo, porque se foi negociado pelo anterior, este tem que saber o que está dentro desse acordo. O acordo é importantíssimo, vai conectar dois blocos importantes, mas agora falta o ato político da assinatura. Depois, a aprovação do Parlamento Europeu, dos parlamentos dos 27 países da UE e do Legislativo dos quatro países do Mercosul. Há ainda um longo percurso a ser percorrido.",
+                "Eleições na Venezuela",
+                "Já tomamos a decisão de reabrir a embaixada do Brasil em Caracas, assim como os consulados na Venezuela. Então já há uma aproximação. Não vi as declarações do ministro Santiago, mas imagino que ele tenha se referido a algum mecanismo semelhante ao que houve no passado da troika da Unasul que negociava com o governo e a oposição na Venezuela para criar condições para que houvesse eleições legislativas - que houve e que o governo perdeu a maioria. Acho que é uma ideia boa reviver um grupo desse tipo, um grupo de contato que possa estabelecer condições de entendimento entre o governo e a oposição.",
+                "Novo embaixador do Clima",
+                "O Itamaraty já designou no passado ministros e embaixadores especiais para o clima. É parecido com a posição que tem o ex-secretário de Estado John Kerry, que é um negociador do clima. No nosso caso, será um embaixador especial do clima, que possa viajar, conversar e explicar posições brasileiras depois de um período de quatro anos em que o país esteve afastado de todo e qualquer diálogo, inclusive com posições internas que eram consideradas hostis em muitos países e que travaram uma série de negociações e a contribuição ao Fundo Amazônia. É uma função que ele terá para poder estar com autoridades de outros países e explicar nossa posição. A negociação continuará sendo feita pelo Ministério do Meio Ambiente e pelo Itamaraty, através do nosso secretário de Meio Ambiente e Clima.",
+                "Dilma no Banco do Brics",
+                "Não sei como está. Preciso conversar com as agências envolvidas e com a presidenta para saber como estão essas questões. Não tenho nenhum dado a mais."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "“Saímos de cima do muro”, diz novo chanceler Mauro Vieira sobre guerra (Veja, 10/02/2023)",
+            "subtitulo": "NA",
+            "data": "10/02/2023",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "15h03"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/mauro-vieira-2023/201csaimos-de-cima-do-muro201d-diz-novo-chanceler-mauro-vieira-sobre-guerra-veja-10-02-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Amanda Péchy",
+                "Em sua segunda passagem pela Esplanada dos Ministérios, o chanceler Mauro Vieira, 71 anos, está debruçado sobre uma agenda repleta de viagens que julga essenciais à tarefa de reinstalar o Brasil no tabuleiro geopolítico. O périplo começou ao lado de Lula em viagem cercada de polêmicas à Argentina e segue nos Estados Unidos, a partir desta sexta-feira, 10, onde a ideia é refazer “laços esgarçados” com o governo Joe Biden. Conhecido pelo temperamento apaziguador, ele chegou a ser criticado por alas do PT depois de, tendo ocupado a pasta na gestão Dilma Rousseff, comparecer à posse de seu sucessor, José Serra, no polarizado cenário pós-impeachment. Com um extenso currículo de embaixadas que comandou em variados momentos da história do país — Buenos Aires, Paris, Washington —, Vieira acabou, na era Bolsonaro, sendo alojado na representação da Croácia e ali ficou isolado, distante das discussões globais. Em entrevista concedida em seu gabinete no Itamaraty, ele diz: “O Brasil está de volta ao jogo.”",
+                "O que a visita de Lula aos Estados Unidos pode trazer de ganhos concretos para o Brasil? Essa visita é essencialmente política. O objetivo é restabelecer laços que ficaram esgarçados na gestão anterior. Foi um período em que havia um alinhamento automático não exatamente com os Estados Unidos, mas com o então presidente Donald Trump. Quando ele perdeu as eleições, em 2020, o elo deixou de existir. Para se ter uma ideia, o governo Jair Bolsonaro demorou mais de um mês para reconhecer a vitória de Joe Biden.",
+                "Há alguma proposta de cooperação na mesa? Por enquanto, não. Só depois dessa reaproximação será possível começar a conversar de forma mais palpável sobre comércio, ciência e tecnologia. Uma das pautas relevantes da visita será a política ambiental. Os presidentes ainda devem falar de futuros investimentos americanos no Brasil e sobre caminhos para abrir espaço à iniciativa privada brasileira lá. Os Estados Unidos sempre estarão em nosso rol prioritário. Depois da China, são nossos maiores parceiros.",
+                "E sobre a visita à China, prevista para ser a próxima escala, há chances de sair daí o tão alardeado acordo com o Mercosul? Ainda não, isso leva mais tempo. Mas é um primeiro passo. O governo chinês convidou Lula e ele já aceitou. Deve embarcar entre março e abril. Fazendo as contas e olhando a agenda, nos primeiros quatro meses de mandato o presidente terá mantido contato com todos os grandes parceiros brasileiros. É um trabalho de refazer pontes que hoje não estão tão sólidas.",
+                "Quais assuntos devem vir à tona na ida a Pequim? Discutirei a agenda em detalhes com o chanceler chinês nesse mês, na reunião do G20, na Índia. Eles são os parceiros comerciais número 1 do Brasil desde 2010, então há muitos interesses em jogo. Como a China ocupa uma posição de destaque na ciência e na tecnologia, essa é uma área que atrai a atenção do Brasil, entre muitas outras. Bolsonaro disparou comentários grosseiros sobre Pequim, criando rusgas que, agora, nos cabe dissolver.",
+                "“A visita aos EUA é para restabelecer laços esgarçados na gestão anterior. Lula e Biden ainda devem falar sobre investimentos americanos no Brasil e caminhos para a iniciativa brasileira lá”",
+                "Como o Brasil vai atuar no complexo tabuleiro em que a China tenta tirar dos Estados Unidos o posto de país mais poderoso? Negociaremos com um e outro, indiscriminadamente. Isso não significa, porém, ir e voltar nos acordos, ao sabor das circunstâncias. Política externa é um esforço de longo prazo. O programa espacial que temos com a China foi selado quatro décadas atrás. Os Estados Unidos, por sua vez, foram nosso maior parceiro por um século inteiro, até 2010. Faremos o que for bom para o Brasil, com diplomacia e não com ideologia.",
+                "A atual política externa de Lula vem sendo comparada à dos mandatos anteriores, sobretudo por dar ênfase às relações com a América Latina, que, com as voltas que o mundo deu, perdeu relevância. Faz sentido enveredar por essa direção? Garanto que, se ajustes forem necessários, serão feitos. Mas se a política do passado seguir nos beneficiando, não hesitaremos em voltar a mecanismos que deram certo. O retorno à Celac (reunião de países latino-americanos e caribenhos), por exemplo, é acertado, já que funciona como um eficiente espaço para o debate de interesses comuns.",
+                "A ideia de uma moeda comum na região, lançada na recente viagem de Lula à Argentina, vai mesmo sair do plano do discurso? Primeiro, só para não haver confusão, o presidente nunca se referiu a uma moeda única, nos moldes do euro, mas a uma unidade comum para trocas internacionais, a começar pela Argentina. Isso pode agilizar o comércio bilateral. Agora, para sair do papel depende de muitas variáveis, não se cria algo assim de uma hora para outra. Afinal, os quatro países do Mercosul apresentam ritmos muito diferentes na economia.",
+                "Lula também citou a intenção de canalizar verbas do BNDES para investimentos no exterior. Como evitar que caiam na teia de corrupção que já enredou outros projetos do gênero? Combatendo, investigando, punindo. Acho inacreditável como criticam investimentos brasileiros no exterior. Esse tipo de linha de financiamento existe justamente para ajudar negócios nacionais, passando por uma aprovação criteriosa. Um even­tual aporte de dinheiro para o gasoduto argentino de Vaca Muerta, para ir até o Rio Grande do Sul, tem potencial para beneficiar uma relevante cadeia produtiva, gerando emprego e renda no Brasil, só para dar um exemplo.",
+                "Não é um problema Lula apoiar ditaduras como as de Cuba e da Venezuela, dizendo que temos de demonstrar “carinho” e “respeito” com países que atropelam os direitos humanos? Não podemos deixar de conversar com Caracas e Havana por seguirmos linhas político-ideológicas divergentes e nos limitar àqueles que compartilham nossas visões — exatamente o que o antigo governo fez. A Venezuela não só é um país vital por deter as maiores reservas de petróleo do mundo, como tem uma fronteira de 2 000 quilômetros com o Brasil, na delicada região da Amazônia. Precisamos considerar nossos interesses. Podemos fazer críticas, mas não vamos fechar embaixadas.",
+                "Por que o Mercosul não deslanchou até hoje? Não vejo assim. De 1991, quando foi criado, a 2011, seu auge, o volume de comércio entre os quatro países (Uruguai, Paraguai, Brasil e Argentina) passou de 4,5 bilhões de dólares a 48,9 bilhões de dólares. Na última década, houve oscilações em razão de crises econômicas regionais e mundiais, mas assistimos a uma forte recuperação. As críticas ao Mercosul estão mais relacionadas ao desejo de alguns países de selar acordos-solo de livre-comércio.",
+                "E por que o acordo do Mercosul com a União Europeia está há anos empacado? Não sei por que ninguém fez nada desde 2019, quando foi assinado, sem ter sido ratificado. Estamos neste momento examinando o texto, e o presidente já deixou claro que é uma prioridade. Quer pôr um ponto-final na história até o fim deste semestre.",
+                "Lula disse que pretende revisar pontos do acordo. Isso não atravancaria ainda mais o processo? A preocupação do presidente é justa: garantir que pequenas e médias empresas consigam ter acesso ao mercado europeu de forma competitiva, daí a necessidade de ajustes. Se não fosse por isso, poderíamos assinar imediatamente.",
+                "Segue na pauta o ingresso do Brasil no Conselho de Segurança da ONU como membro permanente? O tema está na ordem do dia. Vamos manter, com esse objetivo, um firme trabalho junto aos membros permanentes e não permanentes do Conselho.",
+                "E a entrada na OCDE (organização que reúne os países mais desenvolvidos) é uma possibilidade? O convite para ser membro foi apresentado ao governo brasileiro e será estudado. Lula já demonstrou interesse.",
+                "No recente encontro com o chanceler alemão Olaf Scholz, Lula afirmou que “quando um não quer, dois não brigam”, mantendo um discurso ambíguo sobre o conflito entre Ucrânia e Rússia. Não está na hora de um pronunciamento mais enfático? Na minha interpretação, o que ele quis dizer com essas palavras é que, quando dois estão em guerra, se um lado fizer um gesto e o outro seguir, isso pode abrir chance para a negociação. A propósito, o presidente já afirmou inúmeras vezes que condena a invasão russa e a guerra. Ao contrário do governo Bolsonaro, agora o Brasil saiu de cima do muro.",
+                "“Bolsonaro interferiu em assuntos internos de outros países, criou saias-justas e fez comentários grosseiros sobre seus líderes. Nunca tinha visto em minha carreira nada parecido”",
+                "Por que então o Brasil negou o pedido da Alemanha para fornecer munição aos tanques na Ucrânia? O governo não quer dar armas para que as pessoas se matem, mas conversar sobre a paz. Aliás, se formos chamados para ajudar a mediar as negociações, estamos dispostos a participar.",
+                "Como avalia a política externa na gestão Bolsonaro? Prefiro não cutucar o passado, mas, tudo bem, falo um pouquinho aqui. Bolsonaro interferiu em assuntos internos de outros países, criou saias-justas e fez comentários grosseiros sobre seus líderes. Nunca tinha visto em todos os meus anos de carreira nada parecido.",
+                "Ataques à democracia, como o de 8 de janeiro, são um freio de mão à diplomacia brasileira? No dia do atentado, recebemos dezenas de ligações de chefes de Estado prestando solidariedade e se dizendo horrorizados com aquelas cenas. No final, acho que o episódio serviu para mostrar que temos uma democracia sólida, com instituições capazes de reagir de forma rápida e punir os culpados.",
+                "Haverá troca-troca de embaixadores e representantes do Brasil em instituições estrangeiras? Haverá trocas em postos-chave naqueles países onde o presidente tem relação pessoal com os chefes de Estado. Júlio Bitelli, próximo de Lula, foi escolhido como embaixador na Argentina, e nomes indicados por Bolsonaro na França, na Holanda e na Itália serão substituídos. Foi ainda anulada a indicação da representação do Brasil junto à Organização Mundial do Comércio. Em quase todos os casos, os diplomatas estavam dentro do período de troca.",
+                "O senhor foi escalado na gestão Bolsonaro para assumir uma embaixada menos vistosa, na Croácia. Guarda ressentimento? Nenhum. Fui para a Croácia porque quis. Tinha a opção de voltar ao Brasil, mas preferi me manter em exercício. Não falava com o governo nem o governo comigo. A solidão desse tempo felizmente ficou no passado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "O Brasil considera que quase chegou a um acordo com a UE (Handelsblatt, Alemanha, 9/02/2023)",
+            "subtitulo": "Entrevista concedida pelo Senhor Ministro de Estado das Relações Exteriores, Embaixador Mauro Vieira, a Alexander Busch, para o jornal econômico alemão Handelsblatt, com publicação no dia 9/2/2023.",
+            "data": "09/02/2023",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "10/04/2025"
+            ],
+            "horario_atualizado": [
+                "12h07"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/mauro-vieira-2023/o-brasil-considera-que-quase-chegou-a-um-acordo-com-a-ue-handelsblatt-alemanha-9-02-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "O Ministro das Relações Exteriores Vieira explica porque a maior área de livre comércio do mundo poderia se tornar uma realidade em poucos meses e como o Brasil está se reposicionando.",
+                "O acordo de livre comércio entre os estados sul-americanos do Mercosul e a UE está progredindo e poderá ser assinado já neste verão. Esta é a premissa atual do Ministro das Relações Exteriores do Brasil, Mauro Vieira. Em uma entrevista com o jornal Handelsblatt, ele explicou que o Brasil não pretende reabrir o pacote de negociação concluído.",
+                "Para Bruxelas, o pacto, que está sendo negociado há mais de 20 anos, está ganhando importância devido à nova situação geopolítica. No decorrer das crises que envolvem a Rússia e a China, a Europa está procurando novos fornecedores de matérias-primas e energia. Espera-se que os países do Mercosul, Brasil, Argentina, Paraguai e Uruguai, possam oferecer alternativas. A Presidente da Comissão Europeia, Ursula von der Leyen, está promovendo uma \"ambiciosa agenda comercial\" para facilitar o acesso da Europa às cobiçadas matérias-primas. Durante muito tempo, as condições para uma cooperação mais profunda não foram tão favoráveis: cinco semanas após a posse do novo governo brasileiro, está ficando cada vez mais claro que o Presidente Luiz Inácio Lula da Silva e seu Ministro das Relações Exteriores Vieira querem reformular a política externa do país. É provável que a maior economia da América do Sul ganhe maciçamente em importância para a Europa.",
+                "O Brasil deseja superar o isolamento dos últimos anos",
+                "Superar o isolamento, fortalecer a cooperação dentro da América Latina, expandir as relações comerciais internacionais: É assim que o Ministro das Relações Exteriores Vieira define sua agenda. O ex-presidente Jair Bolsonaro havia isolado o país no mundo com suas políticas ambientais e de direitos humanos; quase nenhum governo ocidental ainda queria receber o populista de direita. Seu ministro das Relações Exteriores, Ernesto Araújo, chegou a se orgulhar pelo fato de o Brasil ter sido considerado “pária” no mundo.",
+                "De fato, Lula apertou as mãos de mais chefes de Estado e de governo desde que tomou posse do que Bolsonaro em todo o seu mandato. Recentemente, o chanceler alemão Olaf Scholz esteve no Brasil durante sua viagem à América do Sul; e Lula conversou com o presidente do Conselho da EU, Charles Michel, durante sua primeira viagem ao exterior na capital argentina, Buenos Aires. Sua agenda continua cheia: até abril, ele se encontrará com o presidente dos EUA, Joe Biden, e o Presidente da China, Xi Jinping. Visita do presidente francês, Emmanuel Macron, também está prevista.",
+                "Durante suas conversas na semana passada, Scholz e Lula haviam enfatizado que pretendem acelerar as negociações sobre o acordo de livre comércio do Mercosul com a UE. A UE deve agora declarar claramente quais emendas deseja acrescentar ao conjunto de regras de uma zona de livre comércio comum, por exemplo, como normas ambientais. \"Até agora não sabemos o que Bruxelas quer\", diz Vieira. \"Esperamos que a UE não aproveite emendas para acrescentar medidas protecionistas\".",
+                "Do ponto de vista da economia alemã, um compromisso mais forte do governo alemão com as questões comerciais era necessário há muito tempo. \"A América Latina não está no foco do governo alemão há muito tempo, há anos perdemos oportunidades que a China tem aproveitado\", disse recentemente Ulrich Ackermann, chefe do departamento comércio exterior da Federação Alemã de Engenharia (VDMA), ao Handelsblatt.",
+                "Enquanto o acordo de livre comércio está progredindo, há também desentendimentos com o Ocidente a respeito da política em relação à Rússia. Durante a visita do chanceler Scholz, por exemplo, o presidente brasileiro descartou o fornecimento de munições de tanques para a Ucrânia. Além disso, ele havia levantado dúvidas de que ele via a responsabilidade pela guerra na Ucrânia somente do lado da Rússia.",
+                "O Ministro das Relações Exteriores brasileiro tem pouca compreensão pela perplexidade que as palavras de Lula causaram na Europa. Afinal, o comunicado condena claramente a agressão da Rússia ao território da Ucrânia, disse Vieira. Sobre a questão da recusa de fornecimento de munições para veículos blindados alemães, disse ele, o Brasil estava seguindo as diretrizes tradicionais de sua política externa de não interferir em conflitos externos. \"Os governos brasileiros sempre viram esta posição como uma constante, por mais diferentes que tenham sido suas orientações políticas\", disse Vieira.",
+                "Multilateralismo, integração regional, a prioridade de encontrar soluções pacíficas para os conflitos – são os princípios da diplomacia fixados no preâmbulo da Constituição brasileira, disse ele. De fato, também se diz que o governo do ex-presidente Bolsonaro rejeitou a entrega de munição de origem alemã à Ucrânia no ano passado. Lula havia sugerido que um órgão internacional deveria mediar o conflito na Ucrânia - e também havia mencionado o Brasil como um possível participante. Se o Brasil quisesse mediar com credibilidade, não poderia tomar partido no conflito, dizem no ministério.",
+                "O fato de que o Brasil busca posições de neutralidade em sua política externa é também evidente na política do país para a China. Lula havia anunciado recentemente que o Mercosul queria iniciar negociações com a China após chegar a um acordo com a UE. Entretanto, grande parte da indústria brasileira está cética em relação a tal acordo com Pequim.",
+                "Vieira enfatiza, portanto, que um acordo de livre comércio não significa que se abre a economia completamente e sem qualquer contrapartida. O Brasil é também um dos poucos países do mundo que tem um grande superávit comercial com a China. Isto se deve principalmente à exportação de matérias-primas em grande escala, sobretudo soja, minério de ferro e petróleo.",
+                "Preparativos para a Presidência do G20",
+                "Vieira disse que a integração na América Latina também tem uma alta prioridade, e que o Mercosul deve ser o instrumento mais importante para isso. Até hoje, Lula hesita em criticar ditaduras de esquerda como Cuba, Nicarágua ou Venezuela - que é uma das razões pelas quais a classe média brasileira desconfia dele. O Ministério das Relações Exteriores diz que quer manter relações com todos os países.",
+                "Lula também quer continuar a agir ativamente como membro do grupo de estados BRICS, que inclui Brasil, Rússia, Índia, China e África do Sul - mesmo que a situação geopolítica tenha mudada desde sua fundação em 2010. A China domina o grupo, a Índia está se tornando cada vez mais um concorrente de Pequim. A Rússia está isolada no mundo como um agressor e a África do Sul perdeu importância econômica e política - assim como o Brasil. No entanto, o país adiou por um ano a presidência rotativa dos BRICS para 2024. Porque agora, os preparativos para a presidência do G20 no final de 2024 têm prioridade na agenda.",
+                "-",
+                "Brasilien sieht sich mit der EU nahezu handelseinig",
+                "Außenminister Vieira erklärt, warum die weltgrößte Freihandelszone in wenigen Monaten Wirklichkeit werden könnte und wie sich Brasilien neu positioniert.",
+                "Warenumschlag in Recife",
+                "Außenminister Mauro Viera: Politikwechsel nach den Bolsonaro-Jahren.",
+                "Alexander Busch, Brasilia",
+                "Das Freihandelsabkommen zwischen den südamerikanischen Mercosur-Staaten und der EU kommt voran und könnte bereits im Sommer unterzeichnet werden. Davon geht Brasiliens Außenminister Mauro Vieira derzeit aus. Im Gespräch mit dem Handelsblatt erklärte er, Brasilien beabsichtige nicht, das fertige Verhandlungspaket noch einmal zu öffnen.",
+                "Für Brüssel gewinnt der Pakt, der seit mehr als 20 Jahren verhandelt wird, wegen der neuen geopolitischen Lage an Bedeutung. So befindet sich Europa im Zuge der Krisen rund um Russland und China auf der Suche nach neuen Rohstoff- und Energielieferanten. Alternativen könnten die Mercosur-Länder Brasilien, Argentinien, Paraguay und Uruguay bieten, so die Hoffnungen. EU-Kommissionschefin Ursula von der Leyen wirbt für eine „ambitionierte Handelsagenda“, die Europa den Zugriff auf begehrte Rohstoffe erleichtern soll. Lange waren die Voraussetzungen für eine vertiefte Zusammenarbeit nicht mehr so günstig: Fünf Wochen nach dem Antritt der neuen brasilianischen Regierung wird immer deutlicher, dass Brasiliens Präsident Luiz Inácio Lula da Silva und sein Außenminister Vieira die Außenpolitik des Landes neu ausrichten wollen. Für Europa dürfte die größte Volkswirtschaft Südamerikas massiv an Bedeutung gewinnen.",
+                "Brasilien will die Isolation der letzten Jahre überwinden",
+                "Die Isolation überwinden, die Kooperationen innerhalb Lateinamerikas stärken, die internationalen Handelsbeziehungen ausbauen: So definiert Außenminister Vieira seine Agenda. Der ehemalige Präsident Jair Bolsonaro hatte das Land mit seiner Umwelt- und Menschenrechtspolitik in der Welt isoliert, kaum eine westliche Regierung wollte den Rechtspopulisten noch empfangen. Sein Außenminister Ernesto Araújo war sogar stolz darauf, dass Brasilien ein Paria in der Welt war.",
+                "Tatsächlich hat Lula seit seinem Amtsantritt mehr Staatsoberhäuptern und Regierungschefs die Hände geschüttelt als Bolsonaro in seiner gesamten Amtszeit. Gerade noch war Bundeskanzler Olaf Scholz während seiner Südamerikareise in Brasilien, mit EU-Ratspräsident Charles Michel hat Lula während seiner ersten Auslandsreise in der argentinischen Hauptstadt Buenos Aires gesprochen. Und der Terminkalender bleibt voll: Bis April wird er sich mit US-Präsident Joe Biden und Chinas Präsident Xi Jinping treffen, auch eine Visite des französischen Präsidenten Emmanuel Macrons ist geplant.",
+                "Scholz und Lula hatten bei ihren Gesprächen vergangene Woche betont, die Verhandlungen über das Mercosur-Freihandelsabkommen mit der EU beschleunigen zu wollen. Die EU müsse sich nun klar äußern, welche Zusätze sie dem Regelwerk einer gemeinsamen Freihandelszone etwa als Umweltstandards beifügen wolle. „Bisher wissen wir nicht, was Brüssel will“, sagt Vieira. „Wir hoffen, dass die EU Ergänzungen nicht nutzt, um protektionistische Maßnahmen einzufügen.“",
+                "Aus Sicht der deutschen Wirtschaft ist ein stärkeres Engagement der Bundesregierung in Handelsfragen längst überfällig. „Lateinamerika stand lange Zeit nicht im Fokus der Bundesregierung, wir verpassen da seit Jahren Chancen, die China ergriffen hat“, sagte Ulrich Ackermann, Leiter Außenwirtschaft beim Verband Deutscher Maschinen- und Anlagenbau (VDMA), kürzlich dem Handelsblatt.",
+                "Während das Freihandelsabkommen vorankommt, gibt es in der Russlandpolitik allerdings auch Konfliktpunkte mit dem Westen. So hatte der brasilianische Präsident beim Besuch von Bundeskanzler Scholz ausgeschlossen, künftig Panzermunition an die Ukraine zu liefern. Zudem hatte er Zweifel daran aufkommen lassen, dass er die Verantwortung für den Krieg in der Ukraine allein bei Russland sehe.",
+                "Für die Irritationen, die Lulas Worte in Europa auslösten, hat der brasilianische Außenminister wenig Verständnis. Schließlich sei im Kommuniqué die Aggression Russlands auf das Territorium der Ukraine klar verurteilt worden, sagte Vieira. Bei der Frage der abgelehnten Munitionslieferungen für deutsche Panzerfahrzeuge folge Brasilien den traditionellen Vorgaben seiner Außenpolitik, sich nicht in externe Konflikte einzumischen. „Diese Position haben Brasiliens Regierungen stets als Konstante gesehen, so unterschiedlich ihre politische Ausrichtungen auch waren“, sagte Vieira.",
+                "Die Multilateralität, die regionale Integration, die Priorität, friedliche Lösungen für Konflikte zu finden – das stehe für die Diplomatie in der Präambel der brasilianischen Verfassung. Tatsächlich soll auch die Regierung von Ex-Präsident Bolsonaro im letzten Jahr Munitionslieferungen deutscher Herkunft an die Ukraine abgelehnt haben. Lula hatte vorgeschlagen, dass ein international besetztes Gremium im Ukrainekonflikt vermitteln sollte – und auch Brasilien dabei als möglichen Teilnehmer ins Spiel gebracht. Wenn Brasilien glaubhaft vermitteln wolle, dann könne man nicht Partei in dem Konflikt ergreifen, heißt es im Ministerium.",
+                "Dass Brasilien in seiner Außenpolitik nach neutralen Positionen strebt, zeigt sich auch in der Chinapolitik des Landes. Lula hatte kürzlich angekündigt, dass der Mercosur nach der Einigung mit der EU auch Verhandlungen mit China beginnen wolle. Große Teile der brasilianischen Industrie sind einem solchen Abkommen mit Peking gegenüber allerdings skeptisch.",
+                "Ein Freihandelsabkommen bedeute nicht, dass man seine Ökonomie vollends und ohne jede Gegenleistung öffne, betont Vieira deshalb. Brasilien sei zudem einer der wenigen Staaten weltweit, die mit China einen massiven Handelsbilanzüberschuss haben. Das liege vor allem am massiven Export von Rohstoffen, allen voran Sojabohnen, Eisenerz und Rohöl.",
+                "Vorbereitungen auf die G20-Präsidentschaft",
+                "Hohe Priorität habe aber auch die Integration in Lateinamerika, sagte Vieira, hierfür sei Mercosur das wichtigste Instrument. Lula zögert bis heute, linke Diktaturen wie Kuba, Nicaragua oder eben Venezuela zu kritisieren – was einer der Gründe ist, warum ihm die brasilianische Mittelschicht misstraut. Im Außenministerium heißt es, dass man mit allen Staaten Beziehungen unterhalten wolle.",
+                "Auch die Mitgliedschaft in der Staatengruppe BRICS, die Brasilien, Russland, Indien, China und Südafrika umfasst, wolle Lula weiter aktiv nutzen – auch wenn sich die geopolitische Lage seit der Gründung 2010 geändert hat. China dominiert die Gruppe, Indien wird zunehmend zum Konkurrenten Pekings. Russland ist als Aggressor isoliert in der Welt, und Südafrika hat wirtschaftlich und politisch an Bedeutung verloren – wie auch Brasilien. Das Land hat die turnusmäßige BRICS-Präsidentschaft für 2024 dennoch um ein Jahr verschoben. Denn nun stehen erst mal die Vorbereitungen für die G20-Präsidentschaft Ende 2024 auf der Tagesordnung."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "O Brasil está de volta na política mundial  (Neue Zürcher Zeitung, Suíça, 6/02/2023)",
+            "subtitulo": "Entrevista concedida pelo Senhor Ministro de Estado das Relações Exteriores, Embaixador Mauro Vieira, a Alexander Busch, do jornal suíço Neue Zürcher Zeitung, 6 de fevereiro de 2023",
+            "data": "06/02/2023",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "10/04/2025"
+            ],
+            "horario_atualizado": [
+                "11h52"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/mauro-vieira-2023/o-brasil-esta-de-volta-na-politica-mundial-neue-zurcher-zeitung-suica-6-02-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Locutores no Ministério das Relações Exteriores brasileiro se mostraram surpresos com a reação causada pelas declarações do Presidente Luiz Inácio Lula da Silva sobre o conflito na Ucrânia: Durante a visita do chanceler alemão Olaf Scholz, Lula havia se recusado a fornecer munição de blindados para a Ucrânia. Além disso, ele havia levantado dúvidas de que ele considera a Rússia como único responsável pela guerra na Ucrânia.",
+                "Atualmente, no Ministério das Relações Exteriores, o assunto é avaliado de maneira diferente: no comunicado, a agressão da Rússia ao território da Ucrânia foi claramente condenada, diz o Ministro das Relações Exteriores, Mauro Vieira, em entrevista. Na questão de não fornecer munição para os veículos blindados alemães, o Brasil segue as diretrizes tradicionais de sua política externa de não interferir em conflitos externos. \"Os governos brasileiros de diferentes orientações políticas sempre mantiveram esta posição\", diz Vieira, que já ocupava o mais alto posto no Itamaraty, o Ministério das Relações Exteriores, sob a presidência de Dilma Rousseff.",
+                "Encontros com Biden e Xi",
+                "Multilateralismo, integração regional, a prioridade de identificar soluções pacíficas para os conflitos - estas são as diretrizes para a diplomacia no preâmbulo da Constituição brasileira. De fato, o governo do ex-presidente Jair Bolsonaro também teria rejeitado fornecimentos de munição de origem alemã à Ucrânia no ano passado. Lula propôs que um órgão internacional mediasse no conflito da Ucrânia - e também indicou o Brasil como participante. Se o Brasil quer mediar com credibilidade, não pode tomar partido no conflito, disse uma fonte no ministério.",
+                "Sob Lula, o Itamaraty deve desempenhar um papel central para terminar o isolamento do Brasil no mundo. Isto é evidente na nomeação para cargos: Vieira foi nomeado como um dos primeiros ministros apenas alguns dias após a eleição de Lula. O número de cargos ao nível de diretor foi ampliado. O antecessor Bolsonaro havia isolado o país no mundo com suas políticas ambientais e de direitos humanos e com sua diplomacia. Quase nenhum governo ocidental e democrático queria receber o populista de direita. Seu ministro das Relações Exteriores, Ernesto Araújo, enfatizou, tem tom desafiador, que estava orgulhoso de que o Brasil era um pária no mundo. Seu sucessor Vieira diz agora que quer reconstruir as pontes.",
+                "De fato, no mês desde que assumiu o cargo, Lula se reuniu com mais chefes de Estado do que o Presidente Bolsonaro em todo o seu mandato: até abril, Lula se encontrará com o Presidente Joe Biden e com Xi Jinping, e uma visita de Emmanuel Macron também está prevista. Ele também já conversou com o Presidente do Conselho da EU, Charles Michel, em Buenos Aires, durante sua primeira viagem ao exterior.",
+                "Lula planeja visitar a África ainda no primeiro semestre do ano. Durante seus dois primeiros mandatos (2003-2010), Lula havia dado prioridade máxima ao continente e aberto quase uma dúzia de embaixadas lá. Bolsonaro ignorou a África completamente. A posse de Lula contou novamente com a presença de numerosos chefes de Estado da África. Fontes em Brasília dizem que o capital político lá será utilizado e ampliado novamente.",
+                "A prioridade máxima, entretanto, é a integração na América Latina, sendo o instrumento mais importante o Mercosul (Argentina, Brasil, Paraguai e Uruguai). A Venezuela, suspensa por causa da cláusula democrática, deverá ser reintegrada no bloco econômico - assim como a Bolívia. Para este fim, a embaixada e os consulados na Venezuela, que foram fechados no governo de Bolsonaro, foram reabertos. Este foi um \"ato infantil do governo anterior\", disse Vieira. O grande número de brasileiros que lá viviam tinham sido abandonados.",
+                "O Brasil espera que em breve a Venezuela recupere as condições para ser admitida no Mercosul. Em 2016, o Mercosul suspendeu a adesão da Venezuela por causa do governo cada vez mais autoritário de Nicolás Maduro. Até hoje, Lula hesita em criticar ditaduras de esquerda como Cuba, Nicarágua ou Venezuela - uma das razões da desconfiança que a classe média brasileira tem em relação a ele. Mas o Ministério das Relações Exteriores diz agora que quer manter relações com todos os países: \"Quem quer negociar somente com amigos, não precisa de diplomacia\".",
+                "O grupo BRICS continua importante",
+                "Com relação às negociações entre a UE e o Mercosul, que tanto Lula quanto Scholz agora desejam acelerar, Vieira explica que o Brasil não pretende reabrir todo o pacote de negociações para emendas. Mas até agora o acordo só foi concluído no nível das negociações, ainda não foi ratificado. A UE precisa ser clara sobre o que quer acrescentar ao tratado em termos de normas ambientais. \"Até agora, não sabemos o que Bruxelas quer\", diz Vieira. \"Esperamos que a UE não utilize as pretendidas side-letters para inserir medidas protecionistas\". Ele diz que Lula está confiante de que o acordo estará pronto para assinatura em meados deste ano.",
+                "O presidente do Brasil havia comunicado recentemente que o Mercosul também queria iniciar negociações com a China após o acordo com a UE - mesmo que grandes partes da indústria brasileira provavelmente rejeitassem tal acordo. Um acordo de livre comércio não significa abrir completamente a economia do país sem qualquer contrapartida. Acrescentou que o Brasil também é um dos poucos países do mundo que tem um grande superávit comercial com a China.",
+                "Lula também quer continuar ser membro ativo do grupo de estados BRICS, que inclui Brasil, Rússia, Índia, China e África do Sul - mesmo que a situação geopolítica tenha mudado desde que o grupo foi fundado em 2010: A China domina o grupo. A Índia está se tornando cada vez mais o concorrente de Pequim. A Rússia está isolada no mundo como um agressor, e a África do Sul perdeu importância econômica e política - assim como o Brasil.",
+                "O BRICS, entretanto, como um fórum de países em desenvolvimento dei diversos níveis diferentes, representando a metade da população mundial e tendo definitivamente interesses comuns, é interessante para o Brasil, diz Vieira. No entanto, o Brasil adiou por um ano, por enquanto, a presidência rotativa do BRICS, que era prevista para 2024. Primeiro, os preparativos para a presidência do G-20 no final de 2024 estão em pauta.",
+                "Não há dúvida de que Lula está planejando um poderoso retorno para a política mundial. Para tal, seria crucial ele superar a crise econômica e política do Brasil.",
+                "-",
+                "Brasilien meldet sich in der Weltpolitik zurück",
+                "Vermitteln im Ukraine-Krieg, Stärkung des Wirtschaftsbündnisses Mercosur – das Land will wieder zum internationalen Akteur werden",
+                "ALEXANDER BUSCH, Brasilia",
+                "Im brasilianischen Außenministerium gibt man sich erstaunt über den Wirbel, den die Äußerungen von Präsident Luiz Inácio Lula da Silva zum Ukraine-Konflikt ausgelöst haben: Lula hatte beim Besuch von Bundeskanzler Olaf Scholz abgelehnt, Panzermunition an die Ukraine zu liefern. Zudem hatte er Zweifel daran aufkommen lassen, dass er die Verantwortung für den Krieg in der Ukraine alleine bei Russland sieht.",
+                "Das sieht man im Außenministerium inzwischen anders: Im Communiqué sei die Aggression Russlands auf dem Territorium der Ukraine klar verurteilt worden, sagt Außenminister Mauro Vieira im Gespräch. Bei der Frage der abgelehnten Munitionslieferungen für die deutschen Panzerfahrzeuge folge Brasilien den traditionellen Vorgaben seiner Außenpolitik, sich nicht in externe Konflikte einzumischen. «Diese Position haben Brasiliens Regierungen unterschiedlicher politischer Ausrichtungen stets beibehalten», sagt Vieira, der bereits unter Präsidentin Dilma Rousseff den Posten des obersten Diplomaten im Itamaraty, dem Aussenministerium, geleitet hat.",
+                "Treffen mit Biden und Xi",
+                "Die Multilateralität, die regionale Integration, die Priorität, friedliche Lösungen für Konflikte zu finden – das stehe in der Präambel der brasilianischen Verfassung als Vorgabe für die Diplomatie. Tatsächlich soll auch die Regierung von Ex-Präsident Jair Bolsonaro im letzten Jahr Lieferungen von Munition deutscher Herkunft an die Ukraine abgelehnt haben. Lula hat vorgeschlagen, dass ein international besetztes Gremium im Ukraine-Konflikt vermitteln soll – und hat auch Brasilien dabei als Teilnehmer ins Spiel gebracht. Wenn Brasilien glaubhaft vermitteln wolle, dann könne man nicht Partei in dem Konflikt ergreifen, heißt es im Ministerium.",
+                "Das Itamaraty soll unter Lula zentral dabei sein, Brasiliens Isolation in der Welt zu beenden. Das zeigt sich in der Personalauswahl: Vieira wurde nur wenige Tage nach der Wahl Lulas als einer der ersten Minister ernannt. Die Zahl der Direktorenstellen wurde ausgeweitet. Der Vorgänger Bolsonaro hatte das Land mit seiner Umwelt- und Menschenrechtspolitik und seiner Diplomatie in der Welt isoliert. Kaum eine westliche, demokratische Regierung wollte den Rechtspopulisten noch empfangen. Sein Außenminister Ernesto Araújo betonte trotzig, er sei stolz, dass Brasilien ein Paria in der Welt sei. Sein Nachfolger Vieira sagt nun, er wolle die Brücken wieder aufbauen.",
+                "Tatsächlich hat Lula in dem Monat seit seinem Antritt so viele Staatsoberhäupter getroffen wie Präsident Bolsonaro in seiner gesamten Amtszeit nicht: Bis April wird Lula sich mit Präsident Joe Biden und mit Xi Jinping treffen, auch eine Visite Emmanuel Macrons ist geplant. Auch mit dem EU-Rats-Präsidenten Charles Michel hat er bereits in Buenos Aires gesprochen, auf seiner ersten Auslandsreise.",
+                "Im ersten Halbjahr will Lula Afrika besuchen. Lula hatte in seinen zwei ersten Amtszeiten (2003–2010) dem Kontinent höchste Priorität eingeräumt und dort ein knappes Dutzend Botschaften eröffnet. Bolsonaro ignorierte Afrika völlig. Zu Lulas Amtsantritt kamen wieder zahlreiche Staatsoberhäupter aus Afrika. Man werde das politische Kapital dort wieder nutzen und ausbauen, heisst es in Brasilia.",
+                "Oberste Priorität sei jedoch die Integration in Lateinamerika, das wichtigste Instrument dafür der Mercosur (Argentinien, Brasilien, Paraguay und Uruguay). Man wolle das wegen der Demokratieklausel suspendierte Venezuela wieder in die Wirtschaftsgemeinschaft integrieren – und auch Bolivien. Dafür habe man die unter Bolsonaro geschlossene Botschaft und die Konsulate in Venezuela wieder eröffnet. Dies sei ein «infantiler Akt der Vorgängerregierung» gewesen, so Vieira. Man habe die zahlreichen dort lebenden Brasilianer alleingelassen.",
+                "Brasilien hofft, dass Venezuela bald wieder die Voraussetzungen schafft, um in den Mercosur aufgenommen zu werden. 2016 hatte der Mercosur Venezuelas Mitgliedschaft wegen der immer autoritärer agierenden Regierung von Nicolás Maduro suspendiert. Lula zögert bis heute, linke Diktaturen wie Kuba, Nicaragua oder eben Venezuela zu kritisieren – was einer der Gründe ist, warum ihm die brasilianische Mittelschicht misstraut. Doch im Außenministerium heißt es jetzt, dass man mit allen Staaten Beziehungen unterhalten wolle: «Wer nur mit Freunden verhandeln will, braucht keine Diplomatie.»",
+                "Brics-Gruppe bleibt wichtig",
+                "Zu den Verhandlungen zwischen der EU und dem Mercosur, die sowohl Lula wie Scholz jetzt beschleunigen wollen, erklärt Vieira, dass Brasilien nicht beabsichtige, das ganze Verhandlungspaket für Nachbesserungen nochmals zu öffnen. Doch das Abkommen sei bis jetzt nur auf Verhandlungsebene abgeschlossen, noch nicht ratifiziert. Die EU müsse klar sagen, welche Zusätze sie dem Vertrag bei Umweltstandards beifügen wolle. «Bis jetzt wissen wir nicht, was Brüssel will», sagt Vieira. «Wir hoffen, dass die EU die angestrebten Side-Letters nicht nutzt, um protektionistische Maßnahmen einzufügen.» Lula sei zuversichtlich, dass das Abkommen bis Mitte des Jahres unterschriftsreif sein werde.",
+                "Brasiliens Präsident hatte kürzlich mitgeteilt, dass der Mercosur nach der Einigung mit der EU auch Verhandlungen mit China beginnen wolle – auch wenn große Teile der brasilianischen Industrie ein solches Abkommen vermutlich ablehnen werden. Ein Freihandelsabkommen bedeute nicht, dass man seine Wirtschaft völlig und ohne jede Gegenleistung öffne. Brasilien sei zudem einer der wenigen Staaten weltweit, die mit China einen großen Handelsbilanzüberschuss erwirtschafteten.",
+                "Auch die Mitgliedschaft in der Staatengruppe Brics, die Brasilien, Russland, Indien, China und Südafrika umfasst, will Lula weiter aktiv ausüben – auch wenn sich die geopolitische Lage seit der Gründung 2010 geändert hat: China dominiert die Gruppe. Indien wird zunehmend zum Konkurrenten Pekings. Russland ist als Aggressor isoliert in der Welt, und Südafrika hat wirtschaftlich und politisch an Bedeutung verloren – wie auch Brasilien.",
+                "Brics sei jedoch, als ein Forum von Entwicklungsländern auf unterschiedlichem Niveau, welches die halbe Weltbevölkerung vertrete und durchaus gemeinsame Interessen habe, für Brasilien interessant, sagt Vieira. Brasilien hat jedoch die turnusmäßige Präsidentschaft bei Brics für 2024 vorerst einmal um ein Jahr verschoben. Zuerst stünden jetzt die Vorbereitungen für die G-20-Präsidentschaft Ende 2024 auf der Tagesordnung.",
+                "Kein Zweifel: Lula plant ein machtvolles Comeback in der Weltpolitik. Entscheidend dafür wird sein, dass er die wirtschaftliche und politische Krise Brasiliens in den Griff bekommt."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "\"O sectarismo que testemunhamos nos últimos anos representa a negação da diplomacia\" (CEBRI, 02/2023)",
+            "subtitulo": "NA",
+            "data": "01/02/2023",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "14h54"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/mauro-vieira-2023/o-sectarismo-que-testemunhamos-nos-ultimos-anos-representa-a-negacao-da-diplomacia-cebri-02-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "",
+                "ANO 2 / Nº 5 / JAN-MAR 2023",
+                "",
+                "Nascido em Niterói, RJ, Mauro Vieira graduou-se em Direito pela Universidade Federal Fluminense (1973) e Diplomacia pelo Instituto Rio Branco (1974), além de doutorado honoris causa em Letras pela Universidade de Georgetown, em Washington DC (2014).",
+                "",
+                "No Ministério das Relações Exteriores, o embaixador Vieira atuou como coordenador de Atos Internacionais; assessor do secretário-geral; assessor do ministro das Relações Exteriores; chefe de gabinete do secretário-geral; e chefe de gabinete do ministro das Relações Exteriores.",
+                "",
+                "O embaixador Vieira também trabalhou no Ministério da Ciência e Tecnologia, como secretário-geral adjunto de Ciência e Tecnologia, e no Ministério da Previdência e Assistência Social, como secretário nacional de Administração do Instituto de Previdência Social.",
+                "",
+                "No exterior, atuou como segundo-secretário da embaixada do Brasil em Washington D.C. (1978-1982); na Missão Permanente do Brasil junto à Associação Latino-Americana de Integração (ALADI), em Montevidéu (1982-1985), como primeiro-secretário; na embaixada do Brasil na Cidade do México (1990-1992), como conselheiro; e na embaixada do Brasil em Paris (1995-1999), como ministro conselheiro.",
+                "",
+                "Foi embaixador do Brasil na Argentina (2004-2010); embaixador do Brasil nos Estados Unidos da América (2010-2015); representante permanente do Brasil nas Nações Unidas em Nova York (2016-2020) e embaixador do Brasil na Croácia (2020-2022). Foi ministro das Relações Exteriores do Brasil entre 2015 e 2016.",
+                "",
+                "Foi indicado pelo presidente Luiz Inácio Lula da Silva para desempenhar a função de ministro das Relações Exteriores do Brasil, a partir de 1º de janeiro de 2023. (Fonte: Itamaraty).",
+                "",
+                "Seguem trechos da entrevista concedida por escrito aos editores da CEBRI-Revista.",
+                "",
+                "Em seu discurso de posse, Vossa Excelência sustentou que a ideologia da política externa para a América do Sul seria a “ideologia da integração”. No entanto, em recente viagem de Lula à Argentina e Uruguai, o governo uruguaio reforçou o interesse de negociar um acordo de livre-comércio em separado com a China, o que é proibido pelas regras do Mercosul. É possível que a paralisação do Mercosul tenha forçado os países menores a buscar outras alternativas. Como Vossa Excelência enxerga a posição uruguaia e como evitar que Montevidéu se veja forçada a escolher entre Mercosul e China?",
+                "",
+                "Mauro Vieira: Ao falar em “ideologia da integração”, busquei retomar princípios caros à política externa brasileira que foram deixados de lado nos últimos anos, é disso que se trata. Esses fundamentos foram substituídos, na gestão anterior, por retórica agressiva e por atitudes até infantis em relação a países cujos governantes tinham orientação política e ideológica distinta à do governo anterior. A integração é o objetivo prioritário, e eventuais divergências devem ser tratadas por meio da política e da diplomacia. O sectarismo que testemunhamos nos últimos anos representa a negação da diplomacia, é a antidiplomacia e nada tem a ver com a tradição brasileira. A integração, o foco no interesse nacional e o diálogo com os parceiros voltam, portanto, a ser elementos prioritários da política externa brasileira.",
+                "",
+                "O sectarismo que testemunhamos nos últimos anos representa a negação da diplomacia, é a antidiplomacia e nada tem a ver com a tradição brasileira.",
+                "",
+                "A visita do presidente Lula a Montevidéu é um bom exemplo dessa volta às boas tradições de diálogo. Como todos sabemos, o presidente Lacalle Pou tem uma orientação político-ideológica distinta, o que em nenhum momento impediu um diálogo franco e de alto nível, inclusive na questão do Mercosul. A negociação dos países do Mercosul como bloco é um dos pilares do Tratado de Assunção, e a posição do Brasil é clara a esse respeito, inclusive com vistas a um futuro diálogo com a China. E não se trata de uma posição somente do Brasil e da Argentina. Há poucos dias estive em Assunção, e o Paraguai também considera fundamental que as negociações externas do Mercosul continuem a ser conduzidas como bloco, como prevê o tratado. Além disso, na visita a Montevidéu o presidente Lula argumentou, com razão, que estamos na reta final de uma negociação de mais de 20 anos com a União Europeia e que o mais prudente agora será concluir esse acordo antes de abrir outra negociação de fôlego com outra potência comercial, como a China. O próprio presidente Lula indicou que há interesse nessa possível negociação do Mercosul sobre a China. Ambos os presidentes mantêm aberto o canal de diálogo não somente sobre o assunto, mas também sobre a agenda bilateral, e prova disso foi a visita de três ministros uruguaios a Brasília no dia 7 de março. Assim se dá forma a esse trabalho em favor da integração. O tempo do sectarismo é uma página virada, felizmente.",
+                "",
+                "Os presidentes Lula e Lacalle Pou concordaram quanto à necessidade de revitalização do Mercosul e de seus mecanismos. Mas é exagerado falar em paralisia. E quando se exagera ao falar em uma suposta paralisia do Mercosul, eu costumo recomendar que olhemos os números. Os agentes econômicos vêm desmentindo essa visão, e todos os países do bloco se beneficiam desses fluxos e da retomada que estamos acompanhando.",
+                "",
+                "O governo Biden passou por contestações similares ao governo Lula em relação ao resultado eleitoral. Ambos os países sofrem com a ascensão de grupos de extrema-direita que não aceitam os resultados eleitorais quando perdem. Vossa Excelência acredita que o tema da defesa da democracia pode aproximar os governos Biden e Lula? Vossa Excelência acredita que o relacionamento bilateral entre EUA e Brasil pode atingir um novo patamar de cooperação por conta desse desafio comum?",
+                "",
+                "MV: A visita do presidente Lula a Washington e as conversas mantidas na Casa Branca com o presidente Biden sobre a realidade internacional e esses fenômenos desagregadores não deixam dúvidas sobre esse desafio comum. Há plena consciência de que ambos os países têm um amplo espaço de cooperação nessa área e que a experiência brasileira de combate à desinformação em massa, por exemplo, oferece lições a compartilhar com as democracias do mundo, inclusive a norte-americana. Nos meus contatos desde a posse, percebo grande respeito e admiração pela resiliência das instituições brasileiras diante do forte teste de estresse que o país superou pela via eleitoral e com um sistema de votação e apuração que é modelo. Que esse sistema tenha sido posto em dúvida, a partir de mentiras, demonstra a gravidade dos perigos que enfrentamos como sociedades.",
+                "",
+                "Nos meus contatos desde a posse, percebo grande respeito e admiração pela resiliência das instituições brasileiras diante do forte teste de estresse que o país superou pela via eleitoral e com um sistema de votação e apuração que é modelo. Que esse sistema tenha sido posto em dúvida, a partir de mentiras, demonstra a gravidade dos perigos que enfrentamos como sociedades.",
+                "",
+                "Mas esse é apenas um dos aspectos de uma agenda bilateral muito rica e que está sendo retomada rapidamente a partir da visita, com reuniões e visitas de alto nível não somente na diplomacia, mas também em áreas de grande visibilidade, como comércio, meio ambiente e mudança climática. O engajamento de Washington no Fundo Amazônia, por exemplo, foi um gesto positivo que deve levar à participação de outros países. Acredito que já estamos devolvendo a relação bilateral ao nível de parceria estratégica que ela merece, com trabalho e diálogo em várias áreas. Esse diálogo, aliás, começou no mesmo dia da visita do presidente Lula, com reuniões técnicas de equipes de ambos os países ainda na Blair House, onde estava hospedada a delegação. O trabalho começou ali e tem sido intenso nas últimas semanas.",
+                "",
+                "Esse dado não quer dizer, no entanto, que estamos obrigados a concordar sempre. Brasil e Estados Unidos são países relevantes, soberanos e que dialogam de igual para igual. Aprendemos, ao longo da história, a tratar eventuais divergências com respeito e com maturidade. Divergências são normais, e não há qualquer problema nisso.",
+                "",
+                "Em março, o presidente Lula visitará a China. Em diversas ocasiões, o presidente sinalizou que deseja incrementar o perfil das trocas comerciais e tecnológicas com a China. Recentemente, o governo chinês sinalizou que deseja negociar um acordo comercial com o Mercosul. Como Vossa Excelência enxerga um potencial acordo de livre-comércio entre Mercosul e China? Em seu discurso de posse, Vossa Excelência ressaltou a necessidade de finalizar os acordos do Mercosul com Israel e Egito. Um novo acordo com a China estaria dentro desse contexto de Mercosul mais ativo na arena comercial global?",
+                "",
+                "MV: Em primeiro lugar, como lembrou o presidente Lula em Montevidéu, o passo prioritário é o que envolve a negociação pendente de assinatura com a União Europeia. Depois, é preciso saber se há interesse da China em negociar com o bloco e qual o alcance de uma futura negociação, o que, naturalmente, envolve também diálogo estreito com o setor privado e com os demais sócios. Temos o objetivo de que o Mercosul desempenhe um papel mais ativo no campo das negociações comerciais, mas não ignoramos problemas como o da paralisia da Organização Mundial do Comércio, dado que fortalece tendências protecionistas no interior dos países e na própria atuação internacional deles em matéria de comércio. É preciso dedicar esforços também a resolver os problemas do sistema multilateral de comércio, porque esses problemas têm freado avanços na direção de uma liberalização comercial mais equilibrada e justa.",
+                "",
+                "Durante a visita do chanceler federal alemão Olaf Scholz ao Brasil, o presidente Lula reafirmou o desejo de o Brasil finalizar o acordo comercial do Mercosul com a União Europeia ainda neste semestre. Em outra ocasião, o presidente sinalizou certa insatisfação do governo brasileiro com o tema das compras governamentais, com a baixa amplitude das cotas agrícolas e com o acordo automotivo negociado. Com a perspectiva de uma política ativa de reindustrialização nacional do novo governo, como Vossa Excelência enxerga esse acordo? E como percebe os interesses dos europeus em finalizar o acordo?",
+                "",
+                "MV: Nos contatos que mantivemos desde a posse com líderes de países europeus e com autoridades da União Europeia, o interesse tem sido demonstrado de modo claro. No entanto, aguardamos passos do bloco europeu que indiquem como seria o processo de ratificação de um eventual acordo, bem como mais detalhes sobre o que a UE pretende com a “side letter” com exigências adicionais para os países do Mercosul na área ambiental. Negociadores de ambos os blocos tiveram uma primeira reunião em Buenos Aires no início do mês, e estamos avaliando os resultados dessa primeira troca de informações.",
+                "",
+                "O compromisso do Brasil com a sustentabilidade ambiental é claro e tem sido reiterado na prática pelo governo Lula, desde o primeiro dia de gestão, com o combate à criminalidade ambiental, seja por meio do garimpo ilegal ou do desmatamento. Esse combate revelou a tragédia na área dos ianomâmis em Roraima. É preciso sempre lembrar esse fato.",
+                "",
+                "Pela importância que tem, é natural que o acordo seja revisado por diferentes áreas de um governo que acaba de assumir e que também seja objeto de diálogo com o setor privado, que já está acontecendo. Mas o presidente Lula já manifestou um claro interesse em avançar.",
+                "",
+                "O ministro da Fazenda Fernando Haddad declarou em Davos, na Suíça, que o governo havia criado um grupo de trabalho para avaliar o processo de acessão do Brasil à OCDE. Várias associações de classe, como CNI e CNA, registram seu apoio ao processo de acessão do Brasil. O presidente Lula declarou que o Brasil tem interesse de tornar-se membro pleno da organização, mas não como “país menor”. No entanto, há países pequenos da OCDE que têm receio de o Brasil se tornar membro pleno, porque o Brasil terá grande peso, uma vez que o país é conhecido pela sua diplomacia ágil e capaz. Assim, como Vossa Excelência percebe o processo de acessão do Brasil à OCDE? O Brasil poderá ser o único país membro da OCDE e dos BRICS simultaneamente. Esta posição é positiva ou negativa para o país?",
+                "",
+                "MV: Não acredito nesses temores, já que a tradição da diplomacia brasileira sempre foi a de dialogar e buscar incluir todos na busca de soluções, e os países sabem disso. Portanto, na OCDE esse perfil se manterá.",
+                "",
+                "Quanto ao processo de acessão, aberto no ano passado, é preciso não gerar expectativas exageradas: em primeiro lugar, Colômbia e Costa Rica, os últimos países latino-americanos a ingressar como membros plenos da organização, demoraram sete anos no processo de acessão. Não há solução rápida, no caso, e é preciso ter paciência e uma estratégia definida, até porque, em determinadas áreas, a entrada na OCDE requer mudanças legislativas. É um processo complexo.",
+                "",
+                "A outra expectativa que considero desmedida é sobre esse rótulo de “clube dos ricos”. Ingressar em uma organização não tem o poder de mudar o “status” de desenvolvimento econômico de um país, e a própria composição da OCDE demonstra esse fato. A organização é um foro importante de coordenação e de compartilhamento de boas práticas, e o Brasil participa dela há décadas, com bons resultados setoriais. Ser aceito como membro pleno é uma consequência natural desse processo histórico de aproximação, e a OCDE também tem muito a ganhar com o ingresso de um país com o peso do Brasil.",
+                "",
+                "A visita do presidente eleito ao Egito para participar da COP 27 foi um marco da retomada da política ambiental internacional do Brasil. Em paralelo à reafirmação de compromissos pelo governo federal, também estiveram presentes na conferência outros atores como governadores, parlamentares, representantes do setor privado e da sociedade civil. Como Vossa Excelência avalia o potencial e os desafios de incluir na política externa ambiental e climática do país os interesses e percepções dessas outras partes interessadas que, nos últimos anos, ganharam relevância no sistema multilateral?",
+                "",
+                "MV: A frase do presidente Lula “O Brasil voltou”, dita no Egito, foi acompanhada de uma repercussão altamente positiva sobre a superação das ameaças antidemocráticas, com a alternância de poder no Brasil. E ela reflete a realidade da nossa atuação externa neste início de gestão. Nossos interlocutores na comunidade internacional têm sido claros em acolher, de forma calorosa, essa volta. As agendas de contatos do presidente e a minha própria nos primeiros dois meses falam por si. A política ambiental é um pilar dessa atuação externa e vem acompanhada por políticas e ações internas que respaldarão a posição brasileira e tratarão de reverter o desmonte das estruturas de Executivo e dos organismos de controle verificado na gestão anterior.",
+                "",
+                "A frase do presidente Lula “O Brasil voltou”, dita no Egito, foi acompanhada de uma repercussão altamente positiva sobre a superação das ameaças antidemocráticas, com a alternância de poder no Brasil.",
+                "",
+                "A sociedade brasileira acompanhou esse processo destrutivo de perto e recentemente indignou-se com as imagens da tragédia dos ianomâmis, que somente foi possível em virtude de uma clara omissão governamental. A retomada da participação dos atores da sociedade não é apenas bem-vinda, representa um elemento tradicional de formulação da política externa brasileira no regime democrático. Dialogar com esses atores no plano interno, seja na área ambiental, seja na área comercial, ou em tantas outras, sempre foi parte indissociável do trabalho cotidiano do diplomata brasileiro. E esse diálogo sempre ofereceu um forte respaldo às nossas equipes negociadoras no plano multilateral, como tem de ser com países democráticos relevantes no debate.",
+                "",
+                "",
+                "Entrevista enviada por mídia escrita em 15 de março de 2023.",
+                "",
+                "Copyright © 2023 CEBRI-Revista. Este é um artigo em acesso aberto distribuído nos termos da Licença de Atribuição Creative Commons, que permite o uso irrestrito, a distribuição e reprodução em qualquer meio, desde que o artigo original seja devidamente citado.",
+                "",
+                ""
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "É hora de dar voz aos que querem a paz na Ucrânia (O Estado de S.Paulo, 24/2/2023)",
+            "subtitulo": "NA",
+            "data": "24/02/2023",
+            "horario": "09h42",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h38"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/mauro-vieira-2023/e-hora-de-dar-voz-aos-que-querem-a-paz-na-ucrania-o-estado-de-s-paulo-24-2-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Um ano após a invasão do território ucraniano por forças russas, que deu início à guerra, o impasse armado no terreno, a retórica triunfalista de ambas as partes e as informações de inteligência sobre a perspectiva de novas ofensivas militares predominam. A cobertura da mídia reflete essa realidade, a de um conflito cujas perspectivas de solução imediata são – é preciso reconhecer – escassas.",
+                "O presidente Lula tomou posse neste contexto internacional desafiador, e desde então tem deixado clara a posição do Brasil, fiel à nossa tradição diplomática. Como ponto de partida, é inequívoca a condenação da invasão russa e da violação territorial de um Estado soberano, a Ucrânia.",
+                "Mas, um ano depois, a compreensão do governo brasileiro é a de que, em meio ao coro mais estridente, e de vozes poderosas, focadas na guerra e na sua forte dimensão geopolítica, chegou a hora de também dar voz aos que querem falar em caminhos para a construção da paz. O presidente Lula fez uma opção clara e pública nesse sentido.",
+                "O atual governo não desconhece que esforços anteriores em favor de um entendimento lograram apenas avanços pontuais, em questões humanitárias ou na possibilidade de retomada de exportação de grãos a partir dos portos ucranianos. O Brasil não chega para o debate em curso, portanto, com a pretensão de apresentar uma solução pronta. Chega, sim, para ouvir e para dialogar com os países e blocos dispostos a explorar o caminho do entendimento – e há vários países relevantes entre eles. Estou convencido de que a busca de novos avanços, ainda que pontuais, é passo necessário para iniciativas mais ambiciosas em matéria de paz.",
+                "A eventuais críticas internas a essa posição brasileira, em geral por um alegado excesso de protagonismo no cenário internacional a esta altura do conflito, respondo com fatos: seja nos contatos mantidos até agora pelo presidente Lula com 15 Chefes de Estado e de governo, seja nas mais de 40 reuniões que mantive com chanceleres, dirigentes de organismos internacionais e com outros chefes de Estado e de governo, a posição brasileira no conflito é bem compreendida. E vários desses interlocutores chegam a sugerir que ela é bem-vinda a esta altura, ainda que sejam pessimistas quanto ao fim do conflito no futuro mais imediato.",
+                "Da minha recente participação na Conferência de Segurança de Munique, na semana passada, à margem da qual mantive 21 encontros bilaterais em dois dias, trouxe – e transmiti ao presidente Lula – a convicção de que países relevantes como o Brasil, que não estão diretamente envolvidos no conflito, têm um papel construtivo a desempenhar no debate a partir de agora. Em nenhum dos encontros citados, entre eles com os chanceleres da Ucrânia e de vários outros países, ouvi qualquer crítica à disposição brasileira de explorar, em conjunto com outros interlocutores, caminhos que busquem criar as condições para o fim do conflito. Nossa atuação na deliberação sobre a mais recente resolução da Assembleia Geral da ONU sobre a guerra foi nesse sentido, o de conclamar as partes a cessarem hostilidades, termo que aparece pela primeira vez nos debates, por sugestão do Brasil.",
+                "Essa linha de atuação não perde de vista, em nenhum momento, o drama humano que chega diariamente às casas de todos, em especial das comunidades de imigrantes ucranianos e russos e de seus descendentes aqui radicadas. E tampouco ignora o impacto macroeconômico nacional e global da guerra, em particular no que se refere à elevação de custos de insumos para a produção agrícola e dos alimentos.",
+                "O Brasil continuará a perseverar nesse caminho, já a partir da reunião ministerial do G-20 em Nova Délhi, na semana que vem, da qual farei parte. E conta, neste momento, com suficiente massa crítica na comunidade internacional para que as vozes em favor do entendimento ganhem maior poder de influência nos movimentos e conversações capazes de evitar, no futuro, novas datas sobre a duração da guerra, como a triste marca de um ano completada hoje."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "Brasil: el regreso al mundo en 40 días (Clarín, 14/02/2023)",
+            "subtitulo": "NA",
+            "data": "14/02/2023",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "08/11/2023"
+            ],
+            "horario_atualizado": [
+                "11h24"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/mauro-vieira-2023/brasil-el-regreso-al-mundo-en-40-dias-clarin-14-02-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Finanças, Impostos e Gestão Pública"
+            ],
+            "paragrafos": [
+                "Ministro de Relaciones Exteriores Mauro Vieira",
+                "El trayecto empezó por Buenos Aires, con la visita presidencial de enero, y tiene como más reciente escala la Casa Blanca. En solamente 40 días, la política exterior del Presidente Lula ya ha llevado a cabo una importante transformación, o más bien un regreso a las mejores tradiciones diplomáticas de Brasil.",
+                "Las visitas presidenciales hasta aquí demuestran ese compromiso con un cambio profundo. El encuentro de trabajo del viernes pasado en la Casa Blanca no solamente relanzó la relación bilateral con EE.UU. en el más alto nivel.",
+                "Participé en todas las reuniones, y quedó clara la sintonía entre los presidentes Lula y Biden sobre la importancia de restaurar el diálogo bilateral y de cooperar en cuestiones cruciales para ambas sociedades. La defensa de la democracia y el rol de los dos países en el debate global sobre el cambio climático están entre las prioridades compartidas, además de la profundización de los vínculos económicos.",
+                "El anuncio, por parte del gobierno Biden, de su adhesión como contribuyente al Fondo Amazonia, del cual ya participan Alemania y Noruega, y que quedó congelado en la gestión anterior, es un hito muy significativo.",
+                "Y también un reconocimiento al Gobierno Lula por su combate a la criminalidad medioambiental, desde el primer día de su nueva gestión.",
+                "Si no fuera por esa determinación, los brasileños y la opinión pública internacional no estarían hoy al tanto de la tragedia de las comunidades originarias ianomamis, en la Amazonia, que se produjo a lo largo de los últimos años, sin que el Gobierno anterior cumpliera su obligación de proteger tanto esas comunidades como los ríos y árboles de la región.",
+                "Pero los ianomamis ya no están más abandonados: desde enero vienen recibiendo todo el apoyo del gobierno, mientras que sus reservas las estamos liberando de los invasores que han contaminado sus aguas y depredado parte de la selva.",
+                "Como ya había subrayado el presidente electo Lula en Egipto, durante la COP 27, en noviembre pasado, nuestro compromiso con el medio ambiente es una prioridad absoluta e innegociable.",
+                "Ya en el ámbito de las relaciones internacionales, también en Egipto el Presidente declaró que Brasil está de vuelta al mundo, después de los años recientes de aislamiento y terraplanismo diplomático.",
+                "Y la región y el mundo nos han recibido con los brazos abiertos, hecho evidenciado ya a partir da la expresiva presencia de líderes en la toma de posesión de Lula. Desde entonces, el presidente brasileño participó de 16 encuentros presenciales con jefes de Estado y de gobierno, dos de ellos con el presidente Alberto Fernández. También mantuvo reuniones, durante la cumbre de la CELAC, con dirigentes de la Unión Europea y de organismos internacionales como la FAO. Yo mismo, además de participar de la agenda presidencial, mantuve otros 25 encuentros y 14 llamadas telefónicas con ministros, jefes de Estado y de gobierno y dirigentes de organismos internacionales. He recibido además, en Brasilia, en visitas oficiales, los cancilleres de Japón, Grecia y Francia.",
+                "Ese intenso esfuerzo inicial tuvo el objetivo de reconstruir puentes dañados por el gobierno anterior, empezando con prioridad por los países vecinos e por los demás paises latinoamericanos, y a continuación por el continente africano y por protagonistas como son los Estados Unidos, China y Unión Europea.",
+                "Quedaron atrás los tiempos de las provocaciones infantiles a nuestros socios más importantes, como se dio con la Argentina en más de una ocasión.",
+                "Está de vuelta la buena tradición de la política exterior brasileña, y la comunidad internacional ya reconoce los cambios de orientación determinados, al fin y al cabo, por el pueblo brasileño en las urnas.",
+                "Los puentes que estamos tratando de reconstruir son un nuevo punto de partida. Y se proponen no solamente a recuperar pérdidas acumuladas, pero también a volver a hacer de la diplomacia una herramienta eficaz en favor del desarrollo, en particular en lo que atañe a la integración regional, objetivo que es parte de nuestra Constitución de 1988.",
+                "Con permanente diálogo con nuestra sociedad y con los demás socios estratégicos, Brasil ya se prepara para ejercer la Presidencia protempore del Mercosur, en el segundo semestre, y la Presidencia del G20, en 2024.",
+                "Las primeras visitas presidenciales, a Buenos Aires, Montevideo y Washington, abren camino para ese esperado regreso de Brasil a la región y al mundo."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "Voltar ao mundo é também um bom negócio (O Globo, 14/2/2023)",
+            "subtitulo": "NA",
+            "data": "14/02/2023",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h38"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/mauro-vieira-2023/voltar-ao-mundo-e-tambem-um-bom-negocio-o-globo-14-2-2023",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "A visita oficial do presidente Lula a Washington, na última sexta-feira, foi muito além do simbolismo do relançamento da relação com os Estados Unidos no mais alto nível. Do encontro, tanto na dimensão pública quanto na das reuniões de trabalho, ficou clara a sintonia entre os presidentes Lula e Biden sobre a importância da retomada do diálogo bilateral estreito e da cooperação em questões cruciais, como a defesa da democracia e a volta do Brasil à liderança no debate sobre o meio ambiente e a mudança climática.",
+                "A decisão do governo Biden de engajar-se nos esforços internacionais em torno do Fundo Amazônia representa um gesto político de grande significado e também um reconhecimento ao governo Lula pelo combate à criminalidade ambiental desde o primeiro dia da sua gestão. Esses esforços revelaram a todos uma tragédia anunciada, a dos ianomâmis, fruto da ganância e da crueldade humanas, acobertadas pela omissão governamental.",
+                "Como definiu o então presidente eleito, Lula, no Egito, durante a COP27 em novembro passado, o Brasil está de volta. E o mundo recebeu o país de braços abertos, fato demonstrado já a partir da expressiva presença de líderes na posse presidencial. As cifras e o nível dos contatos mantidos falam por si: nos 40 dias até a viagem a Washington, o presidente Lula participou de 16 encontros presenciais com chefes de Estado e de governo, a que se somam dirigentes da União Europeia e de organismos internacionais como a Organização das Nações Unidas para Alimentação e Agricultura (FAO), e ainda de outros seis contatos telefônicos com presidentes ou primeiros-ministros. Além de acompanhar esses contatos, mantive outros 22 encontros bilaterais e 14 telefonemas com ministros e dirigentes de organismos internacionais. Recebi, ainda, em visitas oficiais, chanceleres de Japão, Grécia e França.",
+                "Assim começamos a entregar resultados da primeira encomenda que recebi do presidente ao ser nomeado: reconstruir pontes, a começar pelos países vizinhos e pelos demais países latino-americanos, já a partir da cúpula da Comunidade de Estados Latino-Americanos e Caribenhos (Celac), em janeiro, além do continente africano e dos grandes polos de poder mundial, como os EUA, a China e a União Europeia. O relançamento dessas parcerias estratégicas requer forte apoio da diplomacia presidencial e conta com a qualidade dos quadros do Itamaraty, que receberam a missão com renovado entusiasmo.",
+                "Nesses 40 dias, retomamos a boa tradição da política externa brasileira, que soube construir sua reputação de excelência sempre orientada pelo interesse nacional. Ficam para trás os recentes tempos do terraplanismo diplomático no país, em que as boas práticas foram substituídas por teorias da conspiração delirantes, por bravatas e por provocações infantis a nossos principais parceiros. Essa página foi virada, e o mundo já reconhece plenamente um Brasil que retoma seu lugar, como ator responsável e comprometido com a busca de soluções para os grandes problemas globais, ao lado do imperativo da promoção do desenvolvimento econômico e humano para a população brasileira.",
+                "Como a política externa não é um fim em si mesmo, e sim um meio para promover os interesses do país num mundo repleto de novos conflitos e desafios, essas pontes são símbolos de um recomeço. E têm como objetivos recuperar perdas acumuladas e voltar a fazer da diplomacia uma ferramenta eficaz. Com pragmatismo, diálogo com a sociedade e foco no interesse nacional, vamos explorar novas oportunidades, preparar o país para exercer a presidência do G20, no ano que vem, e estamos avaliando os novos passos de processos negociadores herdados de gestões anteriores, como o da acessão à OCDE e o acordo Mercosul-UE.",
+                "Por essas pontes novas e sólidas, as primeiras visitas presidenciais, a Buenos Aires, Montevidéu e Washington, marcam o caminho da volta às nossas melhores tradições diplomáticas e da saída do isolamento."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2023-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

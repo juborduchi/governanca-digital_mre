@@ -1,0 +1,216 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "aloysio-nunes-ferreira"
+            ],
+            "titulo": "Discurso do ministro Aloysio Nunes Ferreira, lido por ocasião do lançamento do livro dedicado a Sérgio Vieira de Mello",
+            "subtitulo": "NA",
+            "data": "23/08/2018",
+            "horario": "14h05",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h49"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/aloysio-nunes-ferreira/discurso-do-ministro-aloysio-nunes-ferreira-lido-por-ocasiao-do-lancamento-do-livro-dedicado-a-sergio-vieira-de-mello",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O lançamento do livro de Wagner Sarmento aqui no Instituto Rio Branco é uma ocasião para homenagearmos o grande brasileiro que foi Sérgio Vieira de Mello.",
+                "No domingo passado, marcamos os quinze anos de sua trágica morte.",
+                "Por capricho do destino, na véspera, dia 18, tomamos conhecimento de que havia nos deixado o ex-secretário-geral das Nações Unidas Kofi Annan – chefe, amigo e, de certa forma, mentor de Vieira de Mello.",
+                "A grande sintonia de propósitos entre esses dois amigos que colocaram seus conhecimentos, talentos e talvez os melhores anos de suas vidas a serviço da humanidade fez com que Annan confiasse a Vieira de Mello algumas das missões mais espinhosas diante da comunidade internacional – em Kosovo, no Timor-Leste, em Genebra, onde assumiu o cargo de alto comissário da ONU para os direitos humanos, e no Iraque.",
+                "A trajetória de Sérgio é emblemática dos serviços prestados pelas Nações Unidas à humanidade, a diferença que fazem ao ajudar na superação de conflitos, cuidar dos desvalidos e vulneráveis, criar condições para a paz.",
+                "Mais do que ninguém, Sérgio entendia que refugiados são pessoas que abandonam suas casas, seus entes queridos, tudo que lhes é caro, para aportar em uma terra onde não sabe se serão bem-vindas porque, simplesmente, quando não lhes resta alternativa.",
+                "Senhoras e senhores,",
+                "O compromisso com a recepção digna dos refugiados – assentado no direito internacional humanitário e na legislação nacional – não pode se preterida por mera conveniência política. Temos hoje uma lei de migração vanguardista, que protege o migrante com a perspectiva dos direitos humanos e não com a perspectiva punitiva do passado.",
+                "Nossa lei que disciplina o estatuto do refugiado é uma das mais modernas do mundo, elogiada pelo ACNUR por assegurar proteção em diversas hipóteses, de maneira ampla e generosa.E o Brasil tem feito esforço para acolher refugiados sírios, haitianos e também venezuelanos.",
+                "O desafio que representa a chegada de milhares de venezuelanos ao nosso território é inegável, sobretudo em razão da concentração em apenas um ponto de nossa fronteira.Esse afluxo cria pressão sobre serviços públicos. Não é por outra razão que o governo federal tem intensificado seu apoio a Roraima para buscar acolher da melhor forma os refugiados.",
+                "O governo federal continuará empenhado em criar condições adequadas para essa recepção.",
+                "É por isso que temos também buscado levar alguns desses refugiados para outros Estados brasileiros. Somos um país imenso e temos o dever de absorver esses refugiados, muitos dos quais querem voltar para seu país quando for possível.",
+                "Entendemos o desafio que o recebimento de refugiados ocasiona, mas nada, absolutamente nada justifica atos de violência, vandalismo e xenofobia.",
+                "A melhor forma de honrar a memória de heróis como Sérgio Vieira de Mello é sustentar nosso compromisso com a causa humanitária.",
+                "Devemos sempre nos perguntar: o que Sérgio faria no nosso lugar, diante do sofrimento dos vulneráveis? Ele certamente estenderia a mão. É o que devemos fazer. Sempre.",
+                "É por isso que não deve passar pela cabeça de ninguém fechar fronteiras. Temos o dever de ajudar quem precisa de ajuda, quem não tem alternativa, quem, como muitos de nós no passado, teve de abandonar seu país de origem.",
+                "É uma obrigação legal, um compromisso internacional e um dever moral. Senhoras e senhores,",
+                "Há quase dezesseis anos, quando era o administrador do Timor-Leste, Sérgio falou, aqui neste auditório, aos alunos do Instituto Rio Branco.",
+                "Sobre essa experiência, Vieira de Mello compartilhou lições importantes. Terminou a sua palestra com a seguinte frase, que mostra sua firmeza na defesa de valores, mesmo num contexto de negociação: “já que o pragmatismo é essencial, façamos prevalecer o idealismo”.",
+                "Honremos sempre esses valores por meio de palavras e ações. É a melhor homenagem que podemos prestar a Sérgio Vieira de Mello e também a Kofi Annan.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "Brasil e Guiana: 50 Anos de uma Amizade que se projeta no futuro (Correio Braziliense, 31/08/2018)",
+            "subtitulo": "NA",
+            "data": "31/08/2018",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "16/06/2025"
+            ],
+            "horario_atualizado": [
+                "12h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/brasil-e-guiana-50-anos-de-uma-amizade-que-se-projeta-no-futuro-correio-braziliense-31-08-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Brasil e Guiana celebram, neste mês, 50 anos de relações diplomáticas, marcadas por amizade e compromisso com a paz e o desenvolvimento. Estabelecemos relações com a Guiana em 1968, dois anos depois de sua independência do Reino Unido. Esse reconhecimento precoce da independência do país vizinho, com o qual temos 1.600 quilômetros de fronteira, abriu caminho para a consolidação de vínculos cada vez mais fortes. O primeiro chanceler da América Latina a visitar a Guiana foi o ministro Mário Gibson Barbosa, em 1971. Desde cedo na vida independente da Guiana, entendemos a importância de nosso vizinho ao norte e a necessidade de sua plena incorporação à América do Sul, sem qualquer prejuízo de seus profundos laços com o Caribe. Essa visão continua válida e tem se traduzido em iniciativas benéficas para os dois países.",
+                "O relacionamento bilateral tornou-se mais denso a partir da década de 1990, com o crescimento do número de brasileiros residentes no país vizinho, hoje estimado em 15 mil. No campo da integração econômica e comercial, demos passos importantes em 2001, quando foi assinado acordo de desgravação tarifária para diversos bens que hoje estamos buscando ampliar, e em 2012, ano em que a Guiana se tornou Estado Associado do Mercosul. Em 2017, o intercâmbio comercial bilateral aumentou cerca de 11%, atingindo quase US$ 39 milhões. O acordo sobre investimentos em negociação atualmente, bem como as promissoras perspectivas da economia guianense permitem prever um incremento do comércio e dos investimentos nos próximos anos.",
+                "A integração da infraestrutura física, pelo seu papel central no desenvolvimento, é prioridade. Em 2009, foi inaugurada a ponte sobre o Rio Tacutu, primeira ligação terrestre entre os dois países. Em 2017, por ocasião da visita do presidente David Granger a Brasília, foi assinado acordo que permite ao Brasil apoiar, por meio de projeto de engenharia, a pavimentação da estrada entre Lethem, cidade lindeira com o Brasil, e a localidade de Mabura Hill, o que, associado a outro projeto na Guiana, resultará em ligação adequada entre nossa fronteira e portos guianenses no Caribe. A obra é de importância estratégica para o norte do Brasil, já que facilitará seu acesso ao mar, reduzindo custos no escoamento da produção, o fluxo de pessoas e investimentos.",
+                "Várias iniciativas de cooperação têm tido impacto positivo no desenvolvimento econômico e social. É o caso da perfuração, pelo Exército Brasileiro, de poços artesianos na região do Rupununi, que beneficiará cerca de 10 mil pessoas em comunidades próximas à fronteira. A iniciativa permitirá capacitar as Forças Armadas guianenses na tecnologia de perfuração de poços. O programa bilateral de cooperação técnica engloba também projetos em matéria de agricultura (certificação de sementes; sanidade vegetal e controle de pragas), alimentação escolar e combate ao trabalho infantil, entre outros.",
+                "Nas reuniões de integração fronteiriça, são tratados temas de grande relevância para a população que vive na região, tais como saúde, agricultura, transporte, educação e assuntos consulares. Merece destaque o projeto de extensão à Guiana do Ligue 180, em cooperação com a Secretaria da Políticas para as Mulheres (SPM). O canal direto de denúncia e auxílio às vítimas de violência de gênero, com atendimento em português, beneficiará a comunidade brasileira no país vizinho.",
+                "É também de interesse dos dois países fortalecer a cooperação em matéria de defesa e combate aos ilícitos transnacionais. Foi com esse objetivo que os ministros da Justiça, da Defesa e do Gabinete de Segurança Institucional visitaram Georgetown, em fevereiro último. A renegociação do Acordo de Cooperação em Matéria de Defesa, já em etapa avançada, propiciará o marco legal para o seguimento dessa importante vertente da cooperação bilateral.",
+                "Brasil e Guiana seguem animados pelo mesmo espírito que presidiu o estabelecimento das relações diplomáticas há 50 anos. Queremos traduzir a amizade que nos une em benefícios concretos. A recente descoberta de substanciais reservas de petróleo na Guiana pode transformar profundamente sua economia e sociedade. O Brasil está pronto para colaborar para que Guiana tire o melhor proveito desses recursos. Estivemos com a Guiana no período da independência e queremos também estar ao seu lado na construção do futuro de prosperidade que se lhe descortina.",
+                "Aloysio Nunes Ferreira, Ministro das Relações Exteriores"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "aloysio-nunes-2017-2018"
+            ],
+            "titulo": "O Brasil retorna à cena internacional (O Estado de S. Paulo, 23/08/2018)",
+            "subtitulo": "NA",
+            "data": "23/08/2018",
+            "horario": "08h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "10h50"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/aloysio-nunes-2017-2018/o-brasil-retorna-a-cena-internacional-o-estado-de-s-paulo-23-08-2018",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Nestes dois anos de governo Temer, foi grande o esforço para recolocar o Brasil nos trilhos, depois da mais grave recessão da nossa História. Graças ao esforço reformista, que foi empreendido com muito diálogo, a recessão foi superada e a confiança se encontra em franca recuperação.",
+                "Por determinação do presidente da República, a política externa brasileira foi posta a serviço do desenvolvimento e da recuperação da credibilidade do País, que se encontrava em frangalhos. Foi o que fizemos. Por meio de uma diplomacia guiada pelo interesse nacional, na boa tradição do barão do Rio Branco, as vitórias foram se acumulando para recolocar o Brasil no mapa.",
+                "Abandonada a diplomacia pirotécnica do passado recente, a política externa refletiu as prioridades nacionais sem se acanhar diante do contexto internacional desafiador. Tivemos de reposicionar o Brasil num mundo assombrado pelo nacionalismo e pelo protecionismo. Uma ordem internacional em transição, com uma estrutura de poder crescentemente multipolar, porém marcada pela assimetria e por focos de tensão entre potências.",
+                "A política externa foi estruturada em torno de quatro eixos principais: modernização de nossa inserção econômica internacional com objetivo de abrir mercados, atrair investimentos e melhorar o ambiente de negócios e a competitividade; atenção não apenas aos parceiros tradicionais, mas também às oportunidades derivadas na nova configuração de poder mundial; construção de uma região integrada, próspera, segura e democrática; busca de uma governança global baseada no direito, com instituições eficazes para enfrentar os desafios globais.",
+                "A ponta de lança da diplomacia econômica foi o Mercosul, que encontramos em estado terminal. Hoje o bloco já não respira por aparelhos e anda com suas próprias pernas. Eliminamos dezenas de barreiras que travavam o comércio e firmamos acordos de investimentos e compras governamentais. A agenda externa foi dinamizada com as negociações com a União Europeia, a Efta, o Canadá, a Coreia do Sul e Singapura, além da aproximação com a Aliança do Pacífico. Preferimos não ficar choramingando, impotentes, o fracasso da Rodada Doha. Passamos a negociar com outros parceiros para assegurar acesso a mercados e uma abertura escalonada, que gere competitividade para o País.",
+                "A essa nova postura agregamos o aprimoramento dos instrumentos de promoção comercial e atração de investimentos, com a incorporação da Apex ao Itamaraty, para assegurar a integração do Brasil às cadeias globais de valor. Sem descuidar das relações bilaterais com parceiros tradicionais, como demonstra nossa atenção aos Estados Unidos, à Europa e ao Japão, a diplomacia buscou abrir novas fronteiras, em sintonia com as mudanças em curso na ordem internacional, em particular o gradual deslocamento do centro de gravidade da economia global em direção ao Oriente.",
+                "O presidente Michel Temer fez mais de 20 viagens ao exterior e recebeu mais de 30 dignitários estrangeiros em Brasília. A atração de investimentos, a abertura de mercados e a transferência de tecnologia foram prioridades nos contatos do presidente e nas inúmeras visitas que realizei na América Latina, à Europa, ao Oriente Médio, ao continente africano, onde estive quatro vezes, e ao Sudeste Asiático, para onde viajei duas vezes. A Ásia, incluindo a China e a Índia, e a África ocuparam lugar de destaque na agenda, tanto pelo papel que já desempenham na economia global quanto pelo seu potencial de crescimento.",
+                "Na nossa região, temos cobrado, ao lado de outros países, que o regime venezuelano cumpra as obrigações que contraiu livremente em matéria de democracia. A solução da crise deve ser construída pelos próprios venezuelanos com o apoio da comunidade internacional. Seguiremos acolhendo os refugiados venezuelanos porque é um dever moral e uma obrigação internacional. A Nicarágua também é fonte de preocupação, um caso de solapamento da democracia e uso de paramilitares para o controle político. Continuaremos exortando o regime a engajar-se no processo de diálogo e conciliação. E seguiremos exigindo punição exemplar para os responsáveis pelo assassinato da cidadã brasileira Raynéia Lima.",
+                "O desafio da segurança nas fronteiras foi prioridade absoluta. Lançamos ou reativamos mecanismos para combate de crimes transnacionais com praticamente todos os vizinhos, o que resultou em operações conjuntas, compartilhamento de inteligência e treinamento de agentes. Nossas embaixadas na América do Sul contam agora com setores encarregados de fomentar a cooperação em defesa e segurança. A diplomacia hoje contribui para o esforço nacional de redução dos índices de violência no País.",
+                "Na ONU, lideramos a adoção do pioneiro Tratado de Proibição de Armas Nucleares. Após ausência por longo período, voltamos a participar da OEA e elegemos um jurista para a Comissão Interamericana de Direitos Humanos. Defendemos as normas multilaterais para a solução de problemas globais, em particular o Acordo de Paris, de cujo cumprimento depende o futuro do planeta. Buscamos reformar a ONU para fortalecê-la. Prestigiamos a Organização Mundial do Comércio (OMC). Nossa mensagem tem sido coerente: não nos dobramos ao unilateralismo.",
+                "A política externa consolidou-se como política pública que reflete as prioridades nacionais e contribui para a segurança, o bem-estar e o crescimento. Uma política que não se apequena diante do mundo e busca moldar as normas internacionais às aspirações da nossa sociedade. Com serenidade e sem espalhafato, tem produzido ganhos concretos para o País e contribuído para uma ordem internacional mais justa e equilibrada. É o que a sociedade brasileira espera da nossa diplomacia. É o que o mundo espera do Brasil.",
+                "*MINISTRO DAS RELAÇÕES EXTERIORES"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2018-08",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, na sessão especial do Centro Global Rei Hamad para a Coexistência Pacífica",
+            "subtitulo": "Manama/Bahrein, 16 de novembro de 2021",
+            "data": "16/11/2021",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/12/2024"
+            ],
+            "horario_atualizado": [
+                "12h26"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-na-sessao-especial-do-centro-global-rei-hamad-para-a-coexistencia-pacifica",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Honrado e feliz estou no Bahrein. E parece que isso é mais que a minha segunda casa. A forma como fui tratado, o modo carinhoso, levarei para todo o meu país. Tão longe, mas tão perto, é o nosso Bahrein. Sou o primeiro chefe de estado do Brasil a estar aqui.",
+                "Há pouco tive a satisfação de inaugurar a nossa Embaixada. Há pouco, também almocei com o rei. Que Deus abençoe às nossas nações.",
+                "Prezado Sheik Mohamed bin Mubarak, vice primeiro-ministro rei do Bahrein, por meio de quem cumprimento as demais autoridades presentes.",
+                "Meu embaixador, Carlos França, ministro das Relações Exteriores, por meio do qual eu cumprimento os nossos ministros de estado e demais autoridades brasileiras aqui presentes.",
+                "Senhoras e senhores, é uma grande satisfação para mim estar, pela primeira vez, em caráter oficial, nesta bela cidade de Manama. É uma honra conhecer o Centro Global Rei Hamad, para coexistência pacífica nesta sessão especial.",
+                "Lembro-me bem do evento organizado em Brasília, em dezembro passado, pelo Centro Global Rei Hamad. Muito nos honrou que o Centro tenha escolhido organizar no Brasil, o lançamento da declaração do reino do Bahrein, na América Latina. Naquela ocasião, declarei meu apoio pessoal e do Governo brasileiro, a tão importante iniciativa de sua majestade, o Rei Hamad Bin Isa Al-khalifa, bem como ao texto da declaração documento fundador deste Centro.",
+                "Tenho a satisfação de poder dizer que cumpri meu compromisso anunciado, naquela ocasião, de abrir a Embaixada do Brasil em Manama. Também desejo reafirmar a intenção brasileira de aprofundar a cooperação com o Bahrein, na promoção da tolerância e da liberdade religiosa. Bem como da coexistência pacífica entre os povos.",
+                "Assinamos hoje, um memorando de entendimento entre esta valiosa instituição, o Centro Global Rei Hamad, para a coexistência pacífica, e a coordenação de liberdade de religião ou crença. Consciência, expressão e acadêmica, órgão vinculado ao Ministério da Mulher, Família e Direitos Humanos, no Brasil. O memorando de entendimento estabelece as bases do que deverá ser uma proveitosa cooperação entre os nossos países. Os fundamentos de tal cooperação, são os valores compartilhados pelos nossos países. Valores muito bem expressos na declaração do reino do Bahrein.",
+                "O Brasil orgulha-se de ser um país acolhedor, em que praticantes do cristianismo e do islamismo, do judaísmo, das religiões afro-brasileiras e outras, convivem, e sempre conviveram, harmoniosamente. O fato de possuirmos ampla maioria de uma confissão cristã, no caso brasileiro, islâmica, no caso Bahreinita, não impede que sejam acolhidas em nossos países, outras fés e tradições. Ao contrário, como bem colocada por vossa majestade na declaração do Rei do Bahrein, a liberdade religiosa é um valor fundamental e uma responsabilidade dos governos: respeitar e proteger as minorias religiosas. Nossa cooperação não deverá se esgotar no âmbito bilateral, mas sim, contribuir para a promoção desses princípios em nossas regiões e no mundo.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, na Cerimônia em memória dos pracinhas brasileiros mortos na Segunda Guerra Mundial",
+            "subtitulo": "Pistoia/Itália, 02 de novembro de 2021",
+            "data": "02/11/2021",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/12/2024"
+            ],
+            "horario_atualizado": [
+                "12h27"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-na-cerimonia-em-memoria-dos-pracinhas-brasileiros-mortos-na-segunda-guerra-mundial",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Buon giorno.",
+                "Diz o protocolo, que a pessoa mais importante é a última que fala. Estou aqui quebrando o protocolo. A pessoa mais importante hoje presente aqui, é o senhor Levoni Romano.",
+                "Muito honrado, pela primeira vez estou em solo italiano. Solo esse, neste momento sagrado para nós. Onde rememoramos aqueles que tombaram em luta pelo aquilo que é de mais sagrado entre nós, a nossa liberdade.",
+                "Esta é a terra também de meus antepassados. Hoje um sétimo da população brasileira, 30 milhões de pessoas tem origem italiana.",
+                "Em 1943 um dever nos chamava, voltar para Itália e lutar por liberdade. Assim, 25 mil brasileiros cruzaram o Atlântico, muitos de origem italiana e para cá vieram. Dois anos depois, quase 500 brasileiros aqui pereceram, mas a vitória se fez presente. Ouso dizer, mais importante que a própria vida, é a nossa liberdade.",
+                "Nomes como Monte Castelo, Pistoia, Montese, fazem parte de nomes de ruas, de avenidas, de monumentos, de pontos capitais e de lugares militares no Brasil.",
+                "As populações de Emília Romana e Toscana, nos honram  com dom de medicare, o não esquecer. Ouvi aqui a palavra gratidão, ela tem mão dupla. Apesar de o Oceano Atlântico nos separar, nos sentimos mais que vizinhos, nós somos irmãos.",
+                "Daqueles jovens que estiveram aqui nos idos 43, 44 e 45, poucas dezenas ainda estão vivos, mas eles são para nós, a chama da liberdade.",
+                "A todos vocês nossos irmãos italianos, a minha continência, o meu orgulho de estar aqui e a satisfação de tê-los ao nosso lado. Ontem, hoje e sempre, Brasil e Itália sempre juntos.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Mensagem do Presidente da República, Jair Bolsonaro, na Conferência das Nações Unidas sobre Mudanças Climáticas de 2021",
+            "subtitulo": "NA",
+            "data": "01/11/2021",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/12/2024"
+            ],
+            "horario_atualizado": [
+                "12h35"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/mensagem-do-presidente-da-republica-jair-bolsonaro-na-conferencia-das-nacoes-unidas-sobre-mudancas-climaticas-de-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "O Brasil é uma potência verde. Temos a maior biodiversidade do planeta, a maior e mais rica cobertura florestal e uma das maiores áreas oceânicas. No combate à mudança do clima, sempre fomos parte da solução, não do problema.",
+                "Na semana passada, lancei as bases do Programa Nacional de Crescimento Verde, que traz as preocupações ambientais para o centro da agenda econômica. Ao promover uma “economia verde”, o Programa vai orientar as ações de proteção e conservação do meio ambiente por meio de incentivos econômicos, direcionando recursos e atraindo investimentos. Com isso, vamos favorecer ações e projetos de conservação da floresta, uso racional dos recursos naturais, redução de emissões de gases de efeito estufa e, principalmente, geração de “empregos verdes”.",
+                "Atualmente, o Governo Federal conta com linhas de crédito e investimentos que, somadas, superam a casa dos cinquenta bilhões de dólares. Esse montante é oferecido para projetos “verdes”, em áreas como conservação e restauração florestal, agricultura de baixas emissões, energia renovável, saneamento, transporte e tecnologia da informação. Esses recursos vão impulsionar a economia, gerar emprego, e contribuir para consolidar o Brasil como a maior “economia verde” do mundo.",
+                "Nossa iniciativa está em linha com a resposta global à mudança do clima. Promove o desenvolvimento sustentável com baixas emissões e busca a erradicação da pobreza, garantindo a produção de alimentos em larga escala, tão importante para a segurança alimentar global.",
+                "Vamos agir com responsabilidade, buscando soluções reais para uma transição que se faz urgente. Vamos oferecer melhor qualidade de vida a todos os brasileiros. Assim vamos, também, contribuir para melhorar a qualidade de vida em todo o planeta.",
+                "Repito minha mensagem a todos que participam da COP-26 e ao povo brasileiro: o Brasil é parte da solução para superar esse desafio global. Os resultados alcançados por nosso país até 2020 demonstram que podemos ser ainda mais ambiciosos. Por isso, autorizei o Ministro do Meio Ambiente, Joaquim Leite, a apresentar durante a COP-26 novas metas climáticas."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "carlos-franca-2021-2022"
+            ],
+            "titulo": "Brasil critica 'protecionismo' da UE por trás de proposta de lei contra o desmatamento (Financial Times, 28 de novembro de 2021)",
+            "subtitulo": "NA",
+            "data": "23/11/2021",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "06/10/2025"
+            ],
+            "horario_atualizado": [
+                "17h25"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/carlos-franca-2021-2022/brasil-critica-protecionismo-da-ue-por-tras-de-proposta-de-lei-contra-o-desmatamento-financial-times-28-de-novembro-de-2021",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Proposta de Bruxelas para barrar importações de produtos de áreas desmatadas irrita exportador sul-americano",
+                "O ministro das Relações Exteriores do Brasil criticou a União Europeia por “protecionismo comercial” e “miopia” após o bloco propor uma proibição à importação de produtos agrícolas oriundos de áreas desmatadas, destacando a França por críticas específicas sobre os subsídios agrícolas.",
+                "Bruxelas propôs este mês uma lei que obrigaria empresas que vendem carne bovina, soja, óleo de palma, café, cacau e madeira para o bloco a comprovarem que as mercadorias não foram produzidas em terras desmatadas ou degradadas depois de  2020.",
+                "O Brasil é um grande exportador de vários dos produtos visados, e a iniciativa da UE reacendeu tensões de longa data com o governo do presidente de extrema-direita Jair Bolsonaro, que vê motivos ocultos por trás da proposta do bloco.",
+                "“O que não posso aceitar é o uso do meio ambiente como forma de protecionismo comercial. Isso é ruim para os consumidores [e para] os fluxos comerciais”, disse o chanceler Carlos Alberto Franco França ao Financial Times em entrevista. “Acho que há uma certa miopia da UE.”",
+                "A legislação proposta foi publicada pouco antes da divulgação de novos dados de satélite que mostraram que a destruição da Amazônia brasileira atingiu o maior nível em 15 anos, gerando novas dúvidas sobre o compromisso do governo com a proteção da maior floresta tropical do mundo.",
+                "Mais de 13.200 km² foram devastados nos 12 meses até julho — uma área mais de oito vezes o tamanho da Grande Londres —, representando um aumento de 22% em relação ao ano anterior, segundo dados do Instituto Nacional de Pesquisas Espaciais (Inpe). Foi a taxa mais rápida de desmatamento na Amazônia brasileira desde 2006.",
+                "Os números ofuscaram os elogios que o Brasil recebeu por seus compromissos na cúpula do clima COP26, realizada este mês em Glasgow, incluindo uma promessa de acabar com o desmatamento ilegal até 2028 e uma meta mais ambiciosa de atingir emissões líquidas zero até 2050. “Os números [do desmatamento] são chocantes. O Brasil tem um sério problema de credibilidade”, disse um diplomata de alto escalão de país ocidental em Brasília.",
+                "França classificou os dados mais recentes sobre destruição florestal como “surpreendentes”, mas afirmou que os números “não são tão ruins quanto parecem”, pois houve melhora desde julho. Os dados do Inpe para agosto, setembro e outubro deste ano sugerem uma redução de 28% no número de queimadas.",
+                "“Não há desejo do Brasil de esconder o problema”, acrescentou o ministro. “Quando há desmatamento ilegal, frequentemente está ligado a outros crimes, como infrações trabalhistas, sonegação fiscal e lavagem de dinheiro. Estamos tratando isso como uma questão policial e isso está dando resultados.”",
+                "O Brasil se orgulha de seu setor agrícola tecnologicamente avançado e altamente produtivo, e autoridades costumam enfatizar que a grande maioria das exportações agrícolas do país vem de terras bem manejadas no centro e sul do país, e não de áreas ilegalmente desmatadas na Amazônia.",
+                "França direcionou críticas específicas ao apoio estatal da França ao seu setor agrícola. “Entendo os motivos políticos internos do governo francês para apoiar seus agricultores. Não é ambientalmente correto que eles concedam subsídios [agrícolas]. Porque terra e água são recursos escassos e operá-los de forma ineficiente não é sustentável.",
+                "“É melhor plantar aqui no Brasil, onde a agricultura é cada vez mais avançada tecnologicamente, do que produzir na França.”",
+                "As tensões entre o Brasil e seus parceiros europeus contribuíram para o impasse na ratificação de um acordo comercial cuidadosamente negociado ao longo de 20 anos entre a UE e o Mercosul, bloco que também inclui Argentina, Paraguai e Uruguai.",
+                "Bruxelas tem se mostrado relutante em avançar na ratificação do acordo devido à forte oposição de alguns Estados-membros, que acreditam que o Brasil, em particular, não está fazendo o suficiente para combater o desmatamento. França concordou que o pacto comercial “não está avançando”. Um porta-voz do Itamaraty acrescentou: “Não somos a parte que está obstruindo o acordo, o Brasil está pronto para seguir adiante.”",
+                "Diplomata de carreira discreto, França já serviu nos EUA, na Bolívia e no Paraguai, e foi chefe do cerimonial no Palácio do Planalto durante o governo Bolsonaro. Foi nomeado ministro das Relações Exteriores em março, substituindo Ernesto Araújo, ideólogo declaradamente alinhado ao movimento bolsonarista, conhecido por sua admiração por Donald Trump, aversão ao “globalismo” e acusado de hostilidade em relação à China."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2021-11",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

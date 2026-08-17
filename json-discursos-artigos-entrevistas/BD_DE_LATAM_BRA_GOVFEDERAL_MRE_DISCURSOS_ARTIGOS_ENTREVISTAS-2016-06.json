@@ -1,0 +1,415 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jose-serra"
+            ],
+            "titulo": "Discurso do Ministro José Serra durante a Reunião Ministerial da Organização Mundial de Comércio (OMC) – Paris, 2 de junho de 2016",
+            "subtitulo": "NA",
+            "data": "02/06/2016",
+            "horario": "21h52",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/jose-serra/discurso-do-ministro-jose-serra-durante-a-sessao-reforcando-a-contribuicao-do-comercio-e-do-investimento-para-o-crescimento-inclusivo-da-reuniao-do-conselho-ministerial-da-ocde-paris-2-de-junho-de-2017",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Prezados colegas,",
+                "É com grande prazer que aproveito esta oportunidade para trocar alguns pontos de vista com vocês sobre a situação do comércio internacional e sobre os rumos da OMC daqui em diante.",
+                "Como é conhecido, o Brasil está enfrentando uma situação econômica difícil, principalmente devido a causas internas e políticas. O novo governo está tomando as medidas necessárias para corrigir os desequilíbrios macroeconômicos e criar condições para o crescimento. Nesse processo, o comércio internacional e os investimentos desempenharão papel significativo e, graças à flexibilidade da taxa de câmbio, o ajuste externo está muito bem encaminhado. Infelizmente, de início, isso aconteceu principalmente, mas não totalmente, por meio da redução das importações de bens e serviços. A demanda global está reduzida e o comércio internacional crescendo mais lentamente do que a produção global.",
+                "Após a crise de 2008/9, o Brasil contribuiu durante anos para a demanda global, por meio de um déficit moderado em conta corrente, embora com base em uma taxa de câmbio sobrevalorizada. É importante que nossos parceiros agora permaneçam abertos ao comércio e, como recomendado pelo FMI, que economias importantes usem o espaço disponível para impulsionar a demanda. O reequilíbrio não pode acontecer de forma unilateral.",
+                "O Brasil agiu com perseverança para que fossem obtidos os resultados positivos do encontro de Nairóbi. A proibição de subsídios à exportação de produtos agrícolas evitou uma perda total de credibilidade do pilar de negociação da OMC. No entanto, a capacidade da OMC em continuar sendo um fórum de negociação relevante ainda está em questão.",
+                "Com um padrão de comércio geograficamente bem distribuído, o Brasil naturalmente valoriza a OMC, mas a experiência dos últimos dez anos não foi gratificante. Não fomos capazes de corrigir a assimetria, nas disciplinas e no acesso a mercados, vigente entre produtos agrícolas e industriais. Não fomos capazes de responder às preocupações dos países em desenvolvimento, a fim de facilitar sua participação no comércio internacional.",
+                "Se as coisas não funcionaram da maneira como tentamos, devemos estar prontos para experimentar novas rotas, desde que as questões importantes para nós permaneçam sobre a mesa.",
+                "Tendo se livrado dos absurdamente distorcivos subsídios à exportação de produtos agrícolas, principalmente nos países desenvolvidos, nosso próximo passo deveria ser o de começar a enfrentar seriamente os temas de subsídios internos. Eu não acho que será possível realizar, de uma só vez, tudo o que é necessário nesta área para eliminar as distorções no comércio internacional. Poderemos ter de avançar progressivamente. Mas é importante definir um enquadramento já na próxima reunião ministerial, que funcione como um ponto de partida a um processo de eliminação, passo a passo, das distorções mais gritantes.",
+                "Se valorizamos a OMC, deveríamos multiplicar tentativas de fazê-la funcionar. Nós provavelmente deveríamos permitir que uma série de processos de negociação avançasse em paralelo e ver quais deles darão frutos. Na próxima reunião ministerial, com base naquelas questões que estiverem maduras, tentaríamos então concluir um pacote equilibrado e colher os resultados. Em vez do modelo de rodadas sobrecarregadas, deveríamos talvez tentar atingir um fluxo contínuo de resultados nas sucessivas reuniões ministeriais, que se realizam a cada dois anos.",
+                "O que o Brasil não pode ter na OMC é paralisia.",
+                "Por exemplo, em relação às questões que não estavam sendo negociadas na Rodada de Doha, é tempo de reforçar a natureza científica das medidas sanitárias e fitossanitárias. Estas medidas não tarifárias tornaram-se uma verdadeira arma contra o comércio. Devemos confiar mais nas organizações internacionais que trabalham com base em dados científicos sólidos.",
+                "Nós estamos igualmente prontos para desenvolver na OMC disciplinas que apoiem a nova economia. No comércio eletrônico (\"e-commerce\"), por exemplo, é importante equilibrar disciplinas que permitam que as empresas se beneficiem da previsibilidade do comércio baseado na Internet com disciplinas que assegurem a cooperação adequada para fazer valer os direitos do consumidor e o direito à privacidade. Se não alcançarmos esse equilíbrio, as disciplinas serão inúteis, uma vez que os consumidores perderão a confiança nesse instrumento, se sentirem que sua privacidade está ameaçada ou que não têm nenhuma reparação para suas queixas contra \"e-traders\" de outros países.",
+                "No mundo atual, acordos comerciais podem tomar uma diversidade de formatos e serem originados em muitos fóruns. O Brasil também vai seguir por esse caminho, mas permanecerá engajado nas negociações da OMC na medida em que elas progridam."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jose-serra"
+            ],
+            "titulo": "",
+            "subtitulo": "NA",
+            "data": "08/06/2016",
+            "horario": "20h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/jose-serra/declaracao-a-imprensa-do-ministro-jose-serra-por-ocasiao-da-visita-do-chanceler-do-paraguai-embaixador-eladio-loizaga-brasilia-8-de-junho-de-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "",
+                "Foi com grande satisfação que recebi o chanceler Eladio Loizaga, do Paraguai, com quem me reuni também, na semana passada, em Paris.",
+                "Trata-se da primeira visita de chanceler que recebo em Brasília desde que assumi como ministro das Relações Exteriores do governo do presidente Michel Temer.",
+                "É uma circunstância auspiciosa, que demonstra a importância das relações entre o Brasil e o Paraguai.",
+                "São relações centrais para o Brasil, que se assentam em bases históricas e possuem um forte componente humano. Compartilhamos uma longa fronteira. Cerca de 300 mil brasileiros vivem no Paraguai, a segunda maior comunidade de brasileiros no exterior. Nossos vínculos têm-se fortalecido nos últimos tempos, de maneira ampla e diversificada.",
+                "O encontro que acabo de ter com o chanceler Loizaga foi muito positivo, pois concordamos em dar um impulso à parceria comercial e à integração física entre nossos países.",
+                "É com satisfação que anuncio a assinatura do Acordo de Serviços Aéreos entre Brasil e Paraguai, instrumento que facilitará enormemente o fluxo de passageiros e cargas entre nossos países.",
+                "É com igual satisfação que celebro a conclusão das negociações do Acordo para a construção de ponte internacional sobre o Rio Paraguai, entre as cidades de Porto Murtinho (no lado brasileiro) e Carmelo Peralta (no lado paraguaio). A ponte será fundamental para viabilizar a ligação rodoviária entre os portos de Santos, no Brasil, e de Iquique e Antofagasta, no Chile. Avançar no tema da integração física com o Paraguai ajudará à integração entre nossos países, mas também ampliará a conexão do Cone Sul com o resto da América do Sul e com as regiões mais dinâmicas da economia mundial.",
+                "A ponte é apenas um primeiro passo. Devemos também buscar avançar em outras iniciativas. É fundamental que aproveitemos o potencial hidroviário em nossa região. Brasil e Paraguai estão dispostos a aproveitar melhor o potencial de circulação na Bacia do Prata.",
+                "Tratamos também dos fluxos de comércio e investimentos. O Brasil é o principal destino das exportações paraguaias. O chanceler Loizaga e eu examinamos os meios de recuperar o dinamismo do comércio bilateral, que se ressentiu das dificuldades de conjuntura dos últimos tempos.",
+                "Do recorde histórico de US$ 4,4 bilhões em 2014 o comércio bilateral caiu para US$ 3,4 bilhões em 2015. Acredito que o contexto político atual em nossos dois países permitirá reverter essa tendência. Queremos fazer uso das instituições existentes, como a Comissão de Monitoramento do Comércio, e fomentar cada vez mais a integração da produção entre nossos países.",
+                "O Brasil já detém o segundo maior estoque de Investimentos Estrangeiros Diretos no Paraguai. Muitas empresas brasileiras investiram no país nos últimos anos.",
+                "Há também ampla convergência entre o Brasil e o Paraguai quanto à urgência de avançar na agenda de negociações externas do MERCOSUL.",
+                "Conversamos sobre troca recente de ofertas iniciais entre MERCOSUL e União Europeia. Trabalharemos intensamente para chegar a um acordo equilibrado e vantajoso para o MERCOSUL. Como eu já disse, a reciprocidade é a condição para um bom acordo.",
+                "Ressaltamos a conveniência de também estreitar os laços entre o MERCOSUL e a Aliança do Pacífico. Os dois grupos já estão unidos por uma série de acordos comerciais. Temos agora de ampliá-los e de remover também outros tipos de barreiras ao comércio.",
+                "Também ressaltei ao chanceler Loizaga a necessidade de dedicarmos atenção especial às iniciativas de prevenção e combate ao contrabando, que tanto prejuízo causa ao comércio legal, à produção e à arrecadação tributária em nossos países.",
+                "Concordamos sobre a necessidade de fortalecer os canais de contato institucional para combater os ilícitos internacionais, não apenas o contrabando, mas também o narcotráfico e o tráfico de armas. O reforço da segurança na região de fronteira é um tema absolutamente prioritário na minha gestão. É um tema que, enfrentado corretamente e com vigor, terá repercussões positivas para a economia de nossos países e para a segurança dos nossos cidadãos.",
+                "Discutimos também alguns temas da agenda regional, como a situação na Venezuela. Brasil e Paraguai acompanham com preocupação a crise no país, inclusive a deterioração das condições da economia e o desrespeito aos direitos humanos. Estamos dispostos a contribuir para estimular o diálogo político naquele país, sempre com o intuito central de preservar a democracia, e ajudar no alívio do sofrimento da população.",
+                "Finalmente, reiterei, em nome do presidente Michel Temer, o convite para que o presidente Horacio Cartes compareça, em agosto, aos Jogos Olímpicos do Rio de Janeiro. Este convite estendo a todos os paraguaios, que serão recebidos com alegria pelo povo do Rio de Janeiro.",
+                "Muito obrigado.",
+                "Mais sobre as relações bilaterais Brasil-Paraguai"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jose-serra"
+            ],
+            "titulo": "",
+            "subtitulo": "NA",
+            "data": "02/06/2016",
+            "horario": "14h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/jose-serra/discurso-do-ministro-jose-serra-durante-a-sessao-todos-a-bordo-para-2030-da-reuniao-do-conselho-ministerial-da-ocde-paris-2-de-junho-de-2017-2",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Foto: Embaixada do Brasil em Paris, AIG/MRE",
+                "Discurso do ministro José Serra durante a sessão “Todos a bordo para 2030 – Uma agenda universal para o desenvolvimento inclusivo e sustentável” da Reunião do Conselho Ministerial da OCDE",
+                "Paris, 2 de junho de 2016",
+                "Neste século XXI ainda jovem, uma das mudanças mais importantes pela qual estão passando as sociedades é a ampliação e o alargamento do conceito de desenvolvimento.",
+                "No passado, \"desenvolvimento\" era erroneamente entendido como a mera expansão econômica acelerada. Outros tempos; simplificações de tal ordem não resistem aos dias de hoje.",
+                "Hoje em dia, o mundo todo já compreende que o crescimento real e sustentável não pode ser alcançado se temas fundamentais, como a desigualdade, a saúde, a educação e o meio ambiente - para mencionar só alguns - forem ignorados. Daí advém a centralidade do conceito de desenvolvimento sustentável, que busca incorporar, de modo coerente, as dimensões econômica, social e ambiental do bem-estar humano.",
+                "O Brasil se orgulha de se associar, desde o início, àqueles que defendem com empenho a causa do desenvolvimento sustentável. Organizamos, com sucesso, a Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento, a Rio-92, quando o conceito de desenvolvimento sustentável começou a tomar forma. E o fizemos novamente em 2012, quando a Conferência Rio+20 estabeleceu o mandato para negociar os Objetivos de Desenvolvimento Sustentável. No ano passado, as Nações Unidas atingiram um marco com a adoção da Agenda 2030, com 17 Objetivos para o Desenvolvimento Sustentável e 169 metas.",
+                "A mesma determinação e engajamento que o Brasil mostrou em negociações anteriores continua a nos guiar agora na fase de implementação da Agenda 2030. Essas metas e objetivos constituem uma tarefa integrada desafiadora que exige esforços abrangentes, sem que qualquer escolha pontual venha a distorcer os objetivos maiores. Faremos o possível para garantir que ela seja cumprida em nível global, a fim de que a cooperação entre todas as partes interessadas seja realmente o novo paradigma predominante.",
+                "A sociedade brasileira tem um histórico muito positivo no caminho rumo à sustentabilidade. Nossa matriz energética limpa, nosso programa de biocombustíveis, nosso compromisso com a conservação e o uso sustentável das florestas, nossos compromissos em reduzir as emissões de gases de efeito estufa, bem como as várias ações visando à erradicação da pobreza e à criação de oportunidades para todos, são metas nacionais permanentes, iniciativas em que o Governo do Presidente em exercício Michel Temer tem-se empenhado, melhorando o que pode ser melhorado e corrigindo o que precisa ser corrigido.",
+                "O Brasil vai trazer a Agenda 2030 para o centro de seu planejamento e de suas políticas internas. Nosso sistema nacional de dados será cada vez mais orientado pelos Objetivos de Desenvolvimento Sustentável e vamos ser ainda mais ativos em fóruns internacionais para apoiar a implementação dessa nova agenda de desenvolvimento.\n  \n\n  É hoje evidente que nenhum país pode pretender ser totalmente sustentável. Uma dimensão distintiva da Agenda de Desenvolvimento 2030, em comparação com tentativas anteriores sobre a questão, é que ela não é dirigida apenas para os países em desenvolvimento, mas para todos os países.\n  \n\n  A OCDE está bem posicionada para ajudar os países - ricos e pobres - na implementação da Agenda 2030, respeitando o contexto democrático em que a Agenda foi construída, ao mesmo tempo em que assegura abordagem integrada para as três dimensões do desenvolvimento sustentável: ambiental, econômica e social. Tanto em suas atividades técnicas de coleta e análise de dados, quanto por meio de seu papel como foro de aprendizagem entre pares, a OCDE pode, e deve, contribuir decisivamente para a implementação da Agenda por seus membros, além de prestar assistência aos não-membros. O Brasil está pronto para intensificar a cooperação com a OCDE e os seus membros nessas áreas.",
+                "Todos os nossos países enfrentam desafios no que diz respeito ao desenvolvimento socioeconômico e todos eles devem enfrentá-los de maneira sustentável. A Agenda 2030 é uma plataforma extremamente positiva e inspiradora para promover mudanças nas estruturas produtivas e nas mentalidades dos governos e dos povos de todo o mundo. A Agenda deve ser levada a sério para que a humanidade possa caminhar decisivamente em direção à sustentabilidade em nível local, nacional e global.",
+                "Eu incluí o desenvolvimento sustentável como uma das minhas dez prioridades no comando do Ministério das Relações Exteriores do Brasil. Podem ter a certeza de que vou agir de acordo.",
+                "Obrigado.",
+                "Mais sobre o Brasil e a Agenda 2030 para o Desenvolvimento Sustentável"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "jose-serra-2016-2017"
+            ],
+            "titulo": "Brasil x Brexit. Bola pra frente (Folha de S. Paulo, 27/06/2016)",
+            "subtitulo": "NA",
+            "data": "27/06/2016",
+            "horario": "18h46",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h50"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/jose-serra-2016-2017/brasil-x-brexit-bola-pra-frente-folha-de-s-paulo-27-06-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "O mundo assistiu apreensivo à decisão do povo britânico, em plebiscito, pela saída da União Europeia. O Brasil respeita, mas não comemora a notícia. O projeto da União Europeia é o mais avançado processo de integração econômica e política existente. Construído sobre as cinzas da Segunda Guerra Mundial, a integração econômica que levou à formação da União Europeia trouxe paz e prosperidade à Europa Ocidental por 60 anos e tornou menos traumática a transição dos países da antiga Europa Oriental para o mundo que sucedeu à Guerra Fria.",
+                "A saída do Reino Unido abala o relativo consenso pró integração que predominou na Europa há décadas e alenta as forças desagregadoras no continente. Amplia a incerteza e terá efeito negativo sobre o crescimento no Reino Unido, na União Europeia e na economia mundial, em momento no qual os países europeus, ainda fragilizados pela crise iniciada em 2008, buscavam retomar o crescimento.",
+                "O Tesouro britânico estima que pode haver queda no PIB de longo prazo de cerca de 6% em seu país. Segundo o FMI, o PIB do Reino Unido poderia crescer a menos, até 2019, entre 1,4%, se mantiver o acesso pleno ao mercado europeu, e 5,6%, se tiver que pagar as tarifas de importação sem descontos. Afinal, o comércio exterior corresponde a 59% do PIB britânico, e 45% de suas exportações vão para a Europa. Parte do setor financeiro, tão crucial à economia de Londres e do Reino Unido, poderia migrar para outras praças europeias e, com menos investimentos entrando no país, as taxas de juros poderão elevar-se, pressionando a desvalorização da libra, pois o déficit em conta corrente é de 5% do PIB.",
+                "Sucessivos estudos mostraram que a imigração é benéfica para a economia do Reino Unido, mas o temor aos estrangeiros foi uma das principais motivações dos que votaram pela saída. Os britânicos pensam que o percentual de estrangeiros na população é muitas vezes superior aos dados reais. Ou seja, uma das principais razões que teriam motivado a saída da UE não tem fundamento na realidade.",
+                "O fato de que percepções equivocadas tenham influenciado o voto majoritário no plebiscito não diminui sua importância. É preciso perguntar de onde nascem e como combatê-las. Na década de 1940, Karl Mannheim, um dos pais do Estado de bem estar social instalado no Reino Unido no pós-guerra, argumentava que uma das razões que havia levado à derrocada da democracia liberal e aos totalitarismos pré-guerra foi o enfraquecimento dos vínculos de solidariedade social. Hoje, é preciso fazer acompanhar o avanço da integração econômica global de mecanismos de inclusão social e redução das desigualdades, assim como recusar inequivocamente as soluções isolacionistas. Confiamos que a União Europeia e o Reino Unido saberão trilhar esse caminho enquanto ajustam com serenidade seu relacionamento. Afinal, as dificuldades que a Europa enfrenta com migrantes e refugiados não se resolverão com a redução de sua presença no mundo. Requerem, na verdade, atuação cada vez mais solidária com as nações e os povos de origem dos fluxos humanos de nossa era.",
+                "O efeito econômico na União Europeia tende a ser comparativamente menor, mas o impacto político é preocupante. Visões excessivamente nacionalistas e xenófobas poderiam ganhar força, levando a um maior fechamento europeu ao resto do mundo. Não é provável que aconteça, mas o mundo sairá perdendo se a Europa apostar mais no isolamento do que na cooperação.",
+                "O Brasil não será muito afetado diretamente. É pequena a participação (1,52%) do mercado britânico nas nossas exportações. Mantém-se também a expectativa de que os investimentos britânicos continuem a buscar as oportunidades por aqui. A situação externa da economia brasileira, com reservas elevadas e superávit comercial, reduz os riscos para o Brasil. Sofremos um pouco mais com a instabilidade de curto prazo dos mercados financeiro e cambial e com o impacto negativo de médio prazo para o crescimento no Reino Unido e na União Europeia. De nossa parte, redobraremos os esforços para concluir o acordo de associação Mercosul-UE e nos empenharemos em buscar acordos de comercio e investimentos com o Reino Unido."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "mauro-vieira-2015-2016"
+            ],
+            "titulo": "MERCOSUR a los  25 años: uma historia de éxito para la región",
+            "subtitulo": "\"Abc Color\", Paraguai; \"Clarín\", Argentina; \"El Observador\", Uruguai; \"La Razón\". Bolívia e \"El Universal\", Venezuela - 26/06/2016",
+            "data": "26/06/2016",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/02/2026"
+            ],
+            "horario_atualizado": [
+                "11h37"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/mauro-vieira-2015-2016/mercosur-a-los-25-anos-uma-historia-de-exito-para-la-region",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Embaixador Mauro Vieira, Ministro das Relações Exteriores do Brasil",
+                "Hace 25 años, en marzo de 1991, Argentina, Brasil, Paraguay y Uruguay firmaron el Tratado de Asunción, que dio origen al Mercosur. Fue el comienzo de una transformación histórica en nuestra región. El Mercosur es hoy un patrimonio compartido por toda Sudamérica. Entre Estados Partes y Estados Asociados, el bloque une a todos los países del continente. El Mercosur ayudó a sentar las bases para la realización del proyecto de un continente unido por el diálogo, por la valorización de la democracia y por una red de acuerdos comerciales.",
+                "En su dimensión económica y comercial, el Mercosur es fundamental para el desarrollo industrial de la región. El perfil del comercio intrazona es bastante diferente de lo que tenemos con otros continentes, en que predominan productos primarios. Más del 80% de las importaciones brasileñas originarias de los países del bloque se componen de productos manufacturados. Eso significa que el bloque crea puestos de trabajo con mayor remuneración y alienta la adición de valor a nuestros productos, lo que genera ingresos, impuestos y un mayor dinamismo en todos los sectores de nuestras economías. Gracias a la red de acuerdos del Mercosur, América del Sur camina a convertirse en un área de libre comercio al final de esta década.",
+                "El bloque no es un obstáculo para la negociación de acuerdos con otros actores. Hemos puesto énfasis en la relación externa, con especial empeño en la negociación con la Unión Europea. Mercosur está listo para llevar a cabo el canje de ofertas. La Unión Europea todavía concluye sus deliberaciones internas.",
+                "A nivel de la ciudadanía, el Mercosur dio lugar a un acercamiento sin precedentes entre nuestras sociedades. El acervo de normas en materia de residencia, trabajo, seguridad social, integración educacional y turismo facilita la vida cotidiana de nuestros ciudadanos y establece las bases para el desarrollo de una ciudadanía común en la región. Eso no es algo trivial: en un mundo donde los muros vuelven a ser erguidos, somos un modelo de tolerancia, respeto a los demás e integración.",
+                "En el campo político, el bloque ha contribuido para disipar viejas rivalidades y enterrar de una vez arcaicas hipótesis de conflicto. Contamos con un Parlamento común, el Parlasur, y con un acercamiento sin precedentes entre nuestros Poderes Judiciales.El Mercosur también fue instrumental para consolidar las instituciones democráticas en nuestra región. Su base ha sido la aproximación estratégica entre Brasil y Argentina, tras la firma, en 1985, de la Declaración de Iguazú, momento en que los dos países recién salían de regímenes autoritarios. La democracia, los derechos humanos y la justicia social son condiciones sin las cuales Mercosur no podría existir.La enumeración de estos avances no significa que nuestra tarea esté terminada. Los desafíos del Mercosur son proporcionales a su ambición. Hay mucho que hacer para superar los obstáculos que todavía existen para la circulación de bienes  y personas y para la concertación más profunda de políticas en los diversos sectores.",
+                "Transcurrido un cuarto de siglo, el Mercosur nos propició más democracia, más comercio, mayor inclusión social y, sobre todo, un mayor conocimiento recíproco. La presidenta Dilma Rousseff ya ha señalado que el bloque es un vector de “desarrollo equilibrado entre los socios”. Con él, podemos crecer juntos y generar beneficios comunes, seguros de que unidos vamos a tener más voz en el escenario internacional.",
+                "Hoy estamos unidos no solo por los compromisos jurídicos, pero sobre todo por la convicción de que tenemos la responsabilidad compartida de consolidar a América del Sur como una zona de paz, prosperidad y cooperación. Estos son los valores que guían nuestros esfuerzos y hacen que el Mercosur siga siendo la más importante iniciativa de integración que ya se ha llevado a cabo entre países en desarrollo."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "mauro-vieira-2015-2016"
+            ],
+            "titulo": "Brasil x Brexit. Bola pra frente (Folha de S. Paulo, 27/06/2016)",
+            "subtitulo": "NA",
+            "data": "27/06/2016",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/02/2026"
+            ],
+            "horario_atualizado": [
+                "11h37"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/artigos-mre/mauro-vieira-2015-2016/brasil-x-brexit-bola-pra-frente-folha-de-s-paulo-27-06-2016",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "O mundo assistiu apreensivo à decisão do povo britânico, em plebiscito, pela saída da União Europeia. O Brasil respeita, mas não comemora a notícia. O projeto da União Europeia é o mais avançado processo de integração econômica e política existente. Construído sobre as cinzas da Segunda Guerra Mundial, a integração econômica que levou à formação da União Europeia trouxe paz e prosperidade à Europa Ocidental por 60 anos e tornou menos traumática a transição dos países da antiga Europa Oriental para o mundo que sucedeu à Guerra Fria.",
+                "A saída do Reino Unido abala o relativo consenso pró-integração que predominou na Europa há décadas e alenta as forças desagregadoras no continente. Amplia a incerteza e terá efeito negativo sobre o crescimento no Reino Unido, na União Europeia e na economia mundial, em momento no qual os países europeus, ainda fragilizados pela crise iniciada em 2008, buscavam retomar o crescimento.O Tesouro britânico estima que pode haver queda no PIB de longo prazo de cerca de 6% em seu país. Segundo o FMI, o PIB do Reino Unido poderia crescer a menos, até 2019, entre 1,4%, se mantiver o acesso pleno ao mercado europeu, e 5,6%, se tiver que pagar as tarifas de importação sem descontos. Afinal, o comércio exterior corresponde a 59% do PIB britânico, e 45% de suas exportações vão para a Europa. Parte do setor financeiro, tão crucial à economia de Londres e do Reino Unido, poderia migrar para outras praças europeias e, com menos investimentos entrando no país, as taxas de juros poderão elevar-se, pressionando a desvalorização da libra, pois o déficit em conta corrente é de 5% do PIB.",
+                "Sucessivos estudos mostraram que a imigração é benéfica para a economia do Reino Unido, mas o temor aos estrangeiros foi uma das principais motivações dos que votaram pela saída. Os britânicos pensam que o percentual de estrangeiros na população é muitas vezes superior aos dados reais. Ou seja, uma das principais razões que teriam motivado a saída da UE não tem fundamento na realidade.",
+                "O fato de que percepções equivocadas tenham influenciado o voto majoritário no plebiscito não diminui sua importância. É preciso perguntar de onde nascem e como combatê-las. Na década de 1940, Karl Mannheim, um dos pais do Estado de bem estar social instalado no Reino Unido no pós-guerra, argumentava que uma das razões que havia levado à derrocada da democracia liberal e aos totalitarismos pré-guerra foi o enfraquecimento dos vínculos de solidariedade social. Hoje, é preciso fazer acompanhar o avanço da integração econômica global de mecanismos de inclusão social e redução das desigualdades, assim como recusar inequivocamente as soluções isolacionistas. Confiamos que a União Europeia e o Reino Unido saberão trilhar esse caminho enquanto ajustam com serenidade seu relacionamento. Afinal, as dificuldades que a Europa enfrenta com migrantes e refugiados não se resolverão com a redução de sua presença no mundo. Requerem, na verdade, atuação cada vez mais solidária com as nações e os povos de origem dos fluxos humanos de nossa era.",
+                "O efeito econômico na União Europeia tende a ser comparativamente menor, mas o impacto político é preocupante. Visões excessivamente nacionalistas e xenófobas poderiam ganhar força, levando a um maior fechamento europeu ao resto do mundo. Não é provável que aconteça, mas o mundo sairá perdendo se a Europa apostar mais no isolamento do que na cooperação.",
+                "O Brasil não será muito afetado diretamente. É pequena a participação (1,52%) do mercado britânico nas nossas exportações. Mantém-se também a expectativa de que os investimentos britânicos continuem a buscar as oportunidades por aqui. A situação externa da economia brasileira, com reservas elevadas e superávit comercial, reduz os riscos para o Brasil. Sofremos um pouco mais com a instabilidade de curto prazo dos mercados financeiro e cambial e com o impacto negativo de médio prazo para o crescimento no Reino Unido e na União Europeia. De nossa parte, redobraremos os esforços para concluir o acordo de associação Mercosul-UE e nos empenharemos em buscar acordos de comercio e investimentos com o Reino Unido."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2016-06",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

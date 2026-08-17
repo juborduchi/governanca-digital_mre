@@ -1,0 +1,279 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "carlos-alberto-franco-franca"
+            ],
+            "titulo": "Intervenção do Ministro das Relações Exteriores no debate aberto de alto nível do Conselho de Segurança das Nações Unidas (texto em inglês)",
+            "subtitulo": "NA",
+            "data": "12/07/2022",
+            "horario": "13h26",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "18h22"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/carlos-alberto-franco-franca/intervencao-do-ministro-das-relacoes-exteriores-no-debate-aberto-de-alto-nivel-do-conselho-de-seguranca-das-nacoes-unidas-texto-em-ingles",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "United Nations Peacekeeping Operations: The Key Role of Strategic Communications for Efficient PeacekeepingUNSC High Level Open Debate",
+                "NATIONAL STATEMENT BY H.E. AMBASSADOR CARLOS FRANÇA, MINISTER OF FOREIGN AFFAIRS OF BRAZIL",
+                "I shall now make a statement in my capacity as Minister of Foreign Affairs of the Federative Republic of Brazil.",
+                "I am greatly thankful to Mr. António Guterres, Secretary-General of the United Nations, Lieutenant General Marcos de Sá Affonso da Costa, Force Commander of MONUSCO, and Ms. Jenna Russo, from the International Peace Institute, for their invaluable and insightful briefings.",
+                "Peacekeeping has proved time and time again to be one of the most effective tools available to the United Nations in the promotion and maintenance of international peace and security. Practitioners and academics alike agree that peacekeeping operations are instrumental in containing conflict, protecting civilians and rebuilding state institutions. This Council must continue to enhance peacekeeping, while guaranteeing the safety and security of peacekeepers.",
+                "As you know, Brazil is a traditional contributor to UN peacekeeping operations. Since 1956, when it first sent troops to a peacekeeping mission, UNEF I, Brazil has participated in 41 peacekeeping operations, deploying approximately 55 thousand military and police personnel to serve under the UN flag around the globe.",
+                "During these years, our practical experience confirmed that “efficient peacekeeping” is not only about resources and mandates, but also about communication. Effectively communicating peacekeeping missions’ objectives and means has strong impact on mission success.",
+                "In simple terms, more dialogue is needed between peacekeepers and leadership, government authorities, relevant stakeholders and local communities.",
+                "Brazil has a long and recognized history of applying strategic communications in peacekeeping missions, particularly in the case of MINUSTAH, in Haiti.",
+                "Our military and police personnel, dedicated men and women, have consistently cultivated and built dialogue and trust. Those are two essential – but rather rare these days – elements to achieving international peace and security.",
+                "We have thus decided to organize this high-level open debate on peacekeeping operations, with a focus on strategic communications.",
+                "This issue has never before been specifically discussed by this Council. It is high time we prioritize strategic communication in the context of peacekeeping operations.",
+                "Peacekeepers nowadays operate in ever more volatile security environments and are tasked with extraordinarily complex mandates. Be it in Mali, Lebanon or the Democratic Republic of the Congo, strategic communications has an enabler and multiplier effect across all areas of peacekeeping operations.",
+                "They are critical to securing the political and public support that peacekeeping missions need to implement effectively their mandates. They are essential to the protection of civilians and to the advancement of the Women, Peace and Security agenda. They are a great tool to draw attention and collect feedback from local communities.",
+                "They also help promoting respect for human rights and international humanitarian law; combating misinformation, xenophobia, racism and discrimination; and preventing and fighting sexual and gender-based violence.",
+                "Ultimately, they help create a safe environment to peacekeepers.",
+                "For these reasons, we firmly believe strategic communications must be a pivotal element for UN peacekeeping.",
+                "Ladies and gentlemen,",
+                "Our briefers gave us a comprehensive assessment of what has been done so far. I note with great appreciation the efforts undertaken by Secretary-General Guterres and Under-Secretary-General Lacroix to mobilize stakeholders in support of more effective UN peacekeeping. The “Action for Peacekeeping” initiative and its implementation strategy put high priority on strategic communications, which we welcome. The initiatives from the field, as those described by the Force Commander of MONUSCO, are also highly encouraging.",
+                "However, we need further improvement. In that regard, I would like to highlight four pressing needs.",
+                "First, a clear strategy on communications in peacekeeping operations. The Council should encourage the UN Secretariat to continue to develop a strategy, as well as related policies and guidelines. They should be implemented at all levels and across all components of peacekeeping operations.",
+                "Second, improved capabilities. The Security Council, the General Assembly and troop and police contributors should seek further improvements in both UN Headquarters and the missions’ communication capabilities. Strategic Communications and Public Information teams in missions can be strengthened, through better recruitment and the allocation of adequate resources. Relevant new technologies should be used to their full potential.",
+                "Third, adequate training. Effective strategic communications rely heavily on the training of all peacekeepers across components. Pre-deployment training on strategic communications for all civilian, military and police officers would have a significant impact on engagement with local stakeholders.",
+                "And last, but not least, a cultural shift promoted by leaders. Mission leadership must spearhead a move to institutionalize a culture of strategic communications across components in peacekeeping operations. It is up to mission leaders to integrate strategic communications into planning, decision-making and implementation of daily activities.",
+                "Let me say it again: strategic communications are essential for a successful peacekeeping operation.",
+                "It is an operational necessity and a core capability for peacekeeping operations.",
+                "We hope the strategic review of strategic communications to be requested by this Council will provide an accurate assessment of existing capabilities and gaps and put forward concrete proposals to address persistent challenges. The Security Council must act upon the conclusions of the review and prioritize strategic communications when negotiating peacekeeping mandates.",
+                "Thank you.",
+                "I now resume my functions as President of the Council."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "carlos-alberto-franco-franca"
+            ],
+            "titulo": "Intervenção do senhor ministro de Estado das Relações Exteriores na LX Reunião Ordinária do Conselho do Mercado Comum (CMC) com Estados Partes e Bolívia - Assunção, 20 de julho de 2022",
+            "subtitulo": "NA",
+            "data": "20/07/2022",
+            "horario": "15h10",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "18h17"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/carlos-alberto-franco-franca/intervencao-do-senhor-ministro-de-estado-das-relacoes-exteriores-na-lx-reuniao-ordinaria-do-conselho-do-mercado-comum-cmc-com-estados-partes-e-bolivia-assuncao-20-de-julho-de-2022",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Senhores ministros, prezados colegas,",
+                "É uma grande satisfação participar novamente de uma reunião presencial do Conselho do Mercado Comum, após mais de dois anos de encontros em formato virtual.",
+                "Manifesto meu sincero agradecimento à presidência “pro tempore” paraguaia pela condução dos trabalhos neste semestre, bem como pela calorosa acolhida.",
+                "Estar hoje aqui é uma grande oportunidade para refletir sobre a trajetória do bloco, bem como sobre os desafios que temos pela frente.",
+                "O MERCOSUL é uma força que impulsionou a consolidação da paz e da democracia em nossa região. Não se trata de algo menor, pois são poucas as regiões do planeta livres de conflito, uma constatação que nestes últimos meses se tornou mais evidente a nossos olhos.",
+                "No cenário internacional conturbado em que vivemos, é fundamental reconhecermos e valorizarmos esta conquista e seguirmos trabalhando para consolidar a América do Sul como espaço pacífico de convivência entre nações irmãs que enfrentam juntas os mesmos desafios de desenvolvimento.",
+                "Além de zona de paz e cooperação, somos também conhecidos por nosso potencial energético e nossa capacidade de produção de alimentos de forma sustentável. O MERCOSUL é um ator relevante na busca de soluções para muitos dos problemas que afligem hoje a comunidade internacional.",
+                "A atual conjuntura econômica internacional também nos convida ao debate entre a interdependência global e a segurança econômica.",
+                "Muito se tem falado sobre a necessidade de reforçar as cadeias de produção regionais em um ambiente de desestabilização das cadeias globais de suprimentos, decorrente dos efeitos da pandemia de Covid-19 e do conflito na Ucrânia. Diante dessas circunstâncias, que têm trazido impactos econômicos duríssimos a todos nós, a integração produtiva regional ganha cada vez mais importância.",
+                "A situação internacional corrente reforça nossa convicção de que, no longo prazo, o comércio internacional traz grandes benefícios para todos. Em sua origem, o MERCOSUL foi caracterizado pelo regionalismo aberto, pela busca de maior integração não apenas entre os países membros, como também entre nossa região e o mundo. E é nesse sentido que atualmente buscamos direcionar o bloco.",
+                "Nosso objetivo central continua sendo o de promover a modernização do bloco em várias frentes. Fico feliz que, neste semestre, sob a presidência “pro tempore” do Paraguai, tenhamos alcançado avanços importantes.",
+                "Na vertente externa, conseguimos concluir o Acordo de Livre Comércio do MERCOSUL com Singapura. É o primeiro acordo de livre comércio do MERCOSUL com um país do Sudeste asiático, uma das áreas geográficas mais dinâmicas do mundo de hoje.",
+                "Durante o último semestre, o Brasil continuou a contribuir para a conclusão das pendências técnicas e da revisão formal e jurídica do Acordo entre o MERCOSUL e a União Europeia. Trabalhamos para que o acordo com a União Europeia esteja pronto para assinatura até o fim do ano. Temos atuado também para que o Acordo entre MERCOSUL e EFTA possa ser assinado em breve.",
+                "Com o início das negociações com a Indonésia, previsto para este segundo semestre, o Brasil permanecerá engajado na obtenção de um acordo equilibrado e benéfico para os dois lados.",
+                "Demos seguimento a interação com a Índia, um parceiro cada vez mais crucial, com vistas à ampliação de nosso Acordo de Comércio Preferencial. Temos a expectativa de alcançar resultados concretos em futuro próximo.",
+                "Progredimos, ainda, nas tratativas para ampliar o Acordo de Livre Comércio entre MERCOSUL e Israel, um parceiro de monta no Oriente Médio. É possível que a ampliação do acordo possa ser formalizada durante a presidência “pro tempore” uruguaia.",
+                "Também procuramos impulsionar a negociação com a República da Coreia, um dos países-chave para o mercado asiático. Consideramos essencial avançar em matéria de medidas sanitárias e fitossanitárias para um desfecho equilibrado das tratativas. Temos, por outro lado, a expectativa de retomar o quanto antes as negociações com o Canadá e com o Líbano.",
+                "Também gostaria de expressar meu reconhecimento à PPTP pela dedicação investida na agenda com a América Latina e o Caribe, que poderemos tratar na sessão com os Estados Associados.",
+                "Essa intensificação do nosso relacionamento externo nos remete à importante questão da velocidade com que devemos caminhar em direção a uma maior integração ao mundo. Estamos dispostos a discutir com os sócios, nas instâncias apropriadas do bloco, formatos e mecanismos flexíveis que atendam às especificidades de nossos países e preservem, ao mesmo tempo, os elementos centrais de nosso processo de integração.",
+                "Prezados colegas,",
+                "Na vertente interna, a revisão da Tarifa Externa Comum do MERCOSUL permaneceu como objetivo prioritário.",
+                "Saudamos o engajamento de todos os Estados Partes nas bem-sucedidas negociações para uma redução horizontal da TEC em 10% para a maior parte do universo tarifário. Trata-se de uma decisão histórica e de passo essencial na direção de uma política de maior inserção do MERCOSUL nas cadeias internacionais de agregação de valor. Particularmente neste momento de pressão inflacionária internacional, a redução das alíquotas ampliará a oferta de bens à população, em particular aos setores de renda mais baixa.",
+                "Seguiremos também dando prioridade à modernização do Regime de Origem do MERCOSUL, passo indispensável para um bloco mais aberto e integrado ao mundo. As negociações avançaram bastante neste semestre, e esperamos concluí-la ainda neste ano.",
+                "Também é digno de nota, neste semestre, o progresso na negociação de listas atualizadas de compromissos em matéria de comércio de serviços do MERCOSUL. Isso se traduzirá em maior disponibilidade de serviços para nossa população e em maior acesso ao mercado de serviços dos demais estados partes.",
+                "Além das negociações externas e do reforço do livre comércio, destaco os trabalhos para aperfeiçoamento do ambiente regulatório. Saúdo, portanto, as atividades do Grupo Ad Hoc de Temas Regulatórios.",
+                "Também gostaria de agradecer à presidência pro tempore paraguaia pela oitava edição do Fórum Empresarial do MERCOSUL, que avançou na integração produtiva no setor de fármacos, e tratou outros assuntos de grande relevância, como produção agroalimentar e serviços baseados em conhecimento.",
+                "Para além da pauta comercial, vejo com alegria o avanço do MERCOSUL no aprimoramento e aprofundamento da agenda cidadã do bloco.",
+                "Estendo meus parabéns, em particular, à conclusão do Acordo sobre Medidas Protetivas para Mulheres em Situação de Violência de Gênero. Tal acordo assegurará a execução de medidas protetivas para mulheres em situação de violência em nossos países.",
+                "Gostaria de parabenizar a PPTP pela realização do “Seminário sobre sistemas produtivos sustentáveis e as perspectivas do MERCOSUL”.  Agropecuária e sustentabilidade no âmbito do MERCOSUL é um tema crucial para a inserção de nossas economias nos mercados internacionais. Como economias sustentáveis que somos, temos que reforçar cada vez mais nossas credenciais e nossos compromissos em área na qual temos sido cada vez mais demandados. Esperamos que essa linha de trabalho continue a ser desenvolvida.",
+                "Também é positivo que tenhamos podido dar um passo adiante nas discussões sobre infraestrutura no MERCOSUL e criar um subgrupo de trabalho específico sobre infraestrutura física e digital. Apesar das iniciativas já em curso, temos muito a avançar nessa área.",
+                "Por fim, demos seguimento ao longo da presidência paraguaia ao processo de reforma institucional do MERCOSUL, de modo a dotar o bloco de uma estrutura mais dinâmica e moderna.",
+                "Caros colegas,",
+                "Contem com o Brasil para seguir avançando na modernização do MERCOSUL ao longo do próximo semestre.",
+                "Ao saudar os logros obtidos neste semestre, gostaria de registrar a confiança de que nosso trabalho conjunto continuará a fortalecer e a atualizar o bloco, melhor capacitando-o a responder às nossas necessidades presentes e futuras.",
+                "Agradeço novamente ao Paraguai e aproveito para desejar ao colega uruguaio, Chanceler Francisco Bustillo, todo o sucesso na condução dos trabalhos na presidência “pro tempore” uruguaia.",
+                "Muito obrigado!"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, no Fórum Econômico Brasil-Países Árabes",
+            "subtitulo": "NA",
+            "data": "04/07/2022",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/12/2024"
+            ],
+            "horario_atualizado": [
+                "11h59"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-no-forum-economico-brasil-paises-arabes",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Senhoras e Senhores,",
+                "É uma grande satisfação participar da abertura do Fórum Econômico Brasil-Países Árabes.",
+                "O Brasil confere especial atenção ao relacionamento com o mundo árabe, que tem participação importante na formação de nossa sociedade por meio dos muitos imigrantes que chegaram a nosso país.",
+                "Pretendemos continuar a estreitar os laços históricos, culturais e de amizade que unem nossos povos.",
+                "Também queremos aproveitar o enorme potencial que ainda há para ser explorado nos mais diversos setores e abrir novas frentes de diálogo, cooperação e trabalho pela prosperidade das nossas nações.",
+                "Estou convicto de que a relação entre o Brasil e o mundo árabe se encontra, hoje, em seu melhor momento histórico.",
+                "Nas variadas ocasiões em que conversei com Chefes de Estado e de Governo, tenho buscado promover uma agenda focada em resultados, e essa característica é ainda mais evidente no diálogo com nossos parceiros árabes.",
+                "A aproximação no campo político tem nos permitido encontrar novos espaços de cooperação em setores estratégicos, como ciência, tecnologia, inovação e energia.",
+                "A visita que realizei aos Emirados Árabes Unidos, ao Catar e à Arábia Saudita, no ano passado, é evidência inequívoca do interesse brasileiro no fortalecimento das relações com o Oriente Médio.",
+                "Recordo, com enorme satisfação, a confiança demonstrada pela Arábia Saudita ao anunciar a intenção de investir valor de até US$ 10 bilhões no Brasil, por meio do Fundo de Investimento Público daquele país.",
+                "A fim de dar seguimento às tratativas iniciadas na ocasião e direcionar a aplicação dos recursos de maneira eficiente, criamos o Comitê Interministerial para a Promoção de Comércio e Investimentos entre o Brasil e a Arábia Saudita.",
+                "Esse trabalho conjunto trará resultados benéficos para os dois países.",
+                "Senhoras e Senhores,",
+                "Na área de comércio e investimentos, temos estimulado conversas para a prospecção de parcerias com o Brasil. Mesmo durante a pandemia, os encontros virtuais se multiplicaram, o que comprova o interesse comum em adensar as nossas relações.",
+                "Apesar da distância entre nossas regiões, o intercâmbio entre o Brasil e os países árabes superou a cifra de US$ 11,2 bilhões de dólares no ano passado.",
+                "Tenho certeza de que podemos aproveitar a moderna infraestrutura dos países do Golfo para diversificar e expandir o acesso dos produtos brasileiros aos mercados da Ásia.",
+                "Cerca de 30 empresas brasileiras possuem, hoje, escritórios comerciais e unidades de produção no Oriente Médio. É com alegria que tomamos conhecimento da abertura em Dubai, em fevereiro de 2019, de escritório da Câmara de Comércio Árabe Brasileira.",
+                "Países como Emirados Árabes Unidos, Catar e Kuwait, já apresentam expressivos investimentos no Brasil. Essas inversões, tomadas individualmente, variam de US$ 4 bilhões a US$ 5 bilhões. E tenho certeza de que vamos multiplicar esses números!",
+                "Já tomamos várias medidas que permitirão a retomada do crescimento econômico sustentável do Brasil no pós-pandemia. As reformas estruturais que estamos promovendo no Brasil garantem um ambiente de negócios atrativo e seguro, um cenário sem precedentes aos investidores estrangeiros.",
+                "Senhoras e Senhores,",
+                "O Brasil exporta ampla gama de mercadorias para todos os 22 países membros da Liga Árabe, com destaque para os produtos do agronegócio.",
+                "Entre janeiro e agosto de 2020, essas exportações totalizaram US$ 4,6 bilhões. Portanto, em apenas 8 meses deste ano, e apesar das restrições impostas pela covid-19, já estamos próximos de alcançar o valor exportado em 2019, que foi de US$ 4,9 bilhões.",
+                "Hoje, a produção brasileira halal, que respeita tradições e regras da religião islâmica, é sinônimo de qualidade e confiança. Por isso, os países árabes podem contar com o Brasil como parceiro estratégico na garantia de sua segurança alimentar.",
+                "Ressalto que não apenas a relação com os países árabes do Golfo oferece perspectivas de crescimento, mas também a relação com nações da África, como Egito, Marrocos e Argélia, por exemplo.",
+                "O Egito é o principal destino das exportações brasileiras na África e o segundo principal comprador árabe de nossos produtos, com destaque para a carne bovina. Também temos um acordo de livre comércio em vigor desde 2017, o que favorece a ampliação e a diversificação de nossas trocas e o permanente aprofundamento de nossas relações.",
+                "O Marrocos, com o qual estamos vivenciando importante aproximação política, constitui parceiro estratégico para a nossa agricultura, como supridor essencial de fertilizantes.",
+                "Já a Argélia despontou, em 2019, como a principal origem de nossas importações no continente africano, além de ter sido o terceiro destino de nossas exportações, atrás apenas do Egito e da África do Sul.",
+                "Percebemos oportunidades promissoras de diversificação do intercâmbio comercial e da promoção de investimentos com todos esses países.",
+                "No ano passado, firmamos um Acordo de Cooperação e Facilitação de Investimento com o Marrocos, a exemplo do instrumento que, também em 2019, assinamos com os Emirados Árabes Unidos.",
+                "Estamos prontos a estabelecer novas frentes de diálogo e de colaboração, a fim de estabelecermos marcos regulatórios capazes de aprimorar ainda mais os investimentos entre o Brasil e os países árabes.",
+                "Senhoras e Senhores,",
+                "Aproveito para relembrar os laços histórico-culturais que unem o Brasil e o mundo árabe. Nossa relação tem raízes profundas de amizade e colaboração.",
+                "É com orgulho que ressalto a importância da grande comunidade de descendentes árabes que escolheram o Brasil para viver. Sua contribuição foi fundamental para o desenvolvimento econômico e cultural brasileiro.",
+                "Em respeito e apreço a esses laços, nosso Governo ofereceu prontamente, e continua a oferecer, apoio aos irmãos libaneses no processo de reconstrução de seu país.",
+                "Enviamos missão humanitária ao Líbano com alimentos, medicamentos e insumos médico-hospitalares doados pelo Governo e pela comunidade brasileira de origem libanesa.",
+                "Além das doações, a missão levou mensagem política no mais alto nível, liderada pelo ex-Presidente Michel Temer. Essa é mais uma evidência do nosso firme compromisso com todo o mundo árabe",
+                "No espírito de fraternidade entre nossas nações, desejo a todos um proveitoso encontro e excelentes negócios.",
+                "Estejam certos de que nosso governo trabalha e estará sempre disposto a trabalhar para estreitar ainda mais as relações do Brasil com o mundo árabe",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2022-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

@@ -1,0 +1,633 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "ernesto-araujo"
+            ],
+            "titulo": "Alocução por ocasião da celebração de 4 de  Julho na Embaixada dos EUA - Brasília, 4/7/2019",
+            "subtitulo": "NA",
+            "data": "04/07/2019",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "25/03/2025"
+            ],
+            "horario_atualizado": [
+                "17h02"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/alocucao-por-ocasiao-da-celebracao-de-4-de-julho-na-embaixada-dos-eua-brasilia-4-7-2019",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Gostaria, inicialmente, de fazer uma menção muito especial ao meu amigo Bill Popp, ao extraordinário diplomata e à extraordinária pessoa que é Bill Popp, que fez um trabalho extraordinário à frente da Embaixada dos Estados Unidos. É um amigo do Brasil e, acho que posso dizer, é um amigo pessoal nesses anos em que trabalhamos juntos. Muito do que nós temos conseguido fazer se deve ao trabalho de toda a equipe da Embaixada e, muito especialmente, do Bill Popp. Gostaria de deixar esse registro com grande afeto. Sei que todos querem ouvir o Presidente da República, eu não quero falar muito. Só queria dizer que, como todos sabem, eu trabalho há muitos anos com temas da relação com os Estados Unidos, com os Estados Unidos. Já morei nos Estados Unidos da América e aprendi a admirar e conhecer um pouco essa nação extraordinária que são os Estados Unidos, que, além de toda a sua pujança, tem algo que é muito profundo: o fato de ser uma nação amante da liberdade. E que, ao longo da história, que hoje comemora mais um ano, traduziu sempre esse amor pela liberdade em luta pela liberdade, em sacrifício. E à qual o mundo, que hoje tem na liberdade a sua principal aspiração, tanto deve. E acho que aprendi também a ver o quanto nós podemos fazer em conjunto, entre Brasil e Estados Unidos. Acho que precisamos um do outro. Tenho certeza de que tudo o que o Brasil pode fazer em conjunto com os Estados Unidos é algo que engrandece as duas nações, certamente é algo que engrandece o Brasil. Tenho certeza de que podemos ver, como foi visto aqui, no vídeo que foi mostrado, e nas palavras do Encarregado de Negócios, o potencial enorme que nós estamos começando a transformar em realidade. Acho que é claríssimo que podemos fazer muito, em conjunto, não só pela relação bilateral, mas tenho certeza de que o Brasil, também como amante da liberdade, sobretudo sob a liderança do Presidente Bolsonaro - que é um homem que tem no conceito e na paixão pela liberdade o centro da sua mensagem -, podemos fazer muito, também, pelo mundo.",
+                "Muito obrigado!"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2019-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "ernesto-araujo"
+            ],
+            "titulo": "Discurso na data nacional da Venezuela - Brasília, 5/7/2019",
+            "subtitulo": "NA",
+            "data": "05/07/2019",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "25/03/2025"
+            ],
+            "horario_atualizado": [
+                "17h05"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/discurso-na-data-nacional-da-venezuela-brasilia-5-7-2019",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Antes de mais nada, é um momento de dupla alegria, para mim, estar aqui presente, nesta noite. Em primeiro lugar, por nosso anfitrião desta noite, o Embaixador do Canadá, amigo já de longa data, que representa magistralmente, aqui no Brasil, um país que também mora no meu coração, o Canadá, um país que representa um compromisso permanente com a liberdade, com a justiça, com a paz e com a dignidade humana. Algo que se expressa, aqui, hoje, ao acolher a data nacional da Venezuela. E é a minha segunda grande alegria, neste momento, de estar aqui para celebrar um momento tão especial: a data nacional dessa nossa república irmã, representada pela também minha querida amiga María Teresa Belandria, que, nesses últimos meses aprendi a admirar como poucas outras pessoas do meio diplomático, um meio que tem tantos talentos, tantos expoentes que tanto fizeram pelas suas nações, pelas suas comunidades, mas María Teresa se destaca porque ela age como diplomata num momento extraordinariamente desafiador e decisivo para o seu país. E o faz com paixão e com competência. A mesma paixão que nós procuramos colocar também em tudo o que fazemos nessa nossa gestão da política externa brasileira sob a liderança do Presidente Bolsonaro.",
+                "O Presidente Bolsonaro pediu-me que transmitisse aos senhores a determinação de que continuamos ao lado do povo venezuelano e continuaremos sempre ao lado do povo venezuelano. Isso é o esteio fundamental da nossa política para a Venezuela, que não é uma política abstrata, que não é decorrente apenas de considerações de interesse ou de conveniência. Temos todo interesse, evidentemente, como Brasil, em ver toda a América do Sul de volta à democracia. Para isso, precisamos ajudar que a Venezuela volte à democracia. Mas vai além disso. Vai muito mais fundo, com esse nosso apego fundamental e fundacional pela liberdade. Então, estamos com o povo venezuelano! Nós temos tentado fazer uma diferença, todos os países que estamos aqui evolvidos e, no caso do Brasil, nós temos tentado fazer uma diferença em favor do povo venezuelano, em favor da democracia na Venezuela, nesses últimos meses, ao enfocar essa questão não como uma crise diplomática tradicional ou como uma situação de dificuldades políticas ou de dificuldades econômicas, mas como um grande drama humano e regional, no qual nós não podemos ficar na plateia, no qual nós temos que ser parte da solução e transformar esse drama numa nova alegria, num novo renascimento não só para a Venezuela, mas para todo o nosso continente. A América do Sul, as Américas estão num momento em que, digamos, diante de uma encruzilhada, nós podemos consolidar todo o continente como um continente de democracia e liberdade, ou nós podemos ver infelizmente a volta de ameaças que achávamos que estavam definitivamente afastadas, de projetos totalitários, de projetos de opressão, projetos de descaso pelo ser humano, projetos que há quase trinta anos tentam se adonar deste continente. Nós, então, estamos diante desse dilema, que não é simplesmente portanto um dilema abstrato.",
+                "Eu tenho dito que a gente não faz política externa simplesmente para especialistas em relações internacionais. Nós fazemos política externa, no Brasil, para o povo brasileiro, e o povo brasileiro quer que nós ajamos em favor da liberdade na Venezuela e em todo o continente. Isso não faz a menor dúvida. Nós temos a convicção de que a diplomacia tem que ser um instrumento na mão de determinados princípios. Ela não deve ser um exercício lúdico. Tem que ser um instrumento em favor, para citar o hino venezuelano, da virtude e da honra. Diplomacia não significa indiferença moral. Diplomacia não significa, simplesmente, uma tentativa de determinados arranjos que empurram o problema para um pouco mais adiante. Pelo menos é o que temos que tentar fazer. Talvez estejamos enganados. Talvez a diplomacia seja isso, mas eu, pessoalmente, como os senhores sabem, não acredito que a diplomacia seja simplesmente um exercício de adiar problemas. Acho que a diplomacia tem que responder às dificuldades e encarálas de frente. No meu tempo de Canadá (se me permitem mudar um pouco o tom; acho que está um pouco dramático, mas é por causa do meu sentimento), no meu tempo morando no Canadá, eu assistia a muito hóquei, evidentemente. E, uma vez, me lembro de uma partida de algum campeonato internacional entre a seleção do Canadá e a seleção de um país europeu, que eu não vou dizer qual é. Um bom país europeu do hóquei. E o comentarista canadense dizia: “Está vendo a diferença? O jogador canadense vai de frente ao adversário. O jogador desse país europeu, ele se vira na hora do choque.” Então, eu acho que nós temos que agir, na diplomacia, como o jogador de hóquei canadense. Está ali o puck, vamos nele! Vamos de frente, sem medo do choque, porque é isso que hoje nos dá a esperança de uma mudança. Porque foi essa mudança de atitude de tantos países do mundo, de ir rumo a uma opção sem precedentes, praticamente, de desreconhecer uma entidade que se considerava um governo eleito e de reconhecer um governo legítimo, a partir de uma base tão frágil, mas tão forte na virtude, como o governo do Presidente Encarregado Juan Guaidó. Então, todos nós estamos numa empresa diferente, numa empresa sem precedentes de tentar ajudar, o renascimento de uma nação. E aí vem o Brasil, porque também estamos vivendo esse momento. Muitos de nós, o Filipe Martins e eu, no dia 28 de outubro do ano passado, coincidimos que era o momento de celebrar uma nova independência do Brasil. Porque, como tantos brasileiros, assistimos esse momento como o de uma nova independência, de um renascimento da nossa nação. Que, talvez, na superfície, não estivesse tão ameaçada quanto a Venezuela, mas na qual nós sentíamos, nos subterrâneos, tantas forças negativas, tantos fluidos negativos contra a liberdade, contra a dignidade. Então, nós sabemos o que é a dificuldade, e o que significa o momento de renascimento de uma nação. Então, eu acho que é isso que nós estamos vivendo em toda a região, e participando do renascimento da Venezuela. E, ao participar desse renascimento da Venezuela, participando de um grande relançamento da nossa América Latina, de todas as Américas, rumo àquilo que nós desejamos, que nossos povos desejam: a prosperidade, evidentemente; a liberdade, claro, e a paz. Mas a paz, até como dizia o Presidente Juan Guaidó quando esteve presente aqui em Brasília (eu tive a grande honra de estar com ele, assim como o Presidente Bolsonaro), a paz não é simplesmente a ausência de conflito; a paz, para que possa ser digna desse nome, requer toda essa existência mais profunda de dignidade, valor, virtude, paz no sentido mais profundo. Paz no sentido mais profundo é liberdade, essa luta permanente por aquilo que há de mais profundo e mais digno no ser humano.",
+                "Então, eu acho que é o momento de celebrarmos. Evidentemente, o fato de que temos aqui a María Teresa como Representante dessa nova Venezuela, essa Venezuela que, cada vez mais vai ganhando corpo. E, ao mesmo tempo, um momento de recapacitarmo-nos para a continuação desse combate diplomático, político, evidentemente, mas um combate permanente em favor da liberdade em toda a nossa região, em todo o nosso continente e no mundo. Porque acho que isso é fundamental. Todo o mundo está olhando para o que está acontecendo na América do Sul, na Venezuela. A situação é um divisor de águas, onde, nós vemos quem realmente está comprometido com essa democracia no sentido mais profundo, quem está comprometido com a liberdade e aqueles que, infelizmente, não estão. Então, é um momento de celebração e de continuação desse nosso esforço.",
+                "Muito obrigado!"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2019-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "ernesto-araujo"
+            ],
+            "titulo": "Discurso do Senhor Ministro de Estado no “Debate Político Geral” da XXIV Reunião Ordinária do Conselho de Ministros da CPLP – Mindelo (Cabo Verde), 19 de julho de 2019",
+            "subtitulo": "NA",
+            "data": "22/07/2019",
+            "horario": "14h11",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "18h08"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/discurso-do-senhor-ministro-de-estado-no-debate-politico-geral-da-xxiv-reuniao-ordinaria-do-conselho-de-ministros-da-cplp-mindelo-cabo-verde-19-de-julho-de-2019",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Muito obrigado, senhor Ministro, excelentíssimo senhor Ministro dos Negócios Estrangeiros e Comunidades e Ministro da Defesa da República de Cabo Verde, Luís Filipe Lopes Tavares,",
+                "Suas Excelências Ministras e Ministros das Relações Exteriores e dos Negócios Estrangeiros das nações-irmãs de Angola, Guiné-Bissau, Guiné-Equatorial, Moçambique, Portugal, São Tomé e Príncipe, e Timor Leste,",
+                "Senhor Ministro da Administração Interna de Cabo Verde,",
+                "Autoridades daqui de Mindelo e da Ilha de São Vicente,",
+                "Senhores Representantes dos Estados-Membros junto à CPLP,",
+                "Senhor Secretário Executivo da CPLP, Embaixador Francisco Ribeiro Telles,",
+                "Senhora Diretora Geral da CPLP, Georgina Benrós de Mello,",
+                "Senhoras e senhores representantes dos Estados Observadores Associados da CPLP,",
+                "Senhoras e senhores,",
+                "Amigos,",
+                "Sinto-me extremamente honrado em assistir a esta 24ª Reunião do Conselho de Ministros da Comunidade dos Países de Língua Portuguesa, no país de Amílcar Cabral e, mais especialmente, na cidade onde nasceu uma das mais expressivas vozes de Cabo Verde e de toda a comunidade de língua portuguesa, a cantora Cesárea Évora, extremamente querida em todos os nossos países.",
+                "Parabenizo as autoridades cabo-verdianas pela escolha do lema “As pessoas, a cultura, os oceanos” para sua presidência pro-tempore da CPLP neste biênio. São temas caros ao Brasil e importantes para todos os nossos países. Estou certo de que, no dia de hoje, manteremos um debate franco e produtivo sobre todos esses temas.",
+                "Antes de vir, recordo-me de ter lido que Mindelo tem “um toque muito brasileiro”, e constatei isso plenamente, já, nessas poucas mas muito ricas e muito agradáveis horas em que já estive a oportunidade de estar aqui em Mindelo. É com o mesmo orgulho que, sabemos todos, o Brasil se reconhece tanto em nossos ancestrais portugueses quanto africanos, e em cada um de nossos irmãos dessa comunidade. Acho que todos nós, aqui, temos um toque de cada um dos outros e é isso que nos faz realmente uma comunidade muito especial.",
+                "A Comunidade dos Países de Língua Portuguesa também tem um significado muito vivo para nós, dado que nos faz sempre recordar o primeiro encontro de Chefes de Estado e de Governo de Língua Portuguesa, realizado na cidade de São Luís do Maranhão, em 1989.",
+                "Ali se plantou a semente que, sete anos depois, prosperaria na criação da CPLP na Cúpula de Lisboa. Sentimos todos que era necessário dar voz a um idioma que nos une, e que, ao mesmo tempo, é falado por quase 300 milhões de pessoas ao redor do planeta. Era necessário, também, compartilhar internacionalmente nossas melhores expressões artísticas e culturais, algo que será favorecido pela recente decisão de se criar a Bienal de Artes e Indústrias Criativas da CPLP.",
+                "Gostaria de fazer alguns comentários sobre a importância do trabalho que vimos desenvolvendo em torno dos três eixos conceituais da CPLP.",
+                "I",
+                "No caso da concertação política, a realização de 29 Missões de Observação Eleitoral desde 1999, quando assistimos ao referendo sobre a autodeterminação de Timor Leste, atesta o compromisso de nossos países com o aperfeiçoamento dos processos democráticos em prol de nossas sociedades. No Brasil, especificamente, estamos vivendo um momento muito especial de construção democrática; um povo mobilizado que cobra resultados de suas instituições, e isso nos convence de que a busca da democracia é um trabalho permanente e no qual a cooperação entre nós, que temos esse objetivo compartilhado, é essencial.",
+                "Da mesma forma, o diálogo da CPLP com diferentes organizações internacionais e regionais tem-se ampliado, como demonstram o acompanhamento e o positivo desfecho da situação política na Guiné-Bissau – mas sobretudo o respeito primordial às instituições daquele país-irmão, tal como defendido pelo Brasil.",
+                "O número de 19 países e organizações que compõem o grupo de Observadores Associados, a ser proximamente ampliado, reforça a percepção internacional da CPLP como um interlocutor internacional de marcada credibilidade. Eu tive a oportunidade de constatar isso muito claramente na reunião de Cúpula, na Cimeira do Mercosul, que transcorreu anteontem na Argentina, onde, ao mencionar que estava vindo para esta reunião em Cabo Verde, todos os países ali, que não são apenas os quatro fundadores do Mercosul, mas os Estados Associados, que são todos outros países na América do Sul, expressaram um incrível interesse por essa comunidade – e acho que já trouxe inclusive o interesse de mais um país em se tornar observador, que é a Bolívia. O ministro de Relações Exteriores da Bolívia me expressou ali o interesse de se tornar um dia observador, dado que há uma comunidade de 50 mil brasileiros, portanto “lusoparlantes”, vivendo na Bolívia. Outro país que acho seria um excelente candidato seria o Paraguai, onde há cerca de 300 mil brasileiros vivendo ali. Ou seja, a língua portuguesa também está se expandido para oeste, dentro da América do Sul.",
+                "Nós defendemos um engajamento e um trabalho cada vez mais coordenado entre os Governos da CPLP a favor desses princípios que nos unem, muito especialmente da democracia em nossas sociedades. E nesse contexto, eu preciso mencionar, a grave crise por que passa a Venezuela, país irmão de todos nós, com quem o Brasil compartilha mais de 2.000 km de fronteiras, e também um país que é o lar de muitos falantes da língua portuguesa, graças a comunidade portuguesa e também à comunidade brasileira. Nós acompanhamos de perto os acontecimentos nesse país vizinho e temos buscado apoiar os esforços para o restabelecimento da democracia na Venezuela. O regime ilegítimo, infelizmente ainda ali instalado, é o único responsável pela crise política, econômica e humanitária que atinge aquele povo irmão – uma situação de direitos humanos absolutamente inaceitável, tal como plasmado no relatório recente da Alta Representante das Nações Unidas para os Direitos Humanos. Quero dizer que essa situação não é uma situação abstrata, não é simplesmente uma situação de engenharia política – é um drama humano, tive a oportunidade de constatá-lo nas visitas que fiz à fronteira da Venezuela com o Brasil e da Venezuela com a Colômbia, onde testemunhei a situação, o drama dos refugiados venezuelanos que estão atravessando essas fronteiras, e onde testemunhei também diretamente o anseio deles por liberdade e pelo restabelecimento de um Estado de direito no seu país. Esperamos vivamente que os países aqui reunidos possamos, todos, colaborar com os esforços de redemocratização da Venezuela.",
+                "Recordo que a CPLP, nos seus primórdios, teve um papel importante na independência do Timor, nossa comunidade nasceu com uma vocação muito clara de liberdade. Ontem, na muito agradável recepção que nos ofereceu o governo da Ilha, entre as várias canções que foram tocadas com enorme talento, me chamou a atenção aquela canção “Ai, Timor”, a canção da independência do Timor, que diz “Calam-se as vozes dos teus avós, se outros calam, cantemos nós”! Isso é muito o que nós estamos tentando fazer nesse trabalho com a Venezuela. Os venezuelanos infelizmente estão calados pela ditadura que os assola, e nós precisamos cantar e falar em favor da democracia naquele país.",
+                "II",
+                "Outro eixo basilar da CPLP, ao qual o Brasil sempre procurou estender os melhores esforços, é o da cooperação. Por meio da Agência Brasileira de Cooperação (ABC) e de outras instituições nacionais, que têm longa experiência em terreno muito similar ao dos demais estados-membros, a cooperação brasileira abrange áreas que implicam impacto direto sobre o bem-estar de nossos cidadãos e cidadãs, como saúde, educação, recursos hídricos, nutrição, ensino superior e direitos das pessoas com deficiência, entre outros.",
+                "Em maio passado, realizou-se, em Brasília, capacitação sobre planejamento de bacias hidrográficas e de redes hidrometeorológicas, no âmbito do projeto \"Apoio à Gestão de Recursos Hídricos nos Países da CPLP\". Na ocasião, participaram técnicos de Angola, Cabo Verde, Guiné Bissau e de São Tomé e Príncipe. Em outubro, uma nova missão do projeto levará mais 14 técnicos a Brasília, para dar um exemplo de uma das atividades às quais temos dado prioridade.",
+                "Merece especial menção o projeto \"Fortalecimento da Capacidade Política e Institucional de Agentes Governamentais e Não Governamentais para a Promoção e Defesa dos Direitos das Pessoas com Deficiência nos Países da CPLP\", implantado pela Secretária Nacional dos Direitos da Pessoa com Deficiência (SNDPD) e a CPLP, com apoio da ABC. Esse projeto, cuja segunda fase está em discussão, contemplou visitas oficiais a Angola, Moçambique, São Tomé e Príncipe e Cabo Verde. Ainda em 2019, serão executadas as atividades previstas para o Timor-Leste e para Guiné-Bissau.",
+                "Apoiaremos, ademais, instâncias inovadoras de cooperação entre países de língua portuguesa. Os Procuradores-Gerais de nossos países, em seu 16º encontro, em novembro do ano passado, em Brasília, decidiram criar uma Rede de combate à corrupção e à lavagem de dinheiro da CPLP, favorecendo o intercâmbio de informações entre os Ministérios Públicos sobre legislações e iniciativas nacionais, nessa área que é tão vital para a opinião pública e para a população de nossos países, que é o combate à corrupção. Eles formaram igualmente a Rede de Procuradores Antidrogas da CPLP, com o objetivo de fomentar e favorecer a cooperação entre as Procuradorias Gerais da República da CPLP no enfrentamento desse outro flagelo que é tráfico internacional de entorpecentes.",
+                "O governo brasileiro quer incentivar o aperfeiçoamento cada vez maior dos mecanismos de transparência, de defesa do patrimônio público e de combate à corrupção, tanto no Brasil quanto no exterior. Estamos dispostos a aprofundar a cooperação com nossos parceiros nestas áreas tão importantes para o bem-estar de nossas sociedades e para o nosso desenvolvimento.",
+                "Considero importante o exercício, em curso, de atualização dos instrumentos que regem a cooperação no seio de nossa Comunidade. Cabe-nos estabelecer uma estrutura decisória que garanta maior coordenação e efetividade. Nesse sentido, procuramos apoiar a presidência cabo-verdiana na realização de seminário dos Pontos Focais de Cooperação, em abril deste ano. É preciso buscar uma maior articulação com o Comitê de Concertação Permanente e com o próprio Secretariado Executivo, a fim de maximizar os recursos disponíveis para atividades de cooperação.",
+                "III",
+                "Quero também fazer uma menção muito especial ao eixo linguístico, esse “vasto mundo” do idioma português. O idioma comum que empresta seu nome a esta comunidade de nações é também o amálgama que liga e aproxima quatro continentes. A promoção da língua portuguesa se afigura, a um só tempo, como objeto e objetivo da ação diplomática brasileira juntamente aos demais membros da CPLP. A língua é o pensamento, é a cultura, é a identidade. E a contribuição que todos nós temos a dar ao mundo nós a damos na nossa língua portuguesa. Defender a língua é, portanto, defender a nossa liberdade e o nosso lugar no mundo.",
+                "Temos particular interesse na promoção do idioma português como instrumento de coesão e na concertação das atividades da CPLP. Para o Brasil, o sucesso da promoção do idioma comum passa, necessariamente, pelo fortalecimento do Instituto Internacional da Língua Portuguesa (IILP), sediado aqui em Cabo Verde, e agradeço muito a apresentação do Diretor do Instituto.",
+                "Desejo expressar ao Diretor Executivo do IILP, Professor Intumbo, o sincero apoio, por parte das instituições brasileiras, para ampliar o papel do instituto como ferramenta de promoção compartilhada do português. Gostaria, a propósito, de mencionar que uma das novas iniciativas do Governo brasileiro é a criação do “Instituto Guimarães Rosa”, um instituo de promoção da língua e da cultura que homenageia o escritor e diplomata brasileiro, autor de, entre tantas obras, “Grande Sertão: Veredas”.",
+                "É intenção do Brasil facultar o uso da estrutura a ser criada com o novo Instituto para a realização de ações conjuntas com todos os membros da CPLP. Nessas condições, saúdo especialmente a realização, em 2020, ainda sob a produtiva presidência cabo-verdiana, da 4ª edição da “Conferência Internacional sobre o Futuro da Língua Portuguesa no Sistema Mundial”.",
+                "Ainda nesse contexto, gostaria de reiterar a importância atribuída pelo Brasil ao Acordo Ortográfico de 1990. O país tem feito marcado esforço para a efetiva implementação desse Acordo, tornando-o de uso obrigatório, em território nacional, a partir de 2013.",
+                "Entendemos que alguns Estados-membros que ainda não ratificaram este importante ato unificador poderão apresentar novos questionamentos quanto à própria evolução natural do instrumento. A reabertura do Acordo nos deixaria, contudo, sem qualquer marco legal para a gestão do idioma português. Por isso defendemos, uma vez mais, a tese de que se faz necessária a ratificação do Acordo Ortográfico por todos os membros da CPLP, para depois cuidarmos da sua eventual retificação.",
+                "A lusofonia pauta a relação do Brasil com cada um dos demais integrantes desta Organização. O idioma comum nos dá força para atuarmos diante de diferentes situações que se apresentem a nós, seja no endosso a posições internacionais conjuntas por parte da CPLP; seja no tratamento de desafios internos de nossos países, sempre respeitando a soberania e os princípios históricos da autodeterminação e da não ingerência.",
+                "IV",
+                "O governo do Presidente Jair Bolsonaro encontra-se empenhado em conferir novo impulso à CPLP, que, posso assegurar, terá prioridade na agenda diplomática do Brasil. Ele será um foro de tamanha importância dentro dos eixos da nossa política externa, tanto da abertura econômica quanto da promoção da democracia e dos nossos valores. Queremos trabalhar em todos os espaços e em todas as geometrias pelo crescimento com liberdade e identidade. Não queremos dissociar da dimensão econômica a dimensão dos valores e das tradições. E a CPLP é um foro marcadamente construído em torno dessa coesão entre agendas práticas e agendas, digamos, de identidade e de valores. No Brasil estamos profundamente empenhados em rever e aprofundar a atuação nos foros de direitos humanos e meio ambiente. No caso de direitos humanos, por exemplo, acabamos de apresentar a plataforma para a eleição do Brasil a um lugar no Conselho de Direitos Humanos das Nações Unidas, onde nos propomos a promover, entre muitos outros temas, a igualdade entre homens e mulheres, o combate ao racismo, a liberdade de expressão, a liberdade religiosa e a defesa dos direitos da família. No tema do meio ambiente, estamos inteiramente comprometidos em manter e implementar nossos compromissos já assumidos, sempre com enfoque de soberania e responsabilidade compartilhada. De um modo geral, no sistema das Nações Unidas, que é tão importante para todos nós, nós temos a clara noção de que ali estamos num ambiente de “nações unidas”, portanto onde as nações, os estados membros, devem ter protagonismo. No caso da CPLP, eu queria destacar que a perfeita coordenação e a extremamente produtiva coordenação que existe entre os Estados membros e o Secretariado (nisso parabenizo a exposição do Secretário Geral) é um modelo para outros organismos onde muitas vezes essa coordenação faz falta.",
+                "Além disso, como tive a oportunidade de expressar na celebração do Dia da África em Brasília, recentemente, no Palácio Itamaraty, a CPLP, em função da presença africana, apresenta igualmente oportunidades de cooperação com mecanismos regionais importantes, como a Comunidade Econômica dos Estados da África Ocidental (CEDEAO), a Comunidade de Desenvolvimento da África Austral (SADC), lembrando, ainda, que nosso português é, com grande honra, língua de trabalho da União Africana.",
+                "V",
+                "Finalmente, parabenizo o governo de Cabo Verde pelas iniciativas que vêm sendo promovidas sob a égide de sua presidência de turno da CPLP. O tema “As pessoas, a cultura, os oceanos”, ademais da beleza de sua composição, tem trazido à discussão de nossos governos temas de alta relevância para nossas sociedades.",
+                "A questão da mobilidade deve ser, certamente, objeto de um esforço cada vez mais amplo de aprofundamento da integração dos países que compartilham o português como idioma. É necessário lembrar, também, que já existem 7 acordos entre os países da CPLP na área da circulação de pessoas, cuja internalização deve ser acompanhada de reflexões mais atuais sobre as normas que queremos, e podemos, estabelecer em prol dos cidadãos e cidadãs da Comunidade. O Brasil se orgulha de cumprir cada um dos acordos de circulação de pessoas assinados no âmbito desta nossa Comunidade.",
+                "Como procurei frisar, a cultura constitui pilar fundamental para darmos seguimento a iniciativas de promoção e divulgação da língua portuguesa junto a outros parceiros internacionais, como é o caso dos Observadores Associados à CPLP.",
+                "O Atlântico e, notadamente, o Golfo da Guiné, possuem papel central para vários de nossos países. Para o Brasil, o Atlântico Sul é parte fundamental de seu entorno estratégico. Nesse caso, procuramos cooperar, na CPLP, em ampla gama de temas, que atravessam a seara ambiental, a da proteção e aproveitamento dos recursos naturais e, ainda, os esforços comuns na área naval e na área de defesa. Exemplo disso é o “Exercício Felino”, cuja próxima edição será realizada em setembro, em Angola. É nesse sentido que me congratulo, uma vez mais, com o governo de Cabo Verde pela inclusão de um tema tão multifacetado quanto relevante na pauta de seu mandato à frente da CPLP.",
+                "Agradeço, finalmente, a acolhida dada pelas autoridades (isso é muito luso-brasileiro, já falei “finalmente” duas vezes! Agora é finalmente mesmo). Agradeço finalmente a acolhida das autoridades cabo-verdianas a todos os participantes da 24ª Reunião do Conselho de Ministros da CPLP, bem como a hospitalidade com que os anfitriões receberam seus irmãos de alma e fala.",
+                "Muito obrigado.",
+                "Comunicado final da XXIV Reunião do Conselho de Ministros da CPLP"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2019-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "ernesto-araujo"
+            ],
+            "titulo": "Discurso do Ministro Ernesto Araújo na sessão matutina da LIV Reunião Ordinária do Conselho do Mercado Comum  - Santa Fé, Argentina, 16/7/2019",
+            "subtitulo": "NA",
+            "data": "19/07/2019",
+            "horario": "18h18",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h07"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/discurso-proferido-pelo-ministro-ernesto-araujo-na-sessao-matutina-da-liv-reuniao-ordinaria-do-cmc-santa-fe-16-7-2019",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Muito obrigado, presidente, agradeço muito ao ministro Jorge Faurie a convocação desta reunião do Conselho do Mercado Comum, que, ademais, se realiza na sua cidade natal, Santa Fé, berço da centenária e venerável Constituição argentina. Agradeço muito igualmente ao embaixador Horacio Reyser a apresentação do relatório da presidência `pro tempore` argentina, que destaca os importantes avanços alcançados pelo MERCOSUL nesses últimos seis meses. Para mim, é uma grande honra e uma alegria especial estar aqui hoje. Eu iniciei pelo MERCOSUL a minha carreira no Itamaraty, serviço exterior brasileiro. Participei, em dezembro de 1991, da primeira reunião do Conselho do Mercado Comum, em Brasília. Depois, participei da negociação da Tarifa Externa Comum e de outros instrumentos comerciais da União Aduaneira. Estava em Ouro Preto quando da assinatura do Protocolo Adicional ao Tratado de Assunção. Estive, igualmente, em Bruxelas no momento em que se lançava a negociação MERCOSUL-União Europeia, recentemente concluída.",
+                "Nós, ao longo desse tempo, criamos, entre todos os países, e fui testemunha disso, um patrimônio de amizade e um espírito de equipe que é uma das nossas grandes vantagens. Queria, antes de tudo, dizer que, no meu caso pessoal, estou inteiramente à disposição para seguir nesse caminho e para colocar em prática a experiência que, por acaso, tive a felicidade de adquirir com o MERCOSUL, com grande entusiasmo. Não quero abundar na questão pessoal, mas o MERCOSUL é uma parte muito importante da minha vida, de maneira que é uma emoção especial, para mim, estar aqui presente com os senhores.",
+                "A conclusão, nesse último dia 28 de junho, das negociações do acordo MERCOSUL-União Europeia foi um marco histórico. O MERCOSUL concluiu o seu mais amplo acordo de livre-comércio, e o primeiro com um grande mercado do mundo desenvolvido. Nós estamos fazendo todo o possível, e isso comprova, para merecer a confiança das nossas sociedades, dos nossos povos. Nós servimos em última instância aos nossos povos, devemos resultados para corresponder às responsabilidades que eles nos entregaram. Durante muito tempo, não por falta de esforço dos negociadores, mas por diferentes circunstâncias políticas, o MERCOSUL não vinha entregando aquilo que dele era esperado. Estamos muito empenhados em mudar esse quadro, em corresponder a essa confiança, a essa expectativa que, há quase trinta anos, a sociedade dos nossos países deposita no processo de integração.",
+                "Com esse acordo com a União Europeia, nós transmitimos à nossa região e ao mundo a mensagem de um MERCOSUL renovado, cujo compromisso com a abertura e com uma inserção inteligente e competitiva na economia internacional é algo real, e não simplesmente retórico. Transmitimos a convicção de um MERCOSUL pragmático, voltado para êxitos e resultados e, ao mesmo tempo, firmemente ancorado na liberdade e na democracia. Pragmatismo, certamente, mas pragmatismo significa trabalhar dentro da realidade de acordo com nossos princípios e com a responsabilidade perante a nossa sociedade, e não fechar os olhos à realidade e esquecer desses princípios. É muito positiva a convergência de visões que existe hoje entre os sócios. Estamos unidos no propósito de construir um MERCOSUL inovador que sirva de instrumento eficaz para a prosperidade das nossas nações. É por esse MERCOSUL que o governo do presidente Bolsonaro está trabalhando desde o início, desde o dia 1º de janeiro, e pelo qual continuará a trabalhar com vigor quando o Brasil assumir, dentro em pouco, a presidência `pro tempore` do bloco.",
+                "O MERCOSUL, nos seus melhores momentos, desempenhou um papel fundamental no fortalecimento da confiança, do diálogo e da integração entre nós. Precisamos recuperar esse patrimônio, e o estamos fazendo, a partir desses fortes laços de amizade que surgiram entre todos aqueles que, como eu dizia, nos dedicamos a esse projeto coletivo. Ancoramos, de modo claro e inequívoco, o processo de integração nos valores democráticos. A suspensão da Venezuela o demonstra, de forma cabal. Gostaria de reiterar que é o nosso desejo ver esse país de volta ao seio da comunidade democrática latino-americana, e estamos trabalhando fortemente por isso. O MERCOSUL não pode ter lugar para projetos que não sejam de integração aberta e de democracia plena. Este Conselho aqui reunido é o principal guardião desse patrimônio, desses princípios e desses anseios. Nesta oportunidade, nos comprometemos a fortalecer, com espírito de permanente renovação, e, ao mesmo tempo, de fidelidade, a vocação original do nosso bloco.",
+                "Senhores ministros, colegas, a presidência argentina neste semestre deu importantes passos para a modernização do bloco. O acordo com a União Europeia fez parte de um processo de intensificação da agenda de negociações externas que também incluiu rodadas com a Associação Europeia de Livre-Comércio, Canadá, Coreia e Singapura, formando um amplo programa de negociações externas que o Brasil estará inteiramente comprometido a prosseguir e ampliar. Iniciamos um processo de revisão da Tarifa Externa Comum, que traduz o mesmo propósito de atualizar o MERCOSUL e de transformá-lo em aliado privilegiado para enfrentar os desafios da economia do século XXI. Iniciamos um processo de reforma institucional com o objetivo de aperfeiçoar o funcionamento do bloco, que considero extremamente pertinente. A decisão de reduzir e fundir fóruns, tarefa, aliás, que não se esgota na presidência argentina e com cuja continuidade o Brasil está comprometido, é uma tarefa que também corresponde aos anseios das nossas sociedades que querem ver mais eficiência e mais produtividade no bloco. Saúdo também a aprovação do Orçamento MERCOSUL, que reduzirá a burocracia, ao unificar contribuições para uma série de órgãos que até o momento eram feitas sob várias rubricas diferentes. O entendimento, também, de fazer maior uso de videoconferências terá o mérito de economizar o dinheiro do contribuinte, algo que igualmente corresponde à nossa responsabilidade perante as nossas sociedades. Devo mencionar, ainda, como importante resultado, o acordo para a eliminação da cobrança de roaming internacional, o uso de celulares entre nossos países. Temos hoje o desafio de aproximar o MERCOSUL da sociedade, e esse avanço terá um impacto extremamente positivo, fazendo uma diferença na vida das pessoas.",
+                "Em breve, teremos a honra de assumir a presidência do MERCOSUL, e nossa tarefa será facilitada pelo excelente trabalho realizado durante a presidência `pro tempore` argentina. A nossa visão é de que o MERCOSUL reencontrou seu rumo, um rumo que aponta para a modernização do bloco, para sua transformação em um instrumento efetivo de prosperidade compartilhada. Demonstramos que o MERCOSUL pode funcionar como mecanismo de integração aberta previsto em seu desenho original. Caberá a todos nós perseverar nessa direção. Continuaremos firmes na promoção dos três eixos que nortearam a atual presidência `pro tempore` argentina: intensificação do relacionamento externo, revisão da Tarifa Externa Comum e fortalecimento institucional. Não temos dúvidas de que o fechamento do acordo com a União Europeia dará impulso às negociações em curso do MERCOSUL e deverá também estimular a abertura de novas frentes negociadoras com parceiros fundamentais. Trabalharemos com determinação para definir uma Tarifa Externa Comum revista até o final do ano, que ofereça alicerce renovado para competividade do nosso setor produtivo e exportador, além de ampliar o leque de produtos de qualidade e a preços competitivos para os consumidores. Prosseguiremos no esforço de aprimoramento da estrutura institucional do bloco, de modo a torná-la mais ágil e eficiente. A presidência `pro tempore` brasileira trabalhará também para completar e consolidar a União Aduaneira. Temos o desafio de buscar formas para adequar os setores automotivo e açucareiro à política comercial comum.",
+                "Ante a perspectiva de uma nova Tarifa Externa Comum, trabalharemos pela eliminação, ou ao menos pela redução significativa das exceções existentes. Os temas regulatórios também tendem a assumir uma crescente importância no nosso esforço integracionista, de maneira que daremos prioridade a ações que levem a uma simplificação de medidas e diminuição dos obstáculos ao comércio intrazona. Buscaremos crescente alinhamento aos melhores padrões e práticas regulatórias internacionais em trabalho conjunto entre reguladores e setor privado. Ao lado dos acordos externos e da revisão da Tarifa Externa Comum, essas são iniciativas que contribuirão para uma inserção mais vantajosa dos nossos estados nos mercados regional e global.",
+                "Ao finalizar, quero dizer que, durante os próximos meses, os senhores poderão contar com toda a dedicação do Brasil, e minha pessoal, para fazer avançar o MERCOSUL. A modernização do nosso MERCOSUL deve potencializar e ser parte integrante dos esforços de cada um de nós para promover o crescimento e o bem-estar de nossas sociedades. No caso do Brasil, nosso país está empenhado em processos de transformação sem precedentes em nossa história recente, que tem como pilares a abertura comercial, a liberdade econômica e a consolidação da democracia em todo o continente. O MERCOSUL é parte integrante e essencial dessa nossa visão de um novo país. Essa é a visão do governo brasileiro dentro do MERCOSUL.",
+                "Trabalharemos em equipe e a vitória será de todos nós.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2019-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, na Sessão Plenária dos Chefes de Estado durante a LIV Cúpula do MERCOSUL- Santa Fé, Argentina, 17 de julho de 2019",
+            "subtitulo": "NA",
+            "data": "17/07/2019",
+            "horario": "15h25",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h09"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-cupula-mercosul-santa-fe-argentina-17-7-2019",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Agradecendo a hospitalidade de todos. Em especial ao nosso presidente Macri.",
+                "Ao prefeito de Santa Fé.",
+                "E da presença do governador também.",
+                "Minha primeira participação é essa no Mercosul.",
+                "Quero aproveitar a ocasião para firmar o compromisso do meu governo com a modernização e a abertura do nosso bloco. Fazê-lo dele um instrumento de comércio com o mundo, sem o viés ideológico que eu tanto critiquei enquanto parlamentar.",
+                "Vencemos essa barreira e a conclusão do Acordo de Livre Comércio com a União Europeia, resultado concreto dessa nova orientação. Por coincidência, estava com Macri em Osaka, quando veio essa notícia. E eu cumprimentei ali, na mesa  do G20, pelo seu esforço.",
+                "Cada um de nós cedeu um pouco, para o bem dos nossos povos. Eu estava presente, Paraguai, o Uruguai e mais, sintam-se representados. O Macri foi 10 para todos nós lá em Osaka.",
+                "Ao assumir a Presidência, recebí a economia do meu País um tanto quanto cambaleante. E nós sabemos que para a América do Sul, como um todo, é bom que o Brasil vá bem. Assim como é bom para nós que a Argentina, Paraguai, Uruguai, Chile. Chile também vai muito bem, Bolívia, entre os outros. Bem-vindo Piñera. Piñera bem-vindo. O seu problema é com o Peru, não é que o Brasil, não. Na Copa América, deixar bem claro.",
+                "No Brasil, estamos fazendo as reformas necessárias, como alívio aos senhores, creio que todos tenham problema. Apesar da reforma ser quase como uma quimioterapia, mas necessária para o corpo sobreviver. Mesmo assim, estamos com uma boa popularidade no Brasil. Devemos em grande parte, ao time maravilhoso de ministros que eu tenho ao meu lado. Em especial nessa área aqui, o nosso querido Paulo Guedes.",
+                "Compartilhamos aqui entre nós, a visão de que para cumprir o seu papel de motor do desenvolvimento, o nosso bloco deve concentrar-se em três áreas. As negociações externas, aí com grande  apoio do meu ministro das Relações Exteriores, no zelo das indicações das embaixadas, também sem mais o viés ideológico do passado e quem sabe um grande embaixador dos Estados Unidos brevemente. Então focamos nisso, a nossa tarifa externa comum e nossa reforma institucional.",
+                "Na presidência argentina realizamos progressos em todas as áreas. Parabéns Macri. Na frente externa, agenda de negociações foi intensa. A maior conquista, sem dúvida, foi o nosso acordo com a União Européia.",
+                "O acordo abre caminho para a inserção de nossos países nas cadeias globais de valor e contempla inúmeros produtos de nossos interesses. Era lamentável que levamos vinte anos para chegar a esse desfecho. Eu quero deixar bem claro aqui, tenho mérito nesse governo sim, mas o grande passo foi dado  pelo governo que nos antecedeu, o senhor Michel Temer.",
+                "Trata-se, então, da pedra fundamental de toda uma nova arquitetura de acordos de livre comércio. O primeiro passo rumo à abertura do Mercosul para o mundo.",
+                "Outros países já sinalizam para nós nesse sentido.",
+                "Na presidência ainda, na Argentina, demos início a revisão do TEC, a Tarifa Externa Comum ingrediente central para a modernização de nossa política comercial e nosso objetivo e prioridade é concluir esse exercício até o final do ano. Buscamos uma abertura ambiciosa que garanta as nossas empresas acesso a insumos e equipamentos melhores e mais baratos. O consumidor também ganha com a oferta de produtos de maior qualidade e a preços mais acessíveis.",
+                "Aproveito para felicitar o presidente Macri pelo importante acordo que assinamos nessa cúpula de eliminação da cobrança de uso de telefones celulares, para quem circula entre os nossos países. Realmente não tinha cabimento quem estava na faixa de fronteira  ser taxado mais vez pelo uso do seu celular.",
+                "Temos aí um exemplo da diferença para melhor que Mercosul pode fazer no cotidiano do cidadão, eliminando dificuldades e burocracias.",
+                "Para que sigamos colhendo frutos, precisamos trabalhar por um Mercosul enxuto e dinâmico, por isso apoiamos as propostas argentinas de reforma institucional do bloco. No tocante a essa questão, também tivemos muitos avanços da unificação dos orçamentos do Mercosul à diminuição do número de órgãos do bloco. Com essas decisões, deixamos claro que queremos um Mercosul de menos discurso e de mais ação. E sem ideologia e muito mais resultados.",
+                "O Mercosul vai além da Integração comercial. O bloco está vocacionado para promoção da liberdade, da democracia, da paz e da segurança na América do Sul. Não queremos a América do Sul uma pátria grande. Queremos que cada país seja autônomo, seja democrático e que o seu país e que cada país, seja grande. Como vejo o Trump falando, queremos a América grande. Eu quero Brasil grande, quero Paraguai grande, Argentina, Bolívia grande também, Uruguai, é a nossa vocação. E principalmente, o Chile de Piñera aquí, cadê o Piñera? Bem localizado aí, nosso Chile também.",
+                "Cumprimento a Argentina, mais uma vez pela proposta de Declaração sobre o fortalecimento da democracia no Mercosul. Não queremos e nem mais um outro país aqui da América do Sul, o que infelizmente, vem acontecendo  com a nossa Venezuela. A gente pede a Deus que nos dê forças, inteligência e que, o destino da Venezuela seja aquele, o nosso hoje dia: democracia, liberdade e prosperidade.",
+                "E muitas vezes não entendemos, como pode um país tão rico como a Venezuela chegar ao ponto que chegou? Isso nós sabemos como nasceu. O populismo e a irresponsabilidade e um projeto de poder de um partido que não tinha limites. Quase afundaram o Brasil nesse populismo. Então, a gente sempre pede a Deus, mas apela para as pessoas de bem, de todos os países. Em especial na Argentina, porque estou aqui hoje.",
+                "A responsabilidade do voto de cada um de nós, para que aquele que realmente tenha compromisso com a liberdade, com a democracia e com a prosperidade possa ocupar esse cargo majoritário na sua respectiva nação. Não há mais entre nós espaço para regimes autoritários.",
+                "Meus amigos, será um desafio exercer a presidência do Mercosul depois da competente administração do meu amigo Maurício Macri. Mas posso assegurar que de nossa parte não faltarão trabalho e determinação.",
+                "Demos continuidade aos esforços da presidência argentina, ou melhor, daremos continuidade. Prosseguiremos nas negociações de acordos externos e na conclusão da revisão das tarifas.",
+                "Conversando com o primeiro ministro japonês, que está para, até o final do ano ir até o Chile. E eu o convidei para passar no Brasil. De preferência na hora do almoço, para provar um churrasco nosso lá. Eu sei que o da Argentina é muito bom, mas até brinquei com ele e disse que o da Austrália era genérico perto do nosso e do da Argentina com toda certeza e também o Uruguai, para não deixar os meus colegas fora disso.",
+                "Depois de ultimar o capítulo político e de cooperação do acordo com a União Européia, planejamos concluir  as negociações com a Associação Europeia de Livre Comércio e avançar com o Canadá, Singapura e a Coreia.",
+                "O  acordo com a União Europeia demonstrou que o Mercosul pode caminhar junto nas negociações com grandes parceiros.",
+                "Em nossa região, conseguimos constituir no início do ano a área de livre comércio na América do Sul. Agora temos que aprofundar os vínculos em novos temas, como compras governamentais, comércio de serviços e regras técnicas e sanitárias.",
+                "Neste semestre, o Brasil e o Chile assumem a Presidência do Mercosul e da Aliança do Pacífico, respectivamente. Lado a lado promoveremos a aproximação ainda maior entre os dois blocos.",
+                "No interior do Mercosul, o Brasil se dedicará a fazer a união aduaneira, uma realidade completa e acabada. Nosso enfoque recairá na modernização dos regulamentos sobre produção e comercialização de bens e serviços, regulamentos que queremos cada vez mais confiáveis. Trabalharemos para finalmente incluir os automóveis e o açúcar na união aduaneira.",
+                "Com outros parceiros, temos cada vez mais acordos que incluem esses setores. É injustificável que ainda não haja um entendimento entre nós. Atuaremos de igual maneira pelo fim das repetidas prorrogações dos regimes especiais, ou as tarifas são comuns ou não são, não queremos uma união aduaneira pela metade.",
+                "Investiremos ademais na cooperação entre os membros do Mercosul.",
+                "Será nossa prioridade saldar nossa dívida com a FOCEN, concluir o processo de reforma deste importante mecanismo e viabilizar a segunda etapa de seu funcionamento.",
+                "Senhoras e senhores, este ano celebramos os vinte e cinco anos do protocolo de Ouro Preto e da União Aduaneira.",
+                "É urgente mostrar as nossas sociedades que o bloco pode se renovar para lidar com os grandes desafios da economia contemporânea.",
+                "Em sua presidência de turno, o Brasil agirá de modo incansável para acelerar a modernização do Mercosul.",
+                "Agradeço mais uma vez ao presidente Macri, meu amigo, e a sua equipe pelo muito que realizaram.",
+                "Também expresso meu reconhecimento a todos que se dedicam em tempo integral ao nosso projeto comum.",
+                "Será uma enorme honra e satisfação para o Brasil recebê-lo nos próximos meses. Juntos, vamos fazer história. Juntos, podemos fazer do século XXI, o século da América do Sul.",
+                "Para isso, obviamente, cada vez mais nos desligamos do nosso passado e com confiança em Deus e fé em todos esses desafios serão vencidos.",
+                "Meu muito obrigado a todos e que Deus abençoe a América do Sul."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2019-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Discurso do Presidente da República, Jair Bolsonaro, durante a Sessão Plenária dos Chefes de Estado - Santa Fé/Argentina",
+            "subtitulo": "NA",
+            "data": "15/07/2019",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/12/2024"
+            ],
+            "horario_atualizado": [
+                "11h16"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/discurso-do-presidente-da-republica-jair-bolsonaro-durante-a-sessao-plenaria-dos-chefes-de-estado-santa-fe-argentina",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Agradecendo a hospitalidade de todos. Em especial ao nosso presidente Macri.",
+                "Ao prefeito de Santa Fé.",
+                "E da presença do governador também.",
+                "Minha primeira participação é essa no Mercosul.",
+                "Quero aproveitar a ocasião para firmar o compromisso do meu governo com a modernização e a abertura do nosso bloco. Fazê-lo dele um instrumento de comércio com o mundo, sem o viés ideológico que eu tanto critiquei enquanto parlamentar.",
+                "Vencemos essa barreira e a conclusão do Acordo de Livre Comércio com a União Europeia, resultado concreto dessa nova orientação. Por coincidência, estava com Macri em Osaka, quando veio essa notícia. E eu cumprimentei ali, na mesa  do G20, pelo seu esforço.",
+                "Cada um de nós cedeu um pouco, para o bem dos nossos povos. Eu estava presente, Paraguai, o Uruguai e mais, sintam-se representados. O Macri foi 10 para todos nós lá em Osaka.",
+                "Ao assumir a Presidência, recebí a economia do meu País um tanto quanto cambaleante. E nós sabemos que para a América do Sul, como um todo, é bom que o Brasil vá bem. Assim como é bom para nós que a Argentina, Paraguai, Uruguai, Chile. Chile também vai muito bem, Bolívia, entre os outros. Bem-vindo Piñera. Piñera bem-vindo. O seu problema é com o Peru, não é que o Brasil, não. Na Copa América, deixar bem claro.",
+                "No Brasil, estamos fazendo as reformas necessárias, como alívio aos senhores, creio que todos tenham problema. Apesar da reforma ser quase como uma quimioterapia, mas necessária para o corpo sobreviver. Mesmo assim, estamos com uma boa popularidade no Brasil. Devemos em grande parte, ao time maravilhoso de ministros que eu tenho ao meu lado. Em especial nessa área aqui, o nosso querido Paulo Guedes.",
+                "Compartilhamos aqui entre nós, a visão de que para cumprir o seu papel de motor do desenvolvimento, o nosso bloco deve concentrar-se em três áreas. As negociações externas, aí com grande  apoio do meu ministro das Relações Exteriores, no zelo das indicações das embaixadas, também sem mais o viés ideológico do passado e quem sabe um grande embaixador dos Estados Unidos brevemente. Então focamos nisso, a nossa tarifa externa comum e nossa reforma institucional.",
+                "Na presidência argentina realizamos progressos em todas as áreas. Parabéns Macri. Na frente externa, agenda de negociações foi intensa. A maior conquista, sem dúvida, foi o nosso acordo com a União Européia.",
+                "O acordo abre caminho para a inserção de nossos países nas cadeias globais de valor e contempla inúmeros produtos de nossos interesses. Era lamentável que levamos vinte anos para chegar a esse desfecho. Eu quero deixar bem claro aqui, tenho mérito nesse governo sim, mas o grande passo foi dado  pelo governo que nos antecedeu, o senhor Michel Temer.",
+                "Trata-se, então, da pedra fundamental de toda uma nova arquitetura de acordos de livre comércio. O primeiro passo rumo à abertura do Mercosul para o mundo.",
+                "Outros países já sinalizam para nós nesse sentido.",
+                "Na presidência ainda, na Argentina, demos início a revisão do TEC, a Tarifa Externa Comum ingrediente central para a modernização de nossa política comercial e nosso objetivo e prioridade é concluir esse exercício até o final do ano. Buscamos uma abertura ambiciosa que garanta as nossas empresas acesso a insumos e equipamentos melhores e mais baratos. O consumidor também ganha com a oferta de produtos de maior qualidade e a preços mais acessíveis.",
+                "Aproveito para felicitar o presidente Macri pelo importante acordo que assinamos nessa cúpula de eliminação da cobrança de uso de telefones celulares, para quem circula entre os nossos países. Realmente não tinha cabimento quem estava na faixa de fronteira  ser taxado mais vez pelo uso do seu celular.",
+                "Temos aí um exemplo da diferença para melhor que Mercosul pode fazer no cotidiano do cidadão, eliminando dificuldades e burocracias.",
+                "Para que sigamos colhendo frutos, precisamos trabalhar por um Mercosul enxuto e dinâmico, por isso apoiamos as propostas argentinas de reforma institucional do bloco. No tocante a essa questão, também tivemos muitos avanços da unificação dos orçamentos do Mercosul à diminuição do número de órgãos do bloco. Com essas decisões, deixamos claro que queremos um Mercosul de menos discurso e de mais ação. E sem ideologia e muito mais resultados.",
+                "O Mercosul vai além da Integração comercial. O bloco está vocacionado para promoção da liberdade, da democracia, da paz e da segurança na América do Sul. Não queremos a América do Sul uma pátria grande. Queremos que cada país seja autônomo, seja democrático e que o seu país e que cada país, seja grande. Como vejo o Trump falando, queremos a América grande. Eu quero Brasil grande, quero Paraguai grande, Argentina, Bolívia grande também, Uruguai, é a nossa vocação. E principalmente, o Chile de Piñera aquí, cadê o Piñera? Bem localizado aí, nosso Chile também.",
+                "Cumprimento a Argentina, mais uma vez pela proposta de Declaração sobre o fortalecimento da democracia no Mercosul. Não queremos e nem mais um outro país aqui da América do Sul, o que infelizmente, vem acontecendo  com a nossa Venezuela. A gente pede a Deus que nos dê forças, inteligência e que, o destino da Venezuela seja aquele, o nosso hoje dia: democracia, liberdade e prosperidade.",
+                "E muitas vezes não entendemos, como pode um país tão rico como a Venezuela chegar ao ponto que chegou? Isso nós sabemos como nasceu. O populismo e a irresponsabilidade e um projeto de poder de um partido que não tinha limites. Quase afundaram o Brasil nesse populismo. Então, a gente sempre pede a Deus, mas apela para as pessoas de bem, de todos os países. Em especial na Argentina, porque estou aqui hoje.",
+                "A responsabilidade do voto de cada um de nós, para que aquele que realmente tenha compromisso com a liberdade, com a democracia e com a prosperidade possa ocupar esse cargo majoritário na sua respectiva nação. Não há mais entre nós espaço para regimes autoritários.",
+                "Meus amigos, será um desafio exercer a presidência do Mercosul depois da competente administração do meu amigo Maurício Macri. Mas posso assegurar que de nossa parte não faltarão trabalho e determinação.",
+                "Demos continuidade aos esforços da presidência argentina, ou melhor, daremos continuidade. Prosseguiremos nas negociações de acordos externos e na conclusão da revisão das tarifas.",
+                "Conversando com o primeiro ministro japonês, que está para, até o final do ano ir até o Chile. E eu o convidei para passar no Brasil. De preferência na hora do almoço, para provar um churrasco nosso lá. Eu sei que o da Argentina é muito bom, mas até brinquei com ele e disse que o da Austrália era genérico perto do nosso e do da Argentina com toda certeza e também o Uruguai, para não deixar os meus colegas fora disso.",
+                "Depois de ultimar o capítulo político e de cooperação do acordo com a União Européia, planejamos concluir  as negociações com a Associação Europeia de Livre Comércio e avançar com o Canadá, Singapura e a Coreia.",
+                "O  acordo com a União Europeia demonstrou que o Mercosul pode caminhar junto nas negociações com grandes parceiros.",
+                "Em nossa região, conseguimos constituir no início do ano a área de livre comércio na América do Sul. Agora temos que aprofundar os vínculos em novos temas, como compras governamentais, comércio de serviços e regras técnicas e sanitárias.",
+                "Neste semestre, o Brasil e o Chile assumem a Presidência do Mercosul e da Aliança do Pacífico, respectivamente. Lado a lado promoveremos a aproximação ainda maior entre os dois blocos.",
+                "No interior do Mercosul, o Brasil se dedicará a fazer a união aduaneira, uma realidade completa e acabada. Nosso enfoque recairá na modernização dos regulamentos sobre produção e comercialização de bens e serviços, regulamentos que queremos cada vez mais confiáveis. Trabalharemos para finalmente incluir os automóveis e o açúcar na união aduaneira.",
+                "Com outros parceiros, temos cada vez mais acordos que incluem esses setores. É injustificável que ainda não haja um entendimento entre nós. Atuaremos de igual maneira pelo fim das repetidas prorrogações dos regimes especiais, ou as tarifas são comuns ou não são, não queremos uma união aduaneira pela metade.",
+                "Investiremos ademais na cooperação entre os membros do Mercosul.",
+                "Será nossa prioridade saldar nossa dívida com a FOCEN, concluir o processo de reforma deste importante mecanismo e viabilizar a segunda etapa de seu funcionamento.",
+                "Senhoras e senhores, este ano celebramos os vinte e cinco anos do protocolo de Ouro Preto e da União Aduaneira.",
+                "É urgente mostrar as nossas sociedades que o bloco pode se renovar para lidar com os grandes desafios da economia contemporânea.",
+                "Em sua presidência de turno, o Brasil agirá de modo incansável para acelerar a modernização do Mercosul.",
+                "Agradeço mais uma vez ao presidente Macri, meu amigo, e a sua equipe pelo muito que realizaram.",
+                "Também expresso meu reconhecimento a todos que se dedicam em tempo integral ao nosso projeto comum.",
+                "Será uma enorme honra e satisfação para o Brasil recebê-lo nos próximos meses. Juntos, vamos fazer história. Juntos, podemos fazer do século XXI, o século da América do Sul.",
+                "Para isso, obviamente, cada vez mais nos desligamos do nosso passado e com confiança em Deus e fé em todos esses desafios serão vencidos.",
+                "Meu muito obrigado a todos e que Deus abençoe a América do Sul."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2019-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "otavio-brandelli-2019-2021"
+            ],
+            "titulo": "Discurso do senhor Secretário-geral das Relações Exteriores na II Conferência Ministerial Hemisférica de Luta contra o Terrorismo",
+            "subtitulo": "Buenos Aires, 18 e 19 de julho de 2019",
+            "data": "18/07/2019",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "27/12/2024"
+            ],
+            "horario_atualizado": [
+                "12h00"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/secretaria-geral/discursos/otavio-brandelli-2019-2021/discurso-do-senhor-secretario-geral-das-relacoes-exteriores-na-ii-conferencia-ministerial-hemisferica-de-luta-contra-o-terrorismo",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "[versão original em Espanhol]",
+                "Señor Canciller de la República Argentina, Jorge Faurie",
+                "Señores cancilleres y autoridades aquí presentes,",
+                "Agradezco en nombre del gobierno del Presidente Jair Bolsonaro por la invitación a esta Segunda Conferencia Hemisférica sobre Terrorismo.",
+                "Señores Cancilleres, señores Ministros,",
+                "Muchas gracias."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2019-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "secretario-geral"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "artigos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Cooperação do G20 em tempo de mudança (The Global Governance Project - 17/06/2019)",
+            "subtitulo": "NA",
+            "data": "04/07/2019",
+            "horario": "20h07",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h32"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-artigos/jair-messias-bolsonaro-2019-2022/cooperacao-do-g20-em-tempo-de-mudanca-the-global-governance-project-17-06-2019",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Jair Messias Bolsonaro, Presidente do Brasil",
+                "Um novo Brasil estará em Osaka para participar do encontro do G20. O povo brasileiro expressou, nas ruas e nas urnas, inequivocamente, seu desejo de mudança.",
+                "Nós deixamos para trás um Estado inchado, ineficiente, corrupto e permissivo com a violência. Em seu lugar, deixamos sólidos fundamentos de um Governo enxuto, composto de especialistas comprometidos com balancear as contas públicas, restabelecer o Estado de Direito e resguardar as tradições e os valores morais que são tão caros ao nosso povo.",
+                "Esse é o mesmo sentimento que traz o Brasil de volta ao cenário internacional. Conscientes de nossas tradições e das reais necessidades dos brasileiros, nós garantiremos a autonomia necessária para cooperar com outros países e contribuir para uma ordem internacional livre e estável.",
+                "E o Brasil tem pressa. Em apenas quatro meses de governo, há sinais que mostram um caminho claro adiante.",
+                "Pela primeira vez em décadas, a estrutura dos ministérios foi decidida de acordo com critérios rigorosos de competência executiva, experiência e integridade.",
+                "Após longos anos de discussões fracassadas, nós apresentamos um projeto de reforma abrangente do sistema de segurança social. Estima-se que o projeto reduzirá os gastos públicos em mais de 250 bilhões de dólares nos próximos dez anos, ao mesmo tempo em que protegerá os mais pobres e combaterá privilégios.",
+                "Nós já concedemos 16 aeroportos, 27 terminais portuários e uma parte da ferrovia norte-sul para o setor privado, com ágios que excederam até mesmo as melhores previsões. Até o fim de 2019, projetos de concessão e privatização de infraestrutura no Programa de Parcerias e Investimentos excederão 60 bilhões de dólares.",
+                "Nós propusemos um pacote anticrime que combate a impunidade que incentivou a corrupção e o crime em nosso país por tanto tempo. Estamos também debatendo reformas fiscais urgentes no Congresso para simplificar o pagamento de impostos e reconquistar a competitividade.",
+                "Com essas e outras medidas direcionadas para a abertura e a eliminação de burocracias, nós ultrapassaremos a decadência política, econômica e moral que atormentou o Brasil. Meu governo está transformando o sistema de incentivos para encorajar competitividade, empreendedorismo e inovação. O moderno ambiente de negócios resultante desse processo impulsionará a atividade econômica e a criação de empregos.",
+                "A prosperidade dos brasileiros, no mundo interconectado de hoje, também depende do resgate da nossa política externa. Necessita, sobretudo, derivar da sociedade e refletir seus costumes, suas aspirações e sua firme crença nas liberdades pessoais e na democracia. Assim, estamos trabalhando para transformar os acordos de integração da América do Sul em mecanismos guiados por princípios democráticos que servem os interesses dos povos de nossa região.",
+                "Nossa mensagem tem sido direcionada para um processo de integração mais pragmático e orientado para resultados, representado pela infraestrutura extremamente leve do recém-criado Fórum para o Progresso e Desenvolvimento da América do Sul (PROSUL). Estamos também resgatando a vocação do Mercosul para o livre comércio. Priorizaremos as negociações que já estão em estágio avançado, inclusive com a União Europeia, com a Associação Europeia de Livre Comércio e com o Canadá. Também iniciaremos negociações com Coreia, Singapura, Nova Zelândia e Estados Unidos.",
+                "Com a mesma determinação, queremos aderir à Organização para Cooperação e Desenvolvimento Econômico sem atrasos. Só temos a ganhar com a adoção de boas práticas internacionais e intercâmbios com outros países abertos a fluxos de comércio e investimento.",
+                "O comércio internacional é precisamente um dos itens mais importantes da agenda do G20. O sistema multilateral de comércio precisa de reformas para cumprir seu propósito original de abrir mercados e promover o desenvolvimento de seus estados membros.",
+                "Diferenças inaceitáveis entre as regras sobre produtos agrícolas e aquelas sobre produtos industriais criaram distorções persistentes no comércio de produtos agrícolas, dificultando o progresso de muitos países em desenvolvimento. Assim como não podemos conceber uma reforma do sistema de comércio que não inclua produtos agrícolas, também temos atuado na negociação de novos temas, inclusive serviços, facilitação de investimentos, pequenas e médias empresas e comércio eletrônico. No momento em que as tensões comerciais exigem um consenso renovado sobre as regras internacionais, o Brasil está absolutamente convencido de que o equilíbrio dos principais interesses deve ser garantido para que se possa avançar na promoção de reformas.",
+                "Outras questões importantes para o G20 são a saúde e o desenvolvimento de recursos humanos. O Brasil endossa a alta prioridade dada para estes temas pela presidência do Japão e está pronto para apresentar sua visão sobre os principais desafios para o século XXI. Essa discussão deve incluir o financiamento e o acesso a serviços, medicamentos e vacinas. Saudamos também a decisão de priorizar questões relacionadas à educação de qualidade e sua contribuição para o desenvolvimento sustentável e a inovação.",
+                "Essas questões atravessam fronteiras e desafiam nossa capacidade de articular soluções. O G20 comprovou sua eficácia como ferramenta de coordenação macroeconômica durante as crises financeiras do final da década de 1990 e da década de 2000. Tornou-se um fórum reconhecido para governança global e cooperação econômica.",
+                "O Brasil está confiante de que, por meio do diálogo e do engajamento de seus membros, o G20 entregará, no devido tempo, os resultados que o mundo espera de nós. Para alcançar seu potencial, nossas nações devem, a partir de seus interesses e de suas realidades particulares, buscar consenso e trocar experiências e conhecimentos. Ao fazê-lo, tenho certeza de que cada um dos nossos países será mais livre, próspero e seguro.",
+                "Este novo e vibrante Brasil, estimulado pela autoconfiança de seu povo, levará a Osaka o desejo de contribuir para um G20 igualmente revigorado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2019-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

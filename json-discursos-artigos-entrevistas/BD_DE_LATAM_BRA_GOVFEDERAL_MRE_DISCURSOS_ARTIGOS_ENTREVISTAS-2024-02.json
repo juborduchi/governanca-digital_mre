@@ -1,0 +1,1307 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira em reunião da coalizão latino-americana no contexto de reunião ministerial da OMC - Abu Dhabi, 25 de fevereiro",
+            "subtitulo": "NA",
+            "data": "25/02/2024",
+            "horario": "11h08",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/02/2024"
+            ],
+            "horario_atualizado": [
+                "17h51"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-em-reuniao-da-coalizao-latino-americana-no-contexto-de-reuniao-ministerial-da-omc-abu-dhabi-25-de-fevereiro",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "É uma grande honra receber os ministros e altos funcionários desta coalizão de parceiros e vizinhos para coordenar os nossos esforços na OMC, com especial atenção para a agricultura.",
+                "Agradeço à Ministra García Sonsoles pela coordenação conjunta do Equador em todos os momentos, bem como ao Ministro Albert van Klaveren por organizar uma reunião preparatória do nosso grupo em Santiago, há poucos dias.",
+                "É com grande satisfação que observo como este grupo avançou nos últimos dois anos até chegar às importantes reuniões e recentes declarações, distintivas de uma nova força que veio para deixar a sua marca no processo negociador na OMC.",
+                "Há muita coisa em discussão na reunião ministerial que começa amanhã, mas gostaria de me concentrar em uma questão de especial interesse para todos aqui presentes, a reforma agrícola.",
+                "Esta MC13 não pode ser considerada um sucesso se não houver resultados positivos na agricultura. Esta é uma questão fundamental para o Brasil.",
+                "É verdade que ainda estamos muito longe dos compromissos para a desejada redução de barreiras e distorções, como prometido desde a origem da OMC e intensamente negociado na Rodada de Doha.",
+                "Mas é possível chegar a termos comuns para, pelo menos, relançar negociações realistas na agricultura.",
+                "Gostaria também de destacar que é extremamente importante que a América Latina esteja unida neste momento.",
+                "Temos muito a contribuir para a segurança alimentar global e somos desproporcionalmente afetados pelas distorções presentes no comércio agrícola.",
+                "Não podemos admitir mais atrasos no nosso desenvolvimento, seja devido a flexibilidades ilimitadas de subsídios em grandes países produtores, seja devido a novas barreiras ao comércio, no que diz respeito ao greenwashing.",
+                "Uma guerra fiscal em torno da produção agrícola não beneficia nem os países com orçamentos públicos apertados, como os nossos, nem a eficiência da produção global a que aspiramos na transição sustentável.",
+                "Senhoras e senhores ministros,",
+                "É crucial que, nesta ministerial, não cedamos às pressões maximalistas de adoção de uma proposta de reservas públicas sem ligação a uma mesa de negociações mais ampla na agricultura.",
+                "Temos a oportunidade de retomar a reforma da OMC, se conseguirmos colocar novamente todas as disciplinas em cima da mesa, com mandatos e prazos claros.",
+                "É notório o interesse do Brasil em reformar as regras de apoio interno, com vista à redução dos níveis globais de subsídios e à harmonização de direitos, bem como na área do acesso aos mercados, a fim de reduzir as barreiras, que continuam sendo muito mais elevadas para os produtos agrícolas do que para industriais.",
+                "Mas estamos prontos para discutir quaisquer questões, sejam elas provisões públicas, salvaguardas especiais ou restrições à exportação.",
+                "Somos a favor de uma ampla rodada de negociações sobre questões tradicionais pendentes, com ênfase na agricultura do futuro.",
+                "Instamos os senhores ministros a permanecerem unidos nesta reunião ministerial e nesta coalizão em todas as negociações agrícolas na OMC.",
+                "Não podemos desistir do projeto de redução de distorções e barreiras que nos é devido desde a década de 90.",
+                "Também não podemos abandonar o desejo por uma maior previsibilidade no comércio agrícola, em um importante momento de transição tecnológica deste século.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira por ocasião da reunião ministerial do Grupo de Cairns - Abu Dhabi, 25 de fevereiro de 2024",
+            "subtitulo": "NA",
+            "data": "25/02/2024",
+            "horario": "10h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/02/2024"
+            ],
+            "horario_atualizado": [
+                "17h52"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-por-ocasiao-da-reuniao-ministerial-do-grupo-de-cairns-abu-dhabi-25-de-fevereiro-de-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Prezado Don Farrell, Ministro do Comércio e Turismo da Austrália,",
+                "Ilustres Ministros e Representantes do Grupo de Cairns,",
+                "É um prazer estar aqui hoje. Em primeiro lugar, gostaria de expressar a gratidão do Brasil à Austrália por seu compromisso com o Grupo de Cairns e por sua dedicação à causa da reforma agrícola no âmbito da OMC.",
+                "Gostaria também de dar boas-vindas calorosas ao nosso novo membro: a Ucrânia, um grande produtor e exportador de alimentos, que, por muitos anos, na condição de observador, tem compartilhado das mesmas opiniões do Grupo sobre a reforma agrícola da OMC",
+                "Por último, felicito a Tailândia por sua nomeação como vice-presidente do Grupo de Cairns.",
+                "O Grupo de Cairns tem estado, há muito tempo, na vanguarda da defesa da reforma agrícola no âmbito da OMC, desenvolvendo um trabalho técnico inestimável e mantendo seu ímpeto, mesmo diante de grandes desafios e ventos contrários.",
+                "A nossa força reside na nossa diversidade econômica e geográfica, bem como na nossa capacidade de permanecermos unidos em prol de objetivos comuns.",
+                "No espírito do multilateralismo, é imperativo permanecermos firmes em nosso compromisso com os princípios consagrados no artigo 20º do Acordo sobre a Agricultura.",
+                "Para o Brasil, um resultado positivo na agricultura é absolutamente indispensável para uma MC13 bem-sucedida. Depois de tantos anos, não é aceitável deixar que a reforma agrícola seja menosprezada mais uma vez.",
+                "Aqui em Abu Dhabi, o Grupo de Cairns deve permanecer unido e pronto para recusar qualquer solução parcial ou decisão antecipada que certamente pudesse ser prejudicial às nossas exigências históricas.",
+                "Um mandato amplo por modalidades por parte da MC14 parece ser o compromisso viável neste momento. Ao liderar reformas abrangentes e equilibradas na Agricultura, o grupo de Cairns desempenhará um papel importante não apenas na promoção do comércio agrícola, mas também na promoção da segurança alimentar em todo o mundo.",
+                "No momento prospectivo desta Conferência, o Grupo de Cairns deve continuar com seu trabalho pioneiro no tratamento de vários desafios no comércio agrícola. Isso inclui medidas unilaterais e discriminatórias tomadas em nome de preocupações com o meio ambiente.",
+                "Temos a oportunidade de aproveitar a dinâmica gerada pela declaração de Setembro sobre a sustentabilidade no comércio agrícola e dar uma contribuição decisiva, com vistas a garantir o papel decisivo da agricultura nos debates da OMC sobre a transição econômica sustentável.",
+                "Por fim, ao engajarmos em negociações intensivas esta semana, devemos ter em mente que é essencial considerar o desenvolvimento e as necessidades sociais para fazer avançar a agenda e enfrentar, de forma eficaz, os desafios contemporâneos. As disparidades nas condições de produção, como a capacidade fiscal, o acesso ao crédito e as infraestruturas, devem ser reconhecidas e abordadas através de um tratamento especial e diferenciado.",
+                "Avancemos unidos, redobrando os nossos esforços para alcançarmos mudanças importantes e tão esperadas.",
+                "Obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Declaração à imprensa do Ministro Mauro Vieira por ocasião da reunião de ministros das Relações Exteriores do G20 – Rio de Janeiro, 22 de fevereiro",
+            "subtitulo": "NA",
+            "data": "22/02/2024",
+            "horario": "14h59",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/02/2024"
+            ],
+            "horario_atualizado": [
+                "16h15"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/declaracao-a-imprensa-do-ministro-mauro-vieira-por-ocasiao-da-reuniao-de-ministros-das-relacoes-exteriores-do-g20-2013-rio-de-janeiro-22-de-fevereiro",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Boa tarde a todas e a todos, vou falar algumas palavras e fazer um breve resumo após o encerramento dos nossos dois dias de trabalho. Acabamos de concluir a primeira reunião - uma importante reunião - de Ministros das Relações Exteriores do G20. Eu queria dizer que essa foi a primeira e que normalmente se faz uma reunião por ano, mas que a presidência brasileira sugeriu e foi aprovado que se realize uma segunda reunião no mês de setembro às margens da abertura da 79ª Assembleia Geral das Nações Unidas, em Nova York. Vai ser uma reunião com a participação dos membros do G20, mas aberta a todos membros da ONU que queiram se pronunciar para que haja um amplo debate sobre os temas que foram o centro desta reunião de ontem e de hoje. Existe uma série de reuniões ministeriais do G20, como os senhores sabem, são cerca de 20, que acontecerão em diferentes cidades brasileiras, começando pela reunião da trilha de Ministros da Fazenda e Presidentes de Bancos Centrais, que ocorrerá em São Paulo, na próxima semana.",
+                "Nossa reunião aqui no Rio foi a primeira ministerial dessa nossa presidência e contou com a participação de 45 delegações, entre países membros, países convidados e Organizações Internacionais, sendo 32 delegações chefiadas em nível ministerial.",
+                "Eu não posso deixar de mencionar aqui o grande apoio que tivemos do presidente Lula que ao tomar a presidência do G20 escolheu três temas como eixos centrais da atuação brasileira e os quais estamos seguindo e tratando em cada uma das reuniões.",
+                "Como eu disse em meu discurso de ontem, não interessa ao Brasil viver em um mundo fraturado. Precisamos trabalhar com todo o empenho para superar os desafios internacionais da atualidade. As prioridades da presidência brasileira são conhecidas, foram acolhidas por todos e pretendem oferecer algumas respostas e iniciativas concretas, como a ação global contra a fome e a pobreza.",
+                "Tivemos duas sessões de trabalho muito produtivas: uma ontem na parte da tarde e outra hoje pela manhã. Na primeira sessão, o tema foi “tensões geopolíticas atuais”, os países membros, os países convidados e as organizações internacionais expressaram suas posições sobre o papel do G20 em relação às tensões em curso, incluindo os dois principais conflitos em discussão no grupo, ou seja, a Palestina e a Ucrânia.",
+                "Vários países reiteraram a sua condenação da guerra na Ucrânia, como tem acontecido desde 2022 após o início do conflito, o que ocorreu durante as presidências da Indonésia e da Índia.",
+                "Grande número de países, de todas as regiões, expressou a preocupação com o conflito na Palestina, destacando o risco de alastramento aos países vizinhos. Vários demandaram, ademais, a imediata libertação dos reféns em poder do Hamas.",
+                "Foi conferido especial destaque ao deslocamento forçado de mais de 1 milhão e 100 mil palestinos para o sul da Faixa de Gaza. Nesse contexto, houve diversos pedidos em favor da liberação imediata do acesso para ajuda humanitária na Palestina, bem como apelos pela cessação das hostilidades. Muitos se posicionaram contrariamente à anunciada operação de Israel em Rafah, pedindo que o governo de Israel reconsidere e suspenda imediatamente essa decisão.",
+                "Destacou-se, ademais, virtual unanimidade no apoio à solução de dois Estados como sendo a única solução possível para o conflito entre Israel e Palestina.",
+                "Também houve, como disse anteriormente, unanimidade quanto ao apoio às prioridades estabelecidas pelo Brasil para a presidência do G20, especialmente quanto às ações concretas de combate à desigualdade e à fome.",
+                "Na sessão de hoje pela manhã, tratou-se da reforma da governança global, que para o Brasil é urgente e prioritária.",
+                "Todos concordaram quanto ao fato de que as principais instituições multilaterais – ONU, Organização Mundial do Comércio, Banco Mundial e Fundo Monetário Internacional, entre outras – precisam de reforma para se adaptarem aos desafios do mundo atual.",
+                "Quanto à ONU, houve consenso quanto à essencialidade da organização para a paz e a segurança e para a promoção do desenvolvimento sustentável. Por isso, todos mencionaram a necessidade de se conferir impulso às discussões sobre reforma da organização, em especial do seu Conselho de Segurança, com a inclusão de novos membros permanentes e não permanentes, sobretudo da América Latina e Caribe e da África. As diferentes propostas existentes nesse sentido precisam ser efetivamente debatidas, e pretendemos impulsionar esse processo.",
+                "Quanto aos bancos multilaterais de desenvolvimento e ao FMI, também houve grande convergência sobre a necessidade de facilitar acesso a financiamentos aos países mais pobres, bem como sobre a urgência de se aumentar a representatividade do mundo em desenvolvimento em sua governança. A centralidade da Organização Mundial do Comércio e a urgência do restabelecimento do seu sistema de solução de controvérsias também foi mencionada em diversos discursos.",
+                "Por fim, gostaria de destacar, com grande satisfação, que a proposta brasileira de realizar uma segunda reunião de chanceleres do G20 em setembro, à margem da abertura da Assembleia Geral das Nações Unidas em Nova York, como já mencionei, foi muito bem recebida. Será a primeira vez em que o G20 se reunirá dentro da sede das Nações Unidas, em sessão aberta para todos os membros da organização, para promover um “chamado à ação” em favor da reforma da governança global.",
+                "A presença de todas e todos aqui é prova não somente da importância do Brasil, mas também, do papel G20 como foro de concertação internacional. Agradeço pela cobertura e lamento não poder ter uma interação, neste momento, maior com os senhores e responder a perguntas, já que eu sou o anfitrião de um almoço oferecido agora para os chefes e todos os membros das delegações.",
+                "Eu queria só terminar agradecendo também a acolhida do prefeito da cidade do Rio de Janeiro, Eduardo Paes, a realização dessa reunião aqui e a recepção que ofereceu a todos os membros da delegação na noite de ontem. Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "4": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira por ocasião da reunião de ministros de Relações Exteriores do G20 - 2ª sessão: Reforma da Governança Global",
+            "subtitulo": "Rio de Janeiro, 22 de fevereiro de 2024",
+            "data": "22/02/2024",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "21/01/2025"
+            ],
+            "horario_atualizado": [
+                "13h32"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-por-ocasiao-da-reuniao-de-ministros-de-relacoes-exteriores-do-g20-2a-sessao-reforma-da-governanca-global",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Excelentíssimos Ministros de Relações Exteriores,",
+                "Representantes de Organizações Internacionais,",
+                "Chefes de Delegação,",
+                "Senhoras e senhores,",
+                "Gostaria de começar recordando que, na última Cúpula do G20, em Nova Delhi, nossos líderes concordaram com “a necessidade de um multilateralismo revitalizado com vistas a enfrentar adequadamente os desafios globais contemporâneos e tornar a governança global mais representativa, eficaz, transparente e responsável”.",
+                "Também em Nova Delhi, o Presidente Lula anunciou como uma das três principais prioridades da Presidência brasileira do G20 a promoção do revigoramento do multilateralismo e da reforma das instituições de governança global.",
+                "Muitas das organizações internacionais existentes foram concebidas na década de 1940 – quando a ONU tinha cerca de 50 Estados-Membros – e refletem uma realidade geopolítica global que já não existe.",
+                "Para o bem de sua legitimidade e eficácia, é essencial que as organizações internacionais atualizem suas estruturas e práticas de governança de forma a melhor representarem a diversidade de seus membros e aumentarem sua capacidade para enfrentar os desafios da atualidade.",
+                "Na esfera financeira internacional – domínio original do G20 –, é necessário promover uma estrutura de governança mais inclusiva e representativa em organizações como o Banco Mundial e o Fundo Monetário Internacional.",
+                "Concebidos numa época em que nem os riscos climáticos nem as desigualdades sociais, inclusive a desigualdade de gênero, eram considerados desafios  proeminentes ao desenvolvimento, existe uma percepção generalizada de que os Bancos Multilaterais de Desenvolvimento (BMDs) não são adequados para enfrentar os grandes desafios sociais e ambientais do nosso tempo.",
+                "Juntamente com muitos outros membros do G20, o Brasil também defende BMDs maiores, melhores, mais eficazes e mais representativos. Mais do que um aumento de capital, os BMDs precisam atender melhor às necessidades dos países em desenvolvimento.",
+                "No campo do comércio internacional, a Organização Mundial do Comércio enfrenta sérios desafios que comprometem sua eficácia e relevância como pilar de um Sistema Multilateral de Comércio baseado em regras. Desde a criação da OMC, em 1995, seus membros têm falhado repetidas vezes em atingir os resultados esperados no âmbito do pilar negociador. O Órgão de Solução de Controvérsias da organização ficou completamente paralisado nos últimos anos, prejudicando a aplicação de todos os acordos.",
+                "Em meio a um ressurgimento do protecionismo mundial, é preciso avançar com o processo de reforma da OMC, reforçando a centralidade da dimensão do desenvolvimento com foco no restabelecimento do seu pilar de solução de controvérsias.",
+                "Ilustres Colegas,",
+                "Senhoras e senhores,",
+                "Como ministros de Relações Exteriores, acredito que estamos numa posição única para trabalhar em prol da revitalização do multilateralismo e da promoção da reforma da governança global, com especial ênfase no âmbito politico, central à nossa coexistência pacífica e à nossa capacidade conjunta para enfrentar os desafios atuais.",
+                "Essa discussão, portanto, não pode desconsiderar a inegável necessidade de uma reforma mais ampla das Nações Unidas. A capacidade da Organização para  satisfazer novas necessidades, no exercício das suas responsabilidades coletivas, não evoluiu na mesma velocidade e direção exigidas pela atual dinâmica global. Hoje, há uma percepção generalizada de que a estrutura, os procedimentos e os métodos de trabalho da ONU devem ser atualizados para aumentar sua eficácia.",
+                "Nesse contexto, a revitalização do trabalho da Assembleia Geral faz-se bastante necessária, de modo a  reforçar sua autoridade, agilizar seu trabalho e tornar mais eficaz a implementação das suas resoluções.",
+                "A necessidade de revitalização dos principais órgãos da ONU inclui também o fortalecimento do Conselho Econômico e Social. O ECOSOC deve ser capaz de desempenhar seu papel de principal órgão de coordenação e revisão de políticas e recomendações em questões de desenvolvimento",
+                "econômico e social, inclusive por meio do engajamento com a sociedade civil, para além dos muros da ONU.",
+                "Devemos também atualizar o sistema de segurança coletiva, que, apesar de seus muitos desafios, continua sendo relevante e deve ser preservado, especialmente através da reforma do Conselho de Segurança das Nações Unidas.",
+                "Sua atual composição, que reflete o equilíbrio de poder em 1945, quando a ONU tinha apenas 51 Estados-Membros, não é compatível com as atuais realidades geopolíticas. Hoje, a ONU tem 193 membros. A nossa própria região, a América Latina e o Caribe, não está representada na categoria de membros permanentes. O mesmo se aplica à África.",
+                "Quanto mais prolongarmos a inevitável reforma do Conselho, mais a comunidade internacional enfrentará os efeitos negativos decorrentes das graves limitações que têm comprometido sua capacidade de atuar em prol da paz e segurança internacionais.",
+                "Ilustres Colegas,",
+                "Senhoras e senhores,",
+                "A reforma da governança global não é algo desconhecido ou estranho para nós. Este grupo é precisamente o produto da reforma da governança global. O G20, em seu formato atual, foi consolidado há quinze anos e, desde então, tem demonstrado ser espaço valioso para o tratamento dos novos desafios em diversas áreas.",
+                "O Brasil acredita que chegou a hora de o G20 dar a sua própria contribuição, criando condições adequadas para que seus líderes discutam, de forma abrangente, as atuais estruturas de governança global.",
+                "Nesse intuito, a Presidência brasileira convida os membros do G20 a se prepararem para uma discussão significativa entre seus líderes sobre a governança global, o que lhes permitirá unir suas vozes para promover o revigoramento do multilateralismo e a reforma das instituições de governança global.",
+                "Para isso, o Brasil convocará uma segunda reunião de ministros das Relações Exteriores do G20 neste ano, na ONU, aberta a todos os estados-membros da Organização. Essa reunião ocorrerá durante a semana de alto nível da próxima Assembleia Geral, provavelmente em 26 de setembro de 2024.",
+                "Gostaria de aproveitar esta oportunidade para convidar todos vocês para essa reunião simbólica, durante a qual, pela primeira vez na história, o G20 se reunirá no interior das Nações Unidas, num encontro aberto a todos os membros da comunidade internacional.",
+                "O Brasil gostaria que essa seja uma oportunidade para o G20 e outros atores unirem suas vozes em uma “chamada para ação” em prol da reforma das instituições de governança global, com as Nações Unidas como seu núcleo.",
+                "A Presidência brasileira do G20 distribuirá um projeto de proposta, nos próximos meses, instando o grupo a se juntar a outras iniciativas em andamento, tais como a Cúpula do Futuro, em um chamamento à reforma efetiva da governança global.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "5": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Discurso do Ministro Mauro Vieira por ocasião da reunião de ministros de Relações Exteriores do G20 – Rio de Janeiro, 21 de fevereiro de 2024",
+            "subtitulo": "NA",
+            "data": "21/02/2024",
+            "horario": "14h44",
+            "datatime": "NA",
+            "data_atualizado": [
+                "21/02/2024"
+            ],
+            "horario_atualizado": [
+                "15h48"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-por-ocasiao-da-reuniao-de-ministros-de-relacoes-exteriores-do-g20-2013-rio-de-janeiro-21-de-fevereiro-de-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Senhoras e senhores Ministros de Relações Exteriores,",
+                "Representantes de Organizações Internacionais,",
+                "Chefes de Delegação,",
+                "Senhoras e senhores,",
+                "Gostaria, antes de mais nada, de dar as boas-vindas a todos ao Brasil para a primeira Reunião de Ministros das Relações Exteriores do G20 deste ano.O Rio de Janeiro ocupa um lugar especial no coração de todos os brasileiros. Espero que suas agendas permitam   algum tempo para visitar esta bela cidade durante sua estada no país.Como anunciado pelo Presidente Luiz Inácio Lula da Silva na Cúpula de Líderes de Nova Delhi em setembro passado, a Presidência do Brasil no G20 tem como foco três prioridades principais: 1) o combate à fome, pobreza e desigualdade; 2) o desenvolvimento sustentável, em suas dimensões econômica, social e ambiental); e 3) a reforma da governança global.Nesta reunião, a Presidência Brasileira do G20 propõe que nos concentremos na terceira prioridade estabelecida pelo Presidente Lula: a reforma da governança global.Antes de prosseguirmos com esse tema, permitam-me apenas reiterar a importância que o Brasil atribui à promoção da inclusão social, ao combate à fome e à pobreza e à realização do desenvolvimento sustentável, que serão abordados mais a fundo em outras reuniões.Em particular, gostaria de fazer um apelo a todos vocês para que prestem especial atenção e deem apoio às discussões em curso com o objetivo de lançar uma Aliança Global contra a Fome e a Pobreza, uma prioridade-chave de nossa presidência no G20. Meu país gostaria de contar com o apoio de todos os membros, países convidados e organizações internacionais para que, na Cúpula de Líderes do Rio de Janeiro, em novembro próximo, as vinte maiores economias do mundo possam anunciar uma contribuição efetiva para erradicar a fome no mundo.",
+                "Prezados colegas,Esta reunião terá dois itens de agenda. Hoje discutiremos o papel que o G20 pode desempenhar no tratamento das tensões internacionais em curso e amanhã nos aprofundaremos no tema da reforma da governança global.Iniciaremos agora a primeira sessão. De acordo com a prática do G20, os membros da troika falarão primeiro, seguidos pelos outros membros do G20, pelos países convidados e pelas organizações internacionais. Em cada um desses grupos, a palavra será dada em ordem alfabética, de acordo com o nome em inglês de cada país ou organização.Peço a colaboração de todos para observarmos o tempo de cinco minutos para as intervenções dos países membros do G20 e de três minutos para os países e as organizações internacionais convidadas.Passo agora à minha intervenção em capacidade nacional.",
+                "Senhoras e senhores Ministros e representantes de Organizações Internacionais,O G20 é um fórum internacional de crescente relevância. Hoje, questões das mais diversas naturezas integram os debates do grupo.Como todos sabemos, as Nações Unidas foram criadas como a organização que, por excelência, deve lidar com questões de paz e segurança. O G20, por sua vez, foi concebido como um fórum privilegiado para discussões sobre questões financeiras e de desenvolvimento, com legitimidade e ferramentas para lidar com tais desafios.Diante do quadro que vivemos, no entanto, este grupo é hoje, possivelmente, o foro internacional mais importante onde países com visões opostas ainda conseguem se sentar à mesa e ter conversas produtivas, sem necessariamente carregar o peso de posições arraigadas e rígidas que têm impedido avanços em outros foros, como o Conselho de Segurança.Na nossa visão, o G20 pode e deve desempenhar um papel fundamental para a redução das tensões internacionais, bem como no avanço da agenda de desenvolvimento sustentável.Caros colegas,O Brasil está profundamente preocupado com a situação internacional atual no tocante a paz e segurança. Segundo algumas estimativas, atingimos um número recorde de conflitos em andamento no mundo – mais de 170 –, enquanto as tensões geopolíticas também estão aumentando.O Brasil ocupa um lugar no mundo que nos permite discutir essas mesmas tensões internacionais em qualquer foro internacional. Nossas posições sobre os casos ora em discussão no G20, em particular a situação na Ucrânia e na Palestina, são bem conhecidas e foram apresentadas publicamente nos foros apropriados, como o Conselho de Segurança da ONU e a Assembleia Geral da ONU.As instituições multilaterais, contudo, não estão devidamente equipadas para lidar com os desafios atuais, como demonstrado pela inaceitável paralisia do Conselho de Segurança em relação aos conflitos em curso. Esse estado de inação implica diretamente perdas de vidas inocentes.O Brasil não aceita um mundo em que as diferenças são resolvidas pelo uso da força militar. Uma parcela muito significativa do mundo fez uma opção pela paz e não aceita ser envolvida em conflitos impulsionados por nações estrangeiras. O Brasil rejeita a busca de hegemonias, antigas ou novas. Não é do nosso interesse viver em um mundo fraturado.Em nossa região, um exemplo claro de abordagens divergentes no campo de paz e segurança vem do fato de que o norte está unido em torno de uma aliança militar, enquanto o sul é coberto por diversas camadas e zonas de paz e cooperação, como a ZOPACAS, a OPANAL, a África desnuclearizada sob resolução da ONU, a própria União Africana e muitos outros exemplos.A situação absolutamente extraordinária em que todo o Hemisfério Sul do planeta optou por permanecer desnuclearizado é pouco destacada sob a narrativa predominante.Os casos bem-sucedidos de cooperação pacífica da América Latina, África, Sudeste Asiático e Oceania fazem com que as vozes dessas regiões devam ser ouvidas nos foros relevantes com especial cuidado e atenção.",
+                "Prezados colegas,Sem paz e cooperação, será extremamente difícil alcançarmos a prometida mobilização em larga escala dos recursos necessários para enfrentar as ameaças existenciais que enfrentamos, em particular o combate à pobreza e à desigualdade e a proteção do meio ambiente.Não é minimamente razoável que o mundo ultrapasse - e muito – a marca de US$ 2 trilhões em gastos militares a cada ano. A título de comparação, os programas de ajuda da Assistência Oficial ao Desenvolvimento permanecem estagnados em torno de US$ 60 bilhões por ano – menos de 3% dos gastos militares. Os desembolsos para combater mudanças climáticas, sob o amparo do Acordo de Paris, mal conseguem alcançar os compromissos de US$ 100 bilhões por ano, portanto menos de 5% dos gastos militares.Se a desigualdade e mudanças climáticas de fato constituem ameaças existenciais, não consigo evitar a sensação de que nos faltam ações concretas sobre tais questões.Temos problemas urgentes a resolver no tocante ao desenvolvimento e à luta contra a fome, a pobreza e a desigualdade; temos desafios gigantescos em relação às mudanças climáticas e ao meio ambiente; temos uma responsabilidade coletiva de liderar o mundo rumo à prosperidade para todos e todas. Essas são as guerras que devemos travar em 2024.Em todos esses esforços, é de fundamental importância termos um sistema multilateral moderno, eficaz e eficiente, guiado por normas e princípios rigorosamente seguidos por todos os países, com as Nações Unidas em seu centro.Não podemos ignorar o fato de que a governança global precisa de profunda reformulação. Nossas diferenças devem ser resolvidas ao amparo do multilateralismo e das Nações Unidas, utilizando como métodos o diálogo e a cooperação, e nunca por meio de conflitos armados – questões essas que serão discutidas com mais profundidade amanhã, na sessão dedicada à reforma da governança global.À medida que o G20 avança nas discussões sobre seu papel diante das tensões internacionais em curso, encorajo todos os países a iniciarem o diálogo reiterando seus compromissos sob a Carta das Nações Unidas e rejeitando publicamente o uso da força, a intimidação, as sanções unilaterais, a espionagem, a manipulação em massa de mídias sociais e quaisquer outras medidas incompatíveis com o espírito e as regras do multilateralismo como meio de lidar com as relações internacionais.O Brasil incentiva de modo enfático que todos os membros do G20 mudem o foco do debate para a busca de respostas concretas, centrados no que temos em comum, e que adotem medidas para a construção de confiança. Falamos desses temas por experiência e vivências próprias, não por idealismo. O Brasil está pronto para contribuir com ideias e propostas concretas nesse sentido.Muito obrigado a todas e a todos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "6": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "mauro-vieira"
+            ],
+            "titulo": "Conversa ministerial sobre comércio e desenvolvimento sustentável, incluindo espaço de política comercial e industrial para desenvolvimento industrial",
+            "subtitulo": "Discurso do Ministro Mauro Vieira na Conferência Ministerial da OMC - Abu Dhabi, 26 de fevereiro de 2024",
+            "data": "26/02/2024",
+            "horario": "10h37",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/02/2024"
+            ],
+            "horario_atualizado": [
+                "17h57"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/conversa-ministerial-sobre-comercio-e-desenvolvimento-sustentavel-incluindo-espaco-de-politica-comercial-e-industrial-para-desenvolvimento-industrial",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Caros colegas,",
+                "A OMC enfrenta a maior crise de sua história, em um momento em que a comunidade internacional necessita urgentemente de uma cooperação mais forte e de um envolvimento multilateral, a fim de cumprir os Objetivos de Desenvolvimento Sustentável e promover uma transição justa e equitativa para uma economia mais verde.",
+                "Vim para Abu Dhabi direto do Rio de Janeiro, onde o Brasil, como presidente do G20, sediou a primeira reunião de chanceleres do Grupo em 2024. Nas discussões sobre o item “reforma da governança global” da agenda, praticamente todos os países argumentaram que a reforma da OMC é essencial para a preservação do sistema multilateral de comércio baseado em regras. Muitos também realçaram as consequências perigosas do fracasso na promoção dessas reformas, à medida que o mundo se volta cada vez mais para abordagens comerciais protecionistas.",
+                "Agora, mais do que nunca, a promoção eficaz do desenvolvimento sustentável por meio do comércio exigiria mais da OMC do que comumente exige. Não é possível imaginar um futuro promissor enquanto tantos países em desenvolvimento ainda são deixados para trás, enquanto tantas pessoas em todo o mundo ainda não conseguem perceber, e muito menos desfrutar, os benefícios da nossa economia moderna e globalizada.",
+                "Ao olharmos para o futuro, todos devemos reconhecer a dívida histórica da OMC em relação aos desafios do passado. Em primeiro lugar, a promoção do desenvolvimento sustentável em todos os seus três pilares requer um forte elemento de justiça, de equidade. A esse respeito, a proposta do Grupo Africano sobre o espaço político para o desenvolvimento industrial poderia ser um bom ponto de partida para discussões futuras.",
+                "Enquanto todos os Membros enfrentam desafios relacionados às mudanças econômicas estruturais em curso, os países em desenvolvimento fazem-no a partir de um patamar relativamente inferior. No entanto, muitos países desenvolvidos, que se opõem de forma dogmática ao espaço político para a industrialização nos países em desenvolvimento, são os mesmos que implementam unilateralmente, numa escala muito maior, políticas que violam claramente as regras da OMC, sob o pretexto de promover uma transição verde.",
+                "Precisamos evitar uma corrida aos subsídios e ao protecionismo que desacreditaria completamente a OMC e a sua capacidade de atuar como uma força positiva em prol do desenvolvimento sustentável e uma transição justa e inclusiva.",
+                "Além disso, como país em desenvolvimento, o Brasil está profundamente preocupado com a agricultura sustentável como ferramenta para promover a segurança alimentar e combater a fome, a pobreza e a desigualdade. Também aqui a OMC deve impedir uma corrida aos subsídios e a proliferação de medidas protecionistas sob o pretexto de preocupações ambientais e sociais.",
+                "A reforma agrícola, há muito esperada, com mais produção e mais comércio, seria um catalisador importante para o desenvolvimento sustentável e para a consecução dos nossos ODSs, especialmente nos países em desenvolvimento.",
+                "Por fim, a capacidade da OMC para desempenhar adequadamente o seu papel está intrinsecamente ligada à restauração de um sistema de solução de controvérsias em pleno funcionamento, capaz de garantir a implementação adequada das regras acordadas multilateralmente, agora e no futuro, e com uma estrutura de dois níveis.",
+                "Colegas,",
+                "A busca pelo desenvolvimento sustentável implica uma procura constante do equilíbrio entre os seus pilares social, económico e ambiental. A OMC deve também tentar encontrar um equilíbrio, promovendo o crescimento, o comércio e o intercâmbio tecnológico num cenário global cada vez mais complexo, ao mesmo tempo em que abraça o desenvolvimento sustentável e a necessidade de uma transição econômica justa e equitativa como características fundamentais de um sistema multilateral de comércio renovado.",
+                "Vamos estabelecer hoje as bases para o futuro que desejamos para o sistema de multilateral de comércio.",
+                "Obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "7": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Pronunciamento do presidente Lula após reunião bilateral com o presidente da Guiana, Irfaan Ali, em Georgetown, na Guiana",
+            "subtitulo": "Transcrição de declaração à imprensa do presidente Luiz Inácio Lula da Silva após reunião bilateral com o Presidente da Guiana, Irfaan Ali, em Georgetown, na Guiana, em 29 de fevereiro de 2024",
+            "data": "29/02/2024",
+            "horario": "14h27",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/pronunciamento-do-presidente-lula-apos-reuniao-bilateral-com-o-presidente-da-guiana-irfaan-ali-em-georgetown-na-guiana",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Meu caro presidente, Irfaan Ali, presidente da Guiana.",
+                "Eu, sinceramente, quero começar agradecendo o convite que me foi feito para participar da 46ª Reunião da CARICOM. Eu fui convidado pela primeira vez para participar da CARICOM em 2005, que foi no Suriname, depois eu convoquei uma reunião da CARICOM no Brasil, para que nós começássemos a dar sequência à nossa estratégia de integração sul-americana. Lamentavelmente, depois do impeachment da presidenta Dilma, houve um apagão na relação do Brasil com a América do Sul e, sobretudo, houve um apagão na relação com a Guiana e com os países da CARICOM.",
+                "A nossa vinda à Guiana é para afirmar a todos os países que fazem parte da CARICOM, que compõem uma comunidade de 19 milhões de habitantes, que todos juntos tem um PIB, aproximadamente, de 120 bilhões de dólares. E que, no caso do Brasil com a Guiana, além dos 12 milhões de brasileiros que aqui residem, que aqui trabalham, nós temos 1.605 quilômetros de fronteira. E, portanto, nós temos todo interesse em discutir com a Guiana muitos temas importantes na área de infraestrutura, na área de segurança alimentar, na área da cooperação fronteiriça, na área de transportes aéreo e rodoviário, na questão de comércio e investimentos, na questão energética, e, uma coisa muito importante, que é a discussão sobre a questão do clima.",
+                "É importante lembrar que a Guiana faz parte da OTCA, e portanto, com a mesma preocupação do Brasil, a Guiana está fazendo um esforço incomensurável para cuidar das suas florestas e por isso eu os convidei para participar da reunião climática no Brasil do G20, para que eles possam expor a monetização que eles estão fazendo sobre a preservação da floresta da Guiana. Esses assuntos me fizeram convidar o presidente Irfaan, para que preparem uma missão empresarial e que visite logo o Brasil para mostrar aos empresários brasileiros as oportunidades que a Guiana oferece para investimentos brasileiros, na área de mineração, na área energética, na área de petróleo, na área da agricultura e na questão energética.",
+                "Ou seja, há um vasto campo de interesse de empresários brasileiros para fazer investimentos na Guiana. E há muito interesse da Guiana de que esse processo de integração permita que a Guiana possa ter acesso aos produtos agrícolas brasileiros, sobretudo, a partir do seu vizinho mais próximo, o estado de Roraima. Ou seja, essa minha visita é a recuperação de uma política que estava sendo levada avante em 2010, que teve continuidade pela presidenta Dilma, e que depois foi paralisada.",
+                "Não apenas com a América do Sul, e não apenas com a Guiana, mas na verdade o Brasil parou suas relações internacionais com o mundo. Eu queria dizer ao presidente Irfaan que, da mesma forma que a Guiana vive um momento excepcional de possibilidades econômicas, eu quero dizer que eu vi isso quando desci no aeroporto que fui para o hotel, a quantidade de construções novas e as rodovias modernas que estão sendo construídas. Eu tenho certeza que da mesma forma que está acontecendo esses investimentos em infraestrutura, também está acontecendo os investimentos na melhoria da qualidade de vida do povo da Guiana.",
+                "O Brasil também vive um momento muito importante. Nós tivemos um primeiro ano de recuperação do nosso país, remontar todas as políticas públicas que tinham sido exterminadas e planejar um forte investimento em políticas de infraestrutura em um projeto que envolve praticamente 350 bilhões de dólares, que é o nosso PAC. E dentre esses projetos de investimento em infraestrutura, nós temos o compromisso com  a integração do nosso continente. A ministra Simone Tebet que veio aqui ontem, que fez a apresentação do projeto de integração, que integra o Brasil, além da Guiana, a outros países da América do Sul, com o objetivo de chegar ao Pacífico e diminuir em 10 mil quilômetros a distância do nosso comércio com a China, com o Japão e com outros países.",
+                "Bem, o que que está em jogo nesse momento. A economia brasileira voltando a crescer, o emprego voltou a crescer, estamos fazendo muito investimento em ciência e tecnologia, muito investimentos em educação, da creche à universidade. Estamos colhendo frutos de uma política muito promissora. Só pra ter uma ideia, presidente Irfaan, somente no mês de fevereiro, nós abrimos 14 novos mercados para os produtos brasileiros, 14 em janeiro, já 6 no mês de fevereiro, e ao todo chegamos a quase 70 mercados novos em apenas um ano de governo. A nossa renda per capita está crescendo, 80% dos trabalhadores estão fazendo acordos com percentual acima da inflação. Estamos retomando com muita força todas as políticas de inclusão social que foram sucesso nos nossos primeiros mandatos.",
+                "A nossa integração com a Guiana faz parte da estratégia do Brasil de ajudar não apenas no desenvolvimento, mas trabalhar intensamente para que a gente mantenha a América do Sul como uma zona de paz no planeta Terra. Ou seja, nós não precisamos de guerra. A guerra, ela traz destruição de infraestrutura, traz destruição de vida e traz sofrimento. A paz traz prosperidade, traz educação, traz geração de emprego e tranquilidade aos seres humanos. Esse é o papel que o Brasil pretende jogar na América do Sul e no mundo. Todo mundo sabe que o Brasil é contra a guerra na Ucrânia, todo mundo sabe que o Brasil é contra o que está acontecendo na Faixa de Gaza, da mesma forma que fomos contra aos atos terroristas do Hamas. E todo mundo sabe que o Brasil não tem e não quer contencioso com nenhum país do mundo.",
+                "O Brasil quer paz, quer prosperidade, quer crescimento econômico e quer melhoria de vida do nosso povo. Por isso, presidente Irfaan, estejam certos, eu vim aqui com a minha ministra do Planejamento, eu vim aqui com o meu ministro dos Transportes, eu vim aqui com o ministro de Portos e Aeroportos, eu vim aqui com o ministro da Integração Regional e ainda faltaram vários ministros.",
+                "E o nosso vice-presidente da República vai junto com o seu vice-presidente, companheiro Jagdeo, a construir todas as equipes técnicas necessárias para que a gente faça acontecer a integração necessária ao desenvolvimento da nossa região. Por isso, eu quero lhe comunicar que saio daqui satisfeito, agradecido pelo carinho, pela hospitalidade do povo da Guiana. Você sabe que eu estou indo à CELAC, em São Vicente e Granadinas, vou agradecer pessoalmente o presidente Ralph, por ser o coordenador das conversas entre a Guiana e a Venezuela e espero que a gente tenha uma reunião da CELAC produtiva, harmoniosa e que todos nós saiamos de lá falando em paz, em prosperidade, em alegria, em amor e não em ódio.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "8": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Discurso do presidente Lula na sessão de encerramento da 46ª Conferência da Comunidade do Caribe",
+            "subtitulo": "Íntegra do discurso lido na sessão de encerramento da 46ª Conferência de Chefes de Governo da Comunidade do Caribe (CARICOM), realizada em Georgetown (Guiana), no dia 28 de fevereiro de 2024",
+            "data": "28/02/2024",
+            "horario": "16h02",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/discurso-na-sessao-de-encerramento-da-46a-conferencia-da-comunidade-do-caribe",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Eu quero dizer, minhas amigas e meus amigos, a alegria estar novamente entre os companheiros e companheiras da CARICOM. Em 2005, tive a honra de participar de uma Cúpula como esta, no Suriname. Foi a primeira vez que um chefe de Estado brasileiro se dirigiu aos líderes da CARICOM. Em 2010, fui anfitrião da primeira Cúpula Brasil-CARICOM.",
+                "Dela resultou nossa associação ao Banco de Desenvolvimento do Caribe, além de diversas iniciativas de cooperação técnica. Apesar dessa aproximação, não logramos consolidar uma agenda consistente com a região. Sabemos que a CARICOM espera muito mais do Brasil.",
+                "Sabemos dos principais problemas que atingem a região: a insegurança alimentar, que – segundo o Programa Mundial de Alimentos – ameaça metade da população caribenha; e a mudança do clima, que coloca em risco todo o planeta, sobretudo os países insulares.",
+                "Quero ressaltar que esses dois problemas estão no centro dos debates travados pelo Brasil nos fóruns internacionais. Quero ressaltar também que esses dois problemas têm a mesma raiz: a desigualdade. Portanto, a luta do contra a desigualdade no mundo é também a luta das populações caribenhas.",
+                "Não é possível que num planeta que produz comida suficiente para alimentar toda a população mundial, cerca de 735 milhões de seres humanos não tenham o que comer.",
+                "Não é possível que os países ricos, principais responsáveis pela crise climática, continuem descumprindo o compromisso de destinar US$ 100 bilhões de dólares anuais aos países em desenvolvimento, para o enfrentamento da mudança do clima. Não é possível que o mundo gaste por ano US$ 2 trilhões e 200 bilhões de dólares em armas.",
+                "Guerras provocam destruição, sofrimento e mortes, sobretudo de civis inocentes. O Brasil seguirá lutando pela paz mundial. Uma guerra na distante Ucrânia afeta todo o planeta, porque encarece os preços dos alimentos e dos fertilizantes.",
+                "Um genocídio na Faixa de Gaza afeta toda a humanidade, porque questiona o nosso próprio senso de humanidade. E confirma uma vez mais a opção preferencial pelos gastos militares, em vez de investimentos no combate à fome na Palestina, na África, na América do Sul ou no Caribe.",
+                "Minhas companheiras e meus companheiros, ouvi da primeira-ministra Mia Motley que Barbados tem 27 voos semanais para o Reino Unido e para os Estados Unidos e nenhum para o Brasil.",
+                "Portanto, nosso maior obstáculo é a falta de conexões, seja por terra, por mar ou pelo ar. Uma das rotas de integração e desenvolvimento prioritárias para meu governo é a do Escudo Guianense, que abrange a Guiana, o Suriname e a Venezuela.",
+                "Queremos, literalmente, pavimentar nosso caminho até o Caribe. Abriremos corredores capazes de suprir as demandas de abastecimento e fortalecer a segurança alimentar da região.",
+                "É importante lembrar, Sr presidente, que viajaram comigo meus ministros de integração, de portos e aeroportos, transportes e planejamento. Eles estão prontos para aprofundar a agenda de integração com a Guiana, o Suriname e oss outros países do Caribe.",
+                "O Brasil pode oferecer gêneros alimentícios a preços competitivos. Mas também pode contribuir para ampliar a produtividade agrícola local.",
+                "Por isso quero convidar os países da CARICOM a se somarem à Aliança Global de Combate à Fome e à Pobreza que será lançada pela presidência brasileira do G20.",
+                "Queremos promover políticas públicas e mobilizar recursos para essa causa.",
+                "Meus amigos e minhas amigas, a criação do fundo de perdas e danos, na COP de Dubai, foi uma conquista histórica. Mas a luta não terminará enquanto não houver mais fundos para adaptação e para o cumprimento da Agenda 2030 como um todo.",
+                "Como anfitrião da COP30, o Brasil quer trabalhar com os Pequenos Estados Insulares em Desenvolvimento (SIDS). O IPCC é categórico sobre a urgência de limitar o aumento na temperatura global a um grau e meio.",
+                "Precisamos unir forças para avançar em nossa \"Missão 1.5\", acelerando a implementação dos compromissos já assumidos e adotando metas mais ambiciosas em 2025.",
+                "Com a Guiana e o Suriname, que também são países membros da Organização do Tratado de Cooperação Amazônica (OTCA), queremos convidar outros países da CARICOM a seguirem São Vicente e Granadinas e se somarem à Declaração “Unidos por nossas Florestas”.",
+                "Os serviços que as florestas prestam ao mundo precisam ser valorizados. O Caribe é vulnerável a eventos extremos, que também se tornaram mais frequentes no Brasil.",
+                "Tenho a satisfação de anunciar que, por decisão conjunta, o Brasil e a CARICOM decidiram fortalecer a gestão integrada de riscos de desastres, por meio do “Mecanismo de Resposta Regional” da Agência Caribenha de Gerenciamento de Emergências em Desastres.",
+                "Amigas e amigos, Brasil e CARICOM estão lado a lado também na defesa de uma governança global mais justa.",
+                "Não é mera coincidência que, nas votações da Assembleia Geral da ONU, a convergência entre nós chegue a 80%. Também compartilhamos do diagnóstico da Iniciativa de Bridgetown.",
+                "Muitas de suas propostas são bandeiras que o Brasil erguerá na presidência do G20. Refiro-me, em especial, ao pleito pela ampliação dos recursos disponíveis a países em desenvolvimento.",
+                "Até o final deste ano, faremos um aporte ao fundo concessional do Banco de Desenvolvimento do Caribe. Países caribenhos sofrem com altos níveis de endividamento e têm condições menos favoráveis de renegociação por terem ascendido à condição de países de renda média.",
+                "Guiana, Haiti, Suriname e Trinidad e Tobago são membros da cadeira do Brasil na diretoria executiva do FMI. Todos nos beneficiaríamos da reforma das instituições de Bretton Woods, para torná-las mais representativas.",
+                "A arquitetura financeira internacional não dispõe de ferramentas adequadas para responder às demandas de desenvolvimento sustentável e enfrentamento à mudança do clima. No Haiti, precisamos agir com rapidez para aliviar o sofrimento de uma população dilacerada pela tragédia.",
+                "Infelizmente, a comunidade internacional não deu ouvidos quando o Brasil alertou que o esforço de estabilização só seria sustentável com apoio maciço ao desenvolvimento e ao fortalecimento institucional do país. Hoje, o Haiti – primeira nação independente do Caribe e primeiro país a abolir a escravidão no hemisfério ocidental – se vê novamente imerso numa espiral de insegurança e instabilidade.",
+                "Escutar a voz da região é portanto imprescindível. São de suma importância o engajamento caribenho na Missão Multinacional da ONU e o empenho do Grupo de Personalidades Eminentes da CARICOM na mediação entre as forças políticas haitianas. A crise securitária só se resolverá com avanço no processo político.",
+                "Temos uma ligação especial com o Haiti, materializada pelos cerca de 200 mil haitianos que vivem no Brasil. Estamos oferecendo treinamento à Polícia Nacional Haitiana e vamos inaugurar um centro de formação profissional para jovens haitianos no sul do país, no valor de 17 milhões de dólares.",
+                "Com mais de cinquenta anos, a CARICOM é um dos mais antigos blocos de integração do mundo em desenvolvimento.",
+                "O PIB combinado de seus quinze membros é de 120 bilhões de dólares, maior do que o de alguns países sul-americanos. Sua população de 19 milhões de pessoas é um ativo muito valioso.",
+                "O Brasil voltou a olhar para seu entorno, ciente de que somente juntos lograremos uma inserção internacional robusta.",
+                "A CARICOM abriu-se para o Sul, rejeitando a condição de zona de influência de potências alheias à região. Temos o desafio de manter nossa autonomia em meio a rivalidades geopolíticas.",
+                "Cabe a nós manter a região como zona de paz. Abrigamos sociedades multiétnicas, entrelaçadas por culturas vibrantes.",
+                "Mas também carregamos o trauma da maior migração forçada da História. O Brasil e o Caribe foram os grandes destinos do tráfico humano.",
+                "Como parte da diáspora africana, compartilhamos da responsabilidade de resgatar e preservar a memória dos flagelos do colonialismo e da escravidão. Nossa relação pode ir muito além do intercâmbio de boas práticas e de atividades de capacitação.",
+                "Vemos no bloco um parceiro econômico promissor e um interlocutor político estratégico. O Brasil já é o quinto maior fornecedor da CARICOM.",
+                "Nossa corrente de comércio foi de US$ 2,7 bilhões de dólares no ano passado, mas já havia superado US$ 5 bilhões em 2008, o que demonstra seu potencial de crescimento. A Agência Brasileira de Promoção de Exportações identificou mais de mil oportunidades de inserção de produtos brasileiros nos países da Comunidade.",
+                "Ocorre que bens e serviços não circulam onde não há vias abertas. Belém, Boa Vista e Manaus estão mais próximas de capitais do Caribe do que de outras grandes cidades brasileiras.",
+                "Meus amigos e minhas amigas, na Cúpula de 2010, falei da nossa vocação – do Brasil e do Caribe – de “aproximar para unir e unir para mudar”. Essa mensagem segue atual e relevante.",
+                "Em meus mandatos anteriores, chegamos a ter embaixadas residentes em todos os países da CARICOM. Queremos restabelecer nossa presença diplomática em todos os paises da CARICOM. Estamos reabrindo nossa missão junto a São Vicente e Granadinas.",
+                "Vamos retomar nosso mecanismo de consultas políticas para aprofundar nosso diálogo e formular agenda substantiva para uma segunda Cúpula Brasil-CARICOM.",
+                "O escritor caribenho Naipaul , prêmio Nobel de literatura, disse que “Muitas pessoas estão confinadas no nicho que esculpem para si mesmas e se limitam a poucas possibilidades pela estreiteza de sua visão”. Por isso quero convidá-los para, juntos, expandir nossa visão e conquistar um lugar maior no mundo.",
+                "A CARICOM é parceiro fundamental do Brasil e parte indispensável da CELAC, sem a qual o projeto de integração regional permanecerá inacabado.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "9": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Discurso do presidente Lula durante abertura da 37ª Cúpula da União Africana",
+            "subtitulo": "Íntegra do discurso lido pelo presidente da República, Luiz Inácio Lula da Silva, durante abertura da 37ª Cúpula de Chefes de Estado e Governo da União Africana, em Adis Abeba, Etiópia), no dia 17 de fevereiro de 2024",
+            "data": "17/02/2024",
+            "horario": "08h01",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/discurso-do-presidente-lula-durante-abertura-da-37a-cupula-da-uniao-africana",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "É com grande alegria que volto pela vigésima primeira vez à África, agora novamente como presidente do Brasil, para me dirigir aos líderes da União Africana. Venho para reafirmar a parceria e o vínculo do nosso país e do nosso povo com este continente irmão.",
+                "A luta africana tem muito em comum com os desafios do Brasil. Mais da metade dos 200 milhões de brasileiros se reconhecem como afrodescendentes. Nós, africanos e brasileiros, precisamos traçar nossos próprios caminhos na ordem internacional que surge.",
+                "Precisamos criar uma nova governança global, capaz de enfrentar os desafios do nosso tempo.",
+                "Já não vigoram as teses do Estado mínimo. Planejar o desenvolvimento agrícola e industrial voltou a ser parte das políticas públicas em todos os quadrantes.",
+                "As transições energética e digital demandam o incentivo e a orientação dos governos.",
+                "Tentativas de restituir um sistema internacional baseado em blocos ideológicos não possuem lastro na realidade. A multipolaridade é um componente inexorável e bem-vindo do século XXI. A consolidação do BRICS como principal espaço de articulação dos países emergentes é um avanço inegável.",
+                "Sem os países em desenvolvimento não será possível a abertura de novo ciclo de expansão mundial, que combine crescimento, redução das desigualdades e preservação ambiental, com ampliação das liberdades.",
+                "O Sul Global está se constituindo em parte incontornável da solução para as principais crises que afligem o planeta.",
+                "Crises que decorrem de um modelo concentrador de riquezas, e que atingem sobretudo os mais pobres – e entre estes, os imigrantes. A alternativa às mazelas da globalização neoliberal não virá da extrema direita racista e xenófoba. O desenvolvimento não pode ser privilégio de poucos.",
+                "Só um projeto social inclusivo nos permitirá erigir sociedades prósperas, livres, democráticas e soberanas. Não haverá estabilidade nem democracia com fome e desemprego.",
+                "O momento é propício para resgatar as melhores tradições humanistas dos grandes líderes da descolonização africana.",
+                "Ser humanista hoje implica condenar os ataques perpetrados pelo Hamas contra civis israelenses, e demandar a liberação imediata de todos os reféns. Ser humanista impõe igualmente o rechaço à resposta desproporcional de Israel, que vitimou quase 30 mil palestinos em Gaza – em sua ampla maioria mulheres e crianças – e provocou o deslocamento forçado de mais de 80% da população.",
+                "A solução para essa crise só será duradoura se avançarmos rapidamente na criação de um Estado palestino. Um Estado palestino que seja reconhecido como membro pleno das Nações Unidas.",
+                "De uma ONU fortalecida e que tenha um Conselho de Segurança mais representativo, sem países com poder de veto, e com membros permanentes da África e da América Latina. Há dois anos a guerra na Ucrânia escancara a paralisia do Conselho. Além da trágica perda de vidas, suas consequências são sentidas em todo o mundo, no preço dos alimentos e fertilizantes.",
+                "Não haverá solução militar para esse conflito. É chegada a hora da política e da diplomacia.",
+                "Senhoras e senhores, com seus 1 bilhão e 500 milhões de habitantes, e seu imenso e rico território, a África tem enormes possibilidades para o futuro. O Brasil quer crescer junto com a África, mas sem ditar caminhos a ninguém.",
+                "O povo brasileiro está recuperando sua soberania política e econômica. Estamos adotando um projeto de transformação ecológica, que nos permitirá dar um salto histórico. Estamos resgatando nossa democracia, tornando-a cada vez mais participativa.",
+                "Com o Bolsa Família e outras políticas públicas bem-sucedidas voltaremos a sair do mapa da fome, retirando milhões de brasileiros da pobreza. Falar de “Educação Inclusiva”, tema desta Cúpula, é falar de futuro. No mundo, quase 250 milhões de crianças estão fora da escola. No Brasil, estamos implantando escolas em tempo integral, além do pagamento de uma poupança para os alunos mais pobres do ensino médio, como forma de reduzir a evasão escolar.",
+                "Tenho o orgulho de dizer que milhares de africanos concluíram seus estudos no Brasil. Mas vamos fazer ainda mais. Vamos ampliar o número de bolsas ofertadas para receber estudantes africanos em nossas instituições públicas de ensino superior.",
+                "Estamos dispostos a desenvolver programas educacionais na África e a promover intenso intercâmbio de professores e pesquisadores. Vamos colaborar para que a África possa se tornar independente na produção de alimentos e energia limpa.",
+                "São 400 milhões de hectares espalhados por mais de 25 países, com potencial de fazer deste continente um grande celeiro para o mundo, viabilizando políticas de combate à fome e produção de biocombustíveis.",
+                "Quero igualmente estender nossa parceria para a área da saúde. Há muito a aprender com as estratégias sanitárias de ambos os lados, e a possibilidade de estruturar sistemas públicos robustos e de alcance amplo.",
+                "Vamos trabalhar com o Centro Africano de Controle e Prevenção de Doenças para enfrentar doenças tropicais negligenciadas. Teremos como meta a ampliação do acesso a medicamentos, evitando a repetição do “apartheid” de vacinas que vimos na COVID-19.",
+                "Cuidar também da saúde do planeta é nossa prioridade. O imperativo de proteger as duas maiores florestas tropicais do mundo, a Amazônica e a do Congo, nos torna protagonistas na agenda climática.",
+                "Os instrumentos internacionais hoje existentes são insuficientes para recompensar de forma eficaz a proteção das florestas, sua biodiversidade e os povos que vivem, cuidam e dependem desses biomas.",
+                "Com a recuperação de áreas degradadas, podemos criar um verdadeiro cinturão verde de proteção das florestas do Sul Global. Em conjunto com parceiros africanos, o Brasil quer desenvolver e construir uma família de satélites para monitorar o desmatamento.",
+                "Para levar adiante todas essas iniciativas vamos criar um posto avançado de cooperação junto à União Africana em setores como pesquisa agrícola, saúde, educação, meio ambiente e ciência e tecnologia.",
+                "Nossa representação diplomática em Adis Abeba contará em breve com funcionários de órgãos governamentais como a Agência Brasileira de Cooperação, a EMBRAPA e a FIOCRUZ, nossos órgãos de pesquisa e desenvolvimento em agropecuária e saúde.",
+                "Senhores e senhoras, nossos caminhos vão se reencontrar no G20, no Rio de Janeiro, e na COP 30, em Belém. A presença da União Africana como membro pleno do G20 será de grande valia. Mas ainda é necessário a inclusão de mais países do continente como membros plenos. Temos agendas comuns a defender.",
+                "É inadmissível que um mundo capaz de gerar riquezas da ordem de US$ 100 trilhões de dólares por ano conviva com a fome de mais de 735 milhões de pessoas. Estamos criando no G20 a Aliança Global contra a Fome, para impulsionar um conjunto de políticas públicas e mobilizar recursos para o financiamento dessas políticas.",
+                "Cerca de 60 países, muitos deles na África, estão próximos da insolvência e destinam mais recursos para o pagamento da dívida externa do que para a educação ou a saúde. Isso reflete o caráter obsoleto das instituições financeiras, como o FMI e o Banco Mundial, que muitas vezes agravam crises que deveriam resolver.",
+                "É preciso buscar soluções para transformar dívidas injustas e impagáveis em ativos concretos, como rodovias, ferrovias, hidroelétricas, parques de energia eólica e solar, produção de hidrogênio verde e redes de transmissão de energia. Precisamos acompanhar passo a passo a evolução das novas tecnologias.",
+                "A Inteligência Artificial não pode tornar-se monopólio de poucos países e empresas. Mas podem também constituir-se em terreno fértil para discursos de ódio e desinformação, além de causar desemprego e reforçar vieses de raça e gênero, que acentuam injustiças e discriminação.",
+                "O Brasil vai promover a interação do G20 com o Painel de Alto Nível criado pelo Secretário-Geral da ONU para apoiar as discussões sobre o Pacto Digital Global.",
+                "Esperamos, com isso, contribuir para uma governança efetiva e multilateral em Inteligência Artificial e que incorpore plenamente os interesses do Sul Global.",
+                "Minhas amigas e meus amigos, quero terminar dizendo que não há Sul Global sem a África.",
+                "Retomar a aproximação do Brasil com a África é recuperar laços históricos e contribuir para a construção de uma nova ordem mundial, mais justa e solidária. Permite-nos, sobretudo, somar esforços na superação dos desafios que temos à frente.",
+                "Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "10": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Discurso do presidente Lula durante sessão extraordinária da Liga dos Estados Árabes, no Cairo (Egito)",
+            "subtitulo": "Transcrição do discurso do presidente Luiz Inácio Lula da Silva durante sessão extraordinária do Conselho de Representantes da Liga dos Estados Árabes, no Cairo (Egito), em 15 de fevereiro de 2024",
+            "data": "15/02/2024",
+            "horario": "11h45",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/discurso-do-presidente-lula-durante-sessao-extraordinaria-da-liga-dos-estados-arabes-no-cairo-egito",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "É uma satisfação estar de volta à sede da Liga dos Estados Árabes depois de 20 anos.",
+                "Agradeço ao senhor Secretário-Geral e a todos os presentes a valiosa oportunidade de trazer-lhes a palavra do Brasil.",
+                "Temos grande orgulho dos laços históricos e culturais que nos unem ao mundo árabe.",
+                "Reconhecemos e valorizamos a inestimável contribuição ao nosso país e ao progresso da humanidade.",
+                "O Brasil foi o primeiro país latino-americano a receber o status de observador nesta organização.",
+                "Tive a honra de ser o primeiro Chefe de Estado brasileiro a ocupar esta tribuna em 2003.",
+                "O compromisso da Liga Árabe com a promoção da estabilidade e do desenvolvimento faz desta organização uma voz a ser ouvida atentamente nas grandes questões do nosso tempo.",
+                "Estamos resgatando a vocação universalista de nossa política externa.",
+                "Queremos reavivar e aprofundar nossas parcerias com o Sul Global, com quem compartilhamos tantas visões, valores, desafios e expectativas.",
+                "As visitas que hoje faço ao Egito e à Liga Árabe se somam às que fiz aos Emirados Árabes Unidos, Arábia Saudita e Catar.",
+                "Elas refletem nosso desejo de retomar o diálogo e a colaboração.",
+                "Mantemos representações diplomáticas residentes em 18 dos 22 países que compõem a Liga Árabe.",
+                "Queremos aproveitar o legado deixado pelas Cúpulas entre a América do Sul e os Países Árabes.",
+                "É imenso o potencial em setores como comércio, investimentos, meio ambiente, ciência e tecnologia, cultura e cooperação para o desenvolvimento.",
+                "A força da relação entre o Brasil e os países da Liga também se mostra no nosso dinamismo comercial.",
+                "O aumento do comércio, que era de US$ 5,4 bilhões em 2003, passou para US$ 30 bilhões em 2023, e isso é motivo de contentamento e otimismo.",
+                "No atual exercício da presidência brasileira do G20, estamos priorizando a inclusão social e o combate à fome e à pobreza; a promoção do desenvolvimento sustentável e a transição energética; e a reforma das instituições de governança global.",
+                "Em 2025, realizaremos, no Brasil, a COP-30 sobre mudança do clima.",
+                "Espero contar com a ativa participação dos países da Liga Árabe em Belém, no coração da Amazônia, para essa discussão essencial para o futuro do planeta.",
+                "Também no próximo ano, sediaremos a Cúpula do BRICS, que agora conta com a participação de três integrantes da Liga: Arábia Saudita, Egito e Emirados Árabes Unidos.",
+                "Com o reforço do Novo Banco de Desenvolvimento (NDB) pelo ingresso de novos membros, vamos continuar trabalhando para que o BRICS continue a ser uma força positiva em um mundo multipolar.",
+                "Senhoras e senhores,",
+                "Retorno ao Cairo no contexto da terrível catástrofe humanitária na Faixa de Gaza.",
+                "Na minha última visita, a Liga Árabe havia apresentado a Iniciativa Árabe pela Paz, que representava uma opção equilibrada e realista para a resolução do conflito entre Israel e a Palestina.",
+                "Assim como outras iniciativas antes dela, infelizmente os esforços da Liga foram em vão.",
+                "O ataque do Hamas de 7 de outubro contra civis israelenses é indefensável e mereceu veemente condenação do Brasil.",
+                "A reação desproporcional e indiscriminada de Israel é inadmissível e constitui um dos mais trágicos episódios desse longo conflito.",
+                "As perdas humanas e materiais são irreparáveis.",
+                "Não podemos banalizar a morte de milhares de civis como mero dano colateral.",
+                "Em Gaza, há quase 30 mil vítimas fatais, na maioria crianças, idosos e mulheres. 80% da população foi forçada a deixar suas casas.",
+                "Ante nossos olhos, a população de Gaza sofre de fome, sede, doenças e outros tipos de privações, como alerta a Organização Mundial de Saúde.",
+                "A situação na Cisjordânia, que já era crítica, também está se tornando insustentável.",
+                "No momento em que o povo palestino mais precisa de apoio, os países ricos decidem cortar a ajuda humanitária à Agência da ONU para os Refugiados da Palestina (UNRWA).",
+                "As recentes denúncias contra funcionários da agência precisam ser devidamente investigadas, mas não podem paralisá-la.",
+                "Refugiados palestinos na Jordânia, na Síria e no Líbano também ficarão desamparados.",
+                "É preciso pôr fim a essa desumanidade e covardia.",
+                "Basta de punição coletiva.",
+                "Meu governo fará novo aporte de recursos para a UNRWA (ÚNRUA). Exortamos todos os países a manter e reforçar suas contribuições.",
+                "A tarefa mais urgente é estabelecer um cessar-fogo definitivo que permita a prestação de ajuda humanitária sustentável e desimpedida e a imediata e incondicional liberação dos reféns.",
+                "A persistência do conflito na Palestina vai muito além do Oriente Médio.",
+                "Seus efeitos podem levar a cenários imprevisíveis e catastróficos.",
+                "Propusemos e defendemos resoluções no Conselho de Segurança, cuja Presidência exercemos em outubro.",
+                "Apoiamos o processo instaurado na Corte Internacional de Justiça pela África do Sul sobre a aplicação da Convenção para a Repressão e Punição do Crime de Genocídio.",
+                "Operações terrestres na já superlotada região de Rafah prenunciam novas calamidades e contrariam o espírito das medidas cautelares da Corte.",
+                "É urgente parar com a matança.",
+                "A posição do Brasil é clara.",
+                "Não haverá paz enquanto não houver um Estado palestino, dentro de fronteiras mutuamente acordadas e internacionalmente reconhecidas, que incluem a Faixa de Gaza e a Cisjordânia, tendo Jerusalém Oriental como sua capital.",
+                "A decisão sobre a existência de um Estado palestino independente foi tomada há 75 anos pelas Nações Unidas.",
+                "Não há mais desculpas para impedir o ingresso da Palestina na ONU como membro pleno.",
+                "A retomada das negociações de paz é uma causa universal.",
+                "E é a nossa causa.",
+                "Por isso, quero renovar meus votos de paz e prosperidade a todos vocês.",
+                "Queria terminar dizendo que o Brasil vai continuar, nos próximos anos, a defender o reconhecimento do Estado Palestino como Estado soberano, não apenas pela ONU, mas também no território, para que os palestinos possam construir suas vidas em paz e com o respeito do restante do mundo.",
+                "Por isso, eu quero agradecer à Liga Árabe, dizer para vocês da importância que vocês têm nesse processo de chamar a atenção da humanidade e levar em conta, secretário, que nós precisamos ter um debate muito importante para que a gente repense a Organização das Nações Unidas, para que a gente repense a nova governança global. Não é possível que a ONU seja governada pelos países que saíram vitoriosos ou perdedores da Segunda Guerra Mundial.",
+                "É importante lembrar que o mundo mudou; a geopolítica mudou. Os países ficaram maiores e mais importantes. Não tem nenhuma explicação o continente africano não ter nenhum representante nas Nações Unidas, e poderia ter dois, três. Não tem nenhum sentido a América do Sul e a América Latina não ter nenhum representante. Não tem nenhum sentido um país como a Índia estar fora, como a Alemanha estar fora.",
+                "Ou seja, é preciso repensar para que a gente aumente o número de países no Conselho de Segurança. É preciso pensar e acabar com o direito de veto. E é preciso pensar que, se a ONU não levar muito a sério a existência do seu Conselho de Segurança Permanente, o mundo não terá paz. Porque são os membros do Conselho Permanente da ONU, os países que produzem armas, os países que vendem armas e os países que ultimamente têm feito as guerras.",
+                "Foi assim no Iraque, foi assim na Líbia, sabe. A Rússia não pediu para ninguém para invadir a Ucrânia. Ou seja, nós estamos, a ONU, totalmente enfraquecida numa tomada de decisão para que Israel cumpra uma das decisões que a ONU tomou ao longo desses anos.",
+                "Por isso, eu venho aqui para dizer para vocês da minha primeira persistência em continuar lutando pela paz. A paz é a única possibilidade que a gente tem de construir desenvolvimento e melhoria de vida do povo. A segunda coisa, eu venho aqui para dizer da minha solidariedade ao povo palestino, porque há muitos anos eu defendo a necessidade do povo palestino ter seu território livre e soberano.",
+                "E venho aqui para reafirmar aos países árabes, da mesma forma que nós somos contra o Hamas, nós somos contra o comportamento de Israel, nós somos contra a guerra, porque o Brasil é um país que não tem contencioso com nenhum país do mundo e a gente acha que somente com o fim da guerra é que a gente pode construir o tão sonhado mundo de paz.",
+                "Muito obrigado a vocês e queria dizer que a paz esteja com todos nós. Um abraço."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "11": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Declaração à imprensa do presidente Lula após reunião bilateral com o presidente do Egito, Abdel Fattah Al-Sisi",
+            "subtitulo": "NA",
+            "data": "15/02/2024",
+            "horario": "09h56",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/declaracao-a-imprensa-do-presidente-lula-apos-reuniao-bilateral-com-o-presidente-do-egito-abdel-fattah-al-sisi",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Bem, antes de ler a minha declaração à imprensa, eu queria dizer ao presidente Al-Sisi que é uma alegria muito grande retornar ao Egito. E, num momento importante da política mundial. Num momento em que deveríamos estar falando no aumento da produção de alimentos para o mundo, num momento em que a gente deveria estar falando em crescimento econômico, distribuição de renda e geração de empregos, nós estamos falando em guerras.Em guerras que muitas vezes são tomadas da formas mais insana possível. Porque nós temos a guerra entre a Rússia e a Ucrânia, que por mais que eu procure explicação eu não encontro uma explicação por que a ONU não tem força suficiente para evitar que essas guerras aconteçam, antecipando qualquer aventura, porque a guerra não traz benefício a ninguém. Traz morte, destruição e sofrimento. E também pela guerra na Faixa de Gaza.O Brasil foi um país que condenou de forma veemente a posição do Hamas no ataque a Israel e ao sequestro de centenas de pessoas. E nós condemoas e chamamos o ato de ato terrorista. Mas não tem nenhuma explicação o comportamento de Israel, a pretexto de derrotar o Hamas, estar matando mulheres e crianças, coisa jamais vista em qualquer guerra que eu tenha conhecimento.E o que é lamentável, presidente, é que as instituições multilaterais que foram criadas para ajudar a solucionar esses problemas, elas não funcionam. Por isso, o Brasil está empenhado, esperamos contar com o apoio do Egito, para que a gente consiga fazer as mudanças necessárias nos órgãos de governança global.É preciso que o Conselho de Segurança da ONU tenha outros países participando. Outros países da África, outros países da América Latina participando. É preciso que tenha uma nova geopolítica na ONU. É preciso acabar com o direito de veto dos países. E é preciso que os membros do conselho de segurança sejam atores pacifistas, e não atores que fomentam a guerra.As últimas guerras que tivemos, a invasão ao Iraque não passou pelo Conselho de Segurança da ONU. A invasão à Líbia não passou pelo Conselho de SEgurança da ONU. A Rússia não passou pelo Conselho de Segurança para fazer a guerra com a Ucrânia. E o Conselho de Segurança não pode fazer nada na guerra entre Israel e a Faixa de Gaza.A única coisa que se pode fazer é pedir paz pela imprensa, mas que me parece que Israel tem a primazia de não cumprir nenhuma decisão emanada da direção das Nações Unidas.Então é preciso que a gente tome uma decisão. E eu não poderia deixar de começar toda a minha conversa agradecendo ao  presidente Al-Sisi em ajudar o Brasil para que a gente conseguisse retirar os brasileiros e as brasieiras que estavam na Faixa de Gaza. Eles atenderam nosso embaixador, conversaram muito, e nós conseguimos retirar praticamente quase duas mil pessoas que estavam em Israel e uma boa parte delas na Faixa de Gaza. Então, eu quero publicamente agradecer ao presidente Al-Sisi.Eu tenho a safistação de voltar ao Cairo vinte anos depois de ter sido o primeiro presidente brasileiro a visitar o Egito. Eu às vezes penso que o Brasil estava fora do mundo, porque também nós fomos o primeiro presidente a visitar Beirute e vários países do Oriente Médio. Porque me parece que o Brasil não tinha vocação de fazer política externa olhando o Mapa Mundi. Olhávamos para os Estados Unidos e para a Europa e esquecíamos o resto do Planeta Terra. Então nós resolvemos fazer isso e por isso eu vim aqui ao Egito logo no meu primeiro ano de mandato em 2003.Retorno agora para celebrar o centenário do estabelecimento de relações diplomáticas entre nossos países. Hoje, como em 2003, minha visita tem por objetivo aproximar o Brasil dos países da África e do Oriente Médio.As relações com o Egito ocupam papel singular nessa trajetória.Na reunião que mantive com o presidente Al-Sisi discutimos temas e ações que farão nossa cooperação voltar a crescer na esfera bilateral e se expandir nos foros multilaterais.Propus ao presidente elevar nossas relações ao nível de Parceria Estratégica. Porque dois países que são importantes nos seus continentes, que têm o tamanho das populações que têm o Egito na África e o Braisl na América Latina, não podem ter uma relação pequena. A nossa relação tem que ser muito forte, muito grande, e envolver todas as atividades possíveis, da agricultura à defesa, da ecnomia à ciência e tecnologia, da nossa relação conjunta para tentar democratizar o funcionamento das Nações Unidas, no campo da educação, no campo da cultura.Eu espero que os companheiros do Egito e o nosso presidente possam estabelecer conosco essa parceria estratégica, até porque o nosso fluxo na balança comercial de 2 bilhões e 800 milhões de dólares é muito pequeno para o tamanho das nossas economias e para o tamanho das nossas necessidades. E eu disse ao presidente Al-Sisi que nós queremos uma relação comercial de ganha-ganha, uma relação em que os dois países ganham. Nós não queremos uma relação comercial de uma mão só. O que nós queremos é comprar e vender, vender e comprar, para que o resultado final seja uma balança comercial equilibrada e que todos os entes estejam satisfeitos vendendo e comprando e vendo as nossas economias crescerem.Somos dois grandes países em desenvolvimento que apostam na promoção do desenvolvimento econômico e social como pilares para a paz e segurança. Combatemos todas as manifestações de racismo, xenofobia, islamofobia e antissemitismo.O Brasil voltou a apoiar a iniciativa egípcia de criação de uma Zona Livre de Armas no Oriente Médio, à semelhança do que já existe na América Latina.No G20, contamos com o apoio do Egito para fazer da Presidência brasileira um sucesso, em especial nas duas iniciativas que vamos lançar: a Aliança Global contra a Fome e a Pobreza e a Mobilização Global contra a Mudança do Clima.Queremos também promover ampla discussão sobre a dívida externa dos países africanos. Mesmo com a presença permanente da União Africana no G20 a partir deste ano, a sub-representação do continente ainda demanda pelo menos dois novos países da África como membros plenos.No BRICS, vamos trabalhar juntos pela reforma da ordem global e na construção da paz, especialmente num momento em que ressurgem pressões protecionistas e conflitos que penalizam os países mais pobres.A consolidação do BRICS como principal espaço de articulação dos países emergentes é uma avanço inegável em prol de um mundo multipolar. Atuaremos pela criação de unidade de valor comum nas transações comerciais e de investimento do BRICS, como forma de contornar a dependência mundial de uma única moeda.O ingresso do Egito como membro do Banco do BRICS também representa um marco na colaboração efetiva entre as economias emergentes.Nossa coordenação com outras nações em desenvolvimento é fundamental para o sucesso da Conferência das Nações Unidas sobre a Mudança do Clima (COP-30), que organizaremos no Brasil em 2025.E que nós precisamos ter noção de que vamos precisar muito da ajuda e da experiência do Egito que organizou a COP-27 em 2022.Meu primeiro compromisso internacional antes mesmo de tomar posse e meu atual mandato foi a COP-27 aqui no Egito, a convite do Presidente Al-Sisi.O comércio bilateral cresce e há espaço para diversificar nosso intercâmbio ainda concentrado em poucos produtos. O Egito é hoje o segundo maior parceiro comercial do Brasil na África, com intercâmbio bilateral que chega a 2,8 bilhões. Nossos países já se beneficiam do acordo Mercosul-Egito, que entrou em vigor em 2017.Para avançar agora na maior integração entre nossos empresários, propus a negociação de acordo de cooperação e facilitação de investimentos.Assinamos nesta visita importantes acordos nas áreas de ciência e tecnologia e agricultura, que contribuirão para o desenvolvimento de áreas estratégicas.A entrada em vigor de acordo no setor aéreo permitirá voos diretos Brasil-Egito e favorecerá maior intercâmbio entre nossos países.Tratamos também da trágica situação humanitária na Faixa de Gaza.De qualquer ângulo que se olhe, a escala da violência cometida contra os 2 milhões de palestinos em Gaza não encontra justificativa.Sempre vimos o Egito como um ator essencial na busca de uma solução para o conflito entre Israel e Palestina.Expressei a gratidão do meu governo ao presidente Al-Sisi pelo seu engajamento pessoal na repatriação dos brasileiros.É urgente estabelecer um cessar-fogo definitivo que permita a prestação de ajuda humanitária sustentável e desimpedida, a imediata e incondicional liberação dos reféns.O Brasil é terminantemente contrário a tentativas de deslocamento forçado do povo palestino.Por esses motivos, entre outros, o Brasil se manifestou em apoio ao processo instaurado na Corte Internacional de Justiça pela África do Sul.Não haverá paz sem um Estado palestino, convivendo lado a lado com Israel, dentro de fronteiras mutuamente acordadas e internacionalmente reconhecidas.Tenho certeza de que hoje estamos inaugurando um novo e importante capítulo de nossas relações bilaterais.Por isso, eu quero agradecer, presidente, o carinho do povo do Egito e o seu carinho pessoalmente.Muito obrigado."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "12": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Pronunciamento do presidente Lula durante jantar com representantes de países árabes e muçulmanos",
+            "subtitulo": "Íntegra do discurso do presidente Luiz Inácio Lula da Silva durante jantar com representantes de países árabes e muçulmanos, em 8 de fevereiro de 2024, em Bras´ília",
+            "data": "08/02/2024",
+            "horario": "12h30",
+            "datatime": "NA",
+            "data_atualizado": [
+                "20/12/2024"
+            ],
+            "horario_atualizado": [
+                "17h30"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/luiz-inacio-lula-da-silva-2023-2026/pronunciamento-do-presidente-lula-durante-jantar-com-representantes-de-paises-arabes-e-muculmanos",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Quero agradecer ao embaixador Ibrahim Mohamed Alzeben, decano de corpo diplomático, pelo convite para este jantar.",
+                "Cumprimento igualmente cada uma das senhoras e senhores embaixadores e representantes dos países árabes e muçulmanos em Brasília.",
+                "Minhas primeiras palavras são de gratidão pela decisão da Fundação Yasser Arafat de me conceder a condição de membro honorário.",
+                "Arafat foi um líder corajoso e determinado, que dedicou sua vida à causa palestina.",
+                "Agraciado com o Prêmio Nobel da Paz, juntamente com Yitzhak Rabin, deixou um legado de dedicação, moderação e persistência que hoje caracteriza a Autoridade Nacional Palestina, na figura do meu amigo Mahmoud Abbas.",
+                "Mais do que uma distinção pessoal, vejo esse gesto da Fundação como uma homenagem aos brasileiros e brasileiras que ao longo de décadas atuaram em prol da estabilidade no Oriente Médio.",
+                "Entre eles estão os funcionários do serviço exterior e das forças armadas que atuaram na operação “Voltando em Paz”, que nos permitiu retirar quase 2 mil brasileiros e seus familiares da zona de conflito e levar alimentos, insumos médicos e purificadores de água para Gaza.",
+                "Nesta noite em que evocamos e celebramos nosso rico patrimônio étnico-cultural, quero transmitir uma mensagem de solidariedade aos que são vítimas de discriminação e preconceito.",
+                "Rechaçamos todas as manifestações de islamofobia e antissemitismo.",
+                "Não podemos permitir que a intolerância religiosa se instale entre nós.",
+                "Árabes, muçulmanos e judeus sempre viveram em perfeita harmonia no Brasil, ajudando a construir o país moderno de hoje.",
+                "Essa convivência harmoniosa é fonte de inspiração para nossa atuação diplomática.",
+                "Ela norteou nossa ação no Conselho de Segurança das Nações Unidas, que integramos até dezembro do ano passado.",
+                "Ela expressa o caráter universalista da nossa política externa e nos leva a buscar parcerias com os países do Sul Global.",
+                "Esse é o espírito com que visitarei em alguns dias o Egito, a Liga Árabe e a Etiópia, dois novos integrantes do BRICS, e participarei da 37ª Cúpula da União Africana.",
+                "Senhoras e senhores,",
+                "Ontem completaram-se quatro meses dos ataques perpetrados pela Hamas.",
+                "Condenamos de forma veemente esses atos terroristas.",
+                "Condenamos com igual veemência a reação desproporcional de Israel.",
+                "Atuei pessoalmente junto a vários chefes de Estado e de Governo em prol do cessar fogo, da libertação dos reféns e da criação de corredores humanitários para a proteção dos civis.",
+                "É chegada a hora de dar uma basta à catástrofe humanitária que se abateu sobre os mais de 2 milhões de palestinos que vivem em Gaza.",
+                "Já são quase 30 mil mortos, em sua maioria crianças, idosos e mulheres indefesas.",
+                "Mais de 80% da população foi objeto de transferência forçada e os sistemas de saúde, de fornecimento de água, energia e alimentos estão em colapso.",
+                "Basta de punição coletiva.",
+                "Por esses motivos, entre outros, o Brasil se manifestou em apoio ao processo instaurado na Corte Internacional de Justiça pela África do Sul.",
+                "As medidas cautelares da Corte devem ser acatadas.",
+                "O Brasil também integra a Comissão Consultiva da Agência das Nações Unidas para os Refugiados Palestinos (UNRWA).",
+                "As recentes denúncias contra funcionários da UNRWA precisam ser devidamente investigadas, mas não podem paralisá-la.",
+                "O Brasil exorta a comunidade internacional a manter e reforçar suas contribuições para o bom funcionamento das suas atividades.",
+                "Meu governo fará aporte adicional de recursos para a Agência.",
+                "Também continuaremos a trabalhar para que a Palestina seja admitida na ONU como membro pleno.",
+                "Senhoras e senhores,",
+                "Há 75 anos o mundo aguarda uma solução para a justa aspiração de um Estado próprio.",
+                "Estejam certos de que o Brasil fará tudo o que estiver ao nosso alcance para que a atual escalada de violência seja rapidamente interrompida",
+                "É urgente a retomada do diálogo entre Israel e a Autoridade Nacional Palestina, com o apoio da comunidade internacional, inclusive países em desenvolvimento.",
+                "É com esse espírito que convido todos a erguerem um brinde à um Estado palestino soberano, economicamente viável, que viva em paz e segurança com Israel.",
+                "Que a paz esteja com todos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "13": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Entrevista concedida pelo presidente Lula a jornalistas na saída de reunião bilateral com o presidente da Guiana, em Georgetown",
+            "subtitulo": "Transcrição de entrevista concedida pelo presidente Luiz Inácio Lula da Silva na saída de reunião bilateral com o presidente da Guiana, Irfaan Ali, em Georgetown",
+            "data": "29/02/2024",
+            "horario": "14h38",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h54"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-entrevistas/luiz-inacio-lula-da-silva-2023-2026/entrevista-concedida-pelo-presidente-lula-a-jornalistas-na-saida-de-reuniao-bilateral-com-o-presidente-da-guiana-em-georgetown",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Presidente Lula: Vocês vão para a CELAC?",
+                "Repórter: Nós não vamos para a CELAC. É que não tem voo direto.",
+                "Presidente Lula: O importante é a CELAC. É lá que nós vamos discutir os grandes problemas do mundo.",
+                "Repórter: O que a gente precisa saber é que havia uma grande expectativa em relação a essa conversa, a portas fechadas, agora, que o senhor teve com o presidente Ali, sobre o que ele está mais preocupado, com essa investida do Nicolás Maduro (presidente da Venezuela), em relação a Essequibo. Em que ponto está essa tratativa?",
+                "Presidente Lula: Deixa eu te dizer uma coisa. Primeiro, a reunião que fiz com o presidente Irfaan não foi a portas fechadas. Foi uma reunião em que participaram muitos ministros, porque foi a inauguração de uma sala que leva o meu nome. Porque, quando vim aqui, há dez anos, caiu o forro e eu estava presente. Não parei a reunião e eles resolveram me homenagear.",
+                "Veja, nós não discutimos a questão de Essequibo. Não discutimos. Por que não discutimos? Porque não é momento de discutir, era uma reunião bilateral para discutir desenvolvimento, discutir investimento. Mas o presidente Irfaan sabe, como sabe o presidente Maduro, que o Brasil está disposto a conversar com eles a hora que for necessário, quando for necessário. Porque queremos convencer as pessoas de que é possível, é possível, através de muito diálogo, a gente encontrar a manutenção da paz.",
+                "Eu não posso, da mesma forma que eu não vou discutir com o presidente Maduro essa questão, porque a reunião não é para isso, eu vou discutir a CELAC, vou encontrar com o Maduro lá. Não preciso discutir. A hora que eles quiserem marcar uma reunião e o presidente Ralph, que é o coordenador, quiser marcar, o Brasil estará totalmente à disposição para participar. Porque o Brasil tem uma decisão de que o mundo não comporta mais atrito. O mundo precisa encontrar paz para a gente poder construir um mundo mais humanitário, um mundo mais solidário, um mundo com menos sofrimento.",
+                "Repórter: Sem tratar da questão de Essequibo, fica claro que o Brasil quer que esse assunto seja esquecido?",
+                "Presidente Lula: Não, o assunto não pode ser esquecido, porque é um assunto quase secular. É um assunto que já tem anos e é um assunto que já passou pela justiça, já passou pela ONU e é um assunto que vai continuar. O que nós vamos trabalhar é para que esse assunto continue sendo motivo de muita conversa, de muito debate e que a gente possa encontrar uma solução da forma mais amigável possível. O que eu estou falando para você, eu vou falar para o presidente Maduro. Já falei para o presidente Maduro. O Brasil vai continuar empenhado para que as coisas aconteçam na maior tranquilidade possível. Se, em 100 anos, não foi possível resolver esse problema, é possível que a gente leve mais algumas décadas. A única coisa que eu tenho certeza é que a violência não resolverá esse problema, criará outros problemas.",
+                "Repórter: O presidente Ali, inclusive, disse que o senhor tem papel crucial na relação aqui da América do Sul, para a estabilidade, racionalidade e paz. O senhor deve levar esse recado para o Maduro também, lá?",
+                "Presidente Lula: Olha, eu acho que é gentileza dele falar isso. Veja, eu tento manter, com os presidentes da América do Sul, desde 2003, uma relação muito irmã, uma relação muito fraterna. Veja, porque eu nunca me preocupo apenas com quem é o presidente de um país, eu respeito todos os presidentes, porque eles foram eleitos pelo povo deles e eu acho que é o povo que decide. Então, não cabe a mim gostar ou não desse ou daquele presidente. Cabe a mim, como presidente do Brasil, permitir que o Estado brasileiro mantenha a relação mais civilizada possível com todos os problemas do mundo. Eu disse isso para o Zelensky, disse isso para o Putin. Eu digo isso para todo mundo, ou seja, é preciso que a gente tenha um pouco mais de paciência para que a gente não gere mais violência. Quando a gente começa a violência, a gente sabe como começa, mas a gente não sabe como termina. Então, é mais fácil recomeçar uma reunião antes da violência do que tentar fazê-la depois. É esse o sinal que o Brasil quer passar para o mundo. Para que a gente volte a ter paz."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "14": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "luiz-inacio-lula-da-silva-2023-2026"
+            ],
+            "titulo": "Entrevista coletiva do presidente Lula durante visita à Etiópia",
+            "subtitulo": "Transcrição integral da entrevista coletiva do presidente da República, Luiz Inácio Lula da Silva, durante visita à Etiópia (África), em 18 de fevereiro de 2024",
+            "data": "18/02/2024",
+            "horario": "10h17",
+            "datatime": "NA",
+            "data_atualizado": [
+                "23/12/2024"
+            ],
+            "horario_atualizado": [
+                "18h54"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-entrevistas/luiz-inacio-lula-da-silva-2023-2026/entrevista-coletiva-do-presidente-lula-durante-visita-a-etiopia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Para mim, essa é uma das viagens mais importantes que eu fiz. E certamente, de todas que farei, essa continua sendo uma reunião extremamente importante, porque eu pude falar para quase que a totalidade dos países africanos de uma única vez. Se eu tivesse que visitar cada país seriam 54 viagens, o que seria impossível fazer até o final do mandato.",
+                "E para mim, falar com os presidentes dos países africanos é sempre um motivo de muito orgulho. Primeiro, porque eu tenho claro — e gostaria que o Brasil tivesse claro — de que nós temos que ter uma relação preferencial com o continente africano. Não só porque o continente africano faz parte da nossa história, faz parte da nossa cultura, faz parte do nosso jeito de ser, do nosso jeito de falar, do nosso jeito de cantar, faz parte da nossa cor, mas também porque o continente africano é um espaço extraordinário de futuro para quem acredita que o Sul Global vai ser a novidade do século XXI na nova economia mundial.",
+                "Quando nós falamos de clima e quando nós falamos de transmissão energética, quando nós falamos de agricultura de baixo carbono, a gente olha o mapa do mundo e a gente vê dois espaços extraordinários: um é no continente latino-americano, dentro do mapa do Brasil, e o outro é no continente africano, com uma quantidade exuberante de milhões de hectares de terras a serem exploradas para que a gente possa conduzir a agricultura saudável que o mundo necessita, a agricultura de baixo carbono que o planeta precisa e também a possibilidade de fazer com que os países africanos, que durante muito tempo foram explorados...",
+                "Eu disse hoje na reunião com um presidente africano que desde a Conferência de Berlim de 1884, quando a África foi dividida para os países do velho continente, para a Inglaterra, para a França, para a Alemanha sobretudo, este continente era um continente autossuficiente na produção dos seus próprios alimentos. Depois do processo de colonização, esses países, muitos deles, deixaram de ser autossuficientes, e hoje dependem de comida que vem dos países colonizadores, o que não tem nenhuma explicação.",
+                "Então, vir à África e dizer aos companheiros africanos e as companheiras africanas que o Brasil não tem tudo, mas o pouco que o Brasil tem, a gente quer compartilhar com o continente africano. A gente quer devolver para eles, em forma de benefício, de possibilidade e de desenvolvimento, aquilo que eles nos deram como força de trabalho durante 350 anos, é um compromisso de fé.",
+                "É um compromisso que a gente tem que assumir cada vez mais, porque acho que para um país em vias de crescimento como o Brasil, um país com possibilidade extraordinária como o Brasil, a gente tem que olhar apenas o nosso comércio com o chamado mundo rico, para a gente perceber que com a maioria dos países considerados ricos da Europa, o nosso comércio bilateral, o fluxo não ultrapassa 8 ou 9 milhões de dólares. E com os países em via de desenvolvimento, o nosso comércio é muito maior (e as possibilidades são enormes). E por isso eu estou muito agradecido de estar vivo, de ter sido eleito presidente da República para voltar ao continente africano e dizer: “nós vamos recomeçar a fazer a política de entrosamento entre o Brasil e o continente africano”.",
+                "Durante séculos, a gente olhou o mapa dos Estados Unidos, a gente olhou para o mapa da Europa e a gente não via nem atrás de nós a América do Sul, nem na nossa frente o continente africano. Era como se pobres não nos interessassem. E como eu estou convencido que os pobres são a solução do mundo contemporâneo, é só dar a eles a oportunidade que eles precisam que a gente vai perceber a sociedade de classe média, que a gente pode criar nesse planeta.",
+                "Uma sociedade sem guerra, uma sociedade sem banalismo, uma sociedade sem fake news, uma sociedade sem xenofobia, uma sociedade sem nenhum tipo de preconceito, em que todos nós sejamos tratados em igualdade de condições.",
+                "Bem, esse mundo está por ser construído e eu acho que a África é um espaço extraordinário para isso.",
+                "Depois, uma coisa extremamente importante, é que não tem explicação para um país do tamanho do Brasil — a gente já teve um fluxo comercial com a Nigéria de 10 bilhões de dólares, hoje esse fluxo é de apenas 1 bilhão e 700 milhões de dólares. Não tem explicação, um país de 200 milhões de habitantes como o Brasil ter relações com a Etiópia de 126 milhões e a gente só tem 23 milhões de dólares de fluxo comercial. Mesmo com o Egito, que é a nossa maior balança comercial na África, são 2 bilhões e 800 milhões de dólares, é muito pouco é muito pouco. Para um país que quer ter voz e vez no mundo, para uns países que querem melhorar o nível de qualidade para os seus filhos, é muito pouco.",
+                "Então, eu vou voltar a dizer os companheiros brasileiros que trabalham nas embaixadas brasileiras, aos nossos companheiros que trabalham na área do comércio, de que nós precisamos voltar a ser mascates, viajar esse mundo, conversar com todas as pessoas necessárias para que a gente possa vender aquilo que o Brasil seja capaz de produzir e para que a gente possa comprar aquilo que os outros países precisam vender ao Brasil e o Brasil precisa.",
+                "É esse mundo que nós precisamos criar, que eu chamo de Sul Global. É esse mundo novo que está em nossa frente, aos nossos olhos. Não tem explicação que a gente não tenha isso na cabeça para a gente fazer os investimentos necessários.",
+                "A questão da transição energética passa pelo Brasil e passa pela África. A questão da produção de alimentos de baixo carbono passa pelo Brasil, pela América Latina e pela África. Então, nós temos que tirar proveito disso para que a gente possa fazer com que o século XXI seja melhor para nós do que foi o século XX. Então a viagem, para mim, ela é muito prazerosa, ela foi muito prazerosa porque a gente pôde saber o prazer e a alegria que as pessoas têm de ver o Brasil voltar a pisar no terreno africano.",
+                "Fazia parecer que o Brasil tinha desaparecido e o Brasil voltou, não apenas por causa do samba, não apenas por causa do Carnaval, mas o Brasil voltou por causa da política. Porque agora o Brasil tem um governo que tem, sabe, relação privilegiada com o continente africano. Não só porque o Brasil precisa economicamente, mas porque o Brasil tem dívidas históricas a pagar com solidariedade e com transferência de conhecimento, sobretudo na questão da agricultura. Por isso, eu saio daqui satisfeito.",
+                "Obviamente que mais um domingo sem ver o Corinthians jogar, nem sei se vai ganhar ou se vai perder porque é com o Palmeiras hoje. Mas, de qualquer forma, depois de um longo e tenebroso inverno de perder tantos jogos seguidos, já ganhamos dois jogos seguidos. Eu volto pro Brasil na expectativa de que quando eu descer no aeroporto o Corinthians tenha ganhado o jogo. E eu posso ser mais feliz ainda.",
+                "No mais, se vocês quiserem fazer uma ou duas perguntas sobre a minha viagem. Se for para perguntar coisa do Brasil, eu queria aconselhar vocês a perguntarem quando a gente retornar para o Brasil. Se for para perguntar coisa da África, pergunte o que quiserem, se não, não vale a pena viajar. A gente viaja para discutir a África e vocês perguntam de São Bernardo do Campo.",
+                "Pergunta de jornalista — Carien du Plessis, do The Africa Report (feita em inglês)",
+                "Presidente Lula — Por muitas vezes as pessoas pensam que eu estou brincando quando eu falo de boca cheia o nome Sul Global. Porque nós já fomos conhecidos pelo planeta afora como os países pobres, depois como países do terceiro mundo, depois como países em vias de desenvolvimento, depois países semidesenvolvidos. E agora somos os países em desenvolvimento. Não senhor, nós agora somos a economia do Sul Global, que queremos nos dar uma chance para que a gente faça com que o Sul Global, que tem parte do que o mundo precisa hoje, possa ocupar o seu espaço na economia, na política e na cultura mundial. Obviamente que os BRICS são uma oportunidade excepcional. Nós achamos que é possível trazer outros países da África para os BRICS. Nós achamos que é possível outros países da África participarem do G20, mas nós estamos apenas começando. Estamos apenas começando e no G20, no Brasil, uma das coisas que nós queremos discutir são as instituições financeiras que existem desde que foram criadas a ONU, tipo FMI e Banco Mundial.",
+                "Se essas instituições vão servir para ajudar a financiar o desenvolvimento dos países pobres ou se essas instituições financeiras vão continuar existindo para sufocar os países pobres. O continente africano, não tenho o número preciso, mas é uma dívida do continente africano da ordem de 860 bilhões de dólares. Ou seja, uma dívida praticamente impagável por vários países. A sugestão nossa é que os fundos que emprestaram esse dinheiro ou as instituições financeiras deveriam levar em conta a necessidade de transformar parte dessa dívida num ativo produtivo para que esse dinheiro, ao invés de voltar para a instituição que emprestou, volte para a construção de uma ferrovia, de uma rodovia, de uma hidroelétrica, de uma termelétrica, ou seja, em alguma coisa que signifique desenvolvimento do continente, que volte para a educação, para uma universidade, um instituto de pesquisa.",
+                "Porque se a gente não mudar, essa será uma grande discussão que nós queremos fazer no G20. As pessoas precisam saber que nós queremos discutir muito o funcionamento das instituições financeiras, e eu estou muito à vontade para falar isso porque quando eu cheguei na Presidência do Brasil, todos vocês são muito jovens, mas se lembram a vergonha que a gente passava quando todo santo ano desciam dois técnicos do FMI para fazer vistoria na contabilidade brasileira. Todo ano.",
+                "Ou seja, um país que era a 12ª economia mundial receber todo ano dois fiscais para saber se a gente estava fazendo as coisas direito ou não. Então vocês sabem que quando eu cheguei a gente devia 30 bilhões para o FMI, a gente não tinha dinheiro para pagar as nossas exportações. Nós em apenas três anos resolvemos isso. Nós pagamos a conta para o FMI, nós reduzimos a credibilidade do Brasil junto às instituições financeiras, que essa é uma discussão que nós temos que fazer. Essas agências de avaliação, é preciso a gente criar uma agência para fazer a agência e para fazer a avaliação dessas agências de avaliação, para ver como elas avaliam os países, para ver qual é a credibilidade delas, qual é a seriedade delas na avaliação que elas fazem dos países, ou a quem que elas estão servindo quando elas fazem determinada avaliação negativa.",
+                "Então, graças a isso, vocês se lembram que em 2005 a China (a Índia) atingiu, pela primeira vez na vida, a reserva de 100 bilhões de dólares. E quando eu vi que a China (que a Índia) tinha feito uma reserva de 100 bilhões de dólares, eu fiquei pensando: “no dia que o Brasil conseguir fazer uma reserva de 100 bilhões de dólares a gente vai estar muito, muito, muito bem colocado na fotografia”. Chegamos a fazer 370 bilhões de dólares de reserva. O Brasil chegou a ser a quarta reserva internacional do mundo.",
+                "Isso permite que o Brasil seja como o Brasil é hoje. Um país que mesmo desgovernado, como foi nos últimos quatro anos, mesmo desgovernado, abandonado, o país tinha sustentação, porque tinha um colchão que dava segurança, àqueles que ainda queriam acreditar para investir no Brasil.",
+                "Então nós queremos discutir isso no G20, nós queremos fazer essa discussão. Vamos convidar os economistas mais importantes do mundo para fazer essa discussão, porque nós precisamos disso. Além disso, nós queremos discutir o funcionamento das Nações Unidas, porque do jeito que está hoje, efetivamente a ONU não representa mais as razões pelas quais ela nasceu, ou seja, ela não consegue resolver nenhum problema e os membros do Conselho de Segurança são os maiores produtores de armas, são os que detém as armas nucleares, são os que têm direito de veto e são os que não cumprem nada do Conselho de Segurança, porque não se submetem ao Conselho de Segurança. Então, se a gente não aproveitar esse momento histórico e discutir esses assuntos, nós nunca vamos discutir.",
+                "Ou seja, eu tenho dito aos companheiros presidentes, que eu tenho conversado, que a gente não tem que esperar a boa vontade de alguém que é fixo hoje no Conselho de Segurança, entender que é hora da gente entrar no Conselho de Segurança. Quem está não quer que ninguém mais entre. Ou seja, quem tem que brigar para entrar somos nós que estamos de fora que queremos construir uma nova geografia mundial balizada na realidade local. A geopolítica é outra diferente de 1945, diferente de 1948, diferente de 50.",
+                "O mundo é outro, então nós precisamos fazer com que haja uma representação mais robusta de mais países.",
+                "Por isso aqui nós defendemos a entrada, pode ter três países da África, pode ter dois da América Latina, pode ter a Índia, pode ter a Alemanha, pode ter o Japão. Nós precisamos colocar mais gente e acabar com o direito de veto na ONU, porque não é possível que um país sozinho possa vetar a aprovação de uma coisa aprovada por todos os membros.",
+                "Então nós estamos construindo um novo mundo, vocês estão lembrados que a gente em 2003 a gente dizia que um outro mundo era possível, outro Brasil era possível. Eu estou acreditando que é possível construir outro mundo. A África é uma parte do mundo que pode crescer muito. Os países ricos precisam acreditar no investimento, que tem que fazer no continente africano.",
+                "E o Brasil, humildemente, quer trazer para a África aquilo que nós podemos trazer, a experiência do sucesso da agricultura brasileira, não é só o sucesso do agronegócio brasileiro. Quando a gente fala do agronegócio brasileiro, a gente tem que lembrar que o Brasil tem 4 milhões e 600 mil propriedades com menos de 100 hectares de terra, que são responsáveis pela produção de quase 80% das coisas que nós consumimos. E é uma agricultura de muita qualidade.",
+                "Então tudo isso a gente pode trazer. Nós aprovamos o nosso programa Mais Alimentos. Nós vamos discutir para ver se a gente pode estender o programa Mais Alimentos para o continente africano, para o continente latino-americano, ou seja, para que os países pobres possam comprar máquinas e implementos agrícolas mais barato, com o financiamento mais longo, para que a gente possa aumentar a produção agrícola dos pequenos e médios produtores.",
+                "Então, é isso.",
+                "E eu acho que, a cada vez que eu venho a África, a cada vez que eu converso com um presidente da África. Eu estava conversando com o presidente da Nigéria. Eu não sei se vocês sabem, no final do século XVI, Lagos tinha 10 mil brasileiros que moravam na cidade de Lagos. Dez mil brasileiros. Tem rua com o nome de coisa do Brasil. O Brasil se afastou da Nigéria. Ou seja, 10 bilhões de comércio, caiu para 1,7 bilhões. 180 bilhões de habitantes lá, 200 no Brasil. E a gente não tem um voo. Não tem um avião que transite entre Lagos e São Paulo. Então nós vamos ter que discutir no Brasil internamente e na África a nossa geopolítica, pra gente não ficar dependendo de alguém que, para ir à Nigéria, ir à Europa para depois descer para a Nigéria, não tem nenhum sentido.",
+                "A Etiópia tem um avião para o Brasil, mas no Brasil não tem avião para a Etiópia. É um contrassenso porque quem deveria ter mais interesse era exatamente o país que pode ter mais indústria, que tem mais tecnologia, sabe, mas lamentavelmente a cabeça do nosso país ainda é uma cabeça muito elitista, muito subordinada à cultura europeia e aos Estados Unidos e não pensa no mundo. Nós queremos pensar, abrir esse mundo para que todos possam participar. É isso.",
+                "Pergunta de jornalista — Boa tarde, senhor presidente. Sou Américo Martins, da CNN Brasil. Eu queria fazer uma pergunta de política internacional. O principal tema neste momento discutido no mundo, é a morte do líder opositor russo Alexei Navalny numa prisão no Círculo Polar Ártico lá na Rússia. Essa foi uma morte que está sendo muito criticada por muitos governos, porque é muito suspeita devido, obviamente, ao histórico de direitos humanos, desrespeito aos direitos humanos e autoritarismo do governo do presidente Putin. Eu queria saber por que o governo brasileiro não se manifestou sobre essa morte até agora e se o senhor avalia que pode sim ser uma morte suspeita ou não.",
+                "Presidente Lula — Eu acho que é uma questão de bom senso. Você acabou de falar. Ou seja, se a morte está sob suspeita, nós temos que primeiro fazer uma investigação para saber porque o cidadão morreu. Vamos acreditar que os médicos legistas vão dizer “o cara morreu disso, daquilo” para você fazer um pré-julgamento. Porque se não você julga agora que foi não sei quem que mandou matar e não foi e depois você vai pedir desculpas. Para que essa pressa de acusar alguém? Sabe quando anos estou esperando o mandante do crime da Marielle. Seis. E não tô com pressa de dizer quem foi, mas eu quero achar. Quando eu achar vou dizer “foi fulano de tal”. Não quero especulação.",
+                "Então, o cidadão morreu numa prisão, eu não sei se ele estava doente, eu não sei se ele tem algum problema, como morreu um cidadão no avião que veio para Etiópia trazer a delegação brasileira. Vocês sabem que um rapaz morreu dentro do avião. A gente vai culpar quem? Tem que fazer a perícia para depois para depois saber o seguinte: “olha, esse cara teve tal coisa e morreu”. Porque se não, é banalizar uma acusação. Eu até compreendo os interesses de quem acusa imediatamente: “foi fulano”. Não é o meu mote. Eu espero que o legista aqui vá fazer o exame diga do que o cidadão morreu. É só isso.",
+                "Pergunta de jornalista — Bom dia, presidente, tudo bem? Renato, da Folha de São Paulo. Presidente, eu preciso perguntar sobre a fuga dos presos de Mossoró. Só queria saber uma avaliação do senhor e se o senhor considera que houve falhas e de quem.",
+                "Presidente Lula — Eu não queria responder sobre o Brasil, mas eu vou responder. Primeiro, a primeira pessoa que disse que estaria fazendo uma sindicância para apurar se houve participação de alguém que trabalhava no presídio de segurança máxima foi o ministro Lewandowski. Dito isso, nós estamos à procura dos presos, esperamos encontrá-los e, obviamente, queremos saber como é que esses cidadãos cavaram um buraco e ninguém viu. Só faltaram contratar uma escavadeira. Eu não quero acusar, mas teoricamente parece que teve a conivência com alguém do sistema lá dentro.",
+                "Como eu não posso acusar ninguém. Eu sou obrigado a acreditar que uma investigação que está sendo feita na polícia local e pela Polícia Federal nos indica amanhã ou depois de amanhã o que aconteceu no prédio de Mossoró. Nós construímos esses presídios desde 2005, é a primeira vez que fogem as pessoas de um presídio. Isso significa que pode ter havido relaxamento e nós vamos saber de quem. Só isso.",
+                "Pergunta de jornalista — Tudo bem, presidente, Lúcia Müzell, da Rádio França Internacional para o Brasil. No Egito o senhor prometeu uma nova ajuda para a agência de refugiados palestinos em Gaza. A gente gostaria de saber de quanto vai ser esta ajuda, quando vai ser e também qual o objetivo do Brasil anunciando esta medida num contexto em que vários países estão suspendendo a ajuda por suspeita de conexões entre funcionários da agência e o grupo Hamas. O senhor criticou inclusive no Egito esta suspensão. Num contexto também que eu gostaria de talvez relacionar com o contexto da Venezuela em que a agência de direitos humanos da Venezuela, da ONU na Venezuela, funcionários estão sendo expulsos de lá, 72 horas para eles saírem. Eu gostaria de saber se o senhor se pronuncia sobre isso também.",
+                "Presidente Lula — Eu não tenho as informações do que está acontecendo na Venezuela, da briga da Venezuela com a ONU. Eu posso responder essa pergunta com precisão quando eu chegar ao Brasil e tiver uma reunião com a política externa brasileira e saber. Mas veja, é muito engraçado! É muito engraçado. Quando eu vejo o mundo rico anunciar que está parando de dar contribuição para a questão humanitária aos palestinos, eu fico imaginando qual é o tamanho da consciência política dessa gente? E qual é o tamanho do coração solidário dessa gente, que não está vendo que na Faixa de Gaza não está acontecendo uma guerra, mas um genocídio! Porque não é uma guerra entre soldados e soldados. É uma guerra entre um exército, altamente preparado, e mulheres e crianças.",
+                "Olha, se teve algum erro nessa instituição que recolhe dinheiro, puna-se quem errou, mas não suspenda a ajuda humanitária para um povo que está há quantas décadas tentando construir o seu Estado. O Brasil não apenas afirmou que vai dar contribuição — eu não posso dizer quanto porque não é o presidente que decide, é preciso ver quem é que cuida disso no governo, para saber quanto é que vai dar — como o Brasil disse que vai defender na ONU a definição do Estado palestino ser reconhecido definitivamente como Estado pleno e soberano.",
+                "É importante lembrar que em 2010 Brasil foi o primeiro país a reconhecer o Estado palestino. Eu preciso parar de ser pequeno quando a gente tem que ser grande. O que está acontecendo na Faixa de Gaza com o povo palestino não existe um nenhum outro momento histórico. Aliás, existiu, quando Hitler resolveu matar os judeus. Então não é possível que a gente possa colocar um tema tão pequeno. Você deixar de ter ajuda humanitária. Quem vai ajudar a construir aquelas casas que foram destruídas? Quem vai restituir a vida de 30 mil pessoas que já morreram? 70 mil que estão feridos? Quem vai devolver a vida das crianças que morreram, sem saber porque estavam morrendo? Isso é pouco para mexer com o senso humanitário dos dirigentes políticos do planeta?",
+                "Então, sinceramente, ou os dirigentes políticos mudam o seu comportamento com relação ao ser humano, ou ser humano vai terminar mudando a classe política. O que está acontecendo no mundo hoje é falta de instância de deliberação. Nós não temos governança! Eu digo todo dia: a invasão do Iraque não passou pelo Conselho de Segurança da ONU. A invasão da Líbia não passou pelo Conselho de Segurança da ONU. A invasão da Ucrânia não passou pelo Conselho de Segurança da ONU. E a chacina de Gaza não passou pelo Conselho de Segurança da ONU.",
+                "Aliás, as decisões tomadas pelo Conselho não foram cumpridas e tampouco foi cumprida a decisão penal tomada agora no processo da África do Sul. O que nós estamos esperando para humanizar o ser humano? É isso que está faltando no mundo. O Brasil continua solidário ao povo palestino. O Brasil condenou o Hamas, mas o Brasil não pode deixar de condenar o que o Exército de Israel está fazendo na Faixa de Gaza.",
+                "Gente, boa viagem para vocês."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "15": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "Declaração à imprensa do Ministro das Relações Exteriores, Mauro Vieira, no local das reuniões do G20, no Rio de Janeiro - 20 de fevereiro de 2024",
+            "subtitulo": "NA",
+            "data": "20/02/2024",
+            "horario": "21h11",
+            "datatime": "NA",
+            "data_atualizado": [
+                "NA"
+            ],
+            "horario_atualizado": [
+                "NA"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/mauro-vieira-2023/declaracao-a-imprensa-do-ministro-das-relacoes-exteriores-mauro-vieira-no-local-das-reunioes-do-g20-no-rio-de-janeiro-20-de-fevereiro-de-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "“As manifestações do titular da chancelaria do governo Netanyahu, de ontem e de hoje, são inaceitáveis na forma, e mentirosas no conteúdo.",
+                "Uma Chancelaria dirigir-se dessa forma a um Chefe de Estado, de um país amigo, o Presidente Lula, é algo insólito e revoltante. Uma Chancelaria recorrer sistematicamente à distorção de declarações e a mentiras é ofensivo e grave. É uma vergonhosa página da história da diplomacia de Israel, com recurso a linguagem chula e irresponsável.",
+                "Estou seguro de que a atitude do governo Netanyahu e sua antidiplomacia não refletem o sentimento da sua população. O povo israelense não merece essa desonestidade, que não está à altura da história de luta e de coragem do povo judeu. Em mais de 50 anos de carreira, nunca vi algo assim.",
+                "Nossa amizade com o povo israelense remonta à formação daquele Estado, e sobreviverá aos ataques do titular da chancelaria de Netanyahu.",
+                "O Ministro Israel Katz distorce posições do Brasil para tentar tirar proveito em política doméstica. Enquanto atacou o nosso país em público, no mesmo dia, na conversa privada com nosso embaixador em Tel Aviv afirmou ter grande respeito pelos brasileiros e pelo Brasil, que definiu como a mais importante nação da América do Sul. Esse respeito não foi demonstrado nas suas manifestações públicas, pelo contrário.",
+                "Não é aceitável que uma autoridade governamental aja dessa forma.",
+                "Além de tentar semear divisões, busca aumentar sua visibilidade no Brasil para lançar uma cortina de fumaça que encubra o real problema do massacre em curso em Gaza, onde 30 mil civis palestinos já morreram, em sua maioria mulheres e crianças, e a população submetida a deslocamento forçado e a punição coletiva. Isso tem levado ao crescente isolamento internacional do governo Netanyahu, fato refletido nas deliberações em andamento na Corte Internacional de Justiça. É este isolamento que o titular da chancelaria israelense tenta esconder. Não entraremos nesse jogo. E não deixaremos de lutar pela proteção das vidas inocentes em risco. É disso que se trata. O embaixador de Israel em Brasília e o governo Netanyahu foram informados de que o Brasil reagirá com diplomacia, mas com toda a firmeza, a qualquer ataque que receber, agora e sempre.”"
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "16": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "entrevistas"
+            ],
+            "autoria": [
+                "mauro-vieira-2023"
+            ],
+            "titulo": "Financiamento a países pobres não pode 'matar o doente', diz Mauro Vieira, que liderará primeira grande reunião no G20 (O Globo, 18/02/2024)",
+            "subtitulo": "O ministro das Relações Exteriores, anfitrião do encontro de chanceleres no evento do grupo de maiores economias do planeta nesta semana, defende foco em reforma de órgãos como FMI e ONU",
+            "data": "18/02/2024",
+            "horario": "04h31",
+            "datatime": "NA",
+            "data_atualizado": [
+                "19/02/2024"
+            ],
+            "horario_atualizado": [
+                "10h44"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/entrevistas-mre/mauro-vieira-2023/financiamento-a-paises-pobres-nao-pode-matar-o-doente-diz-mauro-vieira-que-liderara-primeira-grande-reuniao-no-g20-o-globo-18-02-2024",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicações e Transparência Pública"
+            ],
+            "paragrafos": [
+                "Qual a expectativa do Brasil com a reunião de chanceleres do G20?",
+                "O G20 é um grande evento, um grande acontecimento. E é a primeira vez que o Brasil tem a presidência do grupo. É uma reunião importantíssima de um grupo que ganhou muita importância, porque foi ampliado. Ele se chama G20, mas tem mais de 20, são 21 membros. Nós, na presidência, convidamos mais 8 países e 11 organizações para participar das discussões.",
+                "Qual o foco da reunião de chanceleres?",
+                "O presidente Lula, desde o início do governo, disse que queria dedicar uma atenção especial à promoção de três grandes eixos, que são o combate à pobreza e à fome; a transição energética e o desenvolvimento sustentável; e a reforma na governança global, que será o principal tema dessa reunião e onde a ONU também entra, tanto no Conselho de Segurança como na própria Assembleia Geral. Queremos a modernização e a democratização da ONU, da Organização Mundial do Comércio (OMC) e das instituições de Bretton Woods (FMI e Banco Mundial). Teremos duas reuniões de chanceleres. A primeira este mês e a segunda em setembro, depois da abertura da Assembleia Geral da ONU, em Nova York.",
+                "Espera-se algum resultado em termos de reforma da governança global nesta primeira reunião de chanceleres?",
+                "Essa é uma discussão que será lançada. Cada país vai se manifestar e vamos recolher tudo ao longo do ano. Os países vão poder falar, apresentar suas conclusões e posições, e além dos países-membros do G20, os organismos internacionais. O encontro estará aberto para todos se inscreverem e entregarem algum documento com suas sugestões. A novidade da reunião de Nova York é que ela será aberta também para os países que não são do G20.",
+                "Há apoio do G20 a uma ampla reforma na governança?",
+                "Nas Nações Unidas, tem país que quer, tem país que não quer, assim como na OMC. Eu sempre digo que a arma do Brasil é o multilateralismo. Se você tem uma organização tão importante como a OMC paralisada há tanto tempo, há uma perda significativa. E o Brasil teve vitórias importantes na OMC, não pode deixar de valorizar e de querer ver a organização funcionando outra vez. E também uma reforma dos organismos de Bretton Woods, para que eles sejam instrumentos de apoio, impulso e soluções de endividamento.",
+                "Em que os organismos financeiros como o FMI e o Banco Mundial deveriam mudar?",
+                "Precisam ter menos condicionalidades e exigências. Não digo que é para não ter regras e entregar todos os recursos de qualquer forma, mas terem exigências menores. Tem de haver uma adaptação à necessidade. Não se pode impor uma receita que mata o doente.",
+                "O presidente Lula está na África neste momento. O governo brasileiro conta com o apoio das nações em desenvolvimento no G20?",
+                "Propostas como o combate à fome e à pobreza são de interesse dos países africanos, assim como a transição energética e a reforma dos organismos. A dívida somada dos países africanos é algo assustador, cerca de US$ 1 trilhão. Tem que haver uma reestruturação e um mecanismo que permita uma equação favorável para o crescimento e investimentos. Se for só para pagar a dívida, vai virar uma bola de neve.",
+                "O mundo vive guerras e disputas envolvendo grandes países. É factível encaminhar uma pauta de mudança na governança global com esse cenário?",
+                "Sim. Esses países mencionados estão no G20, que é um ambiente muito importante para o diálogo. As coisas não são resolvidas automaticamente. Não é com uma reunião que as soluções saem, mas é sempre um passo para uma solução a ser aceita por todos. Para o Brasil, o importante não parar de conversar e tomar iniciativas.",
+                "Os debates têm como foco a declaração final que sairá, em novembro, da reunião de líderes do G20, no Rio. É possível ter uma declaração concreta?",
+                "Esperamos ter uma declaração que mostre avanços, que tenha substância e que seja importante. Todas essas reuniões de todas as áreas vão contribuir depois para as discussões dos chefes de Estado.",
+                "Como evitar que a declaração se transforme em uma carta de intenções, sem compromissos?",
+                "Dependerá da vontade das pessoas da mesa. Se quiserem dar um passo adiante, sempre podem. Espero que, na presidência brasileira, haja avanços em várias áreas. Queremos que o G20 promova melhores condições para que os países em desenvolvimento possam avançar e promover o bem-estar das suas populações e a inserção política das pessoas. O lema do Brasil, na presidência brasileira do G20, é construir um mundo mais justo e sustentável.",
+                "Chanceleres do mundo todo estarão no Rio. Temas como Gaza e Ucrânia podem entrar na agenda?",
+                "É uma reunião de ministros do Exterior. São temas que podem ser discutidos. O tema da reunião não é especificamente esse, mas se os ministros se manifestarem, haverá tempo para isso. No corredor, você encontra com um e outro.",
+                "O presidente Lula defende a desdolarização global (usar menos o dólar em trocas comerciais e investimentos). Essa proposta está na reforma da governança?",
+                "Não exatamente dentro da agenda da reforma da governança global, mas em muitos outros foros.",
+                "O senhor fará reuniões com outros chanceleres à margem do encontro?",
+                "Há uma longa lista de pedidos de reuniões bilaterais e, infelizmente, não haverá tempo para todos. Reino Unido, Argentina, França e Noruega pediram."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-02",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}

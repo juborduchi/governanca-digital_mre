@@ -1,0 +1,304 @@
+{
+    "_default": {
+        "1": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "ernesto-araujo"
+            ],
+            "titulo": "Conferência Ministerial \"Eliminar o Fosso Digital: a Resposta Digital à Covid-19\" - 1º de julho de 2020",
+            "subtitulo": "NA",
+            "data": "01/07/2020",
+            "horario": "17h58",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "18h11"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/conferencia-ministerial-close-the-digital-divides-the-digital-response-to-covid-19-1-de-julho-de-2020",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "[tradução para português]:",
+                "Muito obrigado, Sr. Viik. Em primeiro lugar, gostaria de parabenizar a Estônia e Singapura, em especial o ministro Reinsalu e o ministro Balakrishnan, por terem convocado esta conferência sobre a resposta digital à Covid-19.",
+                "O Brasil está moldando uma economia próspera, mas hoje a tecnologia digital também é essencial para nossa vibrante democracia. Nesse sentido, acreditamos firmemente que a liberdade da Internet e a liberdade de expressão são absolutamente fundamentais em uma sociedade democrática, e que a proteção e o aprimoramento da liberdade da Internet são a resposta digital mais fundamental para a Covid-19. A população do Brasil é uma das mais conectadas no mundo: 99,2% das famílias têm acesso à Internet por telefone celular e 57% das empresas vendem bens ou serviços online. O Brasil está transformando sua governança com tecnologias digitais, com o ambicioso objetivo de disponibilizar digitalmente todos os serviços públicos - mais de 3 mil serviços - até 2022.",
+                "A atual crise da Covid-19 aumentou ainda mais o papel de uma infraestrutura digital robusta e da digitalização generalizada dos serviços. Implementamos diversas medidas para manter o Brasil conectado durante a pandemia de coronavírus, principalmente para garantir a disponibilidade de serviços de telecomunicações e de acesso à Internet para todos. Por exemplo: um serviço de validação digital de documentos, que permite a médicos, pacientes e farmacêuticos trabalharem 100% online e trocarem documentos com segurança. [Outro exemplo é] o fornecimento de conectividade aprimorada a mais de 14 mil unidades de saúde pública, hospitais, centros de saúde e demais serviços essenciais, além da otimização do gerenciamento coordenado de rede entre os provedores de serviços para garantir o máximo de tráfego na Internet, inclusive para “home offices” e ensino à distância. Destaco, também, um importante sistema de pagamentos eletrônicos, que permitiu que 50 milhões de brasileiros, especialmente os mais vulneráveis, recebessem um benefício de emergência por 3 meses, o qual acaba de ser estendido por igual período.",
+                "De fato, as tecnologias digitais são fundamentais para o processo de recuperação econômica, o que nos permitirá salvar empregos e meios de subsistência e, em última instância, também salvar vidas e os nossos serviços de saúde. As transações eletrônicas aumentaram impressionantes 20% nos últimos dois meses em relação ao ano passado. Isso indica que, no mundo pós-Covid-19, é evidente que a economia digital será substancialmente mais importante do que antes da pandemia, e isso deve ser levado em consideração em todas as políticas, não apenas nas políticas econômicas. Deve também ser levado em consideração em nossa abordagem da própria estrutura de nossas sociedades, do tipo de sociedade em que queremos viver.",
+                "A liberdade da Internet será ainda mais crucial do que antes. O poder da informação para criar riqueza, mas também para criar significado para a vida das pessoas, só pode ser conquistado através da Internet livre. A Internet deve manter e aprimorar seu papel como ferramenta não apenas para criar prosperidade, mas, também, para promover a democracia. O processo de globalização dos últimos 30 anos estava cego para a questão da democracia. Esse foi um erro trágico. E a crise causada pela Covid-19 pode ser uma oportunidade para lidar com ele e corrigi-lo. Isso se aplica especialmente ao mundo digital, uma vez que as tecnologias digitais podem ser o principal instrumento de liberdade, por um lado, mas também o principal instrumento de controle social totalitário, por outro. Temos que usar essa oportunidade para criar valor, para criar liberdade e enfrentar a ameaça do totalitarismo. Podemos emergir dessa pandemia não apenas melhores, mais fortes e mais iguais, como foi mencionado aqui, mas também mais livres.",
+                "Vamos trabalhar para esse objetivo. O fosso digital não é apenas uma questão de acesso a infraestrutura, serviços e dispositivos digitais, mas, também, ao conteúdo e às liberdades básicas, especialmente a liberdade de expressão. Esse debate é urgente.",
+                "Muito obrigado.",
+                "Ministerial conference 'Close the Digital Divides: the Digital Response to COVID-19' - July 1st, 2020",
+                "Thank you very much, Mr. Viik. Let me first of all congratulate Estonia and Singapore and especially Minister Reinsalu and Minister Balakrishnan for convening this conference on the digital response to Covid19.",
+                "Brazil is shaping a thriving economy but digital technology are today also essential for our vibrant democracy. In that sense, we firmly believe that Internet freedom and freedom of expression are absolutely fundamental in a democratic society and that protection and enhancement of Internet freedom are the most fundamental digital response to Covid 19. Brazil’s population is one of the most connected in the world; 99.2% of households have Internet access via cell phone and 57% of businesses sell goods or services over the Web. Brazil is transforming its governance with digital technologies, with the ambitious goal of making all public services, more than 3 thousand services, digitally available by 2022.",
+                "The current Covid 19 crisis has further increased the role of a robust digital infrastructure and for the widespread digitalization of services. We implemented several measures in order to keep Brazil connected during the coronavirus pandemic, in particular to ensure the availability of telecommunication services and Internet access to all. For example: a digital document validation service, which allows doctors, patients and pharmacists to work 100% online with safety in the exchange of documents. The provision of improved connectivity to over 14 thousand public health units, hospitals and healthcare centers as well as essential services, and the optimization of coordinated network management among service providers to ensure maximum Internet traffic, including for home offices and distance learning. Also, and very importantly, a system of electronic payments, which has allowed 50 million Brazilians, especially the most vulnerable, to receive an emergency benefit for 3 months, just extended for 3 more.",
+                "Indeed, digital technologies are key to the process of economic recovery, which will allow us to save jobs and livelihoods and ultimately also to save lives as much as the health services. Electronic transactions in the last two months have increased by an impressive 20% over last year. This indicates that in the post-Covid world, it is obvious that the digital economy will be substantively more important than even before the pandemic, and this must be taken into account in all policies, no only in economic policies, and it must be taken into account in our approach to the very structure of our societies, the kind of societies we will want to live in.",
+                "Internet freedom will be even more crucial than before. The power of information to create wealth, but also to create meaning for people’s lives can only be unleashed through free Internet. The Internet must keep and enhance its role as a tool not only to create prosperity but also to promote democracy. The globalization process of the last 30 years was blind to the question of democracy. This has been a tragic mistake. And the covid crisis can be an opportunity to address it and to correct it. In the digital world, this is particularly the case. As digital technologies can be the main instrument for freedom, on the one hand, but also, the main instrument for totalitarian social control, on the other. We have to use that opportunity to create value, to create freedom and to face the threat of totalitarianism. We can emerge from this pandemic not only better, stronger and more equal as was mentioned here, but also freer.",
+                "Let’s work towards that goal. The digital divide is not only a question of access to digital infrastructure, services and devices, but also access to contents and to basic freedoms, especially the freedom of expression. This debate is urgent.",
+                "Thank you very much."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2020-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "2": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "ernesto-araujo"
+            ],
+            "titulo": "Intervenção do Ministro Ernesto Araújo na LVI Reunião Ordinária do Conselho do Mercado Comum (CMC)",
+            "subtitulo": "NA",
+            "data": "02/07/2020",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "26/06/2023"
+            ],
+            "horario_atualizado": [
+                "11h07"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/intervencao-do-ministro-ernesto-araujo-na-lvi-reuniao-ordinaria-do-conselho-do-mercado-comum-cmc",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "NA"
+            ],
+            "paragrafos": [
+                "Intervenção do senhor Ministro das Relações Exteriores Ernesto Araújo na LVI Reunião Ordinária do Conselho do Mercado Comum (presidência pro tempore paraguaia do MERCOSUL), sessão matutina",
+                "(Videoconferência, quarta-feira, dia 1º/07/2020, das 10h às 12h)",
+                "Embaixador Antonio Rivas Palacios, ministro das Relações Exteriores do Paraguai, no exercício da presidência pro tempore do Conselho do Mercado Comum,",
+                "Chanceler Ernesto Talvi, ministro das Relações Exteriores do Uruguai,",
+                "Chanceler Felipe Solá, ministro das Relações Exteriores, Comércio Internacional e Culto da República Argentina,",
+                "Ministro Benigno López Benítez, ministro da Fazenda do Paraguai, em nome de quem cumprimento todos os demais ministros membros deste Conselho,",
+                "Senhores coordenadores nacionais do Grupo Mercado Comum,",
+                "Senhoras e Senhores parlamentares do PARLASUL,",
+                "Senhora Fernanda Monti, diretora da Secretaria do MERCOSUL, em nome de quem saúdo aos funcionários do MERCOSUL,",
+                "(...)",
+                "Senhoras e senhores,",
+                "Agradeço à presidência pro tempore paraguaia a convocação desta reunião do Conselho do Mercado Comum e a apresentação do relatório semestral de atividades do MERCOSUL.",
+                "Chanceler Antonio Rivas, querido amigo, felicito-o e a toda sua equipe pela eficiente condução dos trabalhos do MERCOSUL ao longo do semestre recém-encerrado, diante de tantos desafios sem precedentes.",
+                "Gostaria de estar presente pessoalmente para poder apertar a mão e dar um abraço aos queridos colegas, chanceleres também, o Ernesto Talvi e amigos, Ernesto Talvi e Felipe Solá. Assim como chanceler Antonio Rivas.",
+                "As atividades do MERCOSUL infelizmente sofreram as consequências das restrições a que fomos todos submetidos pela pandemia.",
+                "É uma situação realmente dramática – pelo sofrimento e pelas mortes que a COVID tem causado e pelo impacto verdadeiramente destrutivo sobre a economia.",
+                "O Brasil tem buscado conciliar ações de combate à pandemia e a retomada com segurança da atividade econômica. A evolução da doença em vários países, com distintos níveis de desenvolvimento, mostra que não há receitas modelo. As respostas precisam adaptar-se às distintas realidades e à evolução da pandemia em cada país. No caso do Brasil, às diferentes realidades regionais e locais. Gostaria de recordar que no nosso sistema e conforme decidido pela própria Suprema Corte brasileira, coube e cabe aos estados da federação a determinação das medidas de contenção da pandemia com quarentenas, etc. Ao governo federal tem cabido, sobretudo, a tarefa de preservar o nível de atividade econômica, além de apoiar a preservação da saúde em todos os Estados através do nosso sistema de saúde.",
+                "Recordo que o governo federal brasileiro injetou mais de 15% do produto interno bruto na economia após o início da pandemia. Mais de 200 bilhões de dólares gerando demanda, uma demanda que empate, se tem comunicado aos nossos parceiros do MERCOSUL pela via do comércio de tal forma que tem também contribuído para o nível de atividade econômica dos demais países do bloco.",
+                "No MERCOSUL, conseguimos, sob a liderança do Paraguai, preservar as atividades essenciais do bloco. Além disso, ainda que de forma modesta, executamos iniciativas no enfrentamento da COVID-19.",
+                "Caros colegas, amigos",
+                "Desde o início do governo do presidente Jair Bolsonaro, o Brasil tem defendido um MERCOSUL que esteja inequivocamente identificado com os princípios da democracia e da liberdade.",
+                "Um MERCOSUL que seja instrumento de progresso e prosperidade para os nossos povos.",
+                "Um MERCOSUL que cumpra efetivamente seu papel de plataforma para uma inserção mais vantajosa das nossas economias na região e no mundo.",
+                "Que traga resultados concretos para os nossos cidadãos e seja percebido por eles como um bem tangível.",
+                "Mesmo com todas as dificuldades e mudanças de cenário trazidas pela pandemia da COVID-19, o Brasil continua acreditando que os desafios lançados em janeiro de 2019 continuam válidos, e não podemos perder o rumo.",
+                "O processo de integração havia passado anos derrapando. Poucos foram os resultados, até o ano passado, e muitos, muitas pessoas no Brasil e nos demais países membros do MERCOSUL questionaram o sentido e a razão de ser do bloco. De motor de integração o projeto havia passado a ser visto como símbolo de imobilismo e de atraso. Como um modelo ultrapassado e imperfeito.",
+                "Em 2019, ao longo de 2019, mudamos o sinal do MERCOSUL. Mudamos a realidade e a imagem do MERCOSUL no mundo e diante de nossas sociedades.",
+                "A aceleração das negociações externas, com a conclusão das negociações com a União Europeia e EFTA, mostrou aos nossos empresários, à nossa opinião pública e ao mundo que o MERCOSUL estava finalmente pronto para fazer parte da grande rede de acordos comerciais que rege e pauta o comércio internacional de bens e serviços. Que o MERCOSUL era capaz de atuar de forma coordenada e eficiente para negociar acordos de última geração. E que o nosso bloco havia finalmente entendido que o comércio é uma via de mão dupla: onde não se abrem novos mercados nem se criam novas oportunidades, sem oferecer algum grau de reciprocidade. Além disso, firmamos o conceito de que um acordo comercial não serve apenas para abertura de mercados, mas também para atração de investimentos e o reposicionamento de nossos países nas cadeias globais de produção. Um desafio ainda mais presente nos dias de hoje.",
+                "Agora neste primeiro semestre de 2020, apesar de todas as dificuldades, creio que o balanço continua sendo positivo.",
+                "Conseguimos, com cooperação e com flexibilidade, fechar quase todas as pendências das negociações com a União Europeia. Faltam muitos poucos elementos em termos de revisão legal e outros detalhes do acordo. E espero, muito sinceramente, que nossos coordenadores nacionais sejam capazes de fechar o texto do acordo e seus anexos com os negociadores europeus logo após o recesso de verão do hemisfério norte. Dessa forma, será possível buscar a assinatura do acordo durante a presidência uruguaia no MERCOSUL e alemã da União Europeia.",
+                "O Brasil também espera que sejamos capazes de concluir o que falta para finalmente assinar o acordo com os membros do EFTA. Depois disso, passaremos para fase de ratificação dos acordos. E estamos seguros de que, embora complexa como é a de qualquer grande acordo comercial, essa ratificação será obtida tanto em nossos países quanto nos países europeus, uma vez que os acordos, ambos esses acordos, teriam vantagens para todos, o que será certamente percebido por todos os parlamentos envolvidos.",
+                "Nas demais negociações, o ritmo imposto pela pandemia nos deu mais tempo para definir entre nós o modus operandi do bloco.",
+                "Como já declaramos em repetidas ocasiões, o Brasil não tem problemas com o conceito de flexibilidade, nem com a ideia de atualizar o MERCOSUL para responder aos distintos interesses e realidades de seus membros.",
+                "Nossos técnicos precisam encontrar caminhos para as dificuldades que se apresentam nessas discussões, pois é vital que retomemos o quanto antes a normalidade das negociações externas o quanto antes, para o que contamos, a partir deste momento, assim como contamos no primeiro semestre com a presidência paraguaia, com a presidência entrante do Uruguai.",
+                "Precisamos apresentar, o mais breve possível, as propostas de negociação com países da América Central e Caribe, nova fronteira regional da nossa liberalização comercial. E precisamos, também, tornar mais concreta a agenda de aproximação com a Aliança do Pacífico.",
+                "Em relação aos parceiros extra-regionais, queremos avançar nas negociações com Canadá, Líbano, Singapura e Coreia. Queremos dar por concluídos os diálogos exploratórios com Vietnã e Indonésia até o final do ano. Ainda em 2020, o Brasil quer expandir o acordo comercial atualmente em vigor com Israel, que já conta com ampla cobertura, e também retomar as discussões com a Índia, em busca de uma expansão significativa daquele acordo.",
+                "O momento é este e necessitamos encontrar para aproveitar as gigantescas oportunidades que estão surgindo para os nossos países na nova estrutura da economia mundial, que surge com a pandemia e após o fim da pandemia.",
+                "Caros colegas,",
+                "Se no plano externo o MERCOSUL recebeu o impulso renovador que precisava, no plano interno, os desafios permanecem. Está na hora de dar sinais claros de que somos capazes de superar os obstáculos.",
+                "Por esse motivo, noto com satisfação que, apesar de nossas diferenças, fomos capazes de preservar o trabalho de revisão da Tarifa Externa Comum. É urgente rever, simplificar e harmonizar a TEC. Devemos realizar as reduções possíveis, para que o MERCOSUL deixe de ser um dos campeões mundiais de tarifas altas.",
+                "Também temos que completar a revisão do Regime de Origem do MERCOSUL, com sua simplificação e adequação desse regime aos acordos comerciais recentemente concluídos.",
+                "Tivemos desdobramentos positivos no processo de adequação do setor automotivo à União Aduaneira. Essa tarefa está sendo facilitada pela densificação da rede de acordos bilaterais nesse setor entre os estados partes. Nos últimos seis meses, entrou em vigor o novo acordo entre o Brasil e a Argentina, e concluiu-se o acordo inédito entre o Brasil e o Paraguai.",
+                "Outro avanço digno de nota é a retomada das atividades sobre o setor açucareiro, visto que não se conversava a esse respeito há quase 20 anos. E conversar sobre esse tema já é um bom início. A falta de disposição sequer para conversar era um sintoma muito negativo para o bloco.",
+                "Como eu disse há pouco, o Brasil considera que a agenda de abertura do MERCOSUL ao mundo, e de modernização interna do bloco, continua sendo o melhor caminho para enfrentar os desafios de desenvolvimento dos nossos países. A chegada da pandemia simplesmente intensifica essa necessidade de transformação.",
+                "Todos queremos manter mercados abertos, criar novas oportunidades para nossas economias. Sinalizar que estamos prontos para integrar cadeias regionais e globais de valor que serão transformadas e já estão sendo reconfiguradas. Os desafios domésticos que enfrentamos em nossas economias têm que ser equacionados com mais comércio e investimentos entre nós e com o mundo, e mediante a adoção de regras mais simples e modernas, e não o contrário.",
+                "Fizemos bastante no contexto da pandemia. Fomos capazes de aportar quase US$ 15 milhões para projeto do FOCEM destinado a reforçar a capacidade dos nossos laboratórios para realizar testes de covid-19. Foi medida ágil e oportuna, que demonstrou a utilidade de contarmos com esse instrumento financeiro ao qual o Brasil se orgulha de contribuir com 70% dos seus fundos. Na integração bilateral, também importante nesse contexto, permito-me destacar o início da construção de 2 novas pontes entre o Brasil e o Paraguai, financiadas pela empresa Itaipu e nacional, no contexto da necessária ampliação da integração de infraestrutura entre nossos países.",
+                "Acho que a integração, entre quaisquer dois países do MERCOSUL, beneficia a todos nesse terreno da infraestrutura, dada a estrutura de circulação de mercadorias entre nós.",
+                "Mas estou certo de que a melhor contribuição que o MERCOSUL pode dar ao enfrentamento da pandemia e suas consequências se dá nas negociações comerciais, capazes de gerar crescimento, riqueza e emprego.",
+                "As consequências da epidemia acentuaram a importância das tecnologias modernas de comunicação para a vida em sociedade, como estamos vendo aqui nessa reunião. O MERCOSUL só pôde continuar a funcionar devido ao uso maciço das videoconferências. É urgente, portanto, acelerarmos a adoção de medidas que estimulem e tornem mais fácil e seguro o recurso a tais instrumentos de comunicação.",
+                "Nessa mesma linha de valorizar as novas tecnologias e as novas fronteiras da inovação, ressalto a importância de concluirmos com a possível brevidade a negociação do nosso acordo de comércio eletrônico. Seria muito positivo também intensificar a implementação da Agenda Digital do MERCOSUL. O comércio eletrônico está-se mostrando absolutamente essencial para a manutenção de níveis mínimos de atividade econômica e certamente será para uma robusta recuperação econômica. Essa dimensão do comércio, já tão importante antes, será, estamos seguros, absolutamente decisiva, no enfrentamento da crise econômica e na superação da crise econômica gerada pela pandemia. Precisamos responder a esse novo desafio. Apenas para dar um exemplo, nos meses de maio e junho, as vendas de comércio eletrônico no Brasil foram 20% superiores ao mesmo período de 2019, para dar uma ideia da dimensão do crescimento desse mercado.",
+                "Na frente institucional, a plena implementação da assinatura digital – que entrou em vigor este ano – dará maior agilidade ao processo decisório do bloco. Mas não podemos parar por aí. Em 2019, colhemos importantes resultados de reforma institucional. Devemos preservar e perseverar em tais esforços, para lograr um MERCOSUL mais eficiente e coerente, fazendo mais com menos, que produza resultados e economize recursos dos nossos povos que pagam impostos e esperam eficiência no uso desses recursos.",
+                "Senhoras e senhores membros do Conselho,",
+                "Termino minha intervenção com os outros dois outros pilares que, além de nossa agenda econômica e comercial, sustentam nosso bloco.",
+                "O pilar do MERCOSUL cidadão. O das medidas que tocam diretamente a vida das pessoas, primeiramente. Na Cúpula de Bento Gonçalves, fomos capazes de gerar vários avanços, particularmente na cooperação fronteiriça em segurança, educação e saúde. Agora, creio que o desafio imediato será o de buscar medidas de reação aos efeitos da pandemia.",
+                "Já temos, por exemplo, uma experiência bilateral muito exitosa com o Uruguai na fronteira, e talvez seja possível pensar em outras iniciativas nessa linha, ou que digam respeito à reativação das atividades econômicas.",
+                "Outro pilar que sustenta o MERCOSUL é o da democracia. Hoje, a Venezuela constitui, sem sombra de dúvida, o principal desafio para nossa região nessa dimensão. Isso apesar dos ingentes esforços que temos feito para contribuir para a transição democrática naquele país e para o fim da tirania que o assola. É um desafio que o Brasil continuará a encarar com sentido de prioridade. E é, infelizmente, um desafio que o MERCOSUL até aqui não conseguiu encarar como bloco.",
+                "Também lamento que um país candidato em processo de adesão, que é a Bolívia, tenha sofrido a impossibilidade de participar dos trabalhos do bloco ao longo deste primeiro semestre. O Brasil espera que essa situação possa ser logo revertida.",
+                "Ao concluir, quero expressar ao governo do Uruguai meus votos de êxito na condução dos trabalhos deste colegiado ao longo do próximo semestre. O governo brasileiro estará à disposição para prestar a máxima colaboração a suas iniciativas, que, estou certo, buscarão dar pleno cumprimento aos propósitos para os quais o MERCOSUL foi criado.",
+                "Muito obrigado!",
+                "",
+                "Intervenção do senhor Ministro das Relações Exteriores Ernesto Araújo na LVI Reunião Ordinária do Conselho do Mercado Comum (presidência pro tempore paraguaia do MERCOSUL), sessão vespertina",
+                "(Videoconferência, quarta-feira, dia 1º/07/2020, das 15h às 18h)",
+                "Muito obrigado senhor chanceler Antonio Rivas. Senhores chanceleres, ministros, outras autoridades, senhoras e senhores,",
+                "Vivemos aqui um momento particularmente desafiador para os processos de integração regional. Sabemos que muitas das soluções para os problemas que enfrentamos no momento e no futuro próximo terão que ser conjuntas, baseadas na cooperação. Num primeiro momento, perante a ameaça inédita da COVID-19, tivemos que reagir individualmente, de forma isolada, para responder, de forma rápida, aos desafios existentes em cada um de nossos países. Não houve tempo para respostas coordenadas ou para negociar soluções comuns. E foi preciso privilegiar as prioridades internas. Isso é perfeitamente compreensível e não deve ser motivo para que diminuamos nosso empenho em trabalhar juntos.",
+                "No caso específico do MERCOSUL, nós, os países membros, apesar das respostas individuais e nacionais, e de forma coerente com elas, mantivemos reunião presidencial extraordinária do bloco, ocasião em que discutimos como responder à pandemia e, logo em seguida e com grande destaque, acordamos destinar quinze milhões de dólares do FOCEM aos esforços nacionais de combate a pandemia.",
+                "Outro exemplo que demonstra a nossa capacidade de resposta e o potencial da cooperação regional foi o processo de repatriação de nacionais. Graças ao diálogo e à cooperação, conseguimos unir esforços e trazer mais nacionais de volta para casa, das mais diferentes origens. Foi um processo muito bem-sucedido de multiplicação de recursos existentes.",
+                "No caso do Brasil, já foram mais de 33 mil brasileiros repatriados do exterior, muitos dos quais originários de países da região que representamos. Também apoiamos o retorno de milhares de nacionais de outros países da região, que se encontravam no Brasil ou que necessitavam passar pelo nosso território em trânsito rumo aos seus países. O Brasil, lembro, foi dos países que mais tempo deixou suas fronteiras abertas, seus aeroportos abertos, facilitando o processo de repatriação de cidadãos de países amigos.",
+                "Tivemos, também, várias experiências de cooperação na fronteira. Em alguns casos, a partir do contato direto de nossas autoridades locais, para enfrentar problemas urgentes e muito específicos. Em outros casos, resultado de contatos diretos entre nossas chancelarias. Eu pessoalmente tive o prazer de coordenar com vários dos chanceleres dos países aqui presentes e sob diferentes aspectos dessa cooperação com os países fronteiriços e igual com Chile, país com o qual não compartilhamos fronteira mas o qual tivemos excelente cooperação no nível de chanceleres. E aqui saúdo o chanceler Teodoro Ribera que veio aqui, igualmente com a Bolívia também queria saudar a chanceler Karen Longaric e todos os demais chanceleres do MERCOSUL, dos países membros propriamente. O importante foi sempre para nós manter a capacidade de responder as emergências com criatividade e flexibilidade, como soubemos fazer, no caso do Brasil, perante pedidos de países vizinhos para que, por exemplo, doentes graves viessem fazer tratamentos médicos nos hospitais do Brasil.",
+                "Portanto, o Brasil já estruturou diálogos bilaterais sobre cooperação fronteiriça para lidar com os temas da COVID-19 com vários dos países aqui presentes: Colômbia, Peru e Uruguai. E resolvemos questões específicas relativas aos temas da repatriação com Argentina, Paraguai e vários outros países. No caso específico de Argentina e Paraguai durante a pandemia, fomos capazes de resolver em conjunto questões relativas à crise hídrica, com impacto importante, tanto a resposta específica à pandemia, como para superar a crise econômica. Em termos regionais, realizamos também várias reuniões com os países membros do PROSUL, sob a coordenação chilena, mostrando que esse órgão de integração regional já começa a comprovar sua utilidade.",
+                "Estou certo de que a nossa cooperação e coordenação só vão aumentar, e espero que, no tema central da vacina, o Brasil possa também prestar cooperação a partir de seus centros de excelência.",
+                "Caros colegas,",
+                "O elevado estado de liberalização comercial na América do Sul constitui importante esteio para que a nossa região atravesse em melhores condições a crise econômica e mundial em curso. Para fazer frente aos desafios que se desenham, é necessário manter a dinâmica de modernização dos nossos acordos regionais de comércio e fortalecer a integração com o resto do mundo.",
+                "A recuperação econômica se beneficiará do crescimento do nosso comércio e dos investimentos, da diversificação das exportações e da nossa integração às cadeias regionais e globais de valor.",
+                "Na América Latina e Caribe, seguimos aprofundando nossa rede de acordos, seja por meio da expansão daqueles que já possuímos enquanto MERCOSUL, seja negociando novos acordos pela via bilateral.",
+                "Por exemplo, os congressos do Brasil e do Chile já estão analisando o acordo de livre comércio bilateral, firmado em 2018. Trabalhamos para que esteja vigente nos próximos meses e possa constituir elemento adicional de apoio ao enfrentamento dos desafios econômicos desses meses. É o nosso acordo mais abrangente e moderno de matérias não tarifárias, que desejamos sirva de exemplo para outras negociações do Brasil com países da região.",
+                "O Brasil e o MERCOSUL também apostam na aproximação com a Aliança do Pacífico. Queremos reforçar a dimensão negociadora dessa parceria, que possa traduzir em ganhos concretos as discussões dos encontros técnicos nas várias áreas da agenda entre os blocos. O Brasil também está empenhado em concluir um acordo de livre comércio com o México, o que decerto produzirá sinergias muito significativas na relação com a Aliança do Pacífico.",
+                "Outra prioridade é a negociação de acordos de livre comércio com países da América Central e Caribe interessados na agenda de abertura e de integração comercial. Desejamos também aumentar os vínculos com a Guiana e o Suriname, com os quais hoje o Brasil possui hoje acordos apenas limitados.",
+                "Quero saudar o dinamismo que a PPTP soube imprimir aos trabalhos, em condições que estavam longe de ser as ideais. Nesse semestre que acabou, muitas das instâncias do MERCOSUL ampliado mantiveram seu cronograma de reuniões, tendo contado com o engajamento dos países associados.",
+                "É fundamental dar seguimento às atividades das reuniões de ministros e reuniões especializadas, responsáveis por temas que impactam diretamente a vida do cidadão.",
+                "Durante a nossa presidência pro tempore, insistimos na necessidade de orientar nossos trabalhos nesta direção: produzir resultados que sejam percebidos pelas pessoas como uma contribuição positiva do MERCOSUL em suas vidas.",
+                "Ao longo de 2019, fomos capazes de alcançar diversos acordos em temas tão diversos como roaming de celulares e a cooperação policial, que atendiam àquele requisito, de serem relevantes para as pessoas.",
+                "Quero sublinhar a importância que o Brasil atribui ao plano de ação do MERCOSUL de combate à corrupção, que desejamos poder adotar no futuro próximo. Trata-se de tema fundamental, que se beneficiará muito da participação dos estados associados, no momento oportuno.",
+                "Para o Brasil, um MERCOSUL alinhado às nossas prioridades nacionais deve seguir nesse caminho, em sintonia com as necessidades concretas dos nossos cidadãos.",
+                "A pandemia do COVID-19 e a necessidade de adoção de medidas de isolamento social também trazem desafios à vida democrática, demandando cuidados especiais nos processos eleitorais por exemplo. A democracia, como não nos cansamos de reiterar, é um pilar fundamental do MERCOSUL, condição essencial para a participação no bloco. Devemos assegurar que a vida democrática siga sem perturbações.",
+                "Nesse contexto, não podemos deixar de notar que, uma vez mais, nos reunimos sem a participação dos nossos irmãos venezuelanos. É o sinal da persistência da intolerável situação de ditadura vivida naquele país. Ansiamos pelo dia em que voltaremos a contar com uma Venezuela democrática aqui nessa mesa.",
+                "O MERCOSUL, a América do Sul, toda a América Latina tem a vocação de construir um grande espaço democrático, com sociedades livres, dinâmicas, criativas e também um espaço de prosperidade, com economias competitivas e inclusivas. Realizar essa vocação é um permanente desafio para todos nós, pois lamentavelmente, existem na região forças que trabalham em sentido contrário, trabalham com sistemas geradores de pobreza, sistemas geradores de corrupção, baseados no narcotráfico, no crime organizado e no terrorismo. Necessitando estar conscientes, daquela vocação e desse desafio. O momento da pandemia, não nos deve fazer esquecer essa vocação da nossa região, essa é a nossa fortaleza.",
+                "Hoje, neste momento, o mundo está se reestruturando, não mais sobre um eixo único, como foi o caso durante trinta anos, no eixo econômico. Mas agora sobre dois eixos: o eixo econômico e o eixo democrático. A América Latina, na sua vocação democrática pode contribuir muito para esse mundo que surge onde prosperidade e liberdade se unirão.",
+                "O Brasil trabalha hoje, em todos os foros, em jornais internacionais, plurilaterais, multilaterais, econômicos ou políticos para que o mundo pós pandemia seja um mundo com mais liberdade e não menos. Um mundo com mais oportunidade de pleno desenvolvimento humano e não menos. Seguiremos nessa linha. Queremos seguir em todos os âmbitos, combatendo a corrupção, o crime, o totalitarismo, defendendo a liberdade, inclusive a liberdade de expressão e a dignidade humana.",
+                "Caros colegas,",
+                "Ao terminar minhas palavras, quero fazer votos de muito êxito ao Uruguai nos trabalhos durante o próximo semestre e dizer que podem contar com o apoio do Brasil para que alcancemos juntos esse MERCOSUL que ambicionamos para nossos povos e essa América Latina plenamente consciente da sua vocação democrática.",
+                "A todos os colegas, foi um prazer revê-los aqui e faço votos de que a nossa próxima reunião possa ser presencial.",
+                "Muito obrigado.",
+                ""
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2020-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "ministro-das-relacoes-exteriores"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        },
+        "3": {
+            "tipo_dado": [
+                "aberto"
+            ],
+            "pais": [
+                "Brasil"
+            ],
+            "origem": [
+                "Ministério das Relações Exteriores"
+            ],
+            "sigla": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "classificado": "NA",
+            "categoria": [
+                "discursos"
+            ],
+            "autoria": [
+                "jair-messias-bolsonaro-2019-2022"
+            ],
+            "titulo": "Fala inicial do Presidente da República, Jair Bolsonaro durante a LVI Cúpula de Chefes de Estado do Mercosul e Estados Associados (videoconferência)",
+            "subtitulo": "Palácio do Planalto, 02 de julho de 2020",
+            "data": "02/07/2020",
+            "horario": "00h00",
+            "datatime": "NA",
+            "data_atualizado": [
+                "24/12/2024"
+            ],
+            "horario_atualizado": [
+                "11h35"
+            ],
+            "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/presidente-da-republica/presidente-da-republica-federativa-do-brasil-discursos/jair-messias-bolsonaro-2019-2022/fala-inicial-do-presidente-da-republica-jair-bolsonaro-durante-a-lvi-cupula-de-chefes-de-estado-do-mercosul-e-estados-associados-videoconferencia",
+            "link_archive": "NA",
+            "data_archive": "NA",
+            "horario_archive": "NA",
+            "local": "NA",
+            "tags": [
+                "Comunicação Governamental"
+            ],
+            "paragrafos": [
+                "Minhas primeiras palavras são de reconhecimento ao presidente Mario Abdo e sua equipe, pela competente condução dos trabalhos do Mercosul, desde nosso encontro no Vale dos Vinhedos.",
+                "Mesmo com os desafios impostos pela pandemia, nosso bloco sobre a presidência Paraguaia não deixou de funcionar. Só lamento não poder no dia de hoje estar na bela cidade de Encarnación; espero em breve ter o privilégio de visitar a nação irmã do Paraguai.",
+                "Presidente Mario Abdo, demais colegas. É com grande satisfação que constato a sintonia entre o Brasil e o Paraguai no Mercosul. Nosso governo endossou integralmente as prioridades da presidência Paraguaia, que aprofundam a modernização do Mercosul e fazem do bloco, aliado essencial da ambiciosa agenda de reformas que temos implementado no Brasil.",
+                "Os objetivos dessa agenda são tornar o estado mais eficiente e a economia mais dinâmica. Sempre com vistas a criação de mais oportunidades para os brasileiros. No ano passado, alcançamos uma conquista histórica ao conseguir aprovar a reforma da Previdência. Estamos empenhados agora em outras reformas.",
+                "Temos atuado com o mesmo empenho na melhoria do ambiente de negócios, na atração de investimentos e na renovação da infraestrutura. No esforço de construção de um País mais próspero, buscamos também, mais e melhor inserção do Brasil na região e no mundo. E o Mercosul, é o nosso principal veículo para essa inserção.",
+                "Os históricos acordos selados em 2019 com a União Europeia e a Associação Europeia de Livre Comércio evidenciam que estamos no caminho certo.",
+                "Aplaudimos a dedicação da presidência Paraguaia, a conclusão dos detalhes pendentes nesses acordos.",
+                "Apelo a todos os presidentes para que, como eu mesmo fiz, instruam seus negociadores a fechar os textos; atuemos com o firme propósito de deixá-los prontos para a assinatura neste semestre. Ao mesmo tempo, nosso Governo dará prosseguimento ao diálogo com diferentes interlocutores para desfazer opiniões distorcidas sobre o Brasil e expor as ações que temos tomado em favor da proteção da Floresta Amazônica e do bem-estar das populações indígenas.",
+                "Além desses acordos, o Brasil está disposto a avançar em outros entendimentos com parceiros mundo afora.",
+                "Queremos levar adiante as negociações abertas com o Canadá, a Coreia, Singapura e o Líbano; expandir os acordos vigentes com Israel e a Índia e abrir novas frentes na Ásia e temos todo interesse em buscar tratativas com os países da América Central.",
+                "Sobre a presidência do Paraguai também demos novos passos na tão necessária reestruturação interna do Mercosul.",
+                "Ressalto, nesse plano, a reforma da tarifa externa comum: a (TEC), medida indispensável para consolidar o Mercosul como fonte de prosperidade para os nossos povos.",
+                "O bloco também tem registrado movimentos para discutir a inclusão dos setores automotivos e açucareiro no regime de regras comuns. Assinalo, igualmente, a revitalização do FOCEM; Nesta pandemia, o fundo de desenvolvimento mostrou que conjuga utilidade com solidariedade ao destinar quinze milhões de dólares para o combate ao coronavírus em nossos países.",
+                "Senhores presidentes, os próximos meses serão de grandes desafios para todos nós. O maior deles que se apresenta desde logo é conciliar a proteção da saúde das pessoas com o imperativo de recuperar a economia.",
+                "Tenho a certeza que o Mercosul é parte das soluções que estamos construindo.",
+                "É um privilégio contar daqui para a frente com a liderança do presidente Lacalle Pou. Nosso bloco seguirá em excelentes mãos, conte com o meu decidido apoio, presidente, o Brasil estará ao seu lado.",
+                "Não poderia encerrar sem fazer menção à Venezuela, na expectativa que retome o quanto antes o caminho da liberdade.",
+                "Nesse mesmo espírito de valorização da democracia, lamento que o governo da presidente Jeanine Añez, contrariamente à vontade do Brasil, não tenha podido participar dos nossos trabalhos ao longo do semestre.",
+                "Continuemos todos a defender, de modo incansável, o compromisso do Mercosul com a democracia que é um dos pilares de nosso bloco e de nossa região.",
+                "Muito obrigado a todos."
+            ],
+            "imagens": "NA",
+            "nome_arquivo": "NA",
+            "dir_arquivo": "NA",
+            "dir_base": [
+                "/hdvm12"
+            ],
+            "codigo_bd": "bd/003/001/001/001/002/010",
+            "dir_bd": [
+                "/json/"
+            ],
+            "nome_arq_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2020-07",
+            "env_dir_bd": "BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS",
+            "extra_01": [
+                "presidente-da-republica"
+            ],
+            "extra_02": "NA",
+            "extra_03": "NA"
+        }
+    }
+}
