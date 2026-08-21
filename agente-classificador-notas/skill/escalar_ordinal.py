@@ -11,6 +11,7 @@ com base no sentido do texto, fundamentando em evidencias (passagens).
 import csv
 import glob
 import json
+import sys
 from pathlib import Path
 from datetime import datetime
 
@@ -20,13 +21,49 @@ RES = BASE / "agente-classificador-adequacao/resultados"
 MODELO = "opencode-hy3"
 DATA = "2026-08-14"
 
-DESCRICAO = {
+# Parametros da escala definidos pelo usuario.
+# O agente (prompt01.md) solicita esses parametros ao usuario antes de avaliar.
+# Aqui eles podem ser carregados de um arquivo JSON informado via linha de comando
+# (ex.: parametros_escala.json) ou, se nao houver, de um arquivo padrao na pasta.
+# Se nenhum arquivo existir, usa-se o exemplo abaixo (referencia, nao imposto).
+DESCRICAO_PADRAO = {
     1: "Soberania Digital - Soberania do Estado, garantias democráticas, direitos fundamentais, multilateralismo, multissetorialismo",
     2: "Predominantemente Soberanista - Foco principal na soberania e direitos, com alguma abertura para inovação",
     3: "Modelo Misto - Equilíbrio entre soberania/direitos e desenvolvimento/inovação (não puramente mercantil)",
     4: "Predominantemente Liberal - Foco principal na inovação e abertura de mercado, com alguma regulação estatal",
     5: "Baixa Intervenção Estatal - Inovação livre, autorregulação, lógica mercantil",
 }
+
+
+def carregar_parametros(caminho=None):
+    """Carrega as descricoes (parametros) das notas 1-5 definidas pelo usuario.
+
+    Prioridade:
+      1. arquivo informado via argumento de linha de comando
+      2. arquivo 'parametros_escala.json' na mesma pasta do script
+      3. descricao padrao (referencia)
+    O arquivo deve conter um objeto {"descricoes": {1: "...", 2: "...", ...}}.
+    """
+    candidatos = []
+    if caminho:
+        candidatos.append(Path(caminho))
+    candidatos.append(Path(__file__).parent / "parametros_escala.json")
+    for p in candidatos:
+        if p.exists():
+            dados = json.load(open(p, encoding="utf-8"))
+            desc = dados.get("descricoes", dados)
+            return {int(k): v for k, v in desc.items()}
+    print("[aviso] Nenhum arquivo de parametros encontrado. Usando descricoes padrao (referencia).")
+    return dict(DESCRICAO_PADRAO)
+
+# ---------------------------------------------------------------------------
+# ATENCAO: as listas abaixo (SOBERANO/LIBERAL) codificam o eixo padrao de
+# referencia (Soberania Digital <-> Baixa Intervencao Estatal) e alimentam
+# apenas a pontuacao heuristica deste script auxiliar. Quando o usuario define
+# parametros proprios no agente (prompt01.md), a avaliacao autoritativa e
+# qualitativa eh a do agente; este script serve como apoio e suas descricoes
+# de saida (DESCRICAO) ja refletem os parametros do usuario.
+# ---------------------------------------------------------------------------
 
 # Sinais do polo Soberanista (aproximam de 1)
 SOBERANO = {
@@ -93,6 +130,9 @@ def justificar(nota, titulo, temas_encontrados, passagens):
 
 
 def main():
+    global DESCRICAO
+    DESCRICAO = carregar_parametros(sys.argv[1] if len(sys.argv) > 1 else None)
+
     # Carregar o JSON selecionado pelo usuario (verificacao)
     verif_path = RES / "verificacoes" / f"verificacao_{MODELO}-{DATA}.json"
     verif = json.load(open(verif_path, encoding="utf-8"))

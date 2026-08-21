@@ -11,6 +11,7 @@ com base no sentido do texto, fundamentando em evidencias (passagens).
 import csv
 import glob
 import json
+import re
 import sys
 from pathlib import Path
 from datetime import datetime
@@ -18,11 +19,40 @@ from datetime import datetime
 BASE = Path("/workspaces/governanca-digital_mre")
 JSON_DIR = BASE / "json-discursos-artigos-entrevistas"
 RES = BASE / "agente-classificador-discursos/resultados"
-MODELO = "opencode-hy3"
-DATA = "2026-08-14"
+MODELO = None  # sera derivado do arquivo de verificacao de entrada
+DATA = datetime.now().strftime("%Y-%m-%d")
+
+
+def extrair_modelo_data(arquivo, prefixo):
+    """A partir do nome do arquivo, extrai (modelo, data) do sufixo '{modelo}-{AAAA-MM-DD}'."""
+    nome = arquivo.stem
+    if not nome.startswith(prefixo):
+        return None, None
+    sufixo = nome[len(prefixo):]
+    m = re.match(r"^(?P<modelo>.+)-(?P<data>\d{4}-\d{2}-\d{2})$", sufixo)
+    if not m:
+        return None, None
+    return m.group("modelo"), m.group("data")
 
 # Categorias validas
 CATEGORIAS_VALIDAS = {"discursos", "artigos", "entrevistas"}
+
+# Tipos de autoridade validos (campo extra_01 do JSON)
+AUTORIDADES_VALIDAS = {
+    "presidente-da-republica",
+    "ministro-das-relacoes-exteriores",
+    "secretario-geral",
+}
+
+
+def autoridade_match(doc_autoridade, autoridade_selecionada):
+    """Verifica se o documento foi proferido pela autoridade selecionada (extra_01)."""
+    if autoridade_selecionada == "todos":
+        return True
+    if not doc_autoridade:
+        return False
+    aut_lower = [a.lower() for a in doc_autoridade]
+    return autoridade_selecionada.lower() in aut_lower
 
 DESCRICAO = {
     1: "Soberania Digital - Soberania do Estado, garantias democráticas, direitos fundamentais, multilateralismo, multissetorialismo",
@@ -105,17 +135,34 @@ def main():
             print(f"Tipo invalido: {tipo}. Opcoes: discursos, artigos, entrevistas, todos")
             sys.exit(1)
 
+    # Ler tipo de autoridade da linha de comando (ou usar 'todos' como padrao)
+    autoridade = "todos"
+    if len(sys.argv) > 2:
+        autoridade = sys.argv[2].lower()
+        if autoridade not in AUTORIDADES_VALIDAS and autoridade != "todos":
+            print(f"Autoridade invalida: {autoridade}. Opcoes: presidente-da-republica, "
+                  f"ministro-das-relacoes-exteriores, secretario-geral, todos")
+            sys.exit(1)
+
     print(f"Tipo de documento selecionado: {tipo}")
+    print(f"Tipo de autoridade selecionado: {autoridade}")
 
     # Carregar o JSON selecionado pelo usuario (verificacao)
-    # Procurar o arquivo mais recente de verificacao
+    # Procurar o arquivo mais recente de verificacao (respeitando tipo e autoridade) e
+    # derivar o modelo e a data a partir do proprio nome do arquivo.
     verif_dir = RES / "verificacoes"
-    verif_files = sorted(verif_dir.glob(f"verificacao_{MODELO}-*.json"))
-    if not verif_files:
-        print("Nenhum arquivo de verificacao encontrado. Execute a validacao da filtragem primeiro.")
+    prefixo = f"verificacao_{tipo}_{autoridade}_"
+    candidatos = []
+    for vf in sorted(verif_dir.glob(f"{prefixo}*.json")):
+        modelo, data = extrair_modelo_data(vf, prefixo)
+        if modelo and data:
+            candidatos.append((vf, modelo, data))
+    if not candidatos:
+        print(f"Nenhum arquivo de verificacao encontrado para tipo={tipo}, autoridade={autoridade}. "
+              f"Execute a validacao da filtragem primeiro.")
         sys.exit(1)
-    verif_path = verif_files[-1]
-    print(f"Carregando verificacao: {verif_path.name}")
+    verif_path, MODELO, DATA = candidatos[-1]
+    print(f"Carregando verificacao: {verif_path.name} (modelo={MODELO}, data={DATA})")
     verif = json.load(open(verif_path, encoding="utf-8"))
     rel = verif.get("notas_relevantes", [])
 
@@ -141,6 +188,11 @@ def main():
             if tipo.lower() not in cat_lower:
                 continue
 
+        # Filtrar por autoridade (campo extra_01)
+        doc_aut = nota_orig.get("extra_01", []) or []
+        if not autoridade_match(doc_aut, autoridade):
+            continue
+
         paragrafos = nota_orig.get("paragrafos", []) or []
         texto = " ".join(paragrafos)
         if not texto:
@@ -162,28 +214,30 @@ def main():
                 break
         just = justificar(nota, tit, [], passagens)
         cat_str = ", ".join(doc_cat) if doc_cat else "NA"
+        aut_str = ", ".join(doc_aut) if doc_aut else "NA"
         rows.append({
             "Titulo": tit, "Link": r["link"], "Data": dt,
-            "Categoria": cat_str,
+            "Categoria": cat_str, "Autoridade": aut_str,
             "Nota_Escala": nota, "Descricao_Nota": DESCRICAO[nota],
             "Justificativa": just, "Passagens_Relevantes": " | ".join(passagens[:3]),
         })
 
     ts = DATA
     tipo_label = tipo if tipo != "todos" else "todos"
+    aut_label = autoridade if autoridade != "todos" else "todos"
 
-    csv_path = RES / f"escala-ordinal-{tipo_label}_{MODELO}-{ts}.csv"
+    csv_path = RES / f"escala-ordinal-{tipo_label}_{aut_label}_{MODELO}-{ts}.csv"
     with open(csv_path, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter=",", quotechar='"', quoting=csv.QUOTE_ALL)
-        w.writerow(["Titulo", "Link", "Data", "Categoria", "Nota_Escala", "Descricao_Nota",
+        w.writerow(["Titulo", "Link", "Data", "Categoria", "Autoridade", "Nota_Escala", "Descricao_Nota",
                     "Justificativa", "Passagens_Relevantes"])
         for row in rows:
-            w.writerow([row["Titulo"], row["Link"], row["Data"], row["Categoria"],
+            w.writerow([row["Titulo"], row["Link"], row["Data"], row["Categoria"], row["Autoridade"],
                         row["Nota_Escala"], row["Descricao_Nota"],
                         row["Justificativa"], row["Passagens_Relevantes"]])
 
     # JSON tambem
-    json_path = RES / f"escala-ordinal-{tipo_label}_{MODELO}-{ts}.json"
+    json_path = RES / f"escala-ordinal-{tipo_label}_{aut_label}_{MODELO}-{ts}.json"
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(rows, f, ensure_ascii=False, indent=2)
 

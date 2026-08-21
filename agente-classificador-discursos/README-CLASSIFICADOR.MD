@@ -44,7 +44,7 @@ agente-classificador-discursos/
 ### Estágio 1: Filtragem
 - **Arquivo**: `skill/skill_filtro.md` + `skill/executar_filtro.py`
 - **Entrada**: JSONs de discursos, artigos e entrevistas do MRE (2014-2025)
-- **Filtros**: Tipo de documento (discurso/artigo/entrevista) + período + contexto de pesquisa
+- **Filtros**: Tipo de documento (discurso/artigo/entrevista) + **tipo de autoridade (cargo)** + período + contexto de pesquisa
 - **Método**: Pré-seleção por vocabulário substantivo + filtro de calendários
 - **Saída**: CSV + JSON com documentos pertinentes
 
@@ -72,19 +72,32 @@ O campo `categoria` do JSON original identifica o tipo de cada documento:
 - **artigos** - Artigos publicados por representantes do MRE
 - **entrevistas** - Entrevistas concedidas por representantes do MRE
 
+## Tipos de Autoridade (Cargo)
+
+O campo `extra_01` do JSON original identifica o cargo de quem profere o documento:
+- **presidente-da-republica** - Presidente da República
+- **ministro-das-relacoes-exteriores** - Ministro das Relações Exteriores (Chanceler/Itamaraty)
+- **secretario-geral** - Secretário-Geral das Relações Exteriores
+
+Todos os estágios do pipeline aceitam o tipo de autoridade como segundo argumento
+(`todos` considera todas as autoridades simultaneamente).
+
 ## Uso
 
-### Executar Filtragem (para um tipo específico)
+### Executar Filtragem (tipo de documento e, opcionalmente, tipo de autoridade)
 ```bash
 python3 skill/executar_filtro.py discursos
+python3 skill/executar_filtro.py discursos presidente-da-republica
 python3 skill/executar_filtro.py artigos
 python3 skill/executar_filtro.py entrevistas
 python3 skill/executar_filtro.py todos
+python3 skill/executar_filtro.py todos todos
 ```
 
 ### Executar Escala Ordinal
 ```bash
 python3 skill/escalar_ordinal.py discursos
+python3 skill/escalar_ordinal.py discursos presidente-da-republica
 python3 skill/escalar_ordinal.py artigos
 python3 skill/escalar_ordinal.py entrevistas
 python3 skill/escalar_ordinal.py todos
@@ -93,6 +106,7 @@ python3 skill/escalar_ordinal.py todos
 ### Executar Validação da Filtragem
 ```bash
 python3 skill/validar_filtragem.py discursos
+python3 skill/validar_filtragem.py discursos presidente-da-republica
 python3 skill/validar_filtragem.py artigos
 python3 skill/validar_filtragem.py entrevistas
 python3 skill/validar_filtragem.py todos
@@ -101,6 +115,7 @@ python3 skill/validar_filtragem.py todos
 ### Executar Validação da Escala
 ```bash
 python3 skill/validar_escala.py discursos
+python3 skill/validar_escala.py discursos presidente-da-republica
 python3 skill/validar_escala.py artigos
 python3 skill/validar_escala.py entrevistas
 python3 skill/validar_escala.py todos
@@ -110,9 +125,9 @@ python3 skill/validar_escala.py todos
 
 Todos os arquivos de saída incluem o **tipo de documento** sendo analisado além do modelo de IA:
 
-- `filtragem_discursos_opencode-hy3-2026-08-14.csv`
-- `escala-ordinal-artigos_opencode-hy3-2026-08-14.csv`
-- `validacao_entrevistas_opencode-hy3-2026-08-14.md`
+- `filtragem_discursos_todos_opencode-hy3-2026-08-14.csv`
+- `escala-ordinal-artigos_todos_opencode-hy3-2026-08-14.csv`
+- `validacao_entrevistas_todos_opencode-hy3-2026-08-14.md`
 - etc.
 
 ## Observações

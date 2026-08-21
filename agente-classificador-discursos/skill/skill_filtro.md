@@ -41,6 +41,19 @@ Pergunte ao usuário:
 
 **Importante:** O tipo selecionado será utilizado para filtrar os documentos pela campo `categoria` do JSON. Anote a escolha do usuário pois ela será utilizada em todos os passos seguintes e nos nomes dos arquivos de saída.
 
+### Passo 2b: Solicitar Tipo de Autoridade (Cargo)
+Além do tipo de documento, pergunte ao usuário qual **autoridade/autor** deve constar na análise. O cargo de quem profere o documento está registrado no campo `extra_01` do JSON, que admite os seguintes valores:
+
+- **presidente-da-republica** - Discursos/artigos/entrevistas do Presidente da República
+- **ministro-das-relacoes-exteriores** - Discursos/artigos/entrevistas do Ministro das Relações Exteriores (Chanceler/Itamaraty)
+- **secretario-geral** - Discursos/artigos/entrevistas do Secretário-Geral das Relações Exteriores
+- **todos** - Todas as autoridades simultaneamente
+
+Pergunte ao usuário:
+- "Qual tipo de autoridade você deseja analisar? (presidente-da-republica, ministro-das-relacoes-exteriores, secretario-geral ou todos)"
+
+**Importante:** O tipo de autoridade selecionado será utilizado para filtrar os documentos pelo campo `extra_01` do JSON. Anote a escolha do usuário pois ela será utilizada em todos os passos seguintes e nos nomes dos arquivos de saída.
+
 ### Passo 3: Solicitar Intervalo de Anos
 **Primeiro**, informe ao usuário quais anos estão disponíveis:
 - "Os anos disponíveis nos dados são: [lista de anos encontrados]"
@@ -67,9 +80,10 @@ Pergunte ao usuário:
 3. **Defina sua especialidade** com base no contexto lido - este será seu parâmetro de análise para toda a filtragem
 
 ### Passo 6: Filtragem dos Documentos
-Para cada documento do tipo e período selecionados:
+Para cada documento do tipo, autoridade e período selecionados:
 
 1. **Leia o documento inteiro** com atenção
+1b. **Confirme a autoridade**: o documento deve ter sido proferido pelo cargo selecionado no Passo 2b (campo `extra_01` do JSON: `presidente-da-republica`, `ministro-das-relacoes-exteriores` ou `secretario-geral`). Se a autoridade não corresponder e a opção não for "todos", desconsidere o documento.
 2. **Avalie a pertinência** considerando:
    - O documento aborda **temas centrais** do contexto de pesquisa?
    - O documento menciona **atos, posicionamentos ou ações** relacionados ao contexto?
@@ -93,9 +107,9 @@ Para cada documento do tipo e período selecionados:
 
 ### Passo 7: Gerar Resultados
 
-**Importante:** Todos os arquivos de saída devem conter o **tipo de documento** sendo analisado (discurso, artigo, entrevista ou todos) além do nome do modelo de IA.
+**Importante:** Todos os arquivos de saída devem conter o **tipo de documento** sendo analisado (discurso, artigo, entrevista ou todos), o **tipo de autoridade** e o nome do modelo de IA.
 
-#### Arquivo CSV (`filtragem_[tipo]_[modelo_ia]-[data].csv`)
+#### Arquivo CSV (`filtragem_[tipo]_[autoridade]_[modelo_ia]-[data].csv`)
 Salve em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resultados/`
 
 | Coluna | Descrição |
@@ -104,27 +118,28 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resu
 | Data | Data de publicação do documento |
 | Link | Link/endereço do documento |
 | Categoria | Tipo do documento (discurso/artigo/entrevista) |
+| Autoridade | Cargo de quem proferiu o documento (campo `extra_01`: presidente-da-republica, ministro-das-relacoes-exteriores, secretario-geral) |
 | Justificativa | **A IA deve escrever ela mesma** uma explicação de 2-3 frases sobre por que aquele documento foi selecionado como pertinente ao tema da pesquisa |
 | Passagens_Relevantes | Trechos do documento que justificam a escolha (máx. 3 passagens) |
 
 **Formato do arquivo**: UTF-8, separador vírgula, aspas para campos com texto longo
 
-**Exemplo de nome**: `filtragem_discursos_opencode-hy3-2026-08-14.csv`
+**Exemplo de nome**: `filtragem_discursos_presidente-da-republica_opencode-hy3-2026-08-18.csv`
 
-#### Arquivo JSON (`json-filtragem-[tipo]_[modelo_ia]-[data].json`)
+#### Arquivo JSON (`json-filtragem-[tipo]_[autoridade]_[modelo_ia]-[data].json`)
 Salve em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resultados/jsons-filtrados/`
 
-Estrutura deve ser **compatível** com os JSONs originais, contendo apenas os documentos filtrados como relevantes.
+Estrutura deve ser **compatível** com os JSONs originais, contendo apenas os documentos filtrados como relevantes. Cada documento deve incluir, no bloco `analise_filtragem`, os campos `tipo_documento`, `tipo_autoridade`, `temas_identificados`, `justificativa_selecao` e `passagens_relevantes`.
 
-**Exemplo de nome**: `json-filtragem-discursos_opencode-hy3-2026-08-14.json`
+**Exemplo de nome**: `json-filtragem-discursos_presidente-da-republica_opencode-hy3-2026-08-18.json`
 
 ## Formato de Saída
 
 ### Para o Usuário (durante execução)
 Apresente um resumo da progresso:
-- Total de documentos analisados
+- Total de documentos analisados (após filtros de tipo e autoridade)
 - Documentos identificadas como pertinentes
-- Documentos desconsideradas (e motivo principal)
+- Documentos desconsideradas por tipo, por autoridade e por conteúdo (com motivo principal)
 
 ### Arquivos de Resultado
 1. **CSV**: Pronto para análise em planilhas ou ferramentas estatísticas
@@ -132,10 +147,11 @@ Apresente um resumo da progresso:
 
 ## Observações Importantes
 
-- **Nome do arquivo**: Use o tipo de documento e o nome do modelo de IA utilizado (ex: `filtragem_discursos_gpt4-2024-01-15.csv`)
+- **Nome do arquivo**: Use o tipo de documento, o tipo de autoridade e o nome do modelo de IA utilizados (ex: `filtragem_discursos_presidente-da-republica_gpt4-2024-01-15.csv`)
 - **Encoding**: Use UTF-8 para todos os arquivos
 - **Consistência**: Mantenha o formato dos JSONs de saída similar aos de entrada
 - **Transparência**: A justificativa deve ser clara e baseada em evidências do texto
 - **Qualidade**: Melhor ter menos documentos pertinentes bem justificadas do que muitos sem relevância real
 - **Adaptabilidade**: Sua especialidade muda a cada sessão conforme o contexto selecionado
 - **Tipo de Documento**: O campo `categoria` do JSON original identifica se é discurso, artigo ou entrevista. Use este campo para filtrar conforme a seleção do usuário.
+- **Tipo de Autoridade**: O campo `extra_01` do JSON original identifica o cargo de quem profere o documento (`presidente-da-republica`, `ministro-das-relacoes-exteriores` ou `secretario-geral`). Use este campo para filtrar conforme a seleção do usuário no Passo 2b.

@@ -1,0 +1,584 @@
+{
+  "metadata": {
+    "modelo_ia": "opencode-hy3",
+    "tipo_documento": "discursos",
+    "tipo_autoridade": "ministro-das-relacoes-exteriores",
+    "data_verificacao": "2026-08-18",
+    "arquivo_filtragem_original": "filtragem_discursos_ministro-das-relacoes-exteriores_opencode-hy3-2026-08-18.csv",
+    "contexto_utilizado": "contexto01.md",
+    "periodo_analisado": "2014-2025"
+  },
+  "resumo": {
+    "total_documentos_originais": 2449,
+    "total_documentos_filtrados": 52,
+    "total_documentos_relevantes": 41,
+    "documentos_mantidos": 41,
+    "documentos_adicionados": 0,
+    "justificativas_otimas": 0,
+    "justificativas_boas": 41,
+    "justificativas_insuficientes": 0,
+    "score_confianca": 79
+  },
+  "documentos_relevantes": [
+    {
+      "titulo": "Transcrição da Audiência Pública com o Ministro Luiz Alberto Figueiredo Machado na Comissão de Relações Exteriores e Defesa Nacional do Senado Federal – Brasília, 6 de fevereiro de 2014",
+      "data": "06/02/2014",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/luis-alberto-figueiredo-machado/transcricao-da-audiencia-publica-com-o-ministro-de-estado-da-relacoes-exteriores-luiz-alberto-figueiredo-machado-na-comissao-de-relacoes-exteriores-e-defesa-nacional-do-senado-federal-6-2-2014",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da internet, proteção de dados e privacidade, direitos humanos no ambiente digital. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "(Soa a campainha.)O SR. EMBAIXADOR LUIZ ALBERTO FIGUEIREDO MACHADO – No período recente, o Brasil se transformou, ainda, em País beneficiário, em País prestador de cooperação técnica. Nós temos recebido demandas crescentes de cooperação de países interessados em conhecer mais de perto nossas políticas e nossas tecnolog...",
+        "e, finalmente, adotada por consenso pela Assembleia Geral da ONU.Essa convocação de uma discussão pelo Brasil foi feita na esteira do discurso da Presidenta Dilma Rousseff na abertura do último debate geral nas Nações Unidas e nos leva também, como passo adicional, à convocação de uma reunião multissetorial global sobr..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Luiz Alberto Figueiredo Machado por ocasião da sessão de abertura dos \"Diálogos sobre Política Externa\" – Brasília, 26 de fevereiro de 2014",
+      "data": "26/02/2014",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/luis-alberto-figueiredo-machado/discurso-proferido-pelo-ministro-de-estado-das-relacoes-exteriores-luiz-alberto-figueiredo-machado-na-sessao-de-abertura-dos-dialogos-sobre-politica-externa-palacio-itamaraty-26-de-fevereiro-de-2014",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando proteção de dados e privacidade. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Na agenda internacional, ampliou-se a diversidade de temas e hoje coexistem uma agenda clássica de política externa, com questões ligadas à paz e à segurança internacionais, à integração regional, aos relacionamentos políticos bilaterais e à diplomacia econômica; e uma nova agenda de política externa, associada aos tem..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Palestra Magna do Ministro Luiz Alberto Figueiredo Machado por ocasião da III Conferência sobre Relações Internacionais, UnB – Brasília, 27 de novembro de 2014",
+      "data": "27/11/2014",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/luis-alberto-figueiredo-machado/palestra-magna-do-sr-ministro-de-estado-das-relacoes-exteriores-por-ocasiao-da-iii-conferencia-sobre-relacoes-internacionais-unb-brasilia-27de-novembro-de-2014",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da internet, proteção de dados e privacidade, direitos humanos no ambiente digital. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "A observância seletiva da Carta e sua interpretação enviesada minam parte dos fundamentos daquela ordem, sem substituí-la por outra mais afim com as aspirações por paz fundada na justiça e por prosperidade compartilhada. Ao contrário, ameaça debilitar aspecto civilizacional e político do mundo pós-Guerra que cabe suste...",
+        "Na questão da privacidade no espaço cibernético e da governança da internet, o Brasil assumiu uma posição de liderança. Esses temas ganharam maior relevo na sequência das denúncias sobre as atividades de espionagem de serviços de inteligência estrangeiros. O Brasil, junto com a Alemanha, conseguiu aprovar, por consenso..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira por ocasião da cerimônia de transmissão do cargo de Ministro de Estado das Relações Exteriores – Brasília, 2 de janeiro de 2015",
+      "data": "02/01/2015",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira-2015-2016/discurso-de-sua-excelencia-o-senhor-embaixador-mauro-luiz-iecker-vieira-por-ocasiao-da-cerimonia-de-transmissao-do-cargo-de-ministro-de-estado-das-relacoes-exteriores",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da internet. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "A agenda que nos espera em 2015 e nos próximos anos é ampla e promissora, como indicou a Senhora Presidenta em seu discurso de posse. De acordo com nossa tradicional linha de ação, a um tempo regional e universalista, trataremos de consolidar a América do Sul como espaço de integração em todos os âmbitos e ampliar esfo..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira em Audiência Pública na Comissão de Relações Exteriores e Defesa Nacional do Senado Federal – Brasília, 24 de março de 2015",
+      "data": "24/03/2015",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira-2015-2016/pronunciamento-do-ministro-das-relacoes-exteriores-embaixador-mauro-vieira-em-audiencia-publica-na-comissao-de-relacoes-exteriores-e-defesa-nacional-do-senado-federal-24-de-marco-de-2015",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da internet. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "O Brasil continuará atuando com grande engajamento no G-20 e nas negociações das Nações Unidas sobre mudança do clima, sobre a governança da internet e sobre o desarmamento, entre tantas outras frentes."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira em Audiência Pública da Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados – Brasília, 15 de abril de 2015",
+      "data": "15/04/2015",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira-2015-2016/discurso-do-ministro-das-relacoes-exteriores-em-audiencia-publica-da-comissao-de-relacoes-exteriores-e-de-defesa-nacional-da-camara-dos-deputados-15-de-abril-de-2015",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da internet. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "É grande também o engajamento que o Brasil tem no G-20 e nas negociações das Nações Unidas sobre mudança do clima, governança da Internet e desarmamento, entre outros. É uma característica da atuação da política externa brasileira a defesa da transparência e da maior participação de um número maior de atores na governa..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira na solenidade em homenagem ao aniversário de 70 anos das Nações Unidas – Brasília, 29 de outubro de 2015",
+      "data": "29/10/2015",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira-2015-2016/discurso-do-ministro-mauro-vieira-na-solenidade-em-homenagem-ao-aniversario-de-70-anos-das-nacoes-unidas-brasilia-29-de-outubro-de-2015",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando proteção de dados e privacidade. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "A reforma é ainda mais premente na atual conjuntura. As guerras, o terrorismo, as ameaças transnacionais, a proliferação de armas, as novas armas cibernéticas e as violações à privacidade na era digital continuam a exigir respostas articuladas da comunidade internacional."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro José Serra durante a Reunião Ministerial da Organização Mundial de Comércio (OMC) – Paris, 2 de junho de 2016",
+      "data": "02/06/2016",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/jose-serra/discurso-do-ministro-jose-serra-durante-a-sessao-reforcando-a-contribuicao-do-comercio-e-do-investimento-para-o-crescimento-inclusivo-da-reuniao-do-conselho-ministerial-da-ocde-paris-2-de-junho-de-2017",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando proteção de dados e privacidade. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Nós estamos igualmente prontos para desenvolver na OMC disciplinas que apoiem a nova economia. No comércio eletrônico (\"e-commerce\"), por exemplo, é importante equilibrar disciplinas que permitam que as empresas se beneficiem da previsibilidade do comércio baseado na Internet com disciplinas que assegurem a cooperação ..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Texto‑base para a intervenção do ministro Aloysio Nunes Ferreira na abertura da VI Conferência sobre Relações Exteriores, Brasília, 08/11/2017",
+      "data": "08/11/2017",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/aloysio-nunes-ferreira/textobase-para-a-intervencao-do-ministro-aloysio-nunes-ferreira-na-abertura-da-vi-conferencia-sobre-relacoes-exteriores-brasilia-08-11-2017",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da internet. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "É participando intensamente do processo de construção de normas multilaterais que fazemos valer as perspectivas e os pontos de vista brasileiros em áreas tão diversas como desarmamento e não proliferação, meio ambiente e mudança do clima, negociações econômicas internacionais, proteção de refugiados, direitos humanos, ..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Globalismo: uma visão a partir do  pensamento de Nietzsche",
+      "data": "10/06/2019",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/globalismo-uma-visao-a-partir-do-pensamento-de-nietzsche",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "É curioso, porque se cria um estranho humanismo, que é um humanismo que desmerece o homem, e equipara-o à máquina. Então, é interessante, o que nós estamos vendo hoje, com toda a discussão da inteligência artificial, onde normalmente se fala: a inteligência artificial é a máquina aprendendo a pensar como o ser humano. ..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do senhor ministro de Estado por ocasião da abertura do seminário sobre “Globalismo”, da FUNAG – Palácio Itamaraty, 10 de junho de 2019",
+      "data": "13/06/2019",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/discurso-do-senhor-ministro-de-estado-por-ocasiao-da-abertura-do-seminario-sobre-globalismo-da-funag-palacio-itamaraty-10-de-junho-de-2019",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Então, é curioso, porque se cria um estranho humanismo, que é um humanismo que desmerece o homem, e equipara o homem à máquina. Então, nós estamos vendo hoje, é interessante toda a discussão da inteligência artificial, onde normalmente se fala: “bom, a inteligência artificial é a máquina aprendendo a pensar como o ser ..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Alocução no café da manhã sobre o ingresso  do Brasil na Organização para a Cooperação  e Desenvolvimento Econômico (OCDE) -  Brasília, 13/02/2020",
+      "data": "13/02/2020",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/alocucao-no-cafe-da-manha-sobre-o-ingresso-do-brasil-na-organizacao-para-a-cooperacao-e-desenvolvimento-economico-ocde-brasilia-13-02-2020",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "O Brasil vem avançando bastante na convergência com os padrões da OCDE, mesmo antes de sermos membro pleno. Nosso país já aderiu a 81 instrumentos da Organização e já solicitou a adesão a mais 65, de um universo total de 254 – aqui eu não vou fazer a soma, porque de manhã ainda não dá para fazer matemática, mas eu acho..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Intervenção do ministro Ernesto Araújo no café da manhã sobre o ingresso do Brasil na OCDE – Brasília 13/02/2020",
+      "data": "13/02/2020",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/intervencao-do-ministro-ernesto-araujo-no-cafe-da-manha-sobre-o-ingresso-do-brasil-na-ocde-brasilia-13-02-2020",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Quero mencionar também, à guisa de exemplo, algumas das recomendações da OCDE adotadas pelo Brasil que definem diretrizes e modo de atuação em cada área, como inteligência artificial, proteção do consumidor no comércio eletrônico, prevenção contra concorrência fiscal nociva e prestação de qualidade no ensino superior t..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Intervenções do Ministro das Relações Exteriores, Ernesto Araújo, na cerimônia de lançamento dos estudos da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) “A Caminho da Era Digital no Brasil” e “Telecomunicações e Radiofusão no Brasil”",
+      "data": "26/10/2020",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/intervencoes-do-ministro-das-relacoes-exteriores-ernesto-araujo-na-cerimonia-de-lancamento-dos-estudos-da-organizacao-para-a-cooperacao-e-desenvolvimento-economico-ocde-201ca-caminho-da-era-digital-no-brasil201d-e-201ctelecomunicacoes-e-radiofusao-no",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial, proteção de dados e privacidade, infraestrutura e tecnologias digitais. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Como afirmou o Presidente Jair Bolsonaro na Assembleia Geral das Nações Unidas, o Brasil está aberto ao desenvolvimento de tecnologia e de inovação de ponta, como a indústria 4.0, a inteligência artificial, a nanotecnologia e a tecnologia 5G, com quaisquer parceiros que respeitem nossa soberania e prezem pela liberdade...",
+        "“O caminho da era digital no Brasil” faz uma avaliação ampla e precisa de como o país pode promover sua transformação digital. O estudo vai ao cerne de várias questões, que o Brasil agora se dedica a resolver, como a burocracia, maior integração e cadeias globais de valor, bem como políticas mais orientadas por resulta..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Intervenção do Ministro Ernesto Araújo na Reunião Ministerial sobre Liberdade de Religião e Crença – 16/11/2020",
+      "data": "16/11/2020",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/intervencao-do-ministro-ernesto-araujo-na-reuniao-ministerial-sobre-liberdade-de-religiao-e-crenca-2013-16-11-2020",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "A urgência do aviso de São João Paulo II aumentou desde então. Em nossa era de inteligência artificial e Big Data, o espírito humano deve se esforçar para evitar ser reduzido a seres subservientes. A liberdade religiosa é fundamental para garantir a integridade e a profundidade da dimensão espiritual da humanidade."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Intervenção do Ministro Ernesto Araújo na Reunião Ministerial América Latina e Caribe – União Européia Painel temático III: Aliança Digital/ Cooperação Digital - 14/12/2020",
+      "data": "15/12/2020",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/intervencao-do-ministro-ernesto-araujo-na-reuniao-ministerial-america-latina-e-caribe-2013-uniao-europeia-painel-tematico-iii-alianca-digital-cooperacao-digital-14-de-dezembro-de-2020",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da internet, governança da inteligência artificial, proteção de dados e privacidade, cibersegurança, infraestrutura e tecnologias digitais. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "No Brasil, 70% dos cidadãos têm acesso à internet. Dispomos de avançada estrutura institucional para a governança da internet. Marcos normativos importantes, como a Estratégia de Transformação Digital e a Lei Geral de Proteção de Dados, têm fortalecido a segurança digital, bem como a proteção de dados pessoais e dos co...",
+        "Na era da inteligência artificial e do Big Data, devemos estar vigilantes. Mais do que nunca, devemos lutar pela liberdade de pensamento e de consciência, assim como pela liberdade de expressão. O exercício do direito à privacidade é crucial para a consecução plena dessas liberdades e para o desenvolvimento de opiniões...",
+        "O governo brasileiro adotou, por essas razões, nova Estratégia Nacional de Cibersegurança, visando a aumentar a resistência do país às ameaças cibernéticas e a contribuir para a prosperidade e a confiabilidade no ambiente digital."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Intervenção do Ministro Ernesto Araújo na 46ª Sexta Sessão do Conselho de Direitos Humanos da ONU - 22/02/2021",
+      "data": "22/02/2021",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/intervencao-do-ministro-ernesto-araujo-na-46a-sexta-sessao-do-conselho-de-direitos-humanos-da-onu-22-02-2021",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial, direitos humanos no ambiente digital. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "O século 21 é o século da tecnologia da informação, da inteligência artificial, e nossa tarefa é garantir que essas tecnologias sirvam para libertar e engrandecer o ser humano, a partir da sua dignidade intrínseca, e não para submetê-lo ou apequená-lo, transformando cada homem e cada mulher numa simples coleção de dado...",
+        "As Tecnologias de Informação e Comunicação trouxeram-nos a promessa de novas plataformas para a liberdade de expressão, de acesso mais fácil e amplo à informação. Mas essas tecnologias têm sido cada vez mais submetidas à censura, à vigilância e à criação de mecanismos de controle social."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Carlos França por ocasião da abertura do II Ciclo de Conferências sobre a Política Externa da FUNAG - \"A diplomacia da inovação\" - Brasília, 10/09/2021",
+      "data": "13/09/2021",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/carlos-alberto-franco-franca/discurso-do-ministro-carlos-franca-por-ocasiao-da-abertura-do-ii-ciclo-de-conferencias-sobre-a-politica-externa-da-funag-a-diplomacia-da-inovacao-brasilia-10-09-2021",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial, proteção de dados e privacidade, cibersegurança, infraestrutura e tecnologias digitais. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "No campo específico da inteligência artificial, estamos entre os 10 primeiros países em produção científica ao longo dos últimos 40 anos. No entanto, o problema a ser superado é a transformação do conhecimento científico em ganhos econômicos. Somos apenas o 62º país mais inovador do mundo, de acordo com o índice Global...",
+        "Muitas das nossas healthtecs atuam na fronteira do conhecimento, em áreas como pesquisa genômica e inteligência artificial aplicada à saúde. Diversas aceleradoras brasileiras lançaram iniciativas relacionadas à pandemia e mais de 50 healthtecs brasileiras atuam diretamente no combate à COVID-19. Em momento no qual o mu...",
+        "Sobre o grupo bilateral, o plano bilateral. A Diplomacia da inovação, no plano bilateral, envolve firmar e implementar acordos de cooperação, como os que assinamos no governo do presidente Bolsonaro com Israel e Áustria, bem como o entendimento sobre áreas específicas, como o que firmamos com o Japão na área de grafeno..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira na  14ª Conferência Regional do “Council of Councils”, proferido pelo Chefe do Gabinete, Embaixador Ricardo Monteiro",
+      "data": "05/11/2023",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-14a-conferencia-regional-do-201ccouncil-of-councils201d-proferido-pelo-chefe-do-gabinete-embaixador-ricardo-monteiro",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Lidamos também com o surgimento definitivo da inteligência artificial como ferramenta tecnológica, criando um manancial de oportunidades e desafios ainda inescrutáveis."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira por ocasião da reunião de ministros de Relações Exteriores do G20 – Rio de Janeiro, 21 de fevereiro de 2024",
+      "data": "21/02/2024",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-por-ocasiao-da-reuniao-de-ministros-de-relacoes-exteriores-do-g20-2013-rio-de-janeiro-21-de-fevereiro-de-2024",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando direitos humanos no ambiente digital. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Prezados colegas,Sem paz e cooperação, será extremamente difícil alcançarmos a prometida mobilização em larga escala dos recursos necessários para enfrentar as ameaças existenciais que enfrentamos, em particular o combate à pobreza e à desigualdade e a proteção do meio ambiente.Não é minimamente razoável que o mundo ul..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira durante a abertura da  5ª Conferência Nacional de Ciência, Tecnologia & Inovação - Brasília, 4 de abril de 2024",
+      "data": "04/04/2024",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-durante-a-abertura-da-5a-conferencia-nacional-de-ciencia-tecnologia-inovacao-brasilia-4-de-abril-de-2024",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial, proteção de dados e privacidade, direitos humanos no ambiente digital. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Estamos observando tendência crescente de politização da questão do desenvolvimento e da comercialização de tecnologias críticas, em especial dos sistemas de comunicação avançados, da inteligência artificial, das tecnologias quânticas e dos semicondutores.",
+        "Os avanços tecnológicos atuais abrem possibilidades antes inimagináveis, mas também trazem desafios sérios, como a concentração de riqueza por grandes corporações, violações de direitos trabalhistas e humanos e o fomento ao extremismo. Além disso, enfrentamos riscos como perda de privacidade e viés racista e misógino e...",
+        "Iniciativas como o Pacto Global Digital da ONU e as Diretrizes Globais para a Regulamentação de Plataformas Digitais da UNESCO são essenciais para enfrentar esses desafios, garantindo que os benefícios da tecnologia sejam compartilhados por todos e que haja uma participação inclusiva de especialistas de países em desen..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira na abertura do Seminário “Encontros: 200 anos de amizade Brasil-EUA” - Brasília, 28 de maio de 2024",
+      "data": "28/05/2024",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-abertura-do-seminario-201cencontros-200-anos-de-amizade-brasil-eua201d-brasilia-28-de-maio-de-2024",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "A estabilização macroeconômica do Brasil, nos últimos trinta anos, também permitiu uma transformação na natureza do nosso diálogo. Hoje, autoridades dos nossos dois países discutem fortalecimento da democracia, transformação ecológica e inteligência artificial."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Intervenção do senhor Ministro de Estado na Audiência Pública da Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados (CREDN)",
+      "data": "19/06/2024",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/intervencao-do-senhor-ministro-de-estado-na-audiencia-publica-da-comissao-de-relacoes-exteriores-e-de-defesa-nacional-da-camara-dos-deputados-credn",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "O encontro do G7 em Apúlia, na Itália, foi importante para alavancar o potencial dos membros do G7 em favor das prioridades de nossa presidência de turno do G20. Esse foi o tom da intervenção do Presidente Lula durante a sessão plenária. À margem, o presidente Lula reuniu-se com o Papa Francisco, que também foi convida..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira no  Seminário “Relações Internacionais, Política Externa e Direitos LGBTQIA+\" - 25/06/2024",
+      "data": "25/06/2024",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-no-seminario-201crelacoes-internacionais-politica-externa-e-direitos-lgbtqia-25-06-2024",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "A escalada de crises climático-sanitárias, desigualdades socioeconômicas, tensões geopolíticas e conflitos internacionais geram angústia social crescente, potencializada por mídias sociais e inteligência artificial. Nesse contexto, movimentos políticos de apelo ao discurso de ódio a grupos vulneráveis vêm crescendo em ..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira na XXIX Reunião Ordinária do Conselho de Ministros da CPLP - São Tomé, 19/07/2024",
+      "data": "19/07/2024",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-xxix-reuniao-ordinaria-do-conselho-de-ministros-da-cplp-sao-tome-19-07-2024",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Temos de estimular que estudantes brasileiros e lusófonos estudem juntos temas contemporâneos essenciais para nosso desenvolvimento – como a inteligência artificial, as novas fontes de energia, o processo de aceleração de partículas e o desenvolvimento de vacinas e medicamentos."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira no Seminário Nacional de lançamento do IV Plano Nacional de Enfrentamento ao Tráfico de Pessoas - 30/07/2024",
+      "data": "30/07/2024",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-no-seminario-nacional-de-lancamento-do-iv-plano-nacional-de-enfrentamento-ao-trafico-de-pessoas-30-07-2024",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando proteção de dados e privacidade. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Não poderia deixar de expressar o compromisso do Itamaraty com a proteção dos brasileiros no exterior. Somente em 2023, nossa rede consular atendeu a 206 casos de tráfico de pessoas, repatriando muitas das vítimas para o Brasil. O trabalho para a assistência às vítimas de tráfico de pessoas pela rede consular brasileir..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira na Sessão Plenária da Cúpula do BRICS com países convidados - Kazan, 24 de outubro de 2024",
+      "data": "24/10/2024",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-sessao-plenaria-da-cupula-do-brics-com-paises-convidados-kazan-24-de-outubro-de-2024",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Tampouco nos convém a condição de expectadores da evolução da Inteligência Artificial, sem participar de sua regulação, nem ser remunerados pelo uso de nossos dados."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Antonio de Aguiar Patriota em Debate Aberto do CSNU sobre o papel de organizações regionais e sub-regionais no diálogo para a paz",
+      "data": "16/01/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/antonio-de-aguiar-patriota/discurso-do-ministro-antonio-de-aguiar-patriota-em-debate-aberto-do-csnu-sobre-o-papel-de-organizacoes-regionais-e-sub-regionais-no-dialogo-para-a-paz",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando proteção de dados e privacidade, direitos humanos no ambiente digital. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "A interceptação de comunicações e as ações de espionagem em nossa região, que fazem parte de práticas que atentam contra as soberanias, constituem uma violação dos direitos humanos, em particular do direito à privacidade e do direito à informação de nossos cidadãos e cidadãs.Os Chanceleres dos Estados-Partes do MERCOSU...",
+        "Nesse sentido, saúdo a oportuna declaração de 12 de julho passado da Alta Comissária para os Direitos Humanos, Navi Pillay, de que “programas de monitoramento sem mecanismos adequados para garantir o direito à privacidade podem impactar negativamente o gozo dos direitos humanos e liberdades fundamentais”. Pillay citou ..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso na abertura da 1ª reunião de Sherpas  do BRICS - Curitiba, 14 de março de 2019",
+      "data": "17/01/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/discurso-na-abertura-da-1a-reuniao-de-sherpas-do-brics-curitiba-14-de-marco-de-2019",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando proteção de dados e privacidade. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Nesta presidência, o Brasil propõe que fortaleçamos o foco do BRICS na área de ciência, tecnologia e inovação. Nosso trabalho deve visar à assistência à consolidação do desenvolvimento tecnológico de todos os cinco países, à atualização de suas indústrias e à garantia de seu papel significativo na quarta revolução indu..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Abertura do seminário “Inteligência Artificial e Mudança do Clima – Tecnologia a favor do desenvolvimento sustentável e de uma transição justa”",
+      "data": "29/01/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/abertura-do-seminario-201cinteligencia-artificial-e-mudanca-do-clima-2013-tecnologia-a-favor-do-desenvolvimento-sustentavel-e-de-uma-transicao-justa201d",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial, infraestrutura e tecnologias digitais. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "É um grande prazer recebê-los neste seminário internacional sobre “Inteligência Artificial e Mudança do Clima”, organizado pelo Ministério das Relações Exteriores, em parceria com o Ministério da Ciência, Tecnologia e Inovação e com a Fundação Alexandre de Gusmão, do Ministério das Relações Exteriores.",
+        "Estamos em um momento crítico, que exige grande compromisso e ambição para enfrentar o aquecimento global. A emergência da inteligência artificial, uma das tecnologias mais poderosas da atualidade, se apresenta como uma nova dinâmica, com impactos importantes nesse esforço.",
+        "Com este seminário, propomos debater com os demais órgãos de governo, sociedade civil, academia, setor privado e organizações internacionais como a Inteligência Artificial pode ser uma importante aliada no enfrentamento da mudança do clima. Em especial, dadas as suas funções avançadas de predição, otimização e até mesm..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do  Ministro Mauro Vieira por ocasião de outorga do Prêmio Fundação Getúlio Vargas – Rio de Janeiro, 7 de fevereiro de 2025",
+      "data": "07/02/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-ministro-mauro-vieira-outorga-do-premio-fundacao-getulio-vargas-rio-de-janeiro-07-de-fevereiro-de-2025",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Nesta próxima segunda-feira participarei, em Paris, da Cúpula para Ação sobre Inteligência Artificial, em que frisarei a importância, para o Brasil, da proteção das instituições democráticas no ambiente digital.",
+        "O Brasil atuará resolutamente para que os parâmetros de governança da inteligência artificial sejam definidos multilateralmente nas Nações Unidas, em um diálogo aberto, equitativo e inclusivo, com respeito às necessidades e prioridades de cada país."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Palavras do Ministro Mauro Vieira no painel \"Reforçando uma governança de inteligência artificial efetiva, eficiente e inclusiva\"",
+      "data": "10/02/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/palavras-do-ministro-mauro-vieira-na-mesa-redonda-sobre-o-estabelecimento-de-uma-governanca-de-inteligencia-artificial-eficiente-e-realmente-inclusiva",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial, infraestrutura e tecnologias digitais. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "O assunto deste painel é particularmente relevante para o Brasil. A inteligência artificial é disruptiva não apenas devido à nova tecnologia que incorpora, mas também porque seu modelo atual de desenvolvimento permite a privatização de áreas que antes eram domínio dos Estados.",
+        "Durante a presidência brasileira do G20 no ano passado, discutimos como a IA pode ajudar a reduzir assimetrias e estreitar a lacuna entre países desenvolvidos e em desenvolvimento, além da integridade da informação e outros desafios críticos. Também lançamos uma iniciativa sobre Integridade da Informação e Mudanças Cli..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira na Segunda Sessão da Reunião de Ministros das Relações Exteriores do G20 – Joanesburgo, 21 de fevereiro de 2025",
+      "data": "21/02/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-segunda-sessao-da-reuniao-de-ministros-das-relacoes-exteriores-do-g20-2013-joanesburgo-21-de-fevereiro-de-2025",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial, proteção de dados e privacidade, infraestrutura e tecnologias digitais. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "A Declaração de Líderes do Rio de Janeiro reconheceu a necessidade de o G20 aprofundar as discussões sobre “inteligência artificial, governança de dados e inovação”. Também foi acordado o estabelecimento de  uma iniciativa ou força-tarefa de alto nível sobre o tema.",
+        "O Brasil valoriza o posicionamento da África do Sul sobre o  tema, que  relaciona inteligência artificial e inovação com desenvolvimento sustentável. “Experiências de vários membros do G20 têm demonstrado que infra-estruturas públicas digitais bem planejadas, e reforçadas pela inteligência artificial, podem ajudar o us...",
+        "Dados são fundamentais no desenvolvimento e funcionamento de sistemas de IA, conforme reconhecido na Resolução da ONU sobre IA no ano passado. Todos os países contribuem para a produção de dados e devem ter o direito de se beneficiar da tecnologia advinda deles. Devemos estabelecer uma estrutura global justa e equitati..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso do Ministro Mauro Vieira na 1ª Reunião de Sherpas do Brics  - Brasília, 25-26 de fevereiro de 2025",
+      "data": "25/02/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/discurso-do-ministro-mauro-vieira-na-1a-reuniao-de-sherpas-do-brics-brasilia-25-26-de-fevereiro-de-2025",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial, proteção de dados e privacidade, cibersegurança. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Organizaremos nosso trabalho em torno de seis prioridades: cooperação em saúde global; comércio, investimento e finanças; combate à mudança do clima; governança da inteligência artificial; reforma do sistema multilateral de paz e segurança; e desenvolvimento institucional do BRICS.",
+        "À medida que navegamos pelas transformações do século XXI, a inteligência artificial apresenta tanto oportunidades imensas quanto riscos profundos. A IA tem o potencial de transformar dramaticamente setores como saúde e educação. No entanto, sem governança adequada, também pode gerar desafios éticos, econômicos e de se...",
+        "A governança global de IA deve ser inclusiva e democrática, além de contribuir para o desenvolvimento econômico. Ela não pode ser ditada por um pequeno grupo de atores enquanto o restante do mundo é forçado a se adaptar a regras que não ajudou a estabelecer. Os BRICS devem defender uma abordagem multilateral que garant..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso na Cúpula Presidencial do Foro  para o Progresso e Integração da América  do Sul (PROSUL)  - 12/12/2020",
+      "data": "25/03/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/discurso-na-cupula-presidencial-do-foro-para-o-progresso-e-integracao-da-america-do-sul-prosul-12-12-2020",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando direitos humanos no ambiente digital. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Em sua frase mais conhecida, o pensador espanhol Ramiro de Maeztu disse: “O que é característico da consciência é a inquietação, a vigilância constante, a disposição perene de se defender. Ser é defender-se.” A inquietação não é um acidente do ser, mas sua própria essência. Uma nova integração sul-americana não escapa ..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Intervenção do Ministro Mauro Vieira na Comissão de Relações Exteriores e Defesa Nacional do Senado Federal  - Brasília, 20 de maio de 2025",
+      "data": "20/05/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/intervencao-na-comissao-de-relacoes-exteriores-e-defesa-nacional-do-senado-federal-brasilia-20-de-maio-de-2025",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "No âmbito dessas prioridades, estamos concentrando a atenção política do grupo em seis áreas centrais: Cooperação em Saúde; Comércio, Investimentos e Finanças; Mudança Climática; Governança da Inteligência Artificial; Arquitetura Multilateral de Paz e Segurança; e Desenvolvimento Institucional do BRICS."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso na XXIII reunião de consulta dos Ministros das Relações Exteriores da OEA  - Washington, 21 de setembro de 2001",
+      "data": "23/05/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/celso-lafer/discurso-na-xxiii-reuniao-de-consulta-dos-ministros-das-relacoes-exteriores-da-oea-washington-21-de-setembro-de-2001",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando proteção de dados e privacidade. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Estamos reiterando sua forte dimensão simbólica e reafirmando o sentido de compreensão partilhada do desafio que temos diante de nós. Senhores Ministros, Embora de forma perversa e doentia, os autores dos ataques da semana passada parecem haver compreendido o sentido das transformações que o progresso tecnológico troux..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Intervenção do Ministro Mauro Vieira em audiência pública na Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados (CREDN)",
+      "data": "28/05/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/intervencao-do-ministro-mauro-vieira-em-audiencia-publica-na-comissao-de-relacoes-exteriores-e-de-defesa-nacional-da-camara-dos-deputados-credn",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "No âmbito dessas prioridades, estamos concentrando a atenção política do grupo em seis áreas centrais: Cooperação em Saúde; Comércio, Investimentos e Finanças; Mudança Climática; Governança da Inteligência Artificial; Arquitetura Multilateral de Paz e Segurança; e Desenvolvimento Institucional do BRICS."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Discurso na abertura da III Reunião de Ministros das Relações Exteriores do BRICS -  Rio de Janeiro , 26/07/2019",
+      "data": "26/07/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/ernesto-araujo/discurso-na-abertura-da-iii-reuniao-de-ministros-das-relacoes-exteriores-do-brics-rio-de-janeiro-26-07-2019",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando proteção de dados e privacidade. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Aqui no BRICS, como em todo lugar, o Brasil defende uma cooperação internacional que seja, ao mesmo tempo, soberana e construtiva. Precisamos discutir os grandes temas internacionais e regionais e, ao mesmo tempo, precisamos, também, gerar resultados práticos para os nossos povos e para as nossas sociedades. A questão ..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Intervenção do Ministro Mauro Vieira na Reunião de Chanceleres do BRICS, à margem do Debate Geral da 80ª AGNU - Nova York, 26 setembro de 2025",
+      "data": "26/09/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/intervencao-do-ministro-mauro-vieira-na-reuniao-de-chanceleres-do-brics-a-margem-do-debate-geral-da-80a-agnu-nova-york-26-setembro-de-2025",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Effective multilateralism must have the United Nations at its center. But for the UN to meet the challenges of our time, it must be reformed. Brazil advocates for a comprehensive and ambitious reform of the Organization and its Charter, in accordance with its Article 109. The UN of 1945 is simply not fit for the purpos..."
+      ],
+      "qualidade_justificativa": "Boa"
+    },
+    {
+      "titulo": "Intervenção do Ministro Mauro Vieira na Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados - Brasília, 1º de outubro de 2025",
+      "data": "01/10/2025",
+      "link": "https://www.gov.br/mre/pt-br/centrais-de-conteudo/publicacoes/discursos-artigos-e-entrevistas/ministro-das-relacoes-exteriores/discursos-mre/mauro-vieira/intervencao-do-ministro-mauro-vieira-na-comissao-de-relacoes-exteriores-e-defesa-nacional-da-camara-dos-deputados-brasilia-1o-de-outubro-de-2025",
+      "categoria": "discursos",
+      "autoridade": "ministro-das-relacoes-exteriores",
+      "origem": "Filtragem",
+      "justificativa": "O documento guarda relação direta e substantiva com a Governança Global Digital, tematizando governança da inteligência artificial. Traz informação qualitativa sobre o posicionamento, ações ou articulações do MRE nesse campo, útil à análise da política externa brasileira em governança digital no período 2014-2025.",
+      "passagens": [
+        "Falando do púlpito da ONU, o Presidente Lula conclamou a comunidade internacional: a reduzir os gastos com armamentos e a aumentar a ajuda ao desenvolvimento, ciente de que apenas o desenvolvimento ataca as causas das guerras e dos conflitos; convocou a lutar contra a desigualdade dentro e fora das nações, cobrando mai..."
+      ],
+      "qualidade_justificativa": "Boa"
+    }
+  ],
+  "padroes_identificados": [
+    "Tema amplo 'Infraestrutura e Tecnologias Digitais' gerou falsos positivos por menção incidental."
+  ],
+  "recomendacoes": [
+    "Restringir tema de infraestrutura a documentos cujo objeto é a própria tecnologia digital.",
+    "Manter coocorrência para termos sensíveis.",
+    "Humanizar justificativas citando o ato/posicionamento do MRE."
+  ]
+}

@@ -9,6 +9,7 @@ digital para notas extremas liberais) e comparar com a atribuicao original.
 import csv
 import glob
 import json
+import re
 import sys
 from pathlib import Path
 from datetime import datetime
@@ -19,11 +20,41 @@ RES = BASE / "agente-classificador-discursos/resultados"
 OUT = RES / "verificacoes-ordinais"
 OUT.mkdir(exist_ok=True)
 
-MODELO = "opencode-hy3"
-DATA = "2026-08-14"
+MODELO = None  # sera derivado do arquivo de escala ordinal de entrada
+DATA = datetime.now().strftime("%Y-%m-%d")
+
+
+def extrair_modelo_data(arquivo, prefixo):
+    """A partir do nome do arquivo, extrai (modelo, data) do sufixo '{modelo}-{AAAA-MM-DD}'."""
+    nome = arquivo.stem
+    if not nome.startswith(prefixo):
+        return None, None
+    sufixo = nome[len(prefixo):]
+    m = re.match(r"^(?P<modelo>.+)-(?P<data>\d{4}-\d{2}-\d{2})$", sufixo)
+    if not m:
+        return None, None
+    return m.group("modelo"), m.group("data")
+DATA = datetime.now().strftime("%Y-%m-%d")
 
 # Categorias validas
 CATEGORIAS_VALIDAS = {"discursos", "artigos", "entrevistas"}
+
+# Tipos de autoridade validos (campo extra_01 do JSON)
+AUTORIDADES_VALIDAS = {
+    "presidente-da-republica",
+    "ministro-das-relacoes-exteriores",
+    "secretario-geral",
+}
+
+
+def autoridade_match(doc_autoridade, autoridade_selecionada):
+    """Verifica se o documento foi proferido pela autoridade selecionada (extra_01)."""
+    if autoridade_selecionada == "todos":
+        return True
+    if not doc_autoridade:
+        return False
+    aut_lower = [a.lower() for a in doc_autoridade]
+    return autoridade_selecionada.lower() in aut_lower
 
 SOBERANO = {
     "soberania digital": 2, "soberania de dados": 2, "soberania tecnológica": 2,
@@ -95,17 +126,35 @@ def main():
             print(f"Tipo invalido: {tipo}. Opcoes: discursos, artigos, entrevistas, todos")
             sys.exit(1)
 
+    # Ler tipo de autoridade da linha de comando (ou usar 'todos' como padrao)
+    autoridade = "todos"
+    if len(sys.argv) > 2:
+        autoridade = sys.argv[2].lower()
+        if autoridade not in AUTORIDADES_VALIDAS and autoridade != "todos":
+            print(f"Autoridade invalida: {autoridade}. Opcoes: presidente-da-republica, "
+                  f"ministro-das-relacoes-exteriores, secretario-geral, todos")
+            sys.exit(1)
+
     print(f"Tipo de documento selecionado: {tipo}")
+    print(f"Tipo de autoridade selecionado: {autoridade}")
 
     tipo_label = tipo if tipo != "todos" else "todos"
+    aut_label = autoridade if autoridade != "todos" else "todos"
 
-    # Procurar o CSV mais recente
-    csv_files = sorted(RES.glob(f"escala-ordinal-{tipo_label}_{MODELO}-*.csv"))
-    if not csv_files:
-        print(f"Nenhum arquivo de escala ordinal encontrado para tipo={tipo}. Execute a escala ordinal primeiro.")
+    # Procurar o CSV mais recente (respeitando tipo e autoridade) e derivar o modelo
+    # e a data a partir do proprio nome do arquivo.
+    prefixo = f"escala-ordinal-{tipo_label}_{aut_label}_"
+    candidatos = []
+    for cf in sorted(RES.glob(f"{prefixo}*.csv")):
+        modelo, data = extrair_modelo_data(cf, prefixo)
+        if modelo and data:
+            candidatos.append((cf, modelo, data))
+    if not candidatos:
+        print(f"Nenhum arquivo de escala ordinal encontrado para tipo={tipo}, autoridade={autoridade}. "
+              f"Execute a escala ordinal primeiro.")
         sys.exit(1)
-    csv_path = csv_files[-1]
-    print(f"Carregando escala ordinal: {csv_path.name}")
+    csv_path, MODELO, DATA = candidatos[-1]
+    print(f"Carregando escala ordinal: {csv_path.name} (modelo={MODELO}, data={DATA})")
     rows = list(csv.DictReader(open(csv_path, encoding="utf-8")))
 
     # Carregar originais
@@ -135,6 +184,11 @@ def main():
             cat_lower = [c.lower() for c in doc_cat] if doc_cat else []
             if tipo.lower() not in cat_lower:
                 continue
+
+        # Filtrar por autoridade (campo extra_01)
+        doc_aut = nota_src.get("extra_01", []) or []
+        if not autoridade_match(doc_aut, autoridade):
+            continue
 
         texto = " ".join(nota_src.get("paragrafos", []) or []) or tit
 
@@ -186,9 +240,10 @@ def main():
                               "sug": "Refinar a extração das passagens a partir do parágrafo original."})
 
         cat_str = ", ".join(doc_cat) if doc_cat else "NA"
+        aut_str = ", ".join(doc_aut) if doc_aut else "NA"
         saida.append({
             "Titulo": tit, "Link": r["Link"], "Data": dt,
-            "Categoria": cat_str,
+            "Categoria": cat_str, "Autoridade": aut_str,
             "Nota_Original": nota_orig, "Descricao_Nota_Original": nota_orig_desc,
             "Nota_Reavaliada": nota_rev, "Descricao_Nota_Reavaliada": desc_rev,
             "Justificativa_Original": just_orig, "Justificativa_Reavaliada": just_rev,
@@ -217,7 +272,8 @@ def main():
     md.append(f"- Documentos com atribuição incoerente: **{n_inc}**")
     md.append(f"- Documentos com justificativa insuficiente: **{len(just_insuf)}**")
     md.append(f"- **Score de Consistência Geral**: **{score_consist}%**")
-    md.append(f"- **Tipo de documento analisado**: **{tipo_label}**\n")
+    md.append(f"- **Tipo de documento analisado**: **{tipo_label}**")
+    md.append(f"- **Tipo de autoridade analisada**: **{aut_label}**\n")
 
     md.append("## Parâmetros Utilizados (extraídos do CSV)\n")
     for n in [1, 2, 3, 4, 5]:
@@ -296,19 +352,19 @@ def main():
     md.append("- Refinar a extração de passagens para evitar truncagem que comprometa a verificação.")
     md.append("")
 
-    (OUT / f"validacao_escala-{tipo_label}_{MODELO}-{DATA}.md").write_text("\n".join(md), encoding="utf-8")
-    print(f"MD: {OUT / f'validacao_escala-{tipo_label}_{MODELO}-{DATA}.md'}")
+    (OUT / f"validacao_escala-{tipo_label}_{aut_label}_{MODELO}-{DATA}.md").write_text("\n".join(md), encoding="utf-8")
+    print(f"MD: {OUT / f'validacao_escala-{tipo_label}_{aut_label}_{MODELO}-{DATA}.md'}")
 
     # ---- CSV corrigido ----
-    csv_corr = OUT / f"correcao_escala-{tipo_label}_{MODELO}-{DATA}.csv"
+    csv_corr = OUT / f"correcao_escala-{tipo_label}_{aut_label}_{MODELO}-{DATA}.csv"
     with open(csv_corr, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter=",", quotechar='"', quoting=csv.QUOTE_ALL)
-        w.writerow(["Titulo", "Link", "Data", "Categoria", "Nota_Original", "Descricao_Nota_Original",
+        w.writerow(["Titulo", "Link", "Data", "Categoria", "Autoridade", "Nota_Original", "Descricao_Nota_Original",
                     "Nota_Reavaliada", "Descricao_Nota_Reavaliada", "Justificativa_Original",
                     "Justificativa_Reavaliada", "Passagens_Originais", "Passagens_Reavaliadas",
                     "Status", "Motivo_Alteração"])
         for s in saida:
-            w.writerow([s["Titulo"], s["Link"], s["Data"], s["Categoria"], s["Nota_Original"],
+            w.writerow([s["Titulo"], s["Link"], s["Data"], s["Categoria"], s["Autoridade"], s["Nota_Original"],
                         s["Descricao_Nota_Original"], s["Nota_Reavaliada"], s["Descricao_Nota_Reavaliada"],
                         s["Justificativa_Original"], s["Justificativa_Reavaliada"],
                         s["Passagens_Originais"], s["Passagens_Reavaliadas"],
@@ -316,7 +372,7 @@ def main():
     print(f"CSV: {csv_corr}")
 
     # ---- JSON corrigido ----
-    json_corr = OUT / f"correcao_escala-{tipo_label}_{MODELO}-{DATA}.json"
+    json_corr = OUT / f"correcao_escala-{tipo_label}_{aut_label}_{MODELO}-{DATA}.json"
     with open(json_corr, "w", encoding="utf-8") as f:
         json.dump(saida, f, ensure_ascii=False, indent=2)
     print(f"JSON: {json_corr}")

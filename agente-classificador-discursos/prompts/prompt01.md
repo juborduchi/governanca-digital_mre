@@ -44,6 +44,14 @@ Pergunte ao usuário:
 
 **Importante:** Anote a escolha do usuário pois ela será utilizada para filtrar os arquivos de entrada e nos nomes dos arquivos de saída.
 
+### Passo 1b: Selecionar Tipo de Autoridade (Cargo)
+Pergunte ao usuário qual autoridade deve ser considerada na avaliação. O cargo está no campo `extra_01` do JSON e admite os valores: `presidente-da-republica`, `ministro-das-relacoes-exteriores`, `secretario-geral` ou `todos`.
+
+Pergunte ao usuário:
+- "Qual tipo de autoridade você deseja avaliar na escala ordinal? (presidente-da-republica, ministro-das-relacoes-exteriores, secretario-geral ou todos)"
+
+**Importante:** Anote a escolha do usuário pois ela será utilizada para filtrar os arquivos de entrada (o JSON de filtragem/verificação deve corresponder à autoridade) e nos nomes dos arquivos de saída.
+
 ### Passo 2: Identificar os arquivos JSON disponíveis para análise
 1. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador-discursos/resultados/jsons-filtrados/`
 2. Liste todos os arquivos `.json` nela contidos
@@ -103,9 +111,9 @@ Para cada documento do(s) arquivo(s) JSON selecionado(s) no Passo 2:
 
 ### Passo 5: Gerar Resultados
 
-**Importante:** Todos os arquivos de saída devem conter o **tipo de documento** sendo analisado (discurso, artigo, entrevista ou todos) além do nome do modelo de IA.
+**Importante:** Todos os arquivos de saída devem conter o **tipo de documento** (discurso, artigo, entrevista ou todos) e o **tipo de autoridade** sendo analisados, além do nome do modelo de IA.
 
-#### Arquivo CSV (`escala-ordinal-[tipo]_[modelo_ia]-[data].csv`)
+#### Arquivo CSV (`escala-ordinal-[tipo]_[autoridade]_[modelo_ia]-[data].csv`)
 Salve em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resultados/`
 
 | Coluna | Descrição |
@@ -114,6 +122,7 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resu
 | Link | Link/endereço do documento |
 | Data | Data de publicação do documento |
 | Categoria | Tipo do documento (discurso/artigo/entrevista) |
+| Autoridade | Cargo de quem proferiu o documento (campo `extra_01`: presidente-da-republica, ministro-das-relacoes-exteriores, secretario-geral) |
 | Nota_Escala | Nota atribuída na escala (1-5) |
 | Descricao_Nota | Descrição do que a nota atribuída representa (copiar exatamente o que o usuário definiu para cada nota) |
 | Justificativa | Explicação do porquê o documento recebeu a nota atribuída (2-3 frases) |
@@ -121,9 +130,9 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resu
 
 **Formato do arquivo**: UTF-8, separador vírgula, aspas para campos com texto longo
 
-**Exemplo de nome**: `escala-ordinal-discursos_opencode-hy3-2026-08-14.csv`
+**Exemplo de nome**: `escala-ordinal-discursos_presidente-da-republica_opencode-hy3-2026-08-14.csv`
 
-#### Arquivo JSON (`escala-ordinal-[tipo]_[modelo_ia]-[data].json`)
+#### Arquivo JSON (`escala-ordinal-[tipo]_[autoridade]_[modelo_ia]-[data].json`)
 Salve na mesma pasta do CSV (`/workspaces/governanca-digital_mre/agente-classificador-discursos/resultados/`).
 
 - Converta as mesmas colunas do CSV para uma lista de objetos JSON (um objeto por documento)
@@ -147,7 +156,7 @@ Apresente um resumo da progresso:
 ## Observações Importantes
 
 - **Fontes de dados**: O agente deve primeiro identificar os JSONs disponíveis em `resultados/jsons-filtrados/` e `resultados/verificacoes/` (Passo 2), perguntar ao usuário qual analisar, e então avaliar esse(s) arquivo(s). Quando o JSON escolhido não trouxer o texto integral, o conteúdo deve ser recuperado de `/workspaces/governanca-digital_mre/json-discursos-artigos-entrevistas` cruzando por título e data.
-- **Nome do arquivo**: Use o tipo de documento e o nome do modelo de IA utilizado (ex: `escala-ordinal_discursos_gpt4-2024-01-15.csv` e `escala-ordinal_discursos_gpt4-2024-01-15.json`)
+- **Nome do arquivo**: Use o tipo de documento, o tipo de autoridade e o nome do modelo de IA utilizados (ex: `escala-ordinal_discursos_presidente-da-republica_gpt4-2024-01-15.csv` e `escala-ordinal_discursos_presidente-da-republica_gpt4-2024-01-15.json`)
 - **Encoding**: Use UTF-8 para todos os arquivos
 - **Consistência**: Mantenha os mesmos critérios para todos os documentos avaliados
 - **Transparência**: A justificativa deve ser clara e baseada em evidências do texto

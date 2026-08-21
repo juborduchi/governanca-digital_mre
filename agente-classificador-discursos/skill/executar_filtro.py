@@ -97,6 +97,13 @@ SINAIS_DIGITAIS = [
 # Categorias validas no JSON
 CATEGORIAS_VALIDAS = {"discursos", "artigos", "entrevistas"}
 
+# Tipos de autoridade validos (campo extra_01 do JSON)
+AUTORIDADES_VALIDAS = {
+    "presidente-da-republica",
+    "ministro-das-relacoes-exteriores",
+    "secretario-geral",
+}
+
 
 def tem_sinal_digital(paragrafo):
     p = normaliza(paragrafo)
@@ -135,6 +142,19 @@ def categoria_match(doc_categoria, tipo_selecionado):
         return False
     cat_lower = [c.lower() for c in doc_categoria]
     return tipo_selecionado.lower() in cat_lower
+
+
+def autoridade_match(doc_autoridade, autoridade_selecionada):
+    """Verifica se o documento foi proferido pela autoridade selecionada.
+
+    O cargo esta no campo extra_01 do JSON (ex.: presidente-da-republica,
+    ministro-das-relacoes-exteriores, secretario-geral)."""
+    if autoridade_selecionada == "todos":
+        return True
+    if not doc_autoridade:
+        return False
+    aut_lower = [a.lower() for a in doc_autoridade]
+    return autoridade_selecionada.lower() in aut_lower
 
 
 def avaliar(nota):
@@ -212,8 +232,6 @@ def gerar_justificativa(titulo, temas, passagens):
 
 
 def main():
-    modelo = "opencode-hy3"
-
     # Ler tipo de documento da linha de comando (ou usar 'todos' como padrao)
     tipo = "todos"
     if len(sys.argv) > 1:
@@ -222,34 +240,59 @@ def main():
             print(f"Tipo invalido: {tipo}. Opcoes: discursos, artigos, entrevistas, todos")
             sys.exit(1)
 
+    # Ler tipo de autoridade da linha de comando (ou usar 'todos' como padrao)
+    autoridade = "todos"
+    if len(sys.argv) > 2:
+        autoridade = sys.argv[2].lower()
+        if autoridade not in AUTORIDADES_VALIDAS and autoridade != "todos":
+            print(f"Autoridade invalida: {autoridade}. Opcoes: presidente-da-republica, "
+                  f"ministro-das-relacoes-exteriores, secretario-geral, todos")
+            sys.exit(1)
+
+    # Ler o modelo de IA da linha de comando (ou usar 'opencode-hy3' como padrao)
+    modelo = "opencode-hy3"
+    if len(sys.argv) > 3:
+        modelo = sys.argv[3]
+
     print(f"Tipo de documento selecionado: {tipo}")
+    print(f"Tipo de autoridade selecionado: {autoridade}")
+    print(f"Modelo de IA: {modelo}")
 
     arquivos = sorted(JSON_DIR.glob("*.json"))
     todas = []
     analisadas = 0
     descartadas = 0
     descartadas_tipo = 0
+    descartadas_autoridade = 0
 
     for arq in arquivos:
         with open(arq, encoding="utf-8") as f:
             dados = json.load(f)
         inner = dados.get("_default", {})
         for chave, nota in inner.items():
-            # Filtrar por categoria
+            # Filtrar por categoria (tipo de documento)
             doc_cat = nota.get("categoria", [])
             if not categoria_match(doc_cat, tipo):
                 descartadas_tipo += 1
+                continue
+
+            # Filtrar por autoridade (cargo no campo extra_01)
+            doc_aut = nota.get("extra_01", []) or []
+            if not autoridade_match(doc_aut, autoridade):
+                descartadas_autoridade += 1
                 continue
 
             analisadas += 1
             pert, temas, passagens = avaliar(nota)
             if pert:
                 cat_str = ", ".join(doc_cat) if doc_cat else "NA"
+                aut_str = ", ".join(doc_aut) if doc_aut else "NA"
                 todas.append({
                     "titulo": nota.get("titulo", "").strip(),
                     "data": nota.get("data", "").strip(),
                     "link": nota.get("link", "").strip(),
                     "categoria": cat_str,
+                    "autoridade": aut_str,
                     "justificativa": gerar_justificativa(nota.get("titulo", ""), temas, passagens),
                     "passagens": passagens,
                     "temas": temas,
@@ -266,23 +309,25 @@ def main():
 
     ts = datetime.now().strftime("%Y-%m-%d")
 
-    # Nome do arquivo inclui o tipo de documento
+    # Nome do arquivo inclui o tipo de documento e a autoridade
     tipo_label = tipo if tipo != "todos" else "todos"
+    aut_label = autoridade if autoridade != "todos" else "todos"
 
-    csv_path = BASE_RES / f"filtragem_{tipo_label}_{modelo}-{ts}.csv"
+    csv_path = BASE_RES / f"filtragem_{tipo_label}_{aut_label}_{modelo}-{ts}.csv"
     with open(csv_path, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter=",", quotechar='"', quoting=csv.QUOTE_ALL)
-        w.writerow(["Titulo", "Data", "Link", "Categoria", "Justificativa", "Passagens_Relevantes"])
+        w.writerow(["Titulo", "Data", "Link", "Categoria", "Autoridade", "Justificativa", "Passagens_Relevantes"])
         for n in todas:
-            w.writerow([n["titulo"], n["data"], n["link"], n["categoria"],
+            w.writerow([n["titulo"], n["data"], n["link"], n["categoria"], n["autoridade"],
                         n["justificativa"], " | ".join(n["passagens"])])
 
-    json_path = JSONS_FILTRADOS_DIR / f"json-filtragem-{tipo_label}_{modelo}-{ts}.json"
+    json_path = JSONS_FILTRADOS_DIR / f"json-filtragem-{tipo_label}_{aut_label}_{modelo}-{ts}.json"
     out = {"_default": {}}
     for i, n in enumerate(todas, 1):
         orig = n["nota_original"].copy()
         orig["analise_filtragem"] = {
             "tipo_documento": tipo_label,
+            "tipo_autoridade": aut_label,
             "temas_identificados": n["temas"],
             "justificativa_selecao": n["justificativa"],
             "passagens_relevantes": n["passagens"],
@@ -292,8 +337,10 @@ def main():
         json.dump(out, f, ensure_ascii=False, indent=2)
 
     print(f"Tipo de documento: {tipo_label}")
-    print(f"Documentos analisados (após filtro de tipo): {analisadas}")
+    print(f"Tipo de autoridade: {aut_label}")
+    print(f"Documentos analisados (após filtros de tipo e autoridade): {analisadas}")
     print(f"Documentos descartados por tipo: {descartadas_tipo}")
+    print(f"Documentos descartados por autoridade: {descartadas_autoridade}")
     print(f"Pertinentes: {len(todas)}")
     print(f"Descartadas (por conteúdo): {descartadas}")
     print(f"CSV: {csv_path}")

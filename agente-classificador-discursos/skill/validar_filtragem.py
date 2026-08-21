@@ -9,6 +9,7 @@ verifica os excluidos com sinal forte (falsos negativos).
 import json
 import csv
 import glob
+import re
 import sys
 from pathlib import Path
 from datetime import datetime
@@ -19,11 +20,44 @@ RES = BASE / "agente-classificador-discursos/resultados"
 VERIF = RES / "verificacoes"
 VERIF.mkdir(exist_ok=True)
 
-MODELO = "opencode-hy3"
-DATA = "2026-08-14"
+MODELO = None  # sera derivado do arquivo de entrada (filtragem)
+DATA = datetime.now().strftime("%Y-%m-%d")
 
 # Categorias validas
 CATEGORIAS_VALIDAS = {"discursos", "artigos", "entrevistas"}
+
+# Tipos de autoridade validos (campo extra_01 do JSON)
+AUTORIDADES_VALIDAS = {
+    "presidente-da-republica",
+    "ministro-das-relacoes-exteriores",
+    "secretario-geral",
+}
+
+
+def autoridade_match(doc_autoridade, autoridade_selecionada):
+    """Verifica se o documento foi proferido pela autoridade selecionada (extra_01)."""
+    if autoridade_selecionada == "todos":
+        return True
+    if not doc_autoridade:
+        return False
+    aut_lower = [a.lower() for a in doc_autoridade]
+    return autoridade_selecionada.lower() in aut_lower
+
+
+def extrair_modelo_data(arquivo, prefixo):
+    """A partir do nome do arquivo, extrai (modelo, data) do sufixo '{modelo}-{AAAA-MM-DD}'.
+
+    O prefixo e informado (ex.: 'filtragem_discursos_ministro-das-relacoes-exteriores_').
+    Retorna (None, None) se o padrao nao corresponder.
+    """
+    nome = arquivo.stem
+    if not nome.startswith(prefixo):
+        return None, None
+    sufixo = nome[len(prefixo):]
+    m = re.match(r"^(?P<modelo>.+)-(?P<data>\d{4}-\d{2}-\d{2})$", sufixo)
+    if not m:
+        return None, None
+    return m.group("modelo"), m.group("data")
 
 
 def main():
@@ -35,7 +69,17 @@ def main():
             print(f"Tipo invalido: {tipo}. Opcoes: discursos, artigos, entrevistas, todos")
             sys.exit(1)
 
+    # Ler tipo de autoridade da linha de comando (ou usar 'todos' como padrao)
+    autoridade = "todos"
+    if len(sys.argv) > 2:
+        autoridade = sys.argv[2].lower()
+        if autoridade not in AUTORIDADES_VALIDAS and autoridade != "todos":
+            print(f"Autoridade invalida: {autoridade}. Opcoes: presidente-da-republica, "
+                  f"ministro-das-relacoes-exteriores, secretario-geral, todos")
+            sys.exit(1)
+
     print(f"Tipo de documento selecionado: {tipo}")
+    print(f"Tipo de autoridade selecionado: {autoridade}")
 
     # Carregar originais
     origem = {}
@@ -48,19 +92,29 @@ def main():
             origem[(tit, dt)] = v
             todas.append((tit, dt))
 
-    # Carregar CSV filtrado - procurar o mais recente
-    csv_files = sorted(RES.glob(f"filtragem_{tipo}_{MODELO}-*.csv"))
-    if not csv_files:
-        print(f"Nenhum arquivo de filtragem encontrado para tipo={tipo}. Execute a filtragem primeiro.")
+    # Carregar CSV filtrado - procurar o mais recente (respeitando tipo e autoridade) e
+    # derivar o modelo e a data a partir do proprio nome do arquivo.
+    prefixo = f"filtragem_{tipo}_{autoridade}_"
+    candidatos = []
+    for cf in sorted(RES.glob(f"{prefixo}*.csv")):
+        modelo, data = extrair_modelo_data(cf, prefixo)
+        if modelo and data:
+            candidatos.append((cf, modelo, data))
+    if not candidatos:
+        print(f"Nenhum arquivo de filtragem encontrado para tipo={tipo}, autoridade={autoridade}. "
+              f"Execute a filtragem primeiro.")
         sys.exit(1)
-    csv_path = csv_files[-1]
-    print(f"Carregando filtragem: {csv_path.name}")
+    csv_path, MODELO, DATA = candidatos[-1]
+    print(f"Carregando filtragem: {csv_path.name} (modelo={MODELO}, data={DATA})")
     incluidas = list(csv.DictReader(open(csv_path, encoding="utf-8")))
 
     # Carregar temas do JSON filtrado para identificar as de tema amplo
-    json_files = sorted((RES / "jsons-filtrados").glob(f"json-filtragem-{tipo}_{MODELO}-*.json"))
+    prefixo_j = f"json-filtragem-{tipo}_{autoridade}_"
+    json_files = [jf for jf in sorted((RES / "jsons-filtrados").glob(f"{prefixo_j}*.json"))
+                  if extrair_modelo_data(jf, prefixo_j)[1] == DATA]
     if not json_files:
-        print(f"Nenhum arquivo JSON filtrado encontrado para tipo={tipo}. Execute a filtragem primeiro.")
+        print(f"Nenhum arquivo JSON filtrado encontrado para tipo={tipo}, modelo={MODELO}, data={DATA}. "
+              f"Execute a filtragem primeiro.")
         sys.exit(1)
     json_filt = json.load(open(json_files[-1], encoding="utf-8"))
     temas_por_titulo = {}
@@ -145,6 +199,11 @@ def main():
             if tipo.lower() not in cat_lower:
                 continue
 
+        # Filtrar por autoridade (campo extra_01)
+        doc_aut = nota.get("extra_01", []) or []
+        if not autoridade_match(doc_aut, autoridade):
+            continue
+
         corpo = " ".join(nota.get("paragrafos", []) or "").lower()
         if not any(s in corpo for s in SINAIS):
             continue
@@ -169,6 +228,7 @@ def main():
     q_insuf = 0
 
     tipo_label = tipo if tipo != "todos" else "todos"
+    aut_label = autoridade if autoridade != "todos" else "todos"
 
     print(f"Tipo de documento: {tipo_label}")
     print(f"Originais: {total_orig} | Filtradas: {total_filt} | Excluidas: {total_excl}")
@@ -187,7 +247,8 @@ def main():
     md.append(f"- **Documentos adicionados** (falsos negativos): **{n_fn}**")
     md.append(f"- **Total de documentos relevantes finais**: **{relevantes_finais}**")
     md.append(f"- **Score de Confiança Geral**: **{confianca}%**")
-    md.append(f"- **Tipo de documento analisado**: **{tipo_label}**\n")
+    md.append(f"- **Tipo de documento analisado**: **{tipo_label}**")
+    md.append(f"- **Tipo de autoridade analisada**: **{aut_label}**\n")
 
     md.append("## 1. Documentos Removidos (Falsos Positivos)\n")
     md.append("Removidos por conterem apenas menção digital incidental, sem relação substantiva "
@@ -223,17 +284,17 @@ def main():
     md.append("- Manter a guarda de coocorrência para termos sensíveis (privacidade, vigilância, dados pessoais).")
     md.append("- Humanizar as justificativas, citando o ato/posicionamento concreto do MRE.\n")
 
-    (VERIF / f"validacao_{tipo_label}_{MODELO}-{DATA}.md").write_text("\n".join(md), encoding="utf-8")
-    print(f"MD: {VERIF / f'validacao_{tipo_label}_{MODELO}-{DATA}.md'}")
+    (VERIF / f"validacao_{tipo_label}_{aut_label}_{MODELO}-{DATA}.md").write_text("\n".join(md), encoding="utf-8")
+    print(f"MD: {VERIF / f'validacao_{tipo_label}_{aut_label}_{MODELO}-{DATA}.md'}")
 
     # ---- CSV relevantes ----
-    csv_rel = VERIF / f"notas-relevantes_{tipo_label}_{MODELO}-{DATA}.csv"
+    csv_rel = VERIF / f"notas-relevantes_{tipo_label}_{aut_label}_{MODELO}-{DATA}.csv"
     with open(csv_rel, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter=",", quotechar='"', quoting=csv.QUOTE_ALL)
-        w.writerow(["Titulo", "Data", "Link", "Categoria", "Justificativa", "Passagens_Relevantes", "Origem"])
+        w.writerow(["Titulo", "Data", "Link", "Categoria", "Autoridade", "Justificativa", "Passagens_Relevantes", "Origem"])
         for row, qual in mantidas:
             w.writerow([row["Titulo"], row["Data"], row["Link"], row.get("Categoria", ""),
-                        row["Justificativa"], row["Passagens_Relevantes"], "Filtragem"])
+                        row.get("Autoridade", ""), row["Justificativa"], row["Passagens_Relevantes"], "Filtragem"])
     print(f"CSV: {csv_rel}")
 
     # ---- JSON relevantes ----
@@ -242,6 +303,7 @@ def main():
         notas_rel.append({
             "titulo": row["Titulo"], "data": row["Data"], "link": row["Link"],
             "categoria": row.get("Categoria", ""),
+            "autoridade": row.get("Autoridade", ""),
             "origem": "Filtragem", "justificativa": row["Justificativa"],
             "passagens": row.get("Passagens_Relevantes", "").split(" | "),
             "qualidade_justificativa": qual,
@@ -249,6 +311,7 @@ def main():
     out = {
         "metadata": {
             "modelo_ia": MODELO, "tipo_documento": tipo_label,
+            "tipo_autoridade": aut_label,
             "data_verificacao": DATA,
             "arquivo_filtragem_original": csv_path.name,
             "contexto_utilizado": "contexto01.md", "periodo_analisado": "2014-2025",
@@ -270,9 +333,9 @@ def main():
             "Humanizar justificativas citando o ato/posicionamento do MRE.",
         ],
     }
-    json.dump(out, open(VERIF / f"verificacao_{tipo_label}_{MODELO}-{DATA}.json", "w", encoding="utf-8"),
+    json.dump(out, open(VERIF / f"verificacao_{tipo_label}_{aut_label}_{MODELO}-{DATA}.json", "w", encoding="utf-8"),
               ensure_ascii=False, indent=2)
-    print(f"JSON: {VERIF / f'verificacao_{tipo_label}_{MODELO}-{DATA}.json'}")
+    print(f"JSON: {VERIF / f'verificacao_{tipo_label}_{aut_label}_{MODELO}-{DATA}.json'}")
 
 
 if __name__ == "__main__":

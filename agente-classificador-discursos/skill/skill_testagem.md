@@ -33,6 +33,14 @@ Pergunte ao usuário:
 
 **Importante:** Anote a escolha do usuário pois ela será utilizada para filtrar os arquivos de entrada e nos nomes dos arquivos de saída.
 
+### Passo 1b: Selecionar Tipo de Autoridade (Cargo)
+Pergunte ao usuário qual autoridade deve ser considerada na validação. O cargo está no campo `extra_01` do JSON e admite os valores: `presidente-da-republica`, `ministro-das-relacoes-exteriores`, `secretario-geral` ou `todos`.
+
+Pergunte ao usuário:
+- "Qual tipo de autoridade você deseja validar? (presidente-da-republica, ministro-das-relacoes-exteriores, secretario-geral ou todos)"
+
+**Importante:** Anote a escolha do usuário pois ela será utilizada para filtrar os arquivos de entrada (o CSV/JSON de filtragem deve corresponder ao tipo de autoridade) e nos nomes dos arquivos de saída.
+
 ### Passo 2: Verificar Resultados Disponíveis
 1. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador-discursos/resultados/`
 2. Identifique os **CSVs de filtragem** disponíveis (padrão: `filtragem_[tipo]_[modelo]-[data].csv`)
@@ -290,10 +298,10 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resu
 
 ## Observações Importantes
 
-- **Nome dos arquivos**: Use o tipo de documento e o nome do modelo de IA utilizado:
-  - `validacao_[tipo]_[modelo]-[data].md` - Relatório completo (resumo, documentos removidos, documentos adicionados, qualidade, padrões, recomendações)
-  - `notas-relevantes_[tipo]_[modelo]-[data].csv` - CSV com documentos relevantes (Mantidos + Adicionados)
-  - `verificacao_[tipo]_[modelo]-[data].json` - JSON com documentos relevantes
+- **Nome dos arquivos**: Use o tipo de documento, o tipo de autoridade e o nome do modelo de IA utilizados:
+  - `validacao_[tipo]_[autoridade]_[modelo]-[data].md` - Relatório completo (resumo, documentos removidos, documentos adicionados, qualidade, padrões, recomendações)
+  - `notas-relevantes_[tipo]_[autoridade]_[modelo]-[data].csv` - CSV com documentos relevantes (Mantidos + Adicionados)
+  - `verificacao_[tipo]_[autoridade]_[modelo]-[data].json` - JSON com documentos relevantes
 - **Pasta de saída**: Todos os arquivos devem ser salvos em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resultados/verificacoes/`
 - **Encoding**: Use UTF-8 para todos os arquivos
 - **Arquivo MD principal**: O `validacao_[tipo]_[modelo]-[data].md` contém **TUDO**:

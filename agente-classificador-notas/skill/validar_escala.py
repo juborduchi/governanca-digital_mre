@@ -77,6 +77,17 @@ def normaliza(t):
 def main():
     csv_path = RES / f"escala-ordinal_{MODELO}-{DATA}.csv"
     rows = list(csv.DictReader(open(csv_path, encoding="utf-8")))
+
+    # Parametros definidos pelo usuario: recuperados do proprio CSV de entrada
+    # (coluna Descricao_Nota), garantindo fidelidade a escala usada na avaliacao.
+    descricoes = {}
+    for r in rows:
+        try:
+            n = int(r["Nota_Escala"])
+        except (ValueError, KeyError):
+            continue
+        descricoes.setdefault(n, r.get("Descricao_Nota", ""))
+
     origem = {}
     for f in glob.glob(str(JSON_DIR / "*.json")):
         d = json.load(open(f, encoding="utf-8"))
@@ -112,7 +123,7 @@ def main():
         else:
             status = "Alterada"
             nota_rev = nota_aud
-            desc_rev = DESCRICAO[nota_aud]
+            desc_rev = descricoes.get(nota_aud, "")
             # justificativa reavaliada simples
             just_rev = (f"Reavaliação: o texto é de cooperação econômica/industrial de "
                         f"cunho amplo, com menção a tecnologias apenas incidental e sem "
@@ -177,7 +188,7 @@ def main():
 
     md.append("## Parâmetros Utilizados (extraídos do CSV)\n")
     for n in [1, 2, 3, 4, 5]:
-        md.append(f"- **Nota {n}**: {DESCRICAO[n]}")
+        md.append(f"- **Nota {n}**: {descricoes.get(n, '(nao presente no CSV)')}")
     md.append("")
 
     md.append("## 1. Notas com Atribuição Incoerente\n")
@@ -260,14 +271,6 @@ def main():
                         s["Status"], s["Motivo_Alteração"]])
     print(f"CSV: {csv_corr}")
 
-
-DESCRICAO = {
-    1: "Soberania Digital - Soberania do Estado, garantias democráticas, direitos fundamentais, multilateralismo, multissetorialismo",
-    2: "Predominantemente Soberanista - Foco principal na soberania e direitos, com alguma abertura para inovação",
-    3: "Modelo Misto - Equilíbrio entre soberania/direitos e desenvolvimento/inovação (não puramente mercantil)",
-    4: "Predominantemente Liberal - Foco principal na inovação e abertura de mercado, com alguma regulação estatal",
-    5: "Baixa Intervenção Estatal - Inovação livre, autorregulação, lógica mercantil",
-}
 
 if __name__ == "__main__":
     main()

@@ -35,6 +35,14 @@ Pergunte ao usuário:
 
 **Importante:** Anote a escolha do usuário pois ela será utilizada para filtrar os arquivos de entrada e nos nomes dos arquivos de saída.
 
+### Passo 1b: Selecionar Tipo de Autoridade (Cargo)
+Pergunte ao usuário qual autoridade deve ser considerada na validação. O cargo está no campo `extra_01` do JSON e admite os valores: `presidente-da-republica`, `ministro-das-relacoes-exteriores`, `secretario-geral` ou `todos`.
+
+Pergunte ao usuário:
+- "Qual tipo de autoridade você deseja validar? (presidente-da-republica, ministro-das-relacoes-exteriores, secretario-geral ou todos)"
+
+**Importante:** Anote a escolha do usuário pois ela será utilizada para filtrar os arquivos de entrada (o CSV de escala ordinal deve corresponder à autoridade) e nos nomes dos arquivos de saída.
+
 ### Passo 2: Verificar Resultados Disponíveis
 1. Acesse a pasta `/workspaces/governanca-digital_mre/agente-classificador-discursos/resultados/`
 2. Identifique os **CSVs de escala ordinal** disponíveis (padrão: `escala-ordinal-[tipo]_[modelo]-[data].csv`)
@@ -140,7 +148,7 @@ Para cada documento classificado:
 
 **Importante:** O nome do arquivo deve conter o **tipo de documento** sendo analisado além do modelo de IA.
 
-#### Arquivo Markdown (`validacao_escala-[tipo]_[modelo_ia]-[data].md`)
+#### Arquivo Markdown (`validacao_escala-[tipo]_[autoridade]_[modelo_ia]-[data].md`)
 Salve em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resultados/verificacoes-ordinais/`
 
 **Estrutura do Relatório**:
@@ -201,7 +209,7 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resu
 
 ### Passo 11: Gerar CSV Corrigido
 
-#### Arquivo CSV (`correcao_escala-[tipo]_[modelo_ia]-[data].csv`)
+#### Arquivo CSV (`correcao_escala-[tipo]_[autoridade]_[modelo_ia]-[data].csv`)
 Salve em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resultados/verificacoes-ordinais/`
 
 **Estrutura do CSV** (mesmo formato do original):
@@ -211,6 +219,7 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resu
 | Link | Link/endereço do documento |
 | Data | Data de publicação do documento |
 | Categoria | Tipo do documento (discurso/artigo/entrevista) |
+| Autoridade | Cargo de quem proferiu o documento (campo `extra_01`: presidente-da-republica, ministro-das-relacoes-exteriores, secretario-geral) |
 | Nota_Original | Nota atribuída na classificação original (1-5) |
 | Descricao_Nota_Original | Descrição original da nota atribuída (extraída do CSV original) |
 | Nota_Reavaliada | Nota após validação (1-5 ou "Mantida") |
@@ -224,7 +233,7 @@ Salve em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resu
 
 **Formato do arquivo**: UTF-8, separador vírgula, aspas para campos com texto longo
 
-#### Arquivo JSON (`correcao_escala-[tipo]_[modelo_ia]-[data].json`)
+#### Arquivo JSON (`correcao_escala-[tipo]_[autoridade]_[modelo_ia]-[data].json`)
 Salve na mesma pasta do CSV corrigido (`/workspaces/governanca-digital_mre/agente-classificador-discursos/resultados/verificacoes-ordinais/`).
 
 - Converta as mesmas colunas do CSV corrigido para uma lista de objetos JSON (um objeto por documento)
@@ -235,7 +244,7 @@ Salve na mesma pasta do CSV corrigido (`/workspaces/governanca-digital_mre/agent
 
 ## Observações Importantes
 
-- **Nome do arquivo**: Use o tipo de documento e o nome do modelo de IA utilizado (ex: `validacao_escala_discursos_gpt4-2024-01-15.md`, `correcao_escala_discursos_gpt4-2024-01-15.csv` e `correcao_escala_discursos_gpt4-2024-01-15.json`)
+- **Nome do arquivo**: Use o tipo de documento, o tipo de autoridade e o nome do modelo de IA utilizados (ex: `validacao_escala_discursos_presidente-da-republica_gpt4-2024-01-15.md`, `correcao_escala_discursos_presidente-da-republica_gpt4-2024-01-15.csv` e `correcao_escala_discursos_presidente-da-republica_gpt4-2024-01-15.json`)
 - **Pasta de saída**: Todos os arquivos devem ser salvos em `/workspaces/governanca-digital_mre/agente-classificador-discursos/resultados/verificacoes-ordinais/`
 - **Encoding**: Use UTF-8 para todos os arquivos
 - **Consistência**: Mantenha o formato dos CSVs de saída similar aos de entrada
