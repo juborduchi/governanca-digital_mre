@@ -1,0 +1,70 @@
+[
+  {
+    "ano": 2020,
+    "ocorrencias": 8,
+    "total_Soberana/Multilateral": 7,
+    "total_Mercado/Inovação": 3,
+    "cnt_A": {
+      "multilateral": 1,
+      "governanca": 6
+    },
+    "cnt_B": {
+      "inovacao": 2,
+      "desenvolvimento": 1
+    }
+  },
+  {
+    "ano": 2021,
+    "ocorrencias": 3,
+    "total_Soberana/Multilateral": 0,
+    "total_Mercado/Inovação": 3,
+    "cnt_A": {},
+    "cnt_B": {
+      "desenvolvimento": 3
+    }
+  },
+  {
+    "ano": 2022,
+    "ocorrencias": 19,
+    "total_Soberana/Multilateral": 23,
+    "total_Mercado/Inovação": 8,
+    "cnt_A": {
+      "multissetorial": 4,
+      "governanca": 16,
+      "multissetoriais": 2,
+      "multilateral": 1
+    },
+    "cnt_B": {
+      "desenvolvimento": 7,
+      "inovacao": 1
+    }
+  },
+  {
+    "ano": 2023,
+    "ocorrencias": 4,
+    "total_Soberana/Multilateral": 1,
+    "total_Mercado/Inovação": 0,
+    "cnt_A": {
+      "governanca": 1
+    },
+    "cnt_B": {}
+  },
+  {
+    "ano": 2024,
+    "ocorrencias": 3,
+    "total_Soberana/Multilateral": 1,
+    "total_Mercado/Inovação": 0,
+    "cnt_A": {
+      "multilaterais": 1
+    },
+    "cnt_B": {}
+  },
+  {
+    "ano": 2025,
+    "ocorrencias": 0,
+    "total_Soberana/Multilateral": 0,
+    "total_Mercado/Inovação": 0,
+    "cnt_A": {},
+    "cnt_B": {}
+  }
+]

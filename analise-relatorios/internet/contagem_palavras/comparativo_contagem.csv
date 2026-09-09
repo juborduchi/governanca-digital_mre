@@ -1,0 +1,7 @@
+ano,ocorrencias,total_Soberana/Multilateral,total_Mercado/Inovação,cnt_A,cnt_B
+2020,8,7,3,"{'multilateral': 1, 'governanca': 6}","{'inovacao': 2, 'desenvolvimento': 1}"
+2021,3,0,3,{},{'desenvolvimento': 3}
+2022,19,23,8,"{'multissetorial': 4, 'governanca': 16, 'multissetoriais': 2, 'multilateral': 1}","{'desenvolvimento': 7, 'inovacao': 1}"
+2023,4,1,0,{'governanca': 1},{}
+2024,3,1,0,{'multilaterais': 1},{}
+2025,0,0,0,{},{}
