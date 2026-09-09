@@ -4,7 +4,8 @@ Este agente processa as notas à imprensa do MRE (em `/workspaces/governanca-dig
 para a pesquisa sobre **Governança Global Digital**. O fluxo tem **três etapas**:
 
 1. **Filtragem heurística** — seleciona as notas pertinentes ao tema (script).
-2. **Validação heurística** — audita a filtragem e gera o conjunto refinado de notas relevantes (script).
+2. **Validação por LLM** — o modelo reexamina o JSON filtrado e remove falsos positivos
+   (não percorre todas as notas originais).
 3. **Escala ordinal semântica (1–5)** — o LLM lê os `paragrafos` de cada nota e atribui nota segundo parâmetros que você define (skill para o modelo).
 
 ---
@@ -30,21 +31,24 @@ python3 skill/executar_filtro.py 2014 2025  # intervalo de anos (inclusivo)
 
 ---
 
-## Etapa 2 — Validação heurística
+## Etapa 2 — Validação por LLM
 
-```bash
-python3 skill/validar_filtragem.py
-```
+Esta etapa é executada pelo **modelo de linguagem** (o agente), não por script.
+Peça para o agente seguir a skill:
 
-Re-screena as notas incluídas apenas pelo tema amplo "Infraestrutura e Tecnologias Digitais"
-(remove possíveis falsos positivos por menção digital incidental) e caça falsos negativos.
+> "Siga `prompts/prompt02_verificar_llm.md`"
 
-**Saídas** (em `resultados/verificacoes/`):
-- `validacao_heuristico-[data].md` — relatório (resumo, notas removidas, padrões, recomendações)
-- `notas-relevantes_heuristico-[data].csv` — notas relevantes (mantidas + adicionadas)
-- `verificacao_heuristico-[data].json` — notas relevantes (**entrada da Etapa 3**)
+O LLM então:
+1. Lista `resultados/jsons-filtrados/` e usa o **`json-filtragem-heuristico-[data].json`** mais recente.
+2. **Lê os `paragrafos`** de cada nota **já filtrada** — não percorre as notas originais.
+3. Detecta **falsos positivos** (menção digital incidental em nota de comércio/economia/
+   cultura/ciência, calendários/agendas sem posicionamento, duplicadas).
+4. Gera em `resultados/verificacoes/`:
+   - `validacao_llm-[data].md` — relatório
+   - `verificacao_llm-[data].json` — notas relevantes (**entrada da Etapa 3**)
 
-> Dica: rode a Etapa 2 logo após a Etapa 1, usando os arquivos mais recentes de `filtragem_heuristico-*`.
+> Nota: o antigo script heurístico `skill/validar_filtragem.py` fica como referência
+> legada; a validação ativa passa a ser semântica, por LLM.
 
 ---
 
@@ -57,7 +61,7 @@ Peça para o agente seguir a skill:
 
 O agente então:
 1. Lista `resultados/verificacoes/` e `resultados/jsons-filtrados/` e pergunta qual JSON usar
-   (use preferencialmente `verificacao_heuristico-*.json` da Etapa 2).
+   (use preferencialmente `verificacao_llm-*.json` da Etapa 2).
 2. Pergunta os **parâmetros da escala 1–5**. Exemplo de eixo sugerido (pode ser substituído):
    - **1** — Soberania Digital: soberania do Estado, garantias democráticas, direitos fundamentais, multilateralismo, multissetorialismo
    - **2** — Predominantemente Soberanista: foco em soberania/direitos, com alguma abertura para inovação
@@ -83,14 +87,15 @@ agente-classificador-notas-LLM/
 ├── skill/
 │   ├── executar_filtro.py         # Etapa 1 (filtragem heurística)
 │   ├── skill_filtro.md            # documentação da Etapa 1
-│   ├── validar_filtragem.py       # Etapa 2 (validação heurística)
+│   ├── validar_filtragem.py       # Etapa 2 heurística (legada)
 │   └── parametros_escala.exemplo.json  # exemplo de parâmetros 1–5
 ├── prompts/
-│   └── prompt01_llm.md            # Etapa 3 (escala ordinal por LLM)
+│   ├── prompt02_verificar_llm.md      # Etapa 2 (verificação da filtragem por LLM)
+│   └── prompt01_llm.md                # Etapa 3 (escala ordinal por LLM)
 └── resultados/
     ├── filtragem_heuristico-[data].csv
     ├── jsons-filtrados/json-filtragem-heuristico-[data].json
-    └── verificacoes/              # saídas da Etapa 2
+    └── verificacoes/                  # saídas da Etapa 2
 ```
 
 ---
@@ -101,8 +106,8 @@ agente-classificador-notas-LLM/
 # 1) Filtragem
 python3 skill/executar_filtro.py 2014 2025
 
-# 2) Validação
-python3 skill/validar_filtragem.py
+# 2) Validação (pedir ao agente/LLM)
+#    "Siga prompts/prompt02_verificar_llm.md"
 
 # 3) Escala ordinal (pedir ao agente/LLM)
 #    "Siga prompts/prompt01_llm.md"

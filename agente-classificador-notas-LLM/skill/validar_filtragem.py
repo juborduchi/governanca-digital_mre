@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-validar_filtragem.py — VALIDAÇÃO HEURÍSTICA da filtragem heurística.
+validar_filtragem.py — VALIDAÇÃO HEURÍSTICA da filtragem heurística (LEGADA).
+
+LEGADO: a etapa 2 (validação da filtragem) passou a ser feita por LLM —
+siga `prompts/prompt02_verificar_llm.md`. Este script permanece apenas como
+referência da abordagem heurística anterior.
 
 Auditoria independente (sem LLM):
 - Re-screen das notas incluídas APENAS pelo tema amplo
