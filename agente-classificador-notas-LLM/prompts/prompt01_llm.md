@@ -25,10 +25,10 @@ contagem de termos.
 ## Fluxo de Execução
 
 ### Passo 1 — JSON de entrada
-1. Liste `resultados/verificacoes/` (saída da validação heurística) e `resultados/jsons-filtrados/`
+1. Liste `resultados/verificacao-filtragem/` (saída da validação da filtragem heurística — prompt03) e `resultados/filtragem-heuristica/jsons-filtrados/`
    (saída da filtragem heurística).
-2. **Prefira** o JSON validado em `resultados/verificacoes/verificacao_*.json` quando
-   existir; caso contrário, use `resultados/jsons-filtrados/json-filtragem-*.json`.
+2. **Prefira** o JSON validado em `resultados/verificacao-filtragem/verificacao-filtragem_*.json` quando
+   existir; caso contrário, use `resultados/filtragem-heuristica/jsons-filtrados/json-filtragem-heuristico-*.json`.
 3. Pergunte ao usuário qual JSON usar.
 4. Carregue as notas e, para cada uma, **leia os `paragrafos`** (campo `paragrafos`).
    Use `titulo`, `data`, `link` e `paragrafos` como base da avaliação.
@@ -53,12 +53,12 @@ Para cada nota:
 5. Selecione até 3 **Passagens_Relevantes** literais que sustentam a nota.
 
 ### Passo 4 — Resultados
-Salve em `resultados/`:
+Salve em `resultados/escalas-ordinais/`:
 
 **CSV** `escala-ordinal_[modelo]-[versao]_[data].csv` (UTF-8, vírgula, aspas):
 | Titulo | Link | Data | Nota_Escala | Descricao_Nota | Justificativa | Passagens_Relevantes |
 
-**JSON** `resultados/escalas-ordinais/escala-ordinal-[modelo]-[versao]-[data].json`:
+**JSON** `escala-ordinal-[modelo]-[versao]-[data].json`:
 lista de objetos com as mesmas chaves (use `ensure_ascii=False`, `indent=2`).
 
 `Descricao_Nota` = definição **literal** fornecida pelo usuário para aquele valor.
