@@ -13,7 +13,7 @@ contagem de termos.
 
 ## Princípios (OBRIGATÓRIOS)
 - **Leitura real dos `paragrafos`**: para cada nota, leia o campo **`paragrafos`** do
-  JSON de filtragem/validação. Não julgue por título, resumo ou presença de termos
+  JSON de filtragem. Não julgue por título, resumo ou presença de termos
   isolados. Se o JSON não trouxer o texto integral, recupere de
   `/workspaces/governanca-digital_mre/json-notas` cruzando por título e data.
 - **Proibido pontuação por palavras** (ex.: dicionários "soberano"/"liberal" com pesos).
@@ -25,12 +25,9 @@ contagem de termos.
 ## Fluxo de Execução
 
 ### Passo 1 — JSON de entrada
-1. Liste `resultados/verificacao-filtragem/` (saída da validação da filtragem heurística — prompt03) e `resultados/filtragem-heuristica/jsons-filtrados/`
-   (saída da filtragem heurística).
-2. **Prefira** o JSON validado em `resultados/verificacao-filtragem/verificacao-filtragem_*.json` quando
-   existir; caso contrário, use `resultados/filtragem-heuristica/jsons-filtrados/json-filtragem-heuristico-*.json`.
-3. Pergunte ao usuário qual JSON usar.
-4. Carregue as notas e, para cada uma, **leia os `paragrafos`** (campo `paragrafos`).
+1. Liste apenas os arquivos em `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/resultados/filtragem-heuristica/json-filtragem-heuristico-*.json`.
+2. Pergunte ao usuário qual JSON usar.
+3. Carregue as notas e, para cada uma, **leia os `paragrafos`** (campo `paragrafos`).
    Use `titulo`, `data`, `link` e `paragrafos` como base da avaliação.
 
 ### Passo 2 — Parâmetros da escala (DEFINIDOS PELO USUÁRIO)

@@ -28,10 +28,8 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
 JSON_NOTAS_DIR = Path("/workspaces/governanca-digital_mre/json-notas")
-RESULTADOS_DIR = BASE / "resultados"
-JSONS_FILTRADOS_DIR = RESULTADOS_DIR / "jsons-filtrados"
-RESULTADOS_DIR.mkdir(exist_ok=True)
-JSONS_FILTRADOS_DIR.mkdir(exist_ok=True)
+FILTRAGEM_HEURISTICA_DIR = BASE / "resultados" / "filtragem-heuristica"
+FILTRAGEM_HEURISTICA_DIR.mkdir(parents=True, exist_ok=True)
 
 # Temas centrais do contexto01.md. Cada um com variantes de mencao substantiva.
 TEMAS = {
@@ -260,7 +258,7 @@ def main():
     todas.sort(key=ord_data)
 
     ts = datetime.now().strftime("%Y-%m-%d")
-    csv_path = RESULTADOS_DIR / f"filtragem_{modelo}-{ts}.csv"
+    csv_path = FILTRAGEM_HEURISTICA_DIR / f"filtragem_{modelo}-{ts}.csv"
     with open(csv_path, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter=",", quotechar='"', quoting=csv.QUOTE_ALL)
         w.writerow(["Titulo", "Data", "Link", "Justificativa", "Passagens_Relevantes"])
@@ -268,7 +266,7 @@ def main():
             w.writerow([n["titulo"], n["data"], n["link"], n["justificativa"],
                         " | ".join(n["passagens"])])
 
-    json_path = JSONS_FILTRADOS_DIR / f"json-filtragem-{modelo}-{ts}.json"
+    json_path = FILTRAGEM_HEURISTICA_DIR / f"json-filtragem-{modelo}-{ts}.json"
     out = {"_default": {}}
     for i, n in enumerate(todas, 1):
         orig = n["nota_original"].copy()
