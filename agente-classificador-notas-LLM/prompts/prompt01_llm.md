@@ -34,8 +34,12 @@ contagem de termos.
    Use `titulo`, `data`, `link` e `paragrafos` como base da avaliação.
 
 ### Passo 2 — Parâmetros da escala (DEFINIDOS PELO USUÁRIO)
-Antes de avaliar qualquer nota, pergunte os parâmetros de 1 a 5. Sugira como referência
-(não imponha) o eixo Soberania Digital ↔ Baixa Intervenção Estatal.
+Antes de avaliar qualquer nota:
+1. **Identifique o modelo e versão** que você está usando (ex.: `gpt-4o-2024-08-06`,
+   `claude-3-5-sonnet-20241022`, `mimo-v2.5-free`). Use o padrão `modelo-versao`
+   (sem espaços, sem `/`) nos nomes dos arquivos de saída.
+2. Pergunte os **parâmetros de 1 a 5**. Sugira como referência (não imponha) o eixo
+   Soberania Digital ↔ Baixa Intervenção Estatal.
 Registre **literalmente** as definições do usuário (irão para `Descricao_Nota`).
 Confirme antes de prosseguir. Você pode carregar um arquivo em
 `skill/parametros_escala.exemplo.json` como ponto de partida.
@@ -51,10 +55,10 @@ Para cada nota:
 ### Passo 4 — Resultados
 Salve em `resultados/`:
 
-**CSV** `escala-ordinal_[modelo]-[data].csv` (UTF-8, vírgula, aspas):
+**CSV** `escala-ordinal_[modelo]-[versao]_[data].csv` (UTF-8, vírgula, aspas):
 | Titulo | Link | Data | Nota_Escala | Descricao_Nota | Justificativa | Passagens_Relevantes |
 
-**JSON** `resultados/escalas-ordinais/escala-ordinal-[modelo]-[data].json`:
+**JSON** `resultados/escalas-ordinais/escala-ordinal-[modelo]-[versao]-[data].json`:
 lista de objetos com as mesmas chaves (use `ensure_ascii=False`, `indent=2`).
 
 `Descricao_Nota` = definição **literal** fornecida pelo usuário para aquele valor.
@@ -63,5 +67,5 @@ lista de objetos com as mesmas chaves (use `ensure_ascii=False`, `indent=2`).
 - Total avaliado; distribuição (quantas de cada nota); parâmetros usados.
 
 ## Reprodutibilidade
-- `temperature=0`; nome do modelo e data nos arquivos.
+- `temperature=0`; nome do modelo+versão e data nos arquivos.
 - Mantenha o JSON de entrada para re-execução e auditoria.

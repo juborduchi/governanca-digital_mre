@@ -1,0 +1,7 @@
+| Nota | Descrição | Características |
+|------|-----------|-----------------|
+| 1 | Soberania Digital | Soberania digital do Estado, garantias democráticas, direitos fundamentais, multilateralismo, multissetorialismo |
+| 2 | Predominantemente Soberanista | Foco principal na soberania e direitos, com alguma abertura para inovação |
+| 3 | Modelo Misto | Equilíbrio entre soberania/direitos e desenvolvimento/inovação (não puramente mercantil) |
+| 4 | Predominantemente Liberal | Foco principal na inovação e abertura de mercado, com alguma regulação estatal |
+| 5 | Baixa Intervenção Estatal | Inovação livre, autorregulação, lógica mercantil |

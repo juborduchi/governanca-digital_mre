@@ -36,11 +36,14 @@ antes de avaliar.
 ## Fluxo de Execução
 
 ### Passo 1 — JSON de entrada
-1. Liste `resultados/jsons-filtrados/` (saída da filtragem heurística).
-2. **Pergunte ao usuário qual arquivo usar**, apresentando os arquivos
+1. **Identifique o modelo e versão** que você está usando (ex.: `gpt-4o-2024-08-06`,
+   `claude-3-5-sonnet-20241022`, `mimo-v2.5-free`). Use o padrão `modelo-versao`
+   (sem espaços, sem `/`) nos nomes dos arquivos de saída.
+2. Liste `resultados/jsons-filtrados/` (saída da filtragem heurística).
+3. **Pergunte ao usuário qual arquivo usar**, apresentando os arquivos
    `json-filtragem-heuristico-[data].json` disponíveis (e o intervalo de datas/ano
    que contêm quando perceptível). Mesmo havendo apenas um, confirme antes de seguir.
-3. Carregue as notas do campo `_default` do arquivo escolhido. Para cada nota, leia
+4. Carregue as notas do campo `_default` do arquivo escolhido. Para cada nota, leia
    **`titulo`**, **`data`**, **`link`** e principalmente **`paragrafos`**.
 
 ### Passo 2 — Avaliação
@@ -50,10 +53,10 @@ Para cada nota do JSON de entrada:
 3. Para cada falso positivo, registre o **motivo** e o **trecho** que justifica a remoção.
 
 ### Passo 3 — Resultados
-Salve em `resultados/verificacoes/`, usando o modelo `llm`:
+Salve em `resultados/verificacoes/`:
 
-- **JSON** `verificacao_llm-[data].json` — entrada da etapa de escala ordinal, com:
-  - `metadata` (modelo = `llm`, data, arquivo de filtragem original, contexto01.md)
+- **JSON** `verificacao_[modelo]-[versao]-[data].json` — entrada da etapa de escala ordinal, com:
+  - `metadata` (modelo, versão, data, arquivo de filtragem original, contexto01.md)
   - `resumo`: `total_notas_filtradas`, `notas_relevantes`, `notas_removidas` (falsos
     positivos), número de notas mantidas
   - `notas_relevantes`: lista das notas **mantidas** (as da filtragem menos os falsos
@@ -62,8 +65,13 @@ Salve em `resultados/verificacoes/`, usando o modelo `llm`:
   - `falsos_positivos`: lista com `titulo`, `data`, `link`, `motivo`, `trecho`
   - `padroes_identificados` e `recomendacoes`
 
-- **Markdown** `validacao_llm-[data].md` — relatório legível com resumo executivo e a
+- **Markdown** `validacao_[modelo]-[versao]-[data].md` — relatório legível com resumo executivo e a
   lista de falsos positivos (título, data, motivo).
+
+- **CSV** `verificacao_[modelo]-[versao]-[data].csv` — planilha com todas as notas avaliadas, colunas:
+  `titulo`, `data`, `link`, `classificacao` (Relevante / Falso Positivo),
+  `motivo` (vazio se relevante), `trecho` (vazio se relevante). Separador: `;`,
+  encoding UTF-8 com BOM para compatibilidade com Excel em PT-BR.
 
 ## Consistência de contagem
 - `notas_relevantes` + `falsos_positivos` = `total_notas_filtradas`.
@@ -74,5 +82,5 @@ Salve em `resultados/verificacoes/`, usando o modelo `llm`:
   como falsos positivos (com percentual).
 
 ## Reprodutibilidade
-- `temperature=0`; nome do modelo (`llm`) e data nos arquivos.
+- `temperature=0`; nome do modelo+versão e data nos arquivos.
 - Mantenha o JSON de entrada (filtragem) e o JSON de saída (verificação) para auditoria.
