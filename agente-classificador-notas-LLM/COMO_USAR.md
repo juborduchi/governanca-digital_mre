@@ -1,12 +1,13 @@
 # Como usar o Agente de Classificação de Notas à Imprensa do MRE
 
 Este agente processa as notas à imprensa do MRE (em `/workspaces/governanca-digital_mre/json-notas`)
-para a pesquisa sobre **Governança Global Digital**. O fluxo tem **três etapas**:
+para a pesquisa sobre **Governança Global Digital**. O fluxo tem **quatro etapas**:
 
 1. **Filtragem heurística** — seleciona as notas pertinentes ao tema (script).
 2. **Validação por LLM** — o modelo reexamina o JSON filtrado e remove falsos positivos
    (não percorre todas as notas originais).
 3. **Escala ordinal semântica (1–5)** — o LLM lê os `paragrafos` de cada nota e atribui nota segundo parâmetros que você define (skill para o modelo).
+4. **Validação da Escala Ordinal** — o modelo reavalia as notas classificadas, verificando coerência com os parâmetros e identificando possíveis inconsistências.
 
 ---
 
@@ -76,6 +77,26 @@ O agente então:
 
 ---
 
+## Etapa 4 — Validação da Escala Ordinal (LLM)
+
+Esta etapa é executada pelo **modelo de linguagem** (o agente), não por script.
+Peça para o agente seguir a skill:
+
+> "Siga `prompts/prompt03_validar_escala.md`"
+
+O agente então:
+1. Lista `resultados/escalas-ordinais/` e pergunta qual JSON usar.
+2. Pergunta os **parâmetros da escala 1–5** que foram usados na classificação original.
+3. **Lê os `paragrafos`** de cada nota e verifica se a nota atribuída está coerente
+   com o conteúdo e com os parâmetros definidos.
+4. Identifica **inconsistências** (notas onde a classificação não condiz com o conteúdo).
+5. Gera em `resultados/verificacoes-ordinal/`:
+   - `validacao-escala-[modelo]-[data].json` — dados completos da validação
+   - `relatorio-validacao-escala-[modelo]-[data].md` — relatório legível
+   - `validacao-escala-[modelo]-[data].csv` — planilha com todas as notas avaliadas
+
+---
+
 ## Estrutura de arquivos
 
 ```
@@ -91,11 +112,14 @@ agente-classificador-notas-LLM/
 │   └── parametros_escala.exemplo.json  # exemplo de parâmetros 1–5
 ├── prompts/
 │   ├── prompt02_verificar_llm.md      # Etapa 2 (verificação da filtragem por LLM)
-│   └── prompt01_llm.md                # Etapa 3 (escala ordinal por LLM)
+│   ├── prompt01_llm.md                # Etapa 3 (escala ordinal por LLM)
+│   └── prompt03_validar_escala.md     # Etapa 4 (validação da escala ordinal)
 └── resultados/
     ├── filtragem_heuristico-[data].csv
     ├── jsons-filtrados/json-filtragem-heuristico-[data].json
-    └── verificacoes/                  # saídas da Etapa 2
+    ├── verificacoes/                  # saídas da Etapa 2
+    ├── escalas-ordinais/              # saídas da Etapa 3
+    └── verificacoes-ordinal/          # saídas da Etapa 4
 ```
 
 ---
@@ -111,7 +135,10 @@ python3 skill/executar_filtro.py 2014 2025
 
 # 3) Escala ordinal (pedir ao agente/LLM)
 #    "Siga prompts/prompt01_llm.md"
+
+# 4) Validação da escala ordinal (pedir ao agente/LLM)
+#    "Siga prompts/prompt03_validar_escala.md"
 ```
 
 Pronto: de ~5.169 notas originais chega-se a um conjunto refinado e quantificado
-qualitativamente na escala ordinal 1–5.
+qualitativamente na escala ordinal 1–5, com validação de coerência.
