@@ -1,0 +1,1641 @@
+# New session - 2026-09-18T13:59:30.072Z
+
+**Session ID:** ses_f4b2f51e7ffe0YKmINyKkiWQ2F
+**Created:** 9/18/2026, 1:59:30 PM
+**Updated:** 9/18/2026, 2:10:01 PM
+
+---
+
+## User
+
+explore com o funciona o seguinte agente /workspaces/governanca-digital_mre/agente-classificador-notas-LLM
+
+---
+
+## Assistant (Build · MiMo V2.5 Free · 118.5s)
+
+_Thinking:_
+
+The user wants me to explore how the agent at `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM` works. Let me use the explore agent to understand this codebase.
+
+**Tool: task**
+
+**Input:**
+```json
+{
+  "description": "Explore agente-classificador-notas-LLM",
+  "prompt": "Explore the directory /workspaces/governanca-digital_mre/agente-classificador-notas-LLM thoroughly. I need to understand:\n\n1. The overall structure of the project\n2. What the agent does (classification of notes using LLM)\n3. How it works - the flow/logic\n4. Key files and their purposes\n5. Dependencies and technologies used\n6. Configuration files\n7. Any README or documentation\n\nPlease provide a comprehensive summary of how this agent works, including the main code flow, key functions, and architecture. Be very thorough.",
+  "subagent_type": "explore"
+}
+```
+
+**Output:**
+```
+<task id="ses_f4b2f06daffeUAxvARzRcLaF7X" state="completed">
+<task_result>
+Here is a comprehensive analysis of the `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM` project.
+
+---
+
+## Comprehensive Summary: Agente de Classificacao de Notas a Imprensa do MRE
+
+### 1. PURPOSE AND SCOPE
+
+This project is an **LLM-powered classification agent** designed to analyze and classify press releases ("notas a imprensa") from Brazil's Ministry of Foreign Affairs (MRE - Ministerio das Relacoes Exteriores). The research focus is on **Global Digital Governance** and the MRE's positioning on this topic from 2014 to 2025.
+
+The agent transforms approximately 5,169 raw press release JSON files into a refined, qualitatively quantified dataset using a 1-5 ordinal scale measuring positions from "Digital Sovereignty" to "Low State Intervention."
+
+### 2. PROJECT STRUCTURE
+
+```
+agente-classificador-notas-LLM/
+├── README.md                              # Pipeline overview (Portuguese)
+├── COMO_USAR.md                           # Detailed usage guide
+├── contextos/
+│   └── contexto01.md                      # Research context definition
+├── skill/
+│   ├── executar_filtro.py                 # Stage 1: Heuristic filtering script
+│   ├── skill_filtro.md                    # Stage 1 documentation
+│   └── parametros_escala.exemplo.json     # Example 1-5 scale parameters
+├── prompts/
+│   ├── prompt01_llm.md                    # Stage 2: LLM ordinal scale assignment
+│   └── prompt03_validar_escala.md         # Stage 3: Validation with triangulation
+├── resultados/
+│   ├── filtragem-heuristica/              # Stage 1 outputs
+│   ├── escalas-ordinais/                  # Stage 2 outputs (current)
+│   ├── escalas-ordinais-MiMo/             # Stage 2 outputs (MiMo model)
+│   ├── verificacoes-ordinal/              # Stage 3 outputs (validation)
+│   └── passados/                          # Archived previous runs
+├── rascunhos/
+│   └── parametros_rascunho.md             # Draft scale parameters
+├── visualizacao-MiMo/
+│   └── escala_ordinal_visualizacao_completa_executado.ipynb   # Visualization notebook (MiMo)
+├── visualizacao-muse/
+│   └── escala_ordinal_visualizacao_completa_executado.ipynb   # Visualization notebook (Muse)
+├── 2026-02-17_muse.md                     # Session log
+├── session-ses_0360.md                    # Session log
+└── validacao-muse-2026-09-18.md           # Session log (validation run)
+```
+
+### 3. THE THREE-STAGE PIPELINE
+
+The project implements a rigorous three-stage classification pipeline:
+
+#### Stage 1: Heuristic Filtering (`skill/executar_filtro.py`)
+
+**Type:** Automated Python script (no LLM involved)
+
+**What it does:**
+- Reads all press release JSON files from `/workspaces/governanca-digital_mre/json-notas/`
+- Filters them based on keyword/topic matching against 9 predefined topic categories
+- Applies quality criteria to discard calendar entries, agendas, and ceremonial content
+
+**Key Logic:**
+1. **Topic vocabulary matching:** Defines 9 topic categories with Portuguese/English variants:
+   - `Governanca da Internet` (Internet Governance)
+   - `Governanca da Inteligencia Artificial` (AI Governance)
+   - `Protecao de Dados e Privacidade` (Data Protection & Privacy)
+   - `Soberania Digital` (Digital Sovereignty)
+   - `Direitos Humanos Online` (Human Rights Online)
+   - `Ciberseguranca` (Cybersecurity)
+   - `Infraestrutura e Tecnologias Digitais` (Infrastructure & Digital Technologies)
+   - `Economia e Comercio Digital` (Economy & Digital Commerce)
+   - `Multilateralismo e Foros de Governanca Digital` (Multilateralism & Digital Governance Forums)
+
+2. **Weak term handling:** Terms like "privacidade" (privacy) alone may refer to non-digital contexts (e.g., banking privacy). The script requires co-occurrence of a "digital signal" term in the same paragraph for weak terms.
+
+3. **Calendar/agenda discard:** Notes matching patterns like "calendario de eventos," "agenda do ministro," or containing very short text (<200 chars) are automatically rejected.
+
+4. **Output:**
+   - CSV file with columns: Titulo, Data, Link, Justificativa, Passagens_Relevantes
+   - JSON file with full note data plus `analise_filtragem` block (identified topics, justification, relevant passages)
+
+**Usage:**
+```bash
+python3 skill/executar_filtro.py           # all years
+python3 skill/executar_filtro.py 2014 2025 # year range (inclusive)
+```
+
+**Key functions in `executar_filtro.py`:**
+- `normaliza(t)` - Lowercase text normalization
+- `ano_de(data)` - Extract year from DD/MM/YYYY date
+- `eh_calendario(titulo, paragrafos)` - Detect calendar/agenda notes
+- `tem_sinal_digital(paragrafo)` - Check for digital context signals in a paragraph
+- `avaliar(nota)` - Main evaluation function returning (pertinent, themes, passages)
+- `gerar_justificativa(titulo, temas, passagens)` - Generate natural language justification
+- `main()` - Entry point orchestrating the full pipeline
+
+#### Stage 2: LLM Ordinal Scale Assignment (`prompts/prompt01_llm.md`)
+
+**Type:** LLM-based (interactive prompt for an AI agent)
+
+**What it does:**
+- The LLM reads the `paragrafos` (full paragraph text) of each filtered note
+- Asks the user to define a 1-5 ordinal scale (with a suggested default)
+- Assigns a 1-5 score to each note based on semantic alignment with the scale parameters
+- Generates justification and extracts up to 3 supporting passages
+
+**Agent Identity:** "Specialist in International Relations and Digital Governance"
+
+**Mandatory Principles:**
+- Must read the actual `paragrafos` field, never judge by title alone
+- Prohibits word-counting or dictionary-weighting methods
+- Prohibits template-based justifications
+- Must use exclusively user-defined parameters
+- Must qualitatively discard any remaining calendar/agenda notes
+
+**Default Scale (Soberania Digital vs. Baixa Intervencao Estatal):**
+| Score | Description |
+|-------|-------------|
+| 1 | Soberania Digital - State sovereignty, democratic guarantees, fundamental rights, multilateralism, multistakeholderism |
+| 2 | Predominantemente Soberanista - Focus on sovereignty/rights with some openness to innovation |
+| 3 | Modelo Misto - Balance between sovereignty/rights and development/innovation |
+| 4 | Predominantemente Liberal - Focus on innovation/market opening with some state regulation |
+| 5 | Baixa Intervencao Estatal - Free innovation, self-regulation, market logic |
+
+**Outputs:**
+- CSV: `escala-ordinal_[model]-[version]_[date].csv`
+- JSON: `escala-ordinal-[model]-[version]-[date].json`
+
+#### Stage 3: Validation with Triangulation (`prompts/prompt03_validar_escala.md`)
+
+**Type:** LLM-based (interactive prompt for an AI agent)
+
+**What it does:**
+- Cross-references the Stage 2 ordinal JSON with the Stage 1 filtering JSON
+- Validates that each assigned 1-5 score is coherent with:
+  - The actual `paragrafos` content
+  - The heuristic classification metadata (`classificado`, `categoria`, `autoria`)
+  - The user-defined parameters
+- Detects patterns (e.g., all notes of same heuristic classification receiving same score without differentiation)
+- Identifies inconsistencies
+
+**Agent Identity:** "Specialist in IR and Digital Governance performing qualitative audit"
+
+**Key Features:**
+- **Triangulation:** Uses two independent JSON sources to validate
+- **Conservative bias:** When genuinely borderline, keeps the original classification
+- **Own justification:** The validator writes its own justification, not just echoes the original
+
+**Outputs:**
+- JSON: Complete validation data with coherent/inconsistent notes, patterns, recommendations
+- Markdown: Human-readable report with executive summary, distribution before/after, inconsistencies
+- CSV: Spreadsheet with all evaluated notes (semicolon separator, UTF-8 BOM for Excel PT-BR compatibility)
+
+### 4. RESEARCH CONTEXT (`contextos/contexto01.md`)
+
+This is a detailed academic research document defining:
+- **Researcher:** Juliana Borduchi de Freitas (UNESP Franca, PIBIC program)
+- **Advisor:** Prof. Dr. Marcelo Passini Mariano
+- **Lab:** LANTRI (Laboratorio de Novas Tecnologias e Pesquisa em Relacoes Internacionais)
+- **Central Question:** "How has Brazil's MRE positioned itself regarding Global Digital Governance after the Marco Civil da Internet (2014-2025)?"
+- **Key Milestones:** Snowden case (2013), Marco Civil (2014), LGPD (2018), ANPD (2018), .Amazon dispute (2019), Global Digital Compact (2024), X suspension in Brazil (2024), PBIA (2025)
+- **MRE Characteristics:** Defense of Digital Sovereignty, Multilateral approach, Multistakeholder governance, Human Rights protection, International cooperation
+
+### 5. DEPENDENCIES AND TECHNOLOGIES
+
+**Python (Stage 1):**
+- Standard library only: `json`, `csv`, `re`, `sys`, `datetime`, `pathlib`, `collections`
+- No external dependencies required for the filtering script
+
+**Visualization Notebooks (Jupyter):**
+- `json` - Data loading
+- `datetime` - Date parsing
+- `collections` (Counter, defaultdict) - Data aggregation
+- `numpy` - Statistical calculations
+- `matplotlib.pyplot` - Chart generation
+- `matplotlib.colors.LinearSegmentedColormap` - Custom color maps
+
+**LLM Models Used (from results):**
+- `mimo-v2.5-free` - MiMo model (used for both Stage 2 and Stage 3)
+- `muse-spark-1.3-contributor-free` - Muse Spark model (used for both Stage 2 and Stage 3)
+- `union-alpha` - Union Alpha model (Stage 2 only)
+- `nemotron-3-ultra-free` - Nemotron model (archived in passados)
+
+**Configuration:**
+- `skill/parametros_escala.exemplo.json` - JSON defining the 1-5 scale descriptions
+- Temperature set to 0 for reproducibility across all LLM runs
+
+### 6. KEY FILES AND THEIR PURPOSES
+
+| File | Purpose |
+|------|---------|
+| `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/README.md` | Pipeline overview and structure documentation |
+| `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/COMO_USAR.md` | Detailed step-by-step usage instructions |
+| `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/contextos/contexto01.md` | Academic research context (scope, concepts, methodology) |
+| `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/skill/executar_filtro.py` | Stage 1: Automated heuristic filtering (295 lines of Python) |
+| `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/skill/skill_filtro.md` | Documentation for Stage 1 |
+| `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/skill/parametros_escala.exemplo.json` | Example 1-5 scale definitions |
+| `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/prompts/prompt01_llm.md` | Stage 2: LLM ordinal scoring prompt/instruction |
+| `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/prompts/prompt03_validar_escala.md` | Stage 3: LLM validation with triangulation prompt |
+| `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/visualizacao-MiMo/escala_ordinal_visualizacao_completa_executado.ipynb` | Visualization notebook using MiMo model results |
+| `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/visualizacao-muse/escala_ordinal_visualizacao_completa_executado.ipynb` | Visualization notebook using Muse Spark model results |
+| `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/resultados/verificacoes-ordinal/relatorio-validacao-escala-muse-spark-1.3-contributor-free-2026-09-18.md` | Latest validation report (Muse Spark model, 178 notes, 100% coherent) |
+
+### 7. CURRENT RESULTS (as of the latest runs)
+
+**Stage 1 - Heuristic Filtering (2026-09-10):**
+- 178 notes deemed pertinent to Global Digital Governance
+
+**Stage 2 - MiMo model (2026-09-16):**
+- Distribution: Note 2 = 18 (10.1%), Note 3 = 135 (75.8%), Note 4 = 25 (14.0%)
+- Heavily concentrated in the "Mixed Model" middle ground
+
+**Stage 2 - Muse Spark model (2026-09-17):**
+- Distribution: Note 1 = 22 (12.4%), Note 2 = 59 (33.1%), Note 3 = 63 (35.4%), Note 4 = 32 (18.0%), Note 5 = 2 (1.1%)
+- Much more granular spread across the full scale
+
+**Stage 3 - Validation:**
+- Both model validations found 0 inconsistencies (100% coherent classifications)
+- The Muse Spark validation provided detailed borderline case analysis confirming each classification
+
+### 8. ARCHITECTURE SUMMARY
+
+```
+[Raw JSON files]  -->  [Stage 1: Python Script]  -->  [Filtered JSON]
+     5,169 notes         (keyword + heuristic)          178 notes
+                                                            |
+                                                            v
+                            [Stage 2: LLM Agent]  -->  [Ordinal Scale JSON]
+                            (reads paragrafos,          (178 scored notes)
+                             user defines scale)
+                                                            |
+                                                            v
+                            [Stage 3: LLM Agent]  -->  [Validation JSON + Report]
+                            (triangulation:              (178 validated notes,
+                             ordinal JSON x               0 inconsistencies)
+                             filtering JSON)
+                                                            |
+                                                            v
+                            [Visualization Notebooks]  -->  [Charts + Statistics]
+                            (Jupyter/matplotlib)            (distribution, temporal,
+                                                             proportional, boxplots)
+```
+
+The design is notably modular: Stage 1 is deterministic (Python script), while Stages 2 and 3 are LLM-driven and interactive (the agent asks the user questions at each step). The triangulation in Stage 3 is a key quality assurance mechanism -- it independently reads the full paragraph text and cross-references metadata from the heuristic filtering to catch any misclassifications from Stage 2. The visualization notebooks then provide academic-grade statistical analysis appropriate for ordinal scales (using medians, IQRs, proportional stacked bars, and strip+boxplots rather than misleading means on ordinal data).
+</task_result>
+</task>
+```
+
+---
+
+## Assistant (Build · MiMo V2.5 Free · 10.5s)
+
+_Thinking:_
+
+The explore agent has provided a very comprehensive analysis of the agent. Let me summarize the key findings for the user in Portuguese since the project is in Portuguese.
+
+## Agente Classificador de Notas a Imprensa do MRE - Resumo
+
+O projeto é um **pipeline de 3 estágios** para classificar notas a imprensa do Itamaraty sobre **Governança Digital Global** (2014-2025), usando LLMs.
+
+### Estrutura do Pipeline
+
+```
+5.169 notas JSON → [Estágio 1: Filtro Heurístico] → 178 notas relevantes
+                                                      ↓
+                                    [Estágio 2: LLM] → Escala ordinal 1-5
+                                                      ↓
+                                    [Estágio 3: Validação] → Triangulação + Relatório
+                                                      ↓
+                                    [Visualização] → Gráficos Jupyter
+```
+
+### Estágio 1 - Filtro Heurístico (`skill/executar_filtro.py`)
+- Script Python puro (sem LLM), ~295 linhas
+- Compara notas com 9 categorias temáticas (Governança da Internet, IA, Dados, Soberania Digital, etc.)
+- Descarta calendários/agendas automaticamente
+- Exige co-ocorrência de "sinal digital" para termos fracos (ex: "privacidade" sozinho pode ser contexto bancário)
+
+### Estágio 2 - Atribuição LLM (`prompts/prompt01_llm.md`)
+- LMM lê os parágrafos completos de cada nota filtrada
+- Escala ordinal 1-5 definida pelo usuário (Soberania Digital → Baixa Intervenção Estatal)
+- Gera justificativa e extrai até 3 passagens de suporte
+
+### Estágio 3 - Validação (`prompts/prompt03_validar_escala.md`)
+- **Triangulação**: cruza JSON do Estágio 2 com JSON do Estágio 1
+- Valida coerência entre escala atribuída, parágrafos e metadados do filtro
+- Detecta padrões e inconsistências
+
+### Resultados Atuais
+| Modelo | Distribuição | Validação |
+|--------|-------------|-----------|
+| MiMo | 2=10%, 3=76%, 4=14% | 100% coerente |
+| Muse Spark | 1=12%, 2=33%, 3=35%, 4=18%, 5=1% | 100% coerente |
+
+O Muse Spark demonstrou distribuição mais granular, enquanto o MiMo concentrou-se no meio ( Modelo Misto).
+
+---
+
+## User
+
+agora me ajude a adaptar essa classificação de notas pra classificar os arquivos do json "/workspaces/governanca-digital_mre/json-discursos-artigos-entrevistas". esse novo projeto sera armazenado na pasta /workspaces/governanca-digital_mre/agente-discursos-llm. na etapa de filtragem além de perguntar o contexto o agente deve perguntar qual o tipo de arquivo (discurso, artigo ou entrevista) (essa informação esta em uma das colunas do json, nao lembro se era algum extra). OS NOVOS ARQUIVOS DEVEM SER FEITOS NA PASTA /workspaces/governanca-digital_mre/agente-discursos-llm
+
+---
+
+## Assistant (Build · MiMo V2.5 Free · 127.3s)
+
+_Thinking:_
+
+The user wants me to adapt the classification agent for press releases (notas a imprensa) to work with speeches, articles, and interviews (discursos, artigos, entrevistas). Let me first understand the structure of the new JSON files and the existing project to plan the adaptation properly.
+
+I need to:
+1. Explore the JSON files in `/workspaces/governanca-digital_mre/json-discursos-artigos-entrevistas` to understand the structure
+2. Review the existing project files more carefully to understand what needs to be adapted
+3. Create a plan for the new project
+
+Let me start by exploring the data and existing code.
+
+Vou explorar a estrutura dos novos JSONs e revisar o projeto existente para planejar a adaptação.
+
+**Tool: task**
+
+**Input:**
+```json
+{
+  "description": "Explore discursos JSON structure",
+  "prompt": "Explore the directory /workspaces/governanca-digital_mre/json-discursos-artigos-entrevistas. I need to understand:\n\n1. How many JSON files are there?\n2. What is the structure/schema of these JSON files? Read at least 3 different files to understand the fields.\n3. Specifically look for a field that indicates the \"tipo\" (type) - whether it's \"discurso\", \"artigo\", or \"entrevista\". Check if it's in an \"extra\" field or elsewhere.\n4. What other fields are available compared to the notas a imprensa JSONs?\n5. Check the date range of the files.\n\nAlso read the JSON files in /workspaces/governanca-digital_mre/json-notas/ (just 1-2 files) to compare the structure with the new discursos files.\n\nReturn a detailed comparison of the two JSON structures and specifically identify where the \"tipo\" field is located in the discursos JSONs.",
+  "subagent_type": "explore"
+}
+```
+
+**Output:**
+```
+<task id="ses_f4b2889e3ffeCjPYM2vS4cmdum" state="completed">
+<task_result>
+Now I have all the information needed. Here is the comprehensive analysis:
+
+---
+
+## Detailed Report: `/json-discursos-artigos-entrevistas` and Comparison with `/json-notas`
+
+---
+
+### 1. Number of JSON Files
+
+| Directory | File Count | Date Range |
+|-----------|-----------|------------|
+| `json-discursos-artigos-entrevistas` | **143 files** | 2014-01 through 2025-12 |
+| `json-notas` | **145 files** | 2014-01 through 2025-12 |
+
+**Note:** The discursos directory is missing one file: `2014-05` (May 2014), while the notas directory has all months covered.
+
+---
+
+### 2. Schema / Structure of the Discursos JSON Files
+
+Each JSON file is a flat dictionary with a single top-level key `"_default"`, containing numbered records (`"1"`, `"2"`, `"3"`, ...). Every record has **exactly the same 32 fields**:
+
+| Field | Description | Example Values |
+|-------|-------------|----------------|
+| `tipo_dado` | Data type (list) | `["aberto"]` |
+| `pais` | Country (list) | `["Brasil"]` |
+| `origem` | Origin entity (list) | `["Ministério das Relações Exteriores"]` |
+| `sigla` | Database acronym | `"BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS"` |
+| `classificado` | Classification | `"NA"` (always "NA" in discursos) |
+| `categoria` | **The "tipo" field** (list) | `["discursos"]`, `["artigos"]`, `["entrevistas"]` |
+| `autoria` | Author identifier (list) | `["celso-amorim-2003-2010"]`, `["mauro-vieira"]` |
+| `titulo` | Title | Full text |
+| `subtitulo` | Subtitle | `"NA"` or location/date info |
+| `data` | Publication date | `"27/01/2020"` (DD/MM/YYYY) |
+| `horario` | Time | `"10h13"`, `"00h00"` |
+| `datatime` | DateTime | `"NA"` (always) |
+| `data_atualizado` | Last update date (list) | `["25/03/2025"]` |
+| `horario_atualizado` | Last update time (list) | `["10h33"]` |
+| `link` | Source URL | Full gov.br URL |
+| `link_archive` | Archive URL | `"NA"` |
+| `data_archive` | Archive date | `"NA"` |
+| `horario_archive` | Archive time | `"NA"` |
+| `local` | Location | `"NA"` |
+| `tags` | Tags (list) | `["Comunicação Governamental"]` |
+| `paragrafos` | Full text content (list of strings) | Array of paragraphs |
+| `imagens` | Images | `"NA"` |
+| `nome_arquivo` | Filename | `"NA"` |
+| `dir_arquivo` | File directory | `"NA"` |
+| `dir_base` | Base directory (list) | `["/hdvm12"]` |
+| `codigo_bd` | Database code | `"bd/003/001/001/001/002/010"` |
+| `dir_bd` | Database directory (list) | `["/json/"]` |
+| `nome_arq_bd` | Database file name | `"BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS-2024-01"` |
+| `env_dir_bd` | Environment directory | `"BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS"` |
+| `extra_01` | Author role/position (list) | `["presidente-da-republica"]`, `["ministro-das-relacoes-exteriores"]`, `["secretario-geral"]` |
+| `extra_02` | (Unused) | `"NA"` |
+| `extra_03` | (Unused) | `"NA"` |
+
+---
+
+### 3. Where the "tipo" (Type) Field Lives
+
+**The "tipo" is in the `categoria` field**, NOT in an `extra` field.
+
+The `categoria` field is a list containing one of three possible values:
+- **`"discursos"`** -- 2,036 records (83.1%)
+- **`"entrevistas"`** -- 235 records (9.6%)
+- **`"artigos"`** -- 178 records (7.3%)
+
+**Total: 2,449 records** across all 143 files.
+
+The `extra` fields serve a different purpose:
+- **`extra_01`** indicates the **author's institutional role/position** (one of 3 values):
+  - `"presidente-da-republica"` -- 1,458 records
+  - `"ministro-das-relacoes-exteriores"` -- 884 records
+  - `"secretario-geral"` -- 107 records
+- **`extra_02`** and **`extra_03`** are always `"NA"` (unused).
+
+---
+
+### 4. Field Comparison: Discursos vs. Notas a Imprensa
+
+The two JSON structures share **identical field schemas** -- all 32 fields are the same. The differences are in the **values and semantics**:
+
+| Aspect | Discursos/Artigos/Entrevistas | Notas a Imprensa |
+|--------|-------------------------------|------------------|
+| **`sigla`** | `BD_DE_LATAM_BRA_GOVFEDERAL_MRE_DISCURSOS_ARTIGOS_ENTREVISTAS` | `BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA` |
+| **`categoria`** | **Contains the type**: `["discursos"]`, `["artigos"]`, or `["entrevistas"]` | **Empty**: `[]` (not used) |
+| **`classificado`** | Always `"NA"` | Always `["noticias institucionais"]` |
+| **`autoria`** | Specific author slug (e.g. `["mauro-vieira"]`) or `"NA"` | `["NA"]` or `["Ministério das Relações Exteriores"]` (institutional) |
+| **`origem`** | `"Ministério das Relações Exteriores"` (capitalized) | `"ministerio das relações exteriores"` (lowercase, no accents) |
+| **`paragrafos`** | Full speech/article text (many paragraphs, often very long) | Short press note text (usually 1-3 paragraphs) |
+| **`nome_arquivo`** | Always `"NA"` | Actual HTML filename (e.g. `["2024-01-31-19h55-...html"]`) |
+| **`dir_arquivo`** | Always `"NA"` | Actual directory path (e.g. `["/hdvm12/bd/.../dados/2024/01/31"]`) |
+| **`extra_01`** | Author role slug (`["ministro-das-relacoes-exteriores"]`, etc.) | `"NA"` (in older files) or a **numeric string** like `["48"]`, `["53"]` (in newer files from ~2023+) |
+| **`extra_02`** | Always `"NA"` | Always `["NA"]` |
+| **`extra_03`** | Always `"NA"` | Always `["NA"]` |
+| **`imagens`** | `"NA"` (string) | `[]` (empty list) |
+
+---
+
+### 5. Date Range and Volume
+
+**Discursos/Artigos/Entrevistas:**
+
+| Year | Total | Discursos | Artigos | Entrevistas |
+|------|-------|-----------|---------|-------------|
+| 2014 | 212 | 166 | 25 | 21 |
+| 2015 | 146 | 125 | 12 | 9 |
+| 2016 | 112 | 82 | 13 | 17 |
+| 2017 | 99 | 70 | 28 | 1 |
+| 2018 | 63 | 28 | 31 | 4 |
+| 2019 | 122 | 82 | 11 | 29 |
+| 2020 | 70 | 62 | 1 | 7 |
+| 2021 | 59 | 52 | 3 | 4 |
+| 2022 | 30 | 27 | 3 | 0 |
+| 2023 | 218 | 139 | 15 | 64 |
+| 2024 | 143 | 124 | 9 | 10 |
+| 2025 | 1,175 | 1,079 | 27 | 69 |
+| **Total** | **2,449** | **2,036** | **178** | **235** |
+
+**Notas a Imprensa:**
+- Date range: 2014-01 to 2025-12
+- Total: **5,169 records**
+- Yearly range: from 172 (2020) to 632 (2024)
+
+The discursos collection has a massive spike in 2025 (1,175 records, nearly 48% of all records), which likely reflects bulk migration/import of historical content to the new gov.br platform.
+
+---
+
+### Summary of Key Findings
+
+1. **The `tipo` field is `categoria`** -- it holds `"discursos"`, `"artigos"`, or `"entrevistas"`. It is NOT in the `extra` fields.
+2. **`extra_01`** holds the **author's institutional role** (presidente-da-republica, ministro-das-relacoes-exteriores, or secretario-geral) -- not the document type.
+3. Both directories use **exactly the same 32-field schema**, but differ in field value semantics (notably `classificado`, `categoria`, `autoria`, `origem`, `nome_arquivo`, `dir_arquivo`, and `imagens`).
+4. The `codigo_bd` is different: `bd/.../010` for discursos vs. `bd/.../001` for notas.
+5. Discursos files have richer, longer `paragrafos` content (speeches/articles), while notas have shorter press-release text.
+</task_result>
+</task>
+```
+
+**Tool: task**
+
+**Input:**
+```json
+{
+  "description": "Read existing filter script",
+  "prompt": "Read the following files completely and return their full content:\n\n1. /workspaces/governanca-digital_mre/agente-classificador-notas-LLM/skill/executar_filtro.py\n2. /workspaces/governanca-digital_mre/agente-classificador-notas-LLM/skill/skill_filtro.md\n3. /workspaces/governanca-digital_mre/agente-classificador-notas-LLM/prompts/prompt01_llm.md\n4. /workspaces/governanca-digital_mre/agente-classificador-notas-LLM/prompts/prompt03_validar_escala.md\n5. /workspaces/governanca-digital_mre/agente-classificador-notas-LLM/README.md\n6. /workspaces/governanca-digital_mre/agente-classificador-notas-LLM/COMO_USAR.md\n\nReturn the FULL content of each file. Do not summarize.",
+  "subagent_type": "general"
+}
+```
+
+**Output:**
+```
+<task id="ses_f4b2887d8ffeW7SNw4GWnAMRDH" state="completed">
+<task_result>
+I've received all 6 files. What would you like me to do with them?
+</task_result>
+</task>
+```
+
+---
+
+## Assistant (Build · MiMo V2.5 Free · 3.5s)
+
+_Thinking:_
+
+The general agent didn't return the file contents. Let me read the key files directly to understand the existing project structure.
+
+Preciso ler os arquivos-chave do projeto existente diretamente.
+
+**Tool: read**
+
+**Input:**
+```json
+{
+  "filePath": "/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/skill/executar_filtro.py"
+}
+```
+
+**Output:**
+```
+<path>/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/skill/executar_filtro.py</path>
+<type>file</type>
+<content>
+1: #!/usr/bin/env python3
+2: # -*- coding: utf-8 -*-
+3: """
+4: Execucao da FILTRAGEM HEURISTICA de notas a Imprensa do MRE.
+5: Tema (contexto01.md): Governanca Global Digital e tudo que a envolve
+6: (internet, IA, dados e demais tecnologias digitais).
+7: 
+8: Abordagem: pre-selecao por vocabulario substantivo de governanca digital
+9: e, em seguida, criterio qualitativo (exige conexao direta com o tema no
+10: corpo do texto, descarta mencoes superficiais e meros calendarios/agendas)
+11: e geracao de justificativas em linguagem natural referenciando o conteudo.
+12: 
+13: A AVALIACAO ORDINAL (nota 1-5) NAO e feita aqui: ela e semantica e deve
+14: ser executada pelo LLM seguindo prompts/prompt01_llm.md, que le o JSON
+15: filtrado gerado por este script.
+16: 
+17: Uso:
+18:     python3 skill/executar_filtro.py            # todos os anos
+19:     python3 skill/executar_filtro.py 2014 2025  # intervalo inclusivo
+20: """
+21: 
+22: import json
+23: import csv
+24: import re
+25: import sys
+26: from datetime import datetime
+27: from pathlib import Path
+28: 
+29: BASE = Path(__file__).resolve().parent.parent
+30: JSON_NOTAS_DIR = Path("/workspaces/governanca-digital_mre/json-notas")
+31: FILTRAGEM_HEURISTICA_DIR = BASE / "resultados" / "filtragem-heuristica"
+32: FILTRAGEM_HEURISTICA_DIR.mkdir(parents=True, exist_ok=True)
+33: 
+34: # Temas centrais do contexto01.md. Cada um com variantes de mencao substantiva.
+35: TEMAS = {
+36:     "Governanca da Internet": [
+37:         "governança da internet", "governanca da internet", "internet governance",
+38:         "governança multissetorial", "governanca multissetorial", "multistakeholder",
+39:         "igf", "internet governance forum", "fórum de governança da internet",
+40:         "forum de governanca da internet", "icann", "marco civil da internet",
+41:         "marco civil", "lei 12.965", "neutralidade de rede", "neutralidade da rede",
+42:         "dominio .amazon", "domínio .amazon", "domínio amazon", ".amazon",
+43:     ],
+44:     "Governanca da Inteligencia Artificial": [
+45:         "inteligência artificial", "inteligencia artificial", "artificial intelligence",
+46:         "governança de ia", "governanca de ia", "governança de inteligência artificial",
+47:         "ai governance", "ética na ia", "ética em ia", "ética em inteligência artificial",
+48:         "pbia", "plano brasileiro de inteligência artificial", "machine learning",
+49:         "aprendizado de máquina", "deep learning", "algoritmo", "algoritmos",
+50:     ],
+51:     "Protecao de Dados e Privacidade": [
+52:         "lgpd", "lei geral de proteção de dados", "proteção de dados", "protecao de dados",
+53:         "dados pessoais", "privacidade", "autoridade nacional de proteção de dados",
+54:         "anpd", "governança de dados", "governanca de dados", "data governance",
+55:         "fluxo de dados", "fluxos de dados", "dados transfronteiriços",
+56:         "dados transfronteiros", "soberania de dados",
+57:     ],
+58:     "Soberania Digital": [
+59:         "soberania digital", "soberania tecnológica", "soberania tecnologica",
+60:         "independência digital", "independencia digital", "soberania nacional na internet",
+61:     ],
+62:     "Direitos Humanos Online": [
+63:         "direitos humanos online", "direitos humanos na internet",
+64:         "liberdade de expressão na internet", "liberdade de expressao na internet",
+65:         "censura na internet", "vigilância", "vigilancia", "espionagem", "snowden",
+66:         "pacto global digital", "global digital compact",
+67:         "pacto para o futuro", "pact for the future",
+68:     ],
+69:     "Ciberseguranca": [
+70:         "cibersegurança", "ciberseguranca", "segurança cibernética", "seguranca cibernetica",
+71:         "cybersecurity", "cibercrime", "crime cibernético", "crime cibernetico",
+72:         "ataque cibernético", "ataque cibernetico", "ransomware", "malware",
+73:         "segurança digital", "seguranca digital",
+74:     ],
+75:     "Infraestrutura e Tecnologias Digitais": [
+76:         "cabos submarinos", "data center", "data centers", "centro de dados",
+77:         "computação em nuvem", "computacao em nuvem", "cloud computing", "tecnologia 5g",
+78:         "rede 5g", "5g", "transformação digital", "transformacao digital",
+79:         "tecnologias digitais", "tecnologias digitais", "inovação tecnológica",
+80:     ],
+81:     "Economia e Comercio Digital": [
+82:         "economia digital", "economia digitale", "digital economy",
+83:         "comércio digital", "comercio digital", "digital trade", "digital commerce",
+84:         "comércio eletrônico", "comercio eletronico", "e-commerce", "eletronic commerce",
+85:         "facilitação do comércio eletrônico", "facilitacao do comercio eletronico",
+86:         "plataformas digitais", "plataforma digital", "economia de plataforma",
+87:     ],
+88:     "Multilateralismo e Foros de Governanca Digital": [
+89:         "multilateralismo digital", "onu governança digital", "governança global digital",
+90:         "governanca global digital", "global digital governance", "cooperação em governança digital",
+91:         "brics governança digital", "g20 governança digital", "foros de governança digital",
+92:     ],
+93: }
+94: 
+95: # Termos genericos que sozinhos nao caracterizam governanca digital (ruido)
+96: RUINOSO_SO = {"tecnologia", "tecnologias", "digital", "dados", "internet"}
+97: 
+98: # Termos fracos: sozinhos podem referir-se a contextos nao-digitais
+99: # (ex.: vigilancia epidemiologica, privacidade bancaria). Exigem coocorrencia
+100: # com um sinal digital no mesmo paragrafo para contarem como governanca digital.
+101: TERMOS_FRACOS = ["privacidade", "vigilância", "vigilancia", "dados pessoais"]
+102: SINAIS_DIGITAIS = [
+103:     "internet", "digital", "tecnologia", "ciber", "inteligência artificial",
+104:     "online", "domínio", "dominio", "software", "algoritmo", "rede", "web",
+105:     "nuvem", "cloud", "5g", "governança", "governanca", "multissetorial",
+106:     "icann", "igf", "marco civil", "lgpd", "espionagem", "snowden", "direitos humanos",
+107: ]
+108: 
+109: 
+110: def tem_sinal_digital(paragrafo):
+111:     p = normaliza(paragrafo)
+112:     return any(s in p for s in SINAIS_DIGITAIS)
+113: 
+114: 
+115: TERMOS_DESCARTAR = [
+116:     "calendário de eventos", "calendario de eventos", "agenda do ministro",
+117:     "agenda da ministra", "compromissos do ministro", "compromissos da ministra",
+118:     "visita de cortesia", "cerimônia de posse", "cerimonia de posse",
+119:     "credenciamento de imprensa", "credenciamento de jornalistas",
+120:     "solicitação de visto", "solicitacao de visto",
+121: ]
+122: 
+123: 
+124: def normaliza(t):
+125:     return (t or "").lower()
+126: 
+127: 
+128: def ano_de(data):
+129:     if not data:
+130:         return None
+131:     partes = data.strip().split("/")
+132:     return partes[-1] if len(partes) == 3 else None
+133: 
+134: 
+135: def eh_calendario(titulo, paragrafos):
+136:     txt = normaliza(titulo) + " " + normaliza(" ".join(paragrafos))
+137:     for t in TERMOS_DESCARTAR:
+138:         if t in txt:
+139:             return True
+140:     if len(paragrafos) <= 2:
+141:         if len(" ".join(paragrafos).strip()) < 200:
+142:             return True
+143:     return False
+144: 
+145: 
+146: def avaliar(nota):
+147:     """Retorna (pertinente: bool, temas: list, passagens: list)."""
+148:     titulo = nota.get("titulo", "").strip()
+149:     paragrafos = nota.get("paragrafos", []) or []
+150:     if not titulo or not paragrafos:
+151:         return False, [], []
+152:     if eh_calendario(titulo, paragrafos):
+153:         return False, [], []
+154: 
+155:     corpo = normaliza(" ".join(paragrafos))
+156: 
+157:     temas_validos = []
+158:     passagens = []
+159:     for tema, variantes in TEMAS.items():
+160:         tema_valido = False
+161:         for v in variantes:
+162:             if v not in corpo:
+163:                 continue
+164:             # Para cada paragrafo onde a variante ocorre, verifica se a
+165:             # mencao e substantiva (termos fracos exigem sinal digital).
+166:             for p in paragrafos:
+167:                 if v not in normaliza(p):
+168:                     continue
+169:                 fraco = v in TERMOS_FRACOS
+170:                 if fraco and not tem_sinal_digital(p):
+171:                     continue
+172:                 tema_valido = True
+173:                 if len(passagens) < 3:
+174:                     frag = p if len(p) <= 320 else p[:320] + "..."
+175:                     if frag not in passagens:
+176:                         passagens.append(frag)
+177:             if tema_valido:
+178:                 break
+179:         if tema_valido and tema not in temas_validos:
+180:             temas_validos.append(tema)
+181: 
+182:     if not temas_validos:
+183:         return False, [], []
+184: 
+185:     return True, temas_validos, passagens[:3]
+186: 
+187: 
+188: def gerar_justificativa(titulo, temas, passagens):
+189:     tema_map = {
+190:         "Governanca da Internet": "governança da internet",
+191:         "Governanca da Inteligencia Artificial": "governança da inteligência artificial",
+192:         "Protecao de Dados e Privacidade": "proteção de dados e privacidade",
+193:         "Soberania Digital": "soberania digital",
+194:         "Direitos Humanos Online": "direitos humanos no ambiente digital",
+195:         "Ciberseguranca": "cibersegurança",
+196:         "Infraestrutura e Tecnologias Digitais": "infraestrutura e tecnologias digitais",
+197:         "Multilateralismo e Foros de Governanca Digital": "multilateralismo em torno da governança digital",
+198:     }
+199:     legiveis = [tema_map.get(t, t) for t in temas]
+200:     base = (
+201:         f"A nota guarda relação direta e substantiva com a Governança Global Digital, "
+202:         f"tematizando {', '.join(legiveis)}. "
+203:     )
+204:     if passagens:
+205:         base += (
+206:             f"Traz informação qualitativa sobre o posicionamento, ações ou articulações "
+207:             f"do MRE nesse campo, útil à análise da política externa brasileira em "
+208:             f"governança digital no período coberto pelos dados."
+209:         )
+210:     else:
+211:         base += (
+212:             "Contém elementos relevantes para a pesquisa sobre o papel do MRE na "
+213:             "governança global digital."
+214:         )
+215:     return base
+216: 
+217: 
+218: def main():
+219:     modelo = "heuristico"
+220:     ini = int(sys.argv[1]) if len(sys.argv) > 1 else 0
+221:     fim = int(sys.argv[2]) if len(sys.argv) > 2 else 9999
+222: 
+223:     arquivos = sorted(JSON_NOTAS_DIR.glob("*.json"))
+224:     todas = []
+225:     analisadas = 0
+226:     descartadas = 0
+227: 
+228:     for arq in arquivos:
+229:         with open(arq, encoding="utf-8") as f:
+230:             dados = json.load(f)
+231:         inner = dados.get("_default", {})
+232:         for chave, nota in inner.items():
+233:             ano = ano_de(nota.get("data", ""))
+234:             try:
+235:                 if ano is None or not (ini <= int(ano) <= fim):
+236:                     continue
+237:             except (ValueError, TypeError):
+238:                 continue
+239:             analisadas += 1
+240:             pert, temas, passagens = avaliar(nota)
+241:             if pert:
+242:                 todas.append({
+243:                     "titulo": nota.get("titulo", "").strip(),
+244:                     "data": nota.get("data", "").strip(),
+245:                     "link": nota.get("link", "").strip(),
+246:                     "justificativa": gerar_justificativa(nota.get("titulo", ""), temas, passagens),
+247:                     "passagens": passagens,
+248:                     "temas": temas,
+249:                     "nota_original": nota,
+250:                 })
+251:             else:
+252:                 descartadas += 1
+253: 
+254:     # ordena por data
+255:     def ord_data(n):
+256:         m = re.search(r"(\d{2})/(\d{2})/(\d{4})", n["data"])
+257:         return (m.group(3), m.group(2), m.group(1)) if m else ("0000", "00", "00")
+258:     todas.sort(key=ord_data)
+259: 
+260:     ts = datetime.now().strftime("%Y-%m-%d")
+261:     csv_path = FILTRAGEM_HEURISTICA_DIR / f"filtragem_{modelo}-{ts}.csv"
+262:     with open(csv_path, "w", encoding="utf-8", newline="") as f:
+263:         w = csv.writer(f, delimiter=",", quotechar='"', quoting=csv.QUOTE_ALL)
+264:         w.writerow(["Titulo", "Data", "Link", "Justificativa", "Passagens_Relevantes"])
+265:         for n in todas:
+266:             w.writerow([n["titulo"], n["data"], n["link"], n["justificativa"],
+267:                         " | ".join(n["passagens"])])
+268: 
+269:     json_path = FILTRAGEM_HEURISTICA_DIR / f"json-filtragem-{modelo}-{ts}.json"
+270:     out = {"_default": {}}
+271:     for i, n in enumerate(todas, 1):
+272:         orig = n["nota_original"].copy()
+273:         orig["analise_filtragem"] = {
+274:             "temas_identificados": n["temas"],
+275:             "justificativa_selecao": n["justificativa"],
+276:             "passagens_relevantes": n["passagens"],
+277:         }
+278:         out["_default"][str(i)] = orig
+279:     with open(json_path, "w", encoding="utf-8") as f:
+280:         json.dump(out, f, ensure_ascii=False, indent=2)
+281: 
+282:     print(f"Anos: {ini}-{fim}")
+283:     print(f"Notas analisadas: {analisadas}")
+284:     print(f"Pertinentes: {len(todas)}")
+285:     print(f"Descartadas: {descartadas}")
+286:     print(f"CSV: {csv_path}")
+287:     print(f"JSON: {json_path}")
+288:     from collections import Counter
+289:     c = Counter(t for n in todas for t in n["temas"])
+290:     for t, q in c.most_common():
+291:         print(f"  {t}: {q}")
+292: 
+293: 
+294: if __name__ == "__main__":
+295:     main()
+
+(End of file - total 295 lines)
+</content>
+```
+
+**Tool: read**
+
+**Input:**
+```json
+{
+  "filePath": "/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/skill/skill_filtro.md"
+}
+```
+
+**Output:**
+```
+<path>/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/skill/skill_filtro.md</path>
+<type>file</type>
+<content>
+1: # skill_filtro.md — Filtro Heurístico de Notas à Imprensa do MRE
+2: 
+3: ## Identidade
+4: Filtro automático (sem LLM nesta etapa) para a pesquisa sobre **Governança
+5: Global Digital** (contexto em `contextos/contexto01.md`). O objetivo é selecionar
+6: as notas à imprensa do MRE que guardem relação direta e substantiva com o tema.
+7: 
+8: ## Como funciona
+9: O script `skill/executar_filtro.py` faz:
+10: 
+11: 1. **Pré-seleção por vocabulário substantivo** de governança digital (internet,
+12:    IA, dados, soberania digital, direitos online, cibersegurança, infraestrutura
+13:    digital, foros multissetoriais), com variantes de grafia.
+14: 2. **Critério qualitativo leve**: exige conexão direta no corpo do texto; termos
+15:    fracos (ex.: "privacidade") só contam se houver sinal digital no mesmo parágrafo.
+16: 3. **Descarte de calendários/agendas** (lista de termos + notas muito curtas).
+17: 4. Geração de **justificativa em linguagem natural** referenciando os temas
+18:    identificados e trechos da nota.
+19: 
+20: > Esta etapa é heurística (palavras-chave). A **avaliação ordinal (nota 1–5)**
+21: > é feita separadamente, por LLM, em `prompts/prompt01_llm.md`.
+22: 
+23: ## Execução
+24: ```bash
+25: python3 skill/executar_filtro.py            # todos os anos
+26: python3 skill/executar_filtro.py 2014 2025  # intervalo inclusivo
+27: ```
+28: 
+29: ## Saídas (em `resultados/`)
+30: - `filtragem_heuristico-[data].csv` — colunas: Titulo, Data, Link, Justificativa, Passagens_Relevantes
+31: - `jsons-filtrados/json-filtragem-heuristico-[data].json` — notas filtradas, no
+32:   formato `_default`, com bloco `analise_filtragem` (temas, justificativa, passagens).
+33: 
+34: Este JSON filtrado é a **entrada** da etapa ordinal semântica.
+
+(End of file - total 34 lines)
+</content>
+```
+
+**Tool: read**
+
+**Input:**
+```json
+{
+  "filePath": "/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/prompts/prompt01_llm.md"
+}
+```
+
+**Output:**
+```
+<path>/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/prompts/prompt01_llm.md</path>
+<type>file</type>
+<content>
+1: # prompt01_llm.md — Escala Ordinal Semântica (Opção A: o LLM lê de fato)
+2: 
+3: > Substitui a abordagem heurística de `prompt01.md` / `escalar_ordinal.py`.
+4: > A nota de 1 a 5 é atribuída pelo **julgamento qualitativo do modelo** a partir dos
+5: > parâmetros definidos pelo usuário — não por subtração de pesos de palavras.
+6: 
+7: ## Identidade do Agente
+8: 
+9: Você é um **especialista em RI e Governança Digital** realizando a quantificação
+10: qualitativa (escala ordinal 1–5) das notas já filtradas, segundo os parâmetros que o
+11: usuário definir. Você lê cada nota e atribui a nota com base no *sentido*, não em
+12: contagem de termos.
+13: 
+14: ## Princípios (OBRIGATÓRIOS)
+15: - **Leitura real dos `paragrafos`**: para cada nota, leia o campo **`paragrafos`** do
+16:   JSON de filtragem. Não julgue por título, resumo ou presença de termos
+17:   isolados. Se o JSON não trouxer o texto integral, recupere de
+18:   `/workspaces/governanca-digital_mre/json-notas` cruzando por título e data.
+19: - **Proibido pontuação por palavras** (ex.: dicionários "soberano"/"liberal" com pesos).
+20: - **Proibido justificativa por template**: escreva a justificativa com base no que a nota
+21:   efetivamente expressa, alinhando-a aos parâmetros do usuário.
+22: - Use **exclusivamente os parâmetros fornecidos pelo usuário** para atribuir/justificar.
+23: - Descarte qualitativamente calendários/agendas remanescentes.
+24: 
+25: ## Fluxo de Execução
+26: 
+27: ### Passo 1 — JSON de entrada
+28: 1. Liste apenas os arquivos em `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/resultados/filtragem-heuristica/json-filtragem-heuristico-*.json`.
+29: 2. Pergunte ao usuário qual JSON usar.
+30: 3. Carregue as notas e, para cada uma, **leia os `paragrafos`** (campo `paragrafos`).
+31:    Use `titulo`, `data`, `link` e `paragrafos` como base da avaliação.
+32: 
+33: ### Passo 2 — Parâmetros da escala (DEFINIDOS PELO USUÁRIO)
+34: Antes de avaliar qualquer nota:
+35: 1. **Identifique o modelo e versão** que você está usando (ex.: `gpt-4o-2024-08-06`,
+36:    `claude-3-5-sonnet-20241022`, `mimo-v2.5-free`). Use o padrão `modelo-versao`
+37:    (sem espaços, sem `/`) nos nomes dos arquivos de saída.
+38: 2. Pergunte os **parâmetros de 1 a 5**. Sugira como referência (não imponha) o eixo
+39:    Soberania Digital ↔ Baixa Intervenção Estatal.
+40: Registre **literalmente** as definições do usuário (irão para `Descricao_Nota`).
+41: Confirme antes de prosseguir. Você pode carregar um arquivo em
+42: `skill/parametros_escala.exemplo.json` como ponto de partida.
+43: 
+44: ### Passo 3 — Avaliação
+45: Para cada nota:
+46: 1. **Leia os `paragrafos`** (texto integral da nota) carregados do JSON de entrada.
+47: 2. Avalie o alinhamento da nota com os extremos definidos pelo usuário.
+48: 3. Atribua **uma nota de 1 a 5** pela proximidade do sentido com as definições.
+49: 4. Escreva **Justificativa** (2–3 frases) ligando o conteúdo aos parâmetros do usuário.
+50: 5. Selecione até 3 **Passagens_Relevantes** literais que sustentam a nota.
+51: 
+52: ### Passo 4 — Resultados
+53: Salve em `resultados/escalas-ordinais/`:
+54: 
+55: **CSV** `escala-ordinal_[modelo]-[versao]_[data].csv` (UTF-8, vírgula, aspas):
+56: | Titulo | Link | Data | Nota_Escala | Descricao_Nota | Justificativa | Passagens_Relevantes |
+57: 
+58: **JSON** `escala-ordinal-[modelo]-[versao]-[data].json`:
+59: lista de objetos com as mesmas chaves (use `ensure_ascii=False`, `indent=2`).
+60: 
+61: `Descricao_Nota` = definição **literal** fornecida pelo usuário para aquele valor.
+62: 
+63: ## Resumo ao usuário
+64: - Total avaliado; distribuição (quantas de cada nota); parâmetros usados.
+65: 
+66: ## Reprodutibilidade
+67: - `temperature=0`; nome do modelo+versão e data nos arquivos.
+68: - Mantenha o JSON de entrada para re-execução e auditoria.
+
+(End of file - total 68 lines)
+</content>
+```
+
+**Tool: read**
+
+**Input:**
+```json
+{
+  "filePath": "/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/prompts/prompt03_validar_escala.md"
+}
+```
+
+**Output:**
+```
+<path>/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/prompts/prompt03_validar_escala.md</path>
+<type>file</type>
+<content>
+1: # prompt03_validar_escala.md — Validação da Escala Ordinal por LLM (com Triangulação)
+2: 
+3: > **Posição no pipeline:** Etapa 3 — após a atribuição da escala ordinal (prompt01_llm.md, etapa 2).
+4: > Esta validação reexamina as notas que já receberam uma nota de 1 a 5 e verifica se
+5: > a atribuição está coerente com os parâmetros definidos pelo usuário, identificando
+6: > possíveis erros de classificação ou inconsistências.
+7: >
+8: > **Triangulação:** o LLM cruza informações do JSON de filtragem heurística (Etapa 1)
+9: > com o JSON de escala ordinal (Etapa 2) para uma validação mais robusta.
+10: 
+11: ## Identidade do Agente
+12: 
+13: Você é um **especialista em RI e Governança Digital** realizando a auditoria
+14: qualitativa da escala ordinal atribuída às notas filtradas. Você verifica se a nota
+15: de 1 a 5 atribuída a cada nota está alinhada com os parâmetros definidos pelo usuário
+16: e com o conteúdo efetivo dos `paragrafos`, **cruzando dados de dois JSONs**.
+17: 
+18: ## Princípios (OBRIGATÓRIOS)
+19: - **Leitura real dos `paragrafos`**: para cada nota, leia o campo **`paragrafos`** do
+20:   JSON de filtragem heurística (texto integral). Não julgue por título ou resumo.
+21: - **Triangulação de fontes**: cruze o JSON de escala ordinal com o JSON de filtragem
+22:   heurística para validar coerência. Use os metadados de filtragem (`classificado`,
+23:   `categoria`, `autoria`, `tipo_dado`, `pais`, `origem`) como sinal adicional.
+24: - **Coerência com parâmetros**: verifique se a nota atribuída está alinhada com as
+25:   definições fornecidas pelo usuário para cada valor da escala.
+26: - **Identificação de inconsistências**: detecte notas onde a justificativa não
+27:   condiz com a nota atribuída, ou onde o conteúdo dos paragrafos não sustenta
+28:   a classificação.
+29: - **Detecção de padrões**: identifique se notas com a mesma classificação heurística
+30:   (`classificado`) estão recebendo notas arbitrárias sem distinção de conteúdo.
+31: - **Justificativa própria**: escreva sua própria justificativa para a validação,
+32:   baseada no que a nota efetivamente expressa.
+33: - Em dúvida (nota genuinamente limítrofe), **mantenha** a classificação original
+34:   (viés conservador contra alterações desnecessárias).
+35: 
+36: ## Fluxo de Execução
+37: 
+38: ### Passo 1 — JSON de escala ordinal (entrada principal)
+39: 1. Liste os arquivos em `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/resultados/escalas-ordinais/`.
+40: 2. **Pergunte ao usuário qual JSON usar**, apresentando os arquivos
+41:    `escala-ordinal-[modelo]-[data].json` disponíveis.
+42: 3. Carregue as notas do campo `_default` ou da lista de objetos do arquivo escolhido.
+43:    Para cada nota, leia **`titulo`**, **`data`**, **`link`**, **`nota_escala`**,
+44:    **`descricao_nota`**, **`justificativa`**, **`passagens_relevantes`** e **`paragrafos`**.
+45: 
+46: ### Passo 1.5 — JSON de filtragem heurística (cruzamento)
+47: 1. Liste os arquivos em `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/resultados/filtragem-heuristica/json-filtragem-heuristico-*.json`.
+48: 2. **Pergunte ao usuário qual JSON usar** (deve corresponder ao período da escala ordinal).
+49: 3. Para cada nota da escala ordinal, **localize o registro correspondente** no JSON de filtragem
+50:    usando `titulo` + `data` (ou `link` como critério secundário).
+51: 4. Associe à nota os campos adicionais do JSON de filtragem:
+52:    - `classificado` — classificação heurística (ex.: "notícias institucionais")
+53:    - `categoria` — categorias atribuídas
+54:    - `autoria` — autor da nota
+55:    - `tipo_dado` — tipo (aberto, etc.)
+56:    - `pais` / `origem` — contexto geográfico e institucional
+57:    - `paragrafos` — texto integral completo (para cotejamento direto)
+58: 
+59: ### Passo 2 — Parâmetros da escala (USUÁRIO CONFIRMA)
+60: 1. **Pergunte ao usuário quais foram os parâmetros usados** na escala ordinal.
+61:    Sugira como referência (não imponha) o eixo
+62:    Soberania Digital ↔ Baixa Intervenção Estatal.
+63: 2. Registre **literalmente** as definições do usuário (irão para `Descricao_Nota`).
+64: 3. Confirme antes de prosseguir. Você pode usar como referência o arquivo em
+65:    `skill/parametros_escala.exemplo.json`.
+66: 
+67: ### Passo 3 — Validação com Triangulação
+68: Para cada nota:
+69: 1. **Leia os `paragrafos` integrais** do JSON de filtragem (texto completo da nota).
+70: 2. Compare a **nota atribuída** (`nota_escala`) com o conteúdo efetivo da nota.
+71: 3. **Verifique coerência com a classificação heurística** (`classificado`):
+72:    - A nota ordinal é consistente com o tipo de nota classificado?
+73:    - Ex.: notas classificadas como "agendas/calendários" deveriam ter nota baixa
+74:      ou ter sido descartadas — se não foram, sinalize.
+75: 4. **Detecte padrões** entre notas da mesma classificação heurística:
+76:    - Todas as notas de um mesmo `classificado` receberam a mesma nota ordinal
+77:      sem distinção de conteúdo? Se sim, sinalize como possível falha de granularidade.
+78: 5. Use os metadados (`autoria`, `origem`, `tipo_dado`) como **sinal adicional**
+79:    para julgar se a nota é relevante ao eixo Soberania Digital ↔ Baixa Intervenção Estatal.
+80: 6. Verifique se a **justificativa** original está alinhada com a nota e com os parâmetros.
+81: 7. Decida: **Coerente** (classificação correta) ou **Inconsistente** (possível erro).
+82: 8. Para cada nota inconsistente, registre:
+83:    - **Motivo** da inconsistência
+84:    - **Nota sugerida** (se aplicável)
+85:    - **Justificativa da alteração** (se aplicável)
+86: 9. Escreva sua **própria justificativa** para a validação (2–3 frases),
+87:    referenciando tanto o conteúdo quanto a classificação heurística quando relevante.
+88: 
+89: ### Passo 4 — Resultados
+90: Salve em `/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/resultados/verificacoes-ordinal/`:
+91: 
+92: - **JSON** `validacao-escala-[modelo]-[data].json` — com:
+93:   - `metadata` (modelo, versão, data, arquivo de escala ordinal original,
+94:     arquivo de filtragem heurística usado, contexto01.md)
+95:   - `parametros_escala`: definições literais fornecidas pelo usuário
+96:   - `resumo`: `total_notas_avaliadas`, `notas_coerentes`, `notas_inconsistentes`,
+97:     número de notas alteradas
+98:   - `notas_coerentes`: lista das notas **mantidas**, contendo `titulo`, `data`, `link`,
+99:     `nota_escala`, `descricao_nota`, `justificativa_original`, `justificativa_validacao`,
+100:     `passagens_relevantes`, `paragrafos` e `classificado_heuristico`
+101:   - `notas_inconsistentes`: lista com `titulo`, `data`, `link`, `nota_escala_original`,
+102:     `nota_escala_sugerida`, `motivo`, `justificativa_alteracao`, `paragrafos`,
+103:     `classificado_heuristico`
+104:   - `padroes_identificados` e `recomendacoes`
+105: 
+106: - **Markdown** `relatorio-validacao-escala-[modelo]-[data].md` — relatório legível
+107:   com resumo executivo, distribuição de notas (antes/depois), lista de inconsistências
+108:   identificadas e recomendações.
+109: 
+110: - **CSV** `validacao-escala-[modelo]-[data].csv` — planilha com todas as notas avaliadas,
+111:   colunas: `titulo`, `data`, `link`, `nota_escala_original`, `nota_escala_sugerida`,
+112:   `classificacao` (Coerente / Inconsistente), `motivo` (vazio se coerente),
+113:   `justificativa_validacao`, `classificado_heuristico`. Separador: `;`, encoding UTF-8
+114:   com BOM para compatibilidade com Excel em PT-BR.
+115: 
+116: ## Consistência de contagem
+117: - `notas_coerentes` + `notas_inconsistentes` = `total_notas_avaliadas`.
+118: - Confira o total ao final e reporte ao usuário.
+119: 
+120: ## Resumo ao usuário
+121: - Total de notas avaliadas, quantas coerentes, quantas inconsistentes (com percentual).
+122: - Distribuição das notas antes e depois da validação (se houve alterações).
+123: - Principais padrões de inconsistência identificados (incluindo padrões por classificação heurística).
+124: 
+125: ## Reprodutibilidade
+126: - `temperature=0`; nome do modelo+versão e data nos arquivos.
+127: - Mantenha os JSONs de entrada (escala ordinal e filtragem heurística) e o JSON de saída (validação) para auditoria.
+
+(End of file - total 127 lines)
+</content>
+```
+
+---
+
+## Assistant (Build · MiMo V2.5 Free · 28.3s)
+
+_Thinking:_
+
+Now let me also read the README and COMO_USAR files, and check the context file to understand the full picture.
+
+**Tool: read**
+
+**Input:**
+```json
+{
+  "filePath": "/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/README.md"
+}
+```
+
+**Output:**
+```
+<path>/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/README.md</path>
+<type>file</type>
+<content>
+1: # Agente de Classificação de Notas à Imprensa do MRE
+2: 
+3: Pipeline em **três etapas**:
+4: 
+5: 1. **Filtragem heurística** das notas à imprensa (seleção por tema de
+6:    Governança Global Digital) — automática, via script.
+7: 2. **Avaliação ordinal semântica (nota 1–5) por LLM** — o modelo relê os
+8:    `paragrafos` e atribui nota segundo parâmetros definidos pelo usuário.
+9: 3. **Validação da Escala Ordinal por LLM (com Triangulação)** — o modelo
+10:    cruza o JSON de escala ordinal (Etapa 2) com o JSON de filtragem heurística
+11:    (Etapa 1), verificando coerência com os parâmetros, com os metadados de
+12:    filtragem (`classificado`, `categoria`, `autoria`) e identificando possíveis
+13:    inconsistências e padrões.
+14: 
+15: ## Estrutura
+16: - `contextos/contexto01.md` — contexto de pesquisa (Governança Global Digital).
+17: - `skill/executar_filtro.py` — filtragem heurística (etapa 1).
+18: - `skill/skill_filtro.md` — documentação da filtragem heurística.
+19: - `skill/validar_filtragem.py` — validação heurística **legada**.
+20: - `prompts/prompt01_llm.md` — skill de **avaliação ordinal por LLM** (etapa 2).
+21: - `prompts/prompt03_validar_escala.md` — skill de **validação da escala ordinal por LLM, com triangulação** (etapa 3).
+22: - `skill/parametros_escala.exemplo.json` — exemplo de parâmetros 1–5.
+23: - `resultados/` — saídas de cada etapa.
+24: 
+25: ## Como executar
+26: 
+27: ### Etapa 1 — Filtragem heurística
+28: ```bash
+29: python3 skill/executar_filtro.py            # todos os anos
+30: python3 skill/executar_filtro.py 2014 2025  # intervalo de anos
+31: ```
+32: Gera `resultados/filtragem_heuristico-[data].csv` e
+33: `resultados/jsons-filtrados/json-filtragem-heuristico-[data].json`.
+34: 
+35: ### Etapa 2 — Escala ordinal (LLM)
+36: Peça ao agente para seguir `prompts/prompt01_llm.md`. Ele lerá os `paragrafos`
+37: do JSON de filtragem heurística, perguntará os parâmetros 1–5 e gerará em
+38: `resultados/`:
+39: - `escala-ordinal_[modelo]-[data].csv`
+40: - `escalas-ordinais/escala-ordinal-[modelo]-[data].json`
+41: 
+42: ### Etapa 3 — Validação da Escala Ordinal (LLM, com Triangulação)
+43: Peça ao agente para seguir `prompts/prompt03_validar_escala.md`. Ele lerá o JSON
+44: da escala ordinal **e** o JSON de filtragem heurística correspondente, cruzando
+45: metadados (`classificado`, `categoria`, `autoria`) com a nota atribuída. Perguntará
+46: os parâmetros usados, verificará a coerência de cada classificação e gerará em
+47: `resultados/verificacoes-ordinal/`:
+48: - `validacao-escala-[modelo]-[data].json` — dados completos da validação
+49: - `relatorio-validacao-escala-[modelo]-[data].md` — relatório legível
+50: - `validacao-escala-[modelo]-[data].csv` — planilha com todas as notas avaliadas
+
+(End of file - total 50 lines)
+</content>
+```
+
+**Tool: read**
+
+**Input:**
+```json
+{
+  "filePath": "/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/COMO_USAR.md"
+}
+```
+
+**Output:**
+```
+<path>/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/COMO_USAR.md</path>
+<type>file</type>
+<content>
+1: # Como usar o Agente de Classificação de Notas à Imprensa do MRE
+2: 
+3: Este agente processa as notas à imprensa do MRE (em `/workspaces/governanca-digital_mre/json-notas`)
+4: para a pesquisa sobre **Governança Global Digital**. O fluxo tem **três etapas**:
+5: 
+6: 1. **Filtragem heurística** — seleciona as notas pertinentes ao tema (script).
+7: 2. **Escala ordinal semântica (1–5)** — o LLM lê os `paragrafos` de cada nota e atribui nota segundo parâmetros que você define (skill para o modelo).
+8: 3. **Validação da Escala Ordinal (com Triangulação)** — o modelo cruza o JSON de escala ordinal com o JSON de filtragem heurística, verificando coerência com os parâmetros, metadados de filtragem e identificando possíveis inconsistências.
+9: 
+10: ---
+11: 
+12: ## Pré-requisitos
+13: - Python 3 instalado.
+14: - As notas de entrada em `/workspaces/governanca-digital_mre/json-notas`.
+15: - O contexto de pesquisa em `contextos/contexto01.md`.
+16: 
+17: ---
+18: 
+19: ## Etapa 1 — Filtragem heurística
+20: 
+21: ```bash
+22: cd /workspaces/governanca-digital_mre/agente-classificador-notas-LLM
+23: python3 skill/executar_filtro.py            # todos os anos disponíveis
+24: python3 skill/executar_filtro.py 2014 2025  # intervalo de anos (inclusivo)
+25: ```
+26: 
+27: **Saídas** (em `resultados/`):
+28: - `filtragem_heuristico-[data].csv` — colunas: Titulo, Data, Link, Justificativa, Passagens_Relevantes
+29: - `jsons-filtrados/json-filtragem-heuristico-[data].json` — notas filtradas (com `paragrafos` e `analise_filtragem`)
+30: 
+31: ---
+32: 
+33: ## Etapa 2 — Escala ordinal semântica (LLM)
+34: 
+35: Esta etapa é executada pelo **modelo de linguagem** (o agente), não por script.
+36: Peça para o agente seguir a skill:
+37: 
+38: > "Siga `prompts/prompt01_llm.md`"
+39: 
+40: O agente então:
+41: 1. Lista `resultados/filtragem-heuristica/` e pergunta qual JSON usar.
+42: 2. Pergunta os **parâmetros da escala 1–5**. Exemplo de eixo sugerido (pode ser substituído):
+43:    - **1** — Soberania Digital: soberania do Estado, garantias democráticas, direitos fundamentais, multilateralismo, multissetorialismo
+44:    - **2** — Predominantemente Soberanista: foco em soberania/direitos, com alguma abertura para inovação
+45:    - **3** — Modelo Misto: equilíbrio entre soberania/direitos e desenvolvimento/inovação
+46:    - **4** — Predominantemente Liberal: foco em inovação/mercado, com alguma regulação
+47:    - **5** — Baixa Intervenção Estatal: inovação livre, autorregulação, lógica mercantil
+48: 3. **Lê os `paragrafos`** de cada nota e atribui uma nota de 1 a 5, com justificativa própria
+49:    e até 3 passagens literais.
+50: 4. Gera (em `resultados/`):
+51:    - `escala-ordinal_[modelo]-[data].csv` — Titulo, Link, Data, Nota_Escala, Descricao_Nota, Justificativa, Passagens_Relevantes
+52:    - `escalas-ordinais/escala-ordinal-[modelo]-[data].json`
+53: 
+54: ---
+55: 
+56: ## Etapa 3 — Validação da Escala Ordinal (LLM, com Triangulação)
+57: 
+58: Esta etapa é executada pelo **modelo de linguagem** (o agente), não por script.
+59: Peça para o agente seguir a skill:
+60: 
+61: > "Siga `prompts/prompt03_validar_escala.md`"
+62: 
+63: O agente então:
+64: 1. Lista `resultados/escalas-ordinais/` e pergunta qual JSON usar (escala ordinal).
+65: 2. Lista `resultados/filtragem-heuristica/` e pergunta qual JSON usar (filtragem heurística).
+66: 3. **Cruza** cada nota da escala ordinal com o registro correspondente no JSON de filtragem
+67:    (por `titulo` + `data`), associando metadados como `classificado`, `categoria`, `autoria`.
+68: 4. Pergunta os **parâmetros da escala 1–5** que foram usados na classificação original.
+69: 5. **Lê os `paragrafos` integrais** do JSON de filtragem e verifica se a nota atribuída está
+70:    coerente com o conteúdo, com os metadados de filtragem e com os parâmetros definidos.
+71: 6. **Detecta padrões**: notas da mesma classificação heurística recebendo notas sem distinção.
+72: 7. Identifica **inconsistências** (notas onde a classificação não condiz com o conteúdo).
+73: 8. Gera em `resultados/verificacoes-ordinal/`:
+74:    - `validacao-escala-[modelo]-[data].json` — dados completos da validação (inclui `classificado_heuristico`)
+75:    - `relatorio-validacao-escala-[modelo]-[data].md` — relatório legível
+76:    - `validacao-escala-[modelo]-[data].csv` — planilha com todas as notas avaliadas
+77: 
+78: ---
+79: 
+80: ## Estrutura de arquivos
+81: 
+82: ```
+83: agente-classificador-notas-LLM/
+84: ├── README.md                      # visão geral do pipeline
+85: ├── COMO_USAR.md                   # este guia
+86: ├── contextos/
+87: │   └── contexto01.md              # contexto de pesquisa (Governança Global Digital)
+88: ├── skill/
+89: │   ├── executar_filtro.py         # Etapa 1 (filtragem heurística)
+90: │   ├── skill_filtro.md            # documentação da Etapa 1
+91: │   ├── validar_filtragem.py       # validação heurística (legada)
+92: │   └── parametros_escala.exemplo.json  # exemplo de parâmetros 1–5
+93: ├── prompts/
+94: │   ├── prompt01_llm.md                # Etapa 2 (escala ordinal por LLM)
+95: │   └── prompt03_validar_escala.md     # Etapa 3 (validação da escala ordinal, com triangulação)
+96: └── resultados/
+97:     ├── filtragem_heuristico-[data].csv
+98:     ├── jsons-filtrados/json-filtragem-heuristico-[data].json
+99:     ├── filtragem-heuristica/json-filtragem-heuristico-[data].json
+100:     ├── escalas-ordinais/              # saídas da Etapa 2
+101:     └── verificacoes-ordinal/          # saídas da Etapa 3
+102: ```
+103: 
+104: ---
+105: 
+106: ## Fluxo resumido
+107: 
+108: ```bash
+109: # 1) Filtragem
+110: python3 skill/executar_filtro.py 2014 2025
+111: 
+112: # 2) Escala ordinal (pedir ao agente/LLM)
+113: #    "Siga prompts/prompt01_llm.md"
+114: 
+115: # 3) Validação da escala ordinal — com triangulação (pedir ao agente/LLM)
+116: #    "Siga prompts/prompt03_validar_escala.md"
+117: ```
+118: 
+119: Pronto: de ~5.169 notas originais chega-se a um conjunto refinado e quantificado
+120: qualitativamente na escala ordinal 1–5, com validação de coerência.
+
+(End of file - total 120 lines)
+</content>
+```
+
+**Tool: read**
+
+**Input:**
+```json
+{
+  "filePath": "/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/skill/parametros_escala.exemplo.json"
+}
+```
+
+**Output:**
+```
+<path>/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/skill/parametros_escala.exemplo.json</path>
+<type>file</type>
+<content>
+1: {
+2:   "descricoes": {
+3:     "1": "Soberania Digital - Soberania do Estado, garantias democráticas, direitos fundamentais, multilateralismo, multissetorialismo",
+4:     "2": "Predominantemente Soberanista - Foco principal na soberania e direitos, com alguma abertura para inovação",
+5:     "3": "Modelo Misto - Equilíbrio entre soberania/direitos e desenvolvimento/inovação (não puramente mercantil)",
+6:     "4": "Predominantemente Liberal - Foco principal na inovação e abertura de mercado, com alguma regulação estatal",
+7:     "5": "Baixa Intervenção Estatal - Inovação livre, autorregulação, lógica mercantil"
+8:   }
+9: }
+
+(End of file - total 9 lines)
+</content>
+```
+
+**Tool: read**
+
+**Input:**
+```json
+{
+  "filePath": "/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/contextos/contexto01.md"
+}
+```
+
+**Output:**
+```
+<path>/workspaces/governanca-digital_mre/agente-classificador-notas-LLM/contextos/contexto01.md</path>
+<type>file</type>
+<content>
+1: # Contexto de Pesquisa: O Posicionamento do MRE em Relação às Discussões sobre Governança Global Digital (2014-2025)
+2: 
+3: ## Informações da Pesquisa
+4: 
+5: - **Autora**: Juliana Borduchi de Freitas
+6: - **Orientador**: Prof. Dr. Marcelo Passini Mariano
+7: - **Instituição**: Universidade Estadual Paulista (UNESP) - Câmpus de Franca
+8: - **Programa**: PIBIC (Programa Institucional de Bolsas de Iniciação Científica) - Edital PROPe Nº 08/2025
+9: - **Laboratório**: LANTRI - Laboratório de Novas Tecnologias e Pesquisa em Relações Internacionais (UNESP)
+10: 
+11: ---
+12: 
+13: ## Tema da Pesquisa (Escopo da Filtragem)
+14: 
+15: O tema desta pesquisa é a **Governança Global Digital** e tudo o que ela envolve. Isso abrange, de forma não exclusiva, temas como a **internet** (governança da internet, multissetorialismo, domínios, protocolos), a **Inteligência Artificial** (governança de IA, ética, regulação), os **dados** (proteção de dados, fluxos transfronteiriços, soberania digital, privacidade), as **tecnologias digitais** e suas implicações para as relações internacionais, direitos humanos e cooperação global, bem como a **economia digital**, o **comércio digital** e o **comércio eletrônico** — isto é, a dimensão econômica e comercial do ambiente digital (fluxos digitais, facilitação do comércio eletrônico, disciplinas de comércio digital em fóruns como a OMC, plataformas digitais, cabos submarinos, conectividade e infraestrutura digital de suporte ao comércio).
+16: 
+17: **Objetivo da filtragem:** o agente deve selecionar apenas as notas à imprensa que guardem relação, direta ou substantiva, com a Governança Global Digital e com os temas que a compõem (internet, IA, dados, outras tecnologias, economia digital, comércio digital e comércio eletrônico). Notas que não tratarem, ainda que de forma incidental, de nenhum desses temas devem ser desconsideradas.
+18: 
+19: ---
+20: 
+21: ## Questão Central da Pesquisa
+22: 
+23: **Como tem se dado o posicionamento do Ministério das Relações Exteriores (MRE) do Brasil em relação à Governança Global Digital após o Marco Civil da Internet, no período que compreende os anos de 2014 a 2025?**
+24: 
+25: ---
+26: 
+27: ## Conceitos Fundamentais
+28: 
+29: ### Governança Global
+30: Exercício de autoridade através de fronteiras nacionais, normas e regras admitidas para além do Estado-nação, justificados por bens comuns ou problemas transnacionais (Zürn, 2018). Pode ser compreendida como um sistema composto por padrões, princípios, normas, regras e/ou costumes (formais ou informais) que guiam as ações de atores das relações internacionais.
+31: 
+32: ### Governança Global Digital
+33: Cooperação global para atingir benefícios econômicos e lidar com desafios das transformações digitais, compreendendo questões como a internet e o fluxo de dados transfronteiriços (Jia; Chen, 2022). Corresponde às tentativas de governança global das ferramentas tecnológicas digitais.
+34: 
+35: ### Governança da Internet
+36: Desenvolvimento e aplicação por Governos, setor privado e sociedade civil, em seus respectivos papéis, de princípios, normas, regras, processos de tomadas de decisão e programas compartilhados que definem a evolução e uso da internet (WGIG, 2005). Caráter **multissetorial** - pluralidade de atores afetados para além dos estatais.
+37: 
+38: ### Governança da Inteligência Artificial
+39: Sistema de processos, regras, práticas e ferramentas tecnológicas aplicadas para garantir um uso de tecnologias de IA por organizações que estejam em concordância com as estratégias, objetivos e valores da instituição, além de seguir requisitos legais e atender a princípios éticos (Mäntymäki et al., 2022).
+40: 
+41: ### Economia Digital, Comércio Digital e Comércio Eletrônico
+42: Dimensão econômica e comercial do ambiente digital. Abrange a **economia digital** (produção e transação mediadas por tecnologias digitais), o **comércio digital** e o **comércio eletrônico** (venda de bens e serviços pela internet), bem como temas conexos de governança global digital de cunho econômico: facilitação do comércio eletrônico em fóruns como a OMC, disciplinas de *digital trade*, plataformas digitais, cabos submarinos, conectividade e infraestrutura digital de suporte ao comércio. No âmbito do MRE, inclui posicionamentos brasileiros sobre regulação e facilitação do comércio digital, soberania e fluxos de dados transfronteiriços com finalidade comercial, e acordos que envolvam a economia digital.
+43: 
+44: ---
+45: 
+46: ## Marcos Temporais Relevantes (2013-2025)
+47: 
+48: | Ano | Marco | Descrição |
+49: |-----|-------|-----------|
+50: | 2013 | Caso Snowden | Revelação de espionagem dos EUA, monitoramento de Dilma Rousseff e Angela Merkel. Motivou ações de regulação digital no Brasil e mundo. |
+51: | 2014 | Marco Civil da Internet | Lei 12.965 - estabelece direito à cidadania nos cenários digitais, diversidade e liberdade de expressão na internet. |
+52: | 2018 | LGPD | Lei Geral de Proteção de Dados Pessoais - trata de proteção de dados pessoais, direitos de liberdade e privacidade. |
+53: | 2018 | ANPD | Criação da Autoridade Nacional de Proteção de Dados - órgão central de implementação da LGPD. |
+54: | 2019 | Disputa domínio ".Amazon" | Brasil opõe-se à concessão exclusiva do domínio à Amazon Inc pelo ICANN, defendendo participação dos países da OTCA. |
+55: | 2024 | Pacto Global Digital | Adotado por Estados-membros da ONU como anexo do Pacto para o Futuro - vincula governos a respeitar direitos humanos online. |
+56: | 2024 | Suspensão do X no Brasil | STF suspende o X (antigo Twitter) após Elon Musk descumprir ordens judiciais e artigo 11 do Marco Civil. |
+57: | 2025 | PBIA 2024-2028 | Plano Brasileiro de Inteligência Artificial - promove desenvolvimento e uso de IA com proteção de direitos e soberania nacional. |
+58: 
+59: ---
+60: 
+61: ## Posicionamento do MRE
+62: 
+63: ### Características Identificadas na Pesquisa
+64: 
+65: 1. **Defesa da Soberania Digital**: Proteção da soberania nacional e dos direitos dos cidadãos no ambiente digital
+66: 2. **Abordagem Multilateral**: Defesa de que a ONU deve estar no centro das discussões sobre governança digital
+67: 3. **Governança Multissetorial**: Participação de governos, sociedade civil e setor privado nos processos de decisão
+68: 4. **Proteção de Direitos Humanos**: Respeito ao direito internacional e direitos humanos online
+69: 5. **Cooperação Internacional**: Engajamento em foros e instituições internacionais (IGF, ICANN, ONU, BRICS)
+70: 
+71: ### Papel do MRE na Política Externa Brasileira (PEB)
+72: 
+73: - Historicamente, o MRE (Itamaraty) foi o principal responsável pela formulação da PEB
+74: - Caráter de "insulamento" relativo, com poder de agenda
+75: - Capacidade de ação e coordenação da política externa do país
+76: - Profissionalização precoce do corpo diplomático
+77: 
+78: 
+79: ## Metodologia da Pesquisa
+80: 
+81: ### Fonte de Dados
+82: - Notas à imprensa do MRE obtidas em formato JSON
+83: - Período: 2014 a 2025
+84: - Base: `BD_DE_LATAM_BRA_GOVFEDERAL_MRE_NOTAS_IMPRENSA`
+85: 
+86: ### Abordagem Metodológica
+87: - Análise qualitativa e interpretativa de documentos oficiais
+88: - Exploração de matérias jornalísticas de diferentes veículos
+89: - Análise de notas à imprensa e discursos dos ministros das relações exteriores
+90: - Construção de gráficos para visualização dos dados
+91: - Princípio: avaliação similar à que um humano faria ao analisar qualitativamente as informações
+92: 
+93: ---
+94: 
+95: ## Referências Bibliográficas Principais
+96: 
+97: - Zürn, M. (2018). A theory of global governance
+98: - Rosenau, J. N. (2000). Governança, ordem e transformação na política mundial
+99: - Ikenberry, G. J. (2011). Liberal leviathan
+100: - Keohane, R. O.; Nye, J. S. (2002). Governance in a globalizing world
+101: - WGIG (2005). Report of the Working Group on Internet Governance
+102: - Jia, K.; Chen, S. (2022). Global digital governance
+103: - Mäntymäki et al. (2022). Defining organizational AI governance
+104: - Santoro, M.; Borges, B. (2017). Brazilian foreign policy towards internet governance
+105: - Pigatto, J. T. (2024). Governança global da internet
+106: - Lima, M. R. S. (2005). Aspiração internacional e política externa
+107: - Pinheiro, L. (2010). Política externa brasileira
+108: - Faria, C. A. P. (2012). O Itamaraty e a política externa brasileira
+109: 
+110: 
+
+(End of file - total 110 lines)
+</content>
+```
+
+---
+
+## Assistant (Build · MiMo V2.5 Free · 35.0s)
+
+_Thinking:_
+
+Now I have a comprehensive understanding of both the existing project and the new data. Let me also quickly verify the JSON structure of the discursos files by reading one directly.
+
+Agora tenho uma visão completa. Vou criar o plano de adaptação.
+
+**Tool: todowrite**
+
+**Input:**
+```json
+{
+  "todos": [
+    {
+      "content": "Criar estrutura de pastas do novo projeto agente-discursos-llm",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "content": "Criar contexto01.md adaptado para discursos/artigos/entrevistas",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "content": "Adaptar executar_filtro.py para novos JSONs (campo categoria, extra_01, paragrafos maiores)",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "content": "Criar skill_filtro.md documentando a nova filtragem",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "content": "Adaptar prompt01_llm.md para perguntar tipo de arquivo (discurso/artigo/entrevista)",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "content": "Adaptar prompt03_validar_escala.md para o novo contexto",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "content": "Criar parametros_escala.exemplo.json atualizado",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "content": "Criar README.md do novo projeto",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "content": "Criar COMO_USAR.md do novo projeto",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "content": "Testar executar_filtro.py com os novos JSONs",
+      "status": "pending",
+      "priority": "high"
+    }
+  ]
+}
+```
+
+**Output:**
+```
+[
+  {
+    "content": "Criar estrutura de pastas do novo projeto agente-discursos-llm",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "Criar contexto01.md adaptado para discursos/artigos/entrevistas",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "Adaptar executar_filtro.py para novos JSONs (campo categoria, extra_01, paragrafos maiores)",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "Criar skill_filtro.md documentando a nova filtragem",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "content": "Adaptar prompt01_llm.md para perguntar tipo de arquivo (discurso/artigo/entrevista)",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "Adaptar prompt03_validar_escala.md para o novo contexto",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "Criar parametros_escala.exemplo.json atualizado",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "content": "Criar README.md do novo projeto",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "content": "Criar COMO_USAR.md do novo projeto",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "content": "Testar executar_filtro.py com os novos JSONs",
+    "status": "pending",
+    "priority": "high"
+  }
+]
+```
+
+---
+
+## Assistant (Build · MiMo V2.5 Free)
+
+---
+
